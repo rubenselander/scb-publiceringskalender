@@ -1,0 +1,38 @@
+name: Update calendar data
+
+on:
+  schedule:
+    - cron: "17 3 2 * *"   # 03:17 UTC on the 2nd of every month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch
+        run: |
+          # update.py saves progress as it goes, so a retry continues where the last attempt stopped
+          for attempt in 1 2 3; do
+            python3 update.py && exit 0
+            sleep 300
+          done
+          exit 1
+
+      - name: Commit
+        if: always()   # also keep the progress of a failed run
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update calendar data"
+          git push

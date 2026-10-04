@@ -20,13 +20,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fetch
-        run: |
-          # update.py saves progress as it goes, so a retry continues where the last attempt stopped
-          for attempt in 1 2 3; do
-            python3 update.py && exit 0
-            sleep 300
-          done
-          exit 1
+        run: python3 fetch.py
+
+      - name: Parse
+        if: always()   # also publish what a failed fetch got
+        run: python3 parse.py
 
       - name: Commit
         if: always()   # also keep the progress of a failed run

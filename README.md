@@ -7,6 +7,9 @@ The complete contents of SCB's [publiceringskalender](https://www.scb.se/hitta-s
 |---|---|
 | [`data/calendar.csv`](data/calendar.csv) | one row per calendar entry; `forms` joined with ` \| ` |
 | [`data/calendar.jsonl`](data/calendar.jsonl) | same rows, one JSON object per line; `forms` is a list |
+| [`data/raw/`](data/raw) | every calendar row as the HTML the calendar served, one file per year |
+| [`data/unparsed.jsonl`](data/unparsed.jsonl) | rows that could not be turned into columns (normally empty) |
+| [`data/gaps.json`](data/gaps.json) | date ranges where the calendar has more rows than it would show |
 | [`data/state.json`](data/state.json) | when the data was last refreshed |
 
 Raw URLs:
@@ -32,10 +35,19 @@ Rows are exactly what the calendar shows, including a few entries with placehold
 
 ## How it updates
 
-[`update.py`](update.py) (standard library only) is run by a
-[scheduled GitHub Action](.github/workflows/update.yml) on the 2nd of every month. Each run
+A [scheduled GitHub Action](.github/workflows/update.yml) runs two scripts (standard library
+only) on the 2nd of every month. [`fetch.py`](fetch.py) copies the calendar's rows into `data/raw/`
+without interpreting them, and [`parse.py`](parse.py) rebuilds the CSV and JSONL from those, so
+the output format can be changed without fetching anything again. Each run
 refetches everything dated from the day before the previous run up to the last planned
 publication and replaces that date range in the files; rows for already published dates are
 left as they are. Earlier versions of the files are in the git history.
 
 If a run fails, what it fetched so far is committed and the next run continues from there.
+
+## Known holes
+
+A few calendar entries cannot be displayed by SCB's own site: any result page that would contain
+one comes back empty. The rows around such an entry are still collected, and the entry itself is
+recorded in `data/gaps.json` as `from`/`to` (dates), `expected` (rows the calendar counts) and
+`retrieved` (rows it would show).

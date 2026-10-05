@@ -58,11 +58,14 @@
    "https://www.skogsstyrelsen.se/statistik/"
   ],
   "follow": [
-   "^https://www\\.skogsstyrelsen\\.se/statistik/statistik-efter-amne/[^/?#]+/$",
-   "^https://www\\.skogsstyrelsen\\.se/statistik/[^/?#]+/$"
+   "^https://www\\.skogsstyrelsen\\.se/statistik/[^/?#]+/([^/?#]+/)?$"
   ],
   "max_depth": 2,
-  "max_pages": 150
+  "max_pages": 200,
+  "skip": [
+   "/statistikdatabas/",
+   "/temaomraden/"
+  ]
  },
  {
   "name": "slu",
@@ -80,25 +83,22 @@
   "name": "bra",
   "agency": "Brottsförebyggande rådet",
   "start": [
-   "https://bra.se/statistik.html"
+   "https://bra.se/statistik"
   ],
   "follow": [
-   "^https://bra\\.se/statistik/[^?#]+\\.html$"
+   "^https://bra\\.se/statistik/[^?#]+$"
   ],
-  "max_depth": 2,
-  "max_pages": 200
+  "max_depth": 3,
+  "max_pages": 300
  },
  {
   "name": "jordbruksverket",
   "agency": "Statens jordbruksverk",
   "start": [
-   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik",
-   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter",
-   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik"
+   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter"
   ],
   "follow": [
-   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter(/statistik)?/?\\?[^#]*startAtHit=\\d+",
-   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/?$",
+   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter\\?[^#]+$",
    "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/\\d{4}-\\d{2}-\\d{2}-[^/?#]+$"
   ],
   "max_depth": 60,
@@ -157,7 +157,7 @@
   "max_depth": 4,
   "max_pages": 800,
   "delay": 0.3,
-  "note": "KDs (pdf/docx) are linked from each release page"
+  "note": "tillvaxtanalys.se answers plain HTTP clients with an empty page (bot check); nothing is found until that changes"
  },
  {
   "name": "statskontoret",

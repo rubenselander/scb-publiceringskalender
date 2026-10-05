@@ -31,14 +31,24 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fetch
-        id: fetch
-        continue-on-error: true   # a failed source is logged; the others are still published
-        run: python3 fetch_dokumentation.py ${{ inputs.sources }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+        # A source that cannot be read (site down, bot check) is listed in data/dokumentation/state.json
+        # and in the run summary; the others are still parsed and published, and the run stays green.
+        run: python3 fetch_dokumentation.py ${{ inputs.sources }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }} | tee fetch.log
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Sources that failed"
+            python3 -c "import json; f=json.load(open('data/dokumentation/state.json')).get('last_failures', []); print('\n'.join('- ' + x for x in f) or 'none')"
+            echo; echo "## Log (last 200 lines)"; echo '```'; tail -n 200 fetch.log; echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Parse
         run: python3 parse_dokumentation.py
 
       - name: Commit
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -46,9 +56,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Update dokumentation data"
           git pull --rebase --quiet
           git push
-
-      - name: Fail if a source failed
-        if: steps.fetch.outcome == 'failure'
-        run: |
-          cat data/dokumentation/state.json
-          exit 1

@@ -292,8 +292,8 @@ def crawl(source: dict) -> list[dict]:
     return pages
 
 
-def fetch_sam(only: set[str] | None) -> list[str]:
-    """Crawl every agency in dokumentation_sources.json; returns the names of the ones that failed."""
+def fetch_sam(only: set[str] | None) -> tuple[list[str], int]:
+    """Crawl every agency in dokumentation_sources.json -> (names of the ones that failed, number tried)."""
     sources = json.loads(SOURCES.read_text("utf-8"))
     if only:
         sources = [s for s in sources if s["name"] in only]
@@ -318,7 +318,7 @@ def fetch_sam(only: set[str] | None) -> list[str]:
             except Exception as e:
                 log(f"sam/{name}: FAILED: {e}")
                 failed.append(name)
-    return failed
+    return failed, len(sources)
 
 
 # ---------------------------------------------------------------- main
@@ -339,8 +339,11 @@ def main() -> int:
             except Exception as e:
                 log(f"{name}: FAILED: {e}")
                 failures.append(name)
+    sam_all_failed = False
     if "sam" in wanted:
-        failures += [f"sam/{n}" for n in fetch_sam(only)]
+        failed, n_sources = fetch_sam(only)
+        failures += [f"sam/{n}" for n in failed]
+        sam_all_failed = len(failed) == n_sources
     DATA.mkdir(parents=True, exist_ok=True)
     state_path = DATA / "state.json"
     state = json.loads(state_path.read_text("utf-8")) if state_path.exists() else {}
@@ -349,8 +352,9 @@ def main() -> int:
             state[f"last_completed_{name}"] = now()[:10]
     state["last_failures"] = failures
     state_path.write_text(json.dumps(state, indent=1) + "\n", "utf-8")
-    log("done" + (f" with failures: {', '.join(failures)}" if failures else ""))
-    return 1 if failures else 0
+    log("done" + (f"; could not read: {', '.join(failures)}" if failures else ""))
+    everything_failed = all(n in failures for n in wanted - {"sam"}) and ("sam" not in wanted or sam_all_failed)
+    return 1 if everything_failed else 0
 
 
 if __name__ == "__main__":

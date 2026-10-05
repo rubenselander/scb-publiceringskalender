@@ -69,6 +69,10 @@ class SourceError(RuntimeError):
     """The calendar answered with something that cannot be trusted."""
 
 
+def log(message: str) -> None:
+    print(f"{datetime.now():%H:%M:%S} {message}", flush=True)
+
+
 # ---------------------------------------------------------------- one request
 
 def read_fragment(html: str, d0: date, d1: date) -> tuple[list[Row], int | None]:
@@ -104,9 +108,11 @@ def get_page(d0: date, d1: date, page: int = 0, newest_first: bool = False,
     if form:
         params["form"] = form
     request = urllib.request.Request(f"{URL}?{urllib.parse.urlencode(params)}", headers={"User-Agent": USER_AGENT})
+    what = f"GET {d0}..{d1} page {page}" + " newest first" * newest_first + (f" form {form}" if form else "")
     problem = ""
     for attempt in range(6):
         if attempt:
+            log(f"{what}: {problem}; retry {attempt} in {2 ** attempt} s")
             time.sleep(2 ** attempt)
         t0 = time.monotonic()
         try:
@@ -119,8 +125,9 @@ def get_page(d0: date, d1: date, page: int = 0, newest_first: bool = False,
         if not rows and time.monotonic() - t0 > SUSPECT_EMPTY_SECONDS:
             problem = "slow empty answer (looks like a backend timeout)"
             continue
+        log(f"{what}: {len(rows)} rows, total {total}, {time.monotonic() - t0:.1f} s")
         return rows, total
-    raise SourceError(f"{d0}..{d1} page {page}: {problem}")
+    raise SourceError(f"{what}: {problem}")
 
 
 def pages(total: int) -> int:
@@ -186,6 +193,7 @@ def fetch_range(pool: ThreadPoolExecutor, a: date, b: date, total: int) -> tuple
         rows = [r for day_rows in pool.map(read_day, days) for r in day_rows]
         out.extend(rows)
         if len(rows) != total:
+            log(f"GAP {a}..{b}: calendar has {total} rows, {len(rows)} readable")
             gaps.append({"from": a.isoformat(), "to": b.isoformat(), "expected": total, "retrieved": len(rows)})
 
     pending = [(a, b, total, None)]
@@ -199,8 +207,10 @@ def fetch_range(pool: ThreadPoolExecutor, a: date, b: date, total: int) -> tuple
                 continue
             parts = split(pool, a, b, total, math.ceil(total / SPLIT_TARGET_ROWS)) or split(pool, a, b, total, 2)
             if parts:
+                log(f"split {a}..{b} ({total} rows) into {len(parts)} parts with rows")
                 pending += parts
             else:
+                log(f"{a}..{b}: cannot tell where its {total} rows are, reading it day by day")
                 day_by_day(a, b, total)
         # Page through them. A leaf that comes up short holds a broken entry: halve it until the
         # entry is confined to a single day.
@@ -212,8 +222,10 @@ def fetch_range(pool: ThreadPoolExecutor, a: date, b: date, total: int) -> tuple
             if len(rows) == total:
                 out += rows
             elif a < b and (parts := split(pool, a, b, total, 2)):
+                log(f"{a}..{b}: read {len(rows)} of {total} rows, a page is blank; halving")
                 pending += parts
             else:
+                log(f"{a}..{b}: read {len(rows)} of {total} rows, a page is blank; reading it day by day")
                 day_by_day(a, b, total)
     return out, gaps
 
@@ -295,7 +307,7 @@ def main() -> None:
             start = earliest(today)
         state["run_started"] = today.isoformat()
     end = latest(today)
-    print(f"fetching {start} .. {end}", flush=True)
+    log(f"fetching {start} .. {end}; counting the rows of each year")
 
     def save():
         DATA.mkdir(exist_ok=True)
@@ -303,17 +315,18 @@ def main() -> None:
 
     with ThreadPoolExecutor(CONCURRENCY) as pool:
         for a, b, total in chunks(pool, start, end):
+            log(f"YEAR {a}..{b}: {total} rows expected")
             rows, gaps = fetch_range(pool, a, b, total)
             store(a, date.max if b == end else b, rows, gaps)  # nothing is published after the latest entry
             state["resume_from"] = (b + timedelta(days=1)).isoformat()
             save()
             missing = sum(g["expected"] - g["retrieved"] for g in gaps)
-            print(f"  {a} .. {b}: {len(rows)} rows" + (f", {missing} unreadable" if missing else ""), flush=True)
+            log(f"SAVED {a}..{b}: {len(rows)} rows" + (f", {missing} unreadable" if missing else ""))
 
     state.pop("resume_from", None)
     state["last_completed_run"] = state.pop("run_started")
     save()
-    print("done")
+    log("done")
 
 
 if __name__ == "__main__":

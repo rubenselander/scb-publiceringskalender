@@ -43,7 +43,8 @@ KINDS = (
     ("statistikens framställning", re.compile(r"statistikens[ _-]?framst|(?<![a-z])staf(?![a-z])|framstallning", re.I)),
     ("beskrivning av statistiken", re.compile(r"beskrivning[ _-]av[ _-]statistiken|(?<![a-z])bs[_-]\d{4}|_bs[_.]|_beskr|(?<![a-z])bas(?![a-z])", re.I)),
     ("kvalitetsrapport", re.compile(r"kvalitetsrapport|quality[ _-]report", re.I)),
-    ("kvalitetsdeklaration", re.compile(r"kvalitet|(?<![a-z])kd(?![a-z])|quality[ _-]declaration", re.I)),
+    ("kvalitetsdeklaration", re.compile(r"kvalitetsdeklaration|kvalitetsdokumentation|(?<![a-z])kd(?![a-z])|quality[ _-]declaration"
+                                        r"|(?<![a-zåäö])kvalitet(?![a-zåäö])", re.I)),
 )
 FIELDS = ("source", "agency", "product_code", "product_name", "product_match", "doc_type", "year",
           "title", "url", "filetype", "source_url", "heading")
@@ -130,6 +131,12 @@ def products() -> dict[str, dict]:
         if code and (code not in out or r["publish_date"] >= out[code]["last"]):
             out[code] = {"name": r["product_name"], "agency": r["responsible_agency"], "last": r["publish_date"]}
     return out
+
+
+def active(last_publish_date: str | None) -> bool:
+    """A product with a publication planned or made in the last year counts as current."""
+    from datetime import date, timedelta
+    return bool(last_publish_date) and last_publish_date >= (date.today() - timedelta(days=366)).isoformat()
 
 
 _STOP = {"statistik", "statistiken", "och", "för", "med", "som", "inom", "efter", "per", "samt", "the", "and",
@@ -319,6 +326,13 @@ def parse_sam() -> list[dict]:
 
 # ---------------------------------------------------------------- union and products
 
+def _group(rows: list[dict], key: str) -> dict[str, list[dict]]:
+    out: dict[str, list[dict]] = defaultdict(list)
+    for r in rows:
+        out[r[key]].append(r)
+    return out
+
+
 def main() -> None:
     prods = products()
     matcher = NameMatcher(prods)
@@ -337,15 +351,28 @@ def main() -> None:
     for r in siris:
         if r["doc_type"] not in ("kvalitetsdeklaration", "statistikens framställning", "beskrivning av statistiken"):
             continue
-        code = matcher.match("Skolverket", r["titel"], r["verkform"], r["omrade"])
-        docs.append({"source": "siris", "product_code": code, "product_match": "name" if code else "", "agency": "Skolverket",
+        code = matcher.match("Statens skolverk", r["titel"], r["verkform"], r["omrade"])
+        docs.append({"source": "siris", "product_code": code, "product_match": "name" if code else "", "agency": "Statens skolverk",
                      "doc_type": r["doc_type"], "year": r["year"], "title": r["titel"], "url": r["url"],
                      "filetype": (r["filetype"] or "").lower(), "source_url": "", "heading": f"{r['verkform']} / {r['omrade']} / {r['lasar']}"})
+    # A page that is about one product (its other files carry a code, or its title names the
+    # product) lends that code to the files on it that carry none.
+    page_code: dict[str, str] = {}
+    for url, on_page in _group(sam, "source_url").items():
+        codes = Counter(r["product_code"] for r in on_page if r["product_code"])
+        if len(codes) == 1:
+            page_code[url] = next(iter(codes))
+        elif not codes and on_page:
+            code = matcher.match(on_page[0]["agency"], on_page[0]["source_title"])
+            if code:
+                page_code[url] = code
     for r in sam:
         code, how = r["product_code"], "code"
         if not code:
             code = matcher.match(r["agency"], r["text"], r["source_title"], urlparse(r["href"]).path.rsplit("/", 1)[-1])
             how = "name" if code else ""
+        if not code and r["source_url"] in page_code:
+            code, how = page_code[r["source_url"]], "page"
         docs.append({"source": f"sam/{r['name']}", "product_code": code, "product_match": how, "agency": r["agency"],
                      "doc_type": r["doc_type"], "year": r["year"], "title": r["text"], "url": r["href"],
                      "filetype": r["filetype"], "source_url": r["source_url"], "heading": r["source_title"]})
@@ -364,7 +391,8 @@ def main() -> None:
     for code in sorted(set(prods) | set(by_code)):
         p = prods.get(code, {})
         row = {"product_code": code, "product_name": p.get("name"), "responsible_agency": p.get("agency"),
-               "in_calendar": code in prods, "documents": len(by_code.get(code, [])),
+               "in_calendar": code in prods, "last_publish_date": p.get("last"), "active": active(p.get("last")),
+               "documents": len(by_code.get(code, [])),
                "sources": sorted({d["source"].split("/")[0] for d in by_code.get(code, [])})}
         for label, key in kinds:
             ds = [d for d in by_code.get(code, []) if d["doc_type"] == label]
@@ -373,13 +401,15 @@ def main() -> None:
             row[f"{key}_latest_year"] = newest["year"] if newest else None
             row[f"{key}_latest_url"] = newest["url"] if newest else None
         out.append(row)
-    fields = ("product_code", "product_name", "responsible_agency", "in_calendar", "documents", "sources",
+    fields = ("product_code", "product_name", "responsible_agency", "in_calendar", "last_publish_date", "active",
+              "documents", "sources",
               *(f"{k}_{s}" for _, k in kinds for s in ("count", "latest_year", "latest_url")))
     write("produkter", out, fields)
 
-    with_kd = sum(1 for r in out if r["in_calendar"] and r["kd_count"])
+    current = [r for r in out if r["active"]]
+    with_kd = sum(1 for r in current if r["kd_count"])
     print(f"scb {len(scb)}, siris {len(siris)}, sam {len(sam)} -> {len(docs)} documents; "
-          f"{len(prods)} products in the calendar, {with_kd} with a kvalitetsdeklaration")
+          f"{len(prods)} products in the calendar, {len(current)} current, {with_kd} of those with a kvalitetsdeklaration")
 
 
 if __name__ == "__main__":

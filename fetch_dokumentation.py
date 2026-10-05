@@ -38,6 +38,7 @@ from __future__ import annotations
 
 import html
 import http.client
+import http.cookiejar
 import json
 import re
 import sys
@@ -61,6 +62,9 @@ SIRIS_API = "https://siris.skolverket.se/siris/reports/sossok_api/"
 
 TIMEOUT = 90
 RETRIES = 4
+# Some sites answer a first request with a redirect that sets a cookie and leads back to the same
+# page; without the cookie that is an endless loop. One cookie jar for the whole run.
+_opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
 
 
 class SourceError(RuntimeError):
@@ -87,7 +91,7 @@ def get(url: str, accept: str = "*/*", retries: int = RETRIES) -> tuple[int, str
             log(f"GET {url}: {problem}; retry {attempt} in {3 ** attempt} s")
             time.sleep(3 ** attempt)
         try:
-            with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
+            with _opener.open(request, timeout=TIMEOUT) as response:
                 ctype = response.headers.get("Content-Type", "")
                 raw = response.read()
                 charset = response.headers.get_content_charset() or "utf-8"

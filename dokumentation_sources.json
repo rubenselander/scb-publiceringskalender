@@ -1,10 +1,18 @@
 [
  {
   "name": "energimyndigheten",
-  "agency": "Energimyndigheten",
-  "start": ["https://www.energimyndigheten.se/statistik/officiell-energistatistik/"],
-  "follow": ["^https://www\\.energimyndigheten\\.se/statistik/officiell-energistatistik/[^?#]+/$"],
-  "variants": ["", "?currentTab=2", "?currentTab=3"],
+  "agency": "Statens energimyndighet",
+  "start": [
+   "https://www.energimyndigheten.se/statistik/officiell-energistatistik/"
+  ],
+  "follow": [
+   "^https://www\\.energimyndigheten\\.se/statistik/officiell-energistatistik/[^?#]+/$"
+  ],
+  "variants": [
+   "",
+   "?currentTab=2",
+   "?currentTab=3"
+  ],
   "max_depth": 2,
   "max_pages": 400,
   "note": "KDs and StaF sit on the Dokumentation tab (?currentTab=2 or 3) of each product page"
@@ -12,9 +20,18 @@
  {
   "name": "trafikanalys",
   "agency": "Trafikanalys",
-  "start": ["https://www.trafa.se/sidor/statistik/"],
-  "follow": ["^https://www\\.trafa\\.se/[a-z0-9-]+/$", "^https://www\\.trafa\\.se/[a-z0-9-]+/[a-zA-Z0-9-]+/$"],
-  "skip": ["/sidor/", "/globalassets/", "/en/"],
+  "start": [
+   "https://www.trafa.se/sidor/statistik/"
+  ],
+  "follow": [
+   "^https://www\\.trafa\\.se/[a-z0-9-]+/$",
+   "^https://www\\.trafa\\.se/[a-z0-9-]+/[a-zA-Z0-9-]+/$"
+  ],
+  "skip": [
+   "/sidor/",
+   "/globalassets/",
+   "/en/"
+  ],
   "max_depth": 2,
   "max_pages": 300,
   "note": "product pages trafa.se/<area>/<product>/ link kvalitetsdeklaration PDFs under /globalassets/statistik/"
@@ -22,7 +39,9 @@
  {
   "name": "socialstyrelsen",
   "agency": "Socialstyrelsen",
-  "start": ["https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/"],
+  "start": [
+   "https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/"
+  ],
   "follow": [
    "^https://www\\.socialstyrelsen\\.se/statistik-och-data/statistik/alla-statistikamnen/[^/?#]+/$",
    "^https://www\\.socialstyrelsen\\.se/statistik-och-data/statistik/statistikamnen/[^/?#]+/$",
@@ -35,33 +54,51 @@
  {
   "name": "skogsstyrelsen",
   "agency": "Skogsstyrelsen",
-  "start": ["https://www.skogsstyrelsen.se/statistik/statistik-efter-amne/"],
-  "follow": ["^https://www\\.skogsstyrelsen\\.se/statistik/statistik-efter-amne/[^/?#]+/$"],
-  "max_depth": 1,
-  "max_pages": 100
+  "start": [
+   "https://www.skogsstyrelsen.se/statistik/"
+  ],
+  "follow": [
+   "^https://www\\.skogsstyrelsen\\.se/statistik/statistik-efter-amne/[^/?#]+/$",
+   "^https://www\\.skogsstyrelsen\\.se/statistik/[^/?#]+/$"
+  ],
+  "max_depth": 2,
+  "max_pages": 150
  },
  {
   "name": "slu",
-  "agency": "SLU",
-  "start": ["https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/senaste-statistiken/"],
-  "follow": ["^https://www\\.slu\\.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/[^?#]+/$"],
+  "agency": "Sveriges lantbruksuniversitet",
+  "start": [
+   "https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/senaste-statistiken/"
+  ],
+  "follow": [
+   "^https://www\\.slu\\.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/[^?#]+/$"
+  ],
   "max_depth": 1,
   "max_pages": 40
  },
  {
   "name": "bra",
   "agency": "Brottsförebyggande rådet",
-  "start": ["https://bra.se/statistik.html"],
-  "follow": ["^https://bra\\.se/statistik/[^?#]+\\.html$"],
+  "start": [
+   "https://bra.se/statistik.html"
+  ],
+  "follow": [
+   "^https://bra\\.se/statistik/[^?#]+\\.html$"
+  ],
   "max_depth": 2,
   "max_pages": 200
  },
  {
   "name": "jordbruksverket",
-  "agency": "Jordbruksverket",
-  "start": ["https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/"],
+  "agency": "Statens jordbruksverk",
+  "start": [
+   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik",
+   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter",
+   "https://jordbruksverket.se/om-jordbruksverket/jordbruksverkets-officiella-statistik"
+  ],
   "follow": [
-   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/\\?[^#]*startAtHit=\\d+",
+   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter(/statistik)?/?\\?[^#]*startAtHit=\\d+",
+   "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/?$",
    "^https://jordbruksverket\\.se/om-jordbruksverket/jordbruksverkets-officiella-statistik/jordbruksverkets-statistikrapporter/statistik/\\d{4}-\\d{2}-\\d{2}-[^/?#]+$"
   ],
   "max_depth": 60,
@@ -71,36 +108,52 @@
  },
  {
   "name": "uka",
-  "agency": "UKÄ",
-  "start": ["https://www.uka.se/statistik-och-analys/om-var-statistik/dokumentation-om-statistiken",
-            "https://www.uka.se/statistik-och-analys/om-var-statistik/statistiska-meddelanden"],
+  "agency": "Universitetskanslersämbetet",
+  "start": [
+   "https://www.uka.se/statistik-och-analys/om-var-statistik/dokumentation-om-statistiken",
+   "https://www.uka.se/statistik-och-analys/om-var-statistik/statistiska-meddelanden"
+  ],
   "max_depth": 0
  },
  {
   "name": "kb",
   "agency": "Kungliga biblioteket",
-  "start": ["https://www.kb.se/for-bibliotekssektorn/biblioteksstatistik/hamta-ut-biblioteksstatistik.html",
-            "https://www.kb.se/for-bibliotekssektorn/biblioteksstatistik/hamta-ut-skolbiblioteksstatistik.html"],
+  "start": [
+   "https://www.kb.se/for-bibliotekssektorn/biblioteksstatistik/hamta-ut-biblioteksstatistik.html",
+   "https://www.kb.se/for-bibliotekssektorn/biblioteksstatistik/hamta-ut-skolbiblioteksstatistik.html"
+  ],
   "max_depth": 0,
   "note": "documents are urn.kb.se resolver links; kb.se sits behind a bot check that may refuse plain requests"
  },
  {
   "name": "kemi",
   "agency": "Kemikalieinspektionen",
-  "start": ["https://www.kemi.se/kemikaliestatistik"],
-  "follow": ["^https://www\\.kemi\\.se/kemikaliestatistik/[^?#]+$"],
+  "start": [
+   "https://www.kemi.se/kemikaliestatistik"
+  ],
+  "follow": [
+   "^https://www\\.kemi\\.se/kemikaliestatistik/[^?#]+$"
+  ],
   "max_depth": 2,
   "max_pages": 60
  },
  {
   "name": "tillvaxtanalys",
-  "agency": "Tillväxtanalys",
-  "start": ["https://www.tillvaxtanalys.se/statistik.html", "https://www.tillvaxtanalys.se/publikationer/statistik.220.html"],
+  "agency": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+  "start": [
+   "https://www.tillvaxtanalys.se/statistik.html",
+   "https://www.tillvaxtanalys.se/publikationer/statistik.220.html"
+  ],
   "follow": [
    "^https://www\\.tillvaxtanalys\\.se/statistik/[^?#]+\\.html(\\?page[^#]*)?$",
    "^https://www\\.tillvaxtanalys\\.se/publikationer/statistik(/[^?#]+)?\\.\\d+\\.html(\\?page[^#]*)?$"
   ],
-  "skip": ["/en-GB/", "statistikportalen", "riskkapital", "transforma"],
+  "skip": [
+   "/en-GB/",
+   "statistikportalen",
+   "riskkapital",
+   "transforma"
+  ],
   "max_depth": 4,
   "max_pages": 800,
   "delay": 0.3,
@@ -109,115 +162,170 @@
  {
   "name": "statskontoret",
   "agency": "Statskontoret",
-  "start": ["https://www.statskontoret.se/analys-och-statistik/officiell-statistik/tidsserier-statens-budget-m.m"],
+  "start": [
+   "https://www.statskontoret.se/analys-och-statistik/officiell-statistik/tidsserier-statens-budget-m.m"
+  ],
   "max_depth": 0
  },
  {
   "name": "naturvardsverket",
   "agency": "Naturvårdsverket",
-  "start": ["https://www.naturvardsverket.se/data-och-statistik/officiell-statistik/om-officiell-statistik/"],
-  "follow": ["^https://www\\.naturvardsverket\\.se/data-och-statistik/[^?#]+/$", "^https://www\\.naturvardsverket\\.se/amnesomraden/[^?#]+"],
+  "start": [
+   "https://www.naturvardsverket.se/data-och-statistik/officiell-statistik/om-officiell-statistik/"
+  ],
+  "follow": [
+   "^https://www\\.naturvardsverket\\.se/data-och-statistik/[^?#]+/$",
+   "^https://www\\.naturvardsverket\\.se/amnesomraden/[^?#]+"
+  ],
   "max_depth": 1,
   "max_pages": 150
  },
  {
   "name": "havochvatten",
   "agency": "Havs- och vattenmyndigheten",
-  "start": ["https://www.havochvatten.se/data-kartor-och-rapporter/data-och-statistik/officiell-statistik.html"],
-  "follow": ["^https://www\\.havochvatten\\.se/data-kartor-och-rapporter/data-och-statistik/officiell-statistik/[^?#]+\\.html$"],
+  "start": [
+   "https://www.havochvatten.se/data-kartor-och-rapporter/data-och-statistik/officiell-statistik.html"
+  ],
+  "follow": [
+   "^https://www\\.havochvatten\\.se/data-kartor-och-rapporter/data-och-statistik/officiell-statistik/[^?#]+\\.html$"
+  ],
   "max_depth": 2,
   "max_pages": 100
  },
  {
   "name": "konjunkturinstitutet",
   "agency": "Konjunkturinstitutet",
-  "start": ["https://www.konj.se/statistik-och-data/sveriges-officiella-statistik/"],
+  "start": [
+   "https://www.konj.se/statistik-och-data/sveriges-officiella-statistik/"
+  ],
   "max_depth": 0
  },
  {
   "name": "arbetsmiljoverket",
   "agency": "Arbetsmiljöverket",
-  "start": ["https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/"],
-  "follow": ["^https://www\\.av\\.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/[^?#]+/$"],
+  "start": [
+   "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/"
+  ],
+  "follow": [
+   "^https://www\\.av\\.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/[^?#]+/$"
+  ],
   "max_depth": 1,
   "max_pages": 60
  },
  {
   "name": "domstolsverket",
   "agency": "Domstolsverket",
-  "start": ["https://www.domstol.se/domstolsverket/statistik-och-handlingar/statistik/"],
-  "follow": ["^https://www\\.domstol\\.se/domstolsverket/statistik-och-handlingar/statistik/[^?#]+/$"],
+  "start": [
+   "https://www.domstol.se/domstolsverket/statistik-och-handlingar/statistik/"
+  ],
+  "follow": [
+   "^https://www\\.domstol\\.se/domstolsverket/statistik-och-handlingar/statistik/[^?#]+/$"
+  ],
   "max_depth": 1,
   "max_pages": 40
  },
  {
   "name": "riksgalden",
-  "agency": "Riksgälden",
-  "start": ["https://www.riksgalden.se/statistik/officiell-statistik/"],
-  "follow": ["^https://www\\.riksgalden\\.se/statistik/officiell-statistik/[^?#]+/$"],
+  "agency": "Riksgäldskontoret",
+  "start": [
+   "https://www.riksgalden.se/statistik/officiell-statistik/"
+  ],
+  "follow": [
+   "^https://www\\.riksgalden\\.se/statistik/officiell-statistik/[^?#]+/$"
+  ],
   "max_depth": 1,
   "max_pages": 20
  },
  {
   "name": "pensionsmyndigheten",
   "agency": "Pensionsmyndigheten",
-  "start": ["https://www.pensionsmyndigheten.se/statistik-och-rapporter/statistik/sveriges-officiella-statistik"],
+  "start": [
+   "https://www.pensionsmyndigheten.se/statistik-och-rapporter/statistik/sveriges-officiella-statistik"
+  ],
   "max_depth": 0
  },
  {
   "name": "csn",
-  "agency": "CSN",
-  "start": ["https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html"],
+  "agency": "Centrala studiestödsnämnden",
+  "start": [
+   "https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html"
+  ],
   "max_depth": 0
  },
  {
   "name": "forsakringskassan",
   "agency": "Försäkringskassan",
-  "start": ["https://www.forsakringskassan.se/statistik-och-analys/det-har-ar-officiell-statistik",
-            "https://www.forsakringskassan.se/statistik-och-analys"],
-  "follow": ["^https://www\\.forsakringskassan\\.se/statistik-och-analys/[^?#]+$"],
-  "skip": ["statistikdatabas", "#!"],
+  "start": [
+   "https://www.forsakringskassan.se/statistik-och-analys/det-har-ar-officiell-statistik",
+   "https://www.forsakringskassan.se/statistik-och-analys"
+  ],
+  "follow": [
+   "^https://www\\.forsakringskassan\\.se/statistik-och-analys/[^?#]+$"
+  ],
+  "skip": [
+   "statistikdatabas",
+   "#!"
+  ],
   "max_depth": 2,
   "max_pages": 150,
   "note": "FK hosts its KDs as unlinked PDFs (kvalitetsdeklaration-<slug>-<kod>.pdf); the crawl finds them only if a page links them"
  },
  {
   "name": "kulturanalys",
-  "agency": "Kulturanalys",
-  "start": ["https://kulturanalys.se/publikationer/officiell-statistik/"],
-  "follow": ["^https://kulturanalys\\.se/publikationer/officiell-statistik/(page/\\d+/)?$", "^https://kulturanalys\\.se/publikation/[^/?#]+/$"],
+  "agency": "Myndigheten för kulturanalys",
+  "start": [
+   "https://kulturanalys.se/publikationer/officiell-statistik/"
+  ],
+  "follow": [
+   "^https://kulturanalys\\.se/publikationer/officiell-statistik/(page/\\d+/)?$",
+   "^https://kulturanalys\\.se/publikation/[^/?#]+/$"
+  ],
   "max_depth": 3,
   "max_pages": 200
  },
  {
   "name": "mfof",
   "agency": "Myndigheten för familjerätt och föräldraskapsstöd",
-  "start": ["https://mfof.se/statistik-och-data/officiell-statistik/om-sveriges-officiella-statistik",
-            "https://mfof.se/statistik-och-data"],
-  "follow": ["^https://mfof\\.se/statistik-och-data/[^?#]+$"],
+  "start": [
+   "https://mfof.se/statistik-och-data/officiell-statistik/om-sveriges-officiella-statistik",
+   "https://mfof.se/statistik-och-data"
+  ],
+  "follow": [
+   "^https://mfof\\.se/statistik-och-data/[^?#]+$"
+  ],
   "max_depth": 2,
   "max_pages": 60
  },
  {
   "name": "folkhalsomyndigheten",
   "agency": "Folkhälsomyndigheten",
-  "start": ["https://www.folkhalsomyndigheten.se/statistik-och-data/om-vara-data/sveriges-officiella-statistik/"],
-  "follow": ["^https://www\\.folkhalsomyndigheten\\.se/statistik-och-data/om-vara-data/[^?#]+/$"],
+  "start": [
+   "https://www.folkhalsomyndigheten.se/statistik-och-data/om-vara-data/sveriges-officiella-statistik/"
+  ],
+  "follow": [
+   "^https://www\\.folkhalsomyndigheten\\.se/statistik-och-data/om-vara-data/[^?#]+/$"
+  ],
   "max_depth": 2,
   "max_pages": 80
  },
  {
   "name": "medlingsinstitutet",
   "agency": "Medlingsinstitutet",
-  "start": ["https://www.mi.se/lonestatistik/"],
-  "follow": ["^https://www\\.mi\\.se/lonestatistik/[^?#]+/$"],
+  "start": [
+   "https://www.mi.se/lonestatistik/"
+  ],
+  "follow": [
+   "^https://www\\.mi\\.se/lonestatistik/[^?#]+/$"
+  ],
   "max_depth": 1,
   "max_pages": 40
  },
  {
   "name": "skolverket-www",
-  "agency": "Skolverket",
-  "start": ["https://www.skolverket.se/statistik-och-utvarderingar/statistik-om-forskola-och-skola/om-skolverkets-statistik"],
+  "agency": "Statens skolverk",
+  "start": [
+   "https://www.skolverket.se/statistik-och-utvarderingar/statistik-om-forskola-och-skola/om-skolverkets-statistik"
+  ],
   "max_depth": 0,
   "note": "Skolverket's documents come from the SIRIS API (source 'siris'); this page is kept for links to it"
  }

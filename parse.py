@@ -1,4 +1,4 @@
-"""Stage 2 of 2: turn the stored calendar rows in data/raw/ into data/calendar.jsonl and .csv.
+"""Stage 2 of 2: turn the stored calendar rows in data/raw/ into data/calendar.csv, .json and .jsonl.
 
 Standard library only, no network. Run from the repository root:  python parse.py
 
@@ -120,6 +120,8 @@ def main() -> None:
     rows.sort(key=lambda r: json.dumps([r[f] for f in FIELDS], ensure_ascii=False))
     with open(DATA / "calendar.jsonl", "w", encoding="utf-8", newline="\n") as f:
         f.writelines(json.dumps(r, ensure_ascii=False) + "\n" for r in rows)
+    with open(DATA / "calendar.json", "w", encoding="utf-8", newline="\n") as f:  # an array, one entry per line
+        f.write("[\n" + ",\n".join(json.dumps(r, ensure_ascii=False) for r in rows) + "\n]\n")
     with open(DATA / "calendar.csv", "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, lineterminator="\n")
         w.writerow(FIELDS)

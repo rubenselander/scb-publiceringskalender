@@ -52,7 +52,6 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
-from zoneinfo import ZoneInfo
 
 URL = "https://www.scb.se/hitta-statistik/publiceringskalendern/UpdateKalenderResults"
 USER_AGENT = "scb-publiceringskalender (+https://github.com/rubenselander/scb-publiceringskalender)"
@@ -328,7 +327,7 @@ def store(a: date, b: date, fetched: list[dict], gaps: list[dict]) -> None:
 def main() -> None:
     path = DATA / "state.json"
     state = json.loads(path.read_text("utf-8")) if path.exists() else {}
-    today = datetime.now(ZoneInfo("Europe/Stockholm")).date()
+    today = datetime.now(timezone.utc).date()
     if "--full" in sys.argv[1:] or not state:
         start = earliest(today)
     else:

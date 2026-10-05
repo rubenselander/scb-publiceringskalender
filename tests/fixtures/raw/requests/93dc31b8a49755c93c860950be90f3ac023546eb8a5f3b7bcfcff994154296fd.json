@@ -1,0 +1,17 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Svenska utlandsmyndigheter"
+    },
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload?format=false&myndgrupp=Svenska+utlandsmyndigheter",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:47.928872Z",
+  "sha256": "1746f13083d04c02ae2bdac9b88f7bb3a9d4ecefb28d8b9f074c3abfe4e901d0",
+  "encoding": "utf-8"
+}

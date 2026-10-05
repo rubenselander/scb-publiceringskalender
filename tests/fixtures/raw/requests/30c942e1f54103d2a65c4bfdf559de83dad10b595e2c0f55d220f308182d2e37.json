@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/AM0201",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/AM0201",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:32.716734Z",
+  "sha256": "91ea9b39954abe8e837df84eb5de743e038c79a05b1a79947f59428742d16f5b",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,194 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK0601",
+    "response_url": "https://www.scb.se/TK0601",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/bantrafik/",
+    "fetched_at": "2026-10-05T13:14:33.620881Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "f1aac37a387c01f00e267d40b37b7c3f201a5497d94a208fd4a8a0284ccb0cfd",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK0601",
+  "product_code_source": "calendar",
+  "title": "Bantrafik",
+  "short_address": "https://www.scb.se/tk0601",
+  "summary": "Statistiken beskriver utvecklingen för järnvägar, spårvägar och tunnelbana.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Godstransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
+    },
+    {
+      "text": "Järnvägar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
+    },
+    {
+      "text": "Persontransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+    },
+    {
+      "text": "Kollektivtrafik",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Bantrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken beskriver utvecklingen för järnvägar, spårvägar och tunnelbana."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bantrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bantrafik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 00",
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 00",
+          "href": "tel:010-414 42 00",
+          "url": "tel:010-414 42 00"
+        },
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bantrafik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Godstransport",
+        "Järnvägar",
+        "Persontransport",
+        "Kollektivtrafik"
+      ],
+      "links": [
+        {
+          "text": "Godstransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
+        },
+        {
+          "text": "Järnvägar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
+        },
+        {
+          "text": "Persontransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+        },
+        {
+          "text": "Kollektivtrafik",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bantrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk0601"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

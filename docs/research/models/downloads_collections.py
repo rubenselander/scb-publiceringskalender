@@ -1,0 +1,140 @@
+"""Research drafts for SCB downloads and collections; not wired into ingestion.
+
+Use ``model_json_schema(by_alias=True)`` for generated JSON Schema. Nullable
+fields are required so missing evidence is explicit in structured extraction.
+"""
+
+from datetime import date, datetime
+from typing import Literal
+
+from pydantic import BaseModel, ConfigDict, Field
+
+
+class SourceModel(BaseModel):
+    """Reject unexpected fields and keep literal Swedish source values."""
+
+    model_config = ConfigDict(extra="forbid", populate_by_name=True)
+
+
+class Provenance(SourceModel):
+    landing_url: str
+    source_url: str
+    retrieved_at: datetime
+    language: Literal["sv"]
+    sha256: str | None
+
+
+class OfficialProductRow(SourceModel):
+    """Aliases match the actual workbook headers, including 'Anvandare'."""
+
+    responsible_authority: str | None = Field(alias="Statistikansvarig myndighet")
+    product_code: str = Field(alias="Produktkod", pattern=r"^[A-Z]{2}[0-9]{4}$")
+    product_name: str | None = Field(alias="Produktnamn")
+    purpose: str | None = Field(alias="Syfte")
+    users: str | None = Field(alias="Anvandare")
+    publication_status: str | None = Field(alias="Publiceringsstatus")
+    subject_area: str | None = Field(alias="Ämnesområde")
+    statistics_area: str | None = Field(alias="Statistikområde")
+    periodicity: str | None = Field(alias="Periodicitet")
+
+
+class OfficialProductWorkbook(SourceModel):
+    provenance: Provenance
+    sheet: str
+    headers: list[str]
+    total_source_rows: int = Field(ge=0)
+    partial_sample: bool
+    rows: list[OfficialProductRow]
+
+
+class HvdLink(SourceModel):
+    anchor_text: str
+    url: str
+    target_kind: Literal["pxweb_table", "saved_query", "other"]
+    context_text: str | None
+
+
+class HvdGroup(SourceModel):
+    """Do not deduplicate links: repeated URLs may have different contexts."""
+
+    dataset_label: str
+    row_text: str
+    links: list[HvdLink]
+
+
+class HvdCollection(SourceModel):
+    provenance: Provenance
+    title: str
+    headers: list[str]
+    total_source_groups: int = Field(ge=0)
+    partial_sample: bool
+    groups: list[HvdGroup]
+
+
+class EconomyDiagram(SourceModel):
+    """Collection entries are diagram pages, not discovered product pages."""
+
+    title: str
+    url: str
+    listed_type: str
+    listed_date: date | None
+    detail_verified: bool
+    detail_provenance: Provenance | None
+    subtitle: str | None
+    comments: str | None
+    source_label: str | None
+    updated_at: date | None
+    excel_urls: list[str]
+    image_urls: list[str]
+    official_statistics_mark_present: bool | None
+
+
+class EconomyCollection(SourceModel):
+    provenance: Provenance
+    title: str
+    section: str
+    total_source_entries: int = Field(ge=0)
+    partial_sample: bool
+    entries: list[EconomyDiagram]
+
+
+class ChangeNotice(SourceModel):
+    """A statement in a report is evidence of a claim, not legal enactment."""
+
+    authority: str
+    product_code: str | None
+    product_name: str | None
+    description: str
+    pages: list[int] = Field(min_length=1)
+    row_ordinal: int = Field(ge=1)
+    change_kinds: list[
+        Literal[
+            "new_product",
+            "name",
+            "content",
+            "periodicity",
+            "inactive",
+            "closed",
+            "status",
+            "merge",
+            "other",
+        ]
+    ]
+    timing_claim: Literal["source_claimed_effective", "planned", "mixed", "unclear"]
+    effective_date: date | None
+    effective_date_text: str | None
+    related_product_codes: list[str]
+    interpretation_evidence: str | None
+    review_required: bool
+
+
+class ChangesReport(SourceModel):
+    provenance: Provenance
+    link_label: str
+    title: str
+    document_date_text: str | None
+    coverage_period_text: str
+    page_count: int = Field(ge=1)
+    document_notes: list[str]
+    partial_sample: bool
+    notices: list[ChangeNotice]

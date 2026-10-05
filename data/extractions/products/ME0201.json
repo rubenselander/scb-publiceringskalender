@@ -1,0 +1,3324 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/ME0201",
+    "response_url": "https://www.scb.se/ME0201",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/",
+    "fetched_at": "2026-10-05T13:12:23.930769Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "d09285f989eba4decb0bb569cae7a55b629db095d4f0b18e608b8059ff8e86bb",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "ME0201",
+  "product_code_source": "calendar",
+  "title": "Partisympatiundersökningen (PSU)",
+  "short_address": "https://www.scb.se/me0201",
+  "summary": "Statistiken visar ”valresultatet om det vore riksdagsval idag” och nettoflöden mellan partier samt partisympatiernas fördelning efter bland annat kön, ålder, civilstånd, inkomst, region, sysselsättningsstatus, fackföreningstillhörighet, utbildningsnivå och utländsk/svensk bakgrund. Från och med 2023 genomförs Partisympatiundersökningen i maj varje år.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Demokrati",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
+    },
+    {
+      "text": "Partier",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=147",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=147"
+    },
+    {
+      "text": "Politik",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
+    },
+    {
+      "text": "Val",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar ”valresultatet om det vore riksdagsval idag” och nettoflöden mellan partier samt partisympatiernas fördelning efter bland annat kön, ålder, civilstånd, inkomst, region, sysselsättningsstatus, fackföreningstillhörighet, utbildningsnivå och utländsk/svensk bakgrund. Från och med 2023 genomförs Partisympatiundersökningen i maj varje år."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-06-10",
+        "Partisympatiundersökningen visar i vilka demografiska grupper de politiska partierna har sitt starkaste stöd. Partisympati avser ingen specifik politisk nivå, och ingen hänsyn tas till om man skulle rösta eller inte. Undersökningen redovisar även väljarkårens EU-, euro- och Natosympatier."
+      ],
+      "links": [
+        {
+          "text": "Partisympatier maj 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/statistiknyhet/partisympatier-maj-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/statistiknyhet/partisympatier-maj-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=ME0201",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=ME0201"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Partisympatier PSU",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sammanställning över skattningar av Validag, Partisympati, EU-sympati och Eurosympati enligt tidigare och ny skattningsmetod, 2010-2019",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/sammanstallning-over-skattningar-av-validag-partisympati-eu-sympati-och-eurosympati-enligt-tidigare-och-ny-skattningsmetod/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/sammanstallning-over-skattningar-av-validag-partisympati-eu-sympati-och-eurosympati-enligt-tidigare-och-ny-skattningsmetod/"
+        },
+        {
+          "text": "Valresultatet \"om det varit val idag\". Maj 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag.-maj-2026",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag.-maj-2026"
+        },
+        {
+          "text": "Valresultatet \"om det varit val idag\". Tidsserie 1972–2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag.-tidsserie-19722026",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag.-tidsserie-19722026"
+        },
+        {
+          "text": "Valresultatet \"om det varit val idag\" 1991–2026 (förstorad del av diagram 1972–2026)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag-19912026-forstorad-del-av-diagram-19722026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/partisympatier-psu/valresultatet-om-det-varit-val-idag-19912026-forstorad-del-av-diagram-19722026/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Sammanställning över skattningar av Validag, Partisympati, EU-sympati och Eurosympati enligt tidigare och ny skattningsmetod, 2010-2019",
+          "",
+          "2020-06-08"
+        ],
+        [
+          "Valresultatet \"om det varit val idag\". Maj 2026",
+          "Tabell",
+          "2026-06-04"
+        ],
+        [
+          "Valresultatet \"om det varit val idag\". Tidsserie 1972–2026",
+          "Diagram",
+          "2026-06-04"
+        ],
+        [
+          "Valresultatet \"om det varit val idag\" 1991–2026 (förstorad del av diagram 1972–2026)",
+          "Diagram",
+          "2026-06-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EU-, EMU- och Nato-sympatier",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EU-sympatier efter partisympati 1996–2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/eu-sympatier-efter-partisympati/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/eu-sympatier-efter-partisympati/"
+        },
+        {
+          "text": "EU-sympatier 1996-2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/eu-sympatier/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/eu-sympatier/"
+        },
+        {
+          "text": "EMU-/euro-sympatier efter partisympati. Tidsserie 2004-2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/emu-euro-sympatier-efter-partisympati.-tidsserie-2004-2026",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/emu-euro-sympatier-efter-partisympati.-tidsserie-2004-2026"
+        },
+        {
+          "text": "EMU/eurosympatier 1997-2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/emu-eurosympatier/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/emu-eurosympatier/"
+        },
+        {
+          "text": "Nato-sympatier efter partisympati 2022-2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/nato-sympatier-efter-partisympati-2022-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/nato-sympatier-efter-partisympati-2022-2026/"
+        },
+        {
+          "text": "Nato-sympatier 2022-2026",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/nato-sympatier-2022-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/pong/tabell-och-diagram/eu--emu--och-nato-sympatier/nato-sympatier-2022-2026/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "EU-sympatier efter partisympati 1996–2026",
+          "Diagram",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympatier 1996-2026",
+          "Tabell/diagram",
+          "2026-06-10"
+        ],
+        [
+          "EMU-/euro-sympatier efter partisympati. Tidsserie 2004-2026",
+          "Diagram",
+          "2026-06-10"
+        ],
+        [
+          "EMU/eurosympatier 1997-2026",
+          "Tabell/diagram",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympatier efter partisympati 2022-2026",
+          "Tabell/diagram",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympatier 2022-2026",
+          "Tabell/diagram",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Riksdagsval idag",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Valresultat om det varit val idag (PSU). (Urvalsundersökning, se fotnoter.) Mätmånad 1972M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid10"
+        },
+        {
+          "text": "Valresultat om det varit val idag (PSU) efter kön. (Urvalsundersökning, se fotnoter.) Mätmånad 2014M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid11"
+        },
+        {
+          "text": "Valresultat om det varit val idag (PSU) efter region (Sverige, 8 grupper). (Urvalsundersökning, se fotnoter.) Mätmånad 2014M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vid12"
+        },
+        {
+          "text": "Valdeltagandeplaner efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Valdeltplan180",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Valdeltplan180"
+        },
+        {
+          "text": "Röstningssympati (parti man skulle rösta på) efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati170",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati170"
+        },
+        {
+          "text": "Röstningssympati nu (parti man skulle rösta på) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati1900",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati1900"
+        },
+        {
+          "text": "Röstningssympati nu (parti man skulle rösta på) efter röstningssympati i förra PSU. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati2000",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati2000"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Valresultat om det varit val idag (PSU). (Urvalsundersökning, se fotnoter.) Mätmånad 1972M11 - 2026M05",
+          "2026-06-04"
+        ],
+        [
+          "Valresultat om det varit val idag (PSU) efter kön. (Urvalsundersökning, se fotnoter.) Mätmånad 2014M05 - 2026M05",
+          "2026-06-04"
+        ],
+        [
+          "Valresultat om det varit val idag (PSU) efter region (Sverige, 8 grupper). (Urvalsundersökning, se fotnoter.) Mätmånad 2014M05 - 2026M05",
+          "2026-06-04"
+        ],
+        [
+          "Valdeltagandeplaner efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Röstningssympati (parti man skulle rösta på) efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Röstningssympati nu (parti man skulle rösta på) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Röstningssympati nu (parti man skulle rösta på) efter röstningssympati i förra PSU. (Urvalsundersökning, se fotnoter.)  Mätmånad 2010M11 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Partisympati (bästa parti) i befolkningsgrupper",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Partisympati efter kön och standard för svensk yrkesklassificering (SSYK 2012) i väljarkåren. Mätmånad 2021M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati20"
+        },
+        {
+          "text": "Partisympati efter standard för svensk yrkesklassificering (SSYK 2012) bland sysselsatta. Mätmånad 2021M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati21",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati21"
+        },
+        {
+          "text": "Partisympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2005M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati17"
+        },
+        {
+          "text": "Partisympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati05"
+        },
+        {
+          "text": "Partisympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati19"
+        },
+        {
+          "text": "Partisympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati18"
+        },
+        {
+          "text": "Partisympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati061",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati061"
+        },
+        {
+          "text": "Partisympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati071",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati071"
+        },
+        {
+          "text": "Partisympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati081",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati081"
+        },
+        {
+          "text": "Partisympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati151",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati151"
+        },
+        {
+          "text": "Partisympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati12"
+        },
+        {
+          "text": "Partisympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati141",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati141"
+        },
+        {
+          "text": "Partisympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati101",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati101"
+        },
+        {
+          "text": "Partisympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati102",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati102"
+        },
+        {
+          "text": "Partisympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati132",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati132"
+        },
+        {
+          "text": "Partisympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 1972M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati051",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati051"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Partisympati efter kön och standard för svensk yrkesklassificering (SSYK 2012) i väljarkåren. Mätmånad 2021M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter standard för svensk yrkesklassificering (SSYK 2012) bland sysselsatta. Mätmånad 2021M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2005M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Partisympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 1972M11 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Näst bästa parti",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Näst bästa parti efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.) Mätmånad 2010M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nastbastaparti190",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nastbastaparti190"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Näst bästa parti efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.) Mätmånad 2010M11 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EU-sympati i befolkningsgrupper",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EU-sympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati021",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati021"
+        },
+        {
+          "text": "EU-sympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati022",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati022"
+        },
+        {
+          "text": "EU-sympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati04"
+        },
+        {
+          "text": "EU-sympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati061",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati061"
+        },
+        {
+          "text": "EU-sympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati08"
+        },
+        {
+          "text": "EU-sympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati05"
+        },
+        {
+          "text": "EU-sympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati051",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati051"
+        },
+        {
+          "text": "EU-sympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati071",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati071"
+        },
+        {
+          "text": "EU-sympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati081",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati081"
+        },
+        {
+          "text": "EU-sympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati112",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati112"
+        },
+        {
+          "text": "EU-sympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati121",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati121"
+        },
+        {
+          "text": "EU-sympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati13"
+        },
+        {
+          "text": "EU-sympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati14"
+        },
+        {
+          "text": "EU-sympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati19"
+        },
+        {
+          "text": "EU-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati06"
+        },
+        {
+          "text": "EU-sympati efter kön och partisympati (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati07"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "EU-sympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "EU-sympati efter kön och partisympati (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Euro-sympati i befolkningsgrupper (maj-04 – )",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Eurosympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati01"
+        },
+        {
+          "text": "Eurosympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati011",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati011"
+        },
+        {
+          "text": "Eurosympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati021",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati021"
+        },
+        {
+          "text": "Eurosympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati022",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati022"
+        },
+        {
+          "text": "Eurosympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati04"
+        },
+        {
+          "text": "Eurosympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati061",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati061"
+        },
+        {
+          "text": "Eurosympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati071",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati071"
+        },
+        {
+          "text": "Eurosympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati08"
+        },
+        {
+          "text": "Eurosympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati081",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati081"
+        },
+        {
+          "text": "Eurosympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati112",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati112"
+        },
+        {
+          "text": "Eurosympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati121",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati121"
+        },
+        {
+          "text": "Eurosympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati14"
+        },
+        {
+          "text": "Eurosympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati19"
+        },
+        {
+          "text": "Eurosympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati13"
+        },
+        {
+          "text": "Euro-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati06"
+        },
+        {
+          "text": "Euro-sympati  efter kön och partisympati (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati07"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Eurosympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2007M11 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och sektor bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Eurosympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Euro-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Euro-sympati  efter kön och partisympati (urvalsundersökning). Mätmånad 2006M05 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EMU-sympati i befolkningsgrupper (nov-97 – maj-03)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EMU-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati01"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati02"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati03"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati04"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati05"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter partival i förra riksdagsvalet och kön (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati06"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati07"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati08"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat) och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati09"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati11"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati12"
+        },
+        {
+          "text": "EMU-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2003M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EMUsympati13"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "EMU-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter partival i förra riksdagsvalet och kön (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat) och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1997M11 - 2003M05",
+          "2003-06-17"
+        ],
+        [
+          "EMU-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2003M05",
+          "2003-06-17"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Med/utan partisympati (bästa parti) i befolkningsgrupper t.o.m. nov 2010",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Med/utan partisympati. Hela nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus039",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus039"
+        },
+        {
+          "text": "Med/utan partisympati efter ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus04"
+        },
+        {
+          "text": "Med/utan partisympati efter kön och ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus05"
+        },
+        {
+          "text": "Med/utan partisympati efter civilstånd och ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus06"
+        },
+        {
+          "text": "Med/utan partisympati efter antal barn och urvalspersonens ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus07"
+        },
+        {
+          "text": "Med/utan partisympati efter sammanräknad inkomst (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus08"
+        },
+        {
+          "text": "Med/utan partisympati efter inkomstintervall (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2007M11 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus081",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus081"
+        },
+        {
+          "text": "Med/utan partisympati efter sammanlagd sammanräknad inkomst (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus09"
+        },
+        {
+          "text": "Med/utan partisympati efter region. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus10"
+        },
+        {
+          "text": "Med/utan partisympati efter socioekonomisk indelning (SEI, sekundärkodat). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus11"
+        },
+        {
+          "text": "Med/utan partisympati efter yrkesaktivitet. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus12"
+        },
+        {
+          "text": "Med/utan partisympati efter sektor och kön. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus13"
+        },
+        {
+          "text": "Med/utan partisympati efter fackförbund och kön. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus14"
+        },
+        {
+          "text": "Med/utan partisympati efter bostadstyp. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus15"
+        },
+        {
+          "text": "Med/utan partisympati efter andel tätortsbefolkning i hemkommunen. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus16"
+        },
+        {
+          "text": "Med/utan partisympati (PSU) efter utbildningsnivå, kön och partisympatistatus. Nettourvalet. (Urvalsundersökning, se fotnoter.) Mätmånad 2003M11 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus17"
+        },
+        {
+          "text": "Med/utan partisympati (PSU) efter utländsk/svensk bakgrund, och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Sympatistatus18"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Med/utan partisympati. Hela nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter kön och ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter civilstånd och ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter antal barn och urvalspersonens ålder. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter sammanräknad inkomst (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "2007-06-14"
+        ],
+        [
+          "Med/utan partisympati efter inkomstintervall (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2007M11 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter sammanlagd sammanräknad inkomst (olika inkomstår, se not). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "2007-06-14"
+        ],
+        [
+          "Med/utan partisympati efter region. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter socioekonomisk indelning (SEI, sekundärkodat). Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter yrkesaktivitet. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter sektor och kön. Nettourvalet. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter fackförbund och kön. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter bostadstyp. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati efter andel tätortsbefolkning i hemkommunen. Nettourvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati (PSU) efter utbildningsnivå, kön och partisympatistatus. Nettourvalet. (Urvalsundersökning, se fotnoter.) Mätmånad 2003M11 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med/utan partisympati (PSU) efter utländsk/svensk bakgrund, och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Oviktade tabeller över partisympati t.o.m. nov 2010",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Med partisympati i hela väljarkåren efter parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1972M11 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati039",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati039"
+        },
+        {
+          "text": "Med partisympati efter ålder samt förstagångsväljare och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati04"
+        },
+        {
+          "text": "Med partisympati efter kön, ålder och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati05Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati05Old"
+        },
+        {
+          "text": "Med partisympati efter  civilstånd, ålder och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati06"
+        },
+        {
+          "text": "Med partisympati efter antal barn, urvalspersonens ålder och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati07"
+        },
+        {
+          "text": "Med partisympati efter sammanräknad inkomst (olika inkomstår, se not) och parti.  (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati08"
+        },
+        {
+          "text": "Med partisympati efter inkomstintervall (olika inkomstår, se not) och parti.  (Urvalsundersökning, se fotnoter.)   Mätmånad 2007M11 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati081Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati081Old"
+        },
+        {
+          "text": "Med partisympati efter sammanlagd sammanräknad inkomst (olika inkomstår, se not) och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati09"
+        },
+        {
+          "text": "Med partisympati efter region och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati10"
+        },
+        {
+          "text": "Med partisympati efter socioekonomisk indelning (SEI,  sekundärkodat) och parti.  (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati11"
+        },
+        {
+          "text": "Med partisympati efter yrkesaktivitet och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati12Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati12Old"
+        },
+        {
+          "text": "Med partisympati efter sektor, kön, och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati13"
+        },
+        {
+          "text": "Med partisympati efter fackförbund, kön och parti (yrkesverksamma).  (Urvalsundersökning, se fotnoter.) Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati14"
+        },
+        {
+          "text": "Med partisympati efter bostadstyp och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati15"
+        },
+        {
+          "text": "Med partisympati efter andel tätortsbefolkning i hemkommunen och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati16"
+        },
+        {
+          "text": "Med partisympati (PSU) efter utbildningsnivå, kön och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 2003M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati17Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati17Old"
+        },
+        {
+          "text": "Med partisympati (PSU) efter utländsk/svensk bakgrund, kön, och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati18Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati18Old"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Med partisympati i hela väljarkåren efter parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1972M11 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter ålder samt förstagångsväljare och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter kön, ålder och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter  civilstånd, ålder och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter antal barn, urvalspersonens ålder och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter sammanräknad inkomst (olika inkomstår, se not) och parti.  (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "2007-06-14"
+        ],
+        [
+          "Med partisympati efter inkomstintervall (olika inkomstår, se not) och parti.  (Urvalsundersökning, se fotnoter.)   Mätmånad 2007M11 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter sammanlagd sammanräknad inkomst (olika inkomstår, se not) och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2007M05",
+          "2007-06-14"
+        ],
+        [
+          "Med partisympati efter region och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1994M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter socioekonomisk indelning (SEI,  sekundärkodat) och parti.  (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter yrkesaktivitet och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter sektor, kön, och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter fackförbund, kön och parti (yrkesverksamma).  (Urvalsundersökning, se fotnoter.) Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter bostadstyp och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati efter andel tätortsbefolkning i hemkommunen och parti. (Urvalsundersökning, se fotnoter.)  Mätmånad 1998M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati (PSU) efter utbildningsnivå, kön och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 2003M05 - 2010M11",
+          "2010-12-08"
+        ],
+        [
+          "Med partisympati (PSU) efter utländsk/svensk bakgrund, kön, och parti. (Urvalsundersökning, se fotnoter.)   Mätmånad 2004M05 - 2010M11",
+          "2010-12-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Oviktade tabeller över EU-sympati t.o.m. nov 2010",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "EU-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati01"
+        },
+        {
+          "text": "EU-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati02"
+        },
+        {
+          "text": "EU-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati03"
+        },
+        {
+          "text": "EU-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati04Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati04Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati05Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati05Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter partival i förra riksdagsvalet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati06Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati06Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati07Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati07Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati08Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati08Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat) och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati09"
+        },
+        {
+          "text": "EU-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati11"
+        },
+        {
+          "text": "EU-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati12"
+        },
+        {
+          "text": "EU-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2003M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati13Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati13Old"
+        },
+        {
+          "text": "EU-sympati (PSU) efter utländsk/svensk bakgrund och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati14Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati14Old"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "EU-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter partival i förra riksdagsvalet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat) och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 1996M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2003M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "EU-sympati (PSU) efter utländsk/svensk bakgrund och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Oviktade tabeller över Euro-sympati t.o.m. nov 2010",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Euro-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati01Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati01Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati02"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati03"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati04Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati04Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati05"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter partival i förra riksdagsvalet och kön (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati06Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati06Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati07Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati07Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati08Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati08Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat), yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati09"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati11"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati12"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati13Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati13Old"
+        },
+        {
+          "text": "Euro-sympati (PSU) efter utländsk/svensk bakgrund och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati14Old",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati14Old"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Euro-sympati (PSU) efter kön och ålder. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter region och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter andel tätortsbefolkning och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter bostadstyp och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter antal barn och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter partival i förra riksdagsvalet och kön (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter partisympati och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter socioekonomisk indelning (SEI, sekundärkodat), yrkesaktivitet och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter sektor och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter fackförbund och kön (yrkesverksamma). (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter utbildningsnivå och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ],
+        [
+          "Euro-sympati (PSU) efter utländsk/svensk bakgrund och kön. (Urvalsundersökning, se fotnoter.)  Mätmånad 2004M05 - 2010M11",
+          "2010-12-14"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nato-sympati i befolkningsgrupper",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nato-sympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati061",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati061"
+        },
+        {
+          "text": "Nato-sympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati05"
+        },
+        {
+          "text": "Nato-sympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati071",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati071"
+        },
+        {
+          "text": "Nato-sympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati04"
+        },
+        {
+          "text": "Nato-sympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati051",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati051"
+        },
+        {
+          "text": "Nato-sympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati021",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati021"
+        },
+        {
+          "text": "Nato-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati06"
+        },
+        {
+          "text": "Nato-sympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati08"
+        },
+        {
+          "text": "Nato-sympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati022",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati022"
+        },
+        {
+          "text": "Nato-sympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati081",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati081"
+        },
+        {
+          "text": "Nato-sympati efter kön och partisympati (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati07"
+        },
+        {
+          "text": "Nato-sympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati121",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati121"
+        },
+        {
+          "text": "Nato-sympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati14"
+        },
+        {
+          "text": "Nato-sympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati13"
+        },
+        {
+          "text": "Nato-sympati efter kön och sektor bland sysselsatta (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati112",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati112"
+        },
+        {
+          "text": "Nato-sympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati19"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nato-sympati efter kön och civilstånd (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och ålder, 7 åldersklasser (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och utan/med barn (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och bostadstyp (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och ålder, 4 åldersklasser (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter region (Sverige, 10 grupper) (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och partival i förra riksdagsvalet (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och sysselsatt (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och region (Sverige, 8 grupper) (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och inkomstintervall efter percentiler (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och partisympati (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och fackförbund bland anställda (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och utländsk/svensk bakgrund (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och utbildningsnivå (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och sektor bland sysselsatta (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ],
+        [
+          "Nato-sympati efter kön och utrikes/inrikes född (urvalsundersökning). Mätmånad 2022M05 - 2026M05",
+          "2026-06-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0201X",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0201X"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Partisympatiundersökningen maj 2026",
+          "href": "/publikation/60210",
+          "url": "https://www.scb.se/publikation/60210"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2025",
+          "href": "/publikation/57696",
+          "url": "https://www.scb.se/publikation/57696"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2024",
+          "href": "/publikation/52163",
+          "url": "https://www.scb.se/publikation/52163"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2023",
+          "href": "/publikation/50707",
+          "url": "https://www.scb.se/publikation/50707"
+        },
+        {
+          "text": "Partisympatiundersökningen november 2022",
+          "href": "/publikation/47477",
+          "url": "https://www.scb.se/publikation/47477"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2022",
+          "href": "/publikation/47473",
+          "url": "https://www.scb.se/publikation/47473"
+        },
+        {
+          "text": "Partisympatiundersökningen november 2021",
+          "href": "/publikation/42545",
+          "url": "https://www.scb.se/publikation/42545"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2021",
+          "href": "/publikation/42538",
+          "url": "https://www.scb.se/publikation/42538"
+        },
+        {
+          "text": "Partisympatiundersökningen november 2020",
+          "href": "/publikation/41188",
+          "url": "https://www.scb.se/publikation/41188"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2020",
+          "href": "/publikation/41195",
+          "url": "https://www.scb.se/publikation/41195"
+        },
+        {
+          "text": "Partisympatiundersökningen november 2019",
+          "href": "/publikation/37253",
+          "url": "https://www.scb.se/publikation/37253"
+        },
+        {
+          "text": "Partisympatiundersökningen maj 2019",
+          "href": "/publikation/37246",
+          "url": "https://www.scb.se/publikation/37246"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) november 2018",
+          "href": "/publikation/34439",
+          "url": "https://www.scb.se/publikation/34439"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) maj 2018",
+          "href": "/publikation/34426",
+          "url": "https://www.scb.se/publikation/34426"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) november 2017",
+          "href": "/publikation/30386",
+          "url": "https://www.scb.se/publikation/30386"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) maj 2017",
+          "href": "/publikation/30377",
+          "url": "https://www.scb.se/publikation/30377"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) november 2016",
+          "href": "/publikation/26886",
+          "url": "https://www.scb.se/publikation/26886"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) maj 2016",
+          "href": "/publikation/26887",
+          "url": "https://www.scb.se/publikation/26887"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) november 2015",
+          "href": "/publikation/24330",
+          "url": "https://www.scb.se/publikation/24330"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) maj 2015",
+          "href": "/publikation/26049",
+          "url": "https://www.scb.se/publikation/26049"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) november 2014",
+          "href": "/publikation/22581",
+          "url": "https://www.scb.se/publikation/22581"
+        },
+        {
+          "text": "Partisympatiundersökningen (PSU) maj 2014",
+          "href": "/publikation/22571",
+          "url": "https://www.scb.se/publikation/22571"
+        },
+        {
+          "text": "Ja och nej till euron – Folkomröstningen om euron 2003",
+          "href": "/publikation/2479",
+          "url": "https://www.scb.se/publikation/2479"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Partisympatiundersökningen maj 2026",
+          "",
+          "2026-06-10"
+        ],
+        [
+          "Partisympatiundersökningen maj 2025",
+          "",
+          "2025-06-11"
+        ],
+        [
+          "Partisympatiundersökningen maj 2024",
+          "",
+          "2024-06-13"
+        ],
+        [
+          "Partisympatiundersökningen maj 2023",
+          "",
+          "2023-06-07"
+        ],
+        [
+          "Partisympatiundersökningen november 2022",
+          "",
+          "2022-12-07"
+        ],
+        [
+          "Partisympatiundersökningen maj 2022",
+          "",
+          "2022-06-08"
+        ],
+        [
+          "Partisympatiundersökningen november 2021",
+          "",
+          "2021-12-08"
+        ],
+        [
+          "Partisympatiundersökningen maj 2021",
+          "",
+          "2021-06-08"
+        ],
+        [
+          "Partisympatiundersökningen november 2020",
+          "",
+          "2020-12-08"
+        ],
+        [
+          "Partisympatiundersökningen maj 2020",
+          "",
+          "2020-06-11"
+        ],
+        [
+          "Partisympatiundersökningen november 2019",
+          "",
+          "2019-12-10"
+        ],
+        [
+          "Partisympatiundersökningen maj 2019",
+          "",
+          "2019-06-11"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) november 2018",
+          "",
+          "2018-12-07"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) maj 2018",
+          "",
+          "2018-06-11"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) november 2017",
+          "",
+          "2017-12-08"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) maj 2017",
+          "",
+          "2017-06-02"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) november 2016",
+          "",
+          "2016-11-30"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) maj 2016",
+          "",
+          "2016-06-02"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) november 2015",
+          "",
+          "2015-12-03"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) maj 2015",
+          "",
+          "2015-06-08"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) november 2014",
+          "",
+          "2014-12-04"
+        ],
+        [
+          "Partisympatiundersökningen (PSU) maj 2014",
+          "",
+          "2014-06-03"
+        ],
+        [
+          "Ja och nej till euron – Folkomröstningen om euron 2003",
+          "",
+          "2004-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (55)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=ME0201&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=ME0201&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "De rödgröna har störst väljarstöd i norra delen av landet, medan alliansen är starkast i Stockholms län. Så ser väljaropinionen ut i ett regionalt perspektiv enligt SCB:s mätningar. I vissa regioner har opinionen svängt under mandatperioden, i andra har läget varit mer stabilt."
+      ],
+      "links": [
+        {
+          "text": "Regionala skillnader i väljarstödet",
+          "href": "/hitta-statistik/artiklar/2018/regionala-skillnader-i-valjarstodet/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/regionala-skillnader-i-valjarstodet/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-06-04"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Demokrati",
+        "Valdeltagande",
+        "Regionalt"
+      ],
+      "links": [
+        {
+          "text": "Demokrati",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles"
+        },
+        {
+          "text": "Valdeltagande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=209&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=209&selection=articles"
+        },
+        {
+          "text": "Regionalt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Vid jämförelser mellan olika värden i statistiken talas om statistiskt säkerställda skillnader. Det är skillnader som troligen inte bara kan förklaras av slumpen."
+      ],
+      "links": [
+        {
+          "text": "Är det statistiskt säkerställt?",
+          "href": "/hitta-statistik/artiklar/2015/Ar-det-statistiskt-sakerstallt/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2015/Ar-det-statistiskt-sakerstallt/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2015-12-07"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Politik och demokrati",
+        "Statistikskolan",
+        "Statistisk metod"
+      ],
+      "links": [
+        {
+          "text": "Politik och demokrati",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=308&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=308&selection=articles"
+        },
+        {
+          "text": "Statistikskolan",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=310&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=310&selection=articles"
+        },
+        {
+          "text": "Statistisk metod",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=311&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=311&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Aktuellt",
+          "level": 2,
+          "anchor": "_Aktuellt"
+        }
+      ],
+      "paragraphs": [
+        "Frågor och svar, metodjustering PSU, partisympatier (pdf)",
+        "Diagram Val idag efter parti 2010-2020, ny och tidigare metod (pdf)",
+        "Diagram Partisympati 2010-2019, ny och tidigare metod (pdf)",
+        "Justerad skattningsmetod i Partisympatiundersökningen – En beskrivning av de metodjusteringar som implementerats i maj 2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Frågor och svar, metodjustering PSU, partisympatier (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/fragor-och-svar-metodjustering-psu-partisympatier-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/fragor-och-svar-metodjustering-psu-partisympatier-pdf/"
+        },
+        {
+          "text": "Diagram Val idag efter parti 2010-2020, ny och tidigare metod (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/diagram-val-idag-efter-parti-2010-2020-ny-och-tidigare-metod-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/diagram-val-idag-efter-parti-2010-2020-ny-och-tidigare-metod-pdf/"
+        },
+        {
+          "text": "Diagram Partisympati 2010-2019, ny och tidigare metod (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/diagram-partisympati-2010-2019-ny-och-tidigare-metod-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/diagram-partisympati-2010-2019-ny-och-tidigare-metod-pdf/"
+        },
+        {
+          "text": "Justerad skattningsmetod i Partisympatiundersökningen – En beskrivning av de metodjusteringar som implementerats i maj 2020 (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/justerad-skattningsmetod-i-partisympatiundersokningen--en-beskrivning-av-de-metodjusteringar-som-implementerats-i-maj-2020-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/aktuellt/justerad-skattningsmetod-i-partisympatiundersokningen--en-beskrivning-av-de-metodjusteringar-som-implementerats-i-maj-2020-pdf/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2026_maj_klar.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2026_maj_klar.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2025_maj_klar.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2025_maj_klar.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2024_maj_240613.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2024_maj_240613.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2023_maj.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2023_maj.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2022_november.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2022_november.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2021_november_20211202.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2021_november_20211202.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2020_november.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2020_november.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2019_nov_rv_191203.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2019_nov_rv_191203.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2018_rv_181204.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2018_rv_181204.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2017_rv_171205.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_kd_2017_rv_171205.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2014_rv_180201.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2014_rv_180201.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2008.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2008.doc"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2007.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2007.doc"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2006.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2006.doc"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2003.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2003.doc"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2002.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2002.doc"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2001.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2001.doc"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2000.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_2000.doc"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_1999.doc",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_bs_1999.doc"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "1999-2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2026_maj__klar.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2026_maj__klar.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2025_maj__klar.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2025_maj__klar.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2024_maj_240613.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2024_maj_240613.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2023_maj.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2023_maj.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2022_november.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2022_november.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2021_maj_november_20211202.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2021_maj_november_20211202.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2020_maj_november.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2020_maj_november.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2019_nov_rv_191203.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2019_nov_rv_191203.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2018_rv_181204.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_staf_2018_rv_181204.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2017_rv_170929.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2017_rv_170929.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2016_mj_170228.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2016_mj_170228.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2015_160121.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2015_160121.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2014_maj_nov_141216.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2014_maj_nov_141216.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_2007.pdf"
+        },
+        {
+          "text": "1999-2006 (pdf)",
+          "href": "/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_1999-2006_rv_190809.pdf",
+          "url": "https://www.scb.se/contentassets/ed452064a5a54c189df3da7e576cdf4c/me0201_do_1999-2006_rv_190809.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=ME0201",
+          "url": "https://metadata.scb.se/?produkt=ME0201"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Fakta om Partisympatiundersökningen (PSU)",
+        "Frågor och svar om Partisympatiundersökningen (PSU)"
+      ],
+      "links": [
+        {
+          "text": "Fakta om Partisympatiundersökningen (PSU)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/Fordjupad-information/fakta-om-partisympatiundersokningen-psu/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/Fordjupad-information/fakta-om-partisympatiundersokningen-psu/"
+        },
+        {
+          "text": "Frågor och svar om Partisympatiundersökningen (PSU)",
+          "href": "/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/Fordjupad-information/fragor-och-svar-om-partisympatiundersokningen-psu/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/produktrelaterat/Fordjupad-information/fragor-och-svar-om-partisympatiundersokningen-psu/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "psu@scb.se"
+      ],
+      "links": [
+        {
+          "text": "psu@scb.se",
+          "href": "mailto:psu@scb.se",
+          "url": "mailto:psu@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Karolina Eriksson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 41 76",
+        "E-post",
+        "karolina.eriksson@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 41 76",
+          "href": "tel:010-479 41 76",
+          "url": "tel:010-479 41 76"
+        },
+        {
+          "text": "karolina.eriksson@scb.se",
+          "href": "mailto:karolina.eriksson@scb.se",
+          "url": "mailto:karolina.eriksson@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Thomas Helgeson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 44 34",
+        "E-post",
+        "thomas.helgeson@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 44 34",
+          "href": "tel:010-479 44 34",
+          "url": "tel:010-479 44 34"
+        },
+        {
+          "text": "thomas.helgeson@scb.se",
+          "href": "mailto:thomas.helgeson@scb.se",
+          "url": "mailto:thomas.helgeson@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Demokrati",
+        "Partier",
+        "Politik",
+        "Val"
+      ],
+      "links": [
+        {
+          "text": "Demokrati",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
+        },
+        {
+          "text": "Partier",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=147",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=147"
+        },
+        {
+          "text": "Politik",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
+        },
+        {
+          "text": "Val",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/me0201"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

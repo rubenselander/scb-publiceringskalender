@@ -1,0 +1,215 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI0401",
+    "response_url": "https://www.scb.se/MI0401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/",
+    "fetched_at": "2026-10-05T13:12:29.226501Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "93dc661941bf5023b61dba44bee5b157989a5f5b1cd2f3a508fe558010e5f68a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "MI0401",
+  "product_code_source": "calendar",
+  "title": "Luft – miljötillstånd",
+  "short_address": "https://www.scb.se/mi0401",
+  "summary": "Luftkvaliteten i Sverige mäts av kommunerna och Naturvårdsverket. Resultaten finns att hämta hos Naturvårdsverkets datavärd (SMHI). Den officiella statistiken finns publicerad på Naturvårdsverkets webbplats.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-12-30",
+  "next_publication_date": "2026-12-30",
+  "responsible_agency": {
+    "label": "Naturvårdsverket",
+    "link": {
+      "text": "Naturvårdsverket",
+      "href": "https://www.naturvardsverket.se/data-och-statistik/",
+      "url": "https://www.naturvardsverket.se/data-och-statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Luftföroreningar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-30",
+        "Luftkvaliteten i Sverige mäts av kommunerna och Naturvårdsverket. Resultaten finns att hämta hos Naturvårdsverkets datavärd (SMHI). Den officiella statistiken finns publicerad på Naturvårdsverkets webbplats."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-30",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0401&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Luftkvaliteten i Sverige mäts i tätort (gaturum och urban bakgrund) och landsbygdsmiljö (regional bakgrund) av kommunerna och Naturvårdsverket. De luftföroreningar som mäts är bland annat kvävedioxid, partiklar (PM10 och PM2,5), marknära ozon, svaveldioxid, bensen, kolmonoxid, bens(a)pyren samt metaller i luft (arsenik, kadmium, nickel, bly).",
+        "Resultaten från mätningarna rapporteras till Naturvårdsverkets datavärd SMHI, som sammanställer, lagrar och tillgängliggör data: Datavärdskap för luftkvalitet .",
+        "Hos datavärden kan grunddata laddas ner samt statistik för utvalda parametrar.",
+        "Den officiella statistiken återfinns på Naturvårdsverkets webbplats i form av diagram baserade på ett urval av data från datavärdskapet: Luften i Sverige"
+      ],
+      "links": [
+        {
+          "text": "Datavärdskap för luftkvalitet",
+          "href": "http://www.smhi.se/datavardluft",
+          "url": "http://www.smhi.se/datavardluft"
+        },
+        {
+          "text": "Luften i Sverige",
+          "href": "http://www.naturvardsverket.se/luftenisverige",
+          "url": "http://www.naturvardsverket.se/luftenisverige"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Naturvårdsverket"
+      ],
+      "links": [
+        {
+          "text": "Naturvårdsverket",
+          "href": "https://www.naturvardsverket.se/data-och-statistik/",
+          "url": "https://www.naturvardsverket.se/data-och-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Fakta om Luft – miljötillstånd"
+      ],
+      "links": [
+        {
+          "text": "Fakta om Luft – miljötillstånd",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/produktrelaterat/Fordjupad-information/fakta-om-luft--miljotillstand/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/produktrelaterat/Fordjupad-information/fakta-om-luft--miljotillstand/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "miljostatistik@scb.se"
+      ],
+      "links": [
+        {
+          "text": "miljostatistik@scb.se",
+          "href": "mailto:miljostatistik@scb.se",
+          "url": "mailto:miljostatistik@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Luftföroreningar"
+      ],
+      "links": [
+        {
+          "text": "Luftföroreningar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Luft – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/mi0401"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

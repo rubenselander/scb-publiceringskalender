@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Statliga förvaltningsmyndigheter"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:43.884265Z",
+  "sha256": "b8b84b892f3dd14500f8aceeaf57d2093f8a7ed59a1a27310aa433a9ba09a59d",
+  "encoding": "utf-8"
+}

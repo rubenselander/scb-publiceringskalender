@@ -1,0 +1,275 @@
+{
+  "code": "HS",
+  "index_link": {
+    "text": "HS Hälso- och sjukvård",
+    "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+    "fetched_at": "2026-10-05T13:15:56.764429Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "23581ce93a014c8910dde493ac8e35b51a73503cc06bb115a4f84b5fcc760e77",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Hälso- och sjukvård",
+  "areas": [
+    {
+      "label": "Dödsorsaker",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Statistik om dödsorsaker",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/dodsorsaker/dodsorsaker/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/dodsorsaker/dodsorsaker/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat dödsorsaker fördelat på ålder och kön och dödsorsaker under första levnadsåret fördelat på ålder och kön.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Födda och döda, Hälsa och ohälsa, Hälso- och sjukvård"
+        }
+      ]
+    },
+    {
+      "label": "Hälsa och sjukdomar",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Aborter",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/aborter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/aborter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar verkställda aborter fördelat efter abortmetod, graviditetslängd, tidigare antal aborter, kvinnans ålder och kommun.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Hälso- och sjukvård, Reproduktion"
+        },
+        {
+          "link": {
+            "text": "Assisterad befruktning",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/assisterad-befruktning/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/assisterad-befruktning/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Nedlagd sedan 2008. Sista redovisningsår avser 2005.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Barn, Familj, Fruktsamhet, Hälso- och sjukvård, Reproduktion"
+        },
+        {
+          "link": {
+            "text": "Fosterskador och kromosomavvikelser",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/fosterskador-och-kromosomavvikelser/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/fosterskador-och-kromosomavvikelser/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar fosterskador och kromosomavvikelser hos nyfödda barn, både levande födda och dödfödda, och hos foster vid graviditeter avbrutna på grund av fosterskador.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Barn, Födda och döda, Hälsa och ohälsa, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om amning",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/amning/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/amning/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Rapporten omfattar statistik om amning av barn under det första levnadsåret vid sex mättillfällen.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Barn, Familj, Hälsa och ohälsa, Amning"
+        },
+        {
+          "link": {
+            "text": "Statistik om graviditeter, förlossningar och nyfödda barn",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/graviditeter-forlossningar-och-nyfodda-barn/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/graviditeter-forlossningar-och-nyfodda-barn/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Rapporten omfattar alla graviditeter som lett till förlossning i Sverige med uppgifter om mödrarna (såsom ålder, rökvanor, BMI, läkemedel, förlossningssätt, smärtlindring, graviditetslängd, diagnoser och åtgärder) och de nyfödda barnen (såsom börd, födelsevikt, längd, Apgar och diagnoser).",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Barn, Familj, Fruktsamhet, Födda och döda, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om hjärtinfarkter",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/hjartinfarkter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/hjartinfarkter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar antal personer som vårdats i sluten vård för akut hjärtinfarkt och uppgifter om avlidna med hjärtinfarkt som dödsorsak efter ålder, kön och län.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Födda och döda, Hälsa och ohälsa, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om nyupptäckta cancerfall",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/cancerincidens-i-sverige/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/cancerincidens-i-sverige/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat antal diagnostiserade tumörer och antal diagnostiserade tumörer per 100 000 invånare per år för olika typer av cancer fördelat på ålder och kön.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om sjukdomar behandlade i sluten vård",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/sjukdomar-i-sluten-vard/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/sjukdomar-i-sluten-vard/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat antalet patienter som vårdats, fördelat på sjukdomsgrupper, ålder och kön.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Patienter, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om skador och förgiftningar behandlade i sluten vård",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/skador-och-forgiftningar-behandlade-i-sluten-vard/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/skador-och-forgiftningar-behandlade-i-sluten-vard/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken beskriver personer som vårdats på sjukhus för en skada, förgiftning eller till följd av en yttre orsak (omständighet). Fördelningar över skadediagnoser och yttre orsaker redovisas.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Olyckor, Patienter, Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om spädbarnsföräldrars rökvanor",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/spadbarnsforaldrars-rokvanor/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/spadbarnsforaldrars-rokvanor/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Rapporten omfattar statistik över föräldrars rökvanor vid två tillfällen, när barnet är mellan noll och fyra veckors ålder och andra gången när barnet är cirka åtta månader.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Barn, Familj, Hälsa och ohälsa, Rökning"
+        },
+        {
+          "link": {
+            "text": "Statistik om stroke",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-stroke/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-stroke/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": null,
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Statistik om tandhälsa",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-tandhalsa/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-tandhalsa/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Syftet med statistiken är att följa tandvård och tandhälsans utveckling över tid i Sverige. Statistiken används bland annat för forskning och och till utveckling av kvalitetsindikatorer, uppföljningar och utvärderingar.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": null
+        }
+      ]
+    },
+    {
+      "label": "Hälso- och sjukvård",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Hälso- och sjukvårdens kostnader",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-kostnader/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-kostnader/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Produkten är nedlagd från och med 2008, sista redovisningsår avser 2006.",
+          "responsible_agency_text": null,
+          "tags_text": "Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Hälso- och sjukvårdens verksamhet",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-verksamhet/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-verksamhet/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Produkten är nedlagd från och med 2008, sista redovisningsår avser 2006.",
+          "responsible_agency_text": null,
+          "tags_text": "Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Hälso- och sjukvårdsstatistisk årsbok (HSSA)",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Publikationen innehåller främst uppgifter hämtade ur existerande publikationer. Socialstyrelsen gav ut årsboken under perioden 1995–2002. Sedan 2004 publiceras istället fyra separata publikationer. De innehåller i varierande utsträckning de tabeller som tidigare ingått i årsboken.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälso- och sjukvård"
+        },
+        {
+          "link": {
+            "text": "Statistik om kommunala hälso- och sjukvårdsinsatser",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/kommunal-halso-och-sjukvard-till-aldre/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/kommunal-halso-och-sjukvard-till-aldre/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hur många personer som fått kommunal hälso- och sjukvård bland annat fördelat på ålder och kön.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Hälso- och sjukvård, Omsorg, Äldreomsorg"
+        },
+        {
+          "link": {
+            "text": "Statistik om legitimerad hälso- och sjukvårdspersonal samt arbetsmarknadsstatus",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/statistik-om-legitimerad-halso--och-sjukvardspersonal-samt-arbetsmarknadsstatus/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/statistik-om-legitimerad-halso--och-sjukvardspersonal-samt-arbetsmarknadsstatus/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken innehåller arbetsmarknadsstatus för samtlig legitimerad hälso- och sjukvårdspersonal och specialistbevisinnehavare, samt inom vilken näringsgren de är sysselsatta.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Anställda, Arbete, Hälsa och ohälsa, Hälso- och sjukvård, Sysselsatta, Yrke"
+        },
+        {
+          "link": {
+            "text": "Statistik om läkemedel",
+            "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/lakemedelsstatistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/lakemedelsstatistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat uppgifter om antal patienter och totala kostnader för olika substanser och läkemedelsgrupper.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Socialstyrelsen (SoS)",
+          "tags_text": "Hälsa och ohälsa, Hälso- och sjukvård, Läkemedel"
+        }
+      ]
+    }
+  ]
+}

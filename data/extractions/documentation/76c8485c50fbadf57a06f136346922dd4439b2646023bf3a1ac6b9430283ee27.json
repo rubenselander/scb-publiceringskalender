@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/RV0102",
+    "response_url": "https://www.scb.se/RV0102",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/anmalda-brott/",
+    "fetched_at": "2026-10-05T13:13:47.193513Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "b84f2ecbb9dc87a3277440782a6fc58afaaf36ae4305fecb704f3bd89345fc7b",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Anmälda brott",
+  "product_code": "RV0102",
+  "has_documentation_section": false,
+  "groups": []
+}

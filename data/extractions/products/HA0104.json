@@ -1,0 +1,747 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/HA0104",
+    "response_url": "https://www.scb.se/HA0104",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/",
+    "fetched_at": "2026-10-05T13:10:52.423869Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "528e1e62aa1b8d3711321e83cbb6ee0467fdaecb6e3d7d998eb8e8b84a68ff99",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "HA0104",
+  "product_code_source": "calendar",
+  "title": "Tjänsteproduktionsindex (TjPI)",
+  "short_address": "https://www.scb.se/ha0104",
+  "summary": "Statistiken avser att månadsvis mäta utvecklingen av den svenska tjänsteproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-09",
+  "next_publication_date": "2026-10-09",
+  "responsible_agency": null,
+  "notices": [
+    "Statistiknyheter publiceras ej längre för Tjänsteproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
+    "Produktionsvärdeindex",
+    "Användare som söker information om Producentprisindex för tjänster (TPI) , hänvisas till Prisindex i producent- och importled (PPI) där TPI ingår.",
+    "Prisindex i producent- och importled (PPI)"
+  ],
+  "tags": [
+    {
+      "text": "Företagsekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+    },
+    {
+      "text": "Index",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+    },
+    {
+      "text": "Näringsliv",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=140",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140"
+    },
+    {
+      "text": "Tjänsteproduktion",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=194",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=194"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-09",
+        "Statistiken avser att månadsvis mäta utvecklingen av den svenska tjänsteproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-09",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HA0104&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HA0104&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiknyheter publiceras ej längre för Tjänsteproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
+        "Produktionsvärdeindex",
+        "Användare som söker information om Producentprisindex för tjänster (TPI) , hänvisas till Prisindex i producent- och importled (PPI) där TPI ingår.",
+        "Prisindex i producent- och importled (PPI)"
+      ],
+      "links": [
+        {
+          "text": "Produktionsvärdeindex",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/"
+        },
+        {
+          "text": "Prisindex i producent- och importled (PPI)",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tjänsteproduktionsindex",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM07"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M07",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej (SNI 2007)"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej (SNI 2007)",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej (SNI 2002)"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej (SNI 2002)",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104C"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2026_v2_20260907_x.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2026_v2_20260907_x.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2025_v1_20250127.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2025_v1_20250127.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2024_20240328.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2024_20240328.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2023_231214.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2023_231214.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2022_v2_220425.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2022_v2_220425.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2021_jr_210309.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2021_jr_210309.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2020_jr210309.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2020_jr210309.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2019.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2018_rb_180302.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2018_rb_180302.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2017_171106_jn.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_kd_2017_171106_jn.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_bs_2008.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2026_v2_20260907_x.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2026_v2_20260907_x.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2025_v1_20250127.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2025_v1_20250127.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2024_20240327.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2024_20240327.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2022_sn_220309.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2022_sn_220309.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2021_jr_210309.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2021_jr_210309.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2020_jr_210309.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_staf_2020_jr_210309.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/nv0007_staf_2018_ah_181030.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/nv0007_staf_2018_ah_181030.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2017_js_170331.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2017_js_170331.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2016.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2015_jr_170303.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2015_jr_170303.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/ha0104_do_2008.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=HA0104",
+          "url": "https://metadata.scb.se/?produkt=HA0104"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
+        "Förändringar i statistiken - Tjänsteproduktionsindex - april 2023",
+        "Tillämpning av revideringspolicy (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/produktrelaterat/Fordjupad-information/faq-pin/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/produktrelaterat/Fordjupad-information/faq-pin/"
+        },
+        {
+          "text": "Förändringar i statistiken - Tjänsteproduktionsindex - april 2023",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/produktrelaterat/Fordjupad-information/forandringar-i-statistiken---tjansteproduktionsindex---april-2023/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/produktrelaterat/Fordjupad-information/forandringar-i-statistiken---tjansteproduktionsindex---april-2023/"
+        },
+        {
+          "text": "Tillämpning av revideringspolicy (pdf)",
+          "href": "/contentassets/11b1da3614e148a197618e1f33e663ca/tillampningsdokument-revideringar_20261001.pdf",
+          "url": "https://www.scb.se/contentassets/11b1da3614e148a197618e1f33e663ca/tillampningsdokument-revideringar_20261001.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "pin@scb.se"
+      ],
+      "links": [
+        {
+          "text": "pin@scb.se",
+          "href": "mailto:pin@scb.se",
+          "url": "mailto:pin@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Företagsekonomi",
+        "Index",
+        "Näringsliv",
+        "Tjänsteproduktion"
+      ],
+      "links": [
+        {
+          "text": "Företagsekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+        },
+        {
+          "text": "Index",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+        },
+        {
+          "text": "Näringsliv",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=140",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140"
+        },
+        {
+          "text": "Tjänsteproduktion",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=194",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=194"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/ha0104"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

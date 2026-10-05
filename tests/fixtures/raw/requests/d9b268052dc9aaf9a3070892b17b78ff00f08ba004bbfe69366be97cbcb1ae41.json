@@ -1,0 +1,17 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Statliga förvaltningsmyndigheter"
+    },
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload?format=false&myndgrupp=Statliga+f%C3%B6rvaltningsmyndigheter",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:44.123546Z",
+  "sha256": "66641a60c00c1d474b973310892701057fbafb0f61aff7ec6394d920c3836ff3",
+  "encoding": "utf-8"
+}

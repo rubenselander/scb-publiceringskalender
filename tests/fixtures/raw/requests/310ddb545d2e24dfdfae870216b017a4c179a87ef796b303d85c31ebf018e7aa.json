@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Statliga affärsverk"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:45.413288Z",
+  "sha256": "60db2f88184694d0ca683e203cfd04d4ef424c2d0c46fc8dca4fe52e61b944c0",
+  "encoding": "utf-8"
+}

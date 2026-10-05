@@ -1,0 +1,1835 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/FM0001",
+    "response_url": "https://www.scb.se/FM0001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/",
+    "fetched_at": "2026-10-05T13:10:45.759820Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "83c5641103b3f7fddbfa3a3b1abd926b14929024c872e9e9e09b285b13a948d9",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "FM0001",
+  "product_code_source": "calendar",
+  "title": "Betalningsbalansen (BoP)",
+  "short_address": "https://www.scb.se/fm0001",
+  "summary": "Statistiken visar reala och finansiella transaktioner gentemot utlandet. Betalningsbalansen delas in i bytesbalansen, kapitalbalansen och den finansiella balansen. Utlandsställningen visar ett lands totala nettoskuldsättning.",
+  "official_statistics_marker": null,
+  "next_publication_text": "Nästa publicering: 2026-11-05",
+  "next_publication_date": "2026-11-05",
+  "responsible_agency": {
+    "label": "Sveriges riksbank",
+    "link": {
+      "text": "Sveriges riksbank",
+      "href": "http://www.riksbank.se",
+      "url": "http://www.riksbank.se"
+    }
+  },
+  "notices": [
+    "Publiceringen var ursprungligen planerad till 26 januari 2026. Nytt publiceringsdatum är 3 februari 2026.",
+    "Siffror för export och import kan skilja mellan SCB:s olika statistikprodukter. Skattningen av utrikeshandel med tjänster som publiceras som en del av betalningsbalansen och nationalräkenskaperna kan skilja sig från de värden som publiceras i undersökningen för utrikeshandel med tjänster.",
+    "Ett arbete pågår för att öka samstämmigheten mellan de reala såväl som de finansiella delarna av betalningsbalansen och finansräkenskaperna."
+  ],
+  "tags": [
+    {
+      "text": "Aktier",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
+    },
+    {
+      "text": "Bytesbalans",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=37",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=37"
+    },
+    {
+      "text": "Investeringar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
+    },
+    {
+      "text": "Tillgångar och skulder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+    },
+    {
+      "text": "Tjänsteexport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=193",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=193"
+    },
+    {
+      "text": "Transaktioner",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=196",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=196"
+    },
+    {
+      "text": "Transfereringar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=197",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=197"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-05",
+        "Statistiken visar reala och finansiella transaktioner gentemot utlandet. Betalningsbalansen delas in i bytesbalansen, kapitalbalansen och den finansiella balansen. Utlandsställningen visar ett lands totala nettoskuldsättning."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-05",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0001&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0001&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Sveriges riksbank"
+      ],
+      "links": [
+        {
+          "text": "Sveriges riksbank",
+          "href": "http://www.riksbank.se",
+          "url": "http://www.riksbank.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nytt datum för publiceringen av 1:a halvåret 2025",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Publiceringen var ursprungligen planerad till 26 januari 2026. Nytt publiceringsdatum är 3 februari 2026."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Samordning mellan Betalningsbalansen och Nationalräkenskaper",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Siffror för export och import kan skilja mellan SCB:s olika statistikprodukter. Skattningen av utrikeshandel med tjänster som publiceras som en del av betalningsbalansen och nationalräkenskaperna kan skilja sig från de värden som publiceras i undersökningen för utrikeshandel med tjänster.",
+        "Ett arbete pågår för att öka samstämmigheten mellan de reala såväl som de finansiella delarna av betalningsbalansen och finansräkenskaperna."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Bytesbalans",
+        "126,2",
+        "miljarder kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Finansiell balans",
+        "215,7",
+        "miljarder kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Utlandsställning",
+        "5 300,7",
+        "miljarder kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-09-14",
+        "Under andra halvåret 2025 ökade det svenska innehavet i utländska portföljtillgångar och uppgick vid årets slut till 11 486 miljarder kronor, en ökning med 7,5 procent jämfört med juni 2025. Aktier stod för den största uppgången, följt av fonder. Även räntebärande värdepapper med lång löptid ökade, medan korta räntebärande värdepapper minskade under perioden."
+      ],
+      "links": [
+        {
+          "text": "Svenskarnas portföljtillgångar i utlandet ökade sista halvåret av 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-andra-halvaret-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-andra-halvaret-2025/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=FM0001",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=FM0001"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Aktuella tabeller",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Betalningsbalansen",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aktuella-tabeller/betalningsbalansen2/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aktuella-tabeller/betalningsbalansen2/"
+        },
+        {
+          "text": "Utlandsställning",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aktuella-tabeller/utlandsstallning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aktuella-tabeller/utlandsstallning/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Betalningsbalansen",
+          "Tabell",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning",
+          "Tabell",
+          "2026-09-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Äldre tidsserier",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Betalningsbalansen, tidsserier 1950–1981",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19501981/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19501981/"
+        },
+        {
+          "text": "Portföljinvesteringar, tidsserier 1998–2005",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19982005/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19982005/"
+        },
+        {
+          "text": "Svenska aktier 1991–2006",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/svenska-aktier-19912006/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/svenska-aktier-19912006/"
+        },
+        {
+          "text": "Utlandsställning, tidsserier 1982–1996",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19821996/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/tabell-och-diagram/aldre-tidsserier/tidsserier-19821996/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Betalningsbalansen, tidsserier 1950–1981",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Portföljinvesteringar, tidsserier 1998–2005",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Svenska aktier 1991–2006",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Utlandsställning, tidsserier 1982–1996",
+          "Excel-fil",
+          ""
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Betalningsbalansen",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Betalningsbalans. Bytesbalans. Export och import landgruppsfördelad efter intra/extra EU samt kontopost. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BytBAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BytBAr"
+        },
+        {
+          "text": "Betalningsbalans. Bytesbalans. Export och import landsgruppsfördelad efter Intra/extra EU samt kontopost. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BytBKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BytBKv"
+        },
+        {
+          "text": "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001FinansBKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001FinansBKv"
+        },
+        {
+          "text": "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001FinansBAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001FinansBAr"
+        },
+        {
+          "text": "Betalningsbalans. Primärinkomst. Export och import efter kontopost. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PInkomstKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PInkomstKv"
+        },
+        {
+          "text": "Betalningsbalans. Revideringar efter kontopost. Kvartal 1990K1 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalRevKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalRevKv"
+        },
+        {
+          "text": "Betalningsbalans. Sekundärinkomst och kapitalbalans. Transaktioner efter kontopost. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SInkomstKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SInkomstKv"
+        },
+        {
+          "text": "Betalningsbalans. Säsongsrensad bytesbalans och kapitalbalans. Transaktioner efter kontopost. Kvartal 2012K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBSasKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBSasKv"
+        },
+        {
+          "text": "Betalningsbalans. Transaktioner efter kontopost. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalKv"
+        },
+        {
+          "text": "Betalningsbalans. Transaktioner efter kontopost. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001BetBalAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Betalningsbalans. Bytesbalans. Export och import landgruppsfördelad efter intra/extra EU samt kontopost. År 1982 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Bytesbalans. Export och import landsgruppsfördelad efter Intra/extra EU samt kontopost. Kvartal 1982K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. Kvartal 1982K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. År 1982 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Primärinkomst. Export och import efter kontopost. Kvartal 1982K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Revideringar efter kontopost. Kvartal 1990K1 - 2026K1",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Sekundärinkomst och kapitalbalans. Transaktioner efter kontopost. Kvartal 1982K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Säsongsrensad bytesbalans och kapitalbalans. Transaktioner efter kontopost. Kvartal 2012K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Transaktioner efter kontopost. Kvartal 1982K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Betalningsbalans. Transaktioner efter kontopost. År 1982 - 2025",
+          "2026-09-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Utlandsställning",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Utlandsställning. Revideringar efter kontopost. Kvartal 2011K1 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlRevKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlRevKv"
+        },
+        {
+          "text": "Utlandsställning. Räntebärande skuld efter kontopost (fördelad efter sektor och löptid). Kvartal 1997K4 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001RSkuldKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001RSkuldKv"
+        },
+        {
+          "text": "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. Kvartal 2006K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlSektorKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlSektorKv"
+        },
+        {
+          "text": "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlSektorAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlSektorAr"
+        },
+        {
+          "text": "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. Kvartal 2006K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlTSVKKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlTSVKKv"
+        },
+        {
+          "text": "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlTSVKAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlTSVKAr"
+        },
+        {
+          "text": "Utlandsställning. Tillgångar och skulder med direktinvesteringar till marknadsvärde, efter valuta och kontopost. År 1997 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlStMVAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001UtlStMVAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Utlandsställning. Revideringar efter kontopost. Kvartal 2011K1 - 2026K1",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Räntebärande skuld efter kontopost (fördelad efter sektor och löptid). Kvartal 1997K4 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. Kvartal 2006K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. År 1982 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. Kvartal 2006K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. År 1982 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Utlandsställning. Tillgångar och skulder med direktinvesteringar till marknadsvärde, efter valuta och kontopost. År 1997 - 2025",
+          "2026-09-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Portföljinvesteringar",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. Kvartal 1998K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIKv"
+        },
+        {
+          "text": "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. År 1998 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIAr"
+        },
+        {
+          "text": "Portföljinvesteringar. Utlandets innehav av svenska räntebärande värdepapper efter typ av innehav, sektor och löptid (uppdateras ej). Månad 2006M11 - 2021M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001DepM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001DepM"
+        },
+        {
+          "text": "Portföljinvesteringar. Utlandets innehav av svenska räntebärande värdepapper efter typ av innehav, sektor och löptid. Kvartal 2019K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001DepK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001DepK"
+        },
+        {
+          "text": "Svenska portföljinvesteringar i utlandet efter land och värdepapper. Halvår 2002H2 - 2025H2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIUAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIUAr"
+        },
+        {
+          "text": "Svenska portföljinvesteringar i utlandet efter värdepapper och sektor. Halvår 2002H2 - 2025H2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PISektAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PISektAr"
+        },
+        {
+          "text": "Svenska portföljinvesteringar i utlandet. Räntebärande värdepapper efter löptid och emissionsvaluta. Halvår 2004H2 - 2025H2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIValuta",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIValuta"
+        },
+        {
+          "text": "Svenska portföljinvesteringar i utlandet. Räntebärande värdepapper efter löptid och emittentsektor. Halvår 2002H2 - 2025H2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIEmittent",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIEmittent"
+        },
+        {
+          "text": "Utlandets handel med svenska aktier i miljoner kronor (uppdateras ej). Månad 2006M11 - 2020M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001PIM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. Kvartal 1998K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. År 1998 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Portföljinvesteringar. Utlandets innehav av svenska räntebärande värdepapper efter typ av innehav, sektor och löptid (uppdateras ej). Månad 2006M11 - 2021M06",
+          "2021-08-12"
+        ],
+        [
+          "Portföljinvesteringar. Utlandets innehav av svenska räntebärande värdepapper efter typ av innehav, sektor och löptid. Kvartal 2019K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Svenska portföljinvesteringar i utlandet efter land och värdepapper. Halvår 2002H2 - 2025H2",
+          "2026-09-14"
+        ],
+        [
+          "Svenska portföljinvesteringar i utlandet efter värdepapper och sektor. Halvår 2002H2 - 2025H2",
+          "2026-09-14"
+        ],
+        [
+          "Svenska portföljinvesteringar i utlandet. Räntebärande värdepapper efter löptid och emissionsvaluta. Halvår 2004H2 - 2025H2",
+          "2026-09-14"
+        ],
+        [
+          "Svenska portföljinvesteringar i utlandet. Räntebärande värdepapper efter löptid och emittentsektor. Halvår 2002H2 - 2025H2",
+          "2026-09-14"
+        ],
+        [
+          "Utlandets handel med svenska aktier i miljoner kronor (uppdateras ej). Månad 2006M11 - 2020M12",
+          "2021-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Direktinvesteringar",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T10"
+        },
+        {
+          "text": "Direktinvesteringar. Avkastning efter land. År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T09"
+        },
+        {
+          "text": "Direktinvesteringar. Nettoflöde efter bransch SNI 2002. Uppdateras ej. År 1998 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SNI02T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SNI02T03"
+        },
+        {
+          "text": "Direktinvesteringar. Nettotransaktion efter bransch SNI 2007. År 2008 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SNI07T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001SNI07T03"
+        },
+        {
+          "text": "Direktinvesteringar. Nettotransaktion efter investeringspost. Kvartal 1998K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T01"
+        },
+        {
+          "text": "Direktinvesteringar. Nettotransaktion efter land Kvartal 1998K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T04Kvb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T04Kvb"
+        },
+        {
+          "text": "Direktinvesteringar. Nettotransaktion efter land.  År 1998 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T04b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T04b"
+        },
+        {
+          "text": "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T07"
+        },
+        {
+          "text": "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T08"
+        },
+        {
+          "text": "Direktinvesteringar. Tillgångar efter land. År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T06"
+        },
+        {
+          "text": "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T11"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2024",
+          "2025-11-05"
+        ],
+        [
+          "Direktinvesteringar. Avkastning efter land. År 2008 - 2024",
+          "2025-11-05"
+        ],
+        [
+          "Direktinvesteringar. Nettoflöde efter bransch SNI 2002. Uppdateras ej. År 1998 - 2007",
+          "2012-11-28"
+        ],
+        [
+          "Direktinvesteringar. Nettotransaktion efter bransch SNI 2007. År 2008 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Direktinvesteringar. Nettotransaktion efter investeringspost. Kvartal 1998K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Direktinvesteringar. Nettotransaktion efter land Kvartal 1998K1 - 2026K2",
+          "2026-09-04"
+        ],
+        [
+          "Direktinvesteringar. Nettotransaktion efter land.  År 1998 - 2025",
+          "2026-09-04"
+        ],
+        [
+          "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2024",
+          "2025-11-05"
+        ],
+        [
+          "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2024",
+          "2025-11-05"
+        ],
+        [
+          "Direktinvesteringar. Tillgångar efter land. År 2008 - 2024",
+          "2025-11-05"
+        ],
+        [
+          "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2024",
+          "2025-12-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Balance of payments 2016",
+          "href": "/publikation/32277",
+          "url": "https://www.scb.se/publikation/32277"
+        },
+        {
+          "text": "Betalningsbalansen 2016",
+          "href": "/publikation/30785",
+          "url": "https://www.scb.se/publikation/30785"
+        },
+        {
+          "text": "Direktinvesteringar 2015",
+          "href": "/publikation/27464",
+          "url": "https://www.scb.se/publikation/27464"
+        },
+        {
+          "text": "Direct Investment 2015",
+          "href": "/publikation/27465",
+          "url": "https://www.scb.se/publikation/27465"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Balance of payments 2016",
+          "",
+          "2017-03-02"
+        ],
+        [
+          "Betalningsbalansen 2016",
+          "",
+          "2017-02-23"
+        ],
+        [
+          "Direktinvesteringar 2015",
+          "",
+          "2016-12-12"
+        ],
+        [
+          "Direct Investment 2015",
+          "",
+          "2016-12-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (101)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=FM0001&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=FM0001&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "All handel med värdepapper med utlandet var i princip förbjuden i Sverige i början av andra världskriget. Denna valutareglering luckrades gradvis upp och fram till nu har såväl omsättningen i handeln med värdepapper som innehav ökat dramatiskt. För helåret 2017 uppgick svenska investerares innehav i utländska värdepapper till drygt 5217 miljarder kronor. Utländska investerares innehav av svenska värdepapper uppgick till 6808 miljarder kronor."
+      ],
+      "links": [
+        {
+          "text": "Värdepappershandel med utlandet genom tiderna",
+          "href": "/hitta-statistik/artiklar/2018/vardepappershandel-med-utlandet-genom-tiderna/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/vardepappershandel-med-utlandet-genom-tiderna/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-12-07"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Svenska företags ägarintressen utomlands växer i takt med exporten. Under 2000-talet har svenska bolag ökat sina direktinvesteringar inom EU, det vill säga etablering eller uppköp av befintliga företag, med 181 procent. År 2016 uppgick investeringarna i EU till 2 058 miljarder svenska kronor."
+      ],
+      "links": [
+        {
+          "text": "EU viktigast för svensk handel och investeringar",
+          "href": "/hitta-statistik/artiklar/2018/eu-ar-sveriges-viktigaste-handelspartner-och-investeringsland/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/eu-ar-sveriges-viktigaste-handelspartner-och-investeringsland/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-04-23"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Företag",
+        "Import och export",
+        "Näringsliv",
+        "Internationella företag"
+      ],
+      "links": [
+        {
+          "text": "Företag",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=67&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67&selection=articles"
+        },
+        {
+          "text": "Import och export",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=89&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89&selection=articles"
+        },
+        {
+          "text": "Näringsliv",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=140&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140&selection=articles"
+        },
+        {
+          "text": "Internationella företag",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=273&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Betalningsbalansen beskriver Sveriges position på den globala marknaden. Den redovisar Sveriges alla transaktioner med omvärlden, och mäter bland annat förändringar av finansiella tillgångar och skulder gentemot omvärlden. Därför är betalningsbalansen ett användbart verktyg för politiker, beslutsfattare och forskare."
+      ],
+      "links": [
+        {
+          "text": "Betalningsbalansen ger en bild av svensk ekonomi",
+          "href": "/hitta-statistik/artiklar/2017/Betalningsbalansen-ger-en-bild-av-svensk-ekonomi/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Betalningsbalansen-ger-en-bild-av-svensk-ekonomi/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-10-12"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "BNP",
+        "Ekonomi",
+        "Import och export"
+      ],
+      "links": [
+        {
+          "text": "BNP",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles"
+        },
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
+        },
+        {
+          "text": "Import och export",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=89&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2026_slutlig.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2026_slutlig.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2025_20250605.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2025_20250605.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2024_20240904.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2024_20240904.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2022_ln_220304.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2022_ln_220304.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2021_aa_210305.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2021_aa_210305.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2020_aa_200907.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2020_aa_200907.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2019_ll_190219.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2019_ll_190219.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2018_fo_180629.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2018_fo_180629.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2017_171201_lt.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_kd_2017_171201_lt.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2016_mw_150524.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2016_mw_150524.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2015_150626.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2015_150626.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2014_141205.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2014_141205.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_bs_2008.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "Källor och metoder 2015 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2026_slutlig.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2026_slutlig.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2025_20250605.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2025_20250605.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2024_v2_uppdaterad_2024-11-13.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2024_v2_uppdaterad_2024-11-13.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2022_ln_220304.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2022_ln_220304.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2021_ll_210305.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/fm0001_staf_2021_ll_210305.pdf"
+        },
+        {
+          "text": "Källor och metoder 2015 (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/kallor-och-metoder-2015.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/kallor-och-metoder-2015.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=FM0001",
+          "url": "https://metadata.scb.se/?produkt=FM0001"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Ny säsongsrensningsmodell",
+        "Fortsatt hantering av tidsserier för värdepappersstatistik -20230904",
+        "Fortsatt implementering av nya källor för värdepapperstatistik - 20220829",
+        "Fortsatt implementering av nya källor för värdepapperstatistik - 20211118",
+        "Nya källor för värdepapperstatistik – 20210825",
+        "Inställda aktieutdelningar ger ett större överskott i bytesbalansen (pdf) - 20201112",
+        "Svenskar placerar mer i krona och dollar (pdf) – 20200923",
+        "Samordning av Bytesbalansen (pdf) – 20200608",
+        "USA populärt bland svenska placerare (pdf) – 20191212",
+        "Revideringspolicy Betalningsbalansen (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Ny säsongsrensningsmodell",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/ny-sasongsrensningsmodell/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/ny-sasongsrensningsmodell/"
+        },
+        {
+          "text": "Fortsatt hantering av tidsserier för värdepappersstatistik -20230904",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-hantering-av-tidsserier-for-vardepappersstatistik-2023-09-04/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-hantering-av-tidsserier-for-vardepappersstatistik-2023-09-04/"
+        },
+        {
+          "text": "Fortsatt implementering av nya källor för värdepapperstatistik - 20220829",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-implementering-av-nya-kallor-for-vardepapperstatistik-2022-08-29/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-implementering-av-nya-kallor-for-vardepapperstatistik-2022-08-29/"
+        },
+        {
+          "text": "Fortsatt implementering av nya källor för värdepapperstatistik - 20211118",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-implementering-av-nya-kallor-for-vardepapperstatistik---20211118/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/fortsatt-implementering-av-nya-kallor-for-vardepapperstatistik---20211118/"
+        },
+        {
+          "text": "Nya källor för värdepapperstatistik – 20210825",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/nya-kallor-for-vardepapperstatistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/nya-kallor-for-vardepapperstatistik/"
+        },
+        {
+          "text": "Inställda aktieutdelningar ger ett större överskott i bytesbalansen (pdf) - 20201112",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/installda-aktieutdelningar-ger-ett-storre-overskott-i-bytesbalanse-pdfn/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/installda-aktieutdelningar-ger-ett-storre-overskott-i-bytesbalanse-pdfn/"
+        },
+        {
+          "text": "Svenskar placerar mer i krona och dollar (pdf) – 20200923",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/svenskar-placerar-mer-i-krona-och-dollar-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/svenskar-placerar-mer-i-krona-och-dollar-pdf/"
+        },
+        {
+          "text": "Samordning av Bytesbalansen (pdf) – 20200608",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/samordning-av-bytesbalansen-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/samordning-av-bytesbalansen-pdf/"
+        },
+        {
+          "text": "USA populärt bland svenska placerare (pdf) – 20191212",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/usa-populart-bland-svenska-placerare/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/produktrelaterat/Fordjupad-information/usa-populart-bland-svenska-placerare/"
+        },
+        {
+          "text": "Revideringspolicy Betalningsbalansen (pdf)",
+          "href": "/contentassets/c51f670aba0346baac44d3c89790014b/revideringspolicy-betalningsbalansen.pdf",
+          "url": "https://www.scb.se/contentassets/c51f670aba0346baac44d3c89790014b/revideringspolicy-betalningsbalansen.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "bop@scb.se"
+      ],
+      "links": [
+        {
+          "text": "bop@scb.se",
+          "href": "mailto:bop@scb.se",
+          "url": "mailto:bop@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Aktier",
+        "Bytesbalans",
+        "Investeringar",
+        "Tillgångar och skulder",
+        "Tjänsteexport",
+        "Transaktioner",
+        "Transfereringar"
+      ],
+      "links": [
+        {
+          "text": "Aktier",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
+        },
+        {
+          "text": "Bytesbalans",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=37",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=37"
+        },
+        {
+          "text": "Investeringar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
+        },
+        {
+          "text": "Tillgångar och skulder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+        },
+        {
+          "text": "Tjänsteexport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=193",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=193"
+        },
+        {
+          "text": "Transaktioner",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=196",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=196"
+        },
+        {
+          "text": "Transfereringar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=197",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=197"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Betalningsbalansen (BoP)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/fm0001"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "code": "NR",
+  "index_link": {
+    "text": "NR Nationalräkenskaper",
+    "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+    "fetched_at": "2026-10-05T13:15:58.438929Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "47902de870e8611743204e635ad9ac40ca808cbeac0230a6228280feda544800",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Nationalräkenskaper",
+  "areas": [
+    {
+      "label": "Finansräkenskaper",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Finansräkenskaper, kvartal och år",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar olika samhällssektorers finansiella sparande och finansiella förmögenhet fördelat på olika finansobjekt och visar var i samhällsekonomin finansiella överskott och underskott uppstår, hur överskotten placeras och hur underskotten finansieras.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Ekonomi, Finanser, Förmögenhet, Sparande, Tillgångar och skulder, Transaktioner"
+        },
+        {
+          "link": {
+            "text": "Sparbarometern",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/sparbarometern/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/sparbarometern/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Sparbarometern är en snabbstatistik med syfte att snabbt ge en preliminär kalkyl över hushållens finansiella sparande och finansiella förmögenhet kvartalsvis.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Förmögenhet, Hushåll, Lån, Sparande, Tillgångar och skulder"
+        }
+      ]
+    },
+    {
+      "label": "Nationalräkenskaper",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Hälsoräkenskaper",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat hälso- och sjukvårdsutgifter efter ändamål, finansiär, och producentgrupp totalt och i relation till BNP. Senaste publicerade året är att betraktas som preliminärt. Samtliga värden är i löpande priser.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Hushåll, Hälsa och ohälsa, Offentlig ekonomi"
+        },
+        {
+          "link": {
+            "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Nationalräkenskaperna (NR) är ett kontosystem som sammanfattar och beskriver vårt lands ekonomiska aktiviteter och utveckling. I nationalräkenskaperna beräknas bland annat bruttonationalprodukten (BNP), reala sektorräkenskaper och finansräkenskaper.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Ekonomi, Konjunktur"
+        },
+        {
+          "link": {
+            "text": "Nationalräkenskaper, tidigare definitioner",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-tidigare-definitioner/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-tidigare-definitioner/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "På den här sidan finns äldre publicerad statistik för nationalräkenskaperna som är enligt tidigare gällande regelverk eller klassifikationer. I september 2014 övergick Sverige till att beräkna nationalräkenskaperna enligt EU-förordningen ENS 2010, de äldre beräkningarna utgick från de tidigare regelverken ENS 1995 och SNA 1968. Här finns även tabeller som är baserade på äldre klassifikationer av t.ex. svensk näringsgrensindelning (SNI) och hushållens konsumtion enligt ändamål (COICOP).",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Ekonomi, Konjunktur"
+        },
+        {
+          "link": {
+            "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "EU-direktiv 2011/85 med dess tillägg i EU-direktiv 2024/1265 specificerar ett antal krav på medlemsländernas ramverk för offentliga finanser. Det innebär bland annat att inkomster, utgifter och finansiellt sparande ska redovisas kvartalsvis för staten respektive kommuner och regioner tillsammans, samt sociala trygghetsfonder. Utöver det, tilläggsuppgifter årsvis där syftet är att fånga upp transaktioner där offentliga finanser skulle kunna påverkas.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Offentlig ekonomi, Stabilitets- och tillväxtpakten, Statsbudget"
+        },
+        {
+          "link": {
+            "text": "Offentliga förvaltningens sparande och bruttoskuld enligt EU:s konvergenskriterier",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-forvaltningens-sparande-och-bruttoskuld-enligt-eu-s-konvergenskriterier/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-forvaltningens-sparande-och-bruttoskuld-enligt-eu-s-konvergenskriterier/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar den offentliga förvaltningens finansiella sparande och bruttoskuld enligt reglerna i stabilitets- och tillväxtpakten. Se också Eurostats webbplats avseende offentliga finanser och förfarandet vid alltför stora underskott (Excessive Deficit Procedure, EDP).",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, EU:s konvergenskriterier, Finansiellt sparande, Maastrichtskuld, Offentlig ekonomi, Stabilitets- och tillväxtpakten"
+        },
+        {
+          "link": {
+            "text": "Regionalräkenskaper",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/regionalrakenskaper/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/regionalrakenskaper/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Regionalräkenskaperna är den regionala motsvarigheten till nationalräkenskaperna. Statistiken omfattar bruttoregionprodukter (BRP), lönesummor, medelantal sysselsatta, fasta bruttoinvesteringar och hushållens disponibla inkomster per region.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Ekonomi, Konjunktur"
+        },
+        {
+          "link": {
+            "text": "Utgifter för det sociala skyddet i Sverige och Europa samt utgifternas finansiering (ESSPROS)",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/utgifter-for-det-sociala-skyddet-i-sverige-och-europa-samt-utgifternas-finansiering-esspros/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/utgifter-for-det-sociala-skyddet-i-sverige-och-europa-samt-utgifternas-finansiering-esspros/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat totala utgifter för det sociala skyddet samt totala inkomster för dess finansiering. Totala utgifter, totala inkomster och utgifter per funktion visas även i förhållande till BNP. Jämförelser med länder i Europa finns också.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Hushåll, Offentlig ekonomi, Socialt skydd"
+        }
+      ]
+    },
+    {
+      "label": "Ämnesövergripande statistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Sveriges ekonomi – statistiskt perspektiv",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/amnesovergripande-statistik/sveriges-ekonomi-statistiskt-perspektiv/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/amnesovergripande-statistik/sveriges-ekonomi-statistiskt-perspektiv/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Sveriges ekonomi – statistiskt perspektiv ger en bild av läget i den svenska ekonomin. Här finns fördjupande artiklar med utgångspunkt i den ekonomiska statistiken. Vi vänder oss till dem som är intresserade av att följa den ekonomiska utvecklingen.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Ekonomi, Konjunktur"
+        }
+      ]
+    },
+    {
+      "label": "Övrigt",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Nationalräkenskaper övrigt",
+            "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Här publiceras statistik som har anknytning till nationalräkenskaperna, såsom den månadsvisa BNP-indikatorn, nationalförmögenheten, hushållsfördelningsräkenskaper och multifaktorproduktiviteten.",
+          "responsible_agency_text": null,
+          "tags_text": null
+        }
+      ]
+    }
+  ]
+}

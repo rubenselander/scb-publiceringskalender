@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Sveriges domstolar samt Domstolsverket&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Sveriges%20domstolar%20samt%20Domstolsverket&format=False",
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-10-05T12:59:47.363446Z",
+  "sha256": "7682b521b72dba0bf859308a857259e27034623c9bb0dc72fa076ad9a5ae7eb0",
+  "encoding": "utf-8"
+}

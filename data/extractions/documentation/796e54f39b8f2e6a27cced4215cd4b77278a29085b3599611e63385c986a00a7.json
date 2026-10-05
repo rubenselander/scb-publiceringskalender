@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1006",
+    "response_url": "https://www.scb.se/TK1006",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/lastbilstrafik/",
+    "fetched_at": "2026-10-05T13:14:42.746705Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "23a7c6679ec6aabcffa925fe2b0b353066fbfa290f12610c3539a7d0a8d8b3e9",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Lastbilstrafik",
+  "product_code": "TK1006",
+  "has_documentation_section": false,
+  "groups": []
+}

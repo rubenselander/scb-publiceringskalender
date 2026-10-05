@@ -1,0 +1,975 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/OE0108",
+    "response_url": "https://www.scb.se/OE0108",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/",
+    "fetched_at": "2026-10-05T13:13:29.603264Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "22ea6cf364cde989338c3e957b2574999347773925d7f3d44561409d8bae2fbb",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "OE0108",
+  "product_code_source": "calendar",
+  "title": "Offentligt ägda företag",
+  "short_address": "https://www.scb.se/oe0108",
+  "summary": "Statistiken innehåller uppgifter om omfattning, verksamhet och ekonomi för de företag som ägs av stat, regioner och kommuner. Variabler är bland annat antal företag och antal anställda, skulder och eget kapital, nettoomsättning, tillgångar, avkastning och soliditet.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Företagsekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+    },
+    {
+      "text": "Tillgångar och skulder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-27",
+        "Statistiken innehåller uppgifter om omfattning, verksamhet och ekonomi för de företag som ägs av stat, regioner och kommuner. Variabler är bland annat antal företag och antal anställda, skulder och eget kapital, nettoomsättning, tillgångar, avkastning och soliditet."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0108&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0108&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2025-12-02",
+        "Resultatet för regionägda företagen förbättrades under 2024 jämfört med 2023. Det är transportbranschen som främst visar ett förbättrat resultat tack vare att resandet återgår till normala nivåer."
+      ],
+      "links": [
+        {
+          "text": "Förbättrat resultat för regionägda företagen",
+          "href": "/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/pong/statistiknyhet/offentligt-agda-foretag-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/pong/statistiknyhet/offentligt-agda-foretag-2024/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=OE0108",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=OE0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Antal företag efter ägarandel och beräknat årsresultat efter kommun. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Antal företag efter ägarandel och beräknat årsresultat efter kommun. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgK100",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgK100"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Kommunägda företag efter kommungrupp och sektor. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Kommunägda företag efter kommungrupp och sektor. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgKg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgKg"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Offentligt ägda företag efter sektor, ägarkategori och juridisk form. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Offentligt ägda företag efter sektor, ägarkategori och juridisk form. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffFtg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffFtg"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Regionägda företag efter län och sektor. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Regionägda företag efter län och sektor. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LtFtgL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LtFtgL"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Uppgifter för kommunägda företag efter region. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Uppgifter för kommunägda företag efter region. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtgK"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Offentligt ägda företag samt ekonomiska mått efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Offentligt ägda företag samt ekonomiska mått efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffEkoMottSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffEkoMottSektor"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Resultaträkning för offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Resultaträkning för offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffResultSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffResultSektor"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Skulder och eget kapital i offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Skulder och eget kapital i offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffSkulderSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffSkulderSektor"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tillgångar i offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Tillgångar i offentligt ägda företag efter sektor, ägarkategori och näringsgren SNI 2007. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffTillgSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffTillgSektor"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som inte uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som inte uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0108K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0108K"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)",
+        "1998 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2024.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2024.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2020.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2019_cd_201202.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2019_cd_201202.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2018_cd_20191126.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2018_cd_20191126.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2017.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2016_171207_ml.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_kd_2016_171207_ml.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2015_171207_ml.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2015_171207_ml.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2014_cd_151203.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2014_cd_151203.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2013_141216.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2013_141216.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2008.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2007.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2006.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2005.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2004.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2003.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2002.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_-2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_1999.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_1998.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_bs_1998.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2024.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2024.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2021.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2020.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2019_cd_201202.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2019_cd_201202.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2018_cd_20191128.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2018_cd_20191128.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2017_cd_190220.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_staf_2017_cd_190220.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2016_171218_ml.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2016_171218_ml.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2014_160126.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2014_160126.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2013_141219.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2013_141219.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2007.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/30d7d468746f4ab6ac45fdfb6a646fc9/oe0108_do_2002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=OE0108",
+          "url": "https://metadata.scb.se/?produkt=OE0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Beskrivning av Offentligt ägda företag"
+      ],
+      "links": [
+        {
+          "text": "Beskrivning av Offentligt ägda företag",
+          "href": "/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/produktrelaterat/Fordjupad-information/beskrivning-av-offentligt-agda-foretag/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/produktrelaterat/Fordjupad-information/beskrivning-av-offentligt-agda-foretag/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "SCB, Sektionen för Offentlig ekonomi",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Adress",
+        "SCB 701 89 Örebro",
+        "E-post",
+        "offentlig.ekonomi@scb.se"
+      ],
+      "links": [
+        {
+          "text": "offentlig.ekonomi@scb.se",
+          "href": "mailto:offentlig.ekonomi@scb.se",
+          "url": "mailto:offentlig.ekonomi@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Företagsekonomi",
+        "Tillgångar och skulder"
+      ],
+      "links": [
+        {
+          "text": "Företagsekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+        },
+        {
+          "text": "Tillgångar och skulder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/oe0108"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

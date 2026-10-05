@@ -1,0 +1,811 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0113",
+    "response_url": "https://www.scb.se/EN0113",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/industrins-energianvandning/",
+    "fetched_at": "2026-10-05T13:10:32.886181Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "6284a47ed64ccfc802f63d62de318bdd136533ef62425f5fa7f30d2cd0948881",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0113",
+  "product_code_source": "calendar",
+  "title": "Industrins energianvändning",
+  "short_address": "https://www.scb.se/en0113",
+  "summary": "",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-08",
+  "next_publication_date": "2026-10-08",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    },
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    },
+    {
+      "text": "Industri",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-08"
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0113&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0113&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiken innehåller årliga uppgifter om industrins energianvändning för arbetsplatser med tio eller fler anställda, uppdelat på branscher inom mineral- och tillverkningsindustri (SNI 05-33).",
+        "Uppgifter avseende år 2022 och framåt finns publicerade i Statistikdatabasen och återfinns längre ned på denna sida.",
+        "För uppgifter avseende år 2021 och tidigare hänvisar vi till Energimyndighetens statistikportal, klicka på nedanstående länk för att komma dit.",
+        "Statistik (energimyndigheten.se)",
+        "Statistiknyheten finns hos Energimyndigheten: Industrins energianvändning 2024 (energimyndighetern.se)"
+      ],
+      "links": [
+        {
+          "text": "Statistik (energimyndigheten.se)",
+          "href": "https://www.energimyndigheten.se/Statistik/",
+          "url": "https://www.energimyndigheten.se/Statistik/"
+        },
+        {
+          "text": "Industrins energianvändning 2024 (energimyndighetern.se)",
+          "href": "https://www.energimyndigheten.se/nyhetsarkiv/2025/industrins-energianvandning-2024/",
+          "url": "https://www.energimyndigheten.se/nyhetsarkiv/2025/industrins-energianvandning-2024/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Total energianvändning (inkl. transporter) inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Total energianvändning (inkl. transporter) inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Användning av energivaror inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Användning av energivaror inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131C"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Kostnader i tkr för inköpt energi inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Kostnader i tkr för inköpt energi inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131D",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131D"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Energianvändning i MWh per anställd inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Energianvändning i MWh per anställd inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131E",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131E"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Användning av egenproducerade biobränslen inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Användning av egenproducerade biobränslen inom mineral- och tillverkningsindustri enligt SNI2007. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131F",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131F"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Total energianvändning (inkl. transporter) inom mineral- och tillverkningsindustri fördelad på energivara. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Total energianvändning (inkl. transporter) inom mineral- och tillverkningsindustri fördelad på energivara. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131G",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131G"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Total energianvändning (inkl. transporter) i TWh inom mineral- och tillverkningsindustri. År 2022 - 2024",
+        "2025-12-10"
+      ],
+      "links": [
+        {
+          "text": "Total energianvändning (inkl. transporter) i TWh inom mineral- och tillverkningsindustri. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131HN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN01131HN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2024_v1_20251114.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2024_v1_20251114.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2023_he_20241115.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2023_he_20241115.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2022_jb_ma_jb_231212.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2022_jb_ma_jb_231212.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2020.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2019_ma_210120.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_-2019_ma_210120.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2018.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2018.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2017_ma_190111.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2017_ma_190111.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2016_171220_jp.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_kd_2016_171220_jp.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2015_171220_jp.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2015_171220_jp.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2014_151110.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2014_151110.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2013_150120.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2013_150120.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_bs_2004.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2024_v1_20251114.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2024_v1_20251114.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_-2023_he_20241115.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_-2023_he_20241115.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2022-jb.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2022-jb.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2021.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2020.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_-2019.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_-2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2018.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2018.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2017_ma_190201.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2017_ma_190201.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2016_ma_181004.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_staf_2016_ma_181004.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2015_ma_170221.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2015_ma_170221.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2014_151110.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2014_151110.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2013_150120.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2013_150120.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2011.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2005.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_1999.pdf",
+          "url": "https://www.scb.se/contentassets/c837d2ceb9fc44fab501cb316295c181/en0113_do_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0113",
+          "url": "https://metadata.scb.se/?produkt=EN0113"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Hampus Egly",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 60 83",
+        "E-post",
+        "Hampus.egly@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 60 83",
+          "href": "tel:010-479 60 83",
+          "url": "tel:010-479 60 83"
+        },
+        {
+          "text": "Hampus.egly@scb.se",
+          "href": "mailto:Hampus.egly@scb.se",
+          "url": "mailto:Hampus.egly@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle",
+        "El",
+        "Industri"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        },
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        },
+        {
+          "text": "Industri",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0113"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

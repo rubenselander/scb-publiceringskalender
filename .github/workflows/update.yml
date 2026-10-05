@@ -1,4 +1,4 @@
-name: Update calendar data
+name: Update SCB data
 
 on:
   schedule:
@@ -9,6 +9,23 @@ on:
         description: Refetch the whole calendar instead of last year onwards
         type: boolean
         default: false
+      source:
+        description: Refresh all sources (including calendar), or one metadata source
+        type: choice
+        default: all
+        options:
+          - all
+          - products
+          - subjects
+          - documentation
+          - official_agencies
+          - european_agencies
+          - regulation
+          - agency_registry
+          - official_products
+          - hvd
+          - economy
+          - changes
 
 permissions:
   contents: write
@@ -24,12 +41,45 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install uv and Python
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        with:
+          version: "0.12.7"
+          python-version: "3.13"
+
+      - name: Install locked dependencies
+        id: setup
+        run: uv sync --locked
+
+      - name: Verify parsers offline
+        id: verify
+        run: |
+          uv run ruff check .
+          uv run pytest -q
+
       - name: Fetch
-        run: python3 fetch.py ${{ inputs.full && '--full' || '' }}
+        if: github.event_name == 'schedule' || inputs.source == 'all'
+        run: uv run python fetch.py ${{ inputs.full && '--full' || '' }}
 
       - name: Parse
-        if: always()   # also publish what a failed fetch got
-        run: python3 parse.py
+        if: always() && steps.setup.outcome == 'success' && (github.event_name == 'schedule' || inputs.source == 'all')
+        run: uv run python parse.py
+
+      - name: Extract metadata sources
+        if: always() && steps.setup.outcome == 'success' && steps.verify.outcome == 'success'
+        env:
+          EXTRACT_SOURCE: ${{ inputs.source || 'all' }}
+        run: uv run python -m scb_extract run --source "$EXTRACT_SOURCE" --raw-dir .extract-raw/scheduled
+
+      - name: Archive raw responses and diagnostics
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: scb-raw-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .extract-raw/scheduled/
+          include-hidden-files: true
+          retention-days: 90
+          if-no-files-found: warn
 
       - name: Commit
         if: always()   # also keep the progress of a failed run
@@ -37,6 +87,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Update calendar data"
+          git diff --cached --quiet || git commit -m "Update SCB data"
           git pull --rebase --quiet
           git push

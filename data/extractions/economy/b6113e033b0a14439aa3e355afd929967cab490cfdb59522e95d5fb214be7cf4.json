@@ -1,0 +1,33 @@
+{
+  "title": "Konjunkurbarometer byggverksamhet",
+  "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
+  "listed_type": "Diagram",
+  "listed_date": "2026-10-02",
+  "detail_verified": true,
+  "detail_provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
+    "fetched_at": "2026-10-05T13:16:34.679588Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "86d7fa5af6f030a260202780dbab07c14a9428a456574bc165fbab7aa5cacc7a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent article",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "subtitle": "Konfidensindikator. Index medelvärde =100. Säsongrensade värden",
+  "comments": "Med byggverksamhet avses SNI 41-43. Konfidensindikatorer för byggverksamhet beräknas enligt formeln konfidensindikator = orderstock (nulägesomdöme) + antalet anställda (förväntningar). Konfidensindikatorn beräknas som ett medelvärde av nettotalen (säsongsrensade och standardiserade) för ovanstående frågor. Denna tidsserie standardiseras sedan till en ny serie med medelvärde 100 och standardavvikelse 10 från 1996 och framåt. Ytterligare resultat och information om konjunkturbarometern finns hos Konjunkturinstitutet. Konjunkturinstitutet",
+  "source_label": "Konjunkturinstitutet (KI)",
+  "updated_at": "2026-10-02",
+  "excel_urls": [
+    "https://www.scb.se/contentassets/c60aee07928a4883825eace3f310924f/ov0011_2026m09_di_01_sv_konjbarom_foretag.xls"
+  ],
+  "image_urls": [
+    "https://www.scb.se/contentassets/c60aee07928a4883825eace3f310924f/ov0011_2026m09_di_26_sv_konjbarom_bygg.gif"
+  ],
+  "official_statistics_mark_present": false
+}

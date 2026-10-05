@@ -1,0 +1,200 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/SF0203",
+    "response_url": "https://www.scb.se/SF0203",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/sjukfall/",
+    "fetched_at": "2026-10-05T13:14:14.119223Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "6cde0886c239b4f73b428aee5423b1cd3febf85e7964be7ab62763ec11735f49",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "SF0203",
+  "product_code_source": "calendar",
+  "title": "Sjukfall",
+  "short_address": "https://www.scb.se/sf0203",
+  "summary": "Statistiken visar sammanhängande perioder av utbetalda dagar av sjukpenning, rehabiliteringspenning och/eller arbetsskade-sjukpenning (så kallade sjukfall).",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-14",
+  "next_publication_date": "2026-10-14",
+  "responsible_agency": {
+    "label": "Försäkringskassan",
+    "link": {
+      "text": "Försäkringskassan",
+      "href": "http://www.forsakringskassan.se/statistik/",
+      "url": "http://www.forsakringskassan.se/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Inkomst",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
+    },
+    {
+      "text": "Sjukfrånvaro",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
+    },
+    {
+      "text": "Socialförsäkring",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
+    },
+    {
+      "text": "Sjukförsäkring",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Sjukfall",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-14",
+        "Statistiken visar sammanhängande perioder av utbetalda dagar av sjukpenning, rehabiliteringspenning och/eller arbetsskade-sjukpenning (så kallade sjukfall)."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0203&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0203&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjukfall",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Försäkringskassan"
+      ],
+      "links": [
+        {
+          "text": "Försäkringskassan",
+          "href": "http://www.forsakringskassan.se/statistik/",
+          "url": "http://www.forsakringskassan.se/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjukfall",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Försäkringskassan",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-786 90 00",
+        "E-post",
+        "statistikenheten@forsakringskassan.se"
+      ],
+      "links": [
+        {
+          "text": "08-786 90 00",
+          "href": "tel:08-786 90 00",
+          "url": "tel:08-786 90 00"
+        },
+        {
+          "text": "statistikenheten@forsakringskassan.se",
+          "href": "mailto:statistikenheten@forsakringskassan.se",
+          "url": "mailto:statistikenheten@forsakringskassan.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjukfall",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Inkomst",
+        "Sjukfrånvaro",
+        "Socialförsäkring",
+        "Sjukförsäkring"
+      ],
+      "links": [
+        {
+          "text": "Inkomst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
+        },
+        {
+          "text": "Sjukfrånvaro",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
+        },
+        {
+          "text": "Socialförsäkring",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
+        },
+        {
+          "text": "Sjukförsäkring",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjukfall",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/sf0203"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

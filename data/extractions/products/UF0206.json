@@ -1,0 +1,908 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/UF0206",
+    "response_url": "https://www.scb.se/UF0206",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
+    "fetched_at": "2026-10-05T13:15:12.966281Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "30f8f65b0c6022790bfc536210a65ac5388107bef0470649342afe8fe31db697",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "UF0206",
+  "product_code_source": "calendar",
+  "title": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+  "short_address": "https://www.scb.se/uf0206",
+  "summary": "Statistiken visar sökande och antagna till högskoleutbildning med fokus på dem som inte tidigare studerat i högskolan, indelade efter kön, ålder, program och universitet/högskola.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-13",
+  "next_publication_date": "2026-10-13",
+  "responsible_agency": {
+    "label": "Universitetskanslersämbetet",
+    "link": {
+      "text": "Universitetskanslersämbetet",
+      "href": "https://www.uka.se/statistik-och-analys",
+      "url": "https://www.uka.se/statistik-och-analys"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Studenter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
+    },
+    {
+      "text": "Universitet och högskola",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
+    },
+    {
+      "text": "Utbildning",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-13",
+        "Statistiken visar sökande och antagna till högskoleutbildning med fokus på dem som inte tidigare studerat i högskolan, indelade efter kön, ålder, program och universitet/högskola."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-13",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0206&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0206&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Universitetskanslersämbetet"
+      ],
+      "links": [
+        {
+          "text": "Universitetskanslersämbetet",
+          "href": "https://www.uka.se/statistik-och-analys",
+          "url": "https://www.uka.se/statistik-och-analys"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal sökande och antagna per ålder och kön, höstterminerna 1998–2025",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-sokande-och-antagna-per-alder-och-kon-hostterminerna-19982025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-sokande-och-antagna-per-alder-och-kon-hostterminerna-19982025/"
+        },
+        {
+          "text": "Antal behöriga förstahandssökande och antagna till program och kurser per universitet/högskola, höstterminerna 1998–2025",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-behoriga-forstahandssokande-och-antagna-till-program-och-kurser-per-universitethogskola-hostterminerna-19982025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-behoriga-forstahandssokande-och-antagna-till-program-och-kurser-per-universitethogskola-hostterminerna-19982025/"
+        },
+        {
+          "text": "Antal behöriga förstahandssökande, antal antagna och söktryck till program, indelat efter SUN-inriktning och kön, höstterminen 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-behoriga-forstahandssokande-antal-antagna-och-soktryck-till-program-indelat-efter-sun-inriktning-och-kon-hostterminen-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/antal-behoriga-forstahandssokande-antal-antagna-och-soktryck-till-program-indelat-efter-sun-inriktning-och-kon-hostterminen-2025/"
+        },
+        {
+          "text": "Behöriga förstahandssökande och antagna till program efter SUN-inriktning höstterminerna 1998–2025",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/behoriga-forstahandssokande-och-antagna-till-program-efter-sun-inriktning-hostterminerna-19982025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/pong/tabell-och-diagram/behoriga-forstahandssokande-och-antagna-till-program-efter-sun-inriktning-hostterminerna-19982025/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Antal sökande och antagna per ålder och kön, höstterminerna 1998–2025",
+          "Excel-fil",
+          "2025-10-08"
+        ],
+        [
+          "Antal behöriga förstahandssökande och antagna till program och kurser per universitet/högskola, höstterminerna 1998–2025",
+          "Excel-fil",
+          "2025-10-08"
+        ],
+        [
+          "Antal behöriga förstahandssökande, antal antagna och söktryck till program, indelat efter SUN-inriktning och kön, höstterminen 2025",
+          "Excel-fil",
+          "2025-10-08"
+        ],
+        [
+          "Behöriga förstahandssökande och antagna till program efter SUN-inriktning höstterminerna 1998–2025",
+          "Excel-fil",
+          "2025-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2025",
+          "href": "/publikation/56262",
+          "url": "https://www.scb.se/publikation/56262"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2024",
+          "href": "/publikation/53928",
+          "url": "https://www.scb.se/publikation/53928"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2023",
+          "href": "/publikation/49885",
+          "url": "https://www.scb.se/publikation/49885"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2022",
+          "href": "/publikation/45718",
+          "url": "https://www.scb.se/publikation/45718"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2021",
+          "href": "/publikation/43357",
+          "url": "https://www.scb.se/publikation/43357"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2020",
+          "href": "/publikation/40965",
+          "url": "https://www.scb.se/publikation/40965"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå höstterminen 2019",
+          "href": "/publikation/38050",
+          "url": "https://www.scb.se/publikation/38050"
+        },
+        {
+          "text": "Universitet och högskolor. Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2018",
+          "href": "/publikation/35257",
+          "url": "https://www.scb.se/publikation/35257"
+        },
+        {
+          "text": "Universitet och högskolor. Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2017",
+          "href": "/publikation/31860",
+          "url": "https://www.scb.se/publikation/31860"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2016",
+          "href": "/publikation/28693",
+          "url": "https://www.scb.se/publikation/28693"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2015",
+          "href": "/publikation/26092",
+          "url": "https://www.scb.se/publikation/26092"
+        },
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2014",
+          "href": "/publikation/23485",
+          "url": "https://www.scb.se/publikation/23485"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2025",
+          "",
+          "2025-11-13"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2024",
+          "",
+          "2024-11-14"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2023",
+          "",
+          "2023-11-16"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2022",
+          "",
+          "2022-11-17"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2021",
+          "",
+          "2021-11-17"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2020",
+          "",
+          "2020-11-18"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå höstterminen 2019",
+          "",
+          "2019-11-20"
+        ],
+        [
+          "Universitet och högskolor. Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2018",
+          "",
+          "2018-11-21"
+        ],
+        [
+          "Universitet och högskolor. Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2017",
+          "",
+          "2017-11-22"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2016",
+          "",
+          "2016-11-22"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2015",
+          "",
+          "2015-11-19"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2014",
+          "",
+          "2014-11-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (16)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=UF0206&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=UF0206&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2025.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2025.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2024_20241009.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2024_20241009.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2020_bn_201008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2020_bn_201008.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2019_el_191008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2019_el_191008.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2018_an_181008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2018_an_181008.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2017_an_170620.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_kd_2017_an_170620.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2009.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2009.doc"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2008.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2008.doc"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2007.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2007.doc"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2006.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2006.doc"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2005.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2005.doc"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2004.doc",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2004.doc"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Höstterminen",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2016__ht_ag_161011.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2016__ht_ag_161011.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2015_ht_151008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2015_ht_151008.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2014_ht.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2014_ht.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2013_ht.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2013_ht.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Vårterminen",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2016_vt_ag_160422.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2016_vt_ag_160422.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2015_vt.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2015_vt.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2014_vt.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2014_vt.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2013_vt.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_bs_2013_vt.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2004 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2025.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2025.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2024_241009.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2024_241009.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2021.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2020_bn_201008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2020_bn_201008.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2019_el_191008.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_staf_2019_el_191008.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/71463ab24e22449fafefba74a77c85f0/uf0206_do_2002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=UF0206",
+          "url": "https://metadata.scb.se/?produkt=UF0206"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Beskrivning av Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+        "Skräddarsydd statistik"
+      ],
+      "links": [
+        {
+          "text": "Beskrivning av Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/beskrivning-av-sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/beskrivning-av-sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/"
+        },
+        {
+          "text": "Skräddarsydd statistik",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Universitetskanslersämbetet",
+        "SCB"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Analysavdelningen",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-563 085 00",
+        "E-post",
+        "analys@uka.se"
+      ],
+      "links": [
+        {
+          "text": "08-563 085 00",
+          "href": "tel:08-563 085 00",
+          "url": "tel:08-563 085 00"
+        },
+        {
+          "text": "analys@uka.se",
+          "href": "mailto:analys@uka.se",
+          "url": "mailto:analys@uka.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "hogskolestat@scb.se"
+      ],
+      "links": [
+        {
+          "text": "hogskolestat@scb.se",
+          "href": "mailto:hogskolestat@scb.se",
+          "url": "mailto:hogskolestat@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Studenter",
+        "Universitet och högskola",
+        "Utbildning"
+      ],
+      "links": [
+        {
+          "text": "Studenter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
+        },
+        {
+          "text": "Universitet och högskola",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
+        },
+        {
+          "text": "Utbildning",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/uf0206"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

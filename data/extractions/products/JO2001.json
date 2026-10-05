@@ -1,0 +1,129 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/JO2001",
+    "response_url": "https://www.scb.se/JO2001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/priser-pa-skogsmark/",
+    "fetched_at": "2026-10-05T13:11:59.997635Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "86df01a99352851cddcd0a1d64178232b7679d60484733624ca3ee33ede28fb0",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "JO2001",
+  "product_code_source": "calendar",
+  "title": "Priser på skogsmark",
+  "short_address": "https://www.scb.se/jo2001",
+  "summary": "Statistiken visar genomsnittligt pris på produktiv skogsmark (utan avverkningsrestriktioner) samt antal köp som ligger till grund för priset och medelareal för dessa per län och fyra landsdelar.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Skogsstyrelsen",
+    "link": {
+      "text": "Skogsstyrelsen",
+      "href": "http://www.skogsstyrelsen.se/statistik",
+      "url": "http://www.skogsstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Priser på skogsmark",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar genomsnittligt pris på produktiv skogsmark (utan avverkningsrestriktioner) samt antal köp som ligger till grund för priset och medelareal för dessa per län och fyra landsdelar."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Priser på skogsmark",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Skogsstyrelsen"
+      ],
+      "links": [
+        {
+          "text": "Skogsstyrelsen",
+          "href": "http://www.skogsstyrelsen.se/statistik",
+          "url": "http://www.skogsstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Priser på skogsmark",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Skogsstyrelsen",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-172 10 00",
+        "E-post",
+        "statistik@skogsstyrelsen.se"
+      ],
+      "links": [
+        {
+          "text": "010-172 10 00",
+          "href": "tel:010-172 10 00",
+          "url": "tel:010-172 10 00"
+        },
+        {
+          "text": "statistik@skogsstyrelsen.se",
+          "href": "mailto:statistik@skogsstyrelsen.se",
+          "url": "mailto:statistik@skogsstyrelsen.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Priser på skogsmark",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/jo2001"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

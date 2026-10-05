@@ -1,0 +1,696 @@
+
+<div class="container-fluid">
+    <div id="_MyndResult">
+                <table id="ResultTable" class="table table-striped table-bordered dt-responsive display compact" cellspacing="0" style=" width: 100%">
+                    <thead>
+                        <tr id="kolumnAEDS">
+                            <th >Namn</th>
+                            <th style="display:none;">CfarNr</th>
+                            <th>Postadress</th>
+                            <th>Postnr</th>
+                            <th>Postort</th>
+                            <th>WebbAdress</th>                           
+                        </tr>
+                        <tr id="kolumnSokInputAEDS">
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 250px;" type="text" placeholder="Namn"></th>   
+                            <th style="width: 70px;padding-right: 4px; display:none;" class="input-filter"><input style="width: 78px;" type="text" placeholder="CfarNr"></th>                               
+                            <th style="width: 92px;padding-right: 4px;" class="input-filter"><input style="width: 110px;" type="text" placeholder="Postadress"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 78px;" type="text" placeholder="Postnr"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 100px;" type="text" placeholder="Postort"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 100px;" type="text" placeholder="WebbAdress"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>ARBETSDOMSTOLEN</td>
+                                <td style="display:none;">19075852</td>
+                                <td>BOX 2018</td>
+                                <td>103 11</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.arbetsdomstolen.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>DOMSTOLSVERKET</td>
+                                <td style="display:none;">20738233</td>
+                                <td></td>
+                                <td>551 81</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#246;rsvarsunderr&#228;ttelsedomstolen</td>
+                                <td style="display:none;">47412440</td>
+                                <td>BOX 1097</td>
+                                <td>164 25</td>
+                                <td>KISTA</td>
+                                <td>www.undom.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>ALINGS&#197;S TINGSR&#196;TT</td>
+                                <td style="display:none;">19007806</td>
+                                <td>BOX 126</td>
+                                <td>441 23</td>
+                                <td>ALINGS&#197;S</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>ATTUNDA TINGSR&#196;TT</td>
+                                <td style="display:none;">19006873</td>
+                                <td>BOX 940</td>
+                                <td>191 29</td>
+                                <td>SOLLENTUNA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>BLEKINGE TINGSR&#196;TT</td>
+                                <td style="display:none;">19007525</td>
+                                <td>BOX 319</td>
+                                <td>371 25</td>
+                                <td>KARLSKRONA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>BOR&#197;S TINGSR&#196;TT</td>
+                                <td style="display:none;">19007814</td>
+                                <td>BOX 270</td>
+                                <td>501 13</td>
+                                <td>BOR&#197;S</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>EKSJ&#214; TINGSR&#196;TT</td>
+                                <td style="display:none;">19007335</td>
+                                <td>BOX 230</td>
+                                <td>575 23</td>
+                                <td>EKSJ&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>ESKILSTUNA TINGSR&#196;TT</td>
+                                <td style="display:none;">19006949</td>
+                                <td>BOX 363</td>
+                                <td>631 05</td>
+                                <td>ESKILSTUNA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>FALU TINGSR&#196;TT</td>
+                                <td style="display:none;">19007129</td>
+                                <td>BOX 102</td>
+                                <td>791 23</td>
+                                <td>FALUN</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I FALUN</td>
+                                <td style="display:none;">19556505</td>
+                                <td>BOX 45</td>
+                                <td>791 21</td>
+                                <td>FALUN</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I G&#214;TEBORG OCH MIGRATIONSDOMS</td>
+                                <td style="display:none;">19556612</td>
+                                <td>BOX 53197</td>
+                                <td>400 15</td>
+                                <td>G&#214;TEBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I H&#196;RN&#214;SAND</td>
+                                <td style="display:none;">19556489</td>
+                                <td>BOX 314</td>
+                                <td>871 27</td>
+                                <td>H&#196;RN&#214;SAND</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I J&#214;NK&#214;PING</td>
+                                <td style="display:none;">19556653</td>
+                                <td>BOX 2201</td>
+                                <td>550 02</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I KARLSTAD</td>
+                                <td style="display:none;">19556471</td>
+                                <td>BOX 568</td>
+                                <td>651 12</td>
+                                <td>KARLSTAD</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I LINK&#214;PING</td>
+                                <td style="display:none;">19556596</td>
+                                <td>BOX 406</td>
+                                <td>581 04</td>
+                                <td>LINK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I LULE&#197; OCH MIGRATIONSDOMSTOL</td>
+                                <td style="display:none;">19556661</td>
+                                <td>Box 849</td>
+                                <td>971 26</td>
+                                <td>LULE&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I MALM&#214;</td>
+                                <td style="display:none;">19556455</td>
+                                <td>BOX 4522</td>
+                                <td>203 20</td>
+                                <td>MALM&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I STOCKHOLM OCH MIGRATIONSDOM</td>
+                                <td style="display:none;">19556588</td>
+                                <td></td>
+                                <td>115 76</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I UME&#197;</td>
+                                <td style="display:none;">19556521</td>
+                                <td>BOX 193</td>
+                                <td>901 05</td>
+                                <td>UME&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I UPPSALA</td>
+                                <td style="display:none;">27408319</td>
+                                <td>BOX 1853</td>
+                                <td>751 48</td>
+                                <td>UPPSALA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>F&#214;RVALTNINGSR&#196;TTEN I V&#196;XJ&#214;</td>
+                                <td style="display:none;">19556620</td>
+                                <td>BOX 42</td>
+                                <td>351 03</td>
+                                <td>V&#196;XJ&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>GOTLANDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007012</td>
+                                <td>BOX 1143</td>
+                                <td>621 22</td>
+                                <td>VISBY</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>G&#196;LLIVARE TINGSR&#196;TT</td>
+                                <td style="display:none;">19008168</td>
+                                <td>BOX 23</td>
+                                <td>982 21</td>
+                                <td>G&#196;LLIVARE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>G&#196;VLE TINGSR&#196;TT</td>
+                                <td style="display:none;">19007202</td>
+                                <td>BOX 1194</td>
+                                <td>801 36</td>
+                                <td>G&#196;VLE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>G&#214;TA HOVR&#196;TT</td>
+                                <td style="display:none;">19007285</td>
+                                <td>BOX 2223</td>
+                                <td>550 02</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>G&#214;TEBORGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007731</td>
+                                <td></td>
+                                <td>404 83</td>
+                                <td>G&#214;TEBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HALMSTADS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007715</td>
+                                <td>BOX 193</td>
+                                <td>301 05</td>
+                                <td>HALMSTAD</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HAPARANDA TINGSR&#196;TT</td>
+                                <td style="display:none;">19008176</td>
+                                <td>BOX 174</td>
+                                <td>953 24</td>
+                                <td>HAPARANDA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HELSINGBORGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007616</td>
+                                <td>BOX 712</td>
+                                <td>251 07</td>
+                                <td>HELSINGBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HOVR&#196;TTEN F&#214;R NEDRE NORRLAND</td>
+                                <td style="display:none;">19007970</td>
+                                <td>BOX 170</td>
+                                <td>851 03</td>
+                                <td>SUNDSVALL</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HOVR&#196;TTEN F&#214;R V&#196;STRA SVERIGE</td>
+                                <td style="display:none;">19007681</td>
+                                <td>BOX 40</td>
+                                <td>401 20</td>
+                                <td>G&#214;TEBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HOVR&#196;TTEN F&#214;R &#214;VRE NORRLAND</td>
+                                <td style="display:none;">19008093</td>
+                                <td>BOX 384</td>
+                                <td>901 08</td>
+                                <td>UME&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HOVR&#196;TTEN &#214;VER SK&#197;NE OCH BLEKINGE</td>
+                                <td style="display:none;">19007509</td>
+                                <td>BOX 846</td>
+                                <td>201 80</td>
+                                <td>MALM&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I G&#214;TEBORG</td>
+                                <td style="display:none;">19007962</td>
+                                <td></td>
+                                <td>404 83</td>
+                                <td>G&#214;TEBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I J&#214;NK&#214;PING</td>
+                                <td style="display:none;">19007483</td>
+                                <td>BOX 2243</td>
+                                <td>550 02</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I LINK&#214;PING</td>
+                                <td style="display:none;">19007475</td>
+                                <td>BOX 359</td>
+                                <td>581 03</td>
+                                <td>LINK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I STOCKHOLM</td>
+                                <td style="display:none;">19007236</td>
+                                <td>BOX 67</td>
+                                <td>131 07</td>
+                                <td>NACKA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I SUNDSVALL</td>
+                                <td style="display:none;">19008085</td>
+                                <td>BOX 415</td>
+                                <td>851 06</td>
+                                <td>SUNDSVALL</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I UME&#197;</td>
+                                <td style="display:none;">19616234</td>
+                                <td>BOX 324</td>
+                                <td>901 07</td>
+                                <td>UME&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNDEN I V&#196;STER&#197;S</td>
+                                <td style="display:none;">19007244</td>
+                                <td>BOX 40</td>
+                                <td>721 04</td>
+                                <td>V&#196;STER&#197;S</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>HYRES OCH ARRENDEN&#196;MNEN I MALM&#214;</td>
+                                <td style="display:none;">19007673</td>
+                                <td>BOX 4287</td>
+                                <td>203 14</td>
+                                <td>MALM&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>H&#196;LSINGLANDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007996</td>
+                                <td>BOX 1073</td>
+                                <td>824 12</td>
+                                <td>HUDIKSVALL</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>H&#196;SSLEHOLMS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007558</td>
+                                <td>BOX 135</td>
+                                <td>281 22</td>
+                                <td>H&#196;SSLEHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>H&#214;GSTA DOMSTOLEN</td>
+                                <td style="display:none;">21275151</td>
+                                <td>BOX 2066</td>
+                                <td>103 12</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>H&#214;GSTA F&#214;RVALTNINGSDOMSTOLEN</td>
+                                <td style="display:none;">19008242</td>
+                                <td>BOX 2293</td>
+                                <td>103 17</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>J&#214;NK&#214;PINGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007343</td>
+                                <td>BOX 2243</td>
+                                <td>550 02</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KALMAR TINGSR&#196;TT</td>
+                                <td style="display:none;">19007384</td>
+                                <td>BOX 613</td>
+                                <td>391 26</td>
+                                <td>KALMAR</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KAMMARR&#196;TTEN I G&#214;TEBORG</td>
+                                <td style="display:none;">19008275</td>
+                                <td>BOX 1531</td>
+                                <td>401 50</td>
+                                <td>G&#214;TEBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KAMMARR&#196;TTEN I J&#214;NK&#214;PING</td>
+                                <td style="display:none;">19556570</td>
+                                <td>BOX 2203</td>
+                                <td>550 02</td>
+                                <td>J&#214;NK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KAMMARR&#196;TTEN I STOCKHOLM OCH MIGRATIONS&#214;VERDOMST</td>
+                                <td style="display:none;">19008259</td>
+                                <td>BOX 2302</td>
+                                <td>103 17</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KAMMARR&#196;TTEN I SUNDSVALL</td>
+                                <td style="display:none;">19008267</td>
+                                <td>BOX 714</td>
+                                <td>851 21</td>
+                                <td>SUNDSVALL</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>KRISTIANSTADS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007574</td>
+                                <td>BOX 536</td>
+                                <td>291 25</td>
+                                <td>KRISTIANSTAD</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>LINK&#214;PINGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007301</td>
+                                <td>BOX 365</td>
+                                <td>581 03</td>
+                                <td>LINK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>LULE&#197; TINGSR&#196;TT</td>
+                                <td style="display:none;">27106798</td>
+                                <td>BOX 849</td>
+                                <td>971 26</td>
+                                <td>LULE&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>LUNDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007632</td>
+                                <td>BOX 75</td>
+                                <td>221 00</td>
+                                <td>LUND</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>LYCKSELE TINGSR&#196;TT</td>
+                                <td style="display:none;">19008101</td>
+                                <td>BOX 53</td>
+                                <td>921 22</td>
+                                <td>LYCKSELE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>MALM&#214; TINGSR&#196;TT</td>
+                                <td style="display:none;">19007640</td>
+                                <td>BOX 265</td>
+                                <td>201 22</td>
+                                <td>MALM&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>MORA TINGSR&#196;TT</td>
+                                <td style="display:none;">19007186</td>
+                                <td>BOX 31</td>
+                                <td>792 21</td>
+                                <td>MORA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>NACKA TINGSR&#196;TT</td>
+                                <td style="display:none;">19422195</td>
+                                <td>BOX 69</td>
+                                <td>131 07</td>
+                                <td>NACKA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>NORRK&#214;PINGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007327</td>
+                                <td>BOX 418</td>
+                                <td>601 05</td>
+                                <td>NORRK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>NORRT&#196;LJE TINGSR&#196;TT</td>
+                                <td style="display:none;">19006741</td>
+                                <td>BOX 5</td>
+                                <td>761 21</td>
+                                <td>NORRT&#196;LJE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>NYK&#214;PINGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19006980</td>
+                                <td>BOX 333</td>
+                                <td>611 27</td>
+                                <td>NYK&#214;PING</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>SKARABORGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007459</td>
+                                <td>BOX 174</td>
+                                <td>541 24</td>
+                                <td>SK&#214;VDE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>SKELLEFTE&#197; TINGSR&#196;TT</td>
+                                <td style="display:none;">19008119</td>
+                                <td>BOX 398</td>
+                                <td>931 24</td>
+                                <td>SKELLEFTE&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>SOLNA TINGSR&#196;TT</td>
+                                <td style="display:none;">19006774</td>
+                                <td>BOX 1356</td>
+                                <td>171 26</td>
+                                <td>SOLNA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>STOCKHOLMS TINGSR&#196;TT OCH PATENT OCH MARKNADSDOM</td>
+                                <td style="display:none;">22773683</td>
+                                <td>BOX 8307</td>
+                                <td>104 20</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>SUNDSVALLS TINGSR&#196;TT</td>
+                                <td style="display:none;">19008036</td>
+                                <td>BOX 467</td>
+                                <td>851 06</td>
+                                <td>SUNDSVALL</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>SVEA HOVR&#196;TT O MARK O MILJ&#214; OCH PATENT</td>
+                                <td style="display:none;">19006717</td>
+                                <td>BOX 2290</td>
+                                <td>103 17</td>
+                                <td>STOCKHOLM</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>S&#214;DERT&#196;LJE TINGSR&#196;TT</td>
+                                <td style="display:none;">19006840</td>
+                                <td>BOX 348</td>
+                                <td>151 24</td>
+                                <td>S&#214;DERT&#196;LJE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>S&#214;DERT&#214;RNS TINGSR&#196;TT</td>
+                                <td style="display:none;">19422161</td>
+                                <td></td>
+                                <td>141 84</td>
+                                <td>HUDDINGE</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>UDDEVALLA TINGSR&#196;TT</td>
+                                <td style="display:none;">19007798</td>
+                                <td>BOX 323</td>
+                                <td>451 18</td>
+                                <td>UDDEVALLA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>UME&#197; TINGSR&#196;TT</td>
+                                <td style="display:none;">19008127</td>
+                                <td>BOX 138</td>
+                                <td>901 04</td>
+                                <td>UME&#197;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>UPPSALA TINGSR&#196;TT</td>
+                                <td style="display:none;">19006881</td>
+                                <td>BOX 1113</td>
+                                <td>751 41</td>
+                                <td>UPPSALA</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>VARBERGS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007723</td>
+                                <td>BOX 121</td>
+                                <td>432 23</td>
+                                <td>VARBERG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>V&#196;NERSBORGS TINGSR&#196;TT OCH MARK OCH MILJ&#214;DOMSTOL</td>
+                                <td style="display:none;">19007855</td>
+                                <td>BOX 1070</td>
+                                <td>462 28</td>
+                                <td>V&#196;NERSBORG</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>V&#196;RMLANDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007905</td>
+                                <td>BOX 188</td>
+                                <td>651 05</td>
+                                <td>KARLSTAD</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>V&#196;STMANLANDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007103</td>
+                                <td>BOX 40</td>
+                                <td>721 04</td>
+                                <td>V&#196;STER&#197;S</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>V&#196;XJ&#214; TINGSR&#196;TT OCH MARK OCH MILJ&#214;DOMSTOL</td>
+                                <td style="display:none;">19007376</td>
+                                <td>BOX 81</td>
+                                <td>351 03</td>
+                                <td>V&#196;XJ&#214;</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>YSTADS TINGSR&#196;TT</td>
+                                <td style="display:none;">19007665</td>
+                                <td>BOX 114</td>
+                                <td>271 23</td>
+                                <td>YSTAD</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>&#197;NGERMANLANDS TINGSR&#196;TT</td>
+                                <td style="display:none;">19008028</td>
+                                <td>BOX 114</td>
+                                <td>871 23</td>
+                                <td>H&#196;RN&#214;SAND</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>&#214;REBRO TINGSR&#196;TT</td>
+                                <td style="display:none;">19007061</td>
+                                <td>BOX 383</td>
+                                <td>701 47</td>
+                                <td>&#214;REBRO</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                            <tr>
+                                <td>&#214;STERSUNDS TINGSR&#196;TT OCH MARK OCH MILJ&#214;DOMSTOL</td>
+                                <td style="display:none;">19008051</td>
+                                <td>BOX 708</td>
+                                <td>831 28</td>
+                                <td>&#214;STERSUND</td>
+                                <td>www.domstol.se</td>                               
+                            </tr>
+                    </tbody>
+                </table>
+
+    </div>
+</div>
+
+<script src="/DataTables/DataTables-1.13.8/js/jquery.dataTables.js"></script>
+<script src="/DataTables/DataTables-1.13.8/js/dataTables.bootstrap.min.js" charset="utf-8"></script>
+<script src="/DataTables/FixedHeader-3.1.3/js/dataTables.fixedHeader.min.js"></script>

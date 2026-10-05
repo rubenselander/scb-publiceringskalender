@@ -1,0 +1,183 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/JO0806",
+    "response_url": "https://www.scb.se/JO0806",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/skogsskador/",
+    "fetched_at": "2026-10-05T13:11:49.687007Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "ed80b417c1607687fc74ffeb2dd7b3a0ae77293960e3a8855e60329bf75f5a53",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "JO0806",
+  "product_code_source": "calendar",
+  "title": "Skogsskador",
+  "short_address": "https://www.scb.se/jo0806",
+  "summary": "Statistiken visar omfattning av skador på skog, t.ex. kronutglesning, älgbetning samt ett antal enskilda vanligen förekommande skadetyper.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Sveriges lantbruksuniversitet (SLU)",
+    "link": {
+      "text": "Sveriges lantbruksuniversitet (SLU)",
+      "href": "http://www.slu.se/skogsstatistik",
+      "url": "http://www.slu.se/skogsstatistik"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Skog",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
+    },
+    {
+      "text": "Skogsmark",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
+    },
+    {
+      "text": "Skogsskador",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=229",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=229"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Skogsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar omfattning av skador på skog, t.ex. kronutglesning, älgbetning samt ett antal enskilda vanligen förekommande skadetyper."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Sveriges lantbruksuniversitet (SLU)"
+      ],
+      "links": [
+        {
+          "text": "Sveriges lantbruksuniversitet (SLU)",
+          "href": "http://www.slu.se/skogsstatistik",
+          "url": "http://www.slu.se/skogsstatistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Per-Erik Wikberg",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "090-786 83 03",
+        "E-post",
+        "per-erik.wikberg@slu.se"
+      ],
+      "links": [
+        {
+          "text": "090-786 83 03",
+          "href": "tel:090-786 83 03",
+          "url": "tel:090-786 83 03"
+        },
+        {
+          "text": "per-erik.wikberg@slu.se",
+          "href": "mailto:per-erik.wikberg@slu.se",
+          "url": "mailto:per-erik.wikberg@slu.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Skog",
+        "Skogsmark",
+        "Skogsskador"
+      ],
+      "links": [
+        {
+          "text": "Skog",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
+        },
+        {
+          "text": "Skogsmark",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
+        },
+        {
+          "text": "Skogsskador",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=229",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=229"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/jo0806"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

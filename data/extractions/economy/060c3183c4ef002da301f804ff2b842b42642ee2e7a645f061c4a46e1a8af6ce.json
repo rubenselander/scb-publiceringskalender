@@ -1,0 +1,33 @@
+{
+  "title": "Konjunkturbarometer hushåll - makroindex",
+  "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
+  "listed_type": "Diagram",
+  "listed_date": "2026-10-02",
+  "detail_verified": true,
+  "detail_provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
+    "fetched_at": "2026-10-05T13:16:33.680040Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "2c2f396db0bd87d1b66933130e6bed96f212a18b0ad913690ee5d9a2dded22f7",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent article",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "subtitle": "Makroindex. Index medelvärde =100. Säsongrensade värden",
+  "comments": "Makroindex sammanfattar hushållens syn på utvecklingen i svensk ekonomi. Det beräknas enligt formeln makroindex = svensk ekonomi (nulägesomdöme) + svensk ekonomi (förväntningar) – arbetslösheten (förväntningar). Konfidensindikatorn beräknas som ett medelvärde av nettotalen (säsongsrensade och standardiserade) för ovanstående frågor. Denna tidsserie standardiseras sedan till en ny serie med medelvärde 100 och standardavvikelse 10 från 1996 och framåt. Ytterligare resultat och information om konjunkturbarometern finns hos Konjunkturinstitutet. Konjunkturinstitutet",
+  "source_label": "Konjunkturinstitutet (KI)",
+  "updated_at": "2026-10-02",
+  "excel_urls": [
+    "https://www.scb.se/contentassets/fdc56fc775284cc7b92695c5522aca2a/ov0011_2026m09_di_01_sv_hip.xls"
+  ],
+  "image_urls": [
+    "https://www.scb.se/contentassets/fdc56fc775284cc7b92695c5522aca2a/ov0011_2026m09_di_15_sv_makro.gif"
+  ],
+  "official_statistics_mark_present": true
+}

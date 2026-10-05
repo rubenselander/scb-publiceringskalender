@@ -1,0 +1,653 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/FM9998",
+    "response_url": "https://www.scb.se/FM9998",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/",
+    "fetched_at": "2026-10-05T13:10:51.243235Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "e4e60129636e76ca6f26226144ff5ea773fa27d58ff47be2efb1bf6f1e51a2c3",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "FM9998",
+  "product_code_source": "calendar",
+  "title": "Emitterade värdepapper",
+  "short_address": "https://www.scb.se/fm9998",
+  "summary": "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation.",
+  "official_statistics_marker": null,
+  "next_publication_text": "Nästa publicering: 2026-10-16",
+  "next_publication_date": "2026-10-16",
+  "responsible_agency": {
+    "label": "Sveriges riksbank",
+    "link": {
+      "text": "Sveriges riksbank",
+      "href": "http://www.riksbank.se",
+      "url": "http://www.riksbank.se"
+    }
+  },
+  "notices": [
+    "Från och med referensmånad oktober 2024 ersätts statistiken med nya tabeller som finns tillgängliga via Statistikdatabasen (SSD). Produkten Emitterade Värdepapper redovisar nya nedbrytningar samt uppgifter om gröna värdepapper (från januari 2022).",
+    "Större omklassning mellan MFI: icke säkerställda sektorn och MFI säkerställda sektorn har genomförts för referensperioden januari 2022 till juni 2026, med uppdatering under produktionsmånad juli 2026."
+  ],
+  "tags": [
+    {
+      "text": "Räntor",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-16",
+        "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Sveriges riksbank"
+      ],
+      "links": [
+        {
+          "text": "Sveriges riksbank",
+          "href": "http://www.riksbank.se",
+          "url": "http://www.riksbank.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Från och med referensmånad oktober 2024 ersätts statistiken med nya tabeller som finns tillgängliga via Statistikdatabasen (SSD). Produkten Emitterade Värdepapper redovisar nya nedbrytningar samt uppgifter om gröna värdepapper (från januari 2022).",
+        "Större omklassning mellan MFI: icke säkerställda sektorn och MFI säkerställda sektorn har genomförts för referensperioden januari 2022 till juni 2026, med uppdatering under produktionsmånad juli 2026."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-09-16",
+        "I slutet av augusti uppgick den sammanlagda svenska räntebärande värdepappersskulden till 9 631 miljarder kronor, vilket är en ökning med 81 miljarder kronor sedan juli."
+      ],
+      "links": [
+        {
+          "text": "Ökad upplåning i räntebärande värdepapper",
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-augusti-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=FM9998",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=FM9998"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Historiska serier – Emitterade värdepapper (december 1997 –mars 2013)",
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/tabell-och-diagram/historiska-serier--emitterade-vardepapper-december-1997-mars-2013/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/tabell-och-diagram/historiska-serier--emitterade-vardepapper-december-1997-mars-2013/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Historiska serier – Emitterade värdepapper (december 1997 –mars 2013)",
+          "Excel-fil",
+          "2019-06-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Emitterade värdepapper",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N"
+        },
+        {
+          "text": "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron"
+        },
+        {
+          "text": "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M08",
+          "2026-09-16"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2026_20260129.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2026_20260129.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2025_20250218.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2025_20250218.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2024-ny-20241118.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2024-ny-20241118.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2023_bk_230120.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2023_bk_230120.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2021_fa_210216.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2021_fa_210216.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2020_hh_200218_publicerad_uppdaterad-201016.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2020_hh_200218_publicerad_uppdaterad-201016.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2019_fa_190510.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2019_fa_190510.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2018_mjc_180215.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2018_mjc_180215.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2017_ke_20170310.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_kd_2017_ke_20170310.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2016_160222_mu.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2016_160222_mu.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2015_js_150227.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2015_js_150227.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_bs_2013.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2026_20260129.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2026_20260129.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2025_20250218.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2025_20250218.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2024-ny-2024-11-18.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2024-ny-2024-11-18.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2023_bk_230120.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2023_bk_230120.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2021_fa_210216.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2021_fa_210216.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2020_hh_200218_publicerad_uppdaterad-201016.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2020_hh_200218_publicerad_uppdaterad-201016.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2019_fa_190510.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2019_fa_190510.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2018_180319_mc.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_staf_2018_180319_mc.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2017_ke_170516.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2017_ke_170516.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2016_mu_160318.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2016_mu_160318.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2015_js_150929.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2015_js_150929.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2014_js_150929.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2014_js_150929.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/dca841cf68dc4d718702118f4361bbca/fm9998_do_2013.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=FM9998",
+          "url": "https://metadata.scb.se/?produkt=FM9998"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "SVDB@scb.se"
+      ],
+      "links": [
+        {
+          "text": "SVDB@scb.se",
+          "href": "mailto:SVDB@scb.se",
+          "url": "mailto:SVDB@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Räntor"
+      ],
+      "links": [
+        {
+          "text": "Räntor",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Emitterade värdepapper",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/fm9998"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

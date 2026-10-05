@@ -1,0 +1,1972 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0210",
+    "response_url": "https://www.scb.se/AM0210",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/",
+    "fetched_at": "2026-10-05T13:10:08.847487Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "465b7133fee7e7141f127a097e02fdf012e101d1d1218c0aab95a4c1ae02e971",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0210",
+  "product_code_source": "calendar",
+  "title": "Befolkningens arbetsmarknadsstatus (BAS)",
+  "short_address": "https://www.scb.se/am0210",
+  "summary": "BAS, Befolkningens arbetsmarknadsstatus är en statistikprodukt som med hjälp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet är att beskriva arbetsmarknadsläget samt utvecklingen över tid. Statistiken redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen i åldern 15–74 år.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-27",
+  "next_publication_date": "2026-10-27",
+  "responsible_agency": null,
+  "notices": [
+    "BAS beskriver befolkningen utifrån sex arbetsmarknadsstatusar (sysselsatt, arbetslös, studerande, pensionär, sjuk och övrig). Det är möjligt att med hjälp av statistiken belysa såväl hela befolkningen som mindre grupper, till exempel för detaljerade åldersgrupper på kommunnivå.",
+    "I samband med publiceringen 20260528 reviderades samtliga uppgifter i preliminär BAS från och med januari 2020 till och med februari 2026. Mer information finns att läsa i Revidering av preliminär statistik från Befolkningens arbetsmarknadsstatus"
+  ],
+  "tags": [
+    {
+      "text": "Arbetslöshet",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
+    },
+    {
+      "text": "Arbetsmarknad",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+    },
+    {
+      "text": "Pendling",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=149",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=149"
+    },
+    {
+      "text": "Sysselsatta",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+    },
+    {
+      "text": "Företagande",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=293",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=293"
+    },
+    {
+      "text": "Regionalt",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=316",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-27",
+        "BAS, Befolkningens arbetsmarknadsstatus är en statistikprodukt som med hjälp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet är att beskriva arbetsmarknadsläget samt utvecklingen över tid. Statistiken redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen i åldern 15–74 år."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0210&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0210&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "BAS beskriver befolkningen utifrån sex arbetsmarknadsstatusar (sysselsatt, arbetslös, studerande, pensionär, sjuk och övrig). Det är möjligt att med hjälp av statistiken belysa såväl hela befolkningen som mindre grupper, till exempel för detaljerade åldersgrupper på kommunnivå.",
+        "I samband med publiceringen 20260528 reviderades samtliga uppgifter i preliminär BAS från och med januari 2020 till och med februari 2026. Mer information finns att läsa i Revidering av preliminär statistik från Befolkningens arbetsmarknadsstatus"
+      ],
+      "links": [
+        {
+          "text": "Revidering av",
+          "href": "/contentassets/f7fc10dacfef4075a98be3b56724f7e6/revidering-i-preliminar-bas-statistik.pdf",
+          "url": "https://www.scb.se/contentassets/f7fc10dacfef4075a98be3b56724f7e6/revidering-i-preliminar-bas-statistik.pdf"
+        },
+        {
+          "text": "preliminär statistik från Befolkningens arbetsmarknadsstatus",
+          "href": "/contentassets/f7fc10dacfef4075a98be3b56724f7e6/revidering-i-preliminar-bas-statistik.pdf",
+          "url": "https://www.scb.se/contentassets/f7fc10dacfef4075a98be3b56724f7e6/revidering-i-preliminar-bas-statistik.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Antal sysselsatta, 15-74 år",
+        "5 508 391",
+        "Referenstid: juli 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "0,7 %",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Sysselsättningsgrad, 20-65 år",
+        "81,9 %",
+        "Referenstid: juli 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "0,3 %-enheter",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet, 20-65 år",
+        "5,0 %",
+        "Referenstid: juli 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "-0,3 %-enheter",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-09-29",
+        "Antalet sysselsatta i åldern 15 till 74 år ökade med 0,7 procent i juli jämfört med motsvarande månad förra året. Under samma period minskade arbetslösheten till 5,0 procent för personer 20 till 65 år."
+      ],
+      "links": [
+        {
+          "text": "Sysselsättningen fortsätter att öka i juli 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-juli-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-juli-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=AM0210",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=AM0210"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus – preliminär statistik baserad på månatliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusM"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusKv"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusAr"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFoT1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFoT1"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFAT12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFAT12"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatHuv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatHuv"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusUtbM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusUtbM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "2026-05-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M07",
+          "2026-09-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus – slutlig statistik baserad på månatliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusM"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusKv"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatusAr"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatFoT1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatFoT1"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatFAT12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatFAT12"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatHuv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStatHuv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus – slutlig statistik baserad på årliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatus",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatus"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatFoT1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatFoT1"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatFAT12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatFAT12"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatHuv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStatHuv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta – preliminär statistik baserad på månatliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNMNN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNMNN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNKvNN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNKvNN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNArNN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNArNN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningM"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningKv"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningAr"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssM"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssKv"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "2026-06-12"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "2026-05-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. År 2020 - 2025",
+          "2026-05-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta – slutlig statistik baserad på månatliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNMN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNMN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNKvN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNKvN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZArbStDoNArN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningM"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningKv"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZYrkStallningAr"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssM"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssKv"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZSektorSyssAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. Månad 2020M01 - 2024M12",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. Kvartal 2020K1 - 2024K4",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Slutlig statistik. År 2020 - 2024",
+          "2025-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta – slutlig statistik baserad på årliga uppgifter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStDoN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegArbStDoN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och utbildningsnivå. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegUtb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegUtb"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegYrkStallning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegYrkStallning"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegSektorSyss",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegSektorSyss"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter näringsgren (SNI 2007), yrkesställning, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegSNI2007Riket",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegSNI2007Riket"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadens belägenhet i förhållande till arbetsställets belägenhet, kommun och kön. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegPend1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegPend1"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadskommun, arbetsställekommun och kön. Årligt register. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegPend2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegPend2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och utbildningsnivå. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter näringsgren (SNI 2007), yrkesställning, kön, ålder och födelseregion. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadens belägenhet i förhållande till arbetsställets belägenhet, kommun och kön. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadskommun, arbetsställekommun och kön. Årligt register. År 2020 - 2024",
+          "2025-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Regional statistik på lägre nivå än kommun (DeSO/RegSO)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetsmarknadsstatus efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och ålder. Årligt register. År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoStatus",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoStatus"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och näringsgren (SNI 2007). Årligt register. År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSNI2007"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och sektor. Årligt register. År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSektor"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter bostadens belägenhet, region (DeSO/RegSO), kön och ålder. Årligt register.  År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoStatusN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoStatusN"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO/RegSO), kön och näringsgren (SNI 2007). Årligt register.  År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSNI2007N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSNI2007N"
+        },
+        {
+          "text": "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO/RegSO), kön och sektor. Årligt register.  År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSektorN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArRegDesoSektorN"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetsmarknadsstatus efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och ålder. Årligt register. År 2020 - 2023",
+          "2024-11-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och näringsgren (SNI 2007). Årligt register. År 2020 - 2023",
+          "2024-11-29"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO 2018 t.o.m. år 2023/RegSO 2020 t.o.m. år 2023), kön och sektor. Årligt register. År 2020 - 2023",
+          "2024-11-29"
+        ],
+        [
+          "Arbetsmarknadsstatus efter bostadens belägenhet, region (DeSO/RegSO), kön och ålder. Årligt register.  År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO/RegSO), kön och näringsgren (SNI 2007). Årligt register.  År 2020 - 2024",
+          "2025-11-28"
+        ],
+        [
+          "Sysselsatta 15–74 år efter bostadens belägenhet, region (DeSO/RegSO), kön och sektor. Årligt register.  År 2020 - 2024",
+          "2025-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nyckeltal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210A",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210A"
+        },
+        {
+          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210C"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M07",
+          "2026-09-29"
+        ],
+        [
+          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M07",
+          "2026-09-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Operativa verksamhetsledare",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal operativa verksamhetsledare efter kön, födelseregion, ålder, sektor, storleksklass och näringsgren (SNI 2007). År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning1"
+        },
+        {
+          "text": "Antal operativa verksamhetsledare inom näringslivet efter kön, storleksklass, näringsgren (SNI 2007) och företagets säteslän. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning2"
+        },
+        {
+          "text": "Antal operativa verksamhetsledare inom näringslivet efter kön, näringsgren (SNI 2007) och företagets säteskommun. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZZFtgStyrning3"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal operativa verksamhetsledare efter kön, födelseregion, ålder, sektor, storleksklass och näringsgren (SNI 2007). År 2020 - 2024",
+          "2026-02-11"
+        ],
+        [
+          "Antal operativa verksamhetsledare inom näringslivet efter kön, storleksklass, näringsgren (SNI 2007) och företagets säteslän. År 2020 - 2024",
+          "2026-02-11"
+        ],
+        [
+          "Antal operativa verksamhetsledare inom näringslivet efter kön, näringsgren (SNI 2007) och företagets säteskommun. År 2020 - 2024",
+          "2026-02-11"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Preliminär statistik baserad på månatliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2026_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2026_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2025_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2025_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_prel_man_20260528.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Slutlig statistik baserad på månatliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_slutlig_man_20251128.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_slutlig_man_20251128.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_slutlig_man_20250331.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Slutlig statistik baserad på årliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_slutlig_ar_20251128.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2024_slutlig_ar_20251128.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2023_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2022_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2021_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_kd_2020_slutlig_ar_20250331.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Preliminär statistik baserad på månatliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2026.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2026.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2025_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2025_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_prel_man_20260528.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_prel_man_20260528.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_prel_man_20260528.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Slutlig statistik baserad på månatliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_slutlig_man_20251128.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_slutlig_man_20251128.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_slutlig_man_20250331.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_slutlig_man_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_slutlig_man_20250331.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Slutlig statistik baserad på årliga uppgifter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_slutlig_ar_20251128.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2024_slutlig_ar_20251128.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2023_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2022_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2021_slutlig_ar_20250331.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_slutlig_ar_20250331.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/am0210_staf_2020_slutlig_ar_20250331.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0210",
+          "url": "https://metadata.scb.se/?produkt=AM0210"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Analys av skillnader i statistik om sysselsättningsgrad (pdf)",
+        "AKU och BAS En beskrivning av skillnaderna mellan undersökningarna (pdf)",
+        "Fredagsdiagram arbetsmarknad 2025 (pdf)",
+        "Fredagsdiagram arbetsmarknad (pdf)",
+        "Skillnader mellan preliminär och slutlig BAS (pdf)",
+        "Skillnader mellan RAMS och BAS årsregister (pdf)",
+        "Frågor och svar om BAS (pdf)",
+        "Huvudsaklig inkomstkälla och Arbetsrelaterad inkomstnivå (pdf)",
+        "Hur förhåller sig BAS till AKU och Arbetsförmedlingens statistik? (pdf)",
+        "En numerisk beskrivning av relationen mellan BAS och AKU  (pdf)",
+        "En numerisk beskrivning av relationen mellan BAS och Arbetsförmedlingens statistik (pdf)",
+        "Jämförelse mellan BAS och ANST (pdf)",
+        "Individer som varken arbetar eller studerar — en fördjupning av statistiken i BAS (pdf)",
+        "Hur försörjer sig sysselsatta individer? - en fördjupning av statistiken i BAS (pdf)",
+        "Lokala arbetsmarknader (LA)",
+        "Operativa verksamhetsledare (pdf)",
+        "Ekonomiskt inaktiva personer i arbetsför ålder - vad gör de? (pdf)",
+        "Revidering av preliminär statistik från Befolkningens arbetsmarknadsstatus (pdf)",
+        "Arbetsmarknadsläget kvartal två (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Analys av skillnader i statistik om sysselsättningsgrad (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf"
+        },
+        {
+          "text": "AKU och BAS En beskrivning av skillnaderna mellan undersökningarna (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/"
+        },
+        {
+          "text": "Fredagsdiagram arbetsmarknad 2025 (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fredagsdiagram-arbetsmarknad-2025-11-21.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fredagsdiagram-arbetsmarknad-2025-11-21.pdf"
+        },
+        {
+          "text": "Fredagsdiagram arbetsmarknad (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fredagsdiagram-arbetsmarknad-2026-02-27.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fredagsdiagram-arbetsmarknad-2026-02-27.pdf"
+        },
+        {
+          "text": "Skillnader mellan preliminär och slutlig BAS (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_preliminar_och_slutlig_bas.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_preliminar_och_slutlig_bas.pdf"
+        },
+        {
+          "text": "Skillnader mellan RAMS och BAS årsregister (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_rams_och_bas_arsregister.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_rams_och_bas_arsregister.pdf"
+        },
+        {
+          "text": "Frågor och svar om BAS (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fragor-och-svar-om-bas.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/fragor-och-svar-om-bas.pdf"
+        },
+        {
+          "text": "Huvudsaklig inkomstkälla och Arbetsrelaterad inkomstnivå (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/huvudsaklig-inkomstkalla-och-arbetsrelaterad-inkomstniva_x.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/huvudsaklig-inkomstkalla-och-arbetsrelaterad-inkomstniva_x.pdf"
+        },
+        {
+          "text": "Hur förhåller sig BAS till AKU och Arbetsförmedlingens statistik? (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/hur-forhaller-sig-bas-till-aku-och-arbetsformedlingens-statistik-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/hur-forhaller-sig-bas-till-aku-och-arbetsformedlingens-statistik-pdf/"
+        },
+        {
+          "text": "En numerisk beskrivning av relationen mellan BAS och AKU  (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/bas-och-aku---en-numerisk-beskrivning-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/bas-och-aku---en-numerisk-beskrivning-pdf/"
+        },
+        {
+          "text": "En numerisk beskrivning av relationen mellan BAS och Arbetsförmedlingens statistik (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/en-numerisk-beskrivning-av-relationen-mellan-bas-och-arbetsformedlingens-verksamhetsstatistik-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/en-numerisk-beskrivning-av-relationen-mellan-bas-och-arbetsformedlingens-verksamhetsstatistik-pdf/"
+        },
+        {
+          "text": "Jämförelse mellan BAS och ANST (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/jamforelse-mellan-bas-och-anst/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/jamforelse-mellan-bas-och-anst/"
+        },
+        {
+          "text": "Individer som varken arbetar eller studerar — en fördjupning av statistiken i BAS (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/individer-som-varken-arbetar-eller-studerar--en-fordjupning-av-statistiken-i-bas-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/individer-som-varken-arbetar-eller-studerar--en-fordjupning-av-statistiken-i-bas-pdf/"
+        },
+        {
+          "text": "Hur försörjer sig sysselsatta individer? - en fördjupning av statistiken i BAS (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/hur-forsorjer-sig-sysselsatta-individer---en-fordjupning-av-statistiken-i-bas-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/hur-forsorjer-sig-sysselsatta-individer---en-fordjupning-av-statistiken-i-bas-pdf/"
+        },
+        {
+          "text": "Lokala arbetsmarknader (LA)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/lokala-arbetsmarknader-la/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/lokala-arbetsmarknader-la/"
+        },
+        {
+          "text": "Operativa verksamhetsledare (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/operativa-verksamhetsledare-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/operativa-verksamhetsledare-pdf/"
+        },
+        {
+          "text": "Ekonomiskt inaktiva personer i arbetsför ålder - vad gör de? (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/ekonomiskt-inaktiva-personer-i-arbetsfor-alder_vad-gor-de.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/ekonomiskt-inaktiva-personer-i-arbetsfor-alder_vad-gor-de.pdf"
+        },
+        {
+          "text": "Revidering av preliminär statistik från Befolkningens arbetsmarknadsstatus (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/revidering-av-preliminar-statistik-fran-befolkningens-arbetsmarknadsstatus-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/produktrelaterat/fordjupad-information/revidering-av-preliminar-statistik-fran-befolkningens-arbetsmarknadsstatus-pdf/"
+        },
+        {
+          "text": "Arbetsmarknadsläget kvartal två (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/arbetsmarknadslaget-kvartal-tva.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/arbetsmarknadslaget-kvartal-tva.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Befolkningens arbetsmarknadsstatus",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "bas@scb.se"
+      ],
+      "links": [
+        {
+          "text": "bas@scb.se",
+          "href": "mailto:bas@scb.se",
+          "url": "mailto:bas@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet",
+        "Arbetsmarknad",
+        "Pendling",
+        "Sysselsatta",
+        "Företagande",
+        "Regionalt"
+      ],
+      "links": [
+        {
+          "text": "Arbetslöshet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
+        },
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+        },
+        {
+          "text": "Pendling",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=149",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=149"
+        },
+        {
+          "text": "Sysselsatta",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+        },
+        {
+          "text": "Företagande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=293",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=293"
+        },
+        {
+          "text": "Regionalt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=316",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0210"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

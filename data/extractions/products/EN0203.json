@@ -1,0 +1,628 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0203",
+    "response_url": "https://www.scb.se/EN0203",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/",
+    "fetched_at": "2026-10-05T13:10:39.641592Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "aef1224c583476f269b26d4bfe50bb2ee279f80b8c5b78490f836668a7f3d2ec",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0203",
+  "product_code_source": "calendar",
+  "title": "Kommunal och regional energistatistik",
+  "short_address": "https://www.scb.se/en0203",
+  "summary": "Statistiken visar el- och fjärrvärmeproduktion, använda bränslen och slutlig energianvändning i län och kommuner.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    },
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar el- och fjärrvärmeproduktion, använda bränslen och slutlig energianvändning i län och kommuner."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp. År 2009 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrEl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrEl"
+        },
+        {
+          "text": "Fjärrvärmeproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp. År 2009 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrFj",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrFj"
+        },
+        {
+          "text": "Slutanvändning (MWh), efter län och kommun, förbrukarkategori samt bränsletyp. År 2009 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SlutAnvSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SlutAnvSektor"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Elproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp. År 2009 - 2024",
+          "2026-03-06"
+        ],
+        [
+          "Fjärrvärmeproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp. År 2009 - 2024",
+          "2026-03-06"
+        ],
+        [
+          "Slutanvändning (MWh), efter län och kommun, förbrukarkategori samt bränsletyp. År 2009 - 2024",
+          "2026-03-06"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som ej uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som ej uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0203O",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0203O"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2024a_v1_260306.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2024a_v1_260306.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2023_v1_250227.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2023_v1_250227.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2022a_v1_240227.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2022a_v1_240227.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2021a_v1_230224.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2021a_v1_230224.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2020.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2019_hr_210225.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2019_hr_210225.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2018_hr_200226_.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2018_hr_200226_.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2017_hr_190226.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2017_hr_190226.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2016_hr_180222.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2016_hr_180222.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2015.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_kd_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2013_150226.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2013_150226.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_bs_2005.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2024a_v1_260306.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2024a_v1_260306.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2023_v1_250227.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2023_v1_250227.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2022a_v1_240227.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2022a_v1_240227.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2021a_v1_230224.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2021a_v1_230224.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2020.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2019_hr_210225.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2019_hr_210225.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2018_hr_200226.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2018_hr_200226.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2017_hr_190226.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2017_hr_190226.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2016_hr_180222.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_staf_2016_hr_180222.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2015_hr_170103.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2015_hr_170103.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2013_151124.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/en0203_do_2013_151124.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0203",
+          "url": "https://metadata.scb.se/?produkt=EN0203"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Användarhandledning 2024 (pdf)",
+        "Vanliga frågor och svar"
+      ],
+      "links": [
+        {
+          "text": "Användarhandledning 2024 (pdf)",
+          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/anvandarhandledning-2024-version-1.0.pdf",
+          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/anvandarhandledning-2024-version-1.0.pdf"
+        },
+        {
+          "text": "Vanliga frågor och svar",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/produktrelaterat/Fordjupad-information/vanliga-fragor-och-svar-om-kommunal-och-regional-energistatistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/produktrelaterat/Fordjupad-information/vanliga-fragor-och-svar-om-kommunal-och-regional-energistatistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Helena Rehn",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 66 42",
+        "E-post",
+        "helena.rehn@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 66 42",
+          "href": "tel:010-479 66 42",
+          "url": "tel:010-479 66 42"
+        },
+        {
+          "text": "helena.rehn@scb.se",
+          "href": "mailto:helena.rehn@scb.se",
+          "url": "mailto:helena.rehn@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle",
+        "El"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        },
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0203"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

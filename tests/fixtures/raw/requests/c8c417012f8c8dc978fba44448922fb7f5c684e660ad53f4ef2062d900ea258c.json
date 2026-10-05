@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Svenska utlandsmyndigheter"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:47.722957Z",
+  "sha256": "cd946f2214a0911d93bc5026eae161137985b231598420c3c081c371d3d40c08",
+  "encoding": "utf-8"
+}

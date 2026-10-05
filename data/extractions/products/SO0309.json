@@ -1,0 +1,183 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/SO0309",
+    "response_url": "https://www.scb.se/SO0309",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/aldre-vard-och-omsorg-kommunala-insatser/",
+    "fetched_at": "2026-10-05T13:14:30.102130Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0a594b3182ae657f133f524576239d71898784ad4930a32800a0fccf8a9485c6",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "SO0309",
+  "product_code_source": "calendar",
+  "title": "Statistik om socialtjänstinsatser för äldre",
+  "short_address": "https://www.scb.se/so0309",
+  "summary": "Statistiken visar antalet äldre personer med insatser enligt socialtjänstlagen. Insatser som presenteras är bland annat hemtjänst, särskilt boende, dagverksamhet och korttidsplats.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Socialstyrelsen (SoS)",
+    "link": {
+      "text": "Socialstyrelsen (SoS)",
+      "href": "http://www.socialstyrelsen.se/statistik",
+      "url": "http://www.socialstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Omsorg",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
+    },
+    {
+      "text": "Äldreomsorg",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=235",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=235"
+    },
+    {
+      "text": "Socialtjänst",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Statistik om socialtjänstinsatser för äldre",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar antalet äldre personer med insatser enligt socialtjänstlagen. Insatser som presenteras är bland annat hemtjänst, särskilt boende, dagverksamhet och korttidsplats."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statistik om socialtjänstinsatser för äldre",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Socialstyrelsen (SoS)"
+      ],
+      "links": [
+        {
+          "text": "Socialstyrelsen (SoS)",
+          "href": "http://www.socialstyrelsen.se/statistik",
+          "url": "http://www.socialstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statistik om socialtjänstinsatser för äldre",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Socialstyrelsen",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "075-247 30 00",
+        "E-post",
+        "socialstyrelsen@socialstyrelsen.se"
+      ],
+      "links": [
+        {
+          "text": "075-247 30 00",
+          "href": "tel:075-247 30 00",
+          "url": "tel:075-247 30 00"
+        },
+        {
+          "text": "socialstyrelsen@socialstyrelsen.se",
+          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
+          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statistik om socialtjänstinsatser för äldre",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Omsorg",
+        "Äldreomsorg",
+        "Socialtjänst"
+      ],
+      "links": [
+        {
+          "text": "Omsorg",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
+        },
+        {
+          "text": "Äldreomsorg",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=235",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=235"
+        },
+        {
+          "text": "Socialtjänst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statistik om socialtjänstinsatser för äldre",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/so0309"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

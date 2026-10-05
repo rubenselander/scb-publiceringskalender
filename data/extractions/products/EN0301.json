@@ -1,0 +1,1335 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0301",
+    "response_url": "https://www.scb.se/EN0301",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/",
+    "fetched_at": "2026-10-05T13:10:40.117004Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "bbd0a2ebe57e56f5c27bf3635ae06ec70f085500b8a6483a534afdc03adfef28",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0301",
+  "product_code_source": "calendar",
+  "title": "Elpriser och elavtal",
+  "short_address": "https://www.scb.se/en0301",
+  "summary": "Statistiken visar bland annat nivå och utveckling för elhandels- och elnätspriser, fördelning av avtal på olika avtalstyper och i vilken utsträckning elavtal omförhandlas.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-23",
+  "next_publication_date": "2026-10-23",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [
+    "Ny publiceringsform Från och med mars 2024 är samtliga fasta tabeller och excelfiler ersatta med tabeller i Statistikdatabasen. Länkar till tabellerna finns längre ner på denna sida under ”Tabeller i Statistikdatabasen”.",
+    "Omförhandlade elavtal Tabellen med andel omförhandlade elavtal utgår 2024 och ersätts med en tabell över antal omförhandlade elavtal. Den nya tabellen innehåller uppgifter från och med januari 2023.",
+    "Ny redovisning av statistik om el och naturgas Från och med juli 2021 redovisas all statistik som tidigare redovisats under sidorna \"Priser på elenergi och på överföring av el\", \"Energipriser på naturgas och el\", \"Prisutveckling på el och naturgas samt leverantörsbyten\", \"Omförhandling och byten av elavtal\" samt \"Nätpriser på naturgas och byten av naturgasleverantör\" samlat under två sidor avseende el respektive naturgas. Det är dels den här sidan, dels sidan Gaspriser och gasavtal ."
+  ],
+  "tags": [
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-23",
+        "Statistiken visar bland annat nivå och utveckling för elhandels- och elnätspriser, fördelning av avtal på olika avtalstyper och i vilken utsträckning elavtal omförhandlas."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0301&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0301&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Ny publiceringsform Från och med mars 2024 är samtliga fasta tabeller och excelfiler ersatta med tabeller i Statistikdatabasen. Länkar till tabellerna finns längre ner på denna sida under ”Tabeller i Statistikdatabasen”.",
+        "Omförhandlade elavtal Tabellen med andel omförhandlade elavtal utgår 2024 och ersätts med en tabell över antal omförhandlade elavtal. Den nya tabellen innehåller uppgifter från och med januari 2023.",
+        "Ny redovisning av statistik om el och naturgas Från och med juli 2021 redovisas all statistik som tidigare redovisats under sidorna \"Priser på elenergi och på överföring av el\", \"Energipriser på naturgas och el\", \"Prisutveckling på el och naturgas samt leverantörsbyten\", \"Omförhandling och byten av elavtal\" samt \"Nätpriser på naturgas och byten av naturgasleverantör\" samlat under två sidor avseende el respektive naturgas. Det är dels den här sidan, dels sidan Gaspriser och gasavtal ."
+      ],
+      "links": [
+        {
+          "text": "Gaspriser och gasavtal",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/gaspriser-och-gasavtal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/gaspriser-och-gasavtal/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Äldre statistik",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elnätspriser för olika typkunder, 1996–",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/elnatspriser-for-olika-typkunder-1996/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/elnatspriser-for-olika-typkunder-1996/"
+        },
+        {
+          "text": "Månadsvärden april 2013–augusti 2023",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/manadsvarden/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/manadsvarden/"
+        },
+        {
+          "text": "Priser på el för industrikunder 2007–2014",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-for-industrikunder-20072014/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-for-industrikunder-20072014/"
+        },
+        {
+          "text": "Priser på el för hushållskunder 2007–2014",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-for-hushallskunder-20072014/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-for-hushallskunder-20072014/"
+        },
+        {
+          "text": "Årsvärden 1996–2004, samt månadsvärden april 2004–mars 2013",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/arsvarden-19962004-samt-manadsvarden-april-2004mars-2013/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/arsvarden-19962004-samt-manadsvarden-april-2004mars-2013/"
+        },
+        {
+          "text": "Genomsnitt per halvår 2007–2014",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/genomsnitt-per-halvar-20072014/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/genomsnitt-per-halvar-20072014/"
+        },
+        {
+          "text": "Elpriser för olika typkunder och avtal, 2000–2013",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/elpriser-for-olika-typkunder-och-avtal-20002013/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/elpriser-for-olika-typkunder-och-avtal-20002013/"
+        },
+        {
+          "text": "Priser på el och naturgas, mätdag 1 januari, 1997–2006",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-och-naturgas-matdag-1-januari-19972006/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/priser-pa-el-och-naturgas-matdag-1-januari-19972006/"
+        },
+        {
+          "text": "Hushållskunders byten av elleverantör i förhållande till vissa prisskillnader 2005–2017",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/hushallskunders-byten-av-elleverantor-i-forhallande-till-vissa-prisskillnader-20052017/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/pong/tabell-och-diagram/aldre-statistik/hushallskunders-byten-av-elleverantor-i-forhallande-till-vissa-prisskillnader-20052017/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Elnätspriser för olika typkunder, 1996–",
+          "Tabell",
+          "2023-04-24"
+        ],
+        [
+          "Månadsvärden april 2013–augusti 2023",
+          "Excel-fil",
+          "2023-09-22"
+        ],
+        [
+          "Priser på el för industrikunder 2007–2014",
+          "Tabell",
+          "2022-06-22"
+        ],
+        [
+          "Priser på el för hushållskunder 2007–2014",
+          "Tabell",
+          "2022-06-22"
+        ],
+        [
+          "Årsvärden 1996–2004, samt månadsvärden april 2004–mars 2013",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Genomsnitt per halvår 2007–2014",
+          "Excel-fil",
+          "2022-06-22"
+        ],
+        [
+          "Elpriser för olika typkunder och avtal, 2000–2013",
+          "Tabell",
+          ""
+        ],
+        [
+          "Priser på el och naturgas, mätdag 1 januari, 1997–2006",
+          "Excel-fil",
+          "2017-01-20"
+        ],
+        [
+          "Hushållskunders byten av elleverantör i förhållande till vissa prisskillnader 2005–2017",
+          "Diagram",
+          "2017-12-11"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elpriser och elavtal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElAvtalstyp",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElAvtalstyp"
+        },
+        {
+          "text": "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElhandelpris",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElhandelpris"
+        },
+        {
+          "text": "Elnätspriser (öre/kWh exkl. skatter) per den 1:a januari. År 1996 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDArElnatspris",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDArElnatspris"
+        },
+        {
+          "text": "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElVolymer",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElVolymer"
+        },
+        {
+          "text": "Priser på el för hushåll efter förbrukarkategori. Halvår 2014H2 - 2026H1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDHalvarElHus",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDHalvarElHus"
+        },
+        {
+          "text": "Priser på el för övriga kunder (ej hushåll) efter förbrukarkategori. Halvår 2014H2 - 2026H1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDHalvarElIckehus",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDHalvarElIckehus"
+        },
+        {
+          "text": "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmf",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmf"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M08",
+          "2026-09-23"
+        ],
+        [
+          "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M08",
+          "2026-09-23"
+        ],
+        [
+          "Elnätspriser (öre/kWh exkl. skatter) per den 1:a januari. År 1996 - 2026",
+          "2026-05-22"
+        ],
+        [
+          "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M07",
+          "2026-09-23"
+        ],
+        [
+          "Priser på el för hushåll efter förbrukarkategori. Halvår 2014H2 - 2026H1",
+          "2026-09-28"
+        ],
+        [
+          "Priser på el för övriga kunder (ej hushåll) efter förbrukarkategori. Halvår 2014H2 - 2026H1",
+          "2026-09-28"
+        ],
+        [
+          "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M07",
+          "2026-09-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0301B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0301B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prisutveckling på energi samt leverantörsbyten 3:e kvartalet 2017",
+          "href": "/publikation/31797",
+          "url": "https://www.scb.se/publikation/31797"
+        },
+        {
+          "text": "Prisutveckling på energi samt leverantörsbyten 2:a kvartalet 2017",
+          "href": "/publikation/31796",
+          "url": "https://www.scb.se/publikation/31796"
+        },
+        {
+          "text": "Omförhandling och byten av elavtal 2016",
+          "href": "/publikation/31091",
+          "url": "https://www.scb.se/publikation/31091"
+        },
+        {
+          "text": "Prisutveckling på energi samt leverantörsbyten 1:a kvartalet 2017",
+          "href": "/publikation/31795",
+          "url": "https://www.scb.se/publikation/31795"
+        },
+        {
+          "text": "Prisutveckling på energi samt leverantörsbyten 4:e kv 2016",
+          "href": "/publikation/31794",
+          "url": "https://www.scb.se/publikation/31794"
+        },
+        {
+          "text": "Prisutveckling på energi samt leverantörsbyten 3:e kv 2016",
+          "href": "/publikation/28016",
+          "url": "https://www.scb.se/publikation/28016"
+        },
+        {
+          "text": "Omförhandling och byten av elavtal 2014",
+          "href": "/publikation/25112",
+          "url": "https://www.scb.se/publikation/25112"
+        },
+        {
+          "text": "Omförhandling och byten av elavtal 2013",
+          "href": "/publikation/23619",
+          "url": "https://www.scb.se/publikation/23619"
+        },
+        {
+          "text": "Omförhandling och byten av elavtal 2012",
+          "href": "/publikation/21034",
+          "url": "https://www.scb.se/publikation/21034"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Prisutveckling på energi samt leverantörsbyten 3:e kvartalet 2017",
+          "",
+          "2017-12-11"
+        ],
+        [
+          "Prisutveckling på energi samt leverantörsbyten 2:a kvartalet 2017",
+          "",
+          "2017-09-08"
+        ],
+        [
+          "Omförhandling och byten av elavtal 2016",
+          "",
+          "2017-06-21"
+        ],
+        [
+          "Prisutveckling på energi samt leverantörsbyten 1:a kvartalet 2017",
+          "",
+          "2017-06-05"
+        ],
+        [
+          "Prisutveckling på energi samt leverantörsbyten 4:e kv 2016",
+          "",
+          "2017-03-07"
+        ],
+        [
+          "Prisutveckling på energi samt leverantörsbyten 3:e kv 2016",
+          "",
+          "2016-12-09"
+        ],
+        [
+          "Omförhandling och byten av elavtal 2014",
+          "",
+          "2015-06-26"
+        ],
+        [
+          "Omförhandling och byten av elavtal 2013",
+          "",
+          "2014-06-23"
+        ],
+        [
+          "Omförhandling och byten av elavtal 2012",
+          "",
+          "2013-06-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (6)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=EN0301&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=EN0301&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2026_v1_20260522.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2026_v1_20260522.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2025_v1_20250324.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2025_v1_20250324.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2024_-v1_20241003.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2024_-v1_20241003.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2023_v1_20240925.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2023_v1_20240925.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2022_kh_20230308.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_kd_2022_kh_20230308.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Äldre dokumentation: Priser på elenergi och på överföring av el",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2018_180306_aq.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2018_180306_aq.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2017_aq_170726.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2017_aq_170726.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2016_aq_170727.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_kd_2016_aq_170727.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Äldre dokumentation: Prisutveckling på el och naturgas samt leverantörsbyten",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0304/en0304_bs_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Äldre dokumentation: Omförhandling och byten av elavtal",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2016_pa_170626.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2016_pa_170626.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2014_pa_170419.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2014_pa_170419.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2013_pa_170421.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_kd_2013_pa_170421.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_bs_2006.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2026_v1_20260522.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2026_v1_20260522.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2025_v1_20250324.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2025_v1_20250324.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2024_v1_20241003.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_staf_2024_v1_20241003.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_st_2023_v1_20240925.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301/en0301_st_2023_v1_20240925.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Äldre dokumentation: Priser på elenergi och på överföring av el",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_-2016.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_-2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_-2015.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_-2015.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0301_do_2006.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Äldre dokumentation: Omförhandling och byten av elavtal",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2016_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2016_pa_170223.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2014_pa_170222.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2014_pa_170222.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2013_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2013_pa_170223.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2012_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2012_pa_170223.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2011_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2011_pa_170223.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2010_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2010_pa_170223.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2009_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2009_pa_170223.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2008_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2008_pa_170223.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2007_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2007_pa_170223.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2006_pa_170223.pdf",
+          "url": "https://www.scb.se/contentassets/1e73cca715aa4bfba4f951d86537bf59/en0305/en0305_do_2006_pa_170223.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0301",
+          "url": "https://metadata.scb.se/?produkt=EN0301"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "elhandelspriser@scb.se"
+      ],
+      "links": [
+        {
+          "text": "elhandelspriser@scb.se",
+          "href": "mailto:elhandelspriser@scb.se",
+          "url": "mailto:elhandelspriser@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "El"
+      ],
+      "links": [
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0301"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

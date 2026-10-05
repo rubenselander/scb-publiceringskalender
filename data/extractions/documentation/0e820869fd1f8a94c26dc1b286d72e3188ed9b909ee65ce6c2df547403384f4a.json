@@ -1,0 +1,167 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/JO0401",
+    "response_url": "https://www.scb.se/JO0401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/",
+    "fetched_at": "2026-10-05T13:11:39.468412Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "ec8f47f15436c53d8d8d05ef7302e9a385ba3901822879ddb63acd0885025a39",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Sysselsättning i jordbruket",
+  "product_code": "JO0401",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2020 (pdf)",
+        "2010 (pdf)",
+        "2007 (pdf)",
+        "2005 (pdf)",
+        "2003 (pdf)",
+        "1997 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_kd_2020.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_kd_2020.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2010.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2007.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2005.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_2003.pdf"
+        },
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_1997.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_bs_1997.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2020 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_staf_2020.pdf",
+          "url": "https://www.scb.se/contentassets/1fb7d2689a0246e8adf5647c45606824/jo0401_staf_2020.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=JO0401",
+          "url": "https://metadata.scb.se/?produkt=JO0401"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

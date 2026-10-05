@@ -1,0 +1,356 @@
+{
+  "product_am0201": {
+    "url": "https://www.scb.se/AM0201",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "product_pr0701": {
+    "url": "https://www.scb.se/PR0701",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "product_be0101": {
+    "url": "https://www.scb.se/BE0101",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "subjects": {
+    "url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/officiell-statistik-efter-amne/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "subject_am": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "subject_bl": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "documentation": {
+    "url": "https://www.scb.se/dokumentation/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "official_agencies": {
+    "url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/statistikansvariga-myndigheter/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "european_agencies": {
+    "url": "https://www.scb.se/om-scb/samordning-av-europeisk-statistik-i-sverige/myndigheter-som-ansvarar-for-europeisk-statistik/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "regulation": {
+    "url": "https://data.riksdagen.se/dokument/sfs-2001-100.html",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "agency_registry": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "official_products": {
+    "url": "https://www.scb.se/sam-forum/hem/officiell-statistik/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "hvd": {
+    "url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "changes": {
+    "url": "https://www.scb.se/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "official_products_0": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/produktdatabasen/uttag-fran-pdb-till-sam-forum-2026-02-24_publicerad-version.xlsx",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "changes_0": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---nov-2025---feb-2026.pdf",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "changes_1": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "changes_2": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-nov-2024--31-mars-2025.pdf",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "changes_3": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_0": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_1": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-manadsgenomsnitt/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_2": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_3": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_4": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_5": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/hushallens-inkopsplaner-hip--mikroindex/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_6": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_7": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tillverkningsindustrin/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_8": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_9": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/kort-och-lang-ranta-1989-/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "economy_10": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/kort-och-lang-ranta-2008-/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_2": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Statliga förvaltningsmyndigheter"
+    }
+  },
+  "registry_prepare_2": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Statliga förvaltningsmyndigheter"
+    },
+    "json_body": null
+  },
+  "registry_export_2": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Statliga förvaltningsmyndigheter&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_3": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Myndigheter under riksdagen"
+    }
+  },
+  "registry_prepare_3": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Myndigheter under riksdagen"
+    },
+    "json_body": null
+  },
+  "registry_export_3": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Myndigheter under riksdagen&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_4": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Statliga affärsverk"
+    }
+  },
+  "registry_prepare_4": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Statliga affärsverk"
+    },
+    "json_body": null
+  },
+  "registry_export_4": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Statliga affärsverk&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_5": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "AP-fonder"
+    }
+  },
+  "registry_prepare_5": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "AP-fonder"
+    },
+    "json_body": null
+  },
+  "registry_export_5": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=AP-fonder&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_6": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Sveriges domstolar samt Domstolsverket"
+    }
+  },
+  "registry_prepare_6": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Sveriges domstolar samt Domstolsverket"
+    },
+    "json_body": null
+  },
+  "registry_export_6": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Sveriges domstolar samt Domstolsverket&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_group_7": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Svenska utlandsmyndigheter"
+    }
+  },
+  "registry_prepare_7": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "Svenska utlandsmyndigheter"
+    },
+    "json_body": null
+  },
+  "registry_export_7": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Svenska utlandsmyndigheter&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "registry_detail_2": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaEnMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "peorgnr": "162021005943",
+      "cfarnr": null,
+      "lopnr": null
+    }
+  },
+  "registry_detail_6": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaEnMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "peorgnr": null,
+      "cfarnr": "19075852",
+      "lopnr": null
+    }
+  },
+  "registry_detail_7": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaEnMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "peorgnr": null,
+      "cfarnr": null,
+      "lopnr": "201"
+    }
+  }
+}

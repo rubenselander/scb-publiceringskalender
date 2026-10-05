@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:38.197526Z",
+  "sha256": "8a428c14f9c5c4457ab7e680462810f6bffc4926b344ec1d9568335adfba5099",
+  "encoding": "utf-8"
+}

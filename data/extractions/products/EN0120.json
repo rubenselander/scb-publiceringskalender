@@ -1,0 +1,649 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0120",
+    "response_url": "https://www.scb.se/EN0120",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/leveranser-av-fordonsgas-och-vatgas/",
+    "fetched_at": "2026-10-05T13:10:36.222454Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "e581dba7eea7dc4370c130708cc97848c415985f8c1f6b8a46988258339c11f3",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0120",
+  "product_code_source": "calendar",
+  "title": "Leveranser av fordonsgas och vätgas",
+  "short_address": "https://www.scb.se/en0120",
+  "summary": "Statistiken visar leveranser av fordonsgas och vätgas till tankställen per månad.\nVid publicering av helåret (i februari) redovisas även leveranser uppdelat per län efter typ av gas. Det redovisas då även antal tankställen.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-16",
+  "next_publication_date": "2026-10-16",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-16",
+        "Statistiken visar leveranser av fordonsgas och vätgas till tankställen per månad.\nVid publicering av helåret (i februari) redovisas även leveranser uppdelat per län efter typ av gas. Det redovisas då även antal tankställen."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0120&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0120&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M07",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasM"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M07",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasM"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Leveranser av flytande fordonsgas (1 000 kg) efter region och typ av fordonsgas. År 2017 - 2025",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Leveranser av flytande fordonsgas (1 000 kg) efter region och typ av fordonsgas. År 2017 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasAr"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Leveranser av fordonsgas (1 000 Nm3) efter region och typ av fordonsgas. År 2009 - 2025",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Leveranser av fordonsgas (1 000 Nm3) efter region och typ av fordonsgas. År 2009 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasAr"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas och typ av tankställe. År 2010 - 2025",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas och typ av tankställe. År 2010 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasTS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasTS"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Antal tankställen efter typ av tankställe. År 2010 - 2025",
+        "2026-09-17"
+      ],
+      "links": [
+        {
+          "text": "Antal tankställen efter typ av tankställe. År 2010 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasAntTS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasAntTS"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2026_ml_260318.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2026_ml_260318.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2025_20250714.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2025_20250714.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2024_240320.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2024_240320.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2022_ml_220317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2022_ml_220317.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2021_ml_210317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2021_ml_210317.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2020_ml_200317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2020_ml_200317.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2019.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2018_180319_aq.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2018_180319_aq.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2017_20180320.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_kd_2017_20180320.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2016_20141230.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2016_20141230.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2015_20141230.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2015_20141230.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2014_20141230.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2014_20141230.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2013_20141230.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bas_2013_20141230.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_bs_2011.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2026_sh_260318.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2026_sh_260318.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2025_20250714.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2025_20250714.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2024_240320.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2024_240320.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2022_ml_220317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2022_ml_220317.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2021_ml_210317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2021_ml_210317.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2020_ml_200317.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2020_ml_200317.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2019.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2018_-mk_181017.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2018_-mk_181017.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2017_20181017.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_staf_2017_20181017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2016_aq_171201.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2016_aq_171201.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2015-docx.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2015-docx.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2014-docx.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2014-docx.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2013_docx.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_scbdok_2013_docx.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/30084f7470354b34bcfe75cc71a4d0a2/en0120_do_2011.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0120",
+          "url": "https://metadata.scb.se/?produkt=EN0120"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Monica Leonardsson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 62 81",
+        "E-post",
+        "monica.leonardsson@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 62 81",
+          "href": "tel:010-479 62 81",
+          "url": "tel:010-479 62 81"
+        },
+        {
+          "text": "monica.leonardsson@scb.se",
+          "href": "mailto:monica.leonardsson@scb.se",
+          "url": "mailto:monica.leonardsson@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Leveranser av fordonsgas och vätgas",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0120"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

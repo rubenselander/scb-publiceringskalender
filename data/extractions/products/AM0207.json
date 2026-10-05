@@ -1,0 +1,2631 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0207",
+    "response_url": "https://www.scb.se/AM0207",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/",
+    "fetched_at": "2026-10-05T13:10:06.478222Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "19e44197a3afe1778c53aada31e0c0e77f89d4da639c6f5edf83a9309277d1da",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0207",
+  "product_code_source": "calendar",
+  "title": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+  "short_address": "https://www.scb.se/am0207",
+  "summary": "Statistiken visar sysselsättning, pendling och personal- och näringsstruktur. Den visar också händelser och flöden på arbetsmarknaden. Statistiken är totalräknad och kan brytas ner på låg regional nivå eller utifrån de anställdas egenskaper; till exempel kön, utbildning och ålder.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [
+    "Framställningen och redovisningen av RAMS kommer att upphöra. Den sista statistiken som är den som avser referensåret 2021 publiceras 24 november 2022. Användare hänvisas till den nya statistiken Befolkningens arbetsmarknadsstatus, BAS. BAS finns framställd och publicerad med januari 2020 som första referensperiod. Den statistiken finns här .",
+    "Statistik avseende referensår 2019 är huvudsakligen baserad på arbetsgivardeklaration på individnivå (AGI) som Skatteverket samlar in. AGI ersätter de tidigare kontrolluppgifterna (KU). Jämförelse av statistik för 2019 mot tidigare år bör därför göras med försiktighet. Läs mer här: Ny källa och metod vid framställning av RAMS"
+  ],
+  "tags": [
+    {
+      "text": "Anställda",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
+    },
+    {
+      "text": "Arbete",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+    },
+    {
+      "text": "Företag",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+    },
+    {
+      "text": "Pendling",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=149",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=149"
+    },
+    {
+      "text": "Sysselsatta",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar sysselsättning, pendling och personal- och näringsstruktur. Den visar också händelser och flöden på arbetsmarknaden. Statistiken är totalräknad och kan brytas ner på låg regional nivå eller utifrån de anställdas egenskaper; till exempel kön, utbildning och ålder."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Ingen fortsatt redovisning av RAMS",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Framställningen och redovisningen av RAMS kommer att upphöra. Den sista statistiken som är den som avser referensåret 2021 publiceras 24 november 2022. Användare hänvisas till den nya statistiken Befolkningens arbetsmarknadsstatus, BAS. BAS finns framställd och publicerad med januari 2020 som första referensperiod. Den statistiken finns här ."
+      ],
+      "links": [
+        {
+          "text": "här",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Information gällande tidsseriebrottet i RAMS2019",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Statistik avseende referensår 2019 är huvudsakligen baserad på arbetsgivardeklaration på individnivå (AGI) som Skatteverket samlar in. AGI ersätter de tidigare kontrolluppgifterna (KU). Jämförelse av statistik för 2019 mot tidigare år bör därför göras med försiktighet. Läs mer här: Ny källa och metod vid framställning av RAMS"
+      ],
+      "links": [
+        {
+          "text": "Ny källa och metod vid framställning av RAMS",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/aktuellt/ny-kalla-och-metod-vid-framstallning-av-rams/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/aktuellt/ny-kalla-och-metod-vid-framstallning-av-rams/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2022-11-24",
+        "Antalet förvärvsarbetande ökade 2021 med 127 643 personer jämfört med föregående år, vilket är en ökning med 2,6 procent. Lönesumman ökade med 5,9 procent under motsvarande tidsperiod."
+      ],
+      "links": [
+        {
+          "text": "Antal förvärvsarbetande ökade med 2,6 procent",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/statistiknyhet/registerbaserad-arbetsmarknadsstatistik-rams-och-registerbaserad-lonesummestatistik-lsum-2021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/statistiknyhet/registerbaserad-arbetsmarknadsstatistik-rams-och-registerbaserad-lonesummestatistik-lsum-2021/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=AM0207",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=AM0207"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal förvärvsarbetande och förvärvsintensitet per kommun, 2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-och-forvarvsintensitet-per-kommun-2021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-och-forvarvsintensitet-per-kommun-2021/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter sektor och kommun, 2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-sektor-och-kommun-2021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-sektor-och-kommun-2021/"
+        },
+        {
+          "text": "Antal företagsförekomster per kommun, 2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-foretagsforekomster-per-kommun/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-foretagsforekomster-per-kommun/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter näringsgren och NUTS2 (EU-standard), 2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren-och-nuts2-eu-standard-2021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren-och-nuts2-eu-standard-2021/"
+        },
+        {
+          "text": "Antal pendlare per län och kommun, 2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-pendlare-per-lan-och-kommun-2021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-pendlare-per-lan-och-kommun-2021/"
+        },
+        {
+          "text": "Antal förvärvsarbetande efter kön, 1985–2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-efter-kon-19852021/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-efter-kon-19852021/"
+        },
+        {
+          "text": "Antal förvärvsarbetande, 1985–2021",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-1985-/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-1985-/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter näringsgren (SNI 2007) åren 2000–2010 (modellbaserad tillbakaskrivning 2000–2007)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren-sni-2007-aren-20002010-modellbaserad-tillbakaskrivning-20002007/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren-sni-2007-aren-20002010-modellbaserad-tillbakaskrivning-20002007/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (nattbefolkning) efter näringsgren (SNI 2007) åren 2000–2010 (modellbaserad tillbakaskrivning 2000–2007)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-nattbefolkning-efter-naringsgren-sni-2007-aren-20002010-modellbaserad-tillbakaskrivning-20002007/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/antal-forvarvsarbetande-nattbefolkning-efter-naringsgren-sni-2007-aren-20002010-modellbaserad-tillbakaskrivning-20002007/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Antal förvärvsarbetande och förvärvsintensitet per kommun, 2021",
+          "Tabell",
+          "2022-11-24"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter sektor och kommun, 2021",
+          "Tabell",
+          "2022-11-24"
+        ],
+        [
+          "Antal företagsförekomster per kommun, 2021",
+          "Tabell",
+          "2022-11-24"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter näringsgren och NUTS2 (EU-standard), 2021",
+          "Tabell",
+          "2022-11-24"
+        ],
+        [
+          "Antal pendlare per län och kommun, 2021",
+          "Tabell",
+          "2022-11-24"
+        ],
+        [
+          "Antal förvärvsarbetande efter kön, 1985–2021",
+          "Diagram",
+          "2022-11-24"
+        ],
+        [
+          "Antal förvärvsarbetande, 1985–2021",
+          "Diagram",
+          "2022-11-24"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter näringsgren (SNI 2007) åren 2000–2010 (modellbaserad tillbakaskrivning 2000–2007)",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Antal förvärvsarbetande (nattbefolkning) efter näringsgren (SNI 2007) åren 2000–2010 (modellbaserad tillbakaskrivning 2000–2007)",
+          "Excel-fil",
+          ""
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Jämförelsetabeller för belysning av tidsseriebrottet mellan 2018 och 2019",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter kön, näringsgren och region 2019 (Korrigerad 2021-03-05)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-naringsgren-och-region-2019-korrigerad-2021-03-05/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-naringsgren-och-region-2019-korrigerad-2021-03-05/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter kön, yrkesställning och region 2019",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-yrkesstallning-och-region-2019/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-yrkesstallning-och-region-2019/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (nattbefolkning) efter kön, ålder och region 2019",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-nattbefolkning-efter-kon-alder-och-region-2019/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-nattbefolkning-efter-kon-alder-och-region-2019/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter kön, ålder och region 2019",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-alder-och-region-2019/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2018-och-2019/antal-forvarvsarbetande-dagbefolkning-efter-kon-alder-och-region-2019/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter kön, näringsgren och region 2019 (Korrigerad 2021-03-05)",
+          "Excel-fil",
+          "2020-11-26"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter kön, yrkesställning och region 2019",
+          "Excel-fil",
+          "2020-11-26"
+        ],
+        [
+          "Antal förvärvsarbetande (nattbefolkning) efter kön, ålder och region 2019",
+          "Excel-fil",
+          "2020-11-26"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter kön, ålder och region 2019",
+          "Excel-fil",
+          "2020-11-26"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Jämförelsetabeller för belysning av tidsseriebrottet mellan 2010 och 2011",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter kön, ålder och region 2011",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning-efter-kon-alder-och-region-2011/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning-efter-kon-alder-och-region-2011/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (nattbefolkning) efter kön, ålder och region 2011",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-nattbefolkning-efter-kon-alder-och-region-2011/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-nattbefolkning-efter-kon-alder-och-region-2011/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning)  efter kön, yrkesställning och region 2011",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning--efter-kon-yrkesstallning-och-region-2011/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning--efter-kon-yrkesstallning-och-region-2011/"
+        },
+        {
+          "text": "Antal förvärvsarbetande (dagbefolkning) efter näringsgren  och region, 2009–2011",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren--och-region-20092011/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2010-och-2011/antal-forvarvsarbetande-dagbefolkning-efter-naringsgren--och-region-20092011/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter kön, ålder och region 2011",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Antal förvärvsarbetande (nattbefolkning) efter kön, ålder och region 2011",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning)  efter kön, yrkesställning och region 2011",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Antal förvärvsarbetande (dagbefolkning) efter näringsgren  och region, 2009–2011",
+          "Excel-fil",
+          ""
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Jämförelsetabeller för belysning av tidsseriebrottet mellan 2003 och 2004",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande per kommun 2003",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2003-och-2004/forvarvsarbetande-per-kommun-2003/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2003-och-2004/forvarvsarbetande-per-kommun-2003/"
+        },
+        {
+          "text": "Förvärvsarbetande efter yrkesställning 2003",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2003-och-2004/forvarvsarbetande-efter-yrkesstallning-2003/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/pong/tabell-och-diagram/jamforelsetabeller-for-belysning-av-tidsseriebrottet-mellan-2003-och-2004/forvarvsarbetande-efter-yrkesstallning-2003/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande per kommun 2003",
+          "Excel-fil",
+          ""
+        ],
+        [
+          "Förvärvsarbetande efter yrkesställning 2003",
+          "Tabell",
+          ""
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tabeller avseende 2019-2021",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 16-74 år (RAMS) efter region, sysselsättning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssAldKonKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssAldKonKN"
+        },
+        {
+          "text": "Befolkningen 16-74 år (RAMS) i riket efter sysselsättning, födelseregion, senaste invandringsår, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssFoIaAldRN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssFoIaAldRN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSni07KonKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSni07KonKN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSektAldKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSektAldKN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, födelseregion och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSni07FoRN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSni07FoRN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07YrkstAldRN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07YrkstAldRN"
+        },
+        {
+          "text": "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RamsForvInt04N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RamsForvInt04N"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSni07KonKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSni07KonKN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSektAldKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSektAldKN"
+        },
+        {
+          "text": "Förvärvsarbetande 16-74 år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSni07YrkstAldRN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSni07YrkstAldRN"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16-74 år över kommungräns (RAMS) efter kommun och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingKN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingKN"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16-74 år över kommungräns efter bostadskommun, arbetsställekommun och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA04N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA04N"
+        },
+        {
+          "text": "Andel utrikes födda förvärvsarbetande 20-64 år efter åldersgrupp, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvUtlAlderN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvUtlAlderN"
+        },
+        {
+          "text": "Antal företagare efter region, bolagsform och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetBolFormN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetBolFormN"
+        },
+        {
+          "text": "Andel förvärvsarbetande 20-64 år efter födelseregion, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvFodRegN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvFodRegN"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 16-74 år (RAMS) efter region, sysselsättning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Befolkningen 16-74 år (RAMS) i riket efter sysselsättning, födelseregion, senaste invandringsår, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, födelseregion och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande 16-74 år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16-74 år över kommungräns (RAMS) efter kommun och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16-74 år över kommungräns efter bostadskommun, arbetsställekommun och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Andel utrikes födda förvärvsarbetande 20-64 år efter åldersgrupp, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Antal företagare efter region, bolagsform och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Andel förvärvsarbetande 20-64 år efter födelseregion, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Regional statistik på lägre nivå än kommun (DeSO), 2018-2021",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande nattbefolkning 16+ år efter region och bransch (SNI07). År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoBra",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoBra"
+        },
+        {
+          "text": "Förvärvsarbetande nattbefolkning 16+ år efter region, sektor och kön. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoSekt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoSekt"
+        },
+        {
+          "text": "Befolkningen 20-64 år efter region, sysselsättning och kön. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefDeSoSyss",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefDeSoSyss"
+        },
+        {
+          "text": "Förvärvsarbetande nattbefolkning 16-74 år efter region och bransch (SNI07), ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoBraN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoBraN"
+        },
+        {
+          "text": "Befolkningen 20-64 år efter region, sysselsättning och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefDeSoSyssN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefDeSoSyssN"
+        },
+        {
+          "text": "Förvärvsarbetande nattbefolkning 16-74 år efter region, sektor och kön, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoSektN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattDeSoSektN"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande nattbefolkning 16+ år efter region och bransch (SNI07). År 2018",
+          "2020-11-26"
+        ],
+        [
+          "Förvärvsarbetande nattbefolkning 16+ år efter region, sektor och kön. År 2018",
+          "2020-11-26"
+        ],
+        [
+          "Befolkningen 20-64 år efter region, sysselsättning och kön. År 2018",
+          "2020-11-26"
+        ],
+        [
+          "Förvärvsarbetande nattbefolkning 16-74 år efter region och bransch (SNI07), ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Befolkningen 20-64 år efter region, sysselsättning och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ],
+        [
+          "Förvärvsarbetande nattbefolkning 16-74 år efter region, sektor och kön, ny tidsserie. År 2019 - 2021",
+          "2022-11-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hela befolkningen 16+ år, 2004-2018",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 16+ år (RAMS) efter region, sysselsättning, ålder och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssAldKonK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssAldKonK"
+        },
+        {
+          "text": "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, medborgarskapsland, ålder och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssMbAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssMbAldR"
+        },
+        {
+          "text": "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, födelseregion, senaste invandringsår, ålder och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssFoIaAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefSyssFoIaAldR"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) efter region, sysselsättning, ålder och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, medborgarskapsland, ålder och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, födelseregion, senaste invandringsår, ålder och kön. År 2004 - 2018",
+          "2019-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hela befolkningen 16+ år, 1993-2003",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 16+ år (RAMS) efter region, sysselsättning, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK2"
+        },
+        {
+          "text": "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, medborgarskapsland, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSBefSyssMbAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSBefSyssMbAldR"
+        },
+        {
+          "text": "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, födelseland, antal år i Sverige, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSBefSyssFOIaAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSBefSyssFOIaAldR"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) efter region, sysselsättning, ålder och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, medborgarskapsland, ålder och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Befolkningen 16+ år (RAMS) i riket efter sysselsättning, födelseland, antal år i Sverige, ålder och kön. År 1993-2003 1993 - 2003",
+          "2011-03-30"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år 1993-2003 / 2004-2018",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över kommungräns (RAMS) efter kommun och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingK"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över kommungräns (RAMS) efter kommun och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingK9303",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingK9303"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över länsgräns (RAMS) efter län och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingL"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över länsgräns (RAMS) efter län och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingL9303",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PendlingL9303"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över kommungräns efter bostadskommun, arbetsställekommun och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA04"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över kommungräns efter bostadskommun, arbetsställekommun och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA9303",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlKomA9303"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över länsgräns efter bostadslän, arbetsställelän och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlLanA04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlLanA04"
+        },
+        {
+          "text": "Förvärvsarbetande pendlare 16+ år över länsgräns efter bostadslän, arbetsställelän och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlLanA9303",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0207PendlLanA9303"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över kommungräns (RAMS) efter kommun och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över kommungräns (RAMS) efter kommun och kön. År 1993-2003 1993 - 2003",
+          "2007-03-26"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över länsgräns (RAMS) efter län och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över länsgräns (RAMS) efter län och kön. År 1993-2003 1993 - 2003",
+          "2007-03-26"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över kommungräns efter bostadskommun, arbetsställekommun och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över kommungräns efter bostadskommun, arbetsställekommun och kön. År 1993-2003 1993 - 2003",
+          "2012-02-06"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över länsgräns efter bostadslän, arbetsställelän och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande pendlare 16+ år över länsgräns efter bostadslän, arbetsställelän och kön. År 1993-2003 1993 - 2003",
+          "2012-02-06"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år efter bostadens belägenhet (nattbefolkning), 2004-2018",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel utrikes födda förvärvsarbetande 20-64 år efter åldersgrupp. År 2015 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvUtlAlder",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvUtlAlder"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07KonK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07KonK"
+        },
+        {
+          "text": "Andel förvärvsarbetande 20-64 år efter födelseregion. År 2015 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvFodreg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForvFodreg"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2002 och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNIKonK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNIKonK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSektAldK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSektAldK"
+        },
+        {
+          "text": "Antal företagare efter region, bolagsform och kön. År 2015 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetBolForm",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetBolForm"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, födelseland och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07FoR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07FoR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, födelseland och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniFoR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniFoR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, medborgarskapsland och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07MbR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07MbR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, medborgarskapsland och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniMbR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniMbR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07YrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSNI07YrkstAldR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, ålder och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniYrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NattSniYrkstAldR"
+        },
+        {
+          "text": "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön . År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSForvInt04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSForvInt04"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Andel utrikes födda förvärvsarbetande 20-64 år efter åldersgrupp. År 2015 - 2018",
+          "2020-11-26"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Andel förvärvsarbetande 20-64 år efter födelseregion. År 2015 - 2018",
+          "2020-11-26"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI 2002 och kön. År 2004 - 2007",
+          "2008-12-16"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Antal företagare efter region, bolagsform och kön. År 2015 - 2018",
+          "2020-11-26"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, födelseland och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, födelseland och kön. År 2004 - 2007",
+          "2013-03-04"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, medborgarskapsland och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, medborgarskapsland och kön. År 2004 - 2007",
+          "2013-03-04"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, ålder och kön. År 2004 - 2007",
+          "2013-03-04"
+        ],
+        [
+          "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön . År 2004 - 2018",
+          "2019-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år efter bostadens belägenhet (nattbefolkning), 1993-2003",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI92 och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK4"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSektAldK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSektAldK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, födelseland och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIFoR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIFoR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, medborgarskapsland och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIMbR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIMbR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIYrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSNSNIYrkstAldR"
+        },
+        {
+          "text": "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön. År 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSForvInt03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSForvInt03"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, näringsgren SNI92 och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med bostad i regionen (nattbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, födelseland och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, medborgarskapsland och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (nattbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, ålder och kön. År 1993-2003 1993 - 2003",
+          "2006-02-08"
+        ],
+        [
+          "Förvärvsintensitet 20-64 år (RAMS) efter region, in- och utrikes födda och kön. År 1993 - 2003",
+          "2016-02-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år efter arbetsställets belägenhet (dagbefolkning), 2004-2018",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07KonK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07KonK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2002 och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNIKonK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNIKonK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSektAldK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSektAldK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, utbildningsnivå, arbetsställets storleksklass och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniUtbnStorlkR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniUtbnStorlkR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, utbildningsnivå, arbetsställets storleksklass och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07UtbnStorlkR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07UtbnStorlkR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön.  År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07YrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07YrkstAldR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, ålder och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniYrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniYrkstAldR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, utbildningsnivå och kön. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07YrkstUtbnR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSNI07YrkstUtbnR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, utbildningsnivå och kön. År 2004 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniYrkstUtbnR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DagSniYrkstUtbnR"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2007 och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI 2002 och kön. År 2004 - 2007",
+          "2008-12-16"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 2004 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, utbildningsnivå, arbetsställets storleksklass och kön. År 2004 - 2007",
+          "2013-03-04"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, utbildningsnivå, arbetsställets storleksklass och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, ålder och kön.  År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, ålder och kön. År 2004 - 2007",
+          "2013-03-04"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2007, yrkesställning, utbildningsnivå och kön. År 2008 - 2018",
+          "2019-11-28"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI 2002, yrkesställning, utbildningsnivå och kön. År 2004 - 2007",
+          "2013-03-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ efter arbetsställets belägenhet (dagbefolkning), 1993-2003",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI92 och kön. År 1990-2003 1990 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK3"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSektAldK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSektAldK"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, utb.nivå, arb.storleksklass och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIUtbnStorlkR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIUtbnStorlkR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, ålder och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIYrkstAldR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIYrkstAldR"
+        },
+        {
+          "text": "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, utb.nivå och kön. År 1993-2003 1993 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIYrkstUtbnR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RAMSDSNIYrkstUtbnR"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, näringsgren SNI92 och kön. År 1990-2003 1990 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år med arbetsplats i regionen (dagbefolkning) (RAMS) efter region, arbetsställets sektortillhörighet, ålder och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, utb.nivå, arb.storleksklass och kön. År 1993-2003 1993 - 2003",
+          "2017-02-10"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, ålder och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ],
+        [
+          "Förvärvsarbetande 16+ år (dagbefolkning) (RAMS) i riket efter näringsgren SNI92, yrkesställning, utb.nivå och kön. År 1993-2003 1993 - 2003",
+          "2005-03-21"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Årlig regional sysselsättningsstatistik (ÅRSYS) 1985-1993",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 16+ år (ÅRSYS) efter region, sysselsättning, ålder och kön. År 1985 - 1993",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AMPAK1"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 16+ år (ÅRSYS) efter region, sysselsättning, ålder och kön. År 1985 - 1993",
+          "1997-01-01"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Fyra av fem specialistläkare blir vinnare nu när värnskatten tas bort. Men 16 procent av dem driver företag vid sidan av och har redan kunnat minska effekten av den."
+      ],
+      "links": [
+        {
+          "text": "Specialistläkare vinnare när värnskatten slopas",
+          "href": "/hitta-statistik/artiklar/2020/varnskatt-och-kombinatorer/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2020/varnskatt-och-kombinatorer/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2020-01-22"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Skatt",
+        "Yrke",
+        "Företagande",
+        "Privatekonomi"
+      ],
+      "links": [
+        {
+          "text": "Skatt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=170&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170&selection=articles"
+        },
+        {
+          "text": "Yrke",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
+        },
+        {
+          "text": "Företagande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles"
+        },
+        {
+          "text": "Privatekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Kvinnor hade en högre inkomstutveckling än män 2015–2016 i Sverige, förutom under småbarnsåren. Bilden var en helt annan tio år tidigare."
+      ],
+      "links": [
+        {
+          "text": "Inkomstutveckling högre för kvinnor än män 2015–2016",
+          "href": "/hitta-statistik/artiklar/2018/inkomstutveckling-hogre-for-kvinnor-an-man-2015-2016/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/inkomstutveckling-hogre-for-kvinnor-an-man-2015-2016/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-09-24"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Arbetsmarknad",
+        "Inkomst",
+        "Kvinnor och män"
+      ],
+      "links": [
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
+        },
+        {
+          "text": "Inkomst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles"
+        },
+        {
+          "text": "Kvinnor och män",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=112&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=112&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Bland dem som förvärvsarbetade och var anställda 2016 kategoriserades 8 procent som svagt etablerade. Svagt etablerade är en av arbetsmarknadens marginalgrupper. Risken att hamna utanför arbetsmarknaden är större för personer som är svagt etablerade jämfört med de som är etablerade. Det gäller i synnerhet för personer som nyss kommit in på arbetsmarknaden."
+      ],
+      "links": [
+        {
+          "text": "Svagt etablerad – en utsatt grupp när arbetsmarknaden omvandlas",
+          "href": "/hitta-statistik/artiklar/2018/svagt-etablerad--en-utsatt-grupp-nar-arbetsmarknaden-omvandlas/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/svagt-etablerad--en-utsatt-grupp-nar-arbetsmarknaden-omvandlas/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-08-30"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Arbetsmarknad",
+        "Inkomst"
+      ],
+      "links": [
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
+        },
+        {
+          "text": "Inkomst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)",
+        "1998 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2020_v1_20211125.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2020_v1_20211125.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2019_sl_201126.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2019_sl_201126.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2018_sl_191127.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2018_sl_191127.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2017_sl_181123.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2017_sl_181123.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2016_171130_lg.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_kd_2016_171130_lg.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2014_151113.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2014_151113.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1999.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1998.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1998.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Årlig regional sysselsättningsstatistik (ÅRSYS)",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "1997 (pdf)",
+        "1996 (pdf)",
+        "1995 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1997.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1997.pdf"
+        },
+        {
+          "text": "1996 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1996.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1996.pdf"
+        },
+        {
+          "text": "1995 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1995.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_bs_1995.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)",
+        "1998 (pdf)",
+        "1997 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2021.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2020_v1_20211125.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2020_v1_20211125.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2019_sl_201126.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2019_sl_201126.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2018_sl_191127_.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2018_sl_191127_.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2017_sl_181129.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_staf_2017_sl_181129.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2016_171211_se.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2016_171211_se.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2014_mh_160106.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2014_mh_160106.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2005.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1999.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1999.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1998.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1998.pdf"
+        },
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1997.pdf",
+          "url": "https://www.scb.se/contentassets/a5f118521a3145c0bcb008ff39805e15/am0207_do_1997.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0207",
+          "url": "https://metadata.scb.se/?produkt=AM0207"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Förvärvsarbetande – ett sysselsättningsbegrepp (avser statistiken åren 1993-2018)",
+        "Justerad metod för skattning av personer 65 år och äldre i RAMS från och med årgång 2011",
+        "Lokala arbetsmarknader (LA)",
+        "Beskrivning av Registerbaserad arbetsmarknadsstatistik (RAMS)",
+        "Sysselsättningsavgränsning i Rams 2004–2018 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Förvärvsarbetande – ett sysselsättningsbegrepp (avser statistiken åren 1993-2018)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/forvarvsarbetande--ett-sysselsattningsbegrepp-avser-data-aren-1993-2019/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/forvarvsarbetande--ett-sysselsattningsbegrepp-avser-data-aren-1993-2019/"
+        },
+        {
+          "text": "Justerad metod för skattning av personer 65 år och äldre i RAMS från och med årgång 2011",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/justerad-metod-for-skattning-av-personer-65-ar-och-aldre-i-rams-fran-och-med-argang-2011/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/justerad-metod-for-skattning-av-personer-65-ar-och-aldre-i-rams-fran-och-med-argang-2011/"
+        },
+        {
+          "text": "Lokala arbetsmarknader (LA)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/lokala-arbetsmarknader-la/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/lokala-arbetsmarknader-la/"
+        },
+        {
+          "text": "Beskrivning av Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/beskrivning-av-registerbaserad-arbetsmarknadsstatistik-rams/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/produktrelaterat/Fordjupad-information/beskrivning-av-registerbaserad-arbetsmarknadsstatistik-rams/"
+        },
+        {
+          "text": "Sysselsättningsavgränsning i Rams 2004–2018 (pdf)",
+          "href": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2005a01_br_am76st0601.pdf",
+          "url": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2005a01_br_am76st0601.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "rams@scb.se"
+      ],
+      "links": [
+        {
+          "text": "rams@scb.se",
+          "href": "mailto:rams@scb.se",
+          "url": "mailto:rams@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Anställda",
+        "Arbete",
+        "Företag",
+        "Pendling",
+        "Sysselsatta"
+      ],
+      "links": [
+        {
+          "text": "Anställda",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
+        },
+        {
+          "text": "Arbete",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+        },
+        {
+          "text": "Företag",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+        },
+        {
+          "text": "Pendling",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=149",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=149"
+        },
+        {
+          "text": "Sysselsatta",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0207"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

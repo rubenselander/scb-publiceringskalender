@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/produktdatabasen/uttag-fran-pdb-till-sam-forum-2026-02-24_publicerad-version.xlsx",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/produktdatabasen/uttag-fran-pdb-till-sam-forum-2026-02-24_publicerad-version.xlsx",
+  "status": 200,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "fetched_at": "2026-10-05T12:59:39.667234Z",
+  "sha256": "c4b88697050926f4263aa170585adf3a7858c3738379db94491847ef763434dd",
+  "encoding": "utf-8"
+}

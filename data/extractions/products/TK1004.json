@@ -1,0 +1,193 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1004",
+    "response_url": "https://www.scb.se/TK1004",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/vagtrafikskador/",
+    "fetched_at": "2026-10-05T13:14:41.395822Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "022225c3802fd454b5b4f66147551e88abc51f3ea586961dcab48b35220ab7db",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK1004",
+  "product_code_source": "calendar",
+  "title": "Vägtrafikskador",
+  "short_address": "https://www.scb.se/tk1004",
+  "summary": "Statistiken beskriver konsekvenserna av vägtrafiken i Sverige i form av polisrapporterade olyckor och personskador, där minst ett fordon i rörelse är inblandat.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Trafikolyckor",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken beskriver konsekvenserna av vägtrafiken i Sverige i form av polisrapporterade olyckor och personskador, där minst ett fordon i rörelse är inblandat."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Maria Melkersson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 16",
+        "E-post",
+        "maria.melkersson@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 16",
+          "href": "tel:010-414 42 16",
+          "url": "tel:010-414 42 16"
+        },
+        {
+          "text": "maria.melkersson@trafa.se",
+          "href": "mailto:maria.melkersson@trafa.se",
+          "url": "mailto:maria.melkersson@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Trafikolyckor"
+      ],
+      "links": [
+        {
+          "text": "Trafikolyckor",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vägtrafikskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk1004"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

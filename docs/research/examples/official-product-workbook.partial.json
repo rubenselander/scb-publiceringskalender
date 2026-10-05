@@ -1,0 +1,36 @@
+{
+  "provenance": {
+    "landing_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/",
+    "source_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/produktdatabasen/uttag-fran-pdb-till-sam-forum-2026-02-24_publicerad-version.xlsx",
+    "retrieved_at": "2026-10-05T12:16:23.646645Z",
+    "language": "sv",
+    "sha256": "c4b88697050926f4263aa170585adf3a7858c3738379db94491847ef763434dd"
+  },
+  "sheet": "Blad1",
+  "headers": [
+    "Statistikansvarig myndighet",
+    "Produktkod",
+    "Produktnamn",
+    "Syfte",
+    "Anvandare",
+    "Publiceringsstatus",
+    "Ämnesområde",
+    "Statistikområde",
+    "Periodicitet"
+  ],
+  "total_source_rows": 369,
+  "partial_sample": true,
+  "rows": [
+    {
+      "Statistikansvarig myndighet": "Arbetsmiljöverket",
+      "Produktkod": "AM0501",
+      "Produktnamn": "Arbetsmiljöundersökningen ",
+      "Syfte": "Ändamålet med arbetsmiljöundersökningen är att, på ett i huvudsak övergripande sätt, beskriva arbetsmiljöförhållanden för de sysselsatta i ålder 16-74 år på den svenska arbetsmarknaden. Statistiken visar de fysiska och psykosociala arbetsmiljöförhållanden och hur de ändrats över tid.",
+      "Anvandare": "Uppgiften samlas ej in.",
+      "Publiceringsstatus": "Publicering",
+      "Ämnesområde": "Arbetsmarknad",
+      "Statistikområde": "Arbetsmiljö",
+      "Periodicitet": "År (vartannat år)"
+    }
+  ]
+}

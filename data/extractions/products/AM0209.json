@@ -1,0 +1,665 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0209",
+    "response_url": "https://www.scb.se/AM0209",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/",
+    "fetched_at": "2026-10-05T13:10:08.292114Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7c19a845784c59a7c65b23c0d788cf9fd7dd9cfb7e6e504e24a04b208c594e84",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0209",
+  "product_code_source": "calendar",
+  "title": "Konjunkturstatistik över sjuklöner (KSju)",
+  "short_address": "https://www.scb.se/am0209",
+  "summary": "Statistiken visar hur sjukfrånvaron under sjuklöneperioden ser ut. Sjuklöneperioden är den tid då arbetsgivaren betalar sjuklön till en arbetstagare, som på grund av sjukdom, inte är på arbetet. Du får en bild av hur den totala utvecklingen av sjukfrånvaron ser ut.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [
+    "Ingen fortsatt redovisning av KSju Publicering av kvartal 4 2023 är sista publiceringen av undersökningen Konjunkturstatistik över sjuklöner (KSju). Användare hänvisas till den nya statistiken Anställningar ."
+  ],
+  "tags": [
+    {
+      "text": "Sjukfrånvaro",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
+    },
+    {
+      "text": "Sjuklön",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=167",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=167"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar hur sjukfrånvaron under sjuklöneperioden ser ut. Sjuklöneperioden är den tid då arbetsgivaren betalar sjuklön till en arbetstagare, som på grund av sjukdom, inte är på arbetet. Du får en bild av hur den totala utvecklingen av sjukfrånvaron ser ut."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Ingen fortsatt redovisning av KSju Publicering av kvartal 4 2023 är sista publiceringen av undersökningen Konjunkturstatistik över sjuklöner (KSju). Användare hänvisas till den nya statistiken Anställningar ."
+      ],
+      "links": [
+        {
+          "text": "Anställningar",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sjukdagar och sjukfall",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal sjukdagar och sjukfall per anställd efter kön och sektor. Kvartal 2015K2 - 2023K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SjukloneperiodSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SjukloneperiodSektor"
+        },
+        {
+          "text": "Antal sjukdagar och sjukfall per anställd efter kön och näringsgren SNI 2007 (produktions- och servicenäringar). Kvartal 2009K1 - 2023K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSjuSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSjuSNI2007"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal sjukdagar och sjukfall per anställd efter kön och sektor. Kvartal 2015K2 - 2023K4",
+          "2024-03-05"
+        ],
+        [
+          "Antal sjukdagar och sjukfall per anställd efter kön och näringsgren SNI 2007 (produktions- och servicenäringar). Kvartal 2009K1 - 2023K4",
+          "2024-03-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som inte uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som inte uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0209B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0209B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011kv2 (pdf)",
+        "2011kv1 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2023_230608.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2023_230608.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2021_lo_210608.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2021_lo_210608.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2020_lo_210323.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2020_lo_210323.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2019.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2018_hz_180607.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2018_hz_180607.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2017_hz_170602.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_kd_2017_hz_170602.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2015_lg_2150527.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2015_lg_2150527.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2014_mk_140521.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2014_mk_140521.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2012.pdf"
+        },
+        {
+          "text": "2011kv2 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2011_kvartal2.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2011_kvartal2.pdf"
+        },
+        {
+          "text": "2011kv1 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2011_kvartal1.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2011_kvartal1.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_bs_2006.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011kv2 (pdf)",
+        "2011kv1 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2023_230608.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2023_230608.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2021_lo_210608.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2021_lo_210608.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2020_lo_210323.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2020_lo_210323.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2019.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2018_hz_180607.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_staf_2018_hz_180607.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2017_hz_170919.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2017_hz_170919.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2016.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2012.pdf"
+        },
+        {
+          "text": "2011kv2 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2011kv2.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2011kv2.pdf"
+        },
+        {
+          "text": "2011kv1 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2011kv1.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2011kv1.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/18792506066d4f7eb037781ff4321a69/am0209_do_2006.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0209",
+          "url": "https://metadata.scb.se/?produkt=AM0209"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Bortfall och övertäckning",
+        "Ny redovisning på grund av nya sektorkoder (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Bortfall och övertäckning",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/bortfall-och-overtackning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/bortfall-och-overtackning/"
+        },
+        {
+          "text": "Ny redovisning på grund av nya sektorkoder (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/ny-redovisning-pa-grund-av-nya-sektorkoder-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/ny-redovisning-pa-grund-av-nya-sektorkoder-pdf/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Sjukfrånvaro",
+        "Sjuklön"
+      ],
+      "links": [
+        {
+          "text": "Sjukfrånvaro",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
+        },
+        {
+          "text": "Sjuklön",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=167",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=167"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0209"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

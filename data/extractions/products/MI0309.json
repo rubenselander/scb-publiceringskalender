@@ -1,0 +1,659 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI0309",
+    "response_url": "https://www.scb.se/MI0309",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/",
+    "fetched_at": "2026-10-05T13:12:28.562479Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "b44a354f45522a1c28338415751b3c3f6a78c214caedd7f66cd82b81225aa503",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "MI0309",
+  "product_code_source": "calendar",
+  "title": "Avfall, elutrustning och batterier",
+  "short_address": "https://www.scb.se/mi0309",
+  "summary": "Statistiken visar sålda, insamlade och behandlade mängder elutrustning och batterier. Behandlingen kan exempelvis vara återanvändning, materialåtervinning eller deponi. Det är Naturvårdsverket som är tillsynsmyndighet för att uttjänt elutrustning och batterier samlas in och behandlas. Det är deras uppgifter som ligger till grund för statistiken.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-20",
+  "next_publication_date": "2026-11-20",
+  "responsible_agency": {
+    "label": "Naturvårdsverket",
+    "link": {
+      "text": "Naturvårdsverket",
+      "href": "https://www.naturvardsverket.se/data-och-statistik/",
+      "url": "https://www.naturvardsverket.se/data-och-statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Avfall",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
+    },
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    },
+    {
+      "text": "Kemikalier",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
+    },
+    {
+      "text": "Miljö",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-20",
+        "Statistiken visar sålda, insamlade och behandlade mängder elutrustning och batterier. Behandlingen kan exempelvis vara återanvändning, materialåtervinning eller deponi. Det är Naturvårdsverket som är tillsynsmyndighet för att uttjänt elutrustning och batterier samlas in och behandlas. Det är deras uppgifter som ligger till grund för statistiken."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-20",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0309&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0309&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Naturvårdsverket"
+      ],
+      "links": [
+        {
+          "text": "Naturvårdsverket",
+          "href": "https://www.naturvardsverket.se/data-och-statistik/",
+          "url": "https://www.naturvardsverket.se/data-och-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sålda och insamlade mängder batterier",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/pong/tabell-och-diagram/salda-och-insamlade-mangder-batterier/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/pong/tabell-och-diagram/salda-och-insamlade-mangder-batterier/"
+        },
+        {
+          "text": "Sålda och insamlade mängder elutrustning",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/pong/tabell-och-diagram/salda-och-insamlade-mangder-elutrustning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/pong/tabell-och-diagram/salda-och-insamlade-mangder-elutrustning/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Sålda och insamlade mängder batterier",
+          "Diagram",
+          "2025-11-21"
+        ],
+        [
+          "Sålda och insamlade mängder elutrustning",
+          "Diagram",
+          "2025-11-21"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Såld och insamlad mängd elutrustning efter typ av utrustning och produktkategori. År 2010 - 2018",
+        "2020-06-01"
+      ],
+      "links": [
+        {
+          "text": "Såld och insamlad mängd elutrustning efter typ av utrustning och produktkategori. År 2010 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T01"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Behandlad mängd elutrustning efter behandlingstyp och produktkategori. År 2010 - 2018",
+        "2020-06-01"
+      ],
+      "links": [
+        {
+          "text": "Behandlad mängd elutrustning efter behandlingstyp och produktkategori. År 2010 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T02"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Såld och insamlad mängd batterier efter batterityp. År 2010 - 2024",
+        "2025-11-21"
+      ],
+      "links": [
+        {
+          "text": "Såld och insamlad mängd batterier efter batterityp. År 2010 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T03"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Behandlad mängd batterier efter behandlingstyp och typ av batteri. År 2010 - 2024",
+        "2025-11-21"
+      ],
+      "links": [
+        {
+          "text": "Behandlad mängd batterier efter behandlingstyp och typ av batteri. År 2010 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T04"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Såld och insamlad mängd elutrustning efter typ av utrustning och produktkategori.  År 2019 - 2024",
+        "2025-11-21"
+      ],
+      "links": [
+        {
+          "text": "Såld och insamlad mängd elutrustning efter typ av utrustning och produktkategori.  År 2019 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T05"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Behandlad mängd elutrustning efter behandlingstyp och produktkategori.  År 2019 - 2024",
+        "2025-11-21"
+      ],
+      "links": [
+        {
+          "text": "Behandlad mängd elutrustning efter behandlingstyp och produktkategori.  År 2019 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0309T06"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2023-2024 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2023-2024 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309_2023-2024.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309_2023-2024.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2022_mv_20231017.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2022_mv_20231017.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2021-klar.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2021-klar.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2020-klar.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2020-klar.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2019-klar.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/kvalitetsdeklaration_mi0309-_2019-klar.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2018_bn_200601.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2018_bn_200601.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2017.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2016.pdf",
+          "url": "https://www.scb.se/contentassets/d432cc0fd0d0496bba8cfed5f11da72e/mi0309_kd_2016.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=MI0309",
+          "url": "https://metadata.scb.se/?produkt=MI0309"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Skräddarsydd avfallsstatistik",
+        "Producentansvaret för batterier (Naturvårdsverket)",
+        "Producentansvar för elutrustning (Naturvårdsverket)",
+        "Rapportering för producentansvar elutrustning (Naturvårdsverket)",
+        "Rapportering för producentansvar batterier (Naturvårdsverket)"
+      ],
+      "links": [
+        {
+          "text": "Skräddarsydd avfallsstatistik",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/produktrelaterat/Fordjupad-information/skraddarsydd-avfallsstatistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/produktrelaterat/Fordjupad-information/skraddarsydd-avfallsstatistik/"
+        },
+        {
+          "text": "Producentansvaret för batterier (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/",
+          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/"
+        },
+        {
+          "text": "Producentansvar för elutrustning (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/",
+          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/"
+        },
+        {
+          "text": "Rapportering för producentansvar elutrustning (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/#E2104318509",
+          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/#E2104318509"
+        },
+        {
+          "text": "Rapportering för producentansvar batterier (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/#E-802129557",
+          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/#E-802129557"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Naturvårdsverket",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "avfallsstatistik@naturvardsverket.se"
+      ],
+      "links": [
+        {
+          "text": "avfallsstatistik@naturvardsverket.se",
+          "href": "mailto:avfallsstatistik@naturvardsverket.se",
+          "url": "mailto:avfallsstatistik@naturvardsverket.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Avfall",
+        "El",
+        "Kemikalier",
+        "Miljö"
+      ],
+      "links": [
+        {
+          "text": "Avfall",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
+        },
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        },
+        {
+          "text": "Kemikalier",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
+        },
+        {
+          "text": "Miljö",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, elutrustning och batterier",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/mi0309"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

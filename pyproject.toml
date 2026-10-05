@@ -1,0 +1,25 @@
+[project]
+name = "scb-extract"
+version = "0.1.0"
+description = "Source-faithful scheduled extracts of SCB metadata"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13,<5", "httpx>=0.28,<1", "lxml>=5,<7",
+    "openpyxl>=3.1,<4", "pdfplumber>=0.11,<1", "pydantic>=2.11,<3",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["live: opt-in real source requests"]
+addopts = "-m 'not live'"
+
+[tool.ruff]
+target-version = "py313"
+extend-exclude = ["fetch.py", "parse.py", "docs/research/models"]

@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1004",
+    "response_url": "https://www.scb.se/TK1004",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/vagtrafikskador/",
+    "fetched_at": "2026-10-05T13:14:41.395822Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "022225c3802fd454b5b4f66147551e88abc51f3ea586961dcab48b35220ab7db",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Vägtrafikskador",
+  "product_code": "TK1004",
+  "has_documentation_section": false,
+  "groups": []
+}

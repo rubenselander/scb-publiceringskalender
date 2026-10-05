@@ -1,0 +1,84 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/KU0402",
+    "response_url": "https://www.scb.se/KU0402",
+    "canonical_url": "https://www.scb.se/kortadresser/ku0402/",
+    "fetched_at": "2026-10-05T13:12:06.717381Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "fe43eb5b3017d5d7f7b9b27153575b19b127c786262a1cb29a54ad422031761b",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "KU0402",
+  "product_code_source": "calendar",
+  "title": "Studieförbundens verksamhet, tidsserier",
+  "short_address": null,
+  "summary": "",
+  "official_statistics_marker": null,
+  "next_publication_text": null,
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Studieförbundens verksamhet, tidsserier",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Senast uppdaterad: 2023-06-13"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [],
+      "paragraphs": [
+        "Dokumentation saknas för tabellerna under Studieförbundens verksamhet, tidsserier. Variabelförteckningar med mera finns tillgängliga på SCB:s webbplats för studieförbundsstatistik ."
+      ],
+      "links": [
+        {
+          "text": "SCB:s webbplats för studieförbundsstatistik",
+          "href": "https://stuv.scb.se/Default.aspx",
+          "url": "https://stuv.scb.se/Default.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Dela denna sida via e-post",
+          "href": "mailto:?subject=KU0402&body=http%3A%2F%2Fwww.scb.se%2FKU0402",
+          "url": "mailto:?subject=KU0402&body=http%3A%2F%2Fwww.scb.se%2FKU0402"
+        },
+        {
+          "text": "Dela denna sida via Facebook",
+          "href": "http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.scb.se%2FKU0402",
+          "url": "http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.scb.se%2FKU0402"
+        },
+        {
+          "text": "Dela denna sida via LinkedIn",
+          "href": "https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.scb.se%2FKU0402",
+          "url": "https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.scb.se%2FKU0402"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

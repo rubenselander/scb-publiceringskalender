@@ -1,0 +1,472 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/OE0202",
+    "response_url": "https://www.scb.se/OE0202",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/den-svenska-statsskulden/",
+    "fetched_at": "2026-10-05T13:13:32.995633Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "f0ede4b99bc865f9ea656c76b1a93518149c6b1ba8fd7d1723472b5db2d0494a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "OE0202",
+  "product_code_source": "calendar",
+  "title": "Den svenska statsskulden",
+  "short_address": "https://www.scb.se/oe0202",
+  "summary": "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-07",
+  "next_publication_date": "2026-10-07",
+  "responsible_agency": {
+    "label": "Riksgälden",
+    "link": {
+      "text": "Riksgälden",
+      "href": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/",
+      "url": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Ekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+    },
+    {
+      "text": "Lån",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
+    },
+    {
+      "text": "Tillgångar och skulder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-07",
+        "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Sveriges statsskuld – Rapporter hos Riksgälden"
+      ],
+      "links": [
+        {
+          "text": "Sveriges statsskuld – Rapporter hos Riksgälden",
+          "href": "https://www.riksgalden.se/sv/statistik/officiell-statistik/",
+          "url": "https://www.riksgalden.se/sv/statistik/officiell-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Riksgälden"
+      ],
+      "links": [
+        {
+          "text": "Riksgälden",
+          "href": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/",
+          "url": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Statsskulden",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy"
+        },
+        {
+          "text": "Statsskulden efter kontopost (uppdateras ej). Månad 1970M01 - 2024M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statsskuld",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statsskuld"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M08",
+          "2026-09-08"
+        ],
+        [
+          "Statsskulden efter kontopost (uppdateras ej). Månad 1970M01 - 2024M09",
+          "2024-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2017 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2026_v2_20260907.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2026_v2_20260907.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2025_20250207.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2025_20250207.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2024_240207.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2024_240207.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2023_231101.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2023_231101.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2022_221110.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2022_221110.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2021_em_210628.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2021_em_210628.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd__2020.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd__2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2019.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2019.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2017.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_kd_2017.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/4b5d8473d9054b8388ae4b803e0faf32/oe0202_bs_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=OE0202",
+          "url": "https://metadata.scb.se/?produkt=OE0202"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Riksgälden",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-613 45 00",
+        "E-post",
+        "riksgalden@riksgalden.se"
+      ],
+      "links": [
+        {
+          "text": "08-613 45 00",
+          "href": "tel:08-613 45 00",
+          "url": "tel:08-613 45 00"
+        },
+        {
+          "text": "riksgalden@riksgalden.se",
+          "href": "mailto:riksgalden@riksgalden.se",
+          "url": "mailto:riksgalden@riksgalden.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Lån",
+        "Tillgångar och skulder"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+        },
+        {
+          "text": "Lån",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
+        },
+        {
+          "text": "Tillgångar och skulder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Den svenska statsskulden",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/oe0202"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

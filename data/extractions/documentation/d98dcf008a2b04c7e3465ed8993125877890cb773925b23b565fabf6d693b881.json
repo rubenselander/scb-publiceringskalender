@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/SF0107",
+    "response_url": "https://www.scb.se/SF0107",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/vardbidrag/",
+    "fetched_at": "2026-10-05T13:14:06.189898Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "132aa0f1a230d157d9c11db20f30f2227b1e262b4474d016c7e9aae0dbc3284a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Vårdbidrag",
+  "product_code": "SF0107",
+  "has_documentation_section": false,
+  "groups": []
+}

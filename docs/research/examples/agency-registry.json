@@ -1,0 +1,290 @@
+{
+  "provenance": {
+    "source_url": "https://myndighetsregistret.scb.se/Myndighet",
+    "retrieved_at": "2026-10-05T12:11:39.671348+00:00",
+    "source_sha256": "8a428c14f9c5c4457ab7e680462810f6bffc4926b344ec1d9568335adfba5099"
+  },
+  "page_title": "Myndighetsregistret",
+  "coverage": "partial",
+  "groups": [
+    {
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:36.768914+00:00",
+        "source_sha256": "b8b84b892f3dd14500f8aceeaf57d2093f8a7ed59a1a27310aa433a9ba09a59d",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "Statliga förvaltningsmyndigheter"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Namn",
+        "Organisationsnr",
+        "SFS",
+        "WebbAdress"
+      ],
+      "source_row_count": 244,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Namn",
+              "value": "Alkoholsortimentsnämnden"
+            },
+            {
+              "label": "Organisationsnr",
+              "value": "202100-5943"
+            },
+            {
+              "label": "SFS",
+              "value": "2007:1216"
+            },
+            {
+              "label": "WebbAdress",
+              "value": "www.kammarkollegiet.se/alkoholsortimentsnamnden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_option_value": "3",
+      "group_name": "Myndigheter under riksdagen",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:37.031824+00:00",
+        "source_sha256": "7235084e88e3abb71a496df9ee6b76396a27ccd726ba5444a37552608164c351",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "Myndigheter under riksdagen"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Namn",
+        "Organisationsnr",
+        "SFS",
+        "WebbAdress"
+      ],
+      "source_row_count": 5,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Namn",
+              "value": "Riksdagens arvodesnämnd"
+            },
+            {
+              "label": "Organisationsnr",
+              "value": "202100-6461"
+            },
+            {
+              "label": "SFS",
+              "value": "2012:883"
+            },
+            {
+              "label": "WebbAdress",
+              "value": "www.riksdagen.se/sv/sa-funkar-riksdagen/riksdagens-myndigheter-och-namnder/riksdagens-arvodesnamnd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_option_value": "4",
+      "group_name": "Statliga affärsverk",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:37.247259+00:00",
+        "source_sha256": "60db2f88184694d0ca683e203cfd04d4ef424c2d0c46fc8dca4fe52e61b944c0",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "Statliga affärsverk"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Namn",
+        "Organisationsnr",
+        "SFS",
+        "WebbAdress"
+      ],
+      "source_row_count": 3,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Namn",
+              "value": "LUFTFARTSVERKET"
+            },
+            {
+              "label": "Organisationsnr",
+              "value": "202100-0795"
+            },
+            {
+              "label": "SFS",
+              "value": "2010:184"
+            },
+            {
+              "label": "WebbAdress",
+              "value": "www.lfv.se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_option_value": "5",
+      "group_name": "AP-fonder",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:37.516717+00:00",
+        "source_sha256": "308df11a62d40ec20fb2f2d6eae5d2de1166a6da0b615411425139e175c44c86",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "AP-fonder"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Namn",
+        "Organisationsnr",
+        "SFS",
+        "WebbAdress"
+      ],
+      "source_row_count": 6,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Namn",
+              "value": "FÖRSTA AP-FONDEN"
+            },
+            {
+              "label": "Organisationsnr",
+              "value": "802005-7538"
+            },
+            {
+              "label": "SFS",
+              "value": "2000:192"
+            },
+            {
+              "label": "WebbAdress",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_option_value": "6",
+      "group_name": "Sveriges domstolar samt Domstolsverket",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:37.746940+00:00",
+        "source_sha256": "fdb5a71e1f010e67a6fa6f8db93cabcaca5ad26406c75aa64f9ab4e16e87cece",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "Sveriges domstolar samt Domstolsverket"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Namn",
+        "CfarNr",
+        "Postadress",
+        "Postnr",
+        "Postort",
+        "WebbAdress"
+      ],
+      "source_row_count": 83,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Namn",
+              "value": "ARBETSDOMSTOLEN"
+            },
+            {
+              "label": "CfarNr",
+              "value": "19075852"
+            },
+            {
+              "label": "Postadress",
+              "value": "BOX 2018"
+            },
+            {
+              "label": "Postnr",
+              "value": "103 11"
+            },
+            {
+              "label": "Postort",
+              "value": "STOCKHOLM"
+            },
+            {
+              "label": "WebbAdress",
+              "value": "www.arbetsdomstolen.se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_option_value": "7",
+      "group_name": "Svenska utlandsmyndigheter",
+      "provenance": {
+        "source_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+        "retrieved_at": "2026-10-05T12:12:38.040186+00:00",
+        "source_sha256": "cd946f2214a0911d93bc5026eae161137985b231598420c3c081c371d3d40c08",
+        "request_method": "POST",
+        "request_parameters": {
+          "mynd": "Svenska utlandsmyndigheter"
+        }
+      },
+      "retrieval_surface": "html_table",
+      "source_columns": [
+        "Land",
+        "LopNr",
+        "Namn",
+        "Ambassadör/Generalkonsul",
+        "WebbAdress"
+      ],
+      "source_row_count": 108,
+      "coverage": "partial",
+      "agencies": [
+        {
+          "fields": [
+            {
+              "label": "Land",
+              "value": ""
+            },
+            {
+              "label": "LopNr",
+              "value": "201"
+            },
+            {
+              "label": "Namn",
+              "value": ""
+            },
+            {
+              "label": "Ambassadör/Generalkonsul",
+              "value": ""
+            },
+            {
+              "label": "WebbAdress",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

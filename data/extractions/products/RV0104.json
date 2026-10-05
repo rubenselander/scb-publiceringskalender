@@ -1,0 +1,161 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/RV0104",
+    "response_url": "https://www.scb.se/RV0104",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/misstankta-personer/",
+    "fetched_at": "2026-10-05T13:13:49.164134Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "ad4be7ab1c9a45050fd05c57fc2a570fec2123ce0542650d4acc0fd9a0a751e3",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "RV0104",
+  "product_code_source": "calendar",
+  "title": "Misstänkta personer",
+  "short_address": "https://www.scb.se/rv0104",
+  "summary": "Statistiken visar skäligen misstänkta personer fördelat på ålder, kön och regionalt för olika brottstyper. Dessutom redovisas hur många brott som de misstänkta personerna deltagit i (brottsdeltagande).",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Brottsförebyggande rådet (Brå)",
+    "link": {
+      "text": "Brottsförebyggande rådet (Brå)",
+      "href": "https://www.bra.se/statistik.html",
+      "url": "https://www.bra.se/statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Brott",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Misstänkta personer",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar skäligen misstänkta personer fördelat på ålder, kön och regionalt för olika brottstyper. Dessutom redovisas hur många brott som de misstänkta personerna deltagit i (brottsdeltagande)."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Misstänkta personer",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Brottsförebyggande rådet (Brå)"
+      ],
+      "links": [
+        {
+          "text": "Brottsförebyggande rådet (Brå)",
+          "href": "https://www.bra.se/statistik.html",
+          "url": "https://www.bra.se/statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Misstänkta personer",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Brottsförebyggande rådet",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-527 584 00",
+        "E-post",
+        "statistik@bra.se"
+      ],
+      "links": [
+        {
+          "text": "08-527 584 00",
+          "href": "tel:08-527 584 00",
+          "url": "tel:08-527 584 00"
+        },
+        {
+          "text": "statistik@bra.se",
+          "href": "mailto:statistik@bra.se",
+          "url": "mailto:statistik@bra.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Misstänkta personer",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Brott"
+      ],
+      "links": [
+        {
+          "text": "Brott",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Misstänkta personer",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/rv0104"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

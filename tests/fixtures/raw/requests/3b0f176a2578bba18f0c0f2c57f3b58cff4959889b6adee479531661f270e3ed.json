@@ -1,0 +1,18 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaEnMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "peorgnr": "162021005943",
+      "cfarnr": "",
+      "lopnr": ""
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaEnMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T13:02:14.475964Z",
+  "sha256": "c5343d292e6fecd8489ad8254c13dc0cb8fb5f8a0e35fed7a3092259d0f5736b",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,1076 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/HA0202",
+    "response_url": "https://www.scb.se/HA0202",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/",
+    "fetched_at": "2026-10-05T13:10:53.409798Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "fb86ece0452310452398935c5be5a50c7bd5878303c827c8bc9794bc259a1d4f",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "HA0202",
+  "product_code_source": "calendar",
+  "title": "Utrikeshandel med tjänster",
+  "short_address": "https://www.scb.se/ha0202",
+  "summary": "Statistiken visar Sveriges utrikeshandel med tjänster fördelat efter tjänsteslag (kontopost) och värdemässigt största länder. Denna statistik ingår i såväl statistiken om Betalningsbalansen som i Nationalräkenskaperna.",
+  "official_statistics_marker": null,
+  "next_publication_text": "Nästa publicering: 2026-12-02",
+  "next_publication_date": "2026-12-02",
+  "responsible_agency": {
+    "label": "Sveriges riksbank",
+    "link": {
+      "text": "Sveriges riksbank",
+      "href": "http://www.riksbank.se",
+      "url": "http://www.riksbank.se"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Ekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+    },
+    {
+      "text": "Handel",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
+    },
+    {
+      "text": "Import och export",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
+    },
+    {
+      "text": "Utrikeshandel",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
+    },
+    {
+      "text": "Tjänster",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-02",
+        "Statistiken visar Sveriges utrikeshandel med tjänster fördelat efter tjänsteslag (kontopost) och värdemässigt största länder. Denna statistik ingår i såväl statistiken om Betalningsbalansen som i Nationalräkenskaperna."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-02",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HA0202&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HA0202&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Sveriges riksbank"
+      ],
+      "links": [
+        {
+          "text": "Sveriges riksbank",
+          "href": "http://www.riksbank.se",
+          "url": "http://www.riksbank.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandelsnetto",
+        "-13 357",
+        "miljoner kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Export av tjänster",
+        "350 503",
+        "miljoner kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "9,0 %",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Import av tjänster",
+        "363 860",
+        "miljoner kronor",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "2,2 %",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-09-02",
+        "Efter en period med starkare utveckling inom tjänsteimporten är det under andra kvartalet i stället tjänsteexporten som uppvisar en bredare och starkare utveckling."
+      ],
+      "links": [
+        {
+          "text": "Tjänsteexporten stärker nettot",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/pong/statistiknyhet/utrikeshandel-med-tjanster-kvartal-2-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/pong/statistiknyhet/utrikeshandel-med-tjanster-kvartal-2-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=HA0202",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=HA0202"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag. Kvartal 1982K1 - 2026K2",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag. Kvartal 1982K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjanstHKvN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjanstHKvN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag. År 1982 - 2025",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag. År 1982 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjanstHArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjanstHArN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandel i miljoner kronor, export och import efter land. Kvartal 2004K1 - 2026K2",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Tjänstehandel i miljoner kronor, export och import efter land. Kvartal 2004K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjLandKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjLandKv"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandel i miljoner kronor, export och import efter land. År 2004 - 2025",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Tjänstehandel i miljoner kronor, export och import efter land. År 2004 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjLandAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjLandAr"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag och land. År 2013 - 2025",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Tjänstehandel i miljoner kronor, export och import efter tjänsteslag och land. År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjHaArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0202TjHaArN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Nyckeltal för utrikeshandel med tjänster 2013K1 - 2026K2",
+        "2026-09-02"
+      ],
+      "links": [
+        {
+          "text": "Nyckeltal för utrikeshandel med tjänster 2013K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTHA0202N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTHA0202N"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Danmark är det grannland där svenskarna konsumerar mest. År 2017 konsumerade svenskar varor i Danmark för närmare 4 miljarder svenska kronor och hotell- och restaurangtjänster för 2 miljarder kronor."
+      ],
+      "links": [
+        {
+          "text": "Danmark är svenskarnas favoritgranne för konsumtion",
+          "href": "/hitta-statistik/artiklar/2018/danmark-ar-svenskarnas-favoritgranne-for-konsumtion/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/danmark-ar-svenskarnas-favoritgranne-for-konsumtion/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-06-04"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Handel",
+        "Utrikeshandel"
+      ],
+      "links": [
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles"
+        },
+        {
+          "text": "Utrikeshandel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=206&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Norrmännen handlar allt mer i Sverige, framför allt mat och alkohol. På sex år har norrmännens konsumtion i Sverige ökat med 29 procent. År 2017 uppgick den till 19,5 miljarder svenska kronor."
+      ],
+      "links": [
+        {
+          "text": "Norsk gränshandel i Sverige större än någonsin",
+          "href": "/hitta-statistik/artiklar/2018/norsk-granshandel-i-sverige-storre-an-nagonsin/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/norsk-granshandel-i-sverige-storre-an-nagonsin/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2018-05-16"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Handel",
+        "Utrikeshandel"
+      ],
+      "links": [
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles"
+        },
+        {
+          "text": "Utrikeshandel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=206&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Totalt ökade svenska företags handel med tjänster till utlandet med 389 procent mellan 1950 och 2016. Övriga företagstjänster, telekommunikation och IT-tjänster står för huvuddelen av exporten, som främst går till övriga EU-länder och Norden."
+      ],
+      "links": [
+        {
+          "text": "Svensk tjänsteexport alltmer global",
+          "href": "/hitta-statistik/artiklar/2017/Svensk-tjansteexport-alltmer-global/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Svensk-tjansteexport-alltmer-global/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-09-15"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Handel"
+      ],
+      "links": [
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2026_20260603.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2026_20260603.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2025_002_20250604.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2025_002_20250604.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2024_q3_svenska_20241114.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2024_q3_svenska_20241114.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2023_q3_20231201.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2023_q3_20231201.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2022_q4_20220303-svenska.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2022_q4_20220303-svenska.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2021_kl_20220303-q4-svenska.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2021_kl_20220303-q4-svenska.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2020_kl_210315.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2020_kl_210315.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2019_my_190605.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2019_my_190605.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2018_ls_180604.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2018_ls_180604.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2017_ls_170629-002.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_kd_2017_ls_170629-002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2026_20260603.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2026_20260603.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2025_svenska.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2025_svenska.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2024_svenska_3_20241114.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2024_svenska_3_20241114.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2023_v2_20230602.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/ha0202_staf_2023_v2_20230602.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=HA0202",
+          "url": "https://metadata.scb.se/?produkt=HA0202"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Stora och utlandsägda företag präglar svensk tjänstehandel",
+        "Ökad betydelse för utrikeshandeln med tjänster",
+        "Samordning av bytesbalansen (pdf)",
+        "Publicerade tjänsteslag (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Stora och utlandsägda företag präglar svensk tjänstehandel",
+          "href": "/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/stora-och-utlandsagda-foretag-praglar-svensk-tjanstehandel/",
+          "url": "https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/stora-och-utlandsagda-foretag-praglar-svensk-tjanstehandel/"
+        },
+        {
+          "text": "Ökad betydelse för utrikeshandeln med tjänster",
+          "href": "/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/okad-betydelse-for-utrikeshandeln-med-tjanster/",
+          "url": "https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/okad-betydelse-for-utrikeshandeln-med-tjanster/"
+        },
+        {
+          "text": "Samordning av bytesbalansen (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/produktrelaterat/fordjupad-information/samordning-av-bytesbalansen-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/produktrelaterat/fordjupad-information/samordning-av-bytesbalansen-pdf/"
+        },
+        {
+          "text": "Publicerade tjänsteslag (pdf)",
+          "href": "/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/publicerade-tjansteslag-260303.pdf",
+          "url": "https://www.scb.se/contentassets/dbfb8c7aae964f2baf83e75b51a6bd8e/publicerade-tjansteslag-260303.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "SCB, Sektionen för utrikeshandel",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "uht@scb.se"
+      ],
+      "links": [
+        {
+          "text": "uht@scb.se",
+          "href": "mailto:uht@scb.se",
+          "url": "mailto:uht@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Handel",
+        "Import och export",
+        "Utrikeshandel",
+        "Tjänster"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+        },
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
+        },
+        {
+          "text": "Import och export",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
+        },
+        {
+          "text": "Utrikeshandel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
+        },
+        {
+          "text": "Tjänster",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel med tjänster",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/ha0202"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

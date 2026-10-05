@@ -1,0 +1,189 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK0604",
+    "response_url": "https://www.scb.se/TK0604",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/punktlighet-pa-jarnvag/",
+    "fetched_at": "2026-10-05T13:14:36.019096Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "612b668debfe11e4bdc2334faeacca954fcde4d6df7e2ce8da2f39ab9c1018e1",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK0604",
+  "product_code_source": "calendar",
+  "title": "Punktlighet på järnväg",
+  "short_address": "https://www.scb.se/tk0604",
+  "summary": "Statistiken beskriver utvecklingen av punktligheten och tillförlitligheten i persontransporterna på järnväg i Sverige.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-23",
+  "next_publication_date": "2026-10-23",
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Järnvägar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
+    },
+    {
+      "text": "Persontransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+    },
+    {
+      "text": "Kollektivtrafik",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Punktlighet på järnväg",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-23",
+        "Statistiken beskriver utvecklingen av punktligheten och tillförlitligheten i persontransporterna på järnväg i Sverige."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0604&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0604&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Punktlighet på järnväg",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Punktlighet på järnväg",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 00",
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 00",
+          "href": "tel:010-414 42 00",
+          "url": "tel:010-414 42 00"
+        },
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Punktlighet på järnväg",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Järnvägar",
+        "Persontransport",
+        "Kollektivtrafik"
+      ],
+      "links": [
+        {
+          "text": "Järnvägar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
+        },
+        {
+          "text": "Persontransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+        },
+        {
+          "text": "Kollektivtrafik",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Punktlighet på järnväg",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk0604"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

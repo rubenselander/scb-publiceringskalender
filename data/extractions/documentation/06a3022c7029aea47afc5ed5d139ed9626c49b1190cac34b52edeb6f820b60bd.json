@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/SO0206",
+    "response_url": "https://www.scb.se/SO0206",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/familjeradgivning/kommunal-familjeradgivning/",
+    "fetched_at": "2026-10-05T13:14:26.997757Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "a99d9f6b5a09813af12ef0241d5de0edd89d8a36085f281194275dbd8e1f8bb2",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Statistik om kommunal familjerådgivning",
+  "product_code": "SO0206",
+  "has_documentation_section": false,
+  "groups": []
+}

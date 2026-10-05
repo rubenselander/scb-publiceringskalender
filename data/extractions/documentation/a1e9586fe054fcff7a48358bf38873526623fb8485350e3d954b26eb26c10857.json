@@ -1,0 +1,129 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV1401",
+    "response_url": "https://www.scb.se/NV1401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/konkurser-och-offentliga-ackord/",
+    "fetched_at": "2026-10-05T13:13:20.208083Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "39a2b58a019e15458408d6bcda9624e5cd906eb91d961e185846e2ba1578927d",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Konkurser och offentliga ackord",
+  "product_code": "NV1401",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2007 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2007.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2000.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=NV1401",
+          "url": "https://metadata.scb.se/?produkt=NV1401"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

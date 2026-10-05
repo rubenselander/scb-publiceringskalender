@@ -1,0 +1,222 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---nov-2025---feb-2026.pdf",
+    "response_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---nov-2025---feb-2026.pdf",
+    "canonical_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---nov-2025---feb-2026.pdf",
+    "fetched_at": "2026-10-05T13:16:35.730785Z",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "content_sha256": "d9ca07aeb0e4c0cdbd770164621571a9615edf0aeef6dc3d17f691024e5e7dcc",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "PDF words grouped by printed columns",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "link_label": "Ändringar i den officiella statistiken, nov 2025 -feb 2026 (pdf)",
+  "title": "Förändringar i den officiella statistiken",
+  "document_date_text": null,
+  "coverage_period_text": "nov 2025 – feb 2026",
+  "page_count": 2,
+  "document_notes": [
+    "Datum Version\nStaben, SCB mars 2026\nFörändringar i den officiella\nstatistiken\nFörändringar i den\nofficiella statistiken\nAvser perioden: nov 2025 – feb 2026\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare framtagna\nresultat, dokumentation m.m. ska redovisas t.ex. på scb.se\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. ska inte\nredovisas på scb.se.\n"
+  ],
+  "partial_sample": false,
+  "notices": [
+    {
+      "authority": "CSN",
+      "product_code": "UF0401",
+      "product_name": "Utbetalning av studiestöd",
+      "description": "Ändring av produkt: För studier med studiehjälp utomlands slutar CSN att redovisa variablerna skolform, folk- bokföringskommun och folkbokföringslän, medan de börjar redovisa världsdel och studieland. För studier med lärlingsersättning börjar de redovisa folkbokföringskommun. Förändringarna görs för att göra statistiken mer relevant.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 1,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: För studier med studiehjälp utomlands slutar CSN att redovisa variablerna skolform, folk- bokföringskommun och folkbokföringslän, medan de börjar redovisa världsdel och studieland. För studier med lärlingsersättning börjar de redovisa folkbokföringskommun. Förändringarna görs för att göra statistiken mer relevant.",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0105",
+      "product_name": "Bostadsbidrag till barnfamiljer m.fl.",
+      "description": "Ändring av produkt: Beloppstyp togs bort då den kan vara missvisande om inte användaren har stora kunskaper om bostadsbidraget. Förändringen ökar således användarvänligheten och ytterst lite information försvinner.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 2,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Beloppstyp togs bort då den kan vara missvisande om inte användaren har stora kunskaper om bostadsbidraget. Förändringen ökar således användarvänligheten och ytterst lite information försvinner.",
+      "review_required": true
+    },
+    {
+      "authority": "Kulturanalys",
+      "product_code": "KU0501",
+      "product_name": "Samhällets utgifter för kultur",
+      "description": "Ändring av produktnamn Svenska: ”Offentliga utgifter för kultur” Engelska: ”Public expenditure on culture”",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 3,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn Svenska: ”Offentliga utgifter för kultur” Engelska: ”Public expenditure on culture”",
+      "review_required": true
+    },
+    {
+      "authority": "Myndigheten för familjerätt och föräldraskapsstöd (MFoF)",
+      "product_code": "SO0206",
+      "product_name": "Statistik om familjerådgivning",
+      "description": "Ändring av produkt: Nya variabler har tillkommit. De nya variablerna är ett resultat av det revideringsarbete som MFoF delvis färdigställt under hösten 2025, gällande statistikens innehåll. Uppgifterna bedöms relevanta för att bl a mäta familjerådgivningens tillgänglighet.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 4,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Nya variabler har tillkommit. De nya variablerna är ett resultat av det revideringsarbete som MFoF delvis färdigställt under hösten 2025, gällande statistikens innehåll. Uppgifterna bedöms relevanta för att bl a mäta familjerådgivningens tillgänglighet.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "NR0111",
+      "product_name": "Offentliga förvaltningens budgetuppgifter och tillägg till EU:s konvergens- kriterier",
+      "description": "Ändring av produktnamn (på svenska) till ”Offentliga finanser och dess tillägg till EU:s konvergenskriterier”.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 5,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn (på svenska) till ”Offentliga finanser och dess tillägg till EU:s konvergenskriterier”.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "NV2001",
+      "product_name": "Utrikeshandel, övrigt",
+      "description": "Ny produkt. Syftet är att komplettera den befintliga statistiken över utrikeshandeln med ytterligare och nyare statistik inom området.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 6,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Syftet är att komplettera den befintliga statistiken över utrikeshandeln med ytterligare och nyare statistik inom området.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "OE0107",
+      "product_name": "Räkenskaps- sammandrag för kommuner och regioner",
+      "description": "Ändring av produktnamn, på engelska, till ”Annual Municiapl Accounts”",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 7,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, på engelska, till ”Annual Municiapl Accounts”",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "AM0206",
+      "product_name": "Lönesummor, arbetsgivar- avgifter och preliminär A-skatt",
+      "description": "Produkten är inaktiv. Publicering av kvartal 4 2024 är sista publiceringen av undersökningen Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS). Användare hänvisas till den nya statistiken Anställningar.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 8,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Produkten är inaktiv. Publicering av kvartal 4 2024 är sista publiceringen av undersökningen Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS). Användare hänvisas till den nya statistiken Anställningar.",
+      "review_required": false
+    },
+    {
+      "authority": "Skolverket",
+      "product_code": "UF0115",
+      "product_name": "Svenska utlandsskolor: elever, lärare och utbildnings- resultat",
+      "description": "Ändring av produktnamn, till ”Svensk utbildning i utlandet: Elever, lärare och utbildningsresultat”",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 9,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, till ”Svensk utbildning i utlandet: Elever, lärare och utbildningsresultat”",
+      "review_required": true
+    },
+    {
+      "authority": "UKÄ",
+      "product_code": "UF0214",
+      "product_name": "Etablering på arbetsmarknaden efter högskole- studier på grundnivå och avancerad nivå SCB",
+      "description": "Ny produkt. Statistik om examinerades etablering på arbetsmarknaden har hittills inte varit klassificerad som officiell statistik. Att statistiken blir en del av den officiella statistiken höjer statusen för statistiken. UKÄ bedömer även att det utvecklingsarbete som genomförts inför att göra statistiken en del av den officiella statistiken har höjt statistikens kvalitet. – Förändringar i den officiella statistiken 2 av 2",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 10,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Statistik om examinerades etablering på arbetsmarknaden har hittills inte varit klassificerad som officiell statistik. Att statistiken blir en del av den officiella statistiken höjer statusen för statistiken. UKÄ bedömer även att det utvecklingsarbete som genomförts inför att göra statistiken en del av den officiella statistiken har höjt statistikens kvalitet. – Förändringar i den officiella statistiken 2 av 2",
+      "review_required": true
+    }
+  ],
+  "page_texts": {
+    "1": "Datum Version\nStaben, SCB mars 2026\nFörändringar i den officiella\nstatistiken\nFörändringar i den\nofficiella statistiken\nAvser perioden: nov 2025 – feb 2026\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare framtagna\nresultat, dokumentation m.m. ska redovisas t.ex. på scb.se\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. ska inte\nredovisas på scb.se.\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nCSN UF0401 Utbetalning av Ändring av produkt: För studier med\nstudiestöd studiehjälp utomlands slutar CSN att\nredovisa variablerna skolform, folk-\nbokföringskommun och folkbokföringslän,\nmedan de börjar redovisa världsdel och\nstudieland. För studier med lärlingsersättning\nbörjar de redovisa folkbokföringskommun.\nFörändringarna görs för att göra statistiken\nmer relevant.\nFörsäkringskassan SF0105 Bostadsbidrag till Ändring av produkt: Beloppstyp togs bort\nbarnfamiljer m.fl. då den kan vara missvisande om inte\nanvändaren har stora kunskaper om\nbostadsbidraget. Förändringen ökar således\nanvändarvänligheten och ytterst lite\ninformation försvinner.\nKulturanalys KU0501 Samhällets Ändring av produktnamn\nutgifter för kultur Svenska: ”Offentliga utgifter för kultur”\nEngelska: ”Public expenditure on culture”\nMyndigheten för SO0206 Statistik om Ändring av produkt: Nya variabler har\nfamiljerätt och familjerådgivning tillkommit. De nya variablerna är ett resultat\nföräldraskapsstöd av det revideringsarbete som MFoF delvis\n(MFoF) färdigställt under hösten 2025, gällande\nstatistikens innehåll. Uppgifterna bedöms\nrelevanta för att bl a mäta\nfamiljerådgivningens tillgänglighet.",
+    "2": "Myndighet Produktkod Produktnamn Beskrivning av ändring\nSCB NR0111 Offentliga Ändring av produktnamn (på svenska) till\nförvaltningens ”Offentliga finanser och dess tillägg till EU:s\nbudgetuppgifter konvergenskriterier”.\noch tillägg till\nEU:s\nkonvergens-\nkriterier\nSCB NV2001 Utrikeshandel, Ny produkt. Syftet är att komplettera den\növrigt befintliga statistiken över utrikeshandeln\nmed ytterligare och nyare statistik inom\nområdet.\nSCB OE0107 Räkenskaps- Ändring av produktnamn, på engelska, till\nsammandrag för ”Annual Municiapl Accounts”\nkommuner och\nregioner\nSCB AM0206 Lönesummor, Produkten är inaktiv.\narbetsgivar- Publicering av kvartal 4 2024 är sista\navgifter och publiceringen av undersökningen\npreliminär A-skatt Lönesummor, arbetsgivaravgifter och\npreliminär A-skatt (LAPS).\nAnvändare hänvisas till den nya statistiken\nAnställningar.\nSkolverket UF0115 Svenska Ändring av produktnamn, till ”Svensk\nutlandsskolor: utbildning i utlandet: Elever, lärare och\nelever, lärare och utbildningsresultat”\nutbildnings-\nresultat\nUKÄ UF0214 Etablering på Ny produkt. Statistik om examinerades\narbetsmarknaden etablering på arbetsmarknaden har hittills\nefter högskole- inte varit klassificerad som officiell statistik.\nstudier på Att statistiken blir en del av den officiella\ngrundnivå och statistiken höjer statusen för statistiken. UKÄ\navancerad nivå bedömer även att det utvecklingsarbete som\ngenomförts inför att göra statistiken en del\nav den officiella statistiken har höjt\nstatistikens kvalitet.\nSCB – Förändringar i den officiella statistiken 2 av 2"
+  }
+}

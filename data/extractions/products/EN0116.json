@@ -1,0 +1,154 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0116",
+    "response_url": "https://www.scb.se/EN0116",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandning-inom-skogsbruket/",
+    "fetched_at": "2026-10-05T13:10:34.522222Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "6c7f9254ba870045211a37d3d00f82f0e4ad2f8e713e142a574f2cd66194f0ac",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0116",
+  "product_code_source": "calendar",
+  "title": "Energianvändning inom skogsbruket",
+  "short_address": "https://www.scb.se/en0116",
+  "summary": "Statens energimyndighet gav SCB i uppdrag att undersöka energianvändningen inom skogsbruket för år 2006. Näst senast genomförda undersökning avser år 1985 och därefter har framskrivningar gjorts.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-11",
+  "next_publication_date": "2026-11-11",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Energianvändning inom skogsbruket",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-11",
+        "Statens energimyndighet gav SCB i uppdrag att undersöka energianvändningen inom skogsbruket för år 2006. Näst senast genomförda undersökning avser år 1985 och därefter har framskrivningar gjorts."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0116&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0116&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Energianvändning inom skogsbruket",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Energianvändning inom skogsbruket",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Energimyndigheten",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Adress",
+        "Box 310, 631 04 Eskilstuna"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Energianvändning inom skogsbruket",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Energianvändning inom skogsbruket",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0116"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

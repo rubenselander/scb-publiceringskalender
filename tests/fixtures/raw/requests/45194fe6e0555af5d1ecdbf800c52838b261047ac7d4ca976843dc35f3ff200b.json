@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Sveriges domstolar samt Domstolsverket"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:46.849608Z",
+  "sha256": "fdb5a71e1f010e67a6fa6f8db93cabcaca5ad26406c75aa64f9ab4e16e87cece",
+  "encoding": "utf-8"
+}

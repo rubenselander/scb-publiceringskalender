@@ -1,0 +1,981 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0105",
+    "response_url": "https://www.scb.se/EN0105",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/",
+    "fetched_at": "2026-10-05T13:10:29.338437Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "a420a193673084ee2e468d38a0cd404b9fc0a5bd3fef227f136ef3e8800c0ed7",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0105",
+  "product_code_source": "calendar",
+  "title": "Årlig energistatistik (el, gas och fjärrvärme)",
+  "short_address": "https://www.scb.se/en0105",
+  "summary": "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch).",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-08",
+  "next_publication_date": "2026-10-08",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    },
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-08",
+        "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch)."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiknyheter finns hos Energimyndigheten: Nyheter hos Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Nyheter hos Energimyndigheten",
+          "href": "https://www.energimyndigheten.se/nyhetsarkiv/",
+          "url": "https://www.energimyndigheten.se/nyhetsarkiv/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tillförsel och användning av el 2001–2024 (GWh)",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012024-gwh/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012024-gwh/"
+        },
+        {
+          "text": "Fjärrvärme (GWh)",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/fjarrvarme-gwh/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/fjarrvarme-gwh/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Tillförsel och användning av el 2001–2024 (GWh)",
+          "Tabell",
+          "2025-10-08"
+        ],
+        [
+          "Fjärrvärme (GWh)",
+          "Tabell",
+          "2025-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Årlig energistatistik",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnlInstEffBrProd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnlInstEffBrProd"
+        },
+        {
+          "text": "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UttagspSNI2007Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UttagspSNI2007Ar"
+        },
+        {
+          "text": "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforangaAR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforangaAR"
+        },
+        {
+          "text": "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforelARb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforelARb"
+        },
+        {
+          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007ArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007ArN"
+        },
+        {
+          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007Ar"
+        },
+        {
+          "text": "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElProdAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElProdAr"
+        },
+        {
+          "text": "Fjärrkyla. År 2018 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FjarrKyla",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FjarrKyla"
+        },
+        {
+          "text": "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdBrAnvVGr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdBrAnvVGr"
+        },
+        {
+          "text": "Omsatt värme. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsVarme",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsVarme"
+        },
+        {
+          "text": "Värmeleveranser till slutliga förbrukare. År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VarmeLev",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VarmeLev"
+        },
+        {
+          "text": "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Inkvarde",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Inkvarde"
+        },
+        {
+          "text": "Nätanslutna batterier efter lagringskapacitet.  År 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Batterier",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Batterier"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Fjärrkyla. År 2018 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Omsatt värme. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Värmeleveranser till slutliga förbrukare. År 2015 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2024",
+          "2025-10-08"
+        ],
+        [
+          "Nätanslutna batterier efter lagringskapacitet.  År 2024",
+          "2025-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som inte uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som inte uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0105O",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0105O"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme) 2020",
+          "href": "/publikation/43313",
+          "url": "https://www.scb.se/publikation/43313"
+        },
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme) 2019",
+          "href": "/publikation/40414",
+          "url": "https://www.scb.se/publikation/40414"
+        },
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme) 2018",
+          "href": "/publikation/37671",
+          "url": "https://www.scb.se/publikation/37671"
+        },
+        {
+          "text": "El-, gas- och fjärrvärmeförsörjningen 2017. Slutlig statistik",
+          "href": "/publikation/35268",
+          "url": "https://www.scb.se/publikation/35268"
+        },
+        {
+          "text": "El-, gas- och fjärrvärmeförsörjningen 2016. Slutlig statistik",
+          "href": "/publikation/31125",
+          "url": "https://www.scb.se/publikation/31125"
+        },
+        {
+          "text": "El-, gas- och fjärrvärmeförsörjningen 2015. Slutlig statistik",
+          "href": "/publikation/27925",
+          "url": "https://www.scb.se/publikation/27925"
+        },
+        {
+          "text": "El-, gas- och fjärrvärmeförsörjningen 2014. Slutlig statistik",
+          "href": "/publikation/25151",
+          "url": "https://www.scb.se/publikation/25151"
+        },
+        {
+          "text": "El-, gas- och fjärrvärmeförsörjningen 2013. Slutlig statistik",
+          "href": "/publikation/22742",
+          "url": "https://www.scb.se/publikation/22742"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Årlig energistatistik (el, gas och fjärrvärme) 2020",
+          "",
+          "2021-10-28"
+        ],
+        [
+          "Årlig energistatistik (el, gas och fjärrvärme) 2019",
+          "",
+          "2020-11-03"
+        ],
+        [
+          "Årlig energistatistik (el, gas och fjärrvärme) 2018",
+          "",
+          "2019-11-29"
+        ],
+        [
+          "El-, gas- och fjärrvärmeförsörjningen 2017. Slutlig statistik",
+          "",
+          "2018-11-30"
+        ],
+        [
+          "El-, gas- och fjärrvärmeförsörjningen 2016. Slutlig statistik",
+          "",
+          "2017-11-30"
+        ],
+        [
+          "El-, gas- och fjärrvärmeförsörjningen 2015. Slutlig statistik",
+          "",
+          "2016-11-30"
+        ],
+        [
+          "El-, gas- och fjärrvärmeförsörjningen 2014. Slutlig statistik",
+          "",
+          "2015-11-30"
+        ],
+        [
+          "El-, gas- och fjärrvärmeförsörjningen 2013. Slutlig statistik",
+          "",
+          "2014-11-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (30)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=EN0105&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=EN0105&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2024a_20251008.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2024a_20251008.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2023a_v1_241010.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2023a_v1_241010.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2022_v1_20231012.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2022_v1_20231012.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2021a_v1_221027.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2021a_v1_221027.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2020_se_20211028.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2020_se_20211028.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2019_se_201103.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2019_se_201103.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2018_se_20191107.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2018_se_20191107.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2017_-se_20181121.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2017_-se_20181121.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2016_-se_171024.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2016_-se_171024.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2014_se_150929.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2014_se_150929.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2024a_20251008.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2024a_20251008.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2023a_v1_241010.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2023a_v1_241010.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2022a_v1_20231012.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2022a_v1_20231012.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_st_2021a_v1_221027.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_st_2021a_v1_221027.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2020_se_20211028.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2020_se_20211028.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2019_se_201103.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2019_se_201103.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2018_se_191129.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2018_se_191129.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2017_se_201111.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2017_se_201111.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2016_171211_se.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2016_171211_se.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2015_se_161130.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2015_se_161130.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2014_se_150929.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2014_se_150929.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2013_141114.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2013_141114.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_do_2009.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0105",
+          "url": "https://metadata.scb.se/?produkt=EN0105"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Beskrivning av Årlig energistatistik (el, gas och fjärrvärme)"
+      ],
+      "links": [
+        {
+          "text": "Beskrivning av Årlig energistatistik (el, gas och fjärrvärme)",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/produktrelaterat/Fordjupad-information/beskrivning-av-arlig-energistatistik-el-gas-och-fjarrvarme/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/produktrelaterat/Fordjupad-information/beskrivning-av-arlig-energistatistik-el-gas-och-fjarrvarme/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Susanne Enmalm",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 69 63",
+        "E-post",
+        "susanne.enmalm@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 69 63",
+          "href": "tel:010-479 69 63",
+          "url": "tel:010-479 69 63"
+        },
+        {
+          "text": "susanne.enmalm@scb.se",
+          "href": "mailto:susanne.enmalm@scb.se",
+          "url": "mailto:susanne.enmalm@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle",
+        "El"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        },
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0105"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

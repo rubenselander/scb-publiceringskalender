@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/HS0103",
+    "response_url": "https://www.scb.se/HS0103",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/amning/",
+    "fetched_at": "2026-10-05T13:11:03.347160Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "dc10f2f169b3663017c523ee5442b7bb584fcd900337191e41be454ef6890891",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Statistik om amning",
+  "product_code": "HS0103",
+  "has_documentation_section": false,
+  "groups": []
+}

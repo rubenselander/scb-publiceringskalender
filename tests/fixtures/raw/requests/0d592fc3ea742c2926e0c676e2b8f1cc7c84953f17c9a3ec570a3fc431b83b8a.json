@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Statliga affärsverk&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Statliga%20aff%C3%A4rsverk&format=False",
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-10-05T12:59:45.865643Z",
+  "sha256": "22f639ef037860c5b78cc1bd13053d05c87d1abc9b2558919d6915779d2f0951",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,171 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK0802",
+    "response_url": "https://www.scb.se/TK0802",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/sjotrafik/",
+    "fetched_at": "2026-10-05T13:14:38.572208Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "d96358c41a0eb0ad1c6cc9a490b039e892693bc2bb4c7c2ac7e021acd7d7a632",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK0802",
+  "product_code_source": "calendar",
+  "title": "Sjötrafik",
+  "short_address": "https://www.scb.se/tk0802",
+  "summary": "Trafikanalys gör granskningar, analyser, uppföljningar och utvärderingar inom området sjöfart. Vår statistik innehåller bland annat fartyg, varu- och passagerartrafik, svenska hamnar och uppgifter om sjöfartsföretagens ekonomi.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Godstransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
+    },
+    {
+      "text": "Persontransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Sjötrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-30",
+        "Trafikanalys gör granskningar, analyser, uppföljningar och utvärderingar inom området sjöfart. Vår statistik innehåller bland annat fartyg, varu- och passagerartrafik, svenska hamnar och uppgifter om sjöfartsföretagens ekonomi."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-30",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0802&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0802&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjötrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjötrafik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjötrafik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Godstransport",
+        "Persontransport"
+      ],
+      "links": [
+        {
+          "text": "Godstransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
+        },
+        {
+          "text": "Persontransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sjötrafik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk0802"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

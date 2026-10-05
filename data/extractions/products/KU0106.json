@@ -1,0 +1,165 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/KU0106",
+    "response_url": "https://www.scb.se/KU0106",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/skolbiblioteksstatistik/",
+    "fetched_at": "2026-10-05T13:12:03.861457Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "f25325de21d86709c995ebe773ca61e04526380078239bf9ef0433d5f6f2b9be",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "KU0106",
+  "product_code_source": "calendar",
+  "title": "Skolbiblioteksstatistik",
+  "short_address": "https://www.scb.se/ku0106",
+  "summary": "Statistiken visar placering av skolbibliotek i förhållande till skolenhet under ett kalenderår samt till exempel bemanning.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Kungliga biblioteket (KB)",
+    "link": {
+      "text": "Kungliga biblioteket (KB)",
+      "href": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html",
+      "url": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bibliotek",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
+    },
+    {
+      "text": "Skolbibliotek",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=243",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=243"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Skolbiblioteksstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar placering av skolbibliotek i förhållande till skolenhet under ett kalenderår samt till exempel bemanning."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skolbiblioteksstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Kungliga biblioteket (KB)"
+      ],
+      "links": [
+        {
+          "text": "Kungliga biblioteket (KB)",
+          "href": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html",
+          "url": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skolbiblioteksstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Anna Dellborg",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "anna.dellborg@kb.se"
+      ],
+      "links": [
+        {
+          "text": "anna.dellborg@kb.se",
+          "href": "mailto:anna.dellborg@kb.se",
+          "url": "mailto:anna.dellborg@kb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skolbiblioteksstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bibliotek",
+        "Skolbibliotek"
+      ],
+      "links": [
+        {
+          "text": "Bibliotek",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
+        },
+        {
+          "text": "Skolbibliotek",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=243",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=243"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skolbiblioteksstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/ku0106"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

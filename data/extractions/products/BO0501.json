@@ -1,0 +1,1960 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/BO0501",
+    "response_url": "https://www.scb.se/BO0501",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/",
+    "fetched_at": "2026-10-05T13:10:25.317290Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "1f94fd4144b5e7a7dead949ba91b15328819ebeb891bbceacf6161eabdd3e138",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "BO0501",
+  "product_code_source": "calendar",
+  "title": "Fastighetspriser och lagfarter",
+  "short_address": "https://www.scb.se/bo0501",
+  "summary": "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-08",
+  "next_publication_date": "2026-10-08",
+  "responsible_agency": null,
+  "notices": [
+    "Korrigering 2026-03-13 Fastighetsprisindex, år och kvartalsvärden, har korrigerats. Berörda tabeller och diagram och tabeller i Statistikdatabasen har uppdaterats med korrigerade värden för 2023–2025."
+  ],
+  "tags": [
+    {
+      "text": "Boende",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
+    },
+    {
+      "text": "Bostadspriser",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=32",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=32"
+    },
+    {
+      "text": "Fastigheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+    },
+    {
+      "text": "Fritidshus",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+    },
+    {
+      "text": "Index",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+    },
+    {
+      "text": "Priser",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
+    },
+    {
+      "text": "Småhus",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=173",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=173"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-08",
+        "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Korrigering 2026-03-13 Fastighetsprisindex, år och kvartalsvärden, har korrigerats. Berörda tabeller och diagram och tabeller i Statistikdatabasen har uppdaterats med korrigerade värden för 2023–2025."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Fastighetsprisindex, kvartal, preliminära värden",
+        "965",
+        "Index 1981=100",
+        "Referenstid: kvartal 2 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "2 %",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "2 %",
+        "jämfört med föregående period"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-08-21",
+        "Enligt SCB:s fastighetsprisindex för permanenta småhus på riksnivå så ökade priserna med nästan 2 procent under andra kvartalet 2026, jämfört med kvartalet innan. Statistiken redovisas efter tidpunkten på köpebrevet, det vill säga den dag då köparen är ny formell ägare."
+      ],
+      "links": [
+        {
+          "text": "Fastighetspriser och lagfarter, 2:a kvartalet 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-2a-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-2a-kvartalet-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=BO0501",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=BO0501"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fastighetsprisindex (FASTPI)",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-fastpi/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-fastpi/"
+        },
+        {
+          "text": "Fastighetsprisindex, år, 1981=100",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-ar-1981100/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-ar-1981100/"
+        },
+        {
+          "text": "Fastighetsprisindex, årsförändring",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-arsforandring/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/fastighetsprisindex-arsforandring/"
+        },
+        {
+          "text": "Prisutvecklingen på småhus för permanentboende, fritidshus och hyreshus samt konsumentprisindex (KPI)",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/prisutvecklingen-pa-smahus-for-permanentboende-fritidshus-och-hyreshus-samt-konsumentprisindex-kpi/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/prisutvecklingen-pa-smahus-for-permanentboende-fritidshus-och-hyreshus-samt-konsumentprisindex-kpi/"
+        },
+        {
+          "text": "Småhusbarometern – Fastighetsprisstatistik per månad, hela landet",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/smahusbarometern--fastighetsprisstatistik-per-manad-hela-landet/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/smahusbarometern--fastighetsprisstatistik-per-manad-hela-landet/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Fastighetsprisindex (FASTPI)",
+          "Tabell",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex, år, 1981=100",
+          "Diagram",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex, årsförändring",
+          "Diagram",
+          "2026-06-05"
+        ],
+        [
+          "Prisutvecklingen på småhus för permanentboende, fritidshus och hyreshus samt konsumentprisindex (KPI)",
+          "Tabell",
+          "2026-08-21"
+        ],
+        [
+          "Småhusbarometern – Fastighetsprisstatistik per månad, hela landet",
+          "Diagram",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bostadsrätter",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Försäljning av bostadsrätter 2024–2025 fördelat på län och storstadsområden",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/bostadsratter/forsaljning-av-bostadsratter-20242025-fordelat-pa-lan-och-storstadsomraden/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/bostadsratter/forsaljning-av-bostadsratter-20242025-fordelat-pa-lan-och-storstadsomraden/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Försäljning av bostadsrätter 2024–2025 fördelat på län och storstadsområden",
+          "Tabell",
+          "2026-07-03"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kommunstatistik",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Medelpriser på småhus för permanentboende 2025 per kommun",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/medelpriser-pa-smahus-for-permanentboende-2025-per-kommun/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/medelpriser-pa-smahus-for-permanentboende-2025-per-kommun/"
+        },
+        {
+          "text": "Medelpriser för småhus 2025 per kommun med prisförändringar under 1, 5, 10 och 20 år",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/medelpriser-for-smahus-2025-per-kommun-med-prisforandringar-under-1-5-10-och-20-ar/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/medelpriser-for-smahus-2025-per-kommun-med-prisforandringar-under-1-5-10-och-20-ar/"
+        },
+        {
+          "text": "Småhusbarometern",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/smahusbarometern/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/tabell-och-diagram/kommunstatistik/smahusbarometern/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Medelpriser på småhus för permanentboende 2025 per kommun",
+          "Karta",
+          "2026-06-05"
+        ],
+        [
+          "Medelpriser för småhus 2025 per kommun med prisförändringar under 1, 5, 10 och 20 år",
+          "Tabell",
+          "2026-06-05"
+        ],
+        [
+          "Småhusbarometern",
+          "Tabell",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nyckeltal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501K"
+        },
+        {
+          "text": "Nyckeltal och förändringstal för fastighetsprisindex, år 2015 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501A",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501A"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Nyckeltal och förändringstal för fastighetsprisindex, år 2015 - 2025",
+          "2026-06-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fastighetsprisindex",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fastighetsprisindex för fritidshus (1981=100) efter region. År 1975 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidRegAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidRegAr"
+        },
+        {
+          "text": "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidshusKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidshusKv"
+        },
+        {
+          "text": "Fastighetsprisindex för lantbruk (1992=100) efter region. År 1988 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiLantbrukRegAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiLantbrukRegAr"
+        },
+        {
+          "text": "Fastighetsprisindex för permanenta småhus (1981=100) efter region. År 1975 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegAr"
+        },
+        {
+          "text": "Fastighetsprisindex för permanenta småhus (1990=100) efter län. År 1990 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSLanAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSLanAr"
+        },
+        {
+          "text": "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegKv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Fastighetsprisindex för fritidshus (1981=100) efter region. År 1975 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Fastighetsprisindex för lantbruk (1992=100) efter region. År 1988 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex för permanenta småhus (1981=100) efter region. År 1975 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex för permanenta småhus (1990=100) efter län. År 1990 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K2",
+          "2026-08-21"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prisstatistik (småhus, hyreshus, lantbruk och industrier)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Försålda fastigheter efter förvärvsmånad och fastighetstyp. År 1992 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisManadAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisManadAr"
+        },
+        {
+          "text": "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegKv"
+        },
+        {
+          "text": "Försålda fritidshus efter region (riksområden, riket). År 2000 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegAr"
+        },
+        {
+          "text": "Försålda hyreshus efter region (län, riket) och fastighetstyp. År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHRegionAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHRegionAr"
+        },
+        {
+          "text": "Försålda hyreshus. Kvartal 1994K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHKv"
+        },
+        {
+          "text": "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFKv"
+        },
+        {
+          "text": "Försålda industrier efter region (län, riket) och fastighetstyp. År 1994 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFRegionAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFRegionAr"
+        },
+        {
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M"
+        },
+        {
+          "text": "Försålda lantbruk efter region (län, riket) och andel jordbruksvärde. År 1999 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegJordAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegJordAr"
+        },
+        {
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M"
+        },
+        {
+          "text": "Försålda lantbruk efter region (län, riket) och andel skogsbruksvärde. År 1999 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegSkogAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegSkogAr"
+        },
+        {
+          "text": "Försålda lantbruk efter region (län, riket) och bebyggelseförhållande. År 1999 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBBebyggAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBBebyggAr"
+        },
+        {
+          "text": "Försålda lantbruk. Kvartal 1999K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBKv"
+        },
+        {
+          "text": "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegKv"
+        },
+        {
+          "text": "Försålda permanenta småhus efter region (län, riksområden, riket). År 2000 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegAr"
+        },
+        {
+          "text": "Försålda småhus efter region (kommun, län, riket) och fastighetstyp. År 1981 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisSHRegionAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisSHRegionAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Försålda fastigheter efter förvärvsmånad och fastighetstyp. År 1992 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Försålda fritidshus efter region (riksområden, riket). År 2000 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda hyreshus efter region (län, riket) och fastighetstyp. År 1989 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda hyreshus. Kvartal 1994K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Försålda industrier efter region (län, riket) och fastighetstyp. År 1994 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M08",
+          "2026-09-10"
+        ],
+        [
+          "Försålda lantbruk efter region (län, riket) och andel jordbruksvärde. År 1999 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M08",
+          "2026-09-10"
+        ],
+        [
+          "Försålda lantbruk efter region (län, riket) och andel skogsbruksvärde. År 1999 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda lantbruk efter region (län, riket) och bebyggelseförhållande. År 1999 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda lantbruk. Kvartal 1999K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "2026-08-21"
+        ],
+        [
+          "Försålda permanenta småhus efter region (län, riksområden, riket). År 2000 - 2025",
+          "2026-06-05"
+        ],
+        [
+          "Försålda småhus efter region (kommun, län, riket) och fastighetstyp. År 1981 - 2025",
+          "2026-06-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bostadsrätter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Försäljning av bostadsrätter efter region (län, storstadsområden, riket). År 2000 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisBRFRegionAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisBRFRegionAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Försäljning av bostadsrätter efter region (län, storstadsområden, riket). År 2000 - 2025",
+          "2026-07-03"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lagfarter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Beviljade lagfarter för samtliga fastighetstyper efter region (län, riket) och typ av överlåtelse. År 1999 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagfartAllaRegionAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagfartAllaRegionAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Beviljade lagfarter för samtliga fastighetstyper efter region (län, riket) och typ av överlåtelse. År 1999 - 2025",
+          "2026-06-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Taxeringsvärdeförändringar (Omräkningstal)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Basvärdeförändring för hyreshus vid allmän fastighetstaxering 2000 efter region (län, hela landet) och fastighetstyp. År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH00",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH00"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för hyreshus vid allmän fastighetstaxering 1994 efter region (län, hela landet) och fastighetstyp. År 1994",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH94",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH94"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för hyreshus vid allmän fastighetstaxering 2007 efter region (län, hela landet) och fastighetstyp. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH07"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för hyreshus vid förenklad fastighetstaxering 2004 efter region (län, hela landet) och fastighetstyp. År 2004",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringHH04"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för lantbruk vid allmän fastighetstaxering 2005 efter region (län, hela landet). År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringLB05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringLB05"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för småhus vid allmän fastighetstaxering 1996 efter region (kommun, län, hela landet) och fastighetstyp. År 1996",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH96",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH96"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för småhus vid allmän fastighetstaxering 2003 efter region (kommun, län, hela landet) och fastighetstyp. År 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH03"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för småhus vid förenklad fastighetstaxering 2006 efter region (kommun, län, hela landet) och fastighetstyp. År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH06"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för lantbruk vid förenklad fastighetstaxering 2008 efter region (län, hela landet). År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringLB08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringLB08"
+        },
+        {
+          "text": "Taxeringsvärdeförändring för småhus vid förenklad fastighetstaxering 2009 efter region (kommun, län, hela landet) och fastighetstyp. År 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TaxvForandringSH09"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Basvärdeförändring för hyreshus vid allmän fastighetstaxering 2000 efter region (län, hela landet) och fastighetstyp. År 2000",
+          "2008-01-31"
+        ],
+        [
+          "Taxeringsvärdeförändring för hyreshus vid allmän fastighetstaxering 1994 efter region (län, hela landet) och fastighetstyp. År 1994",
+          "2008-02-08"
+        ],
+        [
+          "Taxeringsvärdeförändring för hyreshus vid allmän fastighetstaxering 2007 efter region (län, hela landet) och fastighetstyp. År 2007",
+          "2008-09-02"
+        ],
+        [
+          "Taxeringsvärdeförändring för hyreshus vid förenklad fastighetstaxering 2004 efter region (län, hela landet) och fastighetstyp. År 2004",
+          "2005-09-19"
+        ],
+        [
+          "Taxeringsvärdeförändring för lantbruk vid allmän fastighetstaxering 2005 efter region (län, hela landet). År 2005",
+          "2006-06-28"
+        ],
+        [
+          "Taxeringsvärdeförändring för småhus vid allmän fastighetstaxering 1996 efter region (kommun, län, hela landet) och fastighetstyp. År 1996",
+          "2008-02-08"
+        ],
+        [
+          "Taxeringsvärdeförändring för småhus vid allmän fastighetstaxering 2003 efter region (kommun, län, hela landet) och fastighetstyp. År 2003",
+          "2005-09-19"
+        ],
+        [
+          "Taxeringsvärdeförändring för småhus vid förenklad fastighetstaxering 2006 efter region (kommun, län, hela landet) och fastighetstyp. År 2006",
+          "2007-06-07"
+        ],
+        [
+          "Taxeringsvärdeförändring för lantbruk vid förenklad fastighetstaxering 2008 efter region (län, hela landet). År 2008",
+          "2009-06-10"
+        ],
+        [
+          "Taxeringsvärdeförändring för småhus vid förenklad fastighetstaxering 2009 efter region (kommun, län, hela landet) och fastighetstyp. År 2009",
+          "2010-03-31"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Ekonomiska indikatorer",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M08",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fastighetspriser och lagfarter 2020",
+          "href": "/publikation/42749",
+          "url": "https://www.scb.se/publikation/42749"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2019",
+          "href": "/publikation/41496",
+          "url": "https://www.scb.se/publikation/41496"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2018",
+          "href": "/publikation/36327",
+          "url": "https://www.scb.se/publikation/36327"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2017",
+          "href": "/publikation/34273",
+          "url": "https://www.scb.se/publikation/34273"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2016",
+          "href": "/publikation/30749",
+          "url": "https://www.scb.se/publikation/30749"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2015",
+          "href": "/publikation/27184",
+          "url": "https://www.scb.se/publikation/27184"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2014",
+          "href": "/publikation/25687",
+          "url": "https://www.scb.se/publikation/25687"
+        },
+        {
+          "text": "Fastighetsprisstatistik 2013",
+          "href": "/publikation/22326",
+          "url": "https://www.scb.se/publikation/22326"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Fastighetspriser och lagfarter 2020",
+          "",
+          "2021-06-03"
+        ],
+        [
+          "Fastighetsprisstatistik 2019",
+          "",
+          "2020-06-03"
+        ],
+        [
+          "Fastighetsprisstatistik 2018",
+          "",
+          "2019-06-05"
+        ],
+        [
+          "Fastighetsprisstatistik 2017",
+          "",
+          "2018-06-04"
+        ],
+        [
+          "Fastighetsprisstatistik 2016",
+          "",
+          "2017-05-29"
+        ],
+        [
+          "Fastighetsprisstatistik 2015",
+          "",
+          "2016-05-31"
+        ],
+        [
+          "Fastighetsprisstatistik 2014",
+          "",
+          "2015-05-29"
+        ],
+        [
+          "Fastighetsprisstatistik 2013",
+          "",
+          "2014-05-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (69)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=BO0501&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=BO0501&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2026_v1_20260205.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2026_v1_20260205.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2025_v1_20250206.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2025_v1_20250206.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2024_v1_20240208.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2024_v1_20240208.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2023_ns_20230210.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2023_ns_20230210.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2022_ns_220504.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2022_ns_220504.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2021_ns_220504.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2021_ns_220504.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2020_ns_2000703.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2020_ns_2000703.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2019_ns_190207.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2019_ns_190207.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2018_ns_180208.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2018_ns_180208.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2017_ns_170209.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_kd_2017_ns_170209.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2015_150205.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2015_150205.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_bs_2000.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2026_v1_20260205.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2026_v1_20260205.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2025_v1_20250206.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2025_v1_20250206.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2024_v1_20240208.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2024_v1_20240208.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2023_ns_20230210.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2023_ns_20230210.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2022_ns_220504.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2022_ns_220504.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2021_ns_210211.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2021_ns_210211.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2020_ns_200703.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2020_ns_200703.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2019_ns_190207.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2019_ns_190207.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2018_ns_181002.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_staf_2018_ns_181002.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2017_ns_170529.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2017_ns_170529.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2016_ns_160408.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2016_ns_160408.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2015_150401.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2015_150401.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2014_2014-05-26.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2014_2014-05-26.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2013_2014-05-26.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2013_2014-05-26.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2006.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_1999.pdf",
+          "url": "https://www.scb.se/contentassets/8ae0112f2fed4f6ba9608253d794d286/bo0501_do_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=BO0501",
+          "url": "https://metadata.scb.se/?produkt=BO0501"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Skräddarsydd statistik",
+        "Hur mäter man prisutvecklingen på småhus?"
+      ],
+      "links": [
+        {
+          "text": "Skräddarsydd statistik",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
+        },
+        {
+          "text": "Hur mäter man prisutvecklingen på småhus?",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/hur-mater-man-prisutvecklingen-pa-smahus/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/hur-mater-man-prisutvecklingen-pa-smahus/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "byggande.bebyggelse@scb.se"
+      ],
+      "links": [
+        {
+          "text": "byggande.bebyggelse@scb.se",
+          "href": "mailto:byggande.bebyggelse@scb.se",
+          "url": "mailto:byggande.bebyggelse@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Lana Omanovic",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 49 67",
+        "E-post",
+        "lana.omanovic@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 49 67",
+          "href": "tel:010-479 49 67",
+          "url": "tel:010-479 49 67"
+        },
+        {
+          "text": "lana.omanovic@scb.se",
+          "href": "mailto:lana.omanovic@scb.se",
+          "url": "mailto:lana.omanovic@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Boende",
+        "Bostadspriser",
+        "Fastigheter",
+        "Fritidshus",
+        "Index",
+        "Priser",
+        "Småhus"
+      ],
+      "links": [
+        {
+          "text": "Boende",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
+        },
+        {
+          "text": "Bostadspriser",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=32",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=32"
+        },
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+        },
+        {
+          "text": "Fritidshus",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+        },
+        {
+          "text": "Index",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+        },
+        {
+          "text": "Priser",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
+        },
+        {
+          "text": "Småhus",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=173",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=173"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetspriser och lagfarter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/bo0501"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

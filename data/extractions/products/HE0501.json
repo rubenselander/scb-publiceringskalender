@@ -1,0 +1,128 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/HE0501",
+    "response_url": "https://www.scb.se/HE0501",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/pensioner/total-pension/",
+    "fetched_at": "2026-10-05T13:11:01.767570Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "612511fae723f172dc160f6901dc9d98950b4f290e83a603e2be6e7c9c5868c8",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "HE0501",
+  "product_code_source": "calendar",
+  "title": "Total pension",
+  "short_address": "https://www.scb.se/he0501",
+  "summary": "Statistiken redovisar den totala pensionen, det vill säga allmän pension, änkepension, tjänstepension och privat pension.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-12-17",
+  "next_publication_date": "2026-12-17",
+  "responsible_agency": {
+    "label": "Pensionsmyndigheten",
+    "link": {
+      "text": "Pensionsmyndigheten",
+      "href": "http://www.pensionsmyndigheten.se/Statistik.html",
+      "url": "http://www.pensionsmyndigheten.se/Statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Total pension",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-17",
+        "Statistiken redovisar den totala pensionen, det vill säga allmän pension, änkepension, tjänstepension och privat pension."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0501&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Total pension",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Pensionsmyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Pensionsmyndigheten",
+          "href": "http://www.pensionsmyndigheten.se/Statistik.html",
+          "url": "http://www.pensionsmyndigheten.se/Statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Total pension",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Pensionsmyndigheten",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "statistik@pensionsmyndigheten.se"
+      ],
+      "links": [
+        {
+          "text": "statistik@pensionsmyndigheten.se",
+          "href": "mailto:statistik@pensionsmyndigheten.se",
+          "url": "mailto:statistik@pensionsmyndigheten.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Total pension",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/he0501"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

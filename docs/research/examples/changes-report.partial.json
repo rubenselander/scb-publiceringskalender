@@ -1,0 +1,37 @@
+{
+  "provenance": {
+    "landing_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
+    "source_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf",
+    "retrieved_at": "2026-10-05T12:16:24.033774Z",
+    "language": "sv",
+    "sha256": "13831a94c8a87544f442a49b18baeaa51061d9c54b68fdb5b7cad9db79ed2ef1"
+  },
+  "link_label": "Ändringar i den officiella statistiken, april - okt 2025 (pdf)",
+  "title": "Förändringar i den officiella statistiken",
+  "document_date_text": "Okt 2025",
+  "coverage_period_text": "april – oktober 2025",
+  "page_count": 3,
+  "document_notes": [],
+  "partial_sample": true,
+  "notices": [
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0108",
+      "product_name": "Föräldrapenning",
+      "description": "Ändring av produkt. Ett nytt mått läggs till; Genomsnittligt antal dubbeldagar per barn. Gäller fr o m 2025-04-10.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 5,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-04-10",
+      "effective_date_text": "Gäller fr o m 2025-04-10.",
+      "related_product_codes": [],
+      "interpretation_evidence": "Gäller fr o m 2025-04-10.",
+      "review_required": false
+    }
+  ]
+}

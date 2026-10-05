@@ -7,7 +7,7 @@ The complete contents of SCB's [publiceringskalender](https://www.scb.se/hitta-s
 |---|---|
 | [`data/calendar.csv`](data/calendar.csv) | one row per calendar entry; `forms` joined with ` \| ` |
 | [`data/calendar.jsonl`](data/calendar.jsonl) | same rows, one JSON object per line; `forms` is a list |
-| [`data/raw/`](data/raw) | every calendar row as the HTML the calendar served, one file per year |
+| [`data/raw/`](data/raw) | one line per request made to the calendar: the request (`from`, `to`, `page`, `newest_first`, `form`, `url`, `fetched`), the `total` the calendar reported and `rows`, the table rows exactly as served; one file per year |
 | [`data/unparsed.jsonl`](data/unparsed.jsonl) | rows that could not be turned into columns (normally empty) |
 | [`data/gaps.json`](data/gaps.json) | date ranges where the calendar has more rows than it would show |
 | [`data/state.json`](data/state.json) | when the data was last refreshed |
@@ -39,11 +39,13 @@ A [scheduled GitHub Action](.github/workflows/update.yml) runs two scripts (stan
 only) on the 2nd of every month. [`fetch.py`](fetch.py) copies the calendar's rows into `data/raw/`
 without interpreting them, and [`parse.py`](parse.py) rebuilds the CSV and JSONL from those, so
 the output format can be changed without fetching anything again. Each run
-refetches everything dated from the day before the previous run up to the last planned
-publication and replaces that date range in the files; rows for already published dates are
-left as they are. Earlier versions of the files are in the git history.
+refetches everything from 1 January of the previous year up to the last planned publication and
+replaces those years in the files; older years are left as they are. Earlier versions of the
+files are in the git history.
 
-If a run fails, what it fetched so far is committed and the next run continues from there.
+Running the workflow by hand with `full` ticked (or `python fetch.py --full`) refetches the whole
+calendar. If such a run fails, what it fetched so far is committed and the next run continues
+from there.
 
 ## Known holes
 

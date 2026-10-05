@@ -12,6 +12,7 @@ from __future__ import annotations
 import csv
 import json
 import re
+from collections import Counter
 from datetime import date
 from html.parser import HTMLParser
 from pathlib import Path
@@ -85,15 +86,37 @@ def parse(html: str) -> dict:
     return row
 
 
-def main() -> None:
-    rows, unparsed = [], []
+def stored_rows() -> list[str]:
+    """Every stored table row once.
+
+    A date range is normally stored as the pages of one listing. Where fetch.py had to work
+    around a broken entry, a day is stored as several listings (other sort order, form filters)
+    that each show part of its rows; a row is then taken as often as the listing showing it most.
+    """
+    listings: dict[tuple, dict[tuple, Counter]] = {}
     for path in sorted((DATA / "raw").glob("*.jsonl")):
         for line in path.read_text("utf-8").splitlines():
-            raw = json.loads(line)
-            try:
-                rows.append(parse(raw["html"]))
-            except Exception as e:  # whatever goes wrong with a row, it is kept
-                unparsed.append({**raw, "error": f"{type(e).__name__}: {e}"})
+            page = json.loads(line)
+            listing = listings.setdefault((page["from"], page["to"]), {}).setdefault(
+                (page["newest_first"], page["form"]), Counter())
+            # tr attributes and whitespace differ with the row's position on a page
+            listing.update(" ".join(re.sub(r"^<tr\b[^>]*>", "<tr>", row).split()) for row in page["rows"])
+    rows = []
+    for variants in listings.values():
+        union = Counter()
+        for listing in variants.values():
+            union |= listing
+        rows += union.elements()
+    return rows
+
+
+def main() -> None:
+    rows, unparsed = [], []
+    for html in stored_rows():
+        try:
+            rows.append(parse(html))
+        except Exception as e:  # whatever goes wrong with a row, it is kept
+            unparsed.append({"html": html, "error": f"{type(e).__name__}: {e}"})
     rows.sort(key=lambda r: json.dumps([r[f] for f in FIELDS], ensure_ascii=False))
     with open(DATA / "calendar.jsonl", "w", encoding="utf-8", newline="\n") as f:
         f.writelines(json.dumps(r, ensure_ascii=False) + "\n" for r in rows)

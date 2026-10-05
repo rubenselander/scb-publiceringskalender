@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 3 2 * *"   # 03:17 UTC on the 2nd of every month
   workflow_dispatch:
+    inputs:
+      full:
+        description: Refetch the whole calendar instead of last year onwards
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,7 +25,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fetch
-        run: python3 fetch.py
+        run: python3 fetch.py ${{ inputs.full && '--full' || '' }}
 
       - name: Parse
         if: always()   # also publish what a failed fetch got

@@ -1,0 +1,52 @@
+name: Update dokumentation data
+
+on:
+  schedule:
+    - cron: "41 4 * * 2"   # 04:41 UTC every Tuesday
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: Which sources to fetch (space-separated subset of "scb siris sam"; empty = all)
+        type: string
+        default: ""
+      only:
+        description: For sam, only these agencies (space-separated names from dokumentation_sources.json)
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-dokumentation
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch
+        id: fetch
+        continue-on-error: true   # a failed source is logged; the others are still published
+        run: python3 fetch_dokumentation.py ${{ inputs.sources }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+
+      - name: Parse
+        run: python3 parse_dokumentation.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dokumentation
+          git diff --cached --quiet || git commit -m "Update dokumentation data"
+          git pull --rebase --quiet
+          git push
+
+      - name: Fail if a source failed
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          cat data/dokumentation/state.json
+          exit 1

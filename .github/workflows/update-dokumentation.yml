@@ -1,6 +1,8 @@
 name: Update dokumentation data
 
 on:
+  push:
+    branches: [dokumentation]   # TEMP: while testing on the branch
   schedule:
     - cron: "41 4 * * 2"   # 04:41 UTC every Tuesday
   workflow_dispatch:

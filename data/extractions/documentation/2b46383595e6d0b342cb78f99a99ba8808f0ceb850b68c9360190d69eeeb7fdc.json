@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1202",
+    "response_url": "https://www.scb.se/TK1202",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/kommersiell-linjetrafik-pa-vag/",
+    "fetched_at": "2026-10-05T13:14:46.293006Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "782094ce452c0b54803e7ca247c610c49376f3c660547c2e324d31438e7d263d",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Kommersiell linjetrafik på väg",
+  "product_code": "TK1202",
+  "has_documentation_section": false,
+  "groups": []
+}

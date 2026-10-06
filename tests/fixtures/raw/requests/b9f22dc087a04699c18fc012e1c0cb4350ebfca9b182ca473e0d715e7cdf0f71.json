@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/PR0701",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/PR0701",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:33.342855Z",
+  "sha256": "78986475da01fc8e88fa8b967e9ea60199d4fd38bc0d6dc3e3e924f01c924a9f",
+  "encoding": "utf-8"
+}

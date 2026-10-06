@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/dokumentation/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/dokumentation/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:35.795098Z",
+  "sha256": "c9cc2dc7b8ecc1affade1acb7b70f47261bff6312195ab89393e8a1832c854f3",
+  "encoding": "utf-8"
+}

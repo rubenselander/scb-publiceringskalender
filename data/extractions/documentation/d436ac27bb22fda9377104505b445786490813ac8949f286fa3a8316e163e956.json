@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/LE0001",
+    "response_url": "https://www.scb.se/LE0001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/valfard-scb-s-tidskrift-om-arbetsliv-demografi-och-valfard/",
+    "fetched_at": "2026-10-05T13:12:08.983506Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "a80189a73c26448c3cc122347c802098220216728d626a18504c171e1dd8b926",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Välfärd – SCB:s tidskrift om arbetsliv, demografi och välfärd",
+  "product_code": "LE0001",
+  "has_documentation_section": false,
+  "groups": []
+}

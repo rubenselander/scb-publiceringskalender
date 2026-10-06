@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/sam-forum/hem/officiell-statistik/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:38.445072Z",
+  "sha256": "5900d642bece5e598345a94e5a38d9bef5ef586b1c3d0ee3494edaeb50fafd0f",
+  "encoding": "utf-8"
+}

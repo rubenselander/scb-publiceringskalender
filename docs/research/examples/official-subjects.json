@@ -1,0 +1,716 @@
+{
+  "record_type": "official_subjects",
+  "provenance": {
+    "requested_url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/officiell-statistik-efter-amne/",
+    "response_url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/officiell-statistik-efter-amne/",
+    "canonical_url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/officiell-statistik-efter-amne/",
+    "fetched_at": "2026-10-05T12:18:52.661305Z",
+    "http_status": 200,
+    "content_sha256": "f03f8d9807039b1b6323d85e412728592fbfe9892b6fa28a7419bd750ace8a27",
+    "source_selector": "#pageContent",
+    "capture_scope": "research_sample",
+    "warnings": []
+  },
+  "title": "Officiell statistik efter ämne",
+  "introduction": null,
+  "subjects": [
+    {
+      "code": "AM",
+      "index_link": {
+        "text": "AM Arbetsmarknad",
+        "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/"
+      },
+      "provenance": {
+        "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+        "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+        "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+        "fetched_at": "2026-10-05T12:18:53.111069Z",
+        "http_status": 200,
+        "content_sha256": "fe5cc9a5d5c121ad82b0bc937c066be96311b3a5e4467899632d77bbf6d05ff0",
+        "source_selector": "#pageContent",
+        "capture_scope": "research_sample",
+        "warnings": []
+      },
+      "title": "Arbetsmarknad",
+      "areas": [
+        {
+          "label": "Arbetsmiljö",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Arbetsmiljöundersökningen",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar de fysiska och psykosociala arbetsmiljöförhållanden bland sysselsatta i befolkningen. Resultatet redovisas bland annat per yrke, näringsgren, inkomst, utbildning, region, ålder och kön.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Arbetsmiljöverket",
+              "tags_text": "Arbete, Arbetsmiljö"
+            },
+            {
+              "link": {
+                "text": "Arbetsorsakade besvär",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar besvär som människor kopplar till sitt arbete, var i kroppen besvären finns och vad i arbetet som kan ha orsakat dem. Undersökningen är en tilläggsundersökning till Arbetskraftsundersökningarna (AKU).",
+              "responsible_agency_text": "Statistikansvarig myndighet: Arbetsmiljöverket",
+              "tags_text": "Arbete, Arbetsmiljö"
+            }
+          ]
+        },
+        {
+          "label": "Arbetsskador",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Arbetsskador",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken bygger på de arbetsskadeanmälningar som görs till Försäkringskassan. Arbetsskadeanmälan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Arbetsmiljöverket",
+              "tags_text": "Arbete, Arbetsmiljö"
+            }
+          ]
+        },
+        {
+          "label": "Efterfrågan på arbetskraft",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Anställningar",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar nivåer och förändring av de anställningar som finns på arbetsmarknaden samt sjukfrånvaro under sjuklöneperioden. Anställningar baseras på arbetsgivardeklarationer (AGI) från Skatteverket, medan sjukfrånvarostatistiken samlas in från ett urval av arbetsgivare. Statistiken används bland annat för prognoser, analyser och beslutsfattande.",
+              "responsible_agency_text": null,
+              "tags_text": "Anställda, Arbetade timmar, Arbetsmarknad, Lönesummor, Personalomsättning, Sjukfrånvaro"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik över sjuklöner (KSju)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar hur sjukfrånvaron under sjuklöneperioden ser ut. Sjuklöneperioden är den tid då arbetsgivaren betalar sjuklön till en arbetstagare, som på grund av sjukdom, inte är på arbetet. Du får en bild av hur den totala utvecklingen av sjukfrånvaron ser ut.",
+              "responsible_agency_text": null,
+              "tags_text": "Sjukfrånvaro, Sjuklön"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik över vakanser (KV)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-vakanser-kv/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-vakanser-kv/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken baseras på en urvalsundersökning till företag och ger information om efterfrågan på outnyttjad arbetskraft och lediga jobb fördelat på näringsgren, region och storleksklass. Variablerna som redovisas är antalet lediga jobb, antalet vakanser, rekryteringsgrad och vakansgrad.",
+              "responsible_agency_text": null,
+              "tags_text": "Anställda, Arbetskraft, Arbetslöshet, Konjunktur, Sysselsatta"
+            },
+            {
+              "link": {
+                "text": "Kortperiodisk sysselsättningsstatistik (KS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar hur antalet anställda på hela arbetsmarknaden förändras. Statistiken redovisas på detaljerad näringsgrensnivå och efter län. Information finns även om personalomsättning och sjukfrånvaro.",
+              "responsible_agency_text": null,
+              "tags_text": "Anställda, Arbetskraft, Personalomsättning, Sjukfrånvaro, Sysselsatta"
+            },
+            {
+              "link": {
+                "text": "Lediga jobb och rekryteringsbehov",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Lediga jobb och rekryteringsbehov (LOR) beskriver efterfrågan på arbetskraft på den svenska arbetsmarknaden. Statistiken visar antalet lediga jobb i ekonomin, arbetsgivarnas erfarenheter av att rekrytera senaste halvåret och yrken där arbetsgivarna saknar arbetskraft.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbetsmarknad, Konjunktur, Yrke"
+            },
+            {
+              "link": {
+                "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar utvecklingen av lönesummor, arbetsgivaravgifter och preliminär A-skatt. Varje kvartal publiceras statistiken som bygger på arbetsgivardeklarationer från företag. Statistiken finns bland annat per sektor och näringsgren.",
+              "responsible_agency_text": null,
+              "tags_text": "Lön, Lönesummor, Skatt"
+            }
+          ]
+        },
+        {
+          "label": "Funktionsnedsatta",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning – äldre statistik",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Undersökningen gjordes på uppdrag av arbetsförmedlingen och visar situationen på arbetsmarknaden för personer med funktionsnedsättning t.o.m. år 2021.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbete, Funktionsnedsättning"
+            }
+          ]
+        },
+        {
+          "label": "Löner och arbetskostnader",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Arbetskostnadsindex för arbetare och tjänstemän inom privat sektor (AKI)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "AKI mäter och beskriver utvecklingen av den totala arbetskostnaden för arbetare och tjänstemän för olika branscher inom privat sektor månadsvis. Arbetskostnaden består av lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. Indextalen används för att göra prisjusteringar enligt avtal mellan företag, för att bedöma det nationella ekonomiska läget och för indexreglering av avtal.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbetskostnad, Index"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik, löner för kommuner (KLK)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-kommuner-klk/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-kommuner-klk/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i kommuner. Motsvarande lönestatistik finns även för privat och statlig sektor samt regioner.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Konjunktur, Lön"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik, löner för privat sektor (KLP)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i privat sektor. Motsvarande lönestatistik finns även för statlig sektor, kommuner och regioner.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Arbetade timmar, Konjunktur, Lön"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik, löner för regioner (KLR)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-regioner-klr/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-regioner-klr/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i regioner. Motsvarande lönestatistik finns även för privat och statlig sektor samt kommuner.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Konjunktur, Lön"
+            },
+            {
+              "link": {
+                "text": "Konjunkturstatistik, löner för statlig sektor (KLS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i statlig sektor. Motsvarande lönestatistik finns även för privat sektor, kommuner och regioner.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Konjunktur, Lön"
+            },
+            {
+              "link": {
+                "text": "Labour cost index (LCI)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "LCI visar kvartalsvis utvecklingen av den totala arbetskraftskostnaden per timme uppdelat på arbetare och tjänstemän, det vill säga lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. I LCI ingår enbart privat sektor. LCI publiceras även på Eurostats webbplats där både privat och offentlig sektor ingår utan uppdelning mellan arbetare och tjänstemän, där ingår även bonus. Se länk under fördjupad information.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Arbetskostnad, Index"
+            },
+            {
+              "link": {
+                "text": "Labour Cost Survey (LCS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "LCS mäter arbetskraftskostnad per arbetad timme och hur stor del av de totala arbetskraftskostnaderna som består av direkta kostnader (som lön och bonus) respektive indirekta kostnader (som sociala avgifter). Undersökningen genomförs inom EU vart fjärde år.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Arbetskostnad"
+            },
+            {
+              "link": {
+                "text": "Lönestrukturstatistik, hela ekonomin",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Lönestrukturstatistiken för hela ekonomin har till syfte att årligen ge en översiktlig och jämförbar lönestatistik för hela arbetsmarknaden.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Lön, Yrke"
+            },
+            {
+              "link": {
+                "text": "Lönestrukturstatistik, kommuner",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning för anställda inom kommuner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för statlig och privat sektor samt regioner.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Lön, Yrke"
+            },
+            {
+              "link": {
+                "text": "Lönestrukturstatistik, privat sektor (SLP)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar lönenivå, lönestruktur och löneutveckling inom privat sektor. Statistiken redovisas per kön, ålder, region, näringsgren, yrke och utbildning uppdelad på arbetare respektive tjänstemän. Motsvarande lönestatistik redovisas även för offentlig sektor.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Lön, Yrke"
+            },
+            {
+              "link": {
+                "text": "Lönestrukturstatistik, regioner",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom regioner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik finns även för kommuner, statlig samt privat sektor.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Lön, Yrke"
+            },
+            {
+              "link": {
+                "text": "Lönestrukturstatistik, statlig sektor",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom statlig sektor per kön, ålder, region, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för landstingskommunal, primärkommunal samt privat sektor.",
+              "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+              "tags_text": "Lön, Yrke"
+            }
+          ]
+        },
+        {
+          "label": "Utbud av arbetskraft",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Arbetskraftsundersökningarna (AKU)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbete, Arbetskraft, Arbetslöshet, Arbetsmarknad, Sysselsatta, Ungdomsarbetslöshet"
+            },
+            {
+              "link": {
+                "text": "Arbetskraftsundersökningarna, tidigare definitioner",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "I januari 2021 anpassades AKU till EU:s förordning (2019/1700) för den sociala statistiken, vilket har orsakat tidsseriebrott. Arbetskraftsundersökningarna, tidigare definitioner avser beräkningar före anpassningen.",
+              "responsible_agency_text": null,
+              "tags_text": null
+            },
+            {
+              "link": {
+                "text": "Befolkningens arbetsmarknadsstatus (BAS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "BAS, Befolkningens arbetsmarknadsstatus är en statistikprodukt som med hjälp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet är att beskriva arbetsmarknadsläget samt utvecklingen över tid. Statistiken redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen i åldern 15–74 år.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbetslöshet, Arbetsmarknad, Pendling, Sysselsatta, Företagande, Regionalt"
+            },
+            {
+              "link": {
+                "text": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar sysselsättning, pendling och personal- och näringsstruktur. Den visar också händelser och flöden på arbetsmarknaden. Statistiken är totalräknad och kan brytas ner på låg regional nivå eller utifrån de anställdas egenskaper; till exempel kön, utbildning och ålder.",
+              "responsible_agency_text": null,
+              "tags_text": "Anställda, Arbete, Företag, Pendling, Sysselsatta"
+            },
+            {
+              "link": {
+                "text": "Registerbaserad lönesummestatistik (LSUM)",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-lonesummestatistik-lsum/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-lonesummestatistik-lsum/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar lönesummor, preliminär A-skatt och vilka sociala ersättningar som betalas ut. Uppgifterna som baseras på arbetsgivardeklarationer (AGI) och  kontrolluppgifter (KU) kan tas fram efter region, sektor och näringsgren.",
+              "responsible_agency_text": null,
+              "tags_text": "Lön, Lönesummor, Skatt"
+            },
+            {
+              "link": {
+                "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning2/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning2/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken ger en aktuell bild av arbetsmarknadssituationen i Sverige för personer med funktionsnedsättning.",
+              "responsible_agency_text": null,
+              "tags_text": null
+            },
+            {
+              "link": {
+                "text": "Yrkesregistret med yrkesstatistik",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Statistiken visar hur många som arbetar inom olika typer av yrken. Du kan också se hur yrkesutvecklingen inom olika branscher och samhällssektorer ser ut.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbete, Yrke"
+            }
+          ]
+        },
+        {
+          "label": "Övrigt",
+          "source_anchor": null,
+          "source_url": null,
+          "products": [
+            {
+              "link": {
+                "text": "Fokus på näringsliv och arbetsmarknad",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Publikationen innehåller olika kommenterande eller analyserande artiklar med inriktning mot näringsliv och arbetsmarknad.",
+              "responsible_agency_text": null,
+              "tags_text": "Arbetsmarknad, Näringsliv"
+            },
+            {
+              "link": {
+                "text": "Regionala matchningsindikatorer",
+                "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/regionala-matchningsindikatorer/",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/regionala-matchningsindikatorer/"
+              },
+              "product_code": null,
+              "product_code_source": "unknown",
+              "summary": "Regionala matchningsindikatorer är en databas som innehåller statistik om kompetensförsörjning på regional nivå.",
+              "responsible_agency_text": null,
+              "tags_text": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "BL",
+      "index_link": {
+        "text": "BL Befolkning och levnadsförhållanden",
+        "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "BO",
+      "index_link": {
+        "text": "BO Boende, bebyggelse och mark",
+        "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "EN",
+      "index_link": {
+        "text": "EN Energi",
+        "href": "/hitta-statistik/statistik-efter-amne/energi/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "FD",
+      "index_link": {
+        "text": "FD Forskning och det digitala samhället",
+        "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "FM",
+      "index_link": {
+        "text": "FM Finansmarknad",
+        "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "FH",
+      "index_link": {
+        "text": "FH Folkhälsa",
+        "href": "/hitta-statistik/statistik-efter-amne/folkhalsa/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "HE",
+      "index_link": {
+        "text": "HE Hushållens ekonomi",
+        "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "HS",
+      "index_link": {
+        "text": "HS Hälso- och sjukvård",
+        "href": "/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "JO",
+      "index_link": {
+        "text": "JO Jord- och skogsbruk, fiske",
+        "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "KU",
+      "index_link": {
+        "text": "KU Kultur, bibliotek och fritid",
+        "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "ME",
+      "index_link": {
+        "text": "ME Demokrati",
+        "href": "/hitta-statistik/statistik-efter-amne/demokrati/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "MI",
+      "index_link": {
+        "text": "MI Miljö",
+        "href": "/hitta-statistik/statistik-efter-amne/miljo/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "NR",
+      "index_link": {
+        "text": "NR Nationalräkenskaper",
+        "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "NV",
+      "index_link": {
+        "text": "NV Näringsverksamhet och utrikeshandel",
+        "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "OE",
+      "index_link": {
+        "text": "OE Offentlig ekonomi",
+        "href": "/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "PR",
+      "index_link": {
+        "text": "PR Priser och ekonomiska tendenser",
+        "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "RV",
+      "index_link": {
+        "text": "RV Rättsväsende",
+        "href": "/hitta-statistik/statistik-efter-amne/rattsvasende/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "SF",
+      "index_link": {
+        "text": "SF Socialförsäkring",
+        "href": "/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "SO",
+      "index_link": {
+        "text": "SO Socialtjänst",
+        "href": "/hitta-statistik/statistik-efter-amne/socialtjanst/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "TK",
+      "index_link": {
+        "text": "TK Transporter och kommunikationer",
+        "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    },
+    {
+      "code": "UF",
+      "index_link": {
+        "text": "UF Utbildning samt forskning inom högskolan",
+        "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/",
+        "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/"
+      },
+      "provenance": null,
+      "title": null,
+      "areas": []
+    }
+  ],
+  "traversal_complete": false,
+  "unfetched_subject_urls": [
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/",
+    "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/"
+  ]
+}

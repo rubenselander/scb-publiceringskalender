@@ -1,0 +1,133 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI1101",
+    "response_url": "https://www.scb.se/MI1101",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/sotvatten--miljotillstand/",
+    "fetched_at": "2026-10-05T13:12:45.055921Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0ed7e84b6868d474a931d86602831e2972d916e47883c21e20f29500610c5f95",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "MI1101",
+  "product_code_source": "calendar",
+  "title": "Sötvatten – miljötillstånd",
+  "short_address": "https://www.scb.se/mi1101",
+  "summary": "Statistiken visar miljösituationen i relativt opåverkade vatten, baserat på tidsseriedata av växtplankton i sjöar, fisk, fosfor och kväve i sjöar och vattendrag samt försurningspåverkan, alkalinitet, klorid och nitrat i grundvatten.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Havs- och vattenmyndigheten",
+    "link": {
+      "text": "Havs- och vattenmyndigheten",
+      "href": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html",
+      "url": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Sjöar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
+    },
+    {
+      "text": "Vatten",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Sötvatten – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar miljösituationen i relativt opåverkade vatten, baserat på tidsseriedata av växtplankton i sjöar, fisk, fosfor och kväve i sjöar och vattendrag samt försurningspåverkan, alkalinitet, klorid och nitrat i grundvatten."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sötvatten – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Havs- och vattenmyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Havs- och vattenmyndigheten",
+          "href": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html",
+          "url": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sötvatten – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Sjöar",
+        "Vatten"
+      ],
+      "links": [
+        {
+          "text": "Sjöar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
+        },
+        {
+          "text": "Vatten",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Sötvatten – miljötillstånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/mi1101"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

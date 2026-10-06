@@ -1,0 +1,685 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI0108",
+    "response_url": "https://www.scb.se/MI0108",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-av-luftfororeningar/",
+    "fetched_at": "2026-10-05T13:12:25.996971Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "9f4b2d5f6972c29579c7fc32bbd0415027d2728b8c7def746617788c3fb5bc1f",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "MI0108",
+  "product_code_source": "calendar",
+  "title": "Utsläpp av luftföroreningar",
+  "short_address": "https://www.scb.se/mi0108",
+  "summary": "Naturvårdsverket sammanställer och rapporterar data om utsläppen av luftföroreningar i Sverige varje år.\nDenna statistik består av utsläpp till luft av: ammoniak, bly, hexaklorbensen, kadmium, kolmonoxid, koppar, kvicksilver, kväveoxider, polycykliska aromatiska kolväten (PAH), partiklar (PM10 och PM2,5), sot, svaveldioxid och zink. Statistiken publiceras på Naturvårdsverkets webbplats.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-12-15",
+  "next_publication_date": "2026-12-15",
+  "responsible_agency": {
+    "label": "Naturvårdsverket",
+    "link": {
+      "text": "Naturvårdsverket",
+      "href": "https://www.naturvardsverket.se/data-och-statistik/",
+      "url": "https://www.naturvardsverket.se/data-och-statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Utsläpp",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
+    },
+    {
+      "text": "Luftföroreningar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-15",
+        "Naturvårdsverket sammanställer och rapporterar data om utsläppen av luftföroreningar i Sverige varje år.\nDenna statistik består av utsläpp till luft av: ammoniak, bly, hexaklorbensen, kadmium, kolmonoxid, koppar, kvicksilver, kväveoxider, polycykliska aromatiska kolväten (PAH), partiklar (PM10 och PM2,5), sot, svaveldioxid och zink. Statistiken publiceras på Naturvårdsverkets webbplats."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0108&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0108&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Ordinarie statistik publiceras årligen i november/december. Vid varje publicering uppdateras även tidsserien från 1990 till och med senaste året för att säkerställa att statistiken är jämförbar mellan åren."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Naturvårdsverket"
+      ],
+      "links": [
+        {
+          "text": "Naturvårdsverket",
+          "href": "https://www.naturvardsverket.se/data-och-statistik/",
+          "url": "https://www.naturvardsverket.se/data-och-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Totala utsläpp av luftföroreningar efter sektor.  År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Totala utsläpp av luftföroreningar efter sektor.  År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TotaltUtslapp",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TotaltUtslapp"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från industrin efter bransch.  År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från industrin efter bransch.  År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Industri",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Industri"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från jordbruk efter delsektor. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från jordbruk efter delsektor. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Jordbruk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Jordbruk"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från lösningsmedel och övrig produktanvändning efter område. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från lösningsmedel och övrig produktanvändning efter område. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Prodanv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108Prodanv"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från uppvärmning av bostäder och lokaler efter delsektor. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från uppvärmning av bostäder och lokaler efter delsektor. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108UppvBoLok",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108UppvBoLok"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp till luft av ammoniak (ton) från jordbruk efter produktionsområde, djurslag, utsläppskälla, gödseltyp och hanteringssteg. År 2005 - 2022",
+        "2023-12-12"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp till luft av ammoniak (ton) från jordbruk efter produktionsområde, djurslag, utsläppskälla, gödseltyp och hanteringssteg. År 2005 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtslappAmmoniakAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtslappAmmoniakAr"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från arbetsmaskiner efter typ av luftförorening och delsektor. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från arbetsmaskiner efter typ av luftförorening och delsektor. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108ArbMaskN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108ArbMaskN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från utrikes transporter efter typ av luftförorening och verksamheter. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från utrikes transporter efter typ av luftförorening och verksamheter. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108UtrikesTransNN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108UtrikesTransNN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från avfall efter typ av luftförorening och delsektor. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från avfall efter typ av luftförorening och delsektor. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108AvfallN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108AvfallN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från el och fjärrvärme efter typ av luftförorening och bränsletyp. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från el och fjärrvärme efter typ av luftförorening och bränsletyp. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108EloFjarrN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108EloFjarrN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp av luftföroreningar från inrikes transporter efter typ av luftförorening, bränsle- och transportslag. År 1990 - 2024",
+        "2025-12-11"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp av luftföroreningar från inrikes transporter efter typ av luftförorening, bränsle- och transportslag. År 1990 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108InTranspN2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0108InTranspN2"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "1990–2024 (pdf)",
+        "1990-2023 (pdf)",
+        "1990–2022 (pdf)",
+        "1990–2021 (pdf)",
+        "1990–2020 (pdf)",
+        "1990–2019 (pdf)",
+        "1990–2018 (pdf)",
+        "1990-2017 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "1990–2024 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2025_ag_20251210.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2025_ag_20251210.pdf"
+        },
+        {
+          "text": "1990-2023 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2024.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2024.pdf"
+        },
+        {
+          "text": "1990–2022 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2023_231212.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2023_231212.pdf"
+        },
+        {
+          "text": "1990–2021 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2022_221129.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2022_221129.pdf"
+        },
+        {
+          "text": "1990–2020 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2020_ve_20211209.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2020_ve_20211209.pdf"
+        },
+        {
+          "text": "1990–2019 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2019_ag_201210.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2019_ag_201210.pdf"
+        },
+        {
+          "text": "1990–2018 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2018_ve_191218.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2018_ve_191218.pdf"
+        },
+        {
+          "text": "1990-2017 (pdf)",
+          "href": "/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2017_ag_181217.pdf",
+          "url": "https://www.scb.se/contentassets/5d9ebb835a76400e92e5c74325e1a945/mi0108_kd_2017_ag_181217.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=MI0108",
+          "url": "https://metadata.scb.se/?produkt=MI0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Luftföroreningar och dess effekter (Naturvårdsverket)",
+        "Utsläpp av luftföroreningar (Naturvårdsverket)",
+        "Sveriges rapporteringar av luftföroreningar till FN:s Luftvårdskonvention (CEIP:s webbplats)",
+        "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)"
+      ],
+      "links": [
+        {
+          "text": "Luftföroreningar och dess effekter (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/",
+          "url": "https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/"
+        },
+        {
+          "text": "Utsläpp av luftföroreningar (Naturvårdsverket)",
+          "href": "https://www.naturvardsverket.se/amnesomraden/luft/statistik--utslapp-och-halter/utslapp-av-luftfororeningar/?q=Luftf%C3%B6roreningar",
+          "url": "https://www.naturvardsverket.se/amnesomraden/luft/statistik--utslapp-och-halter/utslapp-av-luftfororeningar/?q=Luftf%C3%B6roreningar"
+        },
+        {
+          "text": "Sveriges rapporteringar av luftföroreningar till FN:s Luftvårdskonvention (CEIP:s webbplats)",
+          "href": "https://www.ceip.at/status-of-reporting-and-review-results",
+          "url": "https://www.ceip.at/status-of-reporting-and-review-results"
+        },
+        {
+          "text": "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)",
+          "href": "http://www.smed.se/",
+          "url": "http://www.smed.se/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Peter Guban",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-698 10 00",
+        "E-post",
+        "klimatluftrapportering@naturvardsverket.se"
+      ],
+      "links": [
+        {
+          "text": "010-698 10 00",
+          "href": "tel:010-698 10 00",
+          "url": "tel:010-698 10 00"
+        },
+        {
+          "text": "klimatluftrapportering@naturvardsverket.se",
+          "href": "mailto:klimatluftrapportering@naturvardsverket.se",
+          "url": "mailto:klimatluftrapportering@naturvardsverket.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Utsläpp",
+        "Luftföroreningar"
+      ],
+      "links": [
+        {
+          "text": "Utsläpp",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
+        },
+        {
+          "text": "Luftföroreningar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utsläpp av luftföroreningar",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/mi0108"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

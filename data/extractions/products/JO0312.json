@@ -1,0 +1,172 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/JO0312",
+    "response_url": "https://www.scb.se/JO0312",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/bruttoavverkning/",
+    "fetched_at": "2026-10-05T13:11:37.494142Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "d965efb656f24a84d615137eefb09f3f9acc2883cf13f9d6877afde444a3a942",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "JO0312",
+  "product_code_source": "calendar",
+  "title": "Avverkning",
+  "short_address": "https://www.scb.se/jo0312",
+  "summary": "Statistiken visar avverkad volym och areal.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Skogsstyrelsen",
+    "link": {
+      "text": "Skogsstyrelsen",
+      "href": "http://www.skogsstyrelsen.se/statistik",
+      "url": "http://www.skogsstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Skog",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
+    },
+    {
+      "text": "Skogsmark",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Avverkning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar avverkad volym och areal."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avverkning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Skogsstyrelsen"
+      ],
+      "links": [
+        {
+          "text": "Skogsstyrelsen",
+          "href": "http://www.skogsstyrelsen.se/statistik",
+          "url": "http://www.skogsstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avverkning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Skogsstyrelsen",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-172 10 00",
+        "E-post",
+        "statistik@skogsstyrelsen.se"
+      ],
+      "links": [
+        {
+          "text": "010-172 10 00",
+          "href": "tel:010-172 10 00",
+          "url": "tel:010-172 10 00"
+        },
+        {
+          "text": "statistik@skogsstyrelsen.se",
+          "href": "mailto:statistik@skogsstyrelsen.se",
+          "url": "mailto:statistik@skogsstyrelsen.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avverkning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Skog",
+        "Skogsmark"
+      ],
+      "links": [
+        {
+          "text": "Skog",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
+        },
+        {
+          "text": "Skogsmark",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avverkning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/jo0312"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

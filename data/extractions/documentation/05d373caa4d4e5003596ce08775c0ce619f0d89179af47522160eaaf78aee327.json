@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/RV0401",
+    "response_url": "https://www.scb.se/RV0401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard/",
+    "fetched_at": "2026-10-05T13:14:00.136734Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "f8caa883d81bb88a1ed0417c2a7ca32db628fb9d99e68f90de76cd4dea72335f",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Kriminalvård",
+  "product_code": "RV0401",
+  "has_documentation_section": false,
+  "groups": []
+}

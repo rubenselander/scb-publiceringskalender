@@ -1,0 +1,195 @@
+{
+  "code": "FM",
+  "index_link": {
+    "text": "FM Finansmarknad",
+    "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/",
+    "fetched_at": "2026-10-05T13:15:55.946067Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "a0b1cec6b6deab317c934d3dd4b15401b4843e8db5c443ec0f24de3c89e06195",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Finansmarknad",
+  "areas": [
+    {
+      "label": "Aktieägarstatistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Aktieägarstatistik",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/aktieagarstatistik/aktieagarstatistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/aktieagarstatistik/aktieagarstatistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar ägandet av aktier fördelat på samhällssektorer, utländska ägare, uppgifter om värdepapperskonton och antal noterade bolag fördelade på marknadsplats. För hushållen visas också andelen aktieägare i befolkningen, fördelat på kön, ålder, taxerad inkomst och genomsnittliga portföljstorlekar.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Aktier, Hushåll"
+        }
+      ]
+    },
+    {
+      "label": "Emitterade värdepapper",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Emitterade värdepapper",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Sveriges riksbank",
+          "tags_text": "Räntor"
+        }
+      ]
+    },
+    {
+      "label": "Finansiella företag utom försäkring",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Banker och kreditmarknadsföretag, tillgångar och skulder",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/banker-och-kreditmarknadsforetag-tillgangar-och-skulder/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/banker-och-kreditmarknadsforetag-tillgangar-och-skulder/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken är en snabbstatistik och visar till exempel in- och utlåning till och från olika sektorer. Statistiken visar de svenska monetära finansinstitutens, MFI (inklusive utländska filialer) tillgångar och skulder fördelade på olika motparter och typer av finansobjekt.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Lån, Tillgångar och skulder"
+        },
+        {
+          "link": {
+            "text": "Finansiella företag, årsbokslut",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/finansiella-foretag-arsbokslut/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/finansiella-foretag-arsbokslut/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Bokslutsstatistiken visar bland annat lönsamhet och finansiell ställning hos banker, kreditmarknadsföretag och värdepappersbolag. Försäkringsföretag ingår ej.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Balansräkning, Banker, Företagsekonomi, Resultaträkning"
+        },
+        {
+          "link": {
+            "text": "Investeringsfonder, tillgångar och skulder",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken över investeringsfonder visar fondförmögenhet och fondsparande samt placeringar för fonder under Finansinspektionens tillsyn.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Aktier, Hushåll, Sparande, Tillgångar och skulder"
+        }
+      ]
+    },
+    {
+      "label": "Finansmarknad allmän statistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Värdepappersinnehav (VINN)",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/amnesovergripande-statistik/vardepappersinnehav-vinn/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/amnesovergripande-statistik/vardepappersinnehav-vinn/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Värdepappersinnehav är ett mikrodataregister som innehåller uppgifter om svenska placerares innehav av värdepapper. Det främsta syftet med registret är att tillgodose behov inom det finansiella stabilitetsarbetet och i den penningpolitiska analysen.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Sveriges riksbank",
+          "tags_text": null
+        }
+      ]
+    },
+    {
+      "label": "Finansmarknadsstatistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Finansmarknadsstatistik",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar tillgångar och skulder för monetära finansinstitut (MFI, ett samlingsnamn för bland annat banker, bostadsinstitut och finansbolag),  utvecklingen av penningmängd, ut- och inlåning till hushåll och företag, MFI:s  fordringar och skulder mot utlandet och ut- och inlåningsräntor.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Sveriges riksbank",
+          "tags_text": "Ekonomi, Hushåll, Lån, Räntor, Tillgångar och skulder"
+        }
+      ]
+    },
+    {
+      "label": "Försäkring",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Försäkringsföretagens kapitalplaceringar",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-kapitalplaceringar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-kapitalplaceringar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hur de större försäkrings- och tjänstepensionsföretagen som står under Finansinspektionens tillsyn  förvaltar sina tillgångar, vilka premier som betalas in respektive vilka belopp som betalas ut, hur bolagens finansiella skulder fördelas med mera. Statistiken innehåller även information om premieinkomster och försäkringsersättningar.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Aktier, Tillgångar och skulder"
+        },
+        {
+          "link": {
+            "text": "Försäkringsföretagens årsredogörelse",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-arsredogorelse/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-arsredogorelse/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar resultat- och balansräkning per år samt resultatanalys, det vill säga resultatet uppdelat efter försäkringsgren, för de försäkringsföretag och tjänstepensionsföretag som står under Finansinspektionens tillsyn.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Finansinspektionen",
+          "tags_text": "Sparande, Tillgångar och skulder"
+        }
+      ]
+    },
+    {
+      "label": "Krediter till företag",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Kreditdatabas (KRITA)",
+            "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken innehåller uppgifter om krediter till svenska icke-finansiella företag från monetära finansinstitut (MFI) verksamma i Sverige. Uppgifterna omfattar utestående lånebelopp, räntesats, antal företag som är låntagare samt årlig tillväxttakt för utestående lånebelopp.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Sveriges riksbank",
+          "tags_text": null
+        }
+      ]
+    }
+  ]
+}

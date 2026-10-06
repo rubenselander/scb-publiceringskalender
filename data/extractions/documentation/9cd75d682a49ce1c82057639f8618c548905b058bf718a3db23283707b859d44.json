@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/SF0206",
+    "response_url": "https://www.scb.se/SF0206",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/aktivitetsersattning-sjukersattning-och-bostadstillagg/",
+    "fetched_at": "2026-10-05T13:14:15.238272Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "9f8e81ea3f275437eb35f9c6dd4ad32b8a3ccd50cca7dc0fd338852b7d49dcfe",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Aktivitetsersättning, sjukersättning och bostadstillägg",
+  "product_code": "SF0206",
+  "has_documentation_section": false,
+  "groups": []
+}

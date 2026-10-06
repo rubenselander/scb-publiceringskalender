@@ -1,0 +1,786 @@
+
+<div class="container-fluid">
+    <div id="_MyndResult">
+                <table id="ResultTable" class="table table-striped table-bordered dt-responsive display compact" cellspacing="0" style=" width: 100%">
+                    <thead>
+                        <tr id="kolumnUtrRepr">
+                            <th>Land</th>
+                            <th style="display:none;">LopNr</th>
+                            <th>Namn</th>
+                            <th>Ambassadör/Generalkonsul</th>
+                            <th>WebbAdress</th>
+                        </tr>
+                        <tr id="kolumnSokInputAEDS">
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 78px;" type="text" placeholder="Land"></th>  
+                            <th style="width: 92px;padding-right: 4px; display:none;" class="input-filter"><input style="width: 110px;" type="text" placeholder="LopNr"></th>
+                            <th style="width: 92px;padding-right: 4px;" class="input-filter"><input style="width: 250px;" type="text" placeholder="Namn"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 200px;" type="text" placeholder="Ambassadör/Generalkonsul"></th>                           
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 100px;" type="text" placeholder="WebbAdress"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td></td>
+                                <td style="display:none;">201</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Afghanistan</td>
+                                <td style="display:none;">210</td>
+                                <td>Sveriges ambassad Kabul</td>
+                                <td>Torkel Stiernl&#246;f</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/afghanistan-kabul</td>
+                            </tr>
+                            <tr>
+                                <td>Albanien</td>
+                                <td style="display:none;">2</td>
+                                <td>Sveriges ambassad Tirana</td>
+                                <td>Elsa H&#229;stad</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/albanien-tirana</td>
+                            </tr>
+                            <tr>
+                                <td>Algeriet</td>
+                                <td style="display:none;">3</td>
+                                <td>Sveriges ambassad Alger</td>
+                                <td>Bj&#246;rn H&#228;ggmark</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/algeriet-alger </td>
+                            </tr>
+                            <tr>
+                                <td>Angola</td>
+                                <td style="display:none;">6</td>
+                                <td>Sveriges ambassad Luanda</td>
+                                <td>Ewa Polano</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/angola-luanda</td>
+                            </tr>
+                            <tr>
+                                <td>Argentina</td>
+                                <td style="display:none;">8</td>
+                                <td>Sveriges ambassad Buenos Aires</td>
+                                <td>Anders Carlsson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/argentina-buenos-aires</td>
+                            </tr>
+                            <tr>
+                                <td>Armenien</td>
+                                <td style="display:none;">9</td>
+                                <td>Sveriges ambassad Jerevan</td>
+                                <td>Patrik Svensson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/armenien-jerevan</td>
+                            </tr>
+                            <tr>
+                                <td>Australien</td>
+                                <td style="display:none;">11</td>
+                                <td>Sveriges ambassad Canberra</td>
+                                <td>Henrik Cederin</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra</td>
+                            </tr>
+                            <tr>
+                                <td>Azerbajdzjan</td>
+                                <td style="display:none;">12</td>
+                                <td>Sveriges Ambassad Baku</td>
+                                <td>Christian Kamill</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/azerbajdzjan-baku</td>
+                            </tr>
+                            <tr>
+                                <td>Bangladesh</td>
+                                <td style="display:none;">15</td>
+                                <td>Sveriges ambassad Dhaka</td>
+                                <td>Alexandra Berg von Linde</td>
+                                <td>www.swedenabroad.se/en/embassies/bangladesh-dhaka</td>
+                            </tr>
+                            <tr>
+                                <td>Belarus</td>
+                                <td style="display:none;">217</td>
+                                <td>Sveriges ambassad Minsk</td>
+                                <td>Christina Johannesson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/belarus-minsk</td>
+                            </tr>
+                            <tr>
+                                <td>Belgien</td>
+                                <td style="display:none;">197</td>
+                                <td>Sveriges EU-representation Bryssel</td>
+                                <td>Lars Danielsson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/europeiska-unionen</td>
+                            </tr>
+                            <tr>
+                                <td>Belgien</td>
+                                <td style="display:none;">198</td>
+                                <td>Sveriges generalkonsulat Bryssel</td>
+                                <td>&#197;sa Zinfandel</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/belgien-bryssel</td>
+                            </tr>
+                            <tr>
+                                <td>Bolivia</td>
+                                <td style="display:none;">21</td>
+                                <td>Sveriges ambassad La Paz</td>
+                                <td>Nicolas Weeks</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/bolivia-la-paz</td>
+                            </tr>
+                            <tr>
+                                <td>Bosnien-Hercegovina</td>
+                                <td style="display:none;">22</td>
+                                <td>Sveriges ambassad Sarajevo</td>
+                                <td>Johanna Str&#246;mquist</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/bosnien-och-hercegovina-sarajevo</td>
+                            </tr>
+                            <tr>
+                                <td>Brasilien</td>
+                                <td style="display:none;">24</td>
+                                <td>Sveriges ambassad Brasilia</td>
+                                <td>Johanna Brismar Skoog </td>
+                                <td>www.swedenabroad.com (www.suecia.org.br)</td>
+                            </tr>
+                            <tr>
+                                <td>Burkina Faso</td>
+                                <td style="display:none;">27</td>
+                                <td>Sveriges ambassad Ouagadougou</td>
+                                <td>Maria Sargren</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/burkina-faso-ouagadougou/</td>
+                            </tr>
+                            <tr>
+                                <td>Chile</td>
+                                <td style="display:none;">30</td>
+                                <td>Svergies ambassad Santigao</td>
+                                <td>Oscar Stenstr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/chile-santiago-de-chile</td>
+                            </tr>
+                            <tr>
+                                <td>Colombia</td>
+                                <td style="display:none;">31</td>
+                                <td>Sveriges ambassad Bogot&#225;</td>
+                                <td>Helena Storm</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/colombia-bogot&#225;</td>
+                            </tr>
+                            <tr>
+                                <td>Cypern</td>
+                                <td style="display:none;">33</td>
+                                <td>Sveriges ambassad Nicosia</td>
+                                <td>Anders Hagelberg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/cypern-nicosia</td>
+                            </tr>
+                            <tr>
+                                <td>D.R. Kongo</td>
+                                <td style="display:none;">218</td>
+                                <td>Sveriges ambassad Kinshasa</td>
+                                <td>Henric R&#229;sbrant</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/d.r.-kongo-kinshasa</td>
+                            </tr>
+                            <tr>
+                                <td>Danmark</td>
+                                <td style="display:none;">34</td>
+                                <td>Sveriges ambassad K&#246;penhamn</td>
+                                <td>Charlotte Wrangber</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/danmark-k&#246;penhamn</td>
+                            </tr>
+                            <tr>
+                                <td>Egypten</td>
+                                <td style="display:none;">39</td>
+                                <td>Sveriges ambassad Kairo</td>
+                                <td>H&#229;kan Emsg&#229;rd</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/egypten-kairo</td>
+                            </tr>
+                            <tr>
+                                <td>Estland</td>
+                                <td style="display:none;">44</td>
+                                <td>Sveriges ambassad Tallinn</td>
+                                <td>Ingrid Tersman</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/estland-tallinn</td>
+                            </tr>
+                            <tr>
+                                <td>Etiopien</td>
+                                <td style="display:none;">45</td>
+                                <td>Sveriges ambassad Addis Abeba</td>
+                                <td>Hans Lundquist</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/etiopien-addis-abeba</td>
+                            </tr>
+                            <tr>
+                                <td>Filippinerna</td>
+                                <td style="display:none;">216</td>
+                                <td>Sveriges ambassad Manila</td>
+                                <td>Annika Thunborg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/filippinerna-manila</td>
+                            </tr>
+                            <tr>
+                                <td>Finland</td>
+                                <td style="display:none;">199</td>
+                                <td>Sveriges generalkonsulat Mariehamn</td>
+                                <td>Claes Hammar</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/aland-mariehamn</td>
+                            </tr>
+                            <tr>
+                                <td>Finland</td>
+                                <td style="display:none;">48</td>
+                                <td>Sveriges ambassad Helsingfors</td>
+                                <td>Nicola Clase</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/finland-helsingfors</td>
+                            </tr>
+                            <tr>
+                                <td>Frankrike</td>
+                                <td style="display:none;">49</td>
+                                <td>Sveriges ambassad Paris</td>
+                                <td>H&#229;kan &#197;kesson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/frankrike-paris</td>
+                            </tr>
+                            <tr>
+                                <td>Frankrike</td>
+                                <td style="display:none;">205</td>
+                                <td>Sveriges delegation Paris, OECD</td>
+                                <td>Anna Brandt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal</td>
+                            </tr>
+                            <tr>
+                                <td>Frankrike</td>
+                                <td style="display:none;">206</td>
+                                <td>Sveriges representation Europar&#229;det Strasbourg</td>
+                                <td>M&#229;rten Ehnberg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/europar&#229;det-strasbourg</td>
+                            </tr>
+                            <tr>
+                                <td>Frankrike</td>
+                                <td style="display:none;">219</td>
+                                <td>Sveriges delegation UNESCO Paris</td>
+                                <td>Anna Brandt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal</td>
+                            </tr>
+                            <tr>
+                                <td>F&#246;renade arabemiraten</td>
+                                <td style="display:none;">50</td>
+                                <td>Sveriges ambassad Abu Dhabi</td>
+                                <td>Liselott Andersson </td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/f&#246;renade-arabemiraten-abu-dhabi</td>
+                            </tr>
+                            <tr>
+                                <td>Georgien</td>
+                                <td style="display:none;">53</td>
+                                <td>Sveriges ambassad Tbilisi</td>
+                                <td>Ulrik Tidestr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/georgien-tbilisi</td>
+                            </tr>
+                            <tr>
+                                <td>Grekland</td>
+                                <td style="display:none;">56</td>
+                                <td>Sveriges ambassad Athen</td>
+                                <td>Johan Borgstam</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/grekland-athen</td>
+                            </tr>
+                            <tr>
+                                <td>Guatemala</td>
+                                <td style="display:none;">58</td>
+                                <td>Sveriges ambassad Guatemala</td>
+                                <td>Hans Magnusson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/guatemala-guatemala</td>
+                            </tr>
+                            <tr>
+                                <td>Indien</td>
+                                <td style="display:none;">65</td>
+                                <td>Sveriges ambassad New Delhi</td>
+                                <td>Klas Molin</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/indien-new-delhi</td>
+                            </tr>
+                            <tr>
+                                <td>Indien</td>
+                                <td style="display:none;">220</td>
+                                <td>Svergies generalkonsulat Mumbai</td>
+                                <td>Anna Lekvall</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/indien-mumbai</td>
+                            </tr>
+                            <tr>
+                                <td>Indonesien</td>
+                                <td style="display:none;">66</td>
+                                <td>Sveriges ambassad Jakarta</td>
+                                <td>Marina Berg</td>
+                                <td>www.swedenabroad.se/en/embassies/indonesia-jakarta</td>
+                            </tr>
+                            <tr>
+                                <td>Irak</td>
+                                <td style="display:none;">67</td>
+                                <td>Sveriges ambassad Bagdad</td>
+                                <td>Jonas Lov&#233;n</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/irak-bagdad</td>
+                            </tr>
+                            <tr>
+                                <td>Iran</td>
+                                <td style="display:none;">68</td>
+                                <td>Sveriges ambassad Teheran</td>
+                                <td>Mattias Lentz</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/iran-teheran</td>
+                            </tr>
+                            <tr>
+                                <td>Island</td>
+                                <td style="display:none;">70</td>
+                                <td>Sveriges ambassad Reykjavik</td>
+                                <td>P&#228;r Ahlberger</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/island-reykjavik</td>
+                            </tr>
+                            <tr>
+                                <td>Israel</td>
+                                <td style="display:none;">71</td>
+                                <td>Sveriges ambassad Tel Aviv</td>
+                                <td>Erik Ullenhag</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/israel-tel-aviv</td>
+                            </tr>
+                            <tr>
+                                <td>Israel</td>
+                                <td style="display:none;">221</td>
+                                <td>Sveriges generalkonsulat Jerusalem</td>
+                                <td>Julius Liljestr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/jerusalem</td>
+                            </tr>
+                            <tr>
+                                <td>Italien</td>
+                                <td style="display:none;">72</td>
+                                <td>Sveriges ambassad Rom</td>
+                                <td>Jan Bj&#246;rklund</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/italien-rom</td>
+                            </tr>
+                            <tr>
+                                <td>Japan</td>
+                                <td style="display:none;">74</td>
+                                <td>Sveriges ambassad Tokyo</td>
+                                <td>Pereric H&#246;gberg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/japan-tokyo</td>
+                            </tr>
+                            <tr>
+                                <td>Jordanien</td>
+                                <td style="display:none;">76</td>
+                                <td>Sveriges ambassad Amman</td>
+                                <td>Alexandra Rydmark</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/jordanien-amman</td>
+                            </tr>
+                            <tr>
+                                <td>Kanada</td>
+                                <td style="display:none;">79</td>
+                                <td>Sveriges ambassad Ottawa</td>
+                                <td>Urban Ahlin</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kanada-ottawa</td>
+                            </tr>
+                            <tr>
+                                <td>Kazakstan</td>
+                                <td style="display:none;">81</td>
+                                <td>Sveriges Ambassad Nur-Sultan</td>
+                                <td>Mats Foyer</td>
+                                <td>www.swedenabroad.se/en/embassies/kazakhstan-astana</td>
+                            </tr>
+                            <tr>
+                                <td>Kenya</td>
+                                <td style="display:none;">82</td>
+                                <td>Sveriges ambassad Nairobi</td>
+                                <td>Caroline Vicini</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kenya-nairobi</td>
+                            </tr>
+                            <tr>
+                                <td>Kina</td>
+                                <td style="display:none;">83</td>
+                                <td>Sveriges ambassad Peking</td>
+                                <td>Helena S&#229;ngeland</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kina-peking</td>
+                            </tr>
+                            <tr>
+                                <td>Kina</td>
+                                <td style="display:none;">202</td>
+                                <td>Sveriges generalkonsulat Shanghai</td>
+                                <td>Marie-Claire Sw&#228;rd Capra</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kina-shanghai</td>
+                            </tr>
+                            <tr>
+                                <td>Kina</td>
+                                <td style="display:none;">191</td>
+                                <td>Sveriges generalkonsulat Hongkong</td>
+                                <td>Per Augustsson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/hong-kong</td>
+                            </tr>
+                            <tr>
+                                <td>Kosovo</td>
+                                <td style="display:none;">212</td>
+                                <td>Sveriges ambassad Pristina</td>
+                                <td>Karin Hernmarck Ahliny</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kosovo-pristina</td>
+                            </tr>
+                            <tr>
+                                <td>Kroatien</td>
+                                <td style="display:none;">90</td>
+                                <td>Sveriges ambassad  Zagreb</td>
+                                <td>Diana Madunic</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kroatien-zagreb</td>
+                            </tr>
+                            <tr>
+                                <td>Kuba</td>
+                                <td style="display:none;">91</td>
+                                <td>Sveriges ambassad Havanna</td>
+                                <td>Tomas Wiklund</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/kuba-havanna</td>
+                            </tr>
+                            <tr>
+                                <td>Lettland</td>
+                                <td style="display:none;">95</td>
+                                <td>Sveriges ambassad Riga</td>
+                                <td>Karin H&#246;glund</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/lettland-riga</td>
+                            </tr>
+                            <tr>
+                                <td>Libanon</td>
+                                <td style="display:none;">96</td>
+                                <td>Sveriges ambassad Beirut</td>
+                                <td>Ann Dismorr</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/libanon--beirut</td>
+                            </tr>
+                            <tr>
+                                <td>Liberia</td>
+                                <td style="display:none;">97</td>
+                                <td>Sveriges ambassad Monrovia</td>
+                                <td>Urban Sj&#246;str&#246;m</td>
+                                <td>www.swedenabroad.se/Monrovia</td>
+                            </tr>
+                            <tr>
+                                <td>Litauen</td>
+                                <td style="display:none;">100</td>
+                                <td>Sveriges ambassad Vilnius</td>
+                                <td>Inger Buxton</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/litauen-vilnius</td>
+                            </tr>
+                            <tr>
+                                <td>Makedonien</td>
+                                <td style="display:none;">103</td>
+                                <td>Sveriges ambassad Skopje</td>
+                                <td>Kristin Forsgren Bengtsson</td>
+                                <td>www.swedenabroad.se/en/embassies/north-macedonia-skopje</td>
+                            </tr>
+                            <tr>
+                                <td>Malaysia</td>
+                                <td style="display:none;">211</td>
+                                <td>Sveriges ambassad Kuala Lumpur</td>
+                                <td>Joachim Bergstr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/malaysia-kuala-lumpur</td>
+                            </tr>
+                            <tr>
+                                <td>Mali</td>
+                                <td style="display:none;">107</td>
+                                <td>Sveriges ambassad Bamako</td>
+                                <td>Kristina K&#252;hnel</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/mali-bamako</td>
+                            </tr>
+                            <tr>
+                                <td>Marocko</td>
+                                <td style="display:none;">109</td>
+                                <td>Sveriges ambassad Rabat</td>
+                                <td>Anne H&#246;glund</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/marocko-rabat</td>
+                            </tr>
+                            <tr>
+                                <td>Mexiko</td>
+                                <td style="display:none;">113</td>
+                                <td>Sveriges ambassad Mexiko</td>
+                                <td>Gunnar Ald&#233;n</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/mexico-mexico-city</td>
+                            </tr>
+                            <tr>
+                                <td>Mo&#231;ambique</td>
+                                <td style="display:none;">115</td>
+                                <td>Sveriges ambassad Maputo</td>
+                                <td>Mette Sunnergren</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/mocambique-maputo</td>
+                            </tr>
+                            <tr>
+                                <td>Moldavien</td>
+                                <td style="display:none;">116</td>
+                                <td>Sveriges ambassad Chisinau</td>
+                                <td>Katarina Fried</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/moldavien-chisinau</td>
+                            </tr>
+                            <tr>
+                                <td>Nederl&#228;nderna</td>
+                                <td style="display:none;">122</td>
+                                <td>Sveriges ambassad Haag</td>
+                                <td>Johannes Oljelund</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/nederl&#228;nderna-haag</td>
+                            </tr>
+                            <tr>
+                                <td>Nigeria</td>
+                                <td style="display:none;">126</td>
+                                <td>Sveriges ambassad Abuja</td>
+                                <td>Carl Michael Gr&#228;ns</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/nigeria-abuja</td>
+                            </tr>
+                            <tr>
+                                <td>Nordkorea</td>
+                                <td style="display:none;">88</td>
+                                <td>Sveriges ambassad Pyongyang</td>
+                                <td>Andreas Bengtsson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/nordkorea-pyongyang</td>
+                            </tr>
+                            <tr>
+                                <td>Norge</td>
+                                <td style="display:none;">127</td>
+                                <td>Sveriges ambassad Oslo</td>
+                                <td>Cecilia Bj&#246;rner</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/norge-oslo</td>
+                            </tr>
+                            <tr>
+                                <td>Pakistan</td>
+                                <td style="display:none;">130</td>
+                                <td>Sveriges ambassad Islamabad</td>
+                                <td>Henrik Persson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/pakistan-islamabad</td>
+                            </tr>
+                            <tr>
+                                <td>Peru</td>
+                                <td style="display:none;">135</td>
+                                <td>Sveriges ambassad Lima</td>
+                                <td>Maria Cram&#233;r</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/peru-lima</td>
+                            </tr>
+                            <tr>
+                                <td>Polen</td>
+                                <td style="display:none;">136</td>
+                                <td>Sveriges ambassad Warszawa</td>
+                                <td>Stefan Gullgren</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/polen-warszawa</td>
+                            </tr>
+                            <tr>
+                                <td>Portugal</td>
+                                <td style="display:none;">137</td>
+                                <td>Sveriges ambassad Lissabon</td>
+                                <td>Helena Pilsas</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/portugal-lissabon</td>
+                            </tr>
+                            <tr>
+                                <td>Qatar</td>
+                                <td style="display:none;">213</td>
+                                <td>Sveriges ambassad Doha</td>
+                                <td>Anders Bengtc&#233;n</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/qatar-doha</td>
+                            </tr>
+                            <tr>
+                                <td>Rum&#228;nien</td>
+                                <td style="display:none;">139</td>
+                                <td>Sveriges ambassad Bukarest</td>
+                                <td>Therese Hyd&#233;n</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/rum&#228;nien-bukarest</td>
+                            </tr>
+                            <tr>
+                                <td>Rwanda</td>
+                                <td style="display:none;">140</td>
+                                <td>Sveriges ambassad Kigali</td>
+                                <td>Johanna Teague</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/rwanda-kigali</td>
+                            </tr>
+                            <tr>
+                                <td>Ryssland </td>
+                                <td style="display:none;">141</td>
+                                <td>Sveriges ambassad Moskva</td>
+                                <td>Malena M&#229;rd</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-moskva</td>
+                            </tr>
+                            <tr>
+                                <td>Saudiarabien</td>
+                                <td style="display:none;">149</td>
+                                <td>Sveriges ambassad Riyadh</td>
+                                <td>Niclas Trouv&#233;</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/saudiarabien-riyadh</td>
+                            </tr>
+                            <tr>
+                                <td>Schweiz</td>
+                                <td style="display:none;">150</td>
+                                <td>Sveriges ambassad Bern</td>
+                                <td>Jan Knutsson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/schweiz-bern</td>
+                            </tr>
+                            <tr>
+                                <td>Schweiz</td>
+                                <td style="display:none;">222</td>
+                                <td>Sveriges FN-representation Gen&#232;ve</td>
+                                <td>Anna Jardfelt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/fn-gen&#232;ve</td>
+                            </tr>
+                            <tr>
+                                <td>Serbien</td>
+                                <td style="display:none;">152</td>
+                                <td>Sveriges ambassad Belgrad</td>
+                                <td>Annika Ben David</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/serbien-belgrad</td>
+                            </tr>
+                            <tr>
+                                <td>Singapore </td>
+                                <td style="display:none;">155</td>
+                                <td>Sveriges ambassad Singapore</td>
+                                <td>Kent H&#228;rstedt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/singapore-singapore</td>
+                            </tr>
+                            <tr>
+                                <td>Spanien</td>
+                                <td style="display:none;">159</td>
+                                <td>Sveriges ambassad Madrid</td>
+                                <td>Teppo Tauriainen</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/spanien-madrid</td>
+                            </tr>
+                            <tr>
+                                <td>Storbritannien </td>
+                                <td style="display:none;">161</td>
+                                <td>Sveriges ambassad London</td>
+                                <td>Mikaela Kumlin Granit</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/storbritannien-london</td>
+                            </tr>
+                            <tr>
+                                <td>Sudan</td>
+                                <td style="display:none;">209</td>
+                                <td>Sveriges ambassad Khartoum</td>
+                                <td>Signe Burgstaller</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/sudan-khartoum</td>
+                            </tr>
+                            <tr>
+                                <td>Sydafrika</td>
+                                <td style="display:none;">164</td>
+                                <td>Sveriges ambassad Pretoria</td>
+                                <td>H&#229;kan Juholt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/sydafrika-pretoria</td>
+                            </tr>
+                            <tr>
+                                <td>Sydkorea</td>
+                                <td style="display:none;">89</td>
+                                <td>Sveriges ambassad Seoul</td>
+                                <td>Daniel Wolv&#233;n</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/sydkorea-seoul</td>
+                            </tr>
+                            <tr>
+                                <td>Syrien</td>
+                                <td style="display:none;">165</td>
+                                <td>Sveriges ambassad Damaskus</td>
+                                <td>Ann Dismorr</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/syrien-damaskus</td>
+                            </tr>
+                            <tr>
+                                <td>Tanzania</td>
+                                <td style="display:none;">167</td>
+                                <td>Sveriges ambassad Dar es Salaam</td>
+                                <td>Anders Sj&#246;berg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/tanzania-dar-es-salaam</td>
+                            </tr>
+                            <tr>
+                                <td>Thailand</td>
+                                <td style="display:none;">169</td>
+                                <td>Sveriges ambassad Bangkok</td>
+                                <td>Jon &#197;str&#246;m Gr&#246;ndahl</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/thailand-bangkok</td>
+                            </tr>
+                            <tr>
+                                <td>Tjeckien</td>
+                                <td style="display:none;">170</td>
+                                <td>Sveriges ambassad Prag</td>
+                                <td>Fredrik J&#246;rgensen</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/tjeckien-prag</td>
+                            </tr>
+                            <tr>
+                                <td>Tunisien</td>
+                                <td style="display:none;">174</td>
+                                <td>Sveriges ambassad Tunis</td>
+                                <td>Anna Block Mazoyer </td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/tunisien-tunis</td>
+                            </tr>
+                            <tr>
+                                <td>Turkiet</td>
+                                <td style="display:none;">175</td>
+                                <td>Sveriges ambassad Ankara</td>
+                                <td>Staffan Herrstr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/Turkiet-Ankara</td>
+                            </tr>
+                            <tr>
+                                <td>Turkiet</td>
+                                <td style="display:none;">192</td>
+                                <td>Sveriges generalkonsulat Istanbul</td>
+                                <td>Peter Ericson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-istanbul</td>
+                            </tr>
+                            <tr>
+                                <td>Tyskland</td>
+                                <td style="display:none;">177</td>
+                                <td>Sveriges ambassad Berlin</td>
+                                <td>Per Th&#246;resson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/tyskland-berlin</td>
+                            </tr>
+                            <tr>
+                                <td>Uganda</td>
+                                <td style="display:none;">178</td>
+                                <td>Sveriges ambassad Kampala</td>
+                                <td>Maria H&#229;kansson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/uganda-kampala</td>
+                            </tr>
+                            <tr>
+                                <td>Ukraina</td>
+                                <td style="display:none;">179</td>
+                                <td>Sveriges ambassad Kiev</td>
+                                <td>Martin &#197;berg</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/ukraina-kiev</td>
+                            </tr>
+                            <tr>
+                                <td>Ungern</td>
+                                <td style="display:none;">180</td>
+                                <td>Sveriges ambassad Budapest</td>
+                                <td>Dag Hartelius</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/ungern-budapest</td>
+                            </tr>
+                            <tr>
+                                <td>USA</td>
+                                <td style="display:none;">223</td>
+                                <td>Sveriges ambassad Washington</td>
+                                <td>Karin Olofsdotter</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/usa-washington</td>
+                            </tr>
+                            <tr>
+                                <td>USA</td>
+                                <td style="display:none;">224</td>
+                                <td>Sveriges generalkonsulat New York</td>
+                                <td>Camilla Mellander</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/usa-new-york</td>
+                            </tr>
+                            <tr>
+                                <td>USA</td>
+                                <td style="display:none;">225</td>
+                                <td>Sveriges FN-Representation New York</td>
+                                <td>Anna-Karin Enestr&#246;m</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/fn-new-york</td>
+                            </tr>
+                            <tr>
+                                <td>Vietnam</td>
+                                <td style="display:none;">185</td>
+                                <td>Sveriges ambassad Hanoi</td>
+                                <td>Johan Ndisi</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/vietnam-hanoi</td>
+                            </tr>
+                            <tr>
+                                <td>Zambia</td>
+                                <td style="display:none;">187</td>
+                                <td>Sveriges ambassad Lusaka</td>
+                                <td>Anna-Maj Hultg&#229;rd</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/zambia-lusaka</td>
+                            </tr>
+                            <tr>
+                                <td>Zimbabwe</td>
+                                <td style="display:none;">188</td>
+                                <td>Sveriges ambassad Harare</td>
+                                <td>&#197;sa Pehrson</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/zimbabwe-harare</td>
+                            </tr>
+                            <tr>
+                                <td>&#214;sterrike</td>
+                                <td style="display:none;">189</td>
+                                <td>Sveriges ambassad Wien</td>
+                                <td>Annika Markovic</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/&#246;sterrike-wien</td>
+                            </tr>
+                            <tr>
+                                <td>&#214;sterrike</td>
+                                <td style="display:none;">207</td>
+                                <td>Svergies delegation NATO Bryssel</td>
+                                <td>Ulrika Funeredt</td>
+                                <td>www.swedenabroad.se/sv/utlandsmyndigheter/nato-bryssel/kontakt/the-delegation</td>
+                            </tr>
+                    </tbody>
+                </table>
+
+    </div>
+</div>
+
+<script src="/DataTables/DataTables-1.13.8/js/jquery.dataTables.js"></script>
+<script src="/DataTables/DataTables-1.13.8/js/dataTables.bootstrap.min.js" charset="utf-8"></script>
+<script src="/DataTables/FixedHeader-3.1.3/js/dataTables.fixedHeader.min.js"></script>

@@ -1,0 +1,114 @@
+{
+  "code": "KU",
+  "index_link": {
+    "text": "KU Kultur, bibliotek och fritid",
+    "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/",
+    "fetched_at": "2026-10-05T13:15:57.495313Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "8842ea832e7864dba0215ee0bc5dee8018c5c264b13281fa03f112e9d83100b8",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Kultur, bibliotek och fritid",
+  "areas": [
+    {
+      "label": "Bibliotek",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Folk-, lärosätes- och sjukhusbibliotek",
+            "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/folk--larosates--och-sjukhusbibliotek/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/folk--larosates--och-sjukhusbibliotek/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "De offentligt finansierade biblioteken i Sverige vars biblioteksorganisation har minst ett halvt årsverke avsatt bemanning för biblioteksverksamhet. Alla bibliotekstyper omfattas, till exempel folkbibliotek, forskningsbibliotek, specialbibliotek och sjukhusbibliotek.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kungliga biblioteket (KB)",
+          "tags_text": "Bibliotek, Folkbibliotek, Sjukhusbibliotek, Universitetsbibliotek, Högskolebibliotek, Specialbibliotek, Myndighetsbibliotek"
+        },
+        {
+          "link": {
+            "text": "Skolbiblioteksstatistik",
+            "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/skolbiblioteksstatistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/skolbiblioteksstatistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar placering av skolbibliotek i förhållande till skolenhet under ett kalenderår samt till exempel bemanning.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kungliga biblioteket (KB)",
+          "tags_text": "Bibliotek, Skolbibliotek"
+        }
+      ]
+    },
+    {
+      "label": "Kulturarv",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Kulturmiljöstatistik",
+            "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturarv/kulturmiljostatistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturarv/kulturmiljostatistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken innehåller uppgifter om bland annat skyddade byggnader och fornlämningar.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Myndigheten för kulturanalys",
+          "tags_text": "Kulturmiljö, Kulturmiljövård"
+        }
+      ]
+    },
+    {
+      "label": "Kulturens verksamheter",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Museer",
+            "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturens-verksamheter/museer/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturens-verksamheter/museer/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken innehåller uppgifter om museers organisation, personal, ekonomi, samlingar och verksamhet. Undersökningen är årligen återkommande.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Myndigheten för kulturanalys",
+          "tags_text": "Museer, Konsthallar"
+        }
+      ]
+    },
+    {
+      "label": "Samhällets utgifter för kultur",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Offentliga utgifter för kultur",
+            "href": "/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/samhallets-kulturutgifter/offentliga-utgifter-for-kultur/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/samhallets-kulturutgifter/offentliga-utgifter-for-kultur/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar statens, regionernas och kommunernas kulturutgifter fördelade på olika sätt.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Myndigheten för kulturanalys",
+          "tags_text": "Kulturutgifter"
+        }
+      ]
+    }
+  ]
+}

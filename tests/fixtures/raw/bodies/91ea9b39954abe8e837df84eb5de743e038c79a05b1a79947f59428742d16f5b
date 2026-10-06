@@ -1,0 +1,950 @@
+
+
+
+<!DOCTYPE html>
+<html lang="sv" xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv">
+
+<head>
+        
+
+
+
+
+     
+        <title>Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Language" content="sv" />
+    <meta name="description" content="Statistiken visar hur antalet anst&#xE4;llda p&#xE5; hela arbetsmarknaden f&#xF6;r&#xE4;ndras. Statistiken redovisas p&#xE5; detaljerad n&#xE4;ringsgrensniv&#xE5; och efter l&#xE4;n. Information finns &#xE4;ven om personaloms&#xE4;ttning och sjukfr&#xE5;nvaro." />
+    <meta name="priority" content="1.0" />
+    <meta name="ROBOTS" content="INDEX,FOLLOW" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="format-detection" content="telephone=no" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';base-uri 'self';script-src 'self' 'sha256-qHiY7D5cDxjsKxRms6VShqh2yAR9FnxPajigvEBbgcY=' https://f1-eu.readspeaker.com/ https://matomo.scb.analys.cloud;style-src 'self' 'unsafe-inline' https://f1-eu.readspeaker.com/;img-src 'self' data:;connect-src https://matomo.scb.analys.cloud 'self';frame-src https://app-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/;media-src https://app-eu.readspeaker.com/ https://media-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/">    <link rel="preload" href="/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Semibold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Bold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/js/v-86385/scb.js" as="script" type="text/javascript" crossorigin />
+    <link rel="preconnect" href="https://matomo.scb.analys.cloud" />
+        <meta name="InformationType" content="Survey" />
+        <meta property="og:site_name" content="Statistikmyndigheten SCB" />
+    <meta property="og:title" content="Kortperiodisk syssels&#xE4;ttningsstatistik (KS)" />
+    <meta property="og:description" content="Statistiken visar hur antalet anst&#xE4;llda p&#xE5; hela arbetsmarknaden f&#xF6;r&#xE4;ndras. Statistiken redovisas p&#xE5; detaljerad n&#xE4;ringsgrensniv&#xE5; och efter l&#xE4;n. Information finns &#xE4;ven om personaloms&#xE4;ttning och sjukfr&#xE5;nvaro." />
+    <meta property="og:url" content="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/" />
+    <meta name="pageid" content="55968" />
+    <meta name="pagetype" content="Produktsida" />
+    <meta property="og:category" content="Anst&#xE4;llda, Arbetskraft, Personaloms&#xE4;ttning, Sjukfr&#xE5;nvaro, Sysselsatta" />
+        <meta property="og:image" content="~/Assets/Styles/Images/scb-pa-platta.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/img/scb-icon-192.png">
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+    <meta name="scb-load-balance-environment" content="DW11">
+        <link rel="canonical" href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/" />
+    <link rel="stylesheet" href="/css/fonts.css?v=86385" />
+    <link rel="stylesheet" href="/css/v-86385/dist/shared.min.css?v=86385" />
+        <link rel="stylesheet" href="/css/v-86385/dist/modules/readspeaker.css" />
+    <link rel="alternate" type="application/rss+xml" title="Statistiknyheter RSS" href="/feed/statistiknyheter" />
+<link rel='stylesheet' href='/css/dist/modules/columns.css?v=v-86385'/><link rel='stylesheet' href='/css/v-86385/scb-wc-partial/breadcrumb.css?v=v-86385'/>
+
+    
+    <link rel="stylesheet" href="/css/v-86385/dist/pagetype/produktpage.min.css?v=86385" />
+
+
+
+
+</head>
+<body id="body" class=' no-js'>
+    <script>(l => l.remove('no-js') + l.add('js'))(document.body.classList)</script>
+    
+    
+    
+    
+
+<header id="header">
+    <!-- Länk till sidans huvudinnehåll -->
+    <a href="#mainContentArea" id="mainContentAreaLink" class="button mediumbutton button-link">Till inneh&#xE5;ll p&#xE5; sidan</a>
+    <div class="centered-container">
+        <a id="scb-logotype" href="/" title="Statistikmyndigheten SCB, till startsidan">
+            <img src="/img/scb-logo.svg" alt="" width="48" height="54" />
+        </a>
+
+
+            <nav id="secondary-navigation" class="is-not-displayed-tablet" aria-label="Snabbl&#xE4;nkar">
+                <ul role="menubar">
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" lang=en href="/en/finding-statistics/statistics-by-subject-area/labour-market/labour-force-demand/short-term-employment/">In English</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/lattlast/">L&#xE4;ttl&#xE4;st</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/nyheter-och-press/">Press</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/kontakta-oss/">Kontakt</a>
+                            </li>
+                </ul>
+            </nav>
+            <form action="/hitta-statistik/sok/" role="search" class="search-box is-not-displayed-tablet row">
+                <div class="search-box-field">
+                    <input class="search-field" name="query" type="search" placeholder="Vad s&#xF6;ker du?" aria-label="Vad s&#xF6;ker du?"/>
+                    <input id="searchLanguage" name="lang" type="hidden" value="sv"/>
+                </div>
+                <button class="button search-box-button" type="submit" value="S&#xF6;k" aria-label="S&#xF6;k">S&#xF6;k</button>
+            </form>
+            <nav id="primary-navigation" aria-label="Huvudmeny">
+                <div id="desktop-menu">
+                    <ul class="menu-level">
+                            <li class="menu-item  is-current-section">
+                                <a href="/hitta-statistik/">Hitta statistik</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/vara-tjanster/">V&#xE5;ra tj&#xE4;nster</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/dokumentation/">Dokumentation</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/lamna-uppgifter/">L&#xE4;mna uppgifter</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/om-scb/">Om SCB</a>
+                            </li>
+
+                        <li id="menu-buttons-mobile" class="">
+                            <a id="button-mobile-toggle-search" class="button-mobile search" href="/hitta-statistik/sok/" data-module="mobile-search">S&#xF6;k</a>
+                            <a id="button-mobile-toggle-menu" class="button-mobile menu " aria-label="&#xD6;ppna webbplatsnavigering" href="?menu=open" data-module="hamburger" aria-haspopup="true" aria-controls="primary-navigation">Meny</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+    </div>
+</header>    
+    <div id="overlay"></div>
+    <nav id="hamburger" class="collapsed" aria-label="Webbplatsnavigering"><ul class="collapsed"></ul></nav>
+
+    
+        
+<section id="kakrutan" data-nosnippet role="dialog" aria-labelledby="krr">
+    <div class="centered-container">
+    <h1 class="h4" id="krr">Kakor p&#xE5; scb.se</h1>
+    <p class="info">P&#xE5; SCB anv&#xE4;nder vi kakor f&#xF6;r att webbplatsen ska fungera och f&#xF6;r m&#xE4;tning s&#xE5; att vi vet hur den anv&#xE4;nds. M&#xE4;tningarna anv&#xE4;nds f&#xF6;r att g&#xF6;ra f&#xF6;rb&#xE4;ttringar i inneh&#xE5;ll, design och upplevelse.</p>
+    <form action="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/AcceptAll" method="post">
+        <button class="button very smallbutton" name="val" value="allt">Acceptera alla</button>
+        <button class="button very secondary smallbutton" name="val" value="inget">Endast n&#xF6;dv&#xE4;ndiga</button>
+        <input type="hidden" name="camefrom" value="/AM0201" />
+        <a id="acceptSomeCookies" class="very smallbutton btn-secondary-medium" href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/?camefrom=/AM0201">Hantera</a>
+    </form>
+    </div>
+</section>
+    <main id="mainContent">
+
+        <div class="centered-container">
+                    
+    <ul id="breadcrumb">
+
+        <li class="breadcrumb-item">
+            <a href="/">Hem</a>
+        </li>
+
+            <li class="breadcrumb-item">
+                <a href="/hitta-statistik/">Hitta statistik</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/">Arbetsmarknad</a>
+            </li>
+        <li class="breadcrumb-item is-current-page">
+            Kortperiodisk syssels&#xE4;ttningsstatistik (KS)
+        </li>
+    </ul>
+
+            <div class="row">
+                <div class='' id="pageContent">
+                        
+
+<div id="readspeaker_button1" class="rs_skip rsbtn_colorskin rs_preserve">
+    <img src="/img/minimal-speaker-icon-2.svg" width="16" height="16" alt="" id="rsplayicon"><a rel="nofollow" data-module="readspeaker" class="rsbtn_play" title="L&#xE4;s upp denna sida med hj&#xE4;lp av ReadSpeaker" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=8809&lang=sv_se&readid=pageContent&url=https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/">
+    <span class="rsbtn_left rspart"><span class="rsbtn_text"><span>Lyssna</span></span></span>
+    <span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+
+
+                    <div id="mainContentArea" tabindex="-1"></div>
+                    
+
+
+ 
+
+<h1 id='h1'>Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</h1>
+
+    <div>
+        <img class="sos-logotype-large sos-logotype-large-mb" src="/img/SOS-icons/SOS_svart_Sv_3.svg" title="Tillh&#xF6;r sveriges officiella statistik" alt="Sveriges officiella statistik" />
+    </div>
+
+<div class="row topIntro">
+
+        <p class="link-large link-icon-calendar">
+            <span>N&#xE4;sta publicering: Ingen planerad</span>
+        </p>
+    <p class="clearfix ingress">Statistiken visar hur antalet anst&#xE4;llda p&#xE5; hela arbetsmarknaden f&#xF6;r&#xE4;ndras. Statistiken redovisas p&#xE5; detaljerad n&#xE4;ringsgrensniv&#xE5; och efter l&#xE4;n. Information finns &#xE4;ven om personaloms&#xE4;ttning och sjukfr&#xE5;nvaro.</p>
+
+</div>
+
+<div class="xhtmlText">
+    
+<p><strong>Ingen fortsatt redovisning av KS<br /></strong>Publicering av kvartal 4 2023 är sista publiceringen av undersökningen Kortperiodisk sysselsättningsstatistik (KS).<br />Användare hänvisas till den nya statistiken <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/">Anställningar</a>.</p>
+</div>
+
+
+    <div class="rs_skip">
+            <h2 class="text-dark-gray circle-down-gray">Hitta p&#xE5; sidan</h2>
+            <div class="row">
+                    <div class="columns four">
+                        <h3 class="h4">Resultat</h3>
+                        <ul class="ul-list-large">
+                                <li>
+                                    <a href="#_Statistiknyheter" class="anchorLink">Statistiknyheter</a>
+                                </li>
+                                <li>
+                                    <a href="#_Tabellerochdiagram" class="anchorLink">Tabeller och diagram</a>
+                                </li>
+                                <li>
+                                    <a href="#_TabelleriStatistikdatabasen" class="anchorLink">Tabeller i Statistikdatabasen</a>
+                                </li>
+                                <li>
+                                    <a href="#_Publikationer" class="anchorLink">Publikationer</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="columns four">
+                        <h3 class="h4">Om statistiken</h3>
+                        <ul class="ul-list-large">
+                                <li>
+                                    <a href="#_Dokumentation" class="anchorLink">Dokumentation</a>
+                                </li>
+                                <li>
+                                    <a href="#_Fordjupadinformation" class="anchorLink">F&#xF6;rdjupad information</a>
+                                </li>
+                        </ul>
+                    </div>
+
+                    <div class="columns four">
+                        <h3 class="h4">Kontakt</h3>
+                        <ul class="ul-list-large">
+                                <li>
+                                    <a href="#_Kontakt" class="anchorLink">Kontakt</a>
+                                </li>
+                        </ul>
+                    </div>
+            </div>
+    </div>
+
+
+
+    <section aria-labelledby="_Statistiknyheter">
+        
+<h2 id="_Statistiknyheter">Statistiknyheter</h2>
+<div class="row">
+    <div class="columns seven">
+                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/pong/statistiknyhet/sysselsattning-lediga-jobb-och-lonesummor-4e-kvartalet-2023/" class="link-large">Antalet anst&#xE4;llda &#xF6;kar</a>
+                <p class="text-dark-gray">2024-02-23</p>
+            <p>
+                Antal anst&#xE4;llda &#xF6;kade med 0,2 procent under fj&#xE4;rde kvartalet 2023 j&#xE4;mf&#xF6;rt med motsvarande kvartal f&#xF6;reg&#xE5;ende &#xE5;r. Totalt fanns det 5 063 445 anst&#xE4;llda i riket. N&#xE4;ringslivet minskade med 0,1 procent till 3 484 153 anst&#xE4;llda.
+            </p>
+            <a href="/hitta-statistik/statistiknyheter/?selectedProduct=AM0201" class="clearfix">Alla statistiknyheter f&#xF6;r denna statistik</a>
+    </div>
+        <div class="columns four offset-by-one">
+            <div class="box box-highlight">
+                <h3 class="text-dark-gray">Missa ingen viktig statistik</h3>
+                <a href="/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/">Prenumerera p&#xE5; statistiknyheter</a>
+            </div>
+        </div>
+</div>
+
+    </section>
+
+    <section aria-labelledby="_Tabeller och diagram">
+        
+ 
+<h2 id="_Tabellerochdiagram">Tabeller och diagram</h2>
+
+<ul>
+            <li>
+
+                <table class="table-full-width table-60-20-20 table-padding-medium">
+                    <thead class="text-align-left text-dark-gray">
+                        <tr>
+                            <th class="text-align-left">Namn</th>
+                            <th class="text-align-left">Typ</th>
+                            <th class="text-align-left">Datum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>
+                                    <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/pong/tabell-och-diagram/andel-anstallda-efter-sektor-fjarde-kvartalet-2023/">
+                                        Andel anst&#xE4;llda efter sektor, fj&#xE4;rde kvartalet 2023
+                                    </a>
+                                </td>
+                                <td>
+                                    Diagram
+                                </td>
+                                <td>2024-02-23</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/pong/tabell-och-diagram/sjukfranvaro-efter-sektor-och-kon-fjarde-kvartalet-2023/">
+                                        Sjukfr&#xE5;nvaro efter sektor och k&#xF6;n, fj&#xE4;rde kvartalet 2023
+                                    </a>
+                                </td>
+                                <td>
+                                    Diagram
+                                </td>
+                                <td>2024-02-23</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </li>
+
+</ul>
+    </section>
+
+    <section aria-labelledby="_Tabeller i Statistikdatabasen">
+        
+ 
+<h2 id="_TabelleriStatistikdatabasen">Tabeller i Statistikdatabasen</h2>
+<ul>
+
+            <li class="expandable-box">
+                <a class="h3 expandable-box-click-area reversed-decoration" aria-expanded="false" href="Javascript:void(0)">
+                    <div class="expandable-box-heading">Anst&#xE4;llda</div>
+                </a>
+                <div class="expandable-box-content">
+                    <table class="table-full-width table-60-20-20 table-padding-medium">
+                        <thead class="text-align-left text-dark-gray">
+                            <tr>
+                                <th>Namn</th>
+                                <th>Datum</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KS15Anstallda">Antal anst&#xE4;llda (KS) efter region och sektor. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnstalldaKonAnstT1">Antal anst&#xE4;llda efter sektor, k&#xF6;n och anst&#xE4;llningsform. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KS15AnstSNI2007KvT2b">Antal anst&#xE4;llda inom n&#xE4;ringslivet (KS), efter n&#xE4;ringsgren SNI2007. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstalldaBrT4b">Antal anst&#xE4;llda inom n&#xE4;ringslivet (KS) efter l&#xE4;n och bransch. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+            <li class="expandable-box">
+                <a class="h3 expandable-box-click-area reversed-decoration" aria-expanded="false" href="Javascript:void(0)">
+                    <div class="expandable-box-heading">Sjukfr&#xE5;nvarande</div>
+                </a>
+                <div class="expandable-box-content">
+                    <table class="table-full-width table-60-20-20 table-padding-medium">
+                        <thead class="text-align-left text-dark-gray">
+                            <tr>
+                                <th>Namn</th>
+                                <th>Datum</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukfrNaringLan">Andel sjukfr&#xE5;nvarande i n&#xE4;ringslivet, efter l&#xE4;n. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KS15sjukSNI2007">Andel sjukfr&#xE5;nvarande inom n&#xE4;ringslivet (KS) efter n&#xE4;ringsgren SNI 2007. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KS15franvaroSekt">Andel sjukfr&#xE5;nvarande (KS) efter k&#xF6;n och sektor. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/FranvNaringT7">Andel fr&#xE5;nvarande inom n&#xE4;ringslivet efter n&#xE4;ringsgren och fr&#xE5;nvaroorsak. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+            <li class="expandable-box">
+                <a class="h3 expandable-box-click-area reversed-decoration" aria-expanded="false" href="Javascript:void(0)">
+                    <div class="expandable-box-heading">Personaloms&#xE4;ttning</div>
+                </a>
+                <div class="expandable-box-content">
+                    <table class="table-full-width table-60-20-20 table-padding-medium">
+                        <thead class="text-align-left text-dark-gray">
+                            <tr>
+                                <th>Namn</th>
+                                <th>Datum</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td>
+                                        <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSNyanstalldAvgTills">Nyanst&#xE4;llda och avg&#xE5;ngna med tillsvidareanst&#xE4;llning av totalt antal tillsvidareanst&#xE4;llda efter n&#xE4;ringsgren i N&#xE4;ringslivet. Kvartal 2015K2 - 2023K4</a>
+                                    </td>
+                                    <td>2024-02-23</td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+            <li class="children-90-10">
+                <p>
+                    <a href="https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0201D">&#xC4;ldre tabeller som inte uppdateras</a>
+                </p>
+                <p>
+                    
+                </p>
+            </li>
+
+</ul>
+    </section>
+
+    <section aria-labelledby="_Rapporter">
+        
+<h2 id="_Publikationer">
+    Publikationer
+</h2>
+
+<table class="table-full-width table-50-20-10 table-padding-medium margin-bottom-single">
+    <thead>
+        <tr>
+            <th class="text-align-left">Titel</th>
+
+                <th class="text-align-left"></th>
+            <th class="text-align-left">Datum</th>
+        </tr>
+    </thead>
+
+    <tbody class="produkt-publikation-list" id="produkt-publication-list" tabindex="-1">
+            <tr>
+                <td>
+                    <a href="/publikation/42704">Kortperiodisk syssels&#xE4;ttningsstatistik. 3:e kvartalet 2021</a>
+                </td>
+                <td>
+                </td>
+                <td>2021-11-19</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/42696">Kortperiodisk syssels&#xE4;ttningsstatistik. 2:a kvartalet 2021</a>
+                </td>
+                <td>
+                </td>
+                <td>2021-08-20</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/42692">Kortperiodisk syssels&#xE4;ttningsstatistik. 1:a kvartalet 2021</a>
+                </td>
+                <td>
+                </td>
+                <td>2021-05-20</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/42688">Kortperiodisk syssels&#xE4;ttningsstatistik. 4:e kvartalet 2020</a>
+                </td>
+                <td>
+                </td>
+                <td>2021-02-19</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/39853">Kortperiodisk syssels&#xE4;ttningsstatistik. 3:e kvartalet 2020</a>
+                </td>
+                <td>
+                </td>
+                <td>2020-11-19</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/39849">Kortperiodisk syssels&#xE4;ttningsstatistik. 2:a kvartalet 2020</a>
+                </td>
+                <td>
+                </td>
+                <td>2020-08-20</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/39845">Kortperiodisk syssels&#xE4;ttningsstatistik. 1:a kvartalet 2020</a>
+                </td>
+                <td>
+                </td>
+                <td>2020-05-20</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/39841">Kortperiodisk syssels&#xE4;ttningsstatistik. 4:e kvartalet 2019</a>
+                </td>
+                <td>
+                </td>
+                <td>2020-02-20</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/38509">Kortperiodisk syssels&#xE4;ttningsstatistik 3:e kvartalet 2019</a>
+                </td>
+                <td>
+                </td>
+                <td>2019-11-21</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/38508">Kortperiodisk syssels&#xE4;ttningsstatistik 2:a kvartalet 2019. Korrigerad 2020-08-20</a>
+                </td>
+                <td>
+                </td>
+                <td>2019-08-22</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/38506">Kortperiodisk syssels&#xE4;ttningsstatistik 1:a kvartalet 2019</a>
+                </td>
+                <td>
+                </td>
+                <td>2019-05-23</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/36752">Kortperiodisk syssels&#xE4;ttningsstatistik. 4:e kvartalet 2018</a>
+                </td>
+                <td>
+                </td>
+                <td>2019-02-21</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/33798">Kortperiodisk syssels&#xE4;ttningsstatistik. 3:e kvartalet 2018</a>
+                </td>
+                <td>
+                </td>
+                <td>2018-11-22</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/33794">Kortperiodisk syssels&#xE4;ttningsstatistik. 2:a kvartalet 2018</a>
+                </td>
+                <td>
+                </td>
+                <td>2018-08-23</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/33790">Kortperiodisk syssels&#xE4;ttningsstatistik. 1:a kvartalet 2018</a>
+                </td>
+                <td>
+                </td>
+                <td>2018-05-24</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/33786">Kortperiodisk syssels&#xE4;ttningsstatistik. 4:e kvartalet 2017</a>
+                </td>
+                <td>
+                </td>
+                <td>2018-02-22</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/31967">Kortperiodisk syssels&#xE4;ttningsstatistik. 3:e kvartalet 2017</a>
+                </td>
+                <td>
+                </td>
+                <td>2017-11-23</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/31963">Kortperiodisk syssels&#xE4;ttningsstatistik. 2:a kvartalet 2017</a>
+                </td>
+                <td>
+                </td>
+                <td>2017-08-24</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/31959">Kortperiodisk syssels&#xE4;ttningsstatistik. 1:a kvartalet 2017</a>
+                </td>
+                <td>
+                </td>
+                <td>2017-05-23</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/publikation/31955">Kortperiodisk syssels&#xE4;ttningsstatistik. 4:e kvartalet 2016</a>
+                </td>
+                <td>
+                </td>
+                <td>2017-02-21</td>
+            </tr>
+    </tbody>
+</table>
+
+<div class="margin-bottom-large-minus">
+        <button aria-expanded="false" aria-controls="produkt-publication-list" class="publicationbutton link-more-button link-large" data-href="#_Rapporter"><span class="link-style">Visa fler rapporter (10)</span></button>
+
+        <a class="border-link text-family-function text-semibold spacer-left-large" href="https://www.scb.se/hitta-statistik/sok/?Query=AM0201&amp;Tab=older&amp;Exact=true">Visa &#xE4;ldre rapporter (69)</a>
+</div>
+
+
+    </section>
+
+
+
+
+
+    <section aria-labelledby="_Dokumentation">
+        <h2 id="_Dokumentation">Dokumentation</h2>
+
+            <div class="row">
+                <div class="columns eight margin-bottom-double">
+                    <div class="xhtmlText">
+                        
+<p>SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på.</p>
+                    </div>
+
+                    <a href="/link/47bb9390c89e446689360d9442c33691.aspx">Mer information om dokumentation</a>
+                </div>
+            </div>
+        <div class="document-list">
+        <h4 id="bas-list-h">Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)</h4>
+            <ul class="document-list-items ul-list-large">
+                    <li class="document-list-item">
+                        <a id="a-0" aria-labelledby="bas-list-h a-0" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2023.pdf" target="_blank">2023 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-1" aria-labelledby="bas-list-h a-1" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2022.pdf" target="_blank">2022 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-2" aria-labelledby="bas-list-h a-2" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2021_nn_210520.pdf" target="_blank">2021 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-3" aria-labelledby="bas-list-h a-3" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2020_ln_200520.pdf" target="_blank">2020 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-4" aria-labelledby="bas-list-h a-4" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2019_mb_190508.pdf" target="_blank">2019 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-5" aria-labelledby="bas-list-h a-5" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2018_mb_180524.pdf" target="_blank">2018 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-6" aria-labelledby="bas-list-h a-6" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_kd_2016_dh_170524.pdf" target="_blank">2017 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-7" aria-labelledby="bas-list-h a-7" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2016_dh_160517.pdf" target="_blank">2016 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-8" aria-labelledby="bas-list-h a-8" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2015_dh_150518.pdf" target="_blank">2015 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-9" aria-labelledby="bas-list-h a-9" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2014.pdf" target="_blank">2014 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-10" aria-labelledby="bas-list-h a-10" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2013_.pdf" target="_blank">2013 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-11" aria-labelledby="bas-list-h a-11" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2012.pdf" target="_blank">2012 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-12" aria-labelledby="bas-list-h a-12" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2011.pdf" target="_blank">2011 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-13" aria-labelledby="bas-list-h a-13" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2010.pdf" target="_blank">2010 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-14" aria-labelledby="bas-list-h a-14" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2009.pdf" target="_blank">2009 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-15" aria-labelledby="bas-list-h a-15" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2008.pdf" target="_blank">2008 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-16" aria-labelledby="bas-list-h a-16" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2007.pdf" target="_blank">2007 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-17" aria-labelledby="bas-list-h a-17" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2006.pdf" target="_blank">2006 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-18" aria-labelledby="bas-list-h a-18" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2005.pdf" target="_blank">2005 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-19" aria-labelledby="bas-list-h a-19" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2002.pdf" target="_blank">2002 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-20" aria-labelledby="bas-list-h a-20" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_bs_2000.pdf" target="_blank">2000 (pdf)</a>
+                    </li>
+            </ul>
+
+        <h4 id="dok-list-h">Statistikens framst&#xE4;llning (alternativt SCBDOK)</h4>
+            <ul class="document-list-items ul-list-large">
+                    <li class="document-list-item">
+                        <a id="a-21" aria-labelledby="dok-list-h a-21" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2023.pdf" target="_blank">2023 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-22" aria-labelledby="dok-list-h a-22" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2022.pdf" target="_blank">2022 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-23" aria-labelledby="dok-list-h a-23" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2021_nn_210520.pdf" target="_blank">2021 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-24" aria-labelledby="dok-list-h a-24" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2020_ln_200520.pdf" target="_blank">2020 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-25" aria-labelledby="dok-list-h a-25" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2019_mb_190508.pdf" target="_blank">2019 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-26" aria-labelledby="dok-list-h a-26" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_staf_2018_mb_180524.pdf" target="_blank">2018 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-27" aria-labelledby="dok-list-h a-27" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2017_dh_170913.pdf" target="_blank">2017 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-28" aria-labelledby="dok-list-h a-28" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2016_dh_160811.pdf" target="_blank">2016 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-29" aria-labelledby="dok-list-h a-29" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2015_pa_150702.pdf" target="_blank">2015 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-30" aria-labelledby="dok-list-h a-30" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2014.pdf" target="_blank">2014 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-31" aria-labelledby="dok-list-h a-31" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2013.pdf" target="_blank">2013 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-32" aria-labelledby="dok-list-h a-32" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2012.pdf" target="_blank">2012 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-33" aria-labelledby="dok-list-h a-33" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2011.pdf" target="_blank">2011 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-34" aria-labelledby="dok-list-h a-34" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2010.pdf" target="_blank">2010 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-35" aria-labelledby="dok-list-h a-35" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2009.pdf" target="_blank">2009 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-36" aria-labelledby="dok-list-h a-36" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2008.pdf" target="_blank">2008 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-37" aria-labelledby="dok-list-h a-37" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2007.pdf" target="_blank">2007 (pdf)</a>
+                    </li>
+                    <li class="document-list-item">
+                        <a id="a-38" aria-labelledby="dok-list-h a-38" href="/contentassets/5031de6464a746bfb6d2e1098ef3ddfa/am0201_do_2005.pdf" target="_blank">2005 (pdf)</a>
+                    </li>
+            </ul>
+
+        <h4>Dokumentation av mikrodata</h4>
+        <a href="https://metadata.scb.se/?produkt=AM0201">MetaPlus</a>
+</div>
+    </section>
+
+    <section aria-labelledby="_F&#xF6;rdjupad information">
+        <h2 id="_Fordjupadinformation">F&#xF6;rdjupad information</h2>
+        
+<ul class="ul-list-large">
+        <li>
+            <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--kortperiodisk-sysselsattningsstatistik-ks/">Skr&#xE4;ddarsydd statistik &#x2013; Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</a>
+        </li>
+        <li>
+            <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/produktrelaterat/Fordjupad-information/beskrivning-av-kortperiodisk-sysselsattningsstatistik-ks/">Beskrivning av Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</a>
+        </li>
+</ul>
+    </section>
+
+
+<section role="region" aria-label="Kontakt">
+    <div class="row mobile-display-block is-displayed-flex" id="_Kontakt">
+            <div class="box box-border columns six">
+                <h2 class="h4">Statistikservice</h2>
+
+<dl itemscope itemtype="http://schema.org/Person">
+
+        <dt class="contact-block-term">Telefon</dt>
+        <dd class="contact-block-description" itemprop="telephone"><a href="tel:010-479 50 00">010-479 50 00</a></dd>
+
+        <dd class="contact-block-description">Vardagar: 9.00–16.00<br>Lunchstängt: 12.00–13.00</dd>
+
+
+
+<ul>
+        <li>
+            <a href="https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/" title="Mejla Statistikservice">Mejla Statistikservice</a>
+        </li>
+</ul></dl>
+
+
+            </div>
+        
+    <div class="box box-border columns six">
+
+        <h2 class="h3">Har du fr&#xE5;gor om statistiken?</h2>
+
+            <p class="h3 contact-block-sub-header">
+                
+            </p>
+
+
+<div><div class="contact-block"><h2 class="h4"></h2>
+
+<dl itemscope itemtype="http://schema.org/Person">
+
+
+
+        <dt class="contact-block-term">E-post</dt>
+        <dd class="contact-block-description" itemprop="email"><a href="mailto:ftgsys@scb.se">ftgsys@scb.se</a></dd>
+
+</dl>
+
+</div></div>            <p class="h3 contact-block-sub-header">
+                
+            </p>
+
+    </div>
+
+
+    </div>
+</section>
+
+<section aria-labelledby="_Etiketter">
+        <div class="row margin-bottom-double clearfix">
+        <h2 class="text-dark-gray category-icon-tag-small" id="Etiketter">Etiketter</h2>
+        <ul>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=4" > Anst&#xE4;llda</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=8" > Arbetskraft</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=151" > Personaloms&#xE4;ttning</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=166" > Sjukfr&#xE5;nvaro</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=188" > Sysselsatta</a>
+                </li>
+        </ul>
+    </div>
+
+</section>
+
+<p class="text-dark-gray">Kortadress till denna sida: https://www.scb.se/am0201 </p>
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="share centered-container">
+            <div class="share-wrapper clearfix">
+                <span class="text-dark-gray share-label h5">Dela sidan:</span>
+                <div class="share-icons">
+                    <a href="mailto:?subject=Kortperiodisk syssels&#xE4;ttningsstatistik (KS)&amp;body=http%3A%2F%2Fwww.scb.se%2FAM0201"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><use xlink:href="/img/icons_social_media.svg#mail"></use></svg><span class="share-fallback-text">Dela denna sida via e-post</span></a>
+                    <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.scb.se%2FAM0201"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#facebook"></use></svg><span class="share-fallback-text">Dela denna sida via Facebook</span></a>
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.scb.se%2FAM0201"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#linkedin"></use></svg><span class="share-fallback-text">Dela denna sida via LinkedIn</span></a>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+
+
+    
+    <footer id="footer">
+            <div class="centered-container">
+    <div id="sitemap" class="row inverted footer-bottom">
+            <div>
+                <h2 class="h3">Aktuell statistik</h2>
+                <ul>
+                        <li><a href="/hitta-statistik/statistiknyheter/">Statistiknyheter</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Nyheter och press</a></li>
+                        <li><a href="/hitta-statistik/publiceringskalendern/">Publiceringskalendern</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Hitta snabbt</h2>
+                <ul>
+                        <li><a href="/om-scb/kontakta-oss/">Kontakta oss</a></li>
+                        <li><a href="/om-scb/jobba-hos-oss/">Jobba hos oss</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Presskontakt</a></li>
+                        <li><a href="/hitta-statistik/rapporter/">Rapporter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Om inneh&#xE5;llet</h2>
+                <ul>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor">Om webbplatsen</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/tillganglighetsredogorelse/">Tillg&#xE4;nglighetsredog&#xF6;relse</a></li>
+                        <li><a href="/dokumentation/ordlista/">Ordlista</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/">Om kakor (cookies)</a></li>
+                        <li><a href="/om-scb/personuppgifter/">Personuppgifter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">F&#xF6;lj SCB</h2>
+                <ul>
+                        <li><a href="/om-scb/nyheter-och-press/bevaka-nyheter/">Bevaka nyheter fr&#xE5;n SCB</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/sociala-medier/">SCB i sociala medier</a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+<div class="copyright inverted">
+    <img class="footer_logo" src="/img/scb-logo.svg#inverted" alt="SCB Logotyp" width="40" height="48" />
+    <div class="footer-vision">Statistikmyndigheten SCB f&#xF6;rser samh&#xE4;llet med statistik f&#xF6;r beslutsfattande, debatt och forskning.</div>
+</div>
+    </footer>
+
+        
+<script type="module" src="/js/v-86385/scb.js"></script>
+
+
+<script type='module' src='/js/v-86385/pages/produkt-page.js'></script>
+<script type='module' src='/js/v-86385/modules/collapse.js'></script> 
+
+
+
+
+    
+    
+        <script src='/js/v-4/tracking/matomo.js' async id="mtmo" data-key="9zXnh5Ss"></script>
+
+
+</body>
+
+</html>

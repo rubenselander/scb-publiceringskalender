@@ -1,0 +1,287 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0501",
+    "response_url": "https://www.scb.se/AM0501",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/",
+    "fetched_at": "2026-10-05T13:10:12.198513Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "28274f729031520a722fb7d49c90522a6929d163b9c024007034f8b6cdf9355c",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Arbetsmiljöundersökningen",
+  "product_code": "AM0501",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2021 (pdf)",
+        "2019 (pdf)",
+        "2017 (pdf)",
+        "2015 (pdf)",
+        "2013 (pdf)",
+        "2011 (pdf)",
+        "2009 (pdf)",
+        "2007 (pdf)",
+        "2005 (pdf)",
+        "2003 (pdf)",
+        "2001 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_2024_kvalitetsdeklaration.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_2024_kvalitetsdeklaration.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_kd_2021_20221207.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_kd_2021_20221207.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_kd_2019_ip_201125.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_kd_2019_ip_201125.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_2017_kd_ip_180928.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_2017_kd_ip_180928.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2015.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2013.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2011.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2009_.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2009_.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2007_.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2007_.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2005.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2003.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_2001.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2021 (pdf)",
+        "2019 (pdf)",
+        "2017 (pdf)",
+        "2015 (pdf)",
+        "2013 (pdf)",
+        "2011 (pdf)",
+        "2009 (pdf)",
+        "2007 (pdf)",
+        "2005 (pdf)",
+        "2003 (pdf)",
+        "2001 (pdf)",
+        "1999 (pdf)",
+        "1997 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2024-.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2024-.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2021_20221207.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2021_20221207.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2019_ip_201125.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2019_ip_201125.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2017_ip_180928.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_staf_2017_ip_180928.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2015.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2013_as_170411.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2013_as_170411.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2011_ip_200513.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2011_ip_200513.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2009_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2009_ip_200629.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2007_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2007_ip_200629.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2005_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2005_ip_200629.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2003_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2003_ip_200629.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2001_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_2001_ip_200629.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_1999_ip_200629.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_1999_ip_200629.pdf"
+        },
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_1997.pdf",
+          "url": "https://www.scb.se/contentassets/a2ad4e9c34774bb096179640bd44a6f1/am0501_do_1997.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0501",
+          "url": "https://metadata.scb.se/?produkt=AM0501"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

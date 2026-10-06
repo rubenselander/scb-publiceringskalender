@@ -1,0 +1,320 @@
+{
+  "code": "BO",
+  "index_link": {
+    "text": "BO Boende, bebyggelse och mark",
+    "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/",
+    "fetched_at": "2026-10-05T13:15:54.773679Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "8a3fc5110b03635c5c86c708bd6291cd15345bd2c65bbb02a47142e0493d9c06",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Boende, bebyggelse och mark",
+  "areas": [
+    {
+      "label": "Bebyggelseområden",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Fritidshusområden",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/fritidshusomraden/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/fritidshusomraden/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Fritidshusområden är koncentrerad bebyggelse med minst 50 fritidshus. Fritidshus är småhus utan fast befolkning.",
+          "responsible_agency_text": null,
+          "tags_text": "Bebyggelse, Fritidshus, Markanvändning"
+        },
+        {
+          "link": {
+            "text": "Tätorter och småorter",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken beskriver befolkning, arealer, med mera, inom de bebyggelseområden som klassificeras som tätorter (minst 200 invånare) och som småorter (50 till 199 invånare). Statistiken bygger på SCB:s kartor/geodata med tätorter och småorter, som finns som öppna data.",
+          "responsible_agency_text": null,
+          "tags_text": "Bebyggelse, Befolkning, Demografi, Markanvändning, Småorter, Tätorter"
+        },
+        {
+          "link": {
+            "text": "Verksamhetsområden och handelsområden",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar antal anställda, arbetsställen, branscher och arealer för verksamhetsområden och handelsområden. Exempel på verksamhetsområden är flygplatser, gruvor och täkter, områden med industri, företagsparker och logistik eller områden med högskolor, universitet och vårdinrättningar. SCB skapar geodata/kartor med verksamhetsområden och handelsområden, som finns som öppna data.",
+          "responsible_agency_text": null,
+          "tags_text": "Arbete, Bebyggelse, Markanvändning"
+        }
+      ]
+    },
+    {
+      "label": "Bostäder och boende",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Avgifter/hyror för nybyggda lägenheter",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hyror/avgifter och insatser för olika lägenhetstyper inom nyproduktionen i olika delar av landet, fördelat på lägenhetstyper och upplåtelseformer per region.",
+          "responsible_agency_text": null,
+          "tags_text": "Bostäder, Fastigheter, Hyror, Lägenheter"
+        },
+        {
+          "link": {
+            "text": "Bostadsbestånd",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar antal lägenheter i bostadsbeståndet. I Statistikdatabasen redovisas bostadsbeståndet efter hustyp, byggnadsperiod, ägarkategori, upplåtelseform och storlek (bostadsarea). Den regionala indelningen av statistiken är på riks-, läns- och kommunnivå. Andra regionala nivåer kan tas ut på uppdragsbasis.",
+          "responsible_agency_text": null,
+          "tags_text": "Boende, Bostäder, Byggande, Fastigheter, Fritidshus, Lägenheter"
+        },
+        {
+          "link": {
+            "text": "Hushållens boende",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hushallens-boende/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hushallens-boende/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken om hushållens boende är en årlig undersökning som omfattar Sveriges folkbokförda befolkning. Statistiken ger information om till exempel boendeform och utrymmesstandard för hushåll och individer.",
+          "responsible_agency_text": null,
+          "tags_text": "Boende, Hushåll, Välfärd"
+        },
+        {
+          "link": {
+            "text": "Hyror i bostadslägenheter",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hyror-i-bostadslagenheter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hyror-i-bostadslagenheter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hyresnivåer och hyresförändringar i hyresrätter. Uppgifterna redovisas efter region (kommunnivå och uppåt), lägenhetstyp (antal rum) och ägarkategori. Undersökningen bygger på ett statistiskt urval på cirka 16 000 lägenheter i flerbostadshus och småhus i hela landet.",
+          "responsible_agency_text": null,
+          "tags_text": "Boende, Bostäder, Hyror, Lägenheter"
+        },
+        {
+          "link": {
+            "text": "Intäkts- och kostnadsundersökning för flerbostadshus (IKU)",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/intakts-och-kostnadsundersokning-for-flerbostadshus-iku/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/intakts-och-kostnadsundersokning-for-flerbostadshus-iku/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Undersökningen är nedlagd, sista redovisningsår avser 2015. Statistiken om intäkter och kostnader för flerbostadshus finns tillgänglig i Statistiska meddelanden (till och med år 2012) och i statistikdatabasen (år 1999–2015).",
+          "responsible_agency_text": null,
+          "tags_text": "Fastigheter, Lokaler, Lägenheter"
+        },
+        {
+          "link": {
+            "text": "Outhyrda bostadslägenheter i flerbostadshus",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar andelen outhyrda lägenheter i flerbostadshus och bostadsbeståndets struktur. Av de outhyrda lägenheterna redovisas hur många som är lediga till uthyrning och hur många som är utrymda för reparation, rivning eller är outhyrda av annan orsak. Undersökningen genomförs från och med 2024 vart tredje år.",
+          "responsible_agency_text": null,
+          "tags_text": "Bostäder, Fastigheter, Lägenheter"
+        }
+      ]
+    },
+    {
+      "label": "Byggande och ombyggnad",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Bygglov, nybyggnad och ombyggnad",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken omfattar alla nybyggnadsprojekt som kräver bygglov. \nBygglovsstatistik för bostäder och lokaler visar antal bygglov och lägenheter samt bruttoarea för nybyggnad av bostäder, fritidshus och lokaler. \nNybyggnad av bostäder visar bostadsbyggandets omfattning och inriktning av bostadslägenheter. \nOmbyggnad eller ändrad användning och rivning av flerbostadshus visar nettoförändringar av antalet lägenheter i flerbostadshus.",
+          "responsible_agency_text": null,
+          "tags_text": "Bostäder, Byggande, Fastigheter, Fritidshus, Lokaler, Lägenheter, Ombyggnad, Rivning, Villor"
+        },
+        {
+          "link": {
+            "text": "Priser för nyproducerade bostäder",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar priset för nyproducerade bostäder, det vill säga den kostnad som byggherren betalar för ett nybyggnadsprojekt uppdelad på flerbostadshus och gruppbyggda småhus. Ett projekt kan innehålla en eller flera byggnader, till exempel garage, soprum med mera.",
+          "responsible_agency_text": null,
+          "tags_text": "Bostäder, Byggande, Fastigheter, Lägenheter"
+        }
+      ]
+    },
+    {
+      "label": "Fastigheter",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Fastighetspriser och lagfarter",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter.",
+          "responsible_agency_text": null,
+          "tags_text": "Boende, Bostadspriser, Fastigheter, Fritidshus, Index, Priser, Småhus"
+        },
+        {
+          "link": {
+            "text": "Fastighetstaxeringar",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar taxeringsvärden, antal taxeringsenheter, nybyggnadsår med mera för Sveriges samtliga fastigheter. Uppgifterna bygger på de allmänna, förenklade och särskilda fastighetstaxeringarna som görs av Skatteverket.",
+          "responsible_agency_text": null,
+          "tags_text": "Fastigheter, Lokaler, Taxering, Taxeringsvärde"
+        }
+      ]
+    },
+    {
+      "label": "Markanvändning",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Grönytor i och omkring tätorter",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken beskriver grönstrukturen i de större tätorterna samt i vilken omfattning befolkningen har tillgång till grönområden. Statistiken produceras genom en kombinerad analys av satellitbilder och registerdata.",
+          "responsible_agency_text": null,
+          "tags_text": "Bebyggelse, Grönområden, Markanvändning, Tätorter"
+        },
+        {
+          "link": {
+            "text": "Land- och vattenarealer",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/land-och-vattenarealer/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/land-och-vattenarealer/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar land- och vattenarealer för DeSO, RegSO, kommuner, län och riket. Vattenarealerna är uppdelade på inlandsvatten (sjöar och vattendrag), de fyra stora sjöarna (Vänern, Vättern, Mälaren och Hjälmaren) och havsvatten ut till territorialgränsen.",
+          "responsible_agency_text": null,
+          "tags_text": "Areal, Hav, Land, Landyta, Sjöar"
+        },
+        {
+          "link": {
+            "text": "Markanvändningen i Sverige",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken ger en samlad beskrivning av hur marken i Sverige utnyttjas för olika ändamål och hur markutnyttjandet har förändrats över tid. Bland annat redovisas uppgifter om hur stora arealer mark som används för jordbruk, skogsbruk samt bebyggelse och infrastruktur av olika slag.",
+          "responsible_agency_text": null,
+          "tags_text": "Bebyggelse, Markanvändning, Markägande"
+        },
+        {
+          "link": {
+            "text": "Skogsmark för naturvårdsändamål",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skogsmark-for-naturvardsandamal/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skogsmark-for-naturvardsandamal/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Här redovisas en sammanhållen statistik för fem former av skogsmark som på olika sätt är reglerad eller avsatt för naturvårdsändamål - formellt skyddad skogsmark, ersatta arealer enligt skogsvårdslagen, frivilliga avsättningar, hänsynsytor och improduktiv skogsmark. Uppgifterna redovisas regionalt och fördelat på produktiv respektive total skogsmark. Statistiken tas fram i samarbete mellan SCB, Skogsstyrelsen, Naturvårdsverket och SLU Riksskogstaxeringen.",
+          "responsible_agency_text": null,
+          "tags_text": "Skog, Skogsmark"
+        },
+        {
+          "link": {
+            "text": "Skyddad natur",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken beskriver formellt skyddad natur i Sverige. Ett skyddat område är ett geografiskt definierat område som är permanent utpekat, reglerat och förvaltat för att uppnå specifika syften och bevarandemål. Här ingår bland annat nationalparker, naturreservat och biotopskyddsområden.",
+          "responsible_agency_text": null,
+          "tags_text": "Markanvändning, Miljöbalken, Nationalpark, Natura 2000, Naturreservat, Naturtyp"
+        },
+        {
+          "link": {
+            "text": "Strandnära markanvändning",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/strandnara-markanvandning/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/strandnara-markanvandning/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken beskriver arealer, bebyggelse och befolkning för områden nära vatten. Statistiken avser både Sveriges kust och områden längs med sjöar och vattendrag, samt på öar.",
+          "responsible_agency_text": null,
+          "tags_text": "Bebyggelse, Befolkning, Kust, Öar"
+        },
+        {
+          "link": {
+            "text": "Övrig statistik om markanvändning",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/ovrig-statistik-om-markanvandning/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/ovrig-statistik-om-markanvandning/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistik om markanvändning och bebyggelsestrukturer i Sverige, från enskilda undersökningar som inte passar in under någon av de övriga rubrikerna.",
+          "responsible_agency_text": null,
+          "tags_text": "Markanvändning"
+        }
+      ]
+    },
+    {
+      "label": "Ämnesövergripande statistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Bostads- och byggnadsstatistisk årsbok",
+            "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/amnesovergripande-statistik/bostads-och-byggnadsstatistisk-arsbok/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/amnesovergripande-statistik/bostads-och-byggnadsstatistisk-arsbok/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Bostads- och byggnadsstatistisk årsbok är nu nedlagd. Den har publicerats åren 1980–2010, samt 2012. Statistiken i årsboken har publicerats även i andra former, som till exempel databaser, statistiska meddelanden eller rapporter. Statistikkällor och kontaktinformation med utgångspunkt från den senaste årsboken finns i dokumentet Källor till Bostads- och byggnadsstatistisk årsbok 2012.",
+          "responsible_agency_text": null,
+          "tags_text": "Boende, Bostäder, Byggande, Fastigheter"
+        }
+      ]
+    }
+  ]
+}

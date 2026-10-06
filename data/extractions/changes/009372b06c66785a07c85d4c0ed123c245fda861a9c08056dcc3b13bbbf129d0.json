@@ -1,0 +1,493 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-nov-2024--31-mars-2025.pdf",
+    "response_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-nov-2024--31-mars-2025.pdf",
+    "canonical_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-nov-2024--31-mars-2025.pdf",
+    "fetched_at": "2026-10-05T13:16:37.201346Z",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "content_sha256": "74811b57c47cdb5e9f313c0cd659b6a29033c4328a85d94bd1a790dc323859b0",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "PDF words grouped by printed columns",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "link_label": "Ändringar i den officiella statistiken, nov 2024 - mars 2025 (pdf)",
+  "title": "Förändringar i den officiella statistiken",
+  "document_date_text": "April 2025",
+  "coverage_period_text": "1 nov 2024 – 31 mars 2025",
+  "page_count": 4,
+  "document_notes": [
+    "1/4\nApril 2025\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för kvalitet och nationell samordning\nFörändringar i den\nofficiella statistiken\nAvser perioden: 1 nov 2024 – 31 mars 2025\nUtöver de ändringar som listas nedan har ett stort antal ändringar\ngjorts som en direkt följd av ändringar i bilagan till förordningen\n(2001:100) om den officiella statistiken, vilken trädde i kraft den 1\njanuari 2025. Ändringar till följd av ändringen i statistikförordningens\nbilaga avser ändringar i produkters tillhörighet till statistik- och/eller\nämnesområde.\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare framtagna resultat, dokumentation m.m. redovisas på\nscb.se\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. redovisas inte på scb.se\n"
+  ],
+  "partial_sample": false,
+  "notices": [
+    {
+      "authority": "BRÅ",
+      "product_code": "RV1101",
+      "product_name": "Polisanmälda hatbrott",
+      "description": "Ny produkt. Statistiken över polisanmälda hatbrott har producerats av Brå sedan 2006. Produkten blev officiell statistik 2025-01-01.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 1,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Statistiken över polisanmälda hatbrott har producerats av Brå sedan 2006. Produkten blev officiell statistik 2025-01-01.",
+      "review_required": true
+    },
+    {
+      "authority": "CSN",
+      "product_code": "UF0404",
+      "product_name": "Nyttjande av studiestöd",
+      "description": "Ny produkt. Statistiken har tagits fram i flera år och är från och med 2025-02-19 officiell statistik.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 2,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": "2025-02-19",
+      "effective_date_text": "från och med 2025-02-19",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Statistiken har tagits fram i flera år och är från och med 2025-02-19 officiell statistik.",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0307",
+      "product_name": "Trädbränsle-, torv- och avfallspriser",
+      "description": "Ändring av periodicitet, förutom Kvartal (varje kvartal) nu även År (varje år)",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 3,
+      "change_kinds": [
+        "periodicity"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av periodicitet, förutom Kvartal (varje kvartal) nu även År (varje år)",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0125",
+      "product_name": "Hushållens energianvändning i flerbostadshus",
+      "description": "Ny produkt. Syftet med den nya produkten är att få en bild över elanvändning i hushåll i flerbostadshus, energibesparingspotentialer i hushåll i flerbostadshus samt energifattigdom i hushåll i flerbostadshus.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 4,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Syftet med den nya produkten är att få en bild över elanvändning i hushåll i flerbostadshus, energibesparingspotentialer i hushåll i flerbostadshus samt energifattigdom i hushåll i flerbostadshus.",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0120",
+      "product_name": "Leveranser av fordonsgas",
+      "description": "Ändring av produktnamn, svenska till ”Leveranser av fordonsgas och vätgas” Ändring av produktnamn, engelska, till ”Deliveries of natural gas, biomethane and hydrogen gas for transport”",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 5,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, svenska till ”Leveranser av fordonsgas och vätgas” Ändring av produktnamn, engelska, till ”Deliveries of natural gas, biomethane and hydrogen gas for transport”",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0203",
+      "product_name": "Sjukfall",
+      "description": "Ändring av produkt: Måttet ”Pågående sjukfall” har utökats med redovisningsgrupp för sjukfallets omfattning (100%, 75%, 50%, 25%). Statistik om hur många sjukfall som pågår på hel- eller deltid har saknats därför har en fördelning på sjukfallets omfattning lagts till för samtliga månader som redovisas.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 6,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Måttet ”Pågående sjukfall” har utökats med redovisningsgrupp för sjukfallets omfattning (100%, 75%, 50%, 25%). Statistik om hur många sjukfall som pågår på hel- eller deltid har saknats därför har en fördelning på sjukfallets omfattning lagts till för samtliga månader som redovisas.",
+      "review_required": false
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0213",
+      "product_name": "Statligt tandvårdsstöd",
+      "description": "Ändring av produkt: I rapporten \"Pris för tandvårdsåtgärder, år\" ändras länsvariabeln. Tidigare gällde den patientens län, numera gäller den mottagningens län. Det blir mer relevant att visa prisnivån utifrån var mottagningen är belägen istället för var deras patienter är bosatta.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 7,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: I rapporten \"Pris för tandvårdsåtgärder, år\" ändras länsvariabeln. Tidigare gällde den patientens län, numera gäller den mottagningens län. Det blir mer relevant att visa prisnivån utifrån var mottagningen är belägen istället för var deras patienter är bosatta.",
+      "review_required": true
+    },
+    {
+      "authority": "Jordbruksverket",
+      "product_code": "JO0114",
+      "product_name": "Ekologisk växtodling",
+      "description": "Tillägg av periodicitet: År (varje år)",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 8,
+      "change_kinds": [
+        "periodicity"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Tillägg av periodicitet: År (varje år)",
+      "review_required": true
+    },
+    {
+      "authority": "Jordbruksverket",
+      "product_code": "JO1302",
+      "product_name": "Djurhälsa",
+      "description": "Ändring av periodicitet, från År (varje år) till År (intermittent)",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 9,
+      "change_kinds": [
+        "periodicity"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av periodicitet, från År (varje år) till År (intermittent)",
+      "review_required": true
+    },
+    {
+      "authority": "Kemikalieinspektionen",
+      "product_code": "MI0503",
+      "product_name": "Försålda kvantiteter av bekämpningsmedel",
+      "description": "Ändring av EU-reglering. Produkten är EU-reglerad enligt Europaparlamentets och rådets förordning (EG) nr",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 10,
+      "change_kinds": [
+        "other"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av EU-reglering. Produkten är EU-reglerad enligt Europaparlamentets och rådets förordning (EG) nr",
+      "review_required": true
+    },
+    {
+      "authority": "Konjunkturinstitutet",
+      "product_code": "PR2001",
+      "product_name": "Konjunkturbarometern Företag",
+      "description": "Ny produkt. Då Konjunkturbarometern hushåll redan är officiell statistik, är det naturligt att även Konjunktur- barometern företag är det för att täcka hela området.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 11,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Då Konjunkturbarometern hushåll redan är officiell statistik, är det naturligt att även Konjunktur- barometern företag är det för att täcka hela området.",
+      "review_required": false
+    },
+    {
+      "authority": "Pensionsmyndigheten",
+      "product_code": "HE0501",
+      "product_name": "Total pension",
+      "description": "Ny produkt. Pensionsmyndigheten har sedan 2019 publicerat uppgifter om Total pension som s.k. annan statistik. Total pension klassificeras som officiell statistik från och med 2025.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 12,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Pensionsmyndigheten har sedan 2019 publicerat uppgifter om Total pension som s.k. annan statistik. Total pension klassificeras som officiell statistik från och med 2025.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "AM0701",
+      "product_name": "Konjunkturstatistik över vakanser",
+      "description": "Produkten blir inaktiv. Fr.o.m. kvartal 2 2024 ersattes AM0701 av den nya officiella statistikprodukten AM0702 Lediga jobb och rekryteringsbehov. Sista referensåret för AM0701 är 2024.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 13,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "AM0702"
+      ],
+      "interpretation_evidence": "Produkten blir inaktiv. Fr.o.m. kvartal 2 2024 ersattes AM0701 av den nya officiella statistikprodukten AM0702 Lediga jobb och rekryteringsbehov. Sista referensåret för AM0701 är 2024.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "AM0211",
+      "product_name": "Anställningar",
+      "description": "Ändring av periodicitet. Hittills har månadsuppgifter publicerats kvartalsvis, men från 2025 kommer de att publiceras månadsvis.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 14,
+      "change_kinds": [
+        "periodicity"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av periodicitet. Hittills har månadsuppgifter publicerats kvartalsvis, men från 2025 kommer de att publiceras månadsvis.",
+      "review_required": true
+    },
+    {
+      "authority": "Skogsstyrelsen",
+      "product_code": "JO2001",
+      "product_name": "Priser på skogsmark",
+      "description": "Ny produkt Fr.o.m. 2025-11-25 är produkten officiell statistik. Priser på försålda lantbruksfastigheters produktiva skogsmark har tidigare publicerats i Skogsstatistisk årsbok.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 15,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-11-25",
+      "effective_date_text": "fr.o.m. 2025-11-25",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt Fr.o.m. 2025-11-25 är produkten officiell statistik. Priser på försålda lantbruksfastigheters produktiva skogsmark har tidigare publicerats i Skogsstatistisk årsbok.",
+      "review_required": false
+    },
+    {
+      "authority": "Skogsstyrelsen",
+      "product_code": "JO0306",
+      "product_name": "Lager av barrsågtimmer, massaved och massaflis",
+      "description": "Ändring av produktnamn, svenska till ”Lager av rundvirke och massaflis” Ändring av produktnamn, engelska, till ”Stocks of roundwood and pulp chips”. Ytterligare ett sortiment har lagts till i undersökningen vilket skulle göra att benämningen blir ännu längre. Skogsstyrelsen vill alltså ha ett kortare namn. Såväl barrsågtimmer, massaved och det nya sortimentet rundvirke för energiändamål omfattas av begreppet rundvirke.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 16,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "mixed",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, svenska till ”Lager av rundvirke och massaflis” Ändring av produktnamn, engelska, till ”Stocks of roundwood and pulp chips”. Ytterligare ett sortiment har lagts till i undersökningen vilket skulle göra att benämningen blir ännu längre. Skogsstyrelsen vill alltså ha ett kortare namn. Såväl barrsågtimmer, massaved och det nya sortimentet rundvirke för energiändamål omfattas av begreppet rundvirke.",
+      "review_required": true
+    },
+    {
+      "authority": "Skolverket",
+      "product_code": "UF0110",
+      "product_name": "Kommunal vuxenutbildning som anpassad utbildning",
+      "description": "Ändring av produkt. Produkten ändras så att mätningen görs på samma sätt som för övriga Komvux (förr mätdatum och nu kalenderår). Även produktnamnet ändras så att innehållet blir tydligare för användarna. Det nya produktnamnet är ”Komvux som anpassad utbildning: elever, kursdeltagare och utbildningsresultat”. Ändringen gäller fr o m 2025-01-01.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 17,
+      "change_kinds": [
+        "name",
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-01-01",
+      "effective_date_text": "ändringen gäller fr o m 2025-01-01",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Produkten ändras så att mätningen görs på samma sätt som för övriga Komvux (förr mätdatum och nu kalenderår). Även produktnamnet ändras så att innehållet blir tydligare för användarna. Det nya produktnamnet är ”Komvux som anpassad utbildning: elever, kursdeltagare och utbildningsresultat”. Ändringen gäller fr o m 2025-01-01.",
+      "review_required": false
+    },
+    {
+      "authority": "Skolverket",
+      "product_code": "UF0106",
+      "product_name": "Komvux: elever, kursdeltagare och utbildningsresultat",
+      "description": "Ändring av produktnamn. Det nya produktnamnet är ”Komvux på grundläggande och gymnasial nivå: elever, kursdeltagare och utbildningsresultat”. Ändringen gäller fr o m 2025-01-01.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 18,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-01-01",
+      "effective_date_text": "ändringen gäller fr o m 2025-01-01",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn. Det nya produktnamnet är ”Komvux på grundläggande och gymnasial nivå: elever, kursdeltagare och utbildningsresultat”. Ändringen gäller fr o m 2025-01-01.",
+      "review_required": false
+    },
+    {
+      "authority": "Socialstyrelsen",
+      "product_code": "SO0202",
+      "product_name": "Statistik om insatser till vuxna personer med missbruk och beroende",
+      "description": "Ändring av produktnamn till ”Statistik om insatser till vuxna personer med skadligt bruk och beroende”",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 19,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn till ”Statistik om insatser till vuxna personer med skadligt bruk och beroende”",
+      "review_required": true
+    },
+    {
+      "authority": "Socialstyrelsen",
+      "product_code": "SF0202",
+      "product_name": "Ohälsomått",
+      "description": "Ändring av produkt. Ett nytt mått, Sjukpenningtalet 2.0, har lagts till i produkten. Måttet visar antal nettodagar med sjukpenning och rehabiliteringspenning i relation till skattat antal sjukpenningförsäkrade efter kön, län, kommun och ålder. Måttet har en nämnare som är en bättre skattning av de som kan bli aktuella för sjukpenning och rehabiliteringspenning.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 20,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Ett nytt mått, Sjukpenningtalet 2.0, har lagts till i produkten. Måttet visar antal nettodagar med sjukpenning och rehabiliteringspenning i relation till skattat antal sjukpenningförsäkrade efter kön, län, kommun och ålder. Måttet har en nämnare som är en bättre skattning av de som kan bli aktuella för sjukpenning och rehabiliteringspenning.",
+      "review_required": false
+    },
+    {
+      "authority": "Tillväxtverket",
+      "product_code": "NV1703",
+      "product_name": "Turismsatelliträkenskaper",
+      "description": "Ny produkt. Produkten har tagits fram sedan 1995 men det är först nu som förordningsförändringen har möjliggjort att den kan klassificeras som officiell statistik.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 21,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Produkten har tagits fram sedan 1995 men det är först nu som förordningsförändringen har möjliggjort att den kan klassificeras som officiell statistik.",
+      "review_required": true
+    },
+    {
+      "authority": "Trafikanalys",
+      "product_code": "TK1006",
+      "product_name": "Lastbilstrafik",
+      "description": "Ändring av produktnamn, engelska till ”Swedish road goods transport”",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 22,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, engelska till ”Swedish road goods transport”",
+      "review_required": true
+    },
+    {
+      "authority": "Trafikanalys",
+      "product_code": "TK1009",
+      "product_name": "Körsträckor med svenskregistrerade fordon",
+      "description": "Ändring av produktnamn, svenska till ”Körsträckor” Ändring av produktnamn, engelska, till ”Vehicles kilometres”",
+      "pages": [
+        4
+      ],
+      "row_ordinal": 23,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, svenska till ”Körsträckor” Ändring av produktnamn, engelska, till ”Vehicles kilometres”",
+      "review_required": true
+    },
+    {
+      "authority": "Trafikanalys",
+      "product_code": "TK1101",
+      "product_name": "RVU Sverige",
+      "description": "Ändring av produktnamn, svenska till ”Resvanor i Sverige”",
+      "pages": [
+        4
+      ],
+      "row_ordinal": 24,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, svenska till ”Resvanor i Sverige”",
+      "review_required": true
+    }
+  ],
+  "page_texts": {
+    "1": "1/4\nApril 2025\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för kvalitet och nationell samordning\nFörändringar i den\nofficiella statistiken\nAvser perioden: 1 nov 2024 – 31 mars 2025\nUtöver de ändringar som listas nedan har ett stort antal ändringar\ngjorts som en direkt följd av ändringar i bilagan till förordningen\n(2001:100) om den officiella statistiken, vilken trädde i kraft den 1\njanuari 2025. Ändringar till följd av ändringen i statistikförordningens\nbilaga avser ändringar i produkters tillhörighet till statistik- och/eller\nämnesområde.\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare framtagna resultat, dokumentation m.m. redovisas på\nscb.se\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. redovisas inte på scb.se\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nBRÅ RV1101 Polisanmälda hatbrott Ny produkt. Statistiken över\npolisanmälda hatbrott har producerats\nav Brå sedan 2006. Produkten blev\nofficiell statistik 2025-01-01.\nCSN UF0404 Nyttjande av studiestöd Ny produkt. Statistiken har tagits fram i\nflera år och är från och med 2025-02-19\nofficiell statistik.\nEnergimyndigheten EN0307 Trädbränsle-, torv- och avfallspriser Ändring av periodicitet, förutom Kvartal\n(varje kvartal) nu även År (varje år)\nEnergimyndigheten EN0125 Hushållens energianvändning i Ny produkt. Syftet med den nya\nflerbostadshus produkten är att få en bild över\nelanvändning i hushåll i flerbostadshus,\nenergibesparingspotentialer i hushåll i\nflerbostadshus samt energifattigdom i\nhushåll i flerbostadshus.\nEnergimyndigheten EN0120 Leveranser av fordonsgas Ändring av produktnamn, svenska till\n”Leveranser av fordonsgas och vätgas”\nÄndring av produktnamn, engelska, till\n”Deliveries of natural gas, biomethane\nand hydrogen gas for transport”",
+    "2": "2/4\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nFörsäkringskassan SF0203 Sjukfall Ändring av produkt: Måttet ”Pågående\nsjukfall” har utökats med\nredovisningsgrupp för sjukfallets\nomfattning (100%, 75%, 50%, 25%).\nStatistik om hur många sjukfall som\npågår på hel- eller deltid har saknats\ndärför har en fördelning på sjukfallets\nomfattning lagts till för samtliga\nmånader som redovisas.\nFörsäkringskassan SF0213 Statligt tandvårdsstöd Ändring av produkt: I rapporten \"Pris\nför tandvårdsåtgärder, år\" ändras\nlänsvariabeln. Tidigare gällde den\npatientens län, numera gäller den\nmottagningens län. Det blir mer\nrelevant att visa prisnivån utifrån var\nmottagningen är belägen istället för var\nderas patienter är bosatta.\nJordbruksverket JO0114 Ekologisk växtodling Tillägg av periodicitet: År (varje år)\nJordbruksverket JO1302 Djurhälsa Ändring av periodicitet, från År (varje\når) till År (intermittent)\nKemikalieinspektionen MI0503 Försålda kvantiteter av Ändring av EU-reglering. Produkten är\nbekämpningsmedel EU-reglerad enligt Europaparlamentets\noch rådets förordning (EG) nr\n1185/2009\nKonjunkturinstitutet PR2001 Konjunkturbarometern Företag Ny produkt. Då Konjunkturbarometern\nhushåll redan är officiell statistik, är det\nnaturligt att även Konjunktur-\nbarometern företag är det för att täcka\nhela området.\nPensionsmyndigheten HE0501 Total pension Ny produkt. Pensionsmyndigheten har\nsedan 2019 publicerat uppgifter om\nTotal pension som s.k. annan statistik.\nTotal pension klassificeras som\nofficiell statistik från och med 2025.\nSCB AM0701 Konjunkturstatistik över vakanser Produkten blir inaktiv. Fr.o.m. kvartal 2\n2024 ersattes AM0701 av den nya\nofficiella statistikprodukten AM0702\nLediga jobb och rekryteringsbehov.\nSista referensåret för AM0701 är 2024.\nSCB AM0211 Anställningar Ändring av periodicitet. Hittills har\nmånadsuppgifter publicerats\nkvartalsvis, men från 2025 kommer de\natt publiceras månadsvis.\nSkogsstyrelsen JO2001 Priser på skogsmark Ny produkt Fr.o.m. 2025-11-25 är\nprodukten officiell statistik. Priser på\nförsålda lantbruksfastigheters\nproduktiva skogsmark har tidigare\npublicerats i Skogsstatistisk årsbok.",
+    "3": "3/4\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nSkogsstyrelsen JO0306 Lager av barrsågtimmer, massaved Ändring av produktnamn, svenska till\noch massaflis ”Lager av rundvirke och massaflis”\nÄndring av produktnamn, engelska, till\n”Stocks of roundwood and pulp chips”.\nYtterligare ett sortiment har lagts till i\nundersökningen vilket skulle göra att\nbenämningen blir ännu längre.\nSkogsstyrelsen vill alltså ha ett kortare\nnamn. Såväl barrsågtimmer, massaved\noch det nya sortimentet rundvirke för\nenergiändamål omfattas av begreppet\nrundvirke.\nSkolverket UF0110 Kommunal vuxenutbildning som Ändring av produkt. Produkten ändras\nanpassad utbildning så att mätningen görs på samma sätt\nsom för övriga Komvux (förr mätdatum\noch nu kalenderår).\nÄven produktnamnet ändras så att\ninnehållet blir tydligare för användarna.\nDet nya produktnamnet är ”Komvux\nsom anpassad utbildning: elever,\nkursdeltagare och utbildningsresultat”.\nÄndringen gäller fr o m 2025-01-01.\nSkolverket UF0106 Komvux: elever, kursdeltagare och Ändring av produktnamn. Det nya\nutbildningsresultat produktnamnet är ”Komvux på\ngrundläggande och gymnasial nivå:\nelever, kursdeltagare och\nutbildningsresultat”. Ändringen gäller\nfr o m 2025-01-01.\nSocialstyrelsen SO0202 Statistik om insatser till vuxna Ändring av produktnamn till ”Statistik\npersoner med missbruk och beroende om insatser till vuxna personer med\nskadligt bruk och beroende”\nSocialstyrelsen SF0202 Ohälsomått Ändring av produkt. Ett nytt mått,\nSjukpenningtalet 2.0, har lagts till i\nprodukten. Måttet visar antal\nnettodagar med sjukpenning och\nrehabiliteringspenning i relation till\nskattat antal sjukpenningförsäkrade\nefter kön, län, kommun och ålder.\nMåttet har en nämnare som är en\nbättre skattning av de som kan bli\naktuella för sjukpenning och\nrehabiliteringspenning.\nTillväxtverket NV1703 Turismsatelliträkenskaper Ny produkt. Produkten har tagits fram\nsedan 1995 men det är först nu som\nförordningsförändringen har möjliggjort\natt den kan klassificeras som officiell\nstatistik.\nTrafikanalys TK1006 Lastbilstrafik Ändring av produktnamn, engelska till\n”Swedish road goods transport”",
+    "4": "4/4\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nTrafikanalys TK1009 Körsträckor med svenskregistrerade Ändring av produktnamn, svenska till\nfordon ”Körsträckor”\nÄndring av produktnamn, engelska, till\n”Vehicles kilometres”\nTrafikanalys TK1101 RVU Sverige Ändring av produktnamn, svenska till\n”Resvanor i Sverige”"
+  }
+}

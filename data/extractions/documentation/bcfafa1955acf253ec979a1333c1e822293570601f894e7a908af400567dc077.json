@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/SF0207",
+    "response_url": "https://www.scb.se/SF0207",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/utbetalningar-av-arbets-och-yrkesskadelivrantor-exkl-arbetsskadelivrantor-till-efterlevande/",
+    "fetched_at": "2026-10-05T13:14:15.886768Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0bf1b18773f06bfc66ccb9fb946f2d963dc181b9cea6586c196d316598071e01",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Utbetalningar av arbets- och yrkesskadelivräntor (exkl. arbetsskadelivräntor till efterlevande)",
+  "product_code": "SF0207",
+  "has_documentation_section": false,
+  "groups": []
+}

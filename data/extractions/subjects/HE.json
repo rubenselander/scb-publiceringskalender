@@ -1,0 +1,198 @@
+{
+  "code": "HE",
+  "index_link": {
+    "text": "HE Hushållens ekonomi",
+    "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/",
+    "fetched_at": "2026-10-05T13:15:56.488823Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "82352c059c85adda2409c4e2490f0bc9700e34bdf9b517994c4938a414b396af",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Hushållens ekonomi",
+  "areas": [
+    {
+      "label": "Hushållens inkomster, tillgångar och skulder",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Antalet helårspersoner som försörjdes med sociala ersättningar och bidrag",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar antal helårspersoner i arbetsför ålder som försörjs med sociala ersättningar och bidrag, såsom sjukpenning, sjuk- och aktivitetsersättning, ersättning vid arbetslöshet och ekonomiskt bistånd. För att skapa jämförbarhet mellan olika typer av ersättningar beräknas så kallade helårsekvivalenter som visar hur många som skulle kunna försörjas under ett helt år med full ersättning.",
+          "responsible_agency_text": null,
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Fördelningsanalytiskt statistiksystem för inkomster och transfereringar (FASIT)",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "FASIT är en mikrosimuleringsmodell som beräknar effekterna av förändringar i skatte-, avgifts- och transfereringssystemen för individer och hushåll. Det är möjligt att beräkna hur förändringar i dessa system påverkar olika grupper i samhället samt vilken effekt de får på de offentliga finanserna.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, FASIT, Hushåll, Inkomst, Simulering"
+        },
+        {
+          "link": {
+            "text": "Företagsregister och individdatabas (FRIDA)",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "FRIDA är en databas på mikronivå med koppling mellan företag och företagaren som kan användas för att göra beräkningar av skatteeffekter och ger information om hur företagen skulle kunna anpassa sina beteenden vid olika förändringar i skattelagstiftningen.",
+          "responsible_agency_text": null,
+          "tags_text": "Företag"
+        },
+        {
+          "link": {
+            "text": "Hushållens ekonomi (HEK)",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-ekonomi-hek/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-ekonomi-hek/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Undersökningen har avslutats. Inkomststatistik för hushåll är numera en del av undersökningen Inkomster och skatter. Statistik om utgifter för boende ingår i undersökningen Boendeutgifter. Statistik om boende för hushåll redovisas i undersökningen Hushållens boende.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Hushåll, Inkomst, Utgifter, Välfärd"
+        },
+        {
+          "link": {
+            "text": "Hushållens tillgångar och skulder",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-tillgangar-och-skulder/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-tillgangar-och-skulder/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistik över hushållens tillgångar och skulder finns för åren 1999–2007. Statistiken visar fördelning och sammansättning av befolkningens tillgångar och skulder.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Förmögenhet, Tillgångar och skulder, Välfärd"
+        },
+        {
+          "link": {
+            "text": "Inkomster och skatter",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar inkomstfördelning och storleken på inkomster, skatter, kapitalvinster och skattereduktioner, som RUT och ROT, efter kön, ålder, födelseland, län och kommun, för både individer och hushåll. Statistiken är totalräknad och lämpar sig väl för regionala redovisningar.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Inkomst, Lön, Pension, Skatt, Välfärd"
+        },
+        {
+          "link": {
+            "text": "Longitudinell individdatabas (LINDA)",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/longitudinell-individdatabas-linda/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/longitudinell-individdatabas-linda/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "LINDA är en urvalsbaserad longitudinell individdatabas som i första hand riktar sig till forskare. Det huvudsakliga syftet med databasen är att ge forskare möjligheten att studera inkomstutveckling för olika grupper under en lång tid. Data finns för åren 1968–2018. LINDA uppdateras inte längre.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Inkomst, Skatt, Välfärd"
+        }
+      ]
+    },
+    {
+      "label": "Hushållens utgifter",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Hushållens boendeutgifter",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-boendeutgifter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-boendeutgifter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hushållens boendeutgifter i olika upplåtelseformer. Boendeutgiften sätts också i relation till hushållets inkomst. Statistik om boendeutgifter tillhörde tidigare undersökningen Hushållens ekonomi (HEK) men från 2015 finns undersökningen Hushållens boendeutgifter. Undersökningen genomförs vartannat år 2024-2030 och därefter med 2-3 års mellanrum.",
+          "responsible_agency_text": null,
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Hushållens konsumtion",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar hushållens konsumtion och används som underlag för analys av Sveriges ekonomi på kort och lång sikt.",
+          "responsible_agency_text": null,
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Hushållens utgifter (HUT)",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar utgifter för olika hushållsgrupper och hur utgifterna fördelas mellan olika varor och tjänster. En av statistikens viktigaste uppgifter är att upptäcka och uppmärksamma grupper som är utsatta i ett eller annat avseende. Undersökningen har gjorts sedan 1958. Undersökningen genomförs år 2026 och därefter vart femte år från och med 2030.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Hushåll, Konsumtion, Utgifter, Välfärd"
+        }
+      ]
+    },
+    {
+      "label": "Pensioner",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Total pension",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/pensioner/total-pension/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/pensioner/total-pension/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken redovisar den totala pensionen, det vill säga allmän pension, änkepension, tjänstepension och privat pension.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Pensionsmyndigheten",
+          "tags_text": null
+        }
+      ]
+    },
+    {
+      "label": "Ämnesövergripande statistik",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Hushållens ekonomi allmän statistik",
+            "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/amnesovergripande-statistik/hushallens-ekonomi-allman-statistik/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/amnesovergripande-statistik/hushallens-ekonomi-allman-statistik/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Här redovisas allmän statistik om hushållens ekonomi. Statistiken avseende självförsörjning publicerades 2025-04-10. Statistiken utgör redovisning av ett regeringsuppdrag om att ta fram statistik avseende antal och andel självförsörjande, ej självförsörjande och heltidsstuderande/värnpliktiga i hela befolkningen och i grupper av befolkningen i åldern 20–65 år för perioden 2013–2023. Självförsörjningsmåttet har tagits fram av regeringen.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Inkomst, Välfärd"
+        }
+      ]
+    }
+  ]
+}

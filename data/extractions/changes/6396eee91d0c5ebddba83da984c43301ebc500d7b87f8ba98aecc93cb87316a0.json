@@ -1,0 +1,382 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf",
+    "response_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf",
+    "canonical_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf",
+    "fetched_at": "2026-10-05T13:16:36.362674Z",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "content_sha256": "13831a94c8a87544f442a49b18baeaa51061d9c54b68fdb5b7cad9db79ed2ef1",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "PDF words grouped by printed columns",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "link_label": "Ändringar i den officiella statistiken, april - okt 2025 (pdf)",
+  "title": "Förändringar i den officiella statistiken",
+  "document_date_text": "Okt 2025",
+  "coverage_period_text": "april – oktober 2025",
+  "page_count": 3,
+  "document_notes": [
+    "1/3\nOkt 2025\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för samordning och kvalitet\nFörändringar i den\nofficiella statistiken\nAvser perioden: april – oktober 2025\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare\nframtagna resultat, dokumentation m.m. ska redovisas t.ex. på scb.se.\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. ska\ninte redovisas på scb.se.\n"
+  ],
+  "partial_sample": false,
+  "notices": [
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0110",
+      "product_name": "Energianvändning i fritidshus",
+      "description": "Ändring av produktnamn, på svenska, till ”Energistatistik för fritidshus”. Ändring av produktnamn, på engelska, till ”Energy statistics for holiday homes”.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 1,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn, på svenska, till ”Energistatistik för fritidshus”. Ändring av produktnamn, på engelska, till ”Energy statistics for holiday homes”.",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0125",
+      "product_name": "Hushållens energianvändning i flerbostadshus",
+      "description": "Ändring av produkt. På grund av låg svarsfrekvens (19 %) väljer SAM att inte publicera resultaten från denna produkt som en del av den officiella statistiken. I stället kommer resultaten att publiceras som Övrig statistik på SAM:s egen hemsida.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 2,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. På grund av låg svarsfrekvens (19 %) väljer SAM att inte publicera resultaten från denna produkt som en del av den officiella statistiken. I stället kommer resultaten att publiceras som Övrig statistik på SAM:s egen hemsida.",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0121",
+      "product_name": "Industrins energianvändning i småföretag",
+      "description": "Produkten avslutas och ingår framöver i stället i EN0113.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 3,
+      "change_kinds": [
+        "closed"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "EN0113"
+      ],
+      "interpretation_evidence": "Produkten avslutas och ingår framöver i stället i EN0113.",
+      "review_required": true
+    },
+    {
+      "authority": "Energimyndigheten",
+      "product_code": "EN0113",
+      "product_name": "Industrins energianvändning",
+      "description": "Sammanslagning av produkter: EN0121 ingår framöver i EN0113.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 4,
+      "change_kinds": [
+        "merge"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "EN0121"
+      ],
+      "interpretation_evidence": "Sammanslagning av produkter: EN0121 ingår framöver i EN0113.",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0108",
+      "product_name": "Föräldrapenning",
+      "description": "Ändring av produkt. Ett nytt mått läggs till; Genomsnittligt antal dubbeldagar per barn. Gäller fr o m 2025-04-10.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 5,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-04-10",
+      "effective_date_text": "fr o m 2025-04-10",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Ett nytt mått läggs till; Genomsnittligt antal dubbeldagar per barn. Gäller fr o m 2025-04-10.",
+      "review_required": false
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0203",
+      "product_name": "Sjukfall",
+      "description": "Ändring av produkt: Statistik över startade sjukfall per 1000 förvärvsarbetande i yrket per diagnoskapitel redovisas i statistikdatabasen för referensåren 2017–2023. Det som är nytt är att samtliga diagnoskapitel redovisas och statistiken redovisas i databas.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 6,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Statistik över startade sjukfall per 1000 förvärvsarbetande i yrket per diagnoskapitel redovisas i statistikdatabasen för referensåren 2017–2023. Det som är nytt är att samtliga diagnoskapitel redovisas och statistiken redovisas i databas.",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0206",
+      "product_name": "Aktivitetsersättning, sjukersättning och bostadstillägg",
+      "description": "Ändring av produkt: Försäkringskassan avser att lägga till en statistikrapport i sin statistikdatabas som heter \"Antal förstagångsbeviljade med aktivitetsersättning och sjukersättning\". Det är en årsrapport som kommer att uppdateras en gång per år. Tidigare hade de en rapport som visade antalet nybeviljade med sjuk- och aktivitetsersättning. Denna togs sedan bort som officiell statistik från produkten eftersom de bedömde att kvaliteteten inte var tillräckligt bra. Nu har de arbetat fram en ny rapport utifrån en bättre datakälla.",
+      "pages": [
+        1,
+        2
+      ],
+      "row_ordinal": 7,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "planned",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Försäkringskassan avser att lägga till en statistikrapport i sin statistikdatabas som heter \"Antal förstagångsbeviljade med aktivitetsersättning och sjukersättning\". Det är en årsrapport som kommer att uppdateras en gång per år. Tidigare hade de en rapport som visade antalet nybeviljade med sjuk- och aktivitetsersättning. Denna togs sedan bort som officiell statistik från produkten eftersom de bedömde att kvaliteteten inte var tillräckligt bra. Nu har de arbetat fram en ny rapport utifrån en bättre datakälla.",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0206",
+      "product_name": "Aktivitetsersättning, sjukersättning och bostadstillägg",
+      "description": "Ändring av produkt. Bostadstillägg kommer att presenteras som månadsstatistik i stället. Dessutom är det två nya variabler, Län och Beloppstyp (för sjuk- och aktivitetsersättning).",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 8,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "planned",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Bostadstillägg kommer att presenteras som månadsstatistik i stället. Dessutom är det två nya variabler, Län och Beloppstyp (för sjuk- och aktivitetsersättning).",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0211",
+      "product_name": "Omvårdnadsbidrag",
+      "description": "Tillägg av tabell i en produkt. Försäkringskassan kommer att publicera ytterligare en tabell; förstagångsbeviljanden av omvårdnadsbidrag. Ändringen gäller fr.o.m. 2025-10-10.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 9,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "mixed",
+      "effective_date": "2025-10-10",
+      "effective_date_text": "ändringen gäller fr.o.m. 2025-10-10",
+      "related_product_codes": [],
+      "interpretation_evidence": "Tillägg av tabell i en produkt. Försäkringskassan kommer att publicera ytterligare en tabell; förstagångsbeviljanden av omvårdnadsbidrag. Ändringen gäller fr.o.m. 2025-10-10.",
+      "review_required": true
+    },
+    {
+      "authority": "Kungliga biblioteket",
+      "product_code": "KU0106",
+      "product_name": "Skolbiblioteksstatistik",
+      "description": "Ny produkt: Kungl. biblioteket har tidigare samlat in statistik om skolbibliotek tillsammans med andra bibliotekstyper. Från och med 2025 kommer skolbiblioteken att hanteras i en separat undersökning. Det ger KB möjlighet att producera statistik som är mer anpassad till användarnas behov, eftersom det skiljer sig mellan bibliotekstyperna. Arbetet är en del av det utvecklingsarbete Kungl. Biblioteket genomför tillsammans med Skolverket i syfte att stärka statistikens användbarhet, öka svarsfrekvensen bland skolbiblioteken och verka för att skolbibliotek ger jämförbara svar.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 10,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt: Kungl. biblioteket har tidigare samlat in statistik om skolbibliotek tillsammans med andra bibliotekstyper. Från och med 2025 kommer skolbiblioteken att hanteras i en separat undersökning. Det ger KB möjlighet att producera statistik som är mer anpassad till användarnas behov, eftersom det skiljer sig mellan bibliotekstyperna. Arbetet är en del av det utvecklingsarbete Kungl. Biblioteket genomför tillsammans med Skolverket i syfte att stärka statistikens användbarhet, öka svarsfrekvensen bland skolbiblioteken och verka för att skolbibliotek ger jämförbara svar.",
+      "review_required": true
+    },
+    {
+      "authority": "Kungliga biblioteket",
+      "product_code": "KU0105",
+      "product_name": "Offentligt finansierade bibliotek",
+      "description": "Ändring av produkt. Produkten \"Offentligt finansierade bibliotek\" har förändrats eftersom den numera inte innehåller samtliga bibliotekstyper. Skolbibliotek undersöks istället i en separat undersökning och utgår därmed ur produkten. Produkten omfattar fr o m 2025 följande bibliotekstyper: folkbibliotek, forskningsbibliotek, specialbibliotek och sjukhusbibliotek. Ändring av produktnamn, på svenska till: ”Folk-, lärosätes- och sjukhusbibliotek ” Ändring av produktnamn på engelska, till ”Public, Academic, and Hospital Libraries”",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 11,
+      "change_kinds": [
+        "name",
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Produkten \"Offentligt finansierade bibliotek\" har förändrats eftersom den numera inte innehåller samtliga bibliotekstyper. Skolbibliotek undersöks istället i en separat undersökning och utgår därmed ur produkten. Produkten omfattar fr o m 2025 följande bibliotekstyper: folkbibliotek, forskningsbibliotek, specialbibliotek och sjukhusbibliotek. Ändring av produktnamn, på svenska till: ”Folk-, lärosätes- och sjukhusbibliotek ” Ändring av produktnamn på engelska, till ”Public, Academic, and Hospital Libraries”",
+      "review_required": true
+    },
+    {
+      "authority": "Myndigheten för familjerätt och föräldraskapsstöd",
+      "product_code": "SO0201",
+      "product_name": "Statistik om familjerätt",
+      "description": "Ändring av produkt: Tillägg av variabler; uppgift om antal barn som ingår i upplysningar och utredningar och vårdnad, boende och umgänge redovisas, förutom i totalt antal, även per 10 000 av samtliga barn 0–17 år för respektive kommun. Syftet med tillägget är att förbättra möjligheten att jämföra statistik mellan olika kommuner.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 12,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Tillägg av variabler; uppgift om antal barn som ingår i upplysningar och utredningar och vårdnad, boende och umgänge redovisas, förutom i totalt antal, även per 10 000 av samtliga barn 0–17 år för respektive kommun. Syftet med tillägget är att förbättra möjligheten att jämföra statistik mellan olika kommuner.",
+      "review_required": true
+    },
+    {
+      "authority": "Naturvårdsverket",
+      "product_code": "MI0106",
+      "product_name": "Utsläpp till vatten och slamproduktion",
+      "description": "Justering av produktnamn, så att det stämmer med namnet på produktsidan på scb.se. Svenska: ”Utsläpp till vatten och slamproduktion – Kommunala reningsverk, skogsindustri samt viss övrig industri” Engelska: ”Discharges to water and sewage sludge production – Municipal waste water treatment plants, pulp and paper industry and other industry”",
+      "pages": [
+        2,
+        3
+      ],
+      "row_ordinal": 13,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Justering av produktnamn, så att det stämmer med namnet på produktsidan på scb.se. Svenska: ”Utsläpp till vatten och slamproduktion – Kommunala reningsverk, skogsindustri samt viss övrig industri” Engelska: ”Discharges to water and sewage sludge production – Municipal waste water treatment plants, pulp and paper industry and other industry”",
+      "review_required": true
+    },
+    {
+      "authority": "Naturvårdsverket",
+      "product_code": "MI0308",
+      "product_name": "Avfall, gränsöverskridande transporter",
+      "description": "Avslutad produkt. Denna produkt har inte uppdaterats på flera år och det finns inga planer att i närtid prioritera en fortsatt uppdatering.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 14,
+      "change_kinds": [
+        "closed"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Avslutad produkt. Denna produkt har inte uppdaterats på flera år och det finns inga planer att i närtid prioritera en fortsatt uppdatering.",
+      "review_required": false
+    },
+    {
+      "authority": "SCB",
+      "product_code": "BO0303",
+      "product_name": "Outhyrda bostadslägenheter i flerbostadshus",
+      "description": "Ändring av periodicitet, från vartannat år till vart tredje år.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 15,
+      "change_kinds": [
+        "periodicity"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av periodicitet, från vartannat år till vart tredje år.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "UF0518",
+      "product_name": "Vuxnas lärande",
+      "description": "Ändring av produktstatus från Inaktiv till Aktiv. Ny statistik om vuxnas lärande baserat på Arbetskraftsundersökningarna.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 16,
+      "change_kinds": [
+        "status"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktstatus från Inaktiv till Aktiv. Ny statistik om vuxnas lärande baserat på Arbetskraftsundersökningarna.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "HE0203",
+      "product_name": "Hushållens konsumtion.",
+      "description": "Ny produkt. Statistiken visar hushållens konsumtion och används som underlag för analys av Sveriges ekonomi på kort och lång sikt.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 17,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt. Statistiken visar hushållens konsumtion och används som underlag för analys av Sveriges ekonomi på kort och lång sikt.",
+      "review_required": true
+    },
+    {
+      "authority": "Socialstyrelsen",
+      "product_code": "HS0206",
+      "product_name": "Statistik om legitimerad hälso- och sjukvårdspersonal samt arbetsmarknadsstatus",
+      "description": "Ändring av produktnamn på svenska, till ”Statistik om hälso- och sjukvårdspersonal med legitimation eller yrkesbevis samt arbetsmarknadsstatus\" Ändring av produktnamn på engelska, till ”Statistics on Health Care Personnel with Licence or Vocational Certificate and Workforce status”. Fr.o.m. kommande publikation inkluderas undersköterskor med yrkesbevis, därför behöver produktnamnet ändras.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 18,
+      "change_kinds": [
+        "name"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produktnamn på svenska, till ”Statistik om hälso- och sjukvårdspersonal med legitimation eller yrkesbevis samt arbetsmarknadsstatus\" Ändring av produktnamn på engelska, till ”Statistics on Health Care Personnel with Licence or Vocational Certificate and Workforce status”. Fr.o.m. kommande publikation inkluderas undersköterskor med yrkesbevis, därför behöver produktnamnet ändras.",
+      "review_required": true
+    }
+  ],
+  "page_texts": {
+    "1": "1/3\nOkt 2025\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för samordning och kvalitet\nFörändringar i den\nofficiella statistiken\nAvser perioden: april – oktober 2025\nInaktiv produkt: Produkten är inte i produktion och uppdateras inte längre, men tidigare\nframtagna resultat, dokumentation m.m. ska redovisas t.ex. på scb.se.\nAvslutad produkt: Produkten är inte i produktion och tidigare framtagna resultat m.m. ska\ninte redovisas på scb.se.\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nEnergimyndigheten EN0110 Energianvändning i fritidshus Ändring av produktnamn, på svenska, till\n”Energistatistik för fritidshus”.\nÄndring av produktnamn, på engelska, till\n”Energy statistics for holiday homes”.\nEnergimyndigheten EN0125 Hushållens energianvändning i Ändring av produkt. På grund av låg\nflerbostadshus svarsfrekvens (19 %) väljer SAM att inte\npublicera resultaten från denna produkt som en\ndel av den officiella statistiken. I stället kommer\nresultaten att publiceras som Övrig statistik på\nSAM:s egen hemsida.\nEnergimyndigheten EN0121 Industrins energianvändning i Produkten avslutas och ingår framöver i stället i\nsmåföretag EN0113.\nEnergimyndigheten EN0113 Industrins energianvändning Sammanslagning av produkter: EN0121 ingår\nframöver i EN0113.\nFörsäkringskassan SF0108 Föräldrapenning Ändring av produkt. Ett nytt mått läggs till;\nGenomsnittligt antal dubbeldagar per barn.\nGäller fr o m 2025-04-10.\nFörsäkringskassan SF0203 Sjukfall Ändring av produkt: Statistik över startade\nsjukfall per 1000 förvärvsarbetande i yrket per\ndiagnoskapitel redovisas i statistikdatabasen\nför referensåren 2017–2023. Det som är nytt är\natt samtliga diagnoskapitel redovisas och\nstatistiken redovisas i databas.\nFörsäkringskassan SF0206 Aktivitetsersättning, Ändring av produkt: Försäkringskassan avser\nsjukersättning att lägga till en statistikrapport i sin\noch bostadstillägg statistikdatabas som heter \"Antal\nförstagångsbeviljade med aktivitetsersättning\noch sjukersättning\". Det är en årsrapport som\nkommer att uppdateras en gång per år. Tidigare\nhade de en rapport som visade antalet",
+    "2": "2/3\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nnybeviljade med sjuk- och aktivitetsersättning.\nDenna togs sedan bort som officiell statistik\nfrån produkten eftersom de bedömde att\nkvaliteteten inte var tillräckligt bra. Nu har de\narbetat fram en ny rapport utifrån en bättre\ndatakälla.\nFörsäkringskassan SF0206 Aktivitetsersättning, Ändring av produkt. Bostadstillägg kommer att\nsjukersättning presenteras som månadsstatistik i stället.\noch bostadstillägg Dessutom är det två nya variabler, Län och\nBeloppstyp (för sjuk- och aktivitetsersättning).\nFörsäkringskassan SF0211 Omvårdnadsbidrag Tillägg av tabell i en produkt.\nFörsäkringskassan kommer att publicera\nytterligare en tabell; förstagångsbeviljanden av\nomvårdnadsbidrag. Ändringen gäller fr.o.m.\n2025-10-10.\nKungliga biblioteket KU0106 Skolbiblioteksstatistik Ny produkt: Kungl. biblioteket har tidigare\nsamlat in statistik om skolbibliotek tillsammans\nmed andra bibliotekstyper. Från och med 2025\nkommer skolbiblioteken att hanteras i en\nseparat undersökning. Det ger KB möjlighet att\nproducera statistik som är mer anpassad till\nanvändarnas behov, eftersom det skiljer sig\nmellan bibliotekstyperna. Arbetet är en del av\ndet utvecklingsarbete Kungl. Biblioteket\ngenomför tillsammans med Skolverket i syfte\natt stärka statistikens användbarhet, öka\nsvarsfrekvensen bland skolbiblioteken och\nverka för att skolbibliotek ger jämförbara svar.\nKungliga biblioteket KU0105 Offentligt finansierade bibliotek Ändring av produkt. Produkten \"Offentligt\nfinansierade bibliotek\" har förändrats eftersom\nden numera inte innehåller samtliga\nbibliotekstyper. Skolbibliotek undersöks istället i\nen separat undersökning och utgår därmed ur\nprodukten. Produkten omfattar fr o m 2025\nföljande bibliotekstyper: folkbibliotek,\nforskningsbibliotek, specialbibliotek och\nsjukhusbibliotek.\nÄndring av produktnamn, på svenska till: ”Folk-,\nlärosätes- och sjukhusbibliotek ”\nÄndring av produktnamn på engelska, till\n”Public, Academic, and Hospital Libraries”\nMyndigheten för SO0201 Statistik om familjerätt Ändring av produkt: Tillägg av variabler; uppgift\nfamiljerätt och om antal barn som ingår i upplysningar och\nföräldraskapsstöd utredningar och vårdnad, boende och umgänge\nredovisas, förutom i totalt antal, även per 10 000\nav samtliga barn 0–17 år för respektive\nkommun. Syftet med tillägget är att förbättra\nmöjligheten att jämföra statistik mellan olika\nkommuner.\nNaturvårdsverket MI0106 Utsläpp till vatten och Justering av produktnamn, så att det stämmer\nslamproduktion med namnet på produktsidan på scb.se.\nSvenska: ”Utsläpp till vatten och\nslamproduktion – Kommunala reningsverk,\nskogsindustri samt viss övrig industri”\nEngelska: ”Discharges to water and sewage",
+    "3": "3/3\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nsludge production – Municipal waste water\ntreatment plants, pulp and paper industry and\nother industry”\nNaturvårdsverket MI0308 Avfall, gränsöverskridande Avslutad produkt. Denna produkt har inte\ntransporter uppdaterats på flera år och det finns inga planer\natt i närtid prioritera en fortsatt uppdatering.\nSCB BO0303 Outhyrda bostadslägenheter i Ändring av periodicitet, från vartannat år till vart\nflerbostadshus tredje år.\nSCB UF0518 Vuxnas lärande Ändring av produktstatus från Inaktiv till Aktiv.\nNy statistik om vuxnas lärande baserat på\nArbetskraftsundersökningarna.\nSCB HE0203 Hushållens konsumtion. Ny produkt. Statistiken visar hushållens\nkonsumtion och används som underlag för\nanalys av Sveriges ekonomi på kort och lång\nsikt.\nSocialstyrelsen HS0206 Statistik om legitimerad hälso- Ändring av produktnamn på svenska, till\noch sjukvårdspersonal samt ”Statistik om hälso- och sjukvårdspersonal med\narbetsmarknadsstatus legitimation eller yrkesbevis samt\narbetsmarknadsstatus\"\nÄndring av produktnamn på engelska, till\n”Statistics on Health Care Personnel with\nLicence or Vocational Certificate and Workforce\nstatus”. Fr.o.m. kommande publikation\ninkluderas undersköterskor med yrkesbevis,\ndärför behöver produktnamnet ändras."
+  }
+}

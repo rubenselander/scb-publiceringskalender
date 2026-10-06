@@ -1,0 +1,135 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV1001",
+    "response_url": "https://www.scb.se/NV1001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/foretagens-demografi/",
+    "fetched_at": "2026-10-05T13:13:09.736090Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "3f299b191bbf8b9d2819169409f5748b3fc2cfb6f62fdf90ededb82a93a2c3c8",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "NV1001",
+  "product_code_source": "calendar",
+  "title": "Företagens demografi",
+  "short_address": "https://www.scb.se/nv1001",
+  "summary": "Syftet med statistiken är att beskriva Sveriges företagspopulation. Statistiken innehåller bland annat antalet nyetablerade, nedlagda och aktiva företag.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-29",
+  "next_publication_date": "2026-10-29",
+  "responsible_agency": {
+    "label": "Tillväxtanalys",
+    "link": {
+      "text": "Tillväxtanalys",
+      "href": "http://www.tillvaxtanalys.se/statistik.html",
+      "url": "http://www.tillvaxtanalys.se/statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Företagens demografi",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-29",
+        "Syftet med statistiken är att beskriva Sveriges företagspopulation. Statistiken innehåller bland annat antalet nyetablerade, nedlagda och aktiva företag."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1001&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1001&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagens demografi",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Tillväxtanalys"
+      ],
+      "links": [
+        {
+          "text": "Tillväxtanalys",
+          "href": "http://www.tillvaxtanalys.se/statistik.html",
+          "url": "http://www.tillvaxtanalys.se/statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagens demografi",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Tillväxtanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-447 44 00",
+        "E-post",
+        "info@tillvaxtanalys.se"
+      ],
+      "links": [
+        {
+          "text": "010-447 44 00",
+          "href": "tel:010-447 44 00",
+          "url": "tel:010-447 44 00"
+        },
+        {
+          "text": "info@tillvaxtanalys.se",
+          "href": "mailto:info@tillvaxtanalys.se",
+          "url": "mailto:info@tillvaxtanalys.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagens demografi",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/nv1001"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1101",
+    "response_url": "https://www.scb.se/TK1101",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/transportmonster/resvanor-i-sverige/",
+    "fetched_at": "2026-10-05T13:14:44.288434Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "c491ff340b1c38587b9f2f97dad25d42cffa08845e603db87c47c6df7a6078db",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK1101",
+  "product_code_source": "calendar",
+  "title": "Resvanor i Sverige",
+  "short_address": "https://www.scb.se/tk1101",
+  "summary": "Statistiken visar det dagliga resande utanför det egna hemmet, vid vilka tidpunkter resorna görs, vilka färdsätt som används och vad som är syftet/ärendet för resan. Alla resor inom Sverige kartläggs liksom resor till och från utlandet.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Persontransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar det dagliga resande utanför det egna hemmet, vid vilka tidpunkter resorna görs, vilka färdsätt som används och vad som är syftet/ärendet för resan. Alla resor inom Sverige kartläggs liksom resor till och från utlandet."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Resvanor – Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Resvanor – Trafikanalys",
+          "href": "https://www.trafa.se/kommunikationsvanor/RVU-Sverige/",
+          "url": "https://www.trafa.se/kommunikationsvanor/RVU-Sverige/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 00",
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 00",
+          "href": "tel:010-414 42 00",
+          "url": "tel:010-414 42 00"
+        },
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Persontransport"
+      ],
+      "links": [
+        {
+          "text": "Persontransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Resvanor i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk1101"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

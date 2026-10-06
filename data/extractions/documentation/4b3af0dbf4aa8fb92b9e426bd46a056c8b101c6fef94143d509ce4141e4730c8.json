@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI0401",
+    "response_url": "https://www.scb.se/MI0401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/",
+    "fetched_at": "2026-10-05T13:12:29.226501Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "93dc661941bf5023b61dba44bee5b157989a5f5b1cd2f3a508fe558010e5f68a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Luft – miljötillstånd",
+  "product_code": "MI0401",
+  "has_documentation_section": false,
+  "groups": []
+}

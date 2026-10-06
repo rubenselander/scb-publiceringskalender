@@ -1,0 +1,571 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/statistikansvariga-myndigheter/",
+    "response_url": "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/statistikansvariga-myndigheter/",
+    "canonical_url": null,
+    "fetched_at": "2026-10-05T13:16:25.219582Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7109f9cf1bd251be4ab0356c3641d9e418eeabc1328a16c3e1bced41be8fe106",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .xhtmlText",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "page_title": "Statistikansvariga myndigheter",
+  "scope_statements": [
+    {
+      "text": "I Sverige finns 29 statistikansvariga myndigheter som ansvarar för officiell statistik inom sina respektive områden. Här finns en lista över myndigheterna och deras områden.",
+      "links": []
+    },
+    {
+      "text": "Det är regeringen som beslutar om vilka områden som ska ha officiell statistik och vilka myndigheter som ansvarar för respektive område. Det anges i bilagan till statistikförordningen SFS (2001:100) .",
+      "links": [
+        {
+          "text": "(2001:100)",
+          "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2001100-om-den-officiella_sfs-2001-100"
+        }
+      ]
+    },
+    {
+      "text": "En förteckning över de 22 ämnesområden som den officiella statistiken omfattar finns på sidan Officiell statistik efter ämne .",
+      "links": [
+        {
+          "text": "Officiell statistik efter ämne",
+          "url": "https://scb.se/om-scb/samordning-av-sveriges-officiella-statistik/officiell-statistik-efter-amne/"
+        }
+      ]
+    }
+  ],
+  "stated_agency_count": 29,
+  "coverage": "complete",
+  "agencies": [
+    {
+      "agency_name": "Arbetsmiljöverket",
+      "statistics_link_text": "Statistik hos Arbetsmiljöverket",
+      "statistics_url": "https://www.av.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Arbetsmarknad",
+          "statistical_areas": [
+            "Arbetsmiljö",
+            "Arbetsskador"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Brottsförebyggande rådet",
+      "statistics_link_text": "Statistik hos Brottsförebyggande rådet",
+      "statistics_url": "https://www.bra.se/statistik.html",
+      "subjects": [
+        {
+          "subject_name": "Rättsväsende",
+          "statistical_areas": [
+            "Kriminalvårdens verksamhet",
+            "Otrygghet och utsatthet för brott i befolkningen",
+            "Registrering av brott",
+            "Rättsliga följder av brott",
+            "Utredning och lagföring av brott",
+            "Återfall i brott"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Centrala studiestödsnämnden",
+      "statistics_link_text": "Statistik hos Centrala studiestödsnämnden",
+      "statistics_url": "https://www.csn.se/om-csn/statistik-och-rapporter.html",
+      "subjects": [
+        {
+          "subject_name": "Utbildning samt forskning inom högskolan",
+          "statistical_areas": [
+            "Studiestöd"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Domstolsverket",
+      "statistics_link_text": "Statistik hos Domstolsverket",
+      "statistics_url": "https://www.domstol.se/domstolsverket/statistik-och-handlingar/statistik/",
+      "subjects": [
+        {
+          "subject_name": "Rättsväsende",
+          "statistical_areas": [
+            "Domstolarnas verksamhet"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Finansinspektionen",
+      "statistics_link_text": "Statistik hos Finansinspektionen",
+      "statistics_url": "http://www.fi.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Finansmarknad",
+          "statistical_areas": [
+            "Aktieägarstatistik",
+            "Finansiella företag utom försäkring",
+            "Försäkring"
+          ]
+        },
+        {
+          "subject_name": "Nationalräkenskaper",
+          "statistical_areas": [
+            "Finansräkenskaper"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Folkhälsomyndigheten",
+      "statistics_link_text": "Statistik hos Folkhälsomyndigheten",
+      "statistics_url": "https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/",
+      "subjects": [
+        {
+          "subject_name": "Folkhälsa",
+          "statistical_areas": [
+            "Folkhälsans utveckling",
+            "Smittskydd"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Försäkringskassan",
+      "statistics_link_text": "Statistik hos Försäkringskassan",
+      "statistics_url": "https://www.forsakringskassan.se/statistik/",
+      "subjects": [
+        {
+          "subject_name": "Socialförsäkring",
+          "statistical_areas": [
+            "Stöd till familjer och barn",
+            "Stöd vid sjukdom och funktionsnedsättning"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Havs- och vattenmyndigheten",
+      "statistics_link_text": "Statistik hos Havs- och vattenmyndigheten",
+      "statistics_url": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/officiell-statistik.html",
+      "subjects": [
+        {
+          "subject_name": "Jordbruk, skogsbruk och fiske",
+          "statistical_areas": [
+            "Fiske"
+          ]
+        },
+        {
+          "subject_name": "Miljö",
+          "statistical_areas": [
+            "Havs- och vattenmiljö"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Kemikalieinspektionen",
+      "statistics_link_text": "Statistik hos Kemikalieinspektionen",
+      "statistics_url": "http://www.kemi.se/hitta-direkt/statistik",
+      "subjects": [
+        {
+          "subject_name": "Miljö",
+          "statistical_areas": [
+            "Försäljning och användning av kemikalier"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Konjunkturinstitutet",
+      "statistics_link_text": "Statistik hos Konjunkturinstitutet",
+      "statistics_url": "http://www.konj.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Priser och ekonomiska tendenser",
+          "statistical_areas": [
+            "Ekonomiska tendenser hos företag och hushåll"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Kungliga biblioteket",
+      "statistics_link_text": "Statistik hos Kungliga biblioteket",
+      "statistics_url": "http://www.kb.se/bibliotek/Statistik-kvalitet/",
+      "subjects": [
+        {
+          "subject_name": "Kultur, biblotek och fritid",
+          "statistical_areas": [
+            "Bibliotek"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Medlingsinstitutet",
+      "statistics_link_text": "Statistik hos Medlingsinstitutet",
+      "statistics_url": "http://www.mi.se/lonestatistik/",
+      "subjects": [
+        {
+          "subject_name": "Arbetsmarknad",
+          "statistical_areas": [
+            "Löner och arbetskostnader"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Myndigheten för familjerätt och föräldraskapsstöd",
+      "statistics_link_text": "Statistik hos Myndigheten för familjerätt och föräldraskapsstöd",
+      "statistics_url": "https://www.mfof.se/sarskilda-innehallssidor/statistik.html",
+      "subjects": [
+        {
+          "subject_name": "Socialtjänst",
+          "statistical_areas": [
+            "Familjerådgivning",
+            "Familjerätt"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Myndigheten för kulturanalys",
+      "statistics_link_text": "Statistik hos Myndigheten för kulturanalys",
+      "statistics_url": "http://www.kulturanalys.se/statistik/",
+      "subjects": [
+        {
+          "subject_name": "Kultur, bibliotek och fritid",
+          "statistical_areas": [
+            "Kulturarv",
+            "Kulturens verksamheter",
+            "Samhällets utgifter för kultur"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+      "statistics_link_text": "Statistik hos Tillväxtanalys",
+      "statistics_url": "http://www.tillvaxtanalys.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Näringsverksamhet och utrikeshandel",
+          "statistical_areas": [
+            "Företagens demografi",
+            "Internationella företag"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Naturvårdsverket",
+      "statistics_link_text": "Statistik hos Naturvårdsverket",
+      "statistics_url": "http://www.naturvardsverket.se/Sa-mar-miljon/Statistik-A-O/sveriges-officiella-statistik/",
+      "subjects": [
+        {
+          "subject_name": "Miljö",
+          "statistical_areas": [
+            "Avfall",
+            "Miljöbalkens tillämpning",
+            "Tillståndet i miljön",
+            "Utsläpp"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Pensionsmyndigheten",
+      "statistics_link_text": "Statistik hos Pensionsmyndigheten",
+      "statistics_url": "https://www.pensionsmyndigheten.se/statistik-och-rapporter/statistik/sveriges-officiella-statistik",
+      "subjects": [
+        {
+          "subject_name": "Hushållens ekonomi",
+          "statistical_areas": [
+            "Pensioner"
+          ]
+        },
+        {
+          "subject_name": "Socialförsäkring:",
+          "statistical_areas": [
+            "Allmän pension och pensionsrelaterade förmåner"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Riksgäldskontoret",
+      "statistics_link_text": "Statistik hos Riksgäldskontoret",
+      "statistics_url": "https://www.riksgalden.se/sv/statistik/",
+      "subjects": [
+        {
+          "subject_name": "Offentlig ekonomi",
+          "statistical_areas": [
+            "Statlig upplåning och statsskuld"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Skogsstyrelsen",
+      "statistics_link_text": "Statistik hos Skogsstyrelsen",
+      "statistics_url": "http://www.skogsstyrelsen.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Jordbruk, skogsbruk och fiske",
+          "statistical_areas": [
+            "Prisutveckling i skogsbruket",
+            "Skogens brukande och nyttjande för ekonomiska, sociala och miljömässiga ändamål",
+            "Skogsbrukets ekonomi",
+            "Skogsbrukets produktion",
+            "Skogsbrukets struktur",
+            "Sysselsättning i skogsbruket"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Socialstyrelsen",
+      "statistics_link_text": "Statistik hos Socialstyrelsen",
+      "statistics_url": "http://www.socialstyrelsen.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Hälso- och sjukvård",
+          "statistical_areas": [
+            "Dödsorsaker",
+            "Hälsa och sjukdomar",
+            "Hälso- och sjukvård"
+          ]
+        },
+        {
+          "subject_name": "Socialtjänst",
+          "statistical_areas": [
+            "Individ- och familjeomsorg",
+            "Insatser till äldre och personer med funktionsnedsättning"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Statens energimyndighet",
+      "statistics_link_text": "Statistik hos Statens energimyndighet",
+      "statistics_url": "http://www.energimyndigheten.se/statistik/",
+      "subjects": [
+        {
+          "subject_name": "Energi",
+          "statistical_areas": [
+            "Energibalanser",
+            "Infrastruktur inom energiområdet",
+            "Prisutveckling inom energiområdet",
+            "Tillförsel, användning och effektivisering av energi"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Statens jordbruksverk",
+      "statistics_link_text": "Statistik hos Statens jordbruksverk",
+      "statistics_url": "http://www.jordbruksverket.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Jordbruk, skogsbruk och fiske",
+          "statistical_areas": [
+            "Djurhälsa",
+            "Jordbrukets ekonomi",
+            "Jordbrukets produktion",
+            "Jordbrukets struktur",
+            "Prisutveckling i jordbruket",
+            "Sysselsättning i jordbruket",
+            "Vattenbruk"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Statens skolverk",
+      "statistics_link_text": "Statistik hos Statens skolverk",
+      "statistics_url": "http://www.skolverket.se/skolutveckling/statistik",
+      "subjects": [
+        {
+          "subject_name": "Utbildning samt forskning inom högskolan",
+          "statistical_areas": [
+            "Skolväsende och barnomsorg"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Statistiska centralbyrån (SCB)",
+      "statistics_link_text": "Statistik hos SCB",
+      "statistics_url": "https://www.scb.se/",
+      "subjects": [
+        {
+          "subject_name": "Arbetsmarknad",
+          "statistical_areas": [
+            "Efterfrågan på arbetskraft",
+            "Utbud av arbetskraft"
+          ]
+        },
+        {
+          "subject_name": "Befolkning och levnadsförhållanden",
+          "statistical_areas": [
+            "Befolkningens sammansättning och utveckling",
+            "Integration",
+            "Jämställdhet",
+            "Levnadsförhållanden"
+          ]
+        },
+        {
+          "subject_name": "Boende, bebyggelse och mark",
+          "statistical_areas": [
+            "Bebyggelseområden",
+            "Bostäder och boende",
+            "Byggande och ombyggnad",
+            "Fastigheter",
+            "Markanvändning"
+          ]
+        },
+        {
+          "subject_name": "Demokrati",
+          "statistical_areas": [
+            "Allmänna val",
+            "Partisympatier"
+          ]
+        },
+        {
+          "subject_name": "Forskning och det digitala samhället",
+          "statistical_areas": [
+            "Det digitala samhället",
+            "Forskning och utveckling",
+            "Innovation"
+          ]
+        },
+        {
+          "subject_name": "Hushållens ekonomi",
+          "statistical_areas": [
+            "Hushållens inkomster, tillgångar och skulder",
+            "Hushållens utgifter"
+          ]
+        },
+        {
+          "subject_name": "Miljö",
+          "statistical_areas": [
+            "Miljöekonomi och hållbar utveckling",
+            "Vattenanvändning",
+            "Växtnäring och odlingsåtgärder"
+          ]
+        },
+        {
+          "subject_name": "Nationalräkenskaper",
+          "statistical_areas": [
+            "Nationalräkenskaper"
+          ]
+        },
+        {
+          "subject_name": "Näringsverksamhet och utrikeshandel",
+          "statistical_areas": [
+            "Företagens produktion, försäljning och ekonomi",
+            "Utrikeshandel"
+          ]
+        },
+        {
+          "subject_name": "Offentlig ekonomi",
+          "statistical_areas": [
+            "Finanser för den kommunala sektorn"
+          ]
+        },
+        {
+          "subject_name": "Priser och ekonomiska tendenser",
+          "statistical_areas": [
+            "Priser"
+          ]
+        },
+        {
+          "subject_name": "Utbildning samt forskning inom högskolan",
+          "statistical_areas": [
+            "Befolkningens utbildning och studiedeltagande",
+            "Eftergymnasial yrkesutbildning",
+            "Folkbildning"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Statskontoret",
+      "statistics_link_text": "Statistik hos Statskontoret",
+      "statistics_url": "https://www.statskontoret.se/analys-och-statistik/officiell-statistik/tidsserier-statens-budget-m.m/sveriges-officiella-statistik/",
+      "subjects": [
+        {
+          "subject_name": "Offentlig ekonomi",
+          "statistical_areas": [
+            "Utfallet av statsbudgeten"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Sveriges lantbruksuniversitet",
+      "statistics_link_text": "Statistik hos Sveriges lantbruksuniversitet",
+      "statistics_url": "https://www.slu.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Jordbruk, skogsbruk och fiske",
+          "statistical_areas": [
+            "Skogarnas tillstånd och förändring"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Tillväxtverket",
+      "statistics_link_text": "Statistik hos Tillväxtverket",
+      "statistics_url": "https://tillvaxtverket.se/statistik",
+      "subjects": [
+        {
+          "subject_name": "Näringsverksamhet och utrikeshandel",
+          "statistical_areas": [
+            "Turism"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Trafikanalys",
+      "statistics_link_text": "Statistik hos Trafikanalys",
+      "statistics_url": "http://www.trafa.se/etiketter/statistik/?_t_id=1B2M2Y8AsgTpgAmY7PhCfg%3d%3d&_t_q=statistik&_t_tags=language%3asv%2csiteid%3af9e4ecf2-4fe2-49ec-bd2f-7b6540d3eb17&_t_ip=193.180.124.72&_t_hit.id=Knowit_EPi_Site_Trafa_KitModules_Tags_Models_Pages_TagPage/_f8639eb2-3e57-4918-98dd-cf126ba2f24c_sv&_t_hit.pos=1",
+      "subjects": [
+        {
+          "subject_name": "Transporter och kommunikationer",
+          "statistical_areas": [
+            "Bantrafik",
+            "Brev- och paketdistribution",
+            "Elektronisk kommunikation",
+            "Kollektivtrafik och samhällsbetalda resor",
+            "Luftfart",
+            "Sjöfart",
+            "Transportmönster",
+            "Vägtrafik"
+          ]
+        }
+      ]
+    },
+    {
+      "agency_name": "Universitetskanslersämbetet",
+      "statistics_link_text": "Statistik hos Universitetskanslersämbetet",
+      "statistics_url": "https://www.uka.se/statistik-och-analys",
+      "subjects": [
+        {
+          "subject_name": "Utbildning samt forskning inom högskolan",
+          "statistical_areas": [
+            "Högskoleväsende"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Svenska utlandsmyndigheter&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Svenska%20utlandsmyndigheter&format=False",
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-10-05T12:59:48.228580Z",
+  "sha256": "4c5480e581d722054885a9df4bba412c42076ebc50e82b5b112eca2265bd624a",
+  "encoding": "utf-8"
+}

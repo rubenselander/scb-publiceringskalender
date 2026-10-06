@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV1001",
+    "response_url": "https://www.scb.se/NV1001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/foretagens-demografi/",
+    "fetched_at": "2026-10-05T13:13:09.736090Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "3f299b191bbf8b9d2819169409f5748b3fc2cfb6f62fdf90ededb82a93a2c3c8",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Företagens demografi",
+  "product_code": "NV1001",
+  "has_documentation_section": false,
+  "groups": []
+}

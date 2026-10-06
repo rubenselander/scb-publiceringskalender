@@ -1,0 +1,310 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf",
+    "response_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf",
+    "canonical_url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf",
+    "fetched_at": "2026-10-05T13:16:38.048149Z",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "content_sha256": "7b4bc8800e59bdb7fe5a7a01b585580046e917a09f2d686aa1a0f8dfbee89664",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "PDF words grouped by printed columns",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "link_label": "Ändringar i den officiella statistiken, april - okt 2024 (pdf)",
+  "title": "Förändringar i den officiella statistiken",
+  "document_date_text": "Okt 2024",
+  "coverage_period_text": "1 april – 31 oktober 2024",
+  "page_count": 3,
+  "document_notes": [
+    "1/3\nOkt 2024\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för samordning och kvalitet\nFörändringar i den\nofficiella statistiken\nAvser perioden: 1 april – 31 oktober 2024\n"
+  ],
+  "partial_sample": false,
+  "notices": [
+    {
+      "authority": "Folkhälsomyndigheten",
+      "product_code": "FH0202",
+      "product_name": "Anmälningspliktiga smittsamma sjukdomar",
+      "description": "Ny produkt fr o m 2024-06-04. I Folkhälsomyndighetens uppdrag ingår att följa och analysera det epidemiologiska läget för smittsamma sjukdomar, speciellt de som omfattas av smittskyddslagen. Sådan statistik, baserat på uppgifter ur databasen SmiNet, behövs och framställs redan av Folkhälsomyndigheten för att tidigt kunna identifiera förändringar i det epidemiologiska läget, vidta och utvärdera åtgärder, samt som grund för beslutsfattande och utformning av strategier.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 1,
+      "change_kinds": [
+        "new_product"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2024-06-04",
+      "effective_date_text": "fr o m 2024-06-04",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ny produkt fr o m 2024-06-04. I Folkhälsomyndighetens uppdrag ingår att följa och analysera det epidemiologiska läget för smittsamma sjukdomar, speciellt de som omfattas av smittskyddslagen. Sådan statistik, baserat på uppgifter ur databasen SmiNet, behövs och framställs redan av Folkhälsomyndigheten för att tidigt kunna identifiera förändringar i det epidemiologiska läget, vidta och utvärdera åtgärder, samt som grund för beslutsfattande och utformning av strategier.",
+      "review_required": false
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0105",
+      "product_name": "Bostadsbidrag",
+      "description": "Ändring av produkt: Lägger till en redovisningsgrupp \"Typ av bostadsbidrag\". Tidigare har bara det preliminära bostadsbidraget redovisats i statistikdatabasen. I och med förändringen kan man få fram statistik uppdelat på typen av bostadsbidrag dvs preliminärt, tilläggsbidrag eller totalt bostadsbidrag.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 2,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Lägger till en redovisningsgrupp \"Typ av bostadsbidrag\". Tidigare har bara det preliminära bostadsbidraget redovisats i statistikdatabasen. I och med förändringen kan man få fram statistik uppdelat på typen av bostadsbidrag dvs preliminärt, tilläggsbidrag eller totalt bostadsbidrag.",
+      "review_required": true
+    },
+    {
+      "authority": "Försäkringskassan",
+      "product_code": "SF0213",
+      "product_name": "Statligt tandvårdsstöd",
+      "description": "Ändring av produkt: Variabeln ”Län” har utvidgats till två variabler. Dels utifrån var patienten bor (så som statistiken är nu), men också utifrån vilket län mottagningen ligger i. All statistik är också uppdaterad. Vissa län har slutat erbjuda abonnemangstandvård, men eftersom en patient kan få abonnemang i ett annat län än sitt hemlän synliggörs inte det i nuvarande statistik. Därför vill FK redovisa statistiken även för mottagningens län.",
+      "pages": [
+        1
+      ],
+      "row_ordinal": 3,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "planned",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt: Variabeln ”Län” har utvidgats till två variabler. Dels utifrån var patienten bor (så som statistiken är nu), men också utifrån vilket län mottagningen ligger i. All statistik är också uppdaterad. Vissa län har slutat erbjuda abonnemangstandvård, men eftersom en patient kan få abonnemang i ett annat län än sitt hemlän synliggörs inte det i nuvarande statistik. Därför vill FK redovisa statistiken även för mottagningens län.",
+      "review_required": true
+    },
+    {
+      "authority": "Myndigheten för familjerätt och föräldraskapsstöd",
+      "product_code": "SO0201",
+      "product_name": "Statistik om familjerätt",
+      "description": "Ändring av produkt. Tillägg av variabel. MFoF vill genom tillägget kunna följa kommunernas arbete avseende lag (2021:530) om informationssamtal, vilken trädde i kraft under 2021. Ändringen gäller fr o m 2024-01-01.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 4,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "mixed",
+      "effective_date": "2024-01-01",
+      "effective_date_text": "ändringen gäller fr o m 2024-01-01",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Tillägg av variabel. MFoF vill genom tillägget kunna följa kommunernas arbete avseende lag (2021:530) om informationssamtal, vilken trädde i kraft under 2021. Ändringen gäller fr o m 2024-01-01.",
+      "review_required": true
+    },
+    {
+      "authority": "Myndigheten för familjerätt och föräldraskapsstöd",
+      "product_code": "SO0201",
+      "product_name": "Statistik om familjerätt",
+      "description": "Ändring av produkt. Ändrade redovisningsgrupper. Statistik om medgivandeutredningar samt utredningar avseende nationella adoptioner redovisas från och med publicering år 2024, förutom på riksnivå, även per län. Ändringen gäller fr o m 2024-06-01.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 5,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2024-06-01",
+      "effective_date_text": "ändringen gäller fr o m 2024-06-01",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Ändrade redovisningsgrupper. Statistik om medgivandeutredningar samt utredningar avseende nationella adoptioner redovisas från och med publicering år 2024, förutom på riksnivå, även per län. Ändringen gäller fr o m 2024-06-01.",
+      "review_required": false
+    },
+    {
+      "authority": "Myndigheten för familjerätt och föräldraskapsstöd (MFoF)",
+      "product_code": "SO0201",
+      "product_name": "Statistik om familjerätt",
+      "description": "Ändring av produkt. Ändringen gäller fr o m 2025-01-01. Borttag av två variabler (enkätfrågor): ”Antal utredningar om faderskap som var överlämnade till domstol för rättslig prövning den 31 december” samt ”Antal utredningar om föräldraskap som var överlämnade till domstol för rättslig prövning den 31 december”. MFoF:s bedömning är att de två variablerna inte är relevanta, och att det är tillräckligt att inhämta uppgift om antal faderskap respektive föräldraskap som fastställts via dom under aktuellt år.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 6,
+      "change_kinds": [
+        "content"
+      ],
+      "timing_claim": "source_claimed_effective",
+      "effective_date": "2025-01-01",
+      "effective_date_text": "ändringen gäller fr o m 2025-01-01",
+      "related_product_codes": [],
+      "interpretation_evidence": "Ändring av produkt. Ändringen gäller fr o m 2025-01-01. Borttag av två variabler (enkätfrågor): ”Antal utredningar om faderskap som var överlämnade till domstol för rättslig prövning den 31 december” samt ”Antal utredningar om föräldraskap som var överlämnade till domstol för rättslig prövning den 31 december”. MFoF:s bedömning är att de två variablerna inte är relevanta, och att det är tillräckligt att inhämta uppgift om antal faderskap respektive föräldraskap som fastställts via dom under aktuellt år.",
+      "review_required": false
+    },
+    {
+      "authority": "Naturvårdsverket",
+      "product_code": "MI0406",
+      "product_name": "Sötvatten – miljötillstånd miljögifter",
+      "description": "Produkten bli inaktiv. Havs- och vattenmyndigheten beställer/ finansierar underlagsdata samt är ansvarig myndighet för officiell statistik på området.",
+      "pages": [
+        2
+      ],
+      "row_ordinal": 7,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Produkten bli inaktiv. Havs- och vattenmyndigheten beställer/ finansierar underlagsdata samt är ansvarig myndighet för officiell statistik på området.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "NV0124",
+      "product_name": "Ekonomisk statistik på kvartal",
+      "description": "Ny produkt. I samband med urvalsarbetet för 2022 slogs insamlingen av näringslivets lager- uppgifter, fasta investeringar och resultaträkningar ihop till en gemensam blankett som benämns Ekonomisk Statistik på Kvartal (ESK). Syftet var dels att effektivisera insamlingsarbetet genom att företagen får en samlad blankett i stället för tre separata, dels att vi ska kunna presentera den kvartalsvisa ekonomiska statistiken på ett mer samlat och strukturerat sätt. Sedan den gemensamma blanketten introducerades under 2022 har ett arbete pågått med att konsolidera de tre statistikprodukterna vad gäller beräkningsmetoder, makrogranskning, analys samt intern- och extern kommunikation. För att den externa kommunikationen ska kunna bli enhetlig, och vi ska kunna dra fördel av den samordnade hanteringen av statistiken, föreslås att de tre delarna av ESK publiceras på en gemensam produktsida från och med referen- speriod kvartal 1 2024. I praktiken innebär detta att undersökningarna Investeringsenkäten (NV0801) samt Företagens lager (NV0123) läggs ned, och hädanefter ingår i Ekonomisk Statistik på Kvartal (NV0124).",
+      "pages": [
+        2,
+        3
+      ],
+      "row_ordinal": 8,
+      "change_kinds": [
+        "new_product",
+        "merge"
+      ],
+      "timing_claim": "planned",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "NV0801",
+        "NV0123"
+      ],
+      "interpretation_evidence": "Ny produkt. I samband med urvalsarbetet för 2022 slogs insamlingen av näringslivets lager- uppgifter, fasta investeringar och resultaträkningar ihop till en gemensam blankett som benämns Ekonomisk Statistik på Kvartal (ESK). Syftet var dels att effektivisera insamlingsarbetet genom att företagen får en samlad blankett i stället för tre separata, dels att vi ska kunna presentera den kvartalsvisa ekonomiska statistiken på ett mer samlat och strukturerat sätt. Sedan den gemensamma blanketten introducerades under 2022 har ett arbete pågått med att konsolidera de tre statistikprodukterna vad gäller beräkningsmetoder, makrogranskning, analys samt intern- och extern kommunikation. För att den externa kommunikationen ska kunna bli enhetlig, och vi ska kunna dra fördel av den samordnade hanteringen av statistiken, föreslås att de tre delarna av ESK publiceras på en gemensam produktsida från och med referen- speriod kvartal 1 2024. I praktiken innebär detta att undersökningarna Investeringsenkäten (NV0801) samt Företagens lager (NV0123) läggs ned, och hädanefter ingår i Ekonomisk Statistik på Kvartal (NV0124).",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "NV0123",
+      "product_name": "Företagens lager",
+      "description": "Produkten blir inaktiv. Se kommentar till NV0124 ovan.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 9,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "NV0124"
+      ],
+      "interpretation_evidence": "Produkten blir inaktiv. Se kommentar till NV0124 ovan.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "NV0801",
+      "product_name": "Investeringsenkäten",
+      "description": "Produkten blir inaktiv. Se kommentar till NV0124 ovan.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 10,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "NV0124"
+      ],
+      "interpretation_evidence": "Produkten blir inaktiv. Se kommentar till NV0124 ovan.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "AM0201",
+      "product_name": "Kortperiodisk sysselsättningsstatistik",
+      "description": "Produkten blir inaktiv. Urvalsunder- sökningen upphör och ersätts av en ny undersökning med namnet Anställningar. I stället för insamlat data baseras antalet anställningar på administrativa data (arbetsgivar- deklarationer på individnivå (AGI)) i den nya undersökningen.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 11,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Produkten blir inaktiv. Urvalsunder- sökningen upphör och ersätts av en ny undersökning med namnet Anställningar. I stället för insamlat data baseras antalet anställningar på administrativa data (arbetsgivar- deklarationer på individnivå (AGI)) i den nya undersökningen.",
+      "review_required": true
+    },
+    {
+      "authority": "SCB",
+      "product_code": "AM0209",
+      "product_name": "Konjunkturstatistik över sjuklöner",
+      "description": "Produkten blir inaktiv. Undersökningen har upphört och ersätts av en ny undersökning med namnet Anställningar (AM0211). Sjukfrånvaron går från att redovisas kvartalsbaserad till månadsbaserad.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 12,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [
+        "AM0211"
+      ],
+      "interpretation_evidence": "Produkten blir inaktiv. Undersökningen har upphört och ersätts av en ny undersökning med namnet Anställningar (AM0211). Sjukfrånvaron går från att redovisas kvartalsbaserad till månadsbaserad.",
+      "review_required": true
+    },
+    {
+      "authority": "Socialstyrelsen",
+      "product_code": "HS0103",
+      "product_name": "Statistik om amning",
+      "description": "Produkten blir inaktiv. Produkten publiceras inte på grund av högt bortfall. Uppskattat bortfall för statistik om amning för barn födda 2022 är cirka 45 procent. Produkten kan därför inte publiceras. Planerad publicering var 2024-09-24.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 13,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Produkten blir inaktiv. Produkten publiceras inte på grund av högt bortfall. Uppskattat bortfall för statistik om amning för barn födda 2022 är cirka 45 procent. Produkten kan därför inte publiceras. Planerad publicering var 2024-09-24.",
+      "review_required": true
+    },
+    {
+      "authority": "Socialstyrelsen",
+      "product_code": "HS0106",
+      "product_name": "Statistik om spädbarnsföräldrars rökvanor",
+      "description": "Produkten blir inaktiv. Produkten publiceras inte på grund av högt bortfall. Uppskattat bortfall för statistik om spädbarnsföräldrars rökvanor för barn födda 2022 är cirka 40 procent. Produkten kan därför inte publiceras. Planerad publicering var 2024-09-17.",
+      "pages": [
+        3
+      ],
+      "row_ordinal": 14,
+      "change_kinds": [
+        "inactive"
+      ],
+      "timing_claim": "unclear",
+      "effective_date": null,
+      "effective_date_text": null,
+      "related_product_codes": [],
+      "interpretation_evidence": "Produkten blir inaktiv. Produkten publiceras inte på grund av högt bortfall. Uppskattat bortfall för statistik om spädbarnsföräldrars rökvanor för barn födda 2022 är cirka 40 procent. Produkten kan därför inte publiceras. Planerad publicering var 2024-09-17.",
+      "review_required": true
+    }
+  ],
+  "page_texts": {
+    "1": "1/3\nOkt 2024\nFörändringar i den\nofficiella statistiken\nSCB\nStaben\nSektionen för samordning och kvalitet\nFörändringar i den\nofficiella statistiken\nAvser perioden: 1 april – 31 oktober 2024\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nFolkhälsomyndigheten FH0202 Anmälningspliktiga smittsamma Ny produkt fr o m 2024-06-04. I\nsjukdomar Folkhälsomyndighetens uppdrag ingår\natt följa och analysera det\nepidemiologiska läget för smittsamma\nsjukdomar, speciellt de som omfattas\nav smittskyddslagen. Sådan statistik,\nbaserat på uppgifter ur databasen\nSmiNet, behövs och framställs redan\nav Folkhälsomyndigheten för att tidigt\nkunna identifiera förändringar i det\nepidemiologiska läget, vidta och\nutvärdera åtgärder, samt som grund för\nbeslutsfattande och utformning av\nstrategier.\nFörsäkringskassan SF0105 Bostadsbidrag Ändring av produkt: Lägger till en\nredovisningsgrupp \"Typ av\nbostadsbidrag\". Tidigare har bara det\npreliminära bostadsbidraget redovisats\ni statistikdatabasen. I och med\nförändringen kan man få fram statistik\nuppdelat på typen av bostadsbidrag\ndvs preliminärt, tilläggsbidrag eller\ntotalt bostadsbidrag.\nFörsäkringskassan SF0213 Statligt tandvårdsstöd Ändring av produkt: Variabeln ”Län” har\nutvidgats till två variabler. Dels utifrån\nvar patienten bor (så som statistiken är\nnu), men också utifrån vilket län\nmottagningen ligger i. All statistik är\nockså uppdaterad. Vissa län har slutat\nerbjuda abonnemangstandvård, men\neftersom en patient kan få\nabonnemang i ett annat län än sitt\nhemlän synliggörs inte det i nuvarande\nstatistik. Därför vill FK redovisa\nstatistiken även för mottagningens län.",
+    "2": "2/3\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nMyndigheten för familjerätt SO0201 Statistik om familjerätt Ändring av produkt. Tillägg av variabel.\noch föräldraskapsstöd MFoF vill genom tillägget kunna följa\nkommunernas arbete avseende lag\n(2021:530) om informationssamtal,\nvilken trädde i kraft under 2021.\nÄndringen gäller fr o m 2024-01-01.\nMyndigheten för familjerätt SO0201 Statistik om familjerätt Ändring av produkt. Ändrade\noch föräldraskapsstöd redovisningsgrupper. Statistik om\nmedgivandeutredningar samt\nutredningar avseende nationella\nadoptioner redovisas från och med\npublicering år 2024, förutom på\nriksnivå, även per län. Ändringen gäller\nfr o m 2024-06-01.\nMyndigheten för familjerätt SO0201 Statistik om familjerätt Ändring av produkt. Ändringen gäller fr\noch föräldraskapsstöd o m 2025-01-01. Borttag av två\n(MFoF) variabler (enkätfrågor): ”Antal\nutredningar om faderskap som var\növerlämnade till domstol för rättslig\nprövning den 31 december” samt\n”Antal utredningar om föräldraskap\nsom var överlämnade till domstol för\nrättslig prövning den 31 december”.\nMFoF:s bedömning är att de två\nvariablerna inte är relevanta, och att det\när tillräckligt att inhämta uppgift om\nantal faderskap respektive föräldraskap\nsom fastställts via dom under aktuellt\når.\nNaturvårdsverket MI0406 Sötvatten – miljötillstånd miljögifter Produkten bli inaktiv. Havs- och\nvattenmyndigheten beställer/\nfinansierar underlagsdata samt är\nansvarig myndighet för officiell\nstatistik på området.\nSCB NV0124 Ekonomisk statistik på kvartal Ny produkt. I samband med\nurvalsarbetet för 2022 slogs\ninsamlingen av näringslivets lager-\nuppgifter, fasta investeringar och\nresultaträkningar ihop till en\ngemensam blankett som benämns\nEkonomisk Statistik på Kvartal (ESK).\nSyftet var dels att effektivisera\ninsamlingsarbetet genom att företagen\nfår en samlad blankett i stället för tre\nseparata, dels att vi ska kunna\npresentera den kvartalsvisa\nekonomiska statistiken på ett mer\nsamlat och strukturerat sätt. Sedan\nden gemensamma blanketten\nintroducerades under 2022 har ett\narbete pågått med att konsolidera de\ntre statistikprodukterna vad gäller\nberäkningsmetoder, makrogranskning,\nanalys samt intern- och extern\nkommunikation. För att den externa\nkommunikationen ska kunna bli",
+    "3": "3/3\nMyndighet Produktkod Produktnamn Beskrivning av ändring\nenhetlig, och vi ska kunna dra fördel av\nden samordnade hanteringen av\nstatistiken, föreslås att de tre delarna\nav ESK publiceras på en gemensam\nproduktsida från och med referen-\nsperiod kvartal 1 2024. I praktiken\ninnebär detta att undersökningarna\nInvesteringsenkäten (NV0801) samt\nFöretagens lager (NV0123) läggs ned,\noch hädanefter ingår i Ekonomisk\nStatistik på Kvartal (NV0124).\nSCB NV0123 Företagens lager Produkten blir inaktiv. Se kommentar\ntill NV0124 ovan.\nSCB NV0801 Investeringsenkäten Produkten blir inaktiv. Se kommentar\ntill NV0124 ovan.\nSCB AM0201 Kortperiodisk sysselsättningsstatistik Produkten blir inaktiv. Urvalsunder-\nsökningen upphör och ersätts av en ny\nundersökning med namnet\nAnställningar. I stället för insamlat data\nbaseras antalet anställningar på\nadministrativa data (arbetsgivar-\ndeklarationer på individnivå (AGI)) i den\nnya undersökningen.\nSCB AM0209 Konjunkturstatistik över sjuklöner Produkten blir inaktiv. Undersökningen\nhar upphört och ersätts av en ny\nundersökning med namnet\nAnställningar (AM0211). Sjukfrånvaron\ngår från att redovisas kvartalsbaserad\ntill månadsbaserad.\nSocialstyrelsen HS0103 Statistik om amning Produkten blir inaktiv. Produkten\npubliceras inte på grund av högt\nbortfall. Uppskattat bortfall för statistik\nom amning för barn födda 2022 är cirka\n45 procent. Produkten kan därför inte\npubliceras. Planerad publicering var\n2024-09-24.\nSocialstyrelsen HS0106 Statistik om spädbarnsföräldrars Produkten blir inaktiv. Produkten\nrökvanor publiceras inte på grund av högt\nbortfall. Uppskattat bortfall för statistik\nom spädbarnsföräldrars rökvanor för\nbarn födda 2022 är cirka 40 procent.\nProdukten kan därför inte publiceras.\nPlanerad publicering var 2024-09-17."
+  }
+}

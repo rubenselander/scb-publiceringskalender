@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "Myndigheter under riksdagen"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:44.737968Z",
+  "sha256": "7235084e88e3abb71a496df9ee6b76396a27ccd726ba5444a37552608164c351",
+  "encoding": "utf-8"
+}

@@ -1,0 +1,767 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0114",
+    "response_url": "https://www.scb.se/AM0114",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/",
+    "fetched_at": "2026-10-05T13:10:03.589727Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "a796778ab835a5662b63747cf007780f7eec0210c6e5588cf8084424e4e743a7",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0114",
+  "product_code_source": "calendar",
+  "title": "Labour cost index (LCI)",
+  "short_address": "https://www.scb.se/am0114",
+  "summary": "LCI visar kvartalsvis utvecklingen av den totala arbetskraftskostnaden per timme uppdelat på arbetare och tjänstemän, det vill säga lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. I LCI ingår enbart privat sektor. LCI publiceras även på Eurostats webbplats där både privat och offentlig sektor ingår utan uppdelning mellan arbetare och tjänstemän, där ingår även bonus. Se länk under fördjupad information.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-12-09",
+  "next_publication_date": "2026-12-09",
+  "responsible_agency": {
+    "label": "Medlingsinstitutet",
+    "link": {
+      "text": "Medlingsinstitutet",
+      "href": "http://www.mi.se/lonestatistik/",
+      "url": "http://www.mi.se/lonestatistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Arbetskostnad",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=7",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=7"
+    },
+    {
+      "text": "Index",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-09",
+        "LCI visar kvartalsvis utvecklingen av den totala arbetskraftskostnaden per timme uppdelat på arbetare och tjänstemän, det vill säga lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. I LCI ingår enbart privat sektor. LCI publiceras även på Eurostats webbplats där både privat och offentlig sektor ingår utan uppdelning mellan arbetare och tjänstemän, där ingår även bonus. Se länk under fördjupad information."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-09",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0114&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0114&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Medlingsinstitutet"
+      ],
+      "links": [
+        {
+          "text": "Medlingsinstitutet",
+          "href": "http://www.mi.se/lonestatistik/",
+          "url": "http://www.mi.se/lonestatistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Labour cost index (LCI)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Labour cost index för arbetare, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCIArb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCIArb"
+        },
+        {
+          "text": "Labour cost index för tjänstemän, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCItjm",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCItjm"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Labour cost index för arbetare, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "2026-09-09"
+        ],
+        [
+          "Labour cost index för tjänstemän, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "2026-09-09"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lönekostnadsindex (WAG)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lönekostnadsindex för arbetare, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/WAGArb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/WAGArb"
+        },
+        {
+          "text": "Lönekostnadsindex för tjänstemän, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/WAGtjm",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/WAGtjm"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lönekostnadsindex för arbetare, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "2026-09-09"
+        ],
+        [
+          "Lönekostnadsindex för tjänstemän, privat sektor efter näringsgren SNI 2007. Kvartal 2008K1 - 2026K2",
+          "2026-09-09"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2026_ls_260610.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2026_ls_260610.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2025_250611.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2025_250611.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2024_240612.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2024_240612.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2023_230614.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2023_230614.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2021_pa_210610.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2021_pa_210610.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2020_es_200611.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2020_es_200611.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2019_es_190502.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2019_es_190502.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2018_ap_180613.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2018_ap_180613.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2017_ls_171129.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_kd_2017_ls_171129.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2014_.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2014_.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_bs_2005.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "1995–2005 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2026_sh_260610.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2026_sh_260610.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2025_250611.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2025_250611.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2024_240612.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2024_240612.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2023_230614.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2023_230614.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2021_pa_210610.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2021_pa_210610.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2020_es_200611.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2020_es_200611.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2019_es_190502.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2019_es_190502.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2018_ap_180613.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_staf_2018_ap_180613.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2017_ls_171027.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2017_ls_171027.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2016_ls_170118.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2016_ls_170118.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2014_ls_141008.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2014_ls_141008.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_2006.pdf"
+        },
+        {
+          "text": "1995–2005 (pdf)",
+          "href": "/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_19952005.pdf",
+          "url": "https://www.scb.se/contentassets/208d55e7fe584167ac239a03e86689f8/am0114_do_19952005.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0114",
+          "url": "https://metadata.scb.se/?produkt=AM0114"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Temporära alternativa indextal för LCI",
+        "Omklassificering av Ericsson AB",
+        "Eurostat - Labour Cost Index",
+        "Labour Cost Index i avtal"
+      ],
+      "links": [
+        {
+          "text": "Temporära alternativa indextal för LCI",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/temporara-alternativa-indextal-for-lci/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/temporara-alternativa-indextal-for-lci/"
+        },
+        {
+          "text": "Omklassificering av Ericsson AB",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/omklassificering-av-ericsson-ab/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/omklassificering-av-ericsson-ab/"
+        },
+        {
+          "text": "Eurostat - Labour Cost Index",
+          "href": "https://ec.europa.eu/eurostat/data/database?node_code=lc_lci_r2_q",
+          "url": "https://ec.europa.eu/eurostat/data/database?node_code=lc_lci_r2_q"
+        },
+        {
+          "text": "Labour Cost Index i avtal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/labour-cost-index-i-avtal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/produktrelaterat/Fordjupad-information/labour-cost-index-i-avtal/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbetskostnad",
+        "Index"
+      ],
+      "links": [
+        {
+          "text": "Arbetskostnad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=7",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=7"
+        },
+        {
+          "text": "Index",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Labour cost index (LCI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0114"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

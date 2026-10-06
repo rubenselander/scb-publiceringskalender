@@ -1,0 +1,2267 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/BO0101",
+    "response_url": "https://www.scb.se/BO0101",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/",
+    "fetched_at": "2026-10-05T13:10:20.921716Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "bfcf886de606db3c03d2a534c5b1d84c689ffeee9e57e7306796b5dde9405925",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "BO0101",
+  "product_code_source": "calendar",
+  "title": "Bygglov, nybyggnad och ombyggnad",
+  "short_address": "https://www.scb.se/bo0101",
+  "summary": "Statistiken omfattar alla nybyggnadsprojekt som kräver bygglov. \nBygglovsstatistik för bostäder och lokaler visar antal bygglov och lägenheter samt bruttoarea för nybyggnad av bostäder, fritidshus och lokaler. \nNybyggnad av bostäder visar bostadsbyggandets omfattning och inriktning av bostadslägenheter. \nOmbyggnad eller ändrad användning och rivning av flerbostadshus visar nettoförändringar av antalet lägenheter i flerbostadshus.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-23",
+  "next_publication_date": "2026-11-23",
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bostäder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+    },
+    {
+      "text": "Byggande",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
+    },
+    {
+      "text": "Fastigheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+    },
+    {
+      "text": "Fritidshus",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+    },
+    {
+      "text": "Lokaler",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
+    },
+    {
+      "text": "Lägenheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+    },
+    {
+      "text": "Ombyggnad",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=144",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=144"
+    },
+    {
+      "text": "Rivning",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=160",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=160"
+    },
+    {
+      "text": "Villor",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-23",
+        "Statistiken omfattar alla nybyggnadsprojekt som kräver bygglov. \nBygglovsstatistik för bostäder och lokaler visar antal bygglov och lägenheter samt bruttoarea för nybyggnad av bostäder, fritidshus och lokaler. \nNybyggnad av bostäder visar bostadsbyggandets omfattning och inriktning av bostadslägenheter. \nOmbyggnad eller ändrad användning och rivning av flerbostadshus visar nettoförändringar av antalet lägenheter i flerbostadshus."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0101&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-08-24",
+        "Preliminärt påbörjades nybyggnation av totalt cirka 15 350 nya bostadslägenheter under det första halvåret 2026. Det är 8 procent fler i jämförelse med första halvåret 2025."
+      ],
+      "links": [
+        {
+          "text": "Preliminärt påbörjad nybyggnation första halvåret 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/statistiknyhet/paborjad-nybyggnation-av-bostadslagenheter-forsta-halvaret-2026-preliminara-uppgifter/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/statistiknyhet/paborjad-nybyggnation-av-bostadslagenheter-forsta-halvaret-2026-preliminara-uppgifter/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=BO0101",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=BO0101"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bygglov",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bygglovsstatistik för bostäder och lokaler, översiktstabell preliminära siffror",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/bygglov/bygglovsstatistik-for-bostader-och-lokaler-oversiktstabell-preliminara-siffror/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/bygglov/bygglovsstatistik-for-bostader-och-lokaler-oversiktstabell-preliminara-siffror/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Bygglovsstatistik för bostäder och lokaler, översiktstabell preliminära siffror",
+          "Tabell",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nybyggnad",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel påbörjade lägenheter i flerbostadshus efter upplåtelseform, preliminära siffror (Ej uppräknade)",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/nybyggnad/andel-paborjade-lagenheter-i-flerbostadshus-efter-upplatelseform-preliminara-siffror/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/nybyggnad/andel-paborjade-lagenheter-i-flerbostadshus-efter-upplatelseform-preliminara-siffror/"
+        },
+        {
+          "text": "Nybyggnad av bostäder, översiktstabell preliminära siffror",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/nybyggnad/nybyggnad-av-bostader-oversiktstabell-preliminara-siffror/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/nybyggnad/nybyggnad-av-bostader-oversiktstabell-preliminara-siffror/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Andel påbörjade lägenheter i flerbostadshus efter upplåtelseform, preliminära siffror (Ej uppräknade)",
+          "Tabell",
+          "2026-08-24"
+        ],
+        [
+          "Nybyggnad av bostäder, översiktstabell preliminära siffror",
+          "Tabell",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Ombyggnad",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Ombyggnad av flerbostadshus, översiktstabell preliminära siffror",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/ombyggnad/ombyggnad-av-flerbostadshus-oversiktstabell-preliminara-siffror/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/pong/tabell-och-diagram/ombyggnad/ombyggnad-av-flerbostadshus-oversiktstabell-preliminara-siffror/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Ombyggnad av flerbostadshus, översiktstabell preliminära siffror",
+          "Tabell",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bygglov för nybyggnad",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bygglov för nybyggnad, bruttoarea efter hustyp. Kvartal 1996K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AreaHustypKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AreaHustypKv"
+        },
+        {
+          "text": "Bygglov för nybyggnad, antal lägenheter i bostadshus och fritidshus efter region och hustyp. Kvartal 1996K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghHustypKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghHustypKv"
+        },
+        {
+          "text": "Bygglov för nybyggnad, antal och bruttoarea efter region och hustyp. Kvartal 1996K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BlovAreaHustypKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BlovAreaHustypKv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Bygglov för nybyggnad, bruttoarea efter hustyp. Kvartal 1996K1 - 2026K2",
+          "2026-08-24"
+        ],
+        [
+          "Bygglov för nybyggnad, antal lägenheter i bostadshus och fritidshus efter region och hustyp. Kvartal 1996K1 - 2026K2",
+          "2026-08-24"
+        ],
+        [
+          "Bygglov för nybyggnad, antal och bruttoarea efter region och hustyp. Kvartal 1996K1 - 2026K2",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nybyggnad, preliminära uppgifter, kvartal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lägenheter i nybyggda hus efter region och hustyp. Kvartal 1975K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyKv16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyKv16"
+        },
+        {
+          "text": "Lägenheter i nybyggda hus efter region och hustyp (specialbostäder uppdelat). Kvartal 2007K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyKv26",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyKv26"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lägenheter i nybyggda hus efter region och hustyp. Kvartal 1975K1 - 2026K2",
+          "2026-08-24"
+        ],
+        [
+          "Lägenheter i nybyggda hus efter region och hustyp (specialbostäder uppdelat). Kvartal 2007K1 - 2026K2",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nybyggnad, år",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Färdigställda lägenheter och rumsenheter i nybyggda hus efter region och hustyp. År 1938 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHustypAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHustypAr"
+        },
+        {
+          "text": "Färdigställda lägenheter i nybyggda hus efter region, hustyp och upplåtelseform. År 1991 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypUfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypUfAr"
+        },
+        {
+          "text": "Färdigställda lägenheter i nybyggda hus efter region, hustyp och ägarkategori. År 1991 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypAkAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypAkAr"
+        },
+        {
+          "text": "Färdigställda lägenheter i nybyggda hus efter region, hustyp och lägenhetstyp. År 1975 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypLtAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghReHtypLtAr"
+        },
+        {
+          "text": "Färdigställda lägenheter (i specialbostäder) i nybyggda hus efter region, typ av specialbostad. År 1996 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghSpboAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghSpboAr"
+        },
+        {
+          "text": "Färdigställda lägenheter i nybyggda hus efter hustyp, upplåtelseform och lägenhetstyp. År 1991 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghHustLghtUpplatAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghHustLghtUpplatAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Färdigställda lägenheter och rumsenheter i nybyggda hus efter region och hustyp. År 1938 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Färdigställda lägenheter i nybyggda hus efter region, hustyp och upplåtelseform. År 1991 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Färdigställda lägenheter i nybyggda hus efter region, hustyp och ägarkategori. År 1991 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Färdigställda lägenheter i nybyggda hus efter region, hustyp och lägenhetstyp. År 1975 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Färdigställda lägenheter (i specialbostäder) i nybyggda hus efter region, typ av specialbostad. År 1996 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Färdigställda lägenheter i nybyggda hus efter hustyp, upplåtelseform och lägenhetstyp. År 1991 - 2025",
+          "2026-05-11"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Ombyggnad, preliminära uppgifter, kvartal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region. Preliminära uppgifter. Kvartal 1989K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbNKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbNKv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region. Preliminära uppgifter. Kvartal 1989K1 - 2026K2",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Ombyggnad, år",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och byggnadsperiod. År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegByggperN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegByggperN"
+        },
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och ombyggnadsåtgärd. År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegOmbatgard",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegOmbatgard"
+        },
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och upplåtelseform.  År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghTillOmbUpplatArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghTillOmbUpplatArN"
+        },
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och ägarkategori. År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegAgarkat",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NettoforRegAgarkat"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och byggnadsperiod. År 1989 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och ombyggnadsåtgärd. År 1989 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och upplåtelseform.  År 1989 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och ägarkategori. År 1989 - 2025",
+          "2026-05-11"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rivning, år",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rivning av lägenheter i flerbostadshus efter region och upplåtelseform. År 2012 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghRivRegUppAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghRivRegUppAr"
+        },
+        {
+          "text": "Rivning av lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod, lägenhetstyp och rivningsorsak.  År 1989 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhRivAkBpLtRArN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhRivAkBpLtRArN"
+        },
+        {
+          "text": "Rivning av lägenheter i flerbostadshus, riket. År 1949 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhRivRiket",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhRivRiket"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Rivning av lägenheter i flerbostadshus efter region och upplåtelseform. År 2012 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Rivning av lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod, lägenhetstyp och rivningsorsak.  År 1989 - 2025",
+          "2026-05-11"
+        ],
+        [
+          "Rivning av lägenheter i flerbostadshus, riket. År 1949 - 2025",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som inte uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som inte uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0101E",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0101E"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Hushållens bolåneskulder fortsätter att växa men det senaste året har ökningstakten mattats något. Det hänger ihop med att bostadspriserna steg i lugnare takt under fjolåret samtidigt som amorteringarna ökade. De senaste månaderna har dock priserna ökat något snabbare igen."
+      ],
+      "links": [
+        {
+          "text": "Bolånen i Sverige fortsätter växa",
+          "href": "/hitta-statistik/artiklar/2017/Bolanen-i-Sverige-fortsatter-vaxa/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Bolanen-i-Sverige-fortsatter-vaxa/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-05-03"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Finanser",
+        "Boende och byggande",
+        "Hushåll och ekonomi"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
+        },
+        {
+          "text": "Finanser",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=54&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=54&selection=articles"
+        },
+        {
+          "text": "Boende och byggande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
+        },
+        {
+          "text": "Hushåll och ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2026_jj_20260525.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2026_jj_20260525.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2025_20250523.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2025_20250523.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2024_20240524.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2024_20240524.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2023_kc_230525.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2023_kc_230525.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101-bo0102-bo0701_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101-bo0102-bo0701_kd_2022.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2018.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2018.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2017_al_170518.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2017_al_170518.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Bygglov",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2020_kc_200615.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2020_kc_200615.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2019_kc_200127.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_kd_2019_kc_200127.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2016_jj_160517.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2016_jj_160517.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2015_150520.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2015_150520.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2010_.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2010_.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Nybyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2020_kc_200615.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2020_kc_200615.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2019_kc_200127.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_kd_2019_kc_200127.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2016_jj_160520.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2016_jj_160520.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2015_150520.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2015_150520.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Ombyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2020_kc_200615.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2020_kc_200615.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2019_kc_200129.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_kd_2019_kc_200129.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2015_150520.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2015_150520.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_bs_1999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2026_ck_20260525.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2026_ck_20260525.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2025_20250523-.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2025_20250523-.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2024_20240531.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2024_20240531.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_staf_2023_kc_230525.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0701_staf_2023_kc_230525.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101-bo0102-bo0701_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101-bo0102-bo0701_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2021_kc_210621.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2021_kc_210621.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2020_kc_200615_.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2020_kc_200615_.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2019.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2019.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2018.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_staf_2018.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2017_al_170713.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2017_al_170713.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Bygglov",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/globalassets/bo0701_do_2016_jj_160706.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2016_jj_160706.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/globalassets/bo0701_do_2015_150702.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2015_150702.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/globalassets/bo0701_do_2014.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/globalassets/bo0701_do_2013.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/globalassets/bo0701_do_2012.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/globalassets/bo0701_do_2011.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/globalassets/bo0701_do_2010.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/globalassets/bo0701_do_2009.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/globalassets/bo0701_do_2008.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/globalassets/bo0701_do_2007.pdf",
+          "url": "https://www.scb.se/globalassets/bo0701_do_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Nybyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015-preliminär (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2001–2004 (pdf)",
+        "2000 (pdf)",
+        "2000–2003 (pdf)",
+        "1999 (pdf)",
+        "1999–2002 (pdf)",
+        "1998 (pdf)",
+        "1998–2001 (pdf)",
+        "1997 (pdf)",
+        "1997–2000 (pdf)",
+        "1996 (pdf)",
+        "1996–1999 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2016_jj_160708.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2016_jj_160708.pdf"
+        },
+        {
+          "text": "2015-preliminär (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_-2015_prel_150702.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_-2015_prel_150702.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2014_150702.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2014_150702.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_-2007.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_-2007.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2001.pdf"
+        },
+        {
+          "text": "2001–2004 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_20012004.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_20012004.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_2000.pdf"
+        },
+        {
+          "text": "2000–2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_20002003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_20002003.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1999.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1999.pdf"
+        },
+        {
+          "text": "1999–2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19992002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19992002.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1998.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1998.pdf"
+        },
+        {
+          "text": "1998–2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19982001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19982001.pdf"
+        },
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1997.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1997.pdf"
+        },
+        {
+          "text": "1997–2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19972000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19972000.pdf"
+        },
+        {
+          "text": "1996 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1996.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_1996.pdf"
+        },
+        {
+          "text": "1996–1999 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19961999.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0101_do_19961999.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Ombyggnad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000–2003 (pdf)",
+        "2000 (pdf)",
+        "1999–2002 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2016_jj_160711.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2016_jj_160711.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2007.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2001.pdf"
+        },
+        {
+          "text": "2000–2003 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_20002003.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_20002003.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_2000.pdf"
+        },
+        {
+          "text": "1999–2002 (pdf)",
+          "href": "/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_19992002.pdf",
+          "url": "https://www.scb.se/contentassets/34907586e4474520bd074ffdeb0de61b/bo0102_do_19992002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=BO0101",
+          "url": "https://metadata.scb.se/?produkt=BO0101"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Skräddarsydd statistik"
+      ],
+      "links": [
+        {
+          "text": "Skräddarsydd statistik",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Karin Corr",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 43 99"
+      ],
+      "links": [
+        {
+          "text": "010-479 43 99",
+          "href": "tel:010-479 43 99",
+          "url": "tel:010-479 43 99"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Sara Klinga",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 41 30"
+      ],
+      "links": [
+        {
+          "text": "010-479 41 30",
+          "href": "tel:010-479 41 30",
+          "url": "tel:010-479 41 30"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "byggande.bebyggelse@scb.se"
+      ],
+      "links": [
+        {
+          "text": "byggande.bebyggelse@scb.se",
+          "href": "mailto:byggande.bebyggelse@scb.se",
+          "url": "mailto:byggande.bebyggelse@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bostäder",
+        "Byggande",
+        "Fastigheter",
+        "Fritidshus",
+        "Lokaler",
+        "Lägenheter",
+        "Ombyggnad",
+        "Rivning",
+        "Villor"
+      ],
+      "links": [
+        {
+          "text": "Bostäder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+        },
+        {
+          "text": "Byggande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
+        },
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+        },
+        {
+          "text": "Fritidshus",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+        },
+        {
+          "text": "Lokaler",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
+        },
+        {
+          "text": "Lägenheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+        },
+        {
+          "text": "Ombyggnad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=144",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=144"
+        },
+        {
+          "text": "Rivning",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=160",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=160"
+        },
+        {
+          "text": "Villor",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/bo0101"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV0402",
+    "response_url": "https://www.scb.se/NV0402",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/",
+    "fetched_at": "2026-10-05T13:13:06.539390Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7e5fc2183b525c6e5447d62bb70ab74c4466a8168cf6efe551a8a809c7e1e0bf",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "NV0402",
+  "product_code_source": "calendar",
+  "title": "Industriproduktionsindex (IPI)",
+  "short_address": "https://www.scb.se/nv0402",
+  "summary": "Statistiken mäter månadsvis utvecklingen av den svenska industriproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-09",
+  "next_publication_date": "2026-10-09",
+  "responsible_agency": null,
+  "notices": [
+    "Statistiknyheter publiceras ej längre för Industriproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
+    "Produktionsvärdeindex"
+  ],
+  "tags": [
+    {
+      "text": "Företagsekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+    },
+    {
+      "text": "Index",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+    },
+    {
+      "text": "Industri",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
+    },
+    {
+      "text": "Produktion",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-09",
+        "Statistiken mäter månadsvis utvecklingen av den svenska industriproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-09",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0402&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0402&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiknyheter publiceras ej längre för Industriproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
+        "Produktionsvärdeindex"
+      ],
+      "links": [
+        {
+          "text": "Produktionsvärdeindex",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M07",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej (SNI 2007)"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej (SNI 2007)",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej (SNI 2002)"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej (SNI 2002)",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402C"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "1998–2008 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2026_v2_20260907_x.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2026_v2_20260907_x.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2025_v2_20250616.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2025_v2_20250616.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2024_20240308.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2024_20240308.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2023_231212.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2023_231212.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2022_v2_220425.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2022_v2_220425.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2021_v2.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2021_v2.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2020_jk_210309.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2020_jk_210309.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2019_al_190809.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2019_al_190809.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2018_rb_180302.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2018_rb_180302.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2017_os_170425.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_kd_2017_os_170425.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2015_150608.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2015_150608.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2014_rb_140310.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2014_rb_140310.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_2009.pdf"
+        },
+        {
+          "text": "1998–2008 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_1998-2008.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_bs_1998-2008.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "1998–2008 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2026_v2_20260907_x.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2026_v2_20260907_x.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2025_v2_20250616.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2025_v2_20250616.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2024_20240327.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2024_20240327.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2023_231212.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2023_231212.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2022_sn_220309.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2022_sn_220309.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2021_v2.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2021_v2.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2020_jk_210309.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_staf_2020_jk_210309.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0007_staf_2018_ah_181030.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0007_staf_2018_ah_181030.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2017_sk_170323.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2017_sk_170323.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2016.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2015_150923.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2015_150923.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_2009.pdf"
+        },
+        {
+          "text": "1998–2008 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_19982008.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0402_do_19982008.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Kortperiodisk industrienkät",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "1999–2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "1999–2003 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0702_do_19992003.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/nv0702_do_19992003.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=NV0402",
+          "url": "https://metadata.scb.se/?produkt=NV0402"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Metoddokument – Historiska tidsserier (pdf)",
+        "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
+        "Förändringar i statistiken – Industriproduktionsindex - april 2023 (pdf)",
+        "Tillämpning av revideringspolicy (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Metoddokument – Historiska tidsserier (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/produktrelaterat/Fordjupad-information/metoddokument--historiska-tidsserier-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/produktrelaterat/Fordjupad-information/metoddokument--historiska-tidsserier-pdf/"
+        },
+        {
+          "text": "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/produktrelaterat/Fordjupad-information/faq-pin/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/produktrelaterat/Fordjupad-information/faq-pin/"
+        },
+        {
+          "text": "Förändringar i statistiken – Industriproduktionsindex - april 2023 (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/forandringar_i_statistikenindustriproduktionsindex-april_2023.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/forandringar_i_statistikenindustriproduktionsindex-april_2023.pdf"
+        },
+        {
+          "text": "Tillämpning av revideringspolicy (pdf)",
+          "href": "/contentassets/d244c756cb8c4626b794d58b6b09c1fd/tillampningsdokument-revideringar_20261001.pdf",
+          "url": "https://www.scb.se/contentassets/d244c756cb8c4626b794d58b6b09c1fd/tillampningsdokument-revideringar_20261001.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "pin@scb.se"
+      ],
+      "links": [
+        {
+          "text": "pin@scb.se",
+          "href": "mailto:pin@scb.se",
+          "url": "mailto:pin@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Företagsekonomi",
+        "Index",
+        "Industri",
+        "Produktion"
+      ],
+      "links": [
+        {
+          "text": "Företagsekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
+        },
+        {
+          "text": "Index",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
+        },
+        {
+          "text": "Industri",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
+        },
+        {
+          "text": "Produktion",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/nv0402"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

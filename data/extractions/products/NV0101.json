@@ -1,0 +1,673 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV0101",
+    "response_url": "https://www.scb.se/NV0101",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/ovrigt/foretagsdatabasen-fdb/",
+    "fetched_at": "2026-10-05T13:12:59.353012Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "5be1b02626fb7bd5569a306d6b4e11b7f753b86aa8655b41fd24e25ecd9d20f5",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "NV0101",
+  "product_code_source": "calendar",
+  "title": "Företagsdatabasen (FDB)",
+  "short_address": "https://www.scb.se/nv0101",
+  "summary": "Företagsdatabasen (FDB) är ett register över samtliga företag, myndigheter, organisationer och deras arbetsställen. FDB har en central roll som urvalsram och samordningsinstrument för statistikproduktionen inom SCB. Detta gäller framförallt för den ekonomiska statistiken. FDB är också ett basregister i SCB:s registersystem. SCB har enligt riksdagsbeslut sedan 1963 i uppdrag att föra ett register över företag och deras arbetsställen.",
+  "official_statistics_marker": null,
+  "next_publication_text": "Nästa publicering: 2026-12-01",
+  "next_publication_date": "2026-12-01",
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Arbetsställen",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=12",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=12"
+    },
+    {
+      "text": "Företag",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+    },
+    {
+      "text": "SNI",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=175",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=175"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-01",
+        "Företagsdatabasen (FDB) är ett register över samtliga företag, myndigheter, organisationer och deras arbetsställen. FDB har en central roll som urvalsram och samordningsinstrument för statistikproduktionen inom SCB. Detta gäller framförallt för den ekonomiska statistiken. FDB är också ett basregister i SCB:s registersystem. SCB har enligt riksdagsbeslut sedan 1963 i uppdrag att föra ett register över företag och deras arbetsställen."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0101&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Företag (FDB) efter näringsgren SNI2007 och storleksklass. År 2008 - 2025",
+        "2025-12-02"
+      ],
+      "links": [
+        {
+          "text": "Företag (FDB) efter näringsgren SNI2007 och storleksklass. År 2008 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR07N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR07N"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Företag och anställda (FDB) efter näringsgren SNI2007 och storleksklass. År 2008 - 2013",
+        "2017-12-05"
+      ],
+      "links": [
+        {
+          "text": "Företag och anställda (FDB) efter näringsgren SNI2007 och storleksklass. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR07"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Företag och anställda (FDB) efter näringsgren SNI2002 och storleksklass. År 2003 - 2007",
+        "2007-12-20"
+      ],
+      "links": [
+        {
+          "text": "Företag och anställda (FDB) efter näringsgren SNI2002 och storleksklass. År 2003 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FDBR"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Företag och anställda (FDB) efter näringsgren SNI92 och storleksklass.  År 1993 - 2002",
+        "2005-03-30"
+      ],
+      "links": [
+        {
+          "text": "Företag och anställda (FDB) efter näringsgren SNI92 och storleksklass.  År 1993 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CFAR1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CFAR1"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Dokumentation av införandet av SNI 2007",
+          "href": "/publikation/18554",
+          "url": "https://www.scb.se/publikation/18554"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Dokumentation av införandet av SNI 2007",
+          "",
+          "2012-04-19"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (1)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=NV0101&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=NV0101&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2025_v1_251202.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2025_v1_251202.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2024_20241203.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2024_20241203.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2023_v1_231205.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2023_v1_231205.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2022_v1_221206.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2022_v1_221206.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2021_v1_211207.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2021_v1_211207.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2020_ce_201201.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2020_ce_201201.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2019_ce_191203.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2019_ce_191203.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2018_ce_181204.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2018_ce_181204.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2017_ce_181130.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_kd_2017_ce_181130.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2013_bw_141119.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2013_bw_141119.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2012_ny.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2012_ny.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_bs_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2025_v1_251202.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2025_v1_251202.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2024_20241203.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2024_20241203.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2023_v1_231205.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2023_v1_231205.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2022_v1_221206.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2022_v1_221206.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_st_2021_v1_211207.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_st_2021_v1_211207.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2020_ce_201201.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2020_ce_201201.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2019_ce_191203.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2019_ce_191203.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2018_ce_181203.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_staf_2018_ce_181203.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2017_180212_ce.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2017_180212_ce.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2016_ce_170404.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2016_ce_170404.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2015_ce_170331.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2015_ce_170331.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2014_ce_170331.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2014_ce_170331.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2013_bw_141119.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2013_bw_141119.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=NV0101",
+          "url": "https://metadata.scb.se/?produkt=NV0101"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "scbforetag@scb.se",
+          "href": "mailto:scbforetag@scb.se",
+          "url": "mailto:scbforetag@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbetsställen",
+        "Företag",
+        "SNI"
+      ],
+      "links": [
+        {
+          "text": "Arbetsställen",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=12",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=12"
+        },
+        {
+          "text": "Företag",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+        },
+        {
+          "text": "SNI",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=175",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=175"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagsdatabasen (FDB)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/nv0101"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

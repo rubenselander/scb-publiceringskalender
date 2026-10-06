@@ -1,0 +1,906 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0108",
+    "response_url": "https://www.scb.se/EN0108",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/",
+    "fetched_at": "2026-10-05T13:10:30.887337Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "778083a07ee8495ffe677f57b9e3c459d517054d30e5b559a03a74098b3a54a5",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0108",
+  "product_code_source": "calendar",
+  "title": "Månatlig elstatistik och byten av elleverantör",
+  "short_address": "https://www.scb.se/en0108",
+  "summary": "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-09",
+  "next_publication_date": "2026-10-09",
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-09",
+        "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-09",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elförsörjning månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elforsorjning-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elforsorjning-manadsvis/"
+        },
+        {
+          "text": "Elförsörjning 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elforsorjning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elforsorjning/"
+        },
+        {
+          "text": "Elförsörjning per elområde månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-och-elanvandning-per-elomrade-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-och-elanvandning-per-elomrade-manadsvis/"
+        },
+        {
+          "text": "Elproduktion efter produktionsslag månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-efter-produktionsslag-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-efter-produktionsslag-manadsvis/"
+        },
+        {
+          "text": "Elproduktion efter produktionsslag 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-efter-produktionsslag-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/elproduktion-efter-produktionsslag-2026/"
+        },
+        {
+          "text": "Industrins elanvändning månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/industrins-elanvandning-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/industrins-elanvandning-manadsvis/"
+        },
+        {
+          "text": "Industrins elanvändning 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/industrins-elanvandning-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/industrins-elanvandning-2025/"
+        },
+        {
+          "text": "Import och export av el 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/import-och-export-av-el-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/import-och-export-av-el-2026/"
+        },
+        {
+          "text": "Import och export av el månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/import-och-export-av-el-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/import-och-export-av-el-manadsvis/"
+        },
+        {
+          "text": "Byten av elleverantör (elhandelsföretag)",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/byten-av-elleverantor-elhandelsforetag/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/byten-av-elleverantor-elhandelsforetag/"
+        },
+        {
+          "text": "Byten av elleverantör (elhandelsföretag) månadsvis",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/byten-av-elleverantor-elhandelsforetag-manadsvis/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/pong/tabell-och-diagram/byten-av-elleverantor-elhandelsforetag-manadsvis/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Elförsörjning månadsvis",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Elförsörjning 2026",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Elförsörjning per elområde månadsvis",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Elproduktion efter produktionsslag månadsvis",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Elproduktion efter produktionsslag 2026",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Industrins elanvändning månadsvis",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Industrins elanvändning 2026",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Import och export av el 2026",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Import och export av el månadsvis",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Byten av elleverantör (elhandelsföretag)",
+          "Tabell",
+          "2026-09-10"
+        ],
+        [
+          "Byten av elleverantör (elhandelsföretag) månadsvis",
+          "Diagram",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Månatlig elstatistik",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM"
+        },
+        {
+          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M"
+        },
+        {
+          "text": "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO"
+        },
+        {
+          "text": "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod"
+        },
+        {
+          "text": "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM"
+        },
+        {
+          "text": "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN"
+        },
+        {
+          "text": "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M07",
+          "2026-09-10"
+        ],
+        [
+          "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M07",
+          "2026-09-10"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som inte uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som inte uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0108B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0108B"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2026_v1_20260312.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2026_v1_20260312.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2025_v1_20250319.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2025_v1_20250319.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2024_v2_20240911.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2024_v2_20240911.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2021_ma_210330.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2021_ma_210330.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2020_am_200309.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2020_am_200309.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2019_ma_190308.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2019_ma_190308.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2018_180412_ma.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2018_180412_ma.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2017_ma_170324.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_kd_2017_ma_170324.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2005.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_bs_2000.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)",
+        "1998 (pdf)",
+        "1997 (pdf)",
+        "1996 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2026_v1_20260312.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2026_v1_20260312.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2025_v1_20250319.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2025_v1_20250319.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2024_v2_20240911.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_st_2024_v2_20240911.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2021_ma_210330.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2021_ma_210330.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2020_am_200309.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2020_am_200309.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2019_ma_190308.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2019_ma_190308.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2018_ma_181123.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2018_ma_181123.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2017_180514_ma.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_staf_2017_180514_ma.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2016_ma_170221.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2016_ma_170221.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2014_151118.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2014_151118.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2008.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2000.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1999.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1999.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1998.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1998.pdf"
+        },
+        {
+          "text": "1997 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1997.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1997.pdf"
+        },
+        {
+          "text": "1996 (pdf)",
+          "href": "/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1996.pdf",
+          "url": "https://www.scb.se/contentassets/4e78c2a9e2b746ad9b41ddb2bc09e54f/en0108_do_1996.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0108",
+          "url": "https://metadata.scb.se/?produkt=EN0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Beskrivning av Månatlig elstatistik"
+      ],
+      "links": [
+        {
+          "text": "Beskrivning av Månatlig elstatistik",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-elstatistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-elstatistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Fredrik Fagrell",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 60 63",
+        "E-post",
+        "fredrik.fagrell@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 60 63",
+          "href": "tel:010-479 60 63",
+          "url": "tel:010-479 60 63"
+        },
+        {
+          "text": "fredrik.fagrell@scb.se",
+          "href": "mailto:fredrik.fagrell@scb.se",
+          "url": "mailto:fredrik.fagrell@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "El"
+      ],
+      "links": [
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0108"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

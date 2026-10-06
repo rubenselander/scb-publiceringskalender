@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/KU0201",
+    "response_url": "https://www.scb.se/KU0201",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturarv/kulturmiljostatistik/",
+    "fetched_at": "2026-10-05T13:12:04.760846Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "46baef2396b3dc4691e9291f06aeca390e6e05482477c68bae4ea0ffa8f51a95",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Kulturmiljöstatistik",
+  "product_code": "KU0201",
+  "has_documentation_section": false,
+  "groups": []
+}

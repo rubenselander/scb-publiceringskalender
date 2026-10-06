@@ -1,0 +1,3965 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0401",
+    "response_url": "https://www.scb.se/AM0401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/",
+    "fetched_at": "2026-10-05T13:10:11.461504Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "038fdaf4ec6f8dd541b6bea96f59c98ba89f05f237971e32d828317119707581",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0401",
+  "product_code_source": "calendar",
+  "title": "Arbetskraftsundersökningarna (AKU)",
+  "short_address": "https://www.scb.se/am0401",
+  "summary": "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-16",
+  "next_publication_date": "2026-10-16",
+  "responsible_agency": null,
+  "notices": [
+    "Arbetskraftsundersökningarna, tidigare definitioner",
+    "På grund av upptäckta kvalitetsbrister i AKU avseende nedbrytningar på utbildningsnivå samt utbildningsinriktning prickas antalsskattningar inklusive tillhörande osäkerhetstal i Excel- och statistikdatabastabeller. Prickningen av antalsskattningar för utbildningsnivå och utbildningsinriktning görs från år 2012 och framåt. Orsaken till bristerna är att AKU överskattar personer med eftergymnasial utbildning och underskattar personer med gymnasial utbildning. Vidare kan konstateras att kvalitetsbristerna är större för antalsskattningar än andels- och förändringsskattningar. För mer information, se: Utbildningsnivå i AKU (pdf)"
+  ],
+  "tags": [
+    {
+      "text": "Arbete",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+    },
+    {
+      "text": "Arbetskraft",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
+    },
+    {
+      "text": "Arbetslöshet",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
+    },
+    {
+      "text": "Arbetsmarknad",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+    },
+    {
+      "text": "Sysselsatta",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+    },
+    {
+      "text": "Ungdomsarbetslöshet",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=200",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=200"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-16",
+        "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna, tidigare definitioner",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Arbetskraftsundersökningarna, tidigare definitioner"
+      ],
+      "links": [
+        {
+          "text": "Arbetskraftsundersökningarna, tidigare definitioner",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "2026-04-22: Information om nedbrytning på utbildningsnivå och utbildningsinriktning",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "På grund av upptäckta kvalitetsbrister i AKU avseende nedbrytningar på utbildningsnivå samt utbildningsinriktning prickas antalsskattningar inklusive tillhörande osäkerhetstal i Excel- och statistikdatabastabeller. Prickningen av antalsskattningar för utbildningsnivå och utbildningsinriktning görs från år 2012 och framåt. Orsaken till bristerna är att AKU överskattar personer med eftergymnasial utbildning och underskattar personer med gymnasial utbildning. Vidare kan konstateras att kvalitetsbristerna är större för antalsskattningar än andels- och förändringsskattningar. För mer information, se: Utbildningsnivå i AKU (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Utbildningsnivå i AKU (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/utbniva_aku_20260422.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/utbniva_aku_20260422.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Arbetskraftstalet",
+        "77,5 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "1,4 %-enheter",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet",
+        "8,5 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "0,1 %-enheter",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Sysselsatta av befolkningen",
+        "70,9 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "1,2 %-enheter",
+        "jämfört med samma period föregående år"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Arbetskraftstalet (säsongrensat och utjämnat)",
+        "76,2 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet (säsongrensat och utjämnat)",
+        "8,7 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Sysselsatta av befolkningen (säsongrensat och utjämnat)",
+        "69,6 %",
+        "Referenstid: augusti 2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-09-16",
+        "I augusti 2026 var 5 423 000 sysselsatta, icke säsongrensat. Det är en ökning med 103 000 jämfört med augusti 2025. Antalet arbetade timmar var i genomsnitt 128,7 miljoner timmar per vecka. Antalet arbetslösa var 505 000, vilket motsvarar ett arbetslöshetstal på 8,5 procent. Säsongrensade och utjämnade data visar på en ökning av både antalet och andelen sysselsatta. Det säsongrensade och utjämnade arbetslöshetstalet uppgick till 8,7 procent."
+      ],
+      "links": [
+        {
+          "text": "Sysselsättningen ökar",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-augusti-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=AM0401",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=AM0401"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Icke säsongrensade data",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Grundtabeller AKU, 15–74 år, månad",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-manad/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-manad/"
+        },
+        {
+          "text": "Grundtabeller AKU, 15–74 år, kvartal (a)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-kvartal-a/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-kvartal-a/"
+        },
+        {
+          "text": "Grundtabeller AKU, 15–74 år, år",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-ar/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/grundtabeller-aku-1574-ar-ar/"
+        },
+        {
+          "text": "Tabeller avseende befolkningen ej i arbete, 15–74 år, kvartal (b)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-befolkningen-ej-i-arbete-1574-ar-kvartal-b/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-befolkningen-ej-i-arbete-1574-ar-kvartal-b/"
+        },
+        {
+          "text": "Tidsserier avseende befolkningen ej i arbete, 15–74 år, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tidsserier-avseende-befolkningen-ej-i-arbete-1574-ar-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tidsserier-avseende-befolkningen-ej-i-arbete-1574-ar-kvartal/"
+        },
+        {
+          "text": "Kompletterande tabeller avseende (a) och (b), 15–74 år, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/kompletterande-tabeller-avseende-a-och-b-1574-ar-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/kompletterande-tabeller-avseende-a-och-b-1574-ar-kvartal/"
+        },
+        {
+          "text": "Tabeller avseende undersysselsättning, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-undersysselsattning-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-undersysselsattning-kvartal/"
+        },
+        {
+          "text": "Tabeller avseende undersysselsättning, år",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-undersysselsattning-ar/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tabeller-avseende-undersysselsattning-ar/"
+        },
+        {
+          "text": "Tilläggstabeller AKU 15–74 år, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tillaggstabeller-aku-1574-ar-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tillaggstabeller-aku-1574-ar-kvartal/"
+        },
+        {
+          "text": "Tilläggstabeller AKU, 15–74 år, år",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tillaggstabeller-aku-1574-ar-ar/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/icke-sasongrensade-data/tillaggstabeller-aku-1574-ar-ar/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Grundtabeller AKU, 15–74 år, månad",
+          "Excel-fil",
+          "2026-09-16"
+        ],
+        [
+          "Grundtabeller AKU, 15–74 år, kvartal (a)",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Grundtabeller AKU, 15–74 år, år",
+          "Excel-fil",
+          "2026-01-23"
+        ],
+        [
+          "Tabeller avseende befolkningen ej i arbete, 15–74 år, kvartal (b)",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Tidsserier avseende befolkningen ej i arbete, 15–74 år, kvartal",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Kompletterande tabeller avseende (a) och (b), 15–74 år, kvartal",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Tabeller avseende undersysselsättning, kvartal",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Tabeller avseende undersysselsättning, år",
+          "Excel-fil",
+          "2026-01-23"
+        ],
+        [
+          "Tilläggstabeller AKU 15–74 år, kvartal",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Tilläggstabeller AKU, 15–74 år, år",
+          "Excel-fil",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Flödesdata – Övergångar mellan olika arbetsmarknadstillstånd",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Flödestabeller AKU (paket 1), 15–74 år enligt internationell definition",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-1-1574-ar-enligt-internationell-definition/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-1-1574-ar-enligt-internationell-definition/"
+        },
+        {
+          "text": "Flödestabeller AKU (paket 2), 15–74 år enligt internationell definition",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-2-1574-ar-enligt-internationell-definition/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-2-1574-ar-enligt-internationell-definition/"
+        },
+        {
+          "text": "Flödestabeller AKU (paket 3), 15–74 år enligt internationell definition",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-3-1574-ar-enligt-internationell-definition/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/flodestabeller-aku-paket-3-1574-ar-enligt-internationell-definition/"
+        },
+        {
+          "text": "Rekryteringstabeller AKU, 15–74 år, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/rekryteringstabeller-aku-1574-ar-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/rekryteringstabeller-aku-1574-ar-kvartal/"
+        },
+        {
+          "text": "Rekryteringstabeller AKU, 15–74 år, år (tilläggstabeller)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/rekryteringstabeller-aku-1574-ar-ar-tillaggstabeller/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/flodesdata--overgangar-mellan-olika-arbetsmarknadstillstand/rekryteringstabeller-aku-1574-ar-ar-tillaggstabeller/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Flödestabeller AKU (paket 1), 15–74 år enligt internationell definition",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Flödestabeller AKU (paket 2), 15–74 år enligt internationell definition",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Flödestabeller AKU (paket 3), 15–74 år enligt internationell definition",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Rekryteringstabeller AKU, 15–74 år, kvartal",
+          "Excel-fil",
+          "2026-07-24"
+        ],
+        [
+          "Rekryteringstabeller AKU, 15–74 år, år (tilläggstabeller)",
+          "Excel-fil",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tabeller som inte längre uppdateras",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Extrafrågor relaterade till covid-19, månad",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/extrafragor-relaterade-till-covid-19-manad/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/extrafragor-relaterade-till-covid-19-manad/"
+        },
+        {
+          "text": "Extrafrågor relaterade till covid-19, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/extrafragor-relaterade-till-covid-19-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/extrafragor-relaterade-till-covid-19-kvartal/"
+        },
+        {
+          "text": "Utökade grundtabeller 12, månad",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-12-manad/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-12-manad/"
+        },
+        {
+          "text": "Utökade grundtabeller 12, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-12-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-12-kvartal/"
+        },
+        {
+          "text": "Utökade grundtabeller 7, månad",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-7-manad/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-7-manad/"
+        },
+        {
+          "text": "Utökade grundtabeller 7, kvartal",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-7-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/tabell-och-diagram/tabeller-som-inte-langre-uppdateras/utokade-grundtabeller-7-kvartal/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Extrafrågor relaterade till covid-19, månad",
+          "Excel-fil",
+          "2022-07-29"
+        ],
+        [
+          "Extrafrågor relaterade till covid-19, kvartal",
+          "Excel-fil",
+          "2022-07-29"
+        ],
+        [
+          "Utökade grundtabeller 12, månad",
+          "Excel-fil",
+          "2023-03-07"
+        ],
+        [
+          "Utökade grundtabeller 12, kvartal",
+          "Excel-fil",
+          "2023-03-07"
+        ],
+        [
+          "Utökade grundtabeller 7, månad",
+          "Excel-fil",
+          "2023-09-20"
+        ],
+        [
+          "Utökade grundtabeller 7, kvartal",
+          "Excel-fil",
+          "2023-07-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen efter arbetskraftstillhörighet från och med 2001",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefM"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefK"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta från och med 2001",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07M"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07K"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07Ar"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012M"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Kvartal 2015K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012K"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön.  År 2015 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012Ar"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelM"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelK"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelAr"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTM"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTK"
+        },
+        {
+          "text": "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Kvartal 2022K3 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, yrke SSYK 2012 och kön. Kvartal 2022K3 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemYrkeK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemYrkeK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, yrke SSYK 2012 och kön. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemYrkeAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemYrkeAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, näringsgren SNI2007 och kön. Kvartal 2022K3 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSniK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSniK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, näringsgren SNI2007 och kön. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSniAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSniAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, sektor och kön. Kvartal 2022K3 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSektorK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSektorK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, sektor och kön. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSektorAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemSektorAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Kvartal 2015K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön.  År 2015 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Kvartal 2022K3 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. År 2023 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, yrke SSYK 2012 och kön. Kvartal 2022K3 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, yrke SSYK 2012 och kön. År 2023 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, näringsgren SNI2007 och kön. Kvartal 2022K3 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, näringsgren SNI2007 och kön. År 2023 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, sektor och kön. Kvartal 2022K3 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, sektor och kön. År 2023 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorM"
+        },
+        {
+          "text": "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorK"
+        },
+        {
+          "text": "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorAr"
+        },
+        {
+          "text": "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgM"
+        },
+        {
+          "text": "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgK"
+        },
+        {
+          "text": "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgAr"
+        },
+        {
+          "text": "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidM"
+        },
+        {
+          "text": "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidK"
+        },
+        {
+          "text": "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetstid från och med 2001",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimM"
+        },
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimK"
+        },
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimAr"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidM"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidK"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidAr"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidM"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidK"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetstid efter näringsgren (SNI2007) från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07M"
+        },
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07K"
+        },
+        {
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07Ar"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07M"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07K"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07Ar"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07M"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07K"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07Ar"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Frånvarande från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNM"
+        },
+        {
+          "text": "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNK"
+        },
+        {
+          "text": "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNAr"
+        },
+        {
+          "text": "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidM"
+        },
+        {
+          "text": "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidK"
+        },
+        {
+          "text": "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidAr"
+        },
+        {
+          "text": "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvM"
+        },
+        {
+          "text": "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvK"
+        },
+        {
+          "text": "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetslösa från och med 2001",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTM"
+        },
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTK"
+        },
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTAr"
+        },
+        {
+          "text": "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudM"
+        },
+        {
+          "text": "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudK"
+        },
+        {
+          "text": "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudAr"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvM"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvK"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Personer ej i arbetskraften från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakM"
+        },
+        {
+          "text": "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakK"
+        },
+        {
+          "text": "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakAr"
+        },
+        {
+          "text": "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsM"
+        },
+        {
+          "text": "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsK"
+        },
+        {
+          "text": "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Outnyttjat arbetskraftsutbud från och med 2001",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudM"
+        },
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Kvartal 2001K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudK"
+        },
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. År 2001 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Kvartal 2001K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. År 2001 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Regionala tabeller från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter region, arbetskraftstillhörighet och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningLK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningLK"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter region, arbetskraftstillhörighet och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningLAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningLAr"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter region och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidLK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidLK"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter region och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidLAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidLAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter region, anknytningsgrad till arbetsmarknaden och kön. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselAnkLK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselAnkLK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter region, anknytningsgrad till arbetsmarknaden och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselAnkLAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselAnkLAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter region, veckoarbetstid (överenskommen), kön och ålder . År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtidLAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtidLAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter region, arbetskraftstillhörighet och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter region, arbetskraftstillhörighet och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter region och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter region och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter region, anknytningsgrad till arbetsmarknaden och kön. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter region, anknytningsgrad till arbetsmarknaden och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter region, veckoarbetstid (överenskommen), kön och ålder . År 2021 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Utbildningens nivå och inriktning från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, utbildningsnivå och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTUtbnivAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTUtbnivAr"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, utbildningsinriktning (SUN 2000) och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbInriktnAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbInriktnAr"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, utbildningsnivå och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbNivAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbNivAr"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter utbildningsnivå och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidUtbAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidUtbAr"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön.  År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosTMvUtbniAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosTMvUtbniAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, utbildningsnivå och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselUtbnivAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselUtbnivAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, utbildningsnivå och kön. År 2005 - 2025",
+          "2026-04-22"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, utbildningsinriktning (SUN 2000) och kön. År 2005 - 2025",
+          "2026-04-22"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, utbildningsnivå och kön. År 2005 - 2025",
+          "2026-04-22"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter utbildningsnivå och kön. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön.  År 2005 - 2025",
+          "2026-04-22"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, utbildningsnivå och kön. År 2005 - 2025",
+          "2026-04-22"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Civilstånd och barn från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfM"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfK"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfAr"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfM"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfK"
+        },
+        {
+          "text": "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfAr"
+        },
+        {
+          "text": "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfM"
+        },
+        {
+          "text": "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfK"
+        },
+        {
+          "text": "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inrikes och utrikes födda från och med 2005",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrM"
+        },
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrK"
+        },
+        {
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrAr"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrM"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrK"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrAr"
+        },
+        {
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes -/utrikes född, utbildningsnivå och kön. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbnInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbnInrUtrAr"
+        },
+        {
+          "text": "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrM"
+        },
+        {
+          "text": "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrK"
+        },
+        {
+          "text": "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrAr"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfM"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfK"
+        },
+        {
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfAr"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrM"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrK"
+        },
+        {
+          "text": "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrAr"
+        },
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrM"
+        },
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrK"
+        },
+        {
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmM"
+        },
+        {
+          "text": "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmK"
+        },
+        {
+          "text": "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmAr"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrM"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrK"
+        },
+        {
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. År 2005 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes -/utrikes född, utbildningsnivå och kön. År 2005 - 2025",
+          "2026-04-22"
+        ],
+        [
+          "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M08",
+          "2026-09-16"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. År 2005 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Unga som varken arbetar eller studerar (NEET) från och med 2007",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Unga 15-34 år (AKU) som varken arbetar eller studerar (NEET) efter typ av data, kön och ålder. Kvartal 2007K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETBefK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETBefK"
+        },
+        {
+          "text": "Unga 15-34 år (AKU) som varken arbetar eller studerar (NEET) efter typ av data, kön och ålder. År 2007 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETBefAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETBefAr"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter inrikes/utrikes född, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETInrUtrK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETInrUtrK"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter inrikes/utrikes född, typ av data och kön. År 2007 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETInrUtrAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETInrUtrAr"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter arbetskraftstillhörighet, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETTillhK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETTillhK"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter arbetskraftstillhörighet, typ av data och kön. År 2007 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETTillhAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETTillhAr"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter tidigare arbetslivserfarenhet, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETErfhK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETErfhK"
+        },
+        {
+          "text": "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter tidigare arbetslivserfarenhet, typ av data och kön. År 2007 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETErfhAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLNEETErfhAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Unga 15-34 år (AKU) som varken arbetar eller studerar (NEET) efter typ av data, kön och ålder. Kvartal 2007K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Unga 15-34 år (AKU) som varken arbetar eller studerar (NEET) efter typ av data, kön och ålder. År 2007 - 2025",
+          "2026-06-15"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter inrikes/utrikes född, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter inrikes/utrikes född, typ av data och kön. År 2007 - 2025",
+          "2026-06-15"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter arbetskraftstillhörighet, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter arbetskraftstillhörighet, typ av data och kön. År 2007 - 2025",
+          "2026-06-15"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter tidigare arbetslivserfarenhet, typ av data och kön. Kvartal 2007K1 - 2026K2",
+          "2026-07-24"
+        ],
+        [
+          "Unga 15-24 år (AKU) som varken arbetar eller studerar (NEET) efter tidigare arbetslivserfarenhet, typ av data och kön. År 2007 - 2025",
+          "2026-06-15"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Äldre från och med 2021",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 65-89 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldBefAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldBefAr"
+        },
+        {
+          "text": "Sysselsatta 65-89 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysIarbFrvAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysIarbFrvAr"
+        },
+        {
+          "text": "Sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysAnkAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysAnkAr"
+        },
+        {
+          "text": "Sysselsatta 65-89 år (AKU) efter veckoarbetstid (överenskommen), typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysOkAtAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldSysOkAtAr"
+        },
+        {
+          "text": "Anställda 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldAnstSektorAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldAnstSektorAr"
+        },
+        {
+          "text": "Medelarbetstid (faktisk och överenskommen) per vecka för sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldMedAtAR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldMedAtAR"
+        },
+        {
+          "text": "Sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldAnkInrUtrAR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAldAnkInrUtrAR"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 65-89 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 65-89 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 65-89 år (AKU) efter veckoarbetstid (överenskommen), typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Anställda 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Medelarbetstid (faktisk och överenskommen) per vecka för sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ],
+        [
+          "Sysselsatta 65-89 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. År 2021 - 2025",
+          "2026-01-23"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2026 -  Äldres deltagande på arbetsmarknaden",
+          "href": "/publikation/63109",
+          "url": "https://www.scb.se/publikation/63109"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2026:1 - Tema: Arbetslösheten i Sverige",
+          "href": "/publikation/59212",
+          "url": "https://www.scb.se/publikation/59212"
+        },
+        {
+          "text": "Bakgrundsfakta 2026:1. Arbetslöshetsmåttet i AKU – principer och definitioner",
+          "href": "/publikation/62979",
+          "url": "https://www.scb.se/publikation/62979"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU), 2025",
+          "href": "/publikation/59180",
+          "url": "https://www.scb.se/publikation/59180"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2025:3 – Tema: Arbetsutbud och jobbyten under inflationsperioden 2022–2023",
+          "href": "/publikation/54943",
+          "url": "https://www.scb.se/publikation/54943"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2025:2 – Tema: Latent arbetssökande 2024",
+          "href": "/publikation/54932",
+          "url": "https://www.scb.se/publikation/54932"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2025:1 – Tema: Arbete hemifrån och arbetad tid",
+          "href": "/publikation/54902",
+          "url": "https://www.scb.se/publikation/54902"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2024",
+          "href": "/publikation/58173",
+          "url": "https://www.scb.se/publikation/58173"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2024:4 – Tema: Jobba mer eller jobba mindre? Hur ser det ut bland anställda i Sverige?",
+          "href": "/publikation/51681",
+          "url": "https://www.scb.se/publikation/51681"
+        },
+        {
+          "text": "Bakgrundsfakta 2024:2. Bortfallsmönster i Arbetskraftsundersökningarna 2010–2023",
+          "href": "/publikation/55623",
+          "url": "https://www.scb.se/publikation/55623"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna, 2024:3 - Tema: Hur förhåller sig AKU:s tidsserier till konjunkturen?",
+          "href": "/publikation/51655",
+          "url": "https://www.scb.se/publikation/51655"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2024:2 – Tema: Hur mycket jobbar vi i Sverige?",
+          "href": "/publikation/54601",
+          "url": "https://www.scb.se/publikation/54601"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2024:1 - Tema: Äldres deltagande på arbetsmarknaden 2001–2023",
+          "href": "/publikation/51642",
+          "url": "https://www.scb.se/publikation/51642"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2023",
+          "href": "/publikation/51637",
+          "url": "https://www.scb.se/publikation/51637"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2023 – Tema: Långtidsarbetslösa 2005–2023",
+          "href": "/publikation/51104",
+          "url": "https://www.scb.se/publikation/51104"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2023  - Tema: Utvecklingen på arbetsmarknaden för unga",
+          "href": "/publikation/51103",
+          "url": "https://www.scb.se/publikation/51103"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2023 – Tema: Arbetsmarknaden för utrikes födda i Sverige och EU",
+          "href": "/publikation/51102",
+          "url": "https://www.scb.se/publikation/51102"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2022",
+          "href": "/publikation/48699",
+          "url": "https://www.scb.se/publikation/48699"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2022:2 – Tema: Arbetslöshetsrisker och jobbchanser under coronapandemin",
+          "href": "/publikation/45051",
+          "url": "https://www.scb.se/publikation/45051"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2022 – Tema: Hemarbete under coronapandemin",
+          "href": "/publikation/45004",
+          "url": "https://www.scb.se/publikation/45004"
+        },
+        {
+          "text": "Arbetskraftsundersökningarna (AKU) 2021",
+          "href": "/publikation/45095",
+          "url": "https://www.scb.se/publikation/45095"
+        },
+        {
+          "text": "Jämförande studie AKU och Af 2016 – Arbetslöshetstid i Arbetskraftsundersökningarna (AKU) och tid utan arbete på Arbetsförmedlingen (Af)",
+          "href": "/publikation/36661",
+          "url": "https://www.scb.se/publikation/36661"
+        },
+        {
+          "text": "Sysselsatta och arbetade timmar i AKU och NR. Bakgrundsfakta – arbetsmarknad och utbildning 2016:1",
+          "href": "/publikation/35867",
+          "url": "https://www.scb.se/publikation/35867"
+        },
+        {
+          "text": "Employed and hours worked in Labour Force Surveys and National Accounts. Background Facts – Labour and Education Statistics 2016:1",
+          "href": "/publikation/35868",
+          "url": "https://www.scb.se/publikation/35868"
+        },
+        {
+          "text": "Analysis on nonresponse bias for the Swedish Labour Force Surveys (LFS)",
+          "href": "/publikation/35754",
+          "url": "https://www.scb.se/publikation/35754"
+        },
+        {
+          "text": "Over- and undercoverage in the Labour Force Survey (LFS) – a register-based study",
+          "href": "/publikation/35755",
+          "url": "https://www.scb.se/publikation/35755"
+        },
+        {
+          "text": "Bakgrundsfakta: Över- och undertäckning i Arbetskraftsundersökningarna (AKU) – en registerbaserad studie",
+          "href": "/publikation/32407",
+          "url": "https://www.scb.se/publikation/32407"
+        },
+        {
+          "text": "Bakgrundsfakta: Analys av bortfallsbias avseende Arbetskraftsundersökningarna (AKU)",
+          "href": "/publikation/32401",
+          "url": "https://www.scb.se/publikation/32401"
+        },
+        {
+          "text": "Jämförande studie AKU och Af 2015",
+          "href": "/publikation/29205",
+          "url": "https://www.scb.se/publikation/29205"
+        },
+        {
+          "text": "Sysselsatta och arbetade timmar i AKU och NR",
+          "href": "/publikation/29204",
+          "url": "https://www.scb.se/publikation/29204"
+        },
+        {
+          "text": "Bakgrundsfakta: Bortfallsmönster i AKU",
+          "href": "/publikation/26361",
+          "url": "https://www.scb.se/publikation/26361"
+        },
+        {
+          "text": "Background facts: Measurement errors study in the Swedish labour force surveys",
+          "href": "/publikation/26360",
+          "url": "https://www.scb.se/publikation/26360"
+        },
+        {
+          "text": "Background facts: Estimating household-related parameters in the Swedish LFS – theory and practice",
+          "href": "/publikation/26359",
+          "url": "https://www.scb.se/publikation/26359"
+        },
+        {
+          "text": "Background facts: Flow statistics – an early indicator of turning points on the labour market?",
+          "href": "/publikation/26313",
+          "url": "https://www.scb.se/publikation/26313"
+        },
+        {
+          "text": "Bakgrundsfakta: Metod för estimation vid sammanslagning av urval med olika design i arbetskraftsundersökningarna",
+          "href": "/publikation/23710",
+          "url": "https://www.scb.se/publikation/23710"
+        },
+        {
+          "text": "Bakgrundsfakta: Arbetskraftsundersökningarnas (AKU) och Arbetsförmedlingens (AF) arbetslöshetsstatistik – En jämförande studie",
+          "href": "/publikation/21177",
+          "url": "https://www.scb.se/publikation/21177"
+        },
+        {
+          "text": "Bakgrundsfakta: Länkning av centrala serier i Arbetskraftsundersökningarna (AKU) 1970–1986",
+          "href": "/publikation/21152",
+          "url": "https://www.scb.se/publikation/21152"
+        },
+        {
+          "text": "Background facts: Part-time employed job seekers",
+          "href": "/publikation/21154",
+          "url": "https://www.scb.se/publikation/21154"
+        },
+        {
+          "text": "Bakgrundsfakta: Deltidssysselsatta arbetssökande",
+          "href": "/publikation/21153",
+          "url": "https://www.scb.se/publikation/21153"
+        },
+        {
+          "text": "Background facts: Youth unemployment – comparability in statistics between a number of European countries",
+          "href": "/publikation/21103",
+          "url": "https://www.scb.se/publikation/21103"
+        },
+        {
+          "text": "Background facts: Revising Surveys – Linking Old and New Data",
+          "href": "/publikation/21098",
+          "url": "https://www.scb.se/publikation/21098"
+        },
+        {
+          "text": "Background facts: Consistent Seasonal Adjustment",
+          "href": "/publikation/21099",
+          "url": "https://www.scb.se/publikation/21099"
+        },
+        {
+          "text": "Bakgrundsfakta: Ungdomsarbetslöshet – jämförbarhet i statistiken mellan ett antal europeiska länder",
+          "href": "/publikation/21058",
+          "url": "https://www.scb.se/publikation/21058"
+        },
+        {
+          "text": "Background facts: Linking a system of time series, Recalculation of Labour Force Surveys 1987–1992",
+          "href": "/publikation/20628",
+          "url": "https://www.scb.se/publikation/20628"
+        },
+        {
+          "text": "Background facts: Actual Hours Worked in the Swedish LFS – Four articles",
+          "href": "/publikation/20627",
+          "url": "https://www.scb.se/publikation/20627"
+        },
+        {
+          "text": "Bakgrundsfakta: Urvals- och estimationsförfarandet i de svenska arbetskraftsundersökningarna (AKU) 2005–",
+          "href": "/publikation/17711",
+          "url": "https://www.scb.se/publikation/17711"
+        },
+        {
+          "text": "Bakgrundsfakta: Arbetskraftsundersökningarna (AKU) 50 år – Fyra forskarperspektiv på arbetsmarknaden",
+          "href": "/publikation/16119",
+          "url": "https://www.scb.se/publikation/16119"
+        },
+        {
+          "text": "Background facts: Recruitment Statistics from the Swedish Labour Force Surveys",
+          "href": "/publikation/16127",
+          "url": "https://www.scb.se/publikation/16127"
+        },
+        {
+          "text": "Bakgrundsfakta: Basic principles for Labour Force Surveys (LFS) and labour market statistics",
+          "href": "/publikation/16092",
+          "url": "https://www.scb.se/publikation/16092"
+        },
+        {
+          "text": "Bakgrundsfakta: Rekryteringsstatistik från Arbetskraftsundersökning (AKU)",
+          "href": "/publikation/14565",
+          "url": "https://www.scb.se/publikation/14565"
+        },
+        {
+          "text": "Bakgrundsfakta: Principiella grunder för Arbetskraftsundersökningarna (AKU) och arbetsmarknadsstatistiken",
+          "href": "/publikation/13703",
+          "url": "https://www.scb.se/publikation/13703"
+        },
+        {
+          "text": "Bakgrundsfakta: Flow Statistics from the Swedish Labour Force Survey",
+          "href": "/publikation/1734",
+          "url": "https://www.scb.se/publikation/1734"
+        },
+        {
+          "text": "Bakgrundsfakta: Flödesstatistik från AKU",
+          "href": "/publikation/1732",
+          "url": "https://www.scb.se/publikation/1732"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2026 -  Äldres deltagande på arbetsmarknaden",
+          "",
+          "2026-09-10"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2026:1 - Tema: Arbetslösheten i Sverige",
+          "",
+          "2026-06-09"
+        ],
+        [
+          "Bakgrundsfakta 2026:1. Arbetslöshetsmåttet i AKU – principer och definitioner",
+          "",
+          "2026-06-09"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU), 2025",
+          "",
+          "2026-02-24"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2025:3 – Tema: Arbetsutbud och jobbyten under inflationsperioden 2022–2023",
+          "",
+          "2025-12-16"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2025:2 – Tema: Latent arbetssökande 2024",
+          "",
+          "2025-10-01"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2025:1 – Tema: Arbete hemifrån och arbetad tid",
+          "",
+          "2025-03-25"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2024",
+          "",
+          "2025-02-25"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2024:4 – Tema: Jobba mer eller jobba mindre? Hur ser det ut bland anställda i Sverige?",
+          "",
+          "2024-12-03"
+        ],
+        [
+          "Bakgrundsfakta 2024:2. Bortfallsmönster i Arbetskraftsundersökningarna 2010–2023",
+          "",
+          "2024-10-31"
+        ],
+        [
+          "Arbetskraftsundersökningarna, 2024:3 - Tema: Hur förhåller sig AKU:s tidsserier till konjunkturen?",
+          "",
+          "2024-09-24"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2024:2 – Tema: Hur mycket jobbar vi i Sverige?",
+          "",
+          "2024-06-26"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2024:1 - Tema: Äldres deltagande på arbetsmarknaden 2001–2023",
+          "",
+          "2024-03-26"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2023",
+          "",
+          "2024-02-27"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2023 – Tema: Långtidsarbetslösa 2005–2023",
+          "",
+          "2023-12-06"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2023  - Tema: Utvecklingen på arbetsmarknaden för unga",
+          "",
+          "2023-06-13"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2023 – Tema: Arbetsmarknaden för utrikes födda i Sverige och EU",
+          "",
+          "2023-03-28"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2022",
+          "",
+          "2023-02-28"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2022:2 – Tema: Arbetslöshetsrisker och jobbchanser under coronapandemin",
+          "",
+          "2022-12-06"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2022 – Tema: Hemarbete under coronapandemin",
+          "",
+          "2022-09-13"
+        ],
+        [
+          "Arbetskraftsundersökningarna (AKU) 2021",
+          "",
+          "2022-06-15"
+        ],
+        [
+          "Jämförande studie AKU och Af 2016 – Arbetslöshetstid i Arbetskraftsundersökningarna (AKU) och tid utan arbete på Arbetsförmedlingen (Af)",
+          "",
+          "2018-11-13"
+        ],
+        [
+          "Sysselsatta och arbetade timmar i AKU och NR. Bakgrundsfakta – arbetsmarknad och utbildning 2016:1",
+          "",
+          "2018-07-18"
+        ],
+        [
+          "Employed and hours worked in Labour Force Surveys and National Accounts. Background Facts – Labour and Education Statistics 2016:1",
+          "",
+          "2018-07-11"
+        ],
+        [
+          "Analysis on nonresponse bias for the Swedish Labour Force Surveys (LFS)",
+          "",
+          "2018-04-23"
+        ],
+        [
+          "Over- and undercoverage in the Labour Force Survey (LFS) – a register-based study",
+          "",
+          "2018-04-23"
+        ],
+        [
+          "Bakgrundsfakta: Över- och undertäckning i Arbetskraftsundersökningarna (AKU) – en registerbaserad studie",
+          "",
+          "2017-05-31"
+        ],
+        [
+          "Bakgrundsfakta: Analys av bortfallsbias avseende Arbetskraftsundersökningarna (AKU)",
+          "",
+          "2017-05-24"
+        ],
+        [
+          "Jämförande studie AKU och Af 2015",
+          "",
+          "2016-06-30"
+        ],
+        [
+          "Sysselsatta och arbetade timmar i AKU och NR",
+          "",
+          "2016-06-22"
+        ],
+        [
+          "Bakgrundsfakta: Bortfallsmönster i AKU",
+          "",
+          "2015-09-03"
+        ],
+        [
+          "Background facts: Measurement errors study in the Swedish labour force surveys",
+          "",
+          "2015-08-24"
+        ],
+        [
+          "Background facts: Estimating household-related parameters in the Swedish LFS – theory and practice",
+          "",
+          "2015-08-12"
+        ],
+        [
+          "Background facts: Flow statistics – an early indicator of turning points on the labour market?",
+          "",
+          "2015-04-30"
+        ],
+        [
+          "Bakgrundsfakta: Metod för estimation vid sammanslagning av urval med olika design i arbetskraftsundersökningarna",
+          "",
+          "2014-02-13"
+        ],
+        [
+          "Bakgrundsfakta: Arbetskraftsundersökningarnas (AKU) och Arbetsförmedlingens (AF) arbetslöshetsstatistik – En jämförande studie",
+          "",
+          "2013-09-12"
+        ],
+        [
+          "Bakgrundsfakta: Länkning av centrala serier i Arbetskraftsundersökningarna (AKU) 1970–1986",
+          "",
+          "2013-08-27"
+        ],
+        [
+          "Background facts: Part-time employed job seekers",
+          "",
+          "2013-08-27"
+        ],
+        [
+          "Bakgrundsfakta: Deltidssysselsatta arbetssökande",
+          "",
+          "2013-08-27"
+        ],
+        [
+          "Background facts: Youth unemployment – comparability in statistics between a number of European countries",
+          "",
+          "2013-05-23"
+        ],
+        [
+          "Background facts: Revising Surveys – Linking Old and New Data",
+          "",
+          "2013-05-23"
+        ],
+        [
+          "Background facts: Consistent Seasonal Adjustment",
+          "",
+          "2013-05-23"
+        ],
+        [
+          "Bakgrundsfakta: Ungdomsarbetslöshet – jämförbarhet i statistiken mellan ett antal europeiska länder",
+          "",
+          "2013-04-02"
+        ],
+        [
+          "Background facts: Linking a system of time series, Recalculation of Labour Force Surveys 1987–1992",
+          "",
+          "2012-12-18"
+        ],
+        [
+          "Background facts: Actual Hours Worked in the Swedish LFS – Four articles",
+          "",
+          "2012-12-10"
+        ],
+        [
+          "Bakgrundsfakta: Urvals- och estimationsförfarandet i de svenska arbetskraftsundersökningarna (AKU) 2005–",
+          "",
+          "2011-11-25"
+        ],
+        [
+          "Bakgrundsfakta: Arbetskraftsundersökningarna (AKU) 50 år – Fyra forskarperspektiv på arbetsmarknaden",
+          "",
+          "2011-09-30"
+        ],
+        [
+          "Background facts: Recruitment Statistics from the Swedish Labour Force Surveys",
+          "",
+          "2011-09-26"
+        ],
+        [
+          "Bakgrundsfakta: Basic principles for Labour Force Surveys (LFS) and labour market statistics",
+          "",
+          "2011-06-22"
+        ],
+        [
+          "Bakgrundsfakta: Rekryteringsstatistik från Arbetskraftsundersökning (AKU)",
+          "",
+          "2010-12-09"
+        ],
+        [
+          "Bakgrundsfakta: Principiella grunder för Arbetskraftsundersökningarna (AKU) och arbetsmarknadsstatistiken",
+          "",
+          "2010-05-25"
+        ],
+        [
+          "Bakgrundsfakta: Flow Statistics from the Swedish Labour Force Survey",
+          "",
+          "2005-12-05"
+        ],
+        [
+          "Bakgrundsfakta: Flödesstatistik från AKU",
+          "",
+          "2005-11-16"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (150)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=AM0401&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=AM0401&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2026_20260216.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2026_20260216.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2025_20250217.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2025_20250217.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2024.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2024.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2023_230210.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2023_230210.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2022_20221122.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2022_20221122.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2021_ny.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_kd_2021_ny.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2026_v2_20260216.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2026_v2_20260216.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2025_20250217.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2025_20250217.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2024.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2024.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2023_klar.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2023_klar.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2021_mt_20220218.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/am0401_staf_2021_mt_20220218.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0401",
+          "url": "https://metadata.scb.se/?produkt=AM0401"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Analys av skillnader i statistik om sysselsättningsgrad (pdf)",
+        "AKU och BAS En beskrivning av skillnaderna mellan undersökningarna (pdf)",
+        "En numerisk beskrivning av relationen mellan BAS och AKU (pdf)",
+        "Korrigering av fackförbund och centralorganisation (pdf)",
+        "Hantering av höjd pensionsålder",
+        "Långtidsarbetslösheten fortsatt hög efter pandemin (scb.se)",
+        "Fredagsdiagram AKU",
+        "Information om justering av outlierhantering i AKU",
+        "Förändringar i AKU",
+        "Metod för länkning av AKU:s tidsserier för perioden 2005–2020",
+        "Begrepp och definitioner i AKU (pdf)",
+        "Ändringar i AKU i samband med införandet av ramlagen (pdf)",
+        "Införande av ramlagen i AKU (pdf)",
+        "Information om införande av ny ramlag 2021 i AKU",
+        "AKUs blankett 2023 v1. (pdf)",
+        "Skräddarsydd statistik – Arbetskraftsundersökningarna (AKU)",
+        "Varför säsongrensning i AKU?",
+        "Arbetsmarknadsläget kvartal två (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Analys av skillnader i statistik om sysselsättningsgrad (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf"
+        },
+        {
+          "text": "AKU och BAS En beskrivning av skillnaderna mellan undersökningarna (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/"
+        },
+        {
+          "text": "En numerisk beskrivning av relationen mellan BAS och AKU (pdf)",
+          "href": "/contentassets/b88061c80e6d4033ba60ed98b423d67d/en-numerisk-beskrivning-av-relationen-mellan-bas-och-aku.pdf",
+          "url": "https://www.scb.se/contentassets/b88061c80e6d4033ba60ed98b423d67d/en-numerisk-beskrivning-av-relationen-mellan-bas-och-aku.pdf"
+        },
+        {
+          "text": "Korrigering av fackförbund och centralorganisation (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/korrigering-fackforbund_20250314.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/korrigering-fackforbund_20250314.pdf"
+        },
+        {
+          "text": "Hantering av höjd pensionsålder",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/hantering-av-hojd-pensionsalder/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/hantering-av-hojd-pensionsalder/"
+        },
+        {
+          "text": "Långtidsarbetslösheten fortsatt hög efter pandemin (scb.se)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/langtidsarbetslosheten-fortsatt-hog-efter-pandemin-scb.se",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/langtidsarbetslosheten-fortsatt-hog-efter-pandemin-scb.se"
+        },
+        {
+          "text": "Fredagsdiagram AKU",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/fredagsdiagram-261002.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/fredagsdiagram-261002.pdf"
+        },
+        {
+          "text": "Information om justering av outlierhantering i AKU",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/information-om-justering-av-outlierhantering-i-aku/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/information-om-justering-av-outlierhantering-i-aku/"
+        },
+        {
+          "text": "Förändringar i AKU",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/forandringar-i-aku/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/forandringar-i-aku/"
+        },
+        {
+          "text": "Metod för länkning av AKU:s tidsserier för perioden 2005–2020",
+          "href": "/contentassets/2aee1dd9405d41d0b9f99dfd012ba7f6/metod-for-lankning-av-akus-tidsserier.pdf",
+          "url": "https://www.scb.se/contentassets/2aee1dd9405d41d0b9f99dfd012ba7f6/metod-for-lankning-av-akus-tidsserier.pdf"
+        },
+        {
+          "text": "Begrepp och definitioner i AKU (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/begrepp-och-definitioner-i-aku.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/begrepp-och-definitioner-i-aku.pdf"
+        },
+        {
+          "text": "Ändringar i AKU i samband med införandet av ramlagen (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/andringar-i-aku-i-samband-med-inforandet-av-ramlagen-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/andringar-i-aku-i-samband-med-inforandet-av-ramlagen-pdf/"
+        },
+        {
+          "text": "Införande av ramlagen i AKU (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/inforande-av-ramlagen-i-aku-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/inforande-av-ramlagen-i-aku-pdf/"
+        },
+        {
+          "text": "Information om införande av ny ramlag 2021 i AKU",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/information-om-inforande-av-ny-ramlag-2021-i-aku/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/information-om-inforande-av-ny-ramlag-2021-i-aku/"
+        },
+        {
+          "text": "AKUs blankett 2023 v1. (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/akus_blankett_2023_v1.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/akus_blankett_2023_v1.pdf"
+        },
+        {
+          "text": "Skräddarsydd statistik – Arbetskraftsundersökningarna (AKU)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--arbetskraftsundersokningarna-aku/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--arbetskraftsundersokningarna-aku/"
+        },
+        {
+          "text": "Varför säsongrensning i AKU?",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/varfor-sasongrensning-i-aku/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/varfor-sasongrensning-i-aku/"
+        },
+        {
+          "text": "Arbetsmarknadsläget kvartal två (pdf)",
+          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/arbetsmarknadslaget-kvartal-tva.pdf",
+          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/arbetsmarknadslaget-kvartal-tva.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "aku@scb.se"
+      ],
+      "links": [
+        {
+          "text": "aku@scb.se",
+          "href": "mailto:aku@scb.se",
+          "url": "mailto:aku@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbete",
+        "Arbetskraft",
+        "Arbetslöshet",
+        "Arbetsmarknad",
+        "Sysselsatta",
+        "Ungdomsarbetslöshet"
+      ],
+      "links": [
+        {
+          "text": "Arbete",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+        },
+        {
+          "text": "Arbetskraft",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
+        },
+        {
+          "text": "Arbetslöshet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
+        },
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+        },
+        {
+          "text": "Sysselsatta",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
+        },
+        {
+          "text": "Ungdomsarbetslöshet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=200",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=200"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskraftsundersökningarna (AKU)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0401"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

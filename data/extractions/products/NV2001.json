@@ -1,0 +1,434 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV2001",
+    "response_url": "https://www.scb.se/NV2001",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-ovrigt/",
+    "fetched_at": "2026-10-05T13:13:26.558805Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "886c12fcd642b4d71dc656bc48e060ea9c2e900ffc88c2b3928f671675e8878f",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "NV2001",
+  "product_code_source": "calendar",
+  "title": "Utrikeshandel, övrigt",
+  "short_address": "https://www.scb.se/nv2001",
+  "summary": "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-27",
+  "next_publication_date": "2026-10-27",
+  "responsible_agency": null,
+  "notices": [
+    "STEC (Service Trade by Enterprise Characteristics) och TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat.",
+    "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat International trade in goods by enterprise characteristic - Statistics Explained - Eurostat",
+    "Utrikeshandel med varor Utrikeshandel med tjänster"
+  ],
+  "tags": [
+    {
+      "text": "Ekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+    },
+    {
+      "text": "Handel",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
+    },
+    {
+      "text": "Import och export",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
+    },
+    {
+      "text": "Utrikeshandel",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
+    },
+    {
+      "text": "Varor",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=210",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=210"
+    },
+    {
+      "text": "Tjänster",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-27",
+        "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistik under utveckling",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på denna sida. Tabellerna finns under avsnittet Tabeller i Statistikdatabasen längre ner. Tabellerna, som är under utveckling, innehåller data fr.o.m. januari 2026. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på produktsidan för Utrikeshandel med varor är de underlag som används under tröskeln. I den nya importtabellen används data från det mikrodatautbyte av införseldata (MDE) som sker mellan medlemsländerna. Genom att använda MDE-data under tröskeln kan fördelningen av handeln på varukoder och länder under tröskeln fördelas bättre än i nuvarande metod. I den nya exporttabellen används istället data från VIES (VAT Information Exchange System) under tröskeln för en bättre landfördelning jämfört med dagens metod. Tanken är att de nya tabellerna ska publiceras med data för hela år 2026 och att de sedan, om inget oförutsett inträffar, ska ersätta de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabellerna fr.o.m. publiceringen av 2027 års data. Ansatsen görs i ett första steg i ett kvalitetshöjande syfte. På längre sikt är tanken att uppgiftslämnarbördan för införselföretagen ska kunna minska genom att tröskelvärdet för införsel höjs samtidigt som MDE-data används i större utsträckning.",
+        "Under oktober 2026 kommer varuhandelns faktureringsvaluta att publiceras på denna sida"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "STEC och TEC",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "STEC (Service Trade by Enterprise Characteristics) och TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Läs mer hos Eurostat:",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat International trade in goods by enterprise characteristic - Statistics Explained - Eurostat"
+      ],
+      "links": [
+        {
+          "text": "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat",
+          "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Services_trade_by_enterprise_characteristics_-_STEC",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Services_trade_by_enterprise_characteristics_-_STEC"
+        },
+        {
+          "text": "International trade in goods by enterprise characteristic - Statistics Explained - Eurostat",
+          "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristic#Trade_by_enterprise_ownership",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristic#Trade_by_enterprise_ownership"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Ordinarie statistik om utrikeshandel",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Utrikeshandel med varor Utrikeshandel med tjänster"
+      ],
+      "links": [
+        {
+          "text": "Utrikeshandel med varor",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/"
+        },
+        {
+          "text": "Utrikeshandel med tjänster",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M07",
+        "2026-09-30"
+      ],
+      "links": [
+        {
+          "text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEExpTotalKNMan",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEExpTotalKNMan"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M07",
+        "2026-09-30"
+      ],
+      "links": [
+        {
+          "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M07",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Varuhandel",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "utrikeshandel@scb.se"
+      ],
+      "links": [
+        {
+          "text": "utrikeshandel@scb.se",
+          "href": "mailto:utrikeshandel@scb.se",
+          "url": "mailto:utrikeshandel@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Tjänstehandel",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "uht@scb.se"
+      ],
+      "links": [
+        {
+          "text": "uht@scb.se",
+          "href": "mailto:uht@scb.se",
+          "url": "mailto:uht@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Handel",
+        "Import och export",
+        "Utrikeshandel",
+        "Varor",
+        "Tjänster"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+        },
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
+        },
+        {
+          "text": "Import och export",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
+        },
+        {
+          "text": "Utrikeshandel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
+        },
+        {
+          "text": "Varor",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=210",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=210"
+        },
+        {
+          "text": "Tjänster",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/nv2001"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

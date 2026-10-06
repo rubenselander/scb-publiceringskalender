@@ -1,0 +1,76 @@
+{
+  "code": "FH",
+  "index_link": {
+    "text": "FH Folkhälsa",
+    "href": "/hitta-statistik/statistik-efter-amne/folkhalsa/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/",
+    "fetched_at": "2026-10-05T13:15:56.221282Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "513d6aba07fb90fe09534fd3d0d313e474a756743fa3947f70c1e77f3c89de51",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Folkhälsa",
+  "areas": [
+    {
+      "label": "Folkhälsans utveckling",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Nationella folkhälsoenkäten Hälsa på lika villkor",
+            "href": "/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Den Nationella folkhälsoenkäten – Hälsa på lika villkor är en nationell undersökning om hälsa, levnadsvanor och livsvillkor. Undersökningen genomfördes första gången 2004 och har sedan dess genomförts varje år till 2016 och sedan dess vartannat år, med undantag av pandemiåret 2021. Syftet med statistiken är att visa hur Sveriges befolkning 16 år och äldre mår, följa förändringar i hälsa och dess bestämningsfaktorer över tid och visa skillnader efter kön, ålder, ekonomi, födelseland, sysselsättning, utbildning och region.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Folkhälsomyndigheten",
+          "tags_text": null
+        }
+      ]
+    },
+    {
+      "label": "Smittskydd",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Anmälningspliktiga smittsamma sjukdomar",
+            "href": "/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/anmalningspliktiga-smittsamma-sjukdomar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/anmalningspliktiga-smittsamma-sjukdomar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken redogör för det epidemiologiska läget i Sverige gällande anmälningspliktiga smittsamma sjukdomar. Syftet med statistiken är att öka förståelsen för och ge en överblick över sjukdomarnas omfattning, dess riskgrupper, geografiska spridning och variationer över tid.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Folkhälsomyndigheten",
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Barnvaccinationer",
+            "href": "/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/barnvaccinationer/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/barnvaccinationer/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Barnvaccinationer baserat på Nationella vaccinationsregistret (NVR) används för uppföljning av vaccinationstäckning för alla vaccinationer som ingår i det allmänna vaccinationsprogrammet för barn. Statistik utifrån underlag från NVR har tagits fram sedan statistikåret 2021 (och ingår i Sveriges officiella statistik sedan statistikåret 2022). Syftet med statistiken är att ge en årlig redovisning av vaccinationstäckningen och dess utveckling över tid avseende de sjukdomar som omfattas av barnvaccinationsprogrammet. Statistiken ger även en överblick över vaccinationstäckningen på nationell, regional och kommunal nivå.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Folkhälsomyndigheten",
+          "tags_text": null
+        }
+      ]
+    }
+  ]
+}

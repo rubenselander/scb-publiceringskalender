@@ -1,0 +1,161 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV0124",
+    "response_url": "https://www.scb.se/NV0124",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/ekonomisk-statistik-pa-kvartal/",
+    "fetched_at": "2026-10-05T13:13:05.896343Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7fa0970440268441e28817a7c5a327e4a42d528293dccfa6b6c74cbb2b3337c4",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Ekonomisk statistik på kvartal",
+  "product_code": "NV0124",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_kd_2026_20260526.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_kd_2026_20260526.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/esk_nv0124_kd_2025_def.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/esk_nv0124_kd_2025_def.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/esk_nv0124_kd_2024_def.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/esk_nv0124_kd_2024_def.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2026_20260526.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2026_20260526.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2025_def_20250523.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2025_def_20250523.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2024_def_20250523.pdf",
+          "url": "https://www.scb.se/contentassets/ef9515d59bab44c5891e0bfc07d42e7c/nv0124_staf_2024_def_20250523.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=NV0124",
+          "url": "https://metadata.scb.se/?produkt=NV0124"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,3267 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/HE0110",
+    "response_url": "https://www.scb.se/HE0110",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/",
+    "fetched_at": "2026-10-05T13:10:57.964785Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7b2c33d9e46f0e837d6de4add8c5e8359747c9f285410af9b81da68408463073",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "HE0110",
+  "product_code_source": "calendar",
+  "title": "Inkomster och skatter",
+  "short_address": "https://www.scb.se/he0110",
+  "summary": "Statistiken visar inkomstfördelning och storleken på inkomster, skatter, kapitalvinster och skattereduktioner, som RUT och ROT, efter kön, ålder, födelseland, län och kommun, för både individer och hushåll. Statistiken är totalräknad och lämpar sig väl för regionala redovisningar.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-12-16",
+  "next_publication_date": "2026-12-16",
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Ekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+    },
+    {
+      "text": "Inkomst",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
+    },
+    {
+      "text": "Lön",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
+    },
+    {
+      "text": "Pension",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=150",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=150"
+    },
+    {
+      "text": "Skatt",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=170",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170"
+    },
+    {
+      "text": "Välfärd",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-12-16",
+        "Statistiken visar inkomstfördelning och storleken på inkomster, skatter, kapitalvinster och skattereduktioner, som RUT och ROT, efter kön, ålder, födelseland, län och kommun, för både individer och hushåll. Statistiken är totalräknad och lämpar sig väl för regionala redovisningar."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-12-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0110&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0110&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomisk standard, medianvärde",
+        "327,3 tkr",
+        "Referenstid:  2024"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Andel personer med låg ekonomisk standard",
+        "13,1 %",
+        "Referenstid:  2024"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Gini-koefficient ekonomisk standard",
+        "0,314",
+        "Referenstid:  2024"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-10-01",
+        "Befolkningens inkomster ökade 3,9 procent mellan juni 2025 och juni 2026. Män i arbetsför ålder har ökat sina inkomster mest under andra kvartalet medan kvinnor över 67 år har haft den lägsta ökningstakten."
+      ],
+      "links": [
+        {
+          "text": "Hushållens inkomster fortsätter stiga",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/statistiknyhet/preliminar-manatlig-inkomststatistik-2026m04-2026m06/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/statistiknyhet/preliminar-manatlig-inkomststatistik-2026m04-2026m06/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=HE0110",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=HE0110"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Individer (riket)",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sammanräknad förvärvsinkomst 2024 – inkomstklasser",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--inkomstklasser/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--inkomstklasser/"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst 2024 – efter födelseregion",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--efter-fodelseregion/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--efter-fodelseregion/"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst 2024 - största födelseländerna",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024---storsta-fodelselanderna/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024---storsta-fodelselanderna/"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst 2024 – decilindelning",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--decilindelning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammanraknad-forvarvsinkomst-2024--decilindelning/"
+        },
+        {
+          "text": "Sammansättning kapitalvinster och kapitalförluster 2024. Nettovinst/förlust",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammansattning-kapitalvinster-och-kapitalforluster-2024.-nettovinstforlust",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/sammansattning-kapitalvinster-och-kapitalforluster-2024.-nettovinstforlust"
+        },
+        {
+          "text": "Kapitalvinster och kapitalförluster 2024 efter kön och ålder. Nettovinst/förlust",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/kapitalvinster-och-kapitalforluster-2024-efter-kon-och-alder.-nettovinstforlust",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-riket/kapitalvinster-och-kapitalforluster-2024-efter-kon-och-alder.-nettovinstforlust"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst 2024 – inkomstklasser",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst 2024 – efter födelseregion",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst 2024 - största födelseländerna",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst 2024 – decilindelning",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammansättning kapitalvinster och kapitalförluster 2024. Nettovinst/förlust",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Kapitalvinster och kapitalförluster 2024 efter kön och ålder. Nettovinst/förlust",
+          "Excel-fil",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Individer (län/kommun)",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nettoinkomst 2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/nettoinkomst/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/nettoinkomst/"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst per kommun 1991–2024. Medianinkomst i 2024 års priser",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/sammanraknad-forvarvsinkomst-per-kommun-19912024.-medianinkomst-i-2024-ars-priser",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/sammanraknad-forvarvsinkomst-per-kommun-19912024.-medianinkomst-i-2024-ars-priser"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst 2024 – per kommun efter percentiler",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/sammanraknad-forvarvsinkomst-2024--per-kommun-efter-percentiler/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/sammanraknad-forvarvsinkomst-2024--per-kommun-efter-percentiler/"
+        },
+        {
+          "text": "Kapitalinkomst 2024 per kommun",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/kapitalinkomst-2024-per-kommun/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--individer-lankommun/kapitalinkomst-2024-per-kommun/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Nettoinkomst 2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst per kommun 1991–2024. Medianinkomst i 2024 års priser",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst 2024 – per kommun efter percentiler",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Kapitalinkomst 2024 per kommun",
+          "Excel-fil",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Hushåll (riket)",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Disponibel inkomst för hushåll efter hushållstyp 1991-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--hushall-riket/disponibel-inkomst-for-hushall-efter-hushallstyp-1991-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--hushall-riket/disponibel-inkomst-for-hushall-efter-hushallstyp-1991-2024/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Disponibel inkomst för hushåll efter hushållstyp 1991-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Ekonomisk standard och inkomststandard (riket)",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Indikatorer inkomstfördelning 1975–2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/indikatorer-inkomstfordelning-19752024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/indikatorer-inkomstfordelning-19752024/"
+        },
+        {
+          "text": "Inkomststruktur disponibel inkomst 1991-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/inkomststruktur-disponibel-inkomst-1991-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/inkomststruktur-disponibel-inkomst-1991-2024/"
+        },
+        {
+          "text": "Ekonomisk standard efter deciler 1991-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/ekonomisk-standard-efter-deciler-1991-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/ekonomisk-standard-efter-deciler-1991-2024/"
+        },
+        {
+          "text": "Ekonomisk standard för befolkningsgrupper 1991-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/ekonomisk-standard-for-befolkningsgrupper-1991-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/ekonomisk-standard-for-befolkningsgrupper-1991-2024/"
+        },
+        {
+          "text": "Låg ekonomisk standard för befolkningsgrupper 1991-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/lag-ekonomisk-standard-for-befolkningsgrupper-1991-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/lag-ekonomisk-standard-for-befolkningsgrupper-1991-2024/"
+        },
+        {
+          "text": "Låg inkomststandard för befolkningsgrupper 2011-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/lag-inkomststandard-for-befolkningsgrupper-2011-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/lag-inkomststandard-for-befolkningsgrupper-2011-2024/"
+        },
+        {
+          "text": "Varaktigt låg ekonomisk standard för befolkningsgrupper 2014-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/varaktigt-lag-ekonomisk-standard-for-befolkningsgrupper-2014-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/varaktigt-lag-ekonomisk-standard-for-befolkningsgrupper-2014-2024/"
+        },
+        {
+          "text": "Varaktigt låg inkomststandard för befolkningsgrupper 2014-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/varaktigt-lag-inkomststandard-for-befolkningsgrupper-2014-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/varaktigt-lag-inkomststandard-for-befolkningsgrupper-2014-2024/"
+        },
+        {
+          "text": "Gini-koefficient 1975–2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/gini-koefficient/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/gini-koefficient/"
+        },
+        {
+          "text": "Andel med låg ekonomisk standard 1975–2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/andel-med-lag-ekonomisk-standard-19752024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-riket/andel-med-lag-ekonomisk-standard-19752024/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Indikatorer inkomstfördelning 1975–2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur disponibel inkomst 1991-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard efter deciler 1991-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard för befolkningsgrupper 1991-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Låg ekonomisk standard för befolkningsgrupper 1991-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Låg inkomststandard för befolkningsgrupper 2011-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Varaktigt låg ekonomisk standard för befolkningsgrupper 2014-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Varaktigt låg inkomststandard för befolkningsgrupper 2014-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Gini-koefficient 1975–2024",
+          "Diagram",
+          "2026-01-20"
+        ],
+        [
+          "Andel med låg ekonomisk standard 1975–2024",
+          "Diagram",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Ekonomisk standard och inkomststandard (län/kommun)",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Låg ekonomisk standard efter födelseregion, ålder och kommun 2011-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/lag-ekonomisk-standard-efter-fodelseregion-alder-och-kommun-2011-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/lag-ekonomisk-standard-efter-fodelseregion-alder-och-kommun-2011-2024/"
+        },
+        {
+          "text": "Låg inkomststandard efter födelseregion, ålder och kommun 2011-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/lag-inkomststandard-efter-fodelseregion-alder-och-kommun-2011-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/lag-inkomststandard-efter-fodelseregion-alder-och-kommun-2011-2024/"
+        },
+        {
+          "text": "Varaktigt låg ekonomisk standard efter län och kommun 2014-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/varaktigt-lag-ekonomisk-standard-efter-lan-och-kommun-2014-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/varaktigt-lag-ekonomisk-standard-efter-lan-och-kommun-2014-2024/"
+        },
+        {
+          "text": "Varaktigt låg inkomststandard efter län och kommun 2014-2024",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/varaktigt-lag-inkomststandard-efter-lan-och-kommun-2014-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/inkomster--ekonomisk-standard-och-inkomststandard-lankommun/varaktigt-lag-inkomststandard-efter-lan-och-kommun-2014-2024/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Låg ekonomisk standard efter födelseregion, ålder och kommun 2011-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Låg inkomststandard efter födelseregion, ålder och kommun 2011-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Varaktigt låg ekonomisk standard efter län och kommun 2014-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ],
+        [
+          "Varaktigt låg inkomststandard efter län och kommun 2014-2024",
+          "Excel-fil",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Övrigt",
+          "href": "javascript:void(0)",
+          "url": "javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal och andel barn med vårdnadsbidrag per kommun",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/ovrigt/antal-och-andel-barn-med-vardnadsbidrag-per-kommun/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/pong/tabell-och-diagram/ovrigt/antal-och-andel-barn-med-vardnadsbidrag-per-kommun/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Antal och andel barn med vårdnadsbidrag per kommun",
+          "Excel-fil",
+          "2017-09-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Individer",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön, ålder och inkomstklass. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, utbildningsnivå, kön och ålder. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1c",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1c"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön och ålder i 1-årsklasser. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1b"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter kön, inkomstklass och ålder i 1-årsklasser. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk1a"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön, födelseland, vistelsetid i Sverige och ålder. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk3"
+        },
+        {
+          "text": "Sammanräknad förvärvsinkomst för boende i Sverige den 31/12 resp år efter region, kön, ålder och inkomstklass. År 1991 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamForvInk2"
+        },
+        {
+          "text": "Nettoinkomst för boende i Sverige hela året efter region, kön och ålder. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NetInk02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NetInk02"
+        },
+        {
+          "text": "Nettoinkomst för boende i Sverige hela året efter region, kön, födelseland, vistelsetid i Sverige och ålder. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NetInk03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NetInk03"
+        },
+        {
+          "text": "Fördelning inkomster (fraktiler) för boende i Sverige hela året efter region, kön och ålder. År 2010 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamNetFrakt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamNetFrakt"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön, ålder och inkomstklass. År 1999 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, utbildningsnivå, kön och ålder. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön och ålder i 1-årsklasser. År 1999 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter kön, inkomstklass och ålder i 1-årsklasser. År 1999 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige hela året efter region, kön, födelseland, vistelsetid i Sverige och ålder. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Sammanräknad förvärvsinkomst för boende i Sverige den 31/12 resp år efter region, kön, ålder och inkomstklass. År 1991 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Nettoinkomst för boende i Sverige hela året efter region, kön och ålder. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Nettoinkomst för boende i Sverige hela året efter region, kön, födelseland, vistelsetid i Sverige och ålder. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Fördelning inkomster (fraktiler) för boende i Sverige hela året efter region, kön och ålder. År 2010 - 2024",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Månadsinkomster – preliminär statistik",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Individuell disponibel inkomst exkl. kapitalinkomst efter region, kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab1"
+        },
+        {
+          "text": "Individuell disponibel inkomst exkl. kapitalinkomst, fraktiler, efter kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab2"
+        },
+        {
+          "text": "Individuell disponibel inkomst exkl. kapitalinkomst efter kön, ålder och födelseregion. Löpande priser. Månad 2025M01 - 2026M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab3"
+        },
+        {
+          "text": "Inkomststruktur individuell disponibel inkomst exkl. kapitalinkomst efter kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab4"
+        },
+        {
+          "text": "Individuell disponibel inkomst exkl. kapitalinkomst efter region, kön och ålder. Fasta priser. Månad 2025M01 - 2026M06",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MistTab5"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Individuell disponibel inkomst exkl. kapitalinkomst efter region, kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "2026-10-01"
+        ],
+        [
+          "Individuell disponibel inkomst exkl. kapitalinkomst, fraktiler, efter kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "2026-10-01"
+        ],
+        [
+          "Individuell disponibel inkomst exkl. kapitalinkomst efter kön, ålder och födelseregion. Löpande priser. Månad 2025M01 - 2026M06",
+          "2026-10-01"
+        ],
+        [
+          "Inkomststruktur individuell disponibel inkomst exkl. kapitalinkomst efter kön och ålder. Löpande priser. Månad 2025M01 - 2026M06",
+          "2026-10-01"
+        ],
+        [
+          "Individuell disponibel inkomst exkl. kapitalinkomst efter region, kön och ålder. Fasta priser. Månad 2025M01 - 2026M06",
+          "2026-10-01"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Hushåll",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Disponibel inkomst för hushåll efter region, hushållstyp och ålder. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX4bDispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX4bDispInkN"
+        },
+        {
+          "text": "Fördelning inkomster för hushåll (fraktiler) efter region. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispH1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispH1"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Disponibel inkomst för hushåll efter region, hushållstyp och ålder. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Fördelning inkomster för hushåll (fraktiler) efter region. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomster – Ekonomisk standard",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Indikatorer inkomstfördelning efter region. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX1DispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX1DispInkN"
+        },
+        {
+          "text": "Fördelning inkomster (fraktiler) efter region. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX2DispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX2DispInkN"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, hushållstyp och ålder. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI47",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI47"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, födelseland, antal år i Sverige och ålder. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI58",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI58"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, sysselsättning, utländsk/svensk bakgrund och ålder. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI69",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI69"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, upplåtelseform, ålder och hushållstyp. Fasta priser. År 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI4C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVXDispI4C"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet uppdelade i decilgrupper efter region. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX10InkStrukt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX10InkStrukt"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, födelseland och antal år i Sverige. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX12InkStruktN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX12InkStruktN"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och sysselsättning. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX13InkStruktN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX13InkStruktN"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och hushållstyp. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX11InkStruktN2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabVX11InkStruktN2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Indikatorer inkomstfördelning efter region. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Fördelning inkomster (fraktiler) efter region. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, hushållstyp och ålder. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, födelseland, antal år i Sverige och ålder. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, sysselsättning, utländsk/svensk bakgrund och ålder. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, upplåtelseform, ålder och hushållstyp. Fasta priser. År 2012 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet uppdelade i decilgrupper efter region. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, födelseland och antal år i Sverige. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och sysselsättning. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och hushållstyp. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomströrlighet",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Långsiktiga inkomster, indikatorer inkomstfördelning efter region. Period 2011-2012 - 2023-2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH4"
+        },
+        {
+          "text": "Långsiktiga inkomster, fördelning inkomster (fraktiler) efter region. Period 2011-2012 - 2023-2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH5"
+        },
+        {
+          "text": "Långsiktiga inkomster efter region, födelseregion, hushållstyp och ålder, disponibel inkomst per k.e. Period 2011-2012 - 2023-2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH3"
+        },
+        {
+          "text": "Förändring av inkomstgrupp efter hushållstyp och ålder, disponibel inkomst per k.e. Startår/slutår 2011/2012 - 2023/2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH1N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH1N"
+        },
+        {
+          "text": "Förändring av inkomstgrupp efter födelseregion, disponibel inkomst per k.e. Startår/slutår 2011/2012 - 2023/2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRH2"
+        },
+        {
+          "text": "Förändring av inkomstgrupp, nettoinkomst. Startår/slutår 2000/2005 - 2019/2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI1N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI1N"
+        },
+        {
+          "text": "Varaktighet i inkomstgrupp, nettoinkomst. Period 2000-2000 - 2019-2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI2N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI2N"
+        },
+        {
+          "text": "Antal år i initial inkomstgrupp, nettoinkomst. Period 2000-2005 - 2019-2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI3N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TABIRI3N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Långsiktiga inkomster, indikatorer inkomstfördelning efter region. Period 2011-2012 - 2023-2024",
+          "2026-03-26"
+        ],
+        [
+          "Långsiktiga inkomster, fördelning inkomster (fraktiler) efter region. Period 2011-2012 - 2023-2024",
+          "2026-03-26"
+        ],
+        [
+          "Långsiktiga inkomster efter region, födelseregion, hushållstyp och ålder, disponibel inkomst per k.e. Period 2011-2012 - 2023-2024",
+          "2026-03-26"
+        ],
+        [
+          "Förändring av inkomstgrupp efter hushållstyp och ålder, disponibel inkomst per k.e. Startår/slutår 2011/2012 - 2023/2024",
+          "2026-03-26"
+        ],
+        [
+          "Förändring av inkomstgrupp efter födelseregion, disponibel inkomst per k.e. Startår/slutår 2011/2012 - 2023/2024",
+          "2026-03-26"
+        ],
+        [
+          "Förändring av inkomstgrupp, nettoinkomst. Startår/slutår 2000/2005 - 2019/2024",
+          "2026-03-26"
+        ],
+        [
+          "Varaktighet i inkomstgrupp, nettoinkomst. Period 2000-2000 - 2019-2024",
+          "2026-03-26"
+        ],
+        [
+          "Antal år i initial inkomstgrupp, nettoinkomst. Period 2000-2005 - 2019-2024",
+          "2026-03-26"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Skatter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inkomst av tjänst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkAvTjanst",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkAvTjanst"
+        },
+        {
+          "text": "Fastställd förvärvsinkomst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastForvInk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastForvInk"
+        },
+        {
+          "text": "Antal personer med beskattningsbar förvärvsinkomst efter region, kön, ålder och skiktgräns. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskForvInkSkikt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskForvInkSkikt"
+        },
+        {
+          "text": "Beskattningsbar förvärvsinkomst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskForvInk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskForvInk"
+        },
+        {
+          "text": "Skatter efter region, typ av skatt, kön, ålder och inkomstklass. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skatter",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skatter"
+        },
+        {
+          "text": "Skattereduktioner efter region, typ av skattereduktion, kön, ålder och inkomstklass. År 2000 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skattereduktioner",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skattereduktioner"
+        },
+        {
+          "text": "Skatteuträkning efter region, typ av skatteuträkningsvariabel, kön och ålder. År 2009 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skatteutrakning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skatteutrakning"
+        },
+        {
+          "text": "Beskattningsbar förmögenhet efter region, taxeringsenhet, ålder och förmögenhetsklass. År 2001 - 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskFormogenhet",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeskFormogenhet"
+        },
+        {
+          "text": "Privat pensionssparande för inkomsttagare efter region, kön, ålder och inkomstklass. År 2000 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PrivPensSpar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PrivPensSpar"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Inkomst av tjänst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Fastställd förvärvsinkomst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Antal personer med beskattningsbar förvärvsinkomst efter region, kön, ålder och skiktgräns. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Beskattningsbar förvärvsinkomst efter region, kön, ålder och inkomstklass. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Skatter efter region, typ av skatt, kön, ålder och inkomstklass. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Skattereduktioner efter region, typ av skattereduktion, kön, ålder och inkomstklass. År 2000 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Skatteuträkning efter region, typ av skatteuträkningsvariabel, kön och ålder. År 2009 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Beskattningsbar förmögenhet efter region, taxeringsenhet, ålder och förmögenhetsklass. År 2001 - 2006",
+          "2008-02-21"
+        ],
+        [
+          "Privat pensionssparande för inkomsttagare efter region, kön, ålder och inkomstklass. År 2000 - 2015",
+          "2017-01-31"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Regional statistik på lägre nivå än kommun (DeSO/RegSO)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel av befolkningen per inkomstklass efter region, inkomstslag och kön. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab1InkDesoRegso",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab1InkDesoRegso"
+        },
+        {
+          "text": "Inkomststruktur nettoinkomst efter region och kön. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab2InkDesoRegso",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab2InkDesoRegso"
+        },
+        {
+          "text": "Ekonomisk standard, andel av befolkningen per inkomstklass efter region. Fasta priser. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab3InkDesoRegso",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab3InkDesoRegso"
+        },
+        {
+          "text": "Låg respektive hög ekonomisk standard efter region och ålder. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4InkDesoRegso",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4InkDesoRegso"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Andel av befolkningen per inkomstklass efter region, inkomstslag och kön. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Inkomststruktur nettoinkomst efter region och kön. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Ekonomisk standard, andel av befolkningen per inkomstklass efter region. Fasta priser. År 2011 - 2024",
+          "2026-01-20"
+        ],
+        [
+          "Låg respektive hög ekonomisk standard efter region och ålder. År 2011 - 2024",
+          "2026-01-20"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller som ej uppdateras"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller som ej uppdateras",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0110J",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0110J"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Preliminära månadsinkomster 2025 och kvartal 1 2026",
+          "href": "/publikation/62918",
+          "url": "https://www.scb.se/publikation/62918"
+        },
+        {
+          "text": "Inkomströrlighet 2000–2022",
+          "href": "/publikation/58693",
+          "url": "https://www.scb.se/publikation/58693"
+        },
+        {
+          "text": "Inkomstfördelningen 1991–2023",
+          "href": "/publikation/58567",
+          "url": "https://www.scb.se/publikation/58567"
+        },
+        {
+          "text": "Reala kapitalvinster. Hur påverkar inflationsjustering av bostadsvinster inkomststatistiken?",
+          "href": "/publikation/57076",
+          "url": "https://www.scb.se/publikation/57076"
+        },
+        {
+          "text": "Ekvivalensskalor i inkomstfördelningsstatistik",
+          "href": "/publikation/54478",
+          "url": "https://www.scb.se/publikation/54478"
+        },
+        {
+          "text": "Kapitalinkomster 2019",
+          "href": "/publikation/47779",
+          "url": "https://www.scb.se/publikation/47779"
+        },
+        {
+          "text": "Income Distribution Statistics and Shared Residence",
+          "href": "/publikation/44620",
+          "url": "https://www.scb.se/publikation/44620"
+        },
+        {
+          "text": "Hushållens ekonomiska standard 2019",
+          "href": "/publikation/44489",
+          "url": "https://www.scb.se/publikation/44489"
+        },
+        {
+          "text": "Ekonomisk standard vid växelvis boende",
+          "href": "/publikation/40280",
+          "url": "https://www.scb.se/publikation/40280"
+        },
+        {
+          "text": "Inkomstrapport 2017 – individer och hushåll",
+          "href": "/publikation/36644",
+          "url": "https://www.scb.se/publikation/36644"
+        },
+        {
+          "text": "Income Mobility Statistics in Sweden 2016",
+          "href": "/publikation/35890",
+          "url": "https://www.scb.se/publikation/35890"
+        },
+        {
+          "text": "Inkomstrapport 2016 – individer och hushåll",
+          "href": "/publikation/33392",
+          "url": "https://www.scb.se/publikation/33392"
+        },
+        {
+          "text": "Inkomstrapport 2015 – individer och hushåll",
+          "href": "/publikation/30178",
+          "url": "https://www.scb.se/publikation/30178"
+        },
+        {
+          "text": "Inkomstrapport 2014 – individer och hushåll",
+          "href": "/publikation/29243",
+          "url": "https://www.scb.se/publikation/29243"
+        },
+        {
+          "text": "Övergång från urvalsbaserad till totalräknad inkomstfördelningsstatistik",
+          "href": "/publikation/28887",
+          "url": "https://www.scb.se/publikation/28887"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Preliminära månadsinkomster 2025 och kvartal 1 2026",
+          "",
+          "2026-06-16"
+        ],
+        [
+          "Inkomströrlighet 2000–2022",
+          "",
+          "2025-06-26"
+        ],
+        [
+          "Inkomstfördelningen 1991–2023",
+          "",
+          "2025-05-22"
+        ],
+        [
+          "Reala kapitalvinster. Hur påverkar inflationsjustering av bostadsvinster inkomststatistiken?",
+          "",
+          "2024-11-14"
+        ],
+        [
+          "Ekvivalensskalor i inkomstfördelningsstatistik",
+          "",
+          "2024-04-04"
+        ],
+        [
+          "Kapitalinkomster 2019",
+          "",
+          "2021-12-20"
+        ],
+        [
+          "Income Distribution Statistics and Shared Residence",
+          "",
+          "2021-09-03"
+        ],
+        [
+          "Hushållens ekonomiska standard 2019",
+          "",
+          "2021-06-18"
+        ],
+        [
+          "Ekonomisk standard vid växelvis boende",
+          "",
+          "2019-12-19"
+        ],
+        [
+          "Inkomstrapport 2017 – individer och hushåll",
+          "",
+          "2019-06-27"
+        ],
+        [
+          "Income Mobility Statistics in Sweden 2016",
+          "",
+          "2018-09-21"
+        ],
+        [
+          "Inkomstrapport 2016 – individer och hushåll",
+          "",
+          "2018-06-29"
+        ],
+        [
+          "Inkomstrapport 2015 – individer och hushåll",
+          "",
+          "2017-06-27"
+        ],
+        [
+          "Inkomstrapport 2014 – individer och hushåll",
+          "",
+          "2016-12-07"
+        ],
+        [
+          "Övergång från urvalsbaserad till totalräknad inkomstfördelningsstatistik",
+          "",
+          "2016-02-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (2)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=HE0110&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=HE0110&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Under tioårsperioden fram till 2023 minskade antalet områden i Sverige där minst hälften av de boende lever med låg ekonomisk standard. Från 42 till 31 områden."
+      ],
+      "links": [
+        {
+          "text": "Färre områden med låg ekonomisk standard",
+          "href": "/hitta-statistik/artiklar/2025/lag-och-hog-ekonomisk-standard/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2025/lag-och-hog-ekonomisk-standard/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2025-05-28"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Boende och byggande",
+        "Regionalt",
+        "Privatekonomi"
+      ],
+      "links": [
+        {
+          "text": "Boende och byggande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
+        },
+        {
+          "text": "Regionalt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles"
+        },
+        {
+          "text": "Privatekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "I drygt en tredjedel av landets kommuner lever över 60 procent av de utrikes födda barnen med låg ekonomisk standard. Men skillnaderna mellan kommunerna är stora."
+      ],
+      "links": [
+        {
+          "text": "Hälften av alla utrikes födda barn lever med låg ekonomisk standard",
+          "href": "/hitta-statistik/artiklar/2023/halften-av-alla-utrikes-fodda-barn-lever-med-lag-ekonomisk-standard/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2023/halften-av-alla-utrikes-fodda-barn-lever-med-lag-ekonomisk-standard/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2023-12-07"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Barn",
+        "Befolkning"
+      ],
+      "links": [
+        {
+          "text": "Barn",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=19&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19&selection=articles"
+        },
+        {
+          "text": "Befolkning",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "En 48-årig högutbildad gift man, född i Sverige, bosatt i Stockholm och med jobb som verkställande direktör. Så ser den typiske toppinkomsttagaren ut."
+      ],
+      "links": [
+        {
+          "text": "Så ser Sveriges typiska toppinkomsttagare ut",
+          "href": "/hitta-statistik/artiklar/2023/sa-ser-sveriges-typiska-toppinkomsttagare-ut/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2023/sa-ser-sveriges-typiska-toppinkomsttagare-ut/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2023-07-04"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Demografi",
+        "Inkomst",
+        "Privatekonomi"
+      ],
+      "links": [
+        {
+          "text": "Demografi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=38&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38&selection=articles"
+        },
+        {
+          "text": "Inkomst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles"
+        },
+        {
+          "text": "Privatekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Månadsinkomster – preliminär statistik",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_mist_kd_2026_jl_260616.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_mist_kd_2026_jl_260616.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_mist_kd_2025_jl_260616.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_mist_kd_2025_jl_260616.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Inkomster och skatter – hushåll",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2024_jl_260120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2024_jl_260120.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2023_jl_250121.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2023_jl_250121.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2022_jl_240123.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2022_jl_240123.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2021_jl_230125.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2021_jl_230125.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2020_jl_220126.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2020_jl_220126.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2019_jl_210127.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2019_jl_210127.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2018_jl_200120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd2_2018_jl_200120.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2017_jl_190123.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2017_jl_190123.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_180124.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_180124.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2015_jl_170124.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2015_jl_170124.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2014_hushall_160204.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2014_hushall_160204.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2013_hushall_160204.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2013_hushall_160204.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2012_hushall_160204.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2012_hushall_160204.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2011_hushall_160204.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2011_hushall_160204.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Inkomster och skatter – individer",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2024_jl_260120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2024_jl_260120.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2023_jl_250121.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2023_jl_250121.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2022_jl_240123.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2022_jl_240123.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2021_jl_230125.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2021_jl_230125.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2020_jl_220126.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2020_jl_220126.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2019_jl_210127.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2019_jl_210127.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2018_jl_200120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2018_jl_200120.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2017_jl_190122.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2017_jl_190122.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_180123.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_180123.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_170919.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2016_jl_170919.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2015_pg_170126.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2015_pg_170126.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2014_individer_160204.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2014_individer_160204.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2013_aw.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2013_aw.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2009.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Inkomster och skatter – inkomströrlighet",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2000–2024 (pdf)",
+        "2000-2022 (pdf)",
+        "2000-2020 (pdf)",
+        "2000-2019 (pdf)",
+        "2000-2018 (pdf)",
+        "2000-2017 (pdf)",
+        "2000-2016 (pdf)",
+        "2000-2015  (pdf)",
+        "2000–2014 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2000–2024 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_20002024_260326.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_20002024_260326.pdf"
+        },
+        {
+          "text": "2000-2022 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2022_240321.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2022_240321.pdf"
+        },
+        {
+          "text": "2000-2020 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2020_jl_220324.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2020_jl_220324.pdf"
+        },
+        {
+          "text": "2000-2019 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2019_jl_210325.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2019_jl_210325.pdf"
+        },
+        {
+          "text": "2000-2018 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2018_jl_200421.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2018_jl_200421.pdf"
+        },
+        {
+          "text": "2000-2017 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2017.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2017.pdf"
+        },
+        {
+          "text": "2000-2016 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2016_jl_180426.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2016_jl_180426.pdf"
+        },
+        {
+          "text": "2000-2015  (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2015_jl_170529.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_kd_2000-2015_jl_170529.pdf"
+        },
+        {
+          "text": "2000–2014 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2000-2014.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_bs_2000-2014.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Inkomststatistiken – totalräknad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_bs_2003.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Kapitalvinster och kapitalförluster",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_bs_2005.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Skatter och taxerade inkomster",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_bs_2003.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Inkomster och skatter",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2024_jl_260120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2024_jl_260120.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2023_jl_250121.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2023_jl_250121.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2022_jl_240123.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2022_jl_240123.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2021_jl_230125.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2021_jl_230125.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2020_jl_220126.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2020_jl_220126.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2019_jl_210127.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2019_jl_210127.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2018_jl190918.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2018_jl190918.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2017_jl180925.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_staf_2017_jl180925.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2016_jl_171128.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2016_jl_171128.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2015_jl_161219.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2015_jl_161219.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2014_151008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2014_151008.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2013_jl_150921.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2013_jl_150921.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2012.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0110_do_2009.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Inkomststatistiken – totalräknad",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2005_ls_200604.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2005_ls_200604.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2003_ls_200604.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0108_do_2003_ls_200604.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Kapitalvinster och kapitalförluster",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008-preliminär (pdf)",
+        "2007-preliminär (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008-preliminär (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_do_2008.pdf"
+        },
+        {
+          "text": "2007-preliminär (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_do_2007-prel.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0109_do_2007-prel.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2005.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2005.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Skatter och taxerade inkomster",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2005.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2003_ls_200604.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/he0107_do_2003_ls_200604.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=HE0110",
+          "url": "https://metadata.scb.se/?produkt=HE0110"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Översyn av närings- och företagarinkomst i inkomststatistiken (pdf)",
+        "Nordiska inkomster i inkomststatistiken 2011-2024 (xlsx)",
+        "Nordiska inkomster i inkomststatistiken 2011-2019 (pdf)",
+        "Att mäta fattigdom (pdf)",
+        "Gränsvärden låg ekonomisk standard 1991-2024 (xlsx)",
+        "Baskonsumtion låg inkomststandard 2011-2024 (xlsx)",
+        "Inkomstbegrepp i statistiken (pdf)",
+        "Företagares underrapportering – hur associeras det med deras fattigdom? (Ekonomisk debatt)",
+        "Variabler och härledningar i månadsstatistiken (xlsx)",
+        "New Advancements in the Timeliness of Swedish Income Statistics (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Översyn av närings- och företagarinkomst i inkomststatistiken (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/oversyn-av-narings-_och-foretagarinkomst_i_inkomststatistiken.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/oversyn-av-narings-_och-foretagarinkomst_i_inkomststatistiken.pdf"
+        },
+        {
+          "text": "Nordiska inkomster i inkomststatistiken 2011-2024 (xlsx)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/nordiska-inkomster-i-iot-20112024-kommun.xlsx",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/nordiska-inkomster-i-iot-20112024-kommun.xlsx"
+        },
+        {
+          "text": "Nordiska inkomster i inkomststatistiken 2011-2019 (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/produktrelaterat/Fordjupad-information/nordiska-inkomster-i-inkomststatistiken-2011-2019/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/produktrelaterat/Fordjupad-information/nordiska-inkomster-i-inkomststatistiken-2011-2019/"
+        },
+        {
+          "text": "Att mäta fattigdom (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/att-mata-fattigdom_20260120.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/att-mata-fattigdom_20260120.pdf"
+        },
+        {
+          "text": "Gränsvärden låg ekonomisk standard 1991-2024 (xlsx)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/gransvarden-lag-ekonomisk-standard-19912024.xlsx",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/gransvarden-lag-ekonomisk-standard-19912024.xlsx"
+        },
+        {
+          "text": "Baskonsumtion låg inkomststandard 2011-2024 (xlsx)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/baskonsumtion-lag-inkomststandard-20112024.xlsx",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/baskonsumtion-lag-inkomststandard-20112024.xlsx"
+        },
+        {
+          "text": "Inkomstbegrepp i statistiken (pdf)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/inkomstbegrepp-i-statistiken.pdf",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/inkomstbegrepp-i-statistiken.pdf"
+        },
+        {
+          "text": "Företagares underrapportering – hur associeras det med deras fattigdom? (Ekonomisk debatt)",
+          "href": "https://www.nationalekonomi.se/artikel/foretagares-underrapportering-hur-associeras-det-med-deras-fattigdom/",
+          "url": "https://www.nationalekonomi.se/artikel/foretagares-underrapportering-hur-associeras-det-med-deras-fattigdom/"
+        },
+        {
+          "text": "Variabler och härledningar i månadsstatistiken (xlsx)",
+          "href": "/contentassets/894d4afa900f4123aece341cd10e59e2/variabler-och-harledningar-i-manadsstatistiken.xlsx",
+          "url": "https://www.scb.se/contentassets/894d4afa900f4123aece341cd10e59e2/variabler-och-harledningar-i-manadsstatistiken.xlsx"
+        },
+        {
+          "text": "New Advancements in the Timeliness of Swedish Income Statistics (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/produktrelaterat/Fordjupad-information/new-advancements-in-the-timeliness-of-swedish-income-statistics/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/produktrelaterat/Fordjupad-information/new-advancements-in-the-timeliness-of-swedish-income-statistics/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Närliggande information",
+          "level": 2,
+          "anchor": "_Narliggandeinformation"
+        }
+      ],
+      "paragraphs": [
+        "Hushållens ekonomi (HEK)",
+        "Undersökningarna av levnadsförhållanden (ULF)",
+        "Ekonomiska villkor för personer med bakgrund utanför Europa. Beskrivning och analys av inkomster och ekonomisk standard år 2019"
+      ],
+      "links": [
+        {
+          "text": "Hushållens ekonomi (HEK)",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-ekonomi-hek/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-ekonomi-hek/"
+        },
+        {
+          "text": "Undersökningarna av levnadsförhållanden (ULF)",
+          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-levnadsforhallanden-ulf-silc/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-levnadsforhallanden-ulf-silc/"
+        },
+        {
+          "text": "Ekonomiska villkor för personer med bakgrund utanför Europa. Beskrivning och analys av inkomster och ekonomisk standard år 2019",
+          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/publikationer/ekonomiska-villkor-for-personer-med-bakgrund-utanfor-europa.-beskrivning-och-analys-av-inkomster-och-ekonomisk-standard-ar-2019",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/publikationer/ekonomiska-villkor-for-personer-med-bakgrund-utanfor-europa.-beskrivning-och-analys-av-inkomster-och-ekonomisk-standard-ar-2019"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "inkomststat@scb.se"
+      ],
+      "links": [
+        {
+          "text": "inkomststat@scb.se",
+          "href": "mailto:inkomststat@scb.se",
+          "url": "mailto:inkomststat@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Inkomst",
+        "Lön",
+        "Pension",
+        "Skatt",
+        "Välfärd"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+        },
+        {
+          "text": "Inkomst",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
+        },
+        {
+          "text": "Lön",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
+        },
+        {
+          "text": "Pension",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=150",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=150"
+        },
+        {
+          "text": "Skatt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=170",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170"
+        },
+        {
+          "text": "Välfärd",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/he0110"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

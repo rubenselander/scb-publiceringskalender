@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:34.149994Z",
+  "sha256": "fe5cc9a5d5c121ad82b0bc937c066be96311b3a5e4467899632d77bbf6d05ff0",
+  "encoding": "utf-8"
+}

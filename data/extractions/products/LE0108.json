@@ -1,0 +1,2141 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/LE0108",
+    "response_url": "https://www.scb.se/LE0108",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/",
+    "fetched_at": "2026-10-05T13:12:12.540557Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "ed33e5a4dd85add3381867834333d13652935f174d721530ab2ab522a011139f",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "LE0108",
+  "product_code_source": "calendar",
+  "title": "Befolkningens it-användning (BITA)",
+  "short_address": "https://www.scb.se/le0108",
+  "summary": "Statistiken visar privatpersoners tillgång till och användning av it, som dator och internet i hemmet, till exempel utifrån ålder. Undersökningen är gemensam för EU-länderna vilket betyder att du på Eurostats webbplats kan göra jämförelser mellan Sverige och andra länder i EU.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Elektronisk handel",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=46",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=46"
+    },
+    {
+      "text": "Innovationer",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=97",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=97"
+    },
+    {
+      "text": "It",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=100",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=100"
+    },
+    {
+      "text": "Digitala plattformar",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=323",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=323"
+    },
+    {
+      "text": "Internet",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=324",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=324"
+    },
+    {
+      "text": "Digitalisering",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=329",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=329"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar privatpersoners tillgång till och användning av it, som dator och internet i hemmet, till exempel utifrån ålder. Undersökningen är gemensam för EU-länderna vilket betyder att du på Eurostats webbplats kan göra jämförelser mellan Sverige och andra länder i EU."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Köpt varor eller tjänster via internet",
+        "84 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Sålt varor eller tjänster via internet",
+        "30 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Använt generativa AI-verktyg",
+        "47 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Kontrollerat falsk eller tveksam information/innehåll på internet",
+        "43 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-10-05",
+        "Internet har blivit en självklar del av vardagen för många äldre. De använder digitala tjänster för allt från kommunikation och informationssökning till vårdkontakter, bankärenden och underhållning. Samtidigt visar statistiken att internetanvändningen varierar mellan olika åldersgrupper, där de yngre äldre generellt använder fler digitala tjänster än de allra äldsta."
+      ],
+      "links": [
+        {
+          "text": "Från e-post till AI: äldre använder internet för allt fler tjänster",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/statistiknyhet/befolkningens-it-anvandning2/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/statistiknyhet/befolkningens-it-anvandning2/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=LE0108",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=LE0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel personer som aldrig använt sig av internet",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-aldrig-anvant-sig-av-internet/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-aldrig-anvant-sig-av-internet/"
+        },
+        {
+          "text": "Andel personer som har använt internet flera gånger om dagen",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-har-anvant-internet-flera-ganger-om-dagen/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-har-anvant-internet-flera-ganger-om-dagen/"
+        },
+        {
+          "text": "Andel personer som använt myndigheters webbplatser efter användningsområde",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-anvant-myndigheters-webbplatser-efter-anvandningsomrade/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-anvant-myndigheters-webbplatser-efter-anvandningsomrade/"
+        },
+        {
+          "text": "Andel personer som har tillgång till internet i hemmet",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-har-tillgang-till-internet-i-hemmet/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/pong/tabell-och-diagram/andel-personer-som-har-tillgang-till-internet-i-hemmet/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Andel personer som aldrig använt sig av internet",
+          "Diagram",
+          "2026-10-05"
+        ],
+        [
+          "Andel personer som har använt internet flera gånger om dagen",
+          "Diagram",
+          "2026-10-05"
+        ],
+        [
+          "Andel personer som använt myndigheters webbplatser efter användningsområde",
+          "Diagram",
+          "2026-10-05"
+        ],
+        [
+          "Andel personer som har tillgång till internet i hemmet",
+          "Diagram",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Användning av internet",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Användning av internet efter användningsområde, kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T16N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T16N2"
+        },
+        {
+          "text": "Anledning till att man inte använt internet under de senaste tre månaderna. År 2025 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T89",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T89"
+        },
+        {
+          "text": "Genomsnittlig användning av internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T13N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T13N2"
+        },
+        {
+          "text": "Problem som uppstått vid internetanvändning. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T88",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T88"
+        },
+        {
+          "text": "Senast användning av internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T12N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T12N2"
+        },
+        {
+          "text": "Tillgång till internet i hemmet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T10N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T10N2"
+        },
+        {
+          "text": "Tillgång till internet efter typ av utrustning, kön och redovisningsgrupp.   År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T14N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T14N2"
+        },
+        {
+          "text": "Tillgång till internet i hemmet efter typ av uppkoppling, kön och redovisningsgrupp.  År 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T11N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T11N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Användning av internet efter användningsområde, kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Anledning till att man inte använt internet under de senaste tre månaderna. År 2025 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Genomsnittlig användning av internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Problem som uppstått vid internetanvändning. År 2025",
+          "2025-10-17"
+        ],
+        [
+          "Senast användning av internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Tillgång till internet i hemmet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Tillgång till internet efter typ av utrustning, kön och redovisningsgrupp.   År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Tillgång till internet i hemmet efter typ av uppkoppling, kön och redovisningsgrupp.  År 2021",
+          "2021-11-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "AI – Artificiell Intelligens",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anledning till att inte använda generativa AI-verktyg.  År 2024 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T84",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T84"
+        },
+        {
+          "text": "Användning av generativa AI-verktyg.   År 2024 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T82",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T82"
+        },
+        {
+          "text": "Syfte med användning av generativa AI-verktyg.   År 2024 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T83",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T83"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anledning till att inte använda generativa AI-verktyg.  År 2024 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Användning av generativa AI-verktyg.   År 2024 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Syfte med användning av generativa AI-verktyg.   År 2024 - 2026",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "E-förvaltning",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anledning till att inte ha lämnat uppgifter via någon myndighets webbplats eller app efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T21N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T21N2"
+        },
+        {
+          "text": "Användning av myndigheters webbsidor eller appar efter användningsområde, kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T20N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T20N2"
+        },
+        {
+          "text": "Problem som uppstått när man använt myndigheters webbsidor eller appar efter typ av problem, kön och redovisningsgrupp. År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T62N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T62N"
+        },
+        {
+          "text": "E-förvaltningsanvändare efter kön och redovisningsgrupp. År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T87",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T87"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anledning till att inte ha lämnat uppgifter via någon myndighets webbplats eller app efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Användning av myndigheters webbsidor eller appar efter användningsområde, kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Problem som uppstått när man använt myndigheters webbsidor eller appar efter typ av problem, kön och redovisningsgrupp. År 2022 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "E-förvaltningsanvändare efter kön och redovisningsgrupp. År 2022 - 2026",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "E-legitimation",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anledning till att inte använda elektronisk legitimation (eID).  År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T81N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T81N"
+        },
+        {
+          "text": "Användning av elektronisk legitimation (eID) efter användningsområde.   År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T80N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T80N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anledning till att inte använda elektronisk legitimation (eID).  År 2023 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Användning av elektronisk legitimation (eID) efter användningsområde.   År 2023 - 2025",
+          "2025-10-17"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "E-handel",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hyrt semesterboende via internet för privat bruk efter kön och redovisningsgrupp.   År 2022 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T50N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T50N2"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter antal gånger, kön och redovisningsgrupp.   År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T25N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T25N2"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp.    År 2021 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24N3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24N3"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter tidsperiod, kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T22N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T22N2"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp.    År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23N3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23N3"
+        },
+        {
+          "text": "Köpte transporttjänst via internet för privat bruk efter kön och redovisningsgrupp.   År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T49N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T49N2"
+        },
+        {
+          "text": "Nedladdade eller streamade produkter man köpt/beställt via internet.    År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43N3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43N3"
+        },
+        {
+          "text": "Problem som uppstått när man köpt/beställt varor/tjänster via internet.   År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T55N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T55N"
+        },
+        {
+          "text": "Anledning till att man inte beställt/köpt varor/tjänster via internet.  År 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T56",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T56"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter spenderat belopp, kön och redovisningsgrupp.  År 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T26N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T26N"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter spenderat belopp, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T26",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T26"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Hyrt semesterboende via internet för privat bruk efter kön och redovisningsgrupp.   År 2022 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter antal gånger, kön och redovisningsgrupp.   År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp.    År 2021 - 2023",
+          "2024-05-20"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter tidsperiod, kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp.    År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Köpte transporttjänst via internet för privat bruk efter kön och redovisningsgrupp.   År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Nedladdade eller streamade produkter man köpt/beställt via internet.    År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Problem som uppstått när man köpt/beställt varor/tjänster via internet.   År 2021 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Anledning till att man inte beställt/köpt varor/tjänster via internet.  År 2021",
+          "2021-11-18"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter spenderat belopp, kön och redovisningsgrupp.  År 2021",
+          "2021-11-18"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter spenderat belopp, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Finansiella aktiviteter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp.    År 2021 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27N2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp.    År 2021 - 2025",
+          "2025-10-17"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "It-säkerhet",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hanterat och skyddat personuppgifter på internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T51N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T51N2"
+        },
+        {
+          "text": "Legitimering vid användning av internet efter legitimeringssätt, kön och redovisningsgrupp.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T28N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T28N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Hanterat och skyddat personuppgifter på internet efter kön och redovisningsgrupp.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Legitimering vid användning av internet efter legitimeringssätt, kön och redovisningsgrupp.  År 2020",
+          "2020-11-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Digitala färdigheter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Aktiviteter relaterade till datorer, mobila enheter och programvara.   År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T57N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T57N"
+        },
+        {
+          "text": "Anledning till att man inte kontrollerat information på internet.  År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T59N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T59N"
+        },
+        {
+          "text": "Digitala färdigheter efter indikator, redovisningsgrupp och kön. 16+ år. Andelar i procent och skattat antal i tusental. År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T86",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T86"
+        },
+        {
+          "text": "Kontrollerat information eller innehåll på internet.  År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T58N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T58N"
+        },
+        {
+          "text": "Syfte med utbildningsaktiviteter på internet efter syfte, kön och redovisningsgrupp. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T61N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T61N"
+        },
+        {
+          "text": "Användning av gratis appar eller gratis tjänster via internet. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T85",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T85"
+        },
+        {
+          "text": "Upplevelse av hotfulla eller nedvärderande inlägg på internet mot individer eller grupper. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T78N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T78N"
+        },
+        {
+          "text": "Utbildningsaktiviteter på internet efter kön och redovisningsgrupp. År 2021 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T39N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T39N2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Aktiviteter relaterade till datorer, mobila enheter och programvara.   År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Anledning till att man inte kontrollerat information på internet.  År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Digitala färdigheter efter indikator, redovisningsgrupp och kön. 16+ år. Andelar i procent och skattat antal i tusental. År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Kontrollerat information eller innehåll på internet.  År 2021 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Syfte med utbildningsaktiviteter på internet efter syfte, kön och redovisningsgrupp. År 2022 - 2024",
+          "2024-10-18"
+        ],
+        [
+          "Användning av gratis appar eller gratis tjänster via internet. År 2024 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Upplevelse av hotfulla eller nedvärderande inlägg på internet mot individer eller grupper. År 2023 - 2025",
+          "2025-10-17"
+        ],
+        [
+          "Utbildningsaktiviteter på internet efter kön och redovisningsgrupp. År 2021 - 2026",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sakernas internet",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anledning till att inte använda internetanslutna enheter eller systems för privat bruk efter kön och redovisningsgrupp. År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T66N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T66N"
+        },
+        {
+          "text": "Användning av internet på enheter/system hemma efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T67N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T67N"
+        },
+        {
+          "text": "Användning av internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T65N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T65N"
+        },
+        {
+          "text": "Problem som uppstått vid användning av internetanslutna enheter eller systems för privat bruk efter kön och redovisningsgrupp. År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T68N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T68N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anledning till att inte använda internetanslutna enheter eller systems för privat bruk efter kön och redovisningsgrupp. År 2022 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Användning av internet på enheter/system hemma efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Användning av internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Problem som uppstått vid användning av internetanslutna enheter eller systems för privat bruk efter kön och redovisningsgrupp. År 2022 - 2026",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Grön IT",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hantering av tekniskt utrustning som inte används längre efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T69N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T69N"
+        },
+        {
+          "text": "Viktiga egenskaper vid köp av en mobil, surfplatta, bärbar eller stationär dator efter kön och redovisningsgrupp. År 2022 - 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T72N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T72N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Hantering av tekniskt utrustning som inte används längre efter kön och redovisningsgrupp.  År 2022 - 2026",
+          "2026-10-05"
+        ],
+        [
+          "Viktiga egenskaper vid köp av en mobil, surfplatta, bärbar eller stationär dator efter kön och redovisningsgrupp. År 2022 - 2026",
+          "2026-10-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Äldre tabeller, uppdateras ej"
+      ],
+      "links": [
+        {
+          "text": "Äldre tabeller, uppdateras ej",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108O",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108O"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningens it-användning 2025 – Digitala färdigheter ur ett regionalt perspektiv",
+          "href": "/publikation/63348",
+          "url": "https://www.scb.se/publikation/63348"
+        },
+        {
+          "text": "Befolkningens it-användning 2025 – Digitala färdigheter",
+          "href": "/publikation/59661",
+          "url": "https://www.scb.se/publikation/59661"
+        },
+        {
+          "text": "Befolkningens it-användning 2024. E-förvaltning",
+          "href": "/publikation/58564",
+          "url": "https://www.scb.se/publikation/58564"
+        },
+        {
+          "text": "Befolkningens it-användning 2024 - E-handel",
+          "href": "/publikation/58169",
+          "url": "https://www.scb.se/publikation/58169"
+        },
+        {
+          "text": "Befolkningens it-användning 2022",
+          "href": "/publikation/45226",
+          "url": "https://www.scb.se/publikation/45226"
+        },
+        {
+          "text": "Befolkningens it-användning 2021. E-handel",
+          "href": "/publikation/42852",
+          "url": "https://www.scb.se/publikation/42852"
+        },
+        {
+          "text": "Befolkningens it-användning 2020",
+          "href": "/publikation/38874",
+          "url": "https://www.scb.se/publikation/38874"
+        },
+        {
+          "text": "Privatpersoners användning av datorer och internet 2016",
+          "href": "/publikation/28964",
+          "url": "https://www.scb.se/publikation/28964"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Befolkningens it-användning 2025 – Digitala färdigheter ur ett regionalt perspektiv",
+          "",
+          "2026-10-05"
+        ],
+        [
+          "Befolkningens it-användning 2025 – Digitala färdigheter",
+          "",
+          "2025-10-17"
+        ],
+        [
+          "Befolkningens it-användning 2024. E-förvaltning",
+          "",
+          "2025-05-07"
+        ],
+        [
+          "Befolkningens it-användning 2024 - E-handel",
+          "",
+          "2024-11-25"
+        ],
+        [
+          "Befolkningens it-användning 2022",
+          "",
+          "2022-11-18"
+        ],
+        [
+          "Befolkningens it-användning 2021. E-handel",
+          "",
+          "2021-11-18"
+        ],
+        [
+          "Befolkningens it-användning 2020",
+          "",
+          "2020-11-18"
+        ],
+        [
+          "Privatpersoners användning av datorer och internet 2016",
+          "",
+          "2016-11-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (8)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=LE0108&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=LE0108&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Samtidigt som spridningen av missvisande, tveksam och felaktig information på nätet ökar, har även tillgången till och användningen av internet successivt ökat bland Europas hushåll de senaste åren. Högst andel personer som sett falsk eller tveksam information på nätet finns i norra Europa, lägst i södra Europa och på västra Balkan."
+      ],
+      "links": [
+        {
+          "text": "Källkritik vanligare i Nord- och Västeuropa",
+          "href": "/hitta-statistik/artiklar/2024/kallkritik-vanligare-i-nord--och-vasteuropa/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2024/kallkritik-vanligare-i-nord--och-vasteuropa/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2024-05-21"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Befolkning",
+        "It",
+        "Europa"
+      ],
+      "links": [
+        {
+          "text": "Befolkning",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
+        },
+        {
+          "text": "It",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=100&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=100&selection=articles"
+        },
+        {
+          "text": "Europa",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Allt fler företag säljer varor och tjänster över nätet. Sverige är ett av de länder i Europa där e-handel är mest utbrett. Mest vanligt är det inom transportbranschen. Varor och tjänster som inte är anpassade för e-handel är fortfarande ett problem."
+      ],
+      "links": [
+        {
+          "text": "E-handel allt viktigare för svenska företag",
+          "href": "/hitta-statistik/artiklar/2017/E-handel-allt-viktigare-for-svenska-foretag/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/E-handel-allt-viktigare-for-svenska-foretag/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-05-23"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Handel",
+        "Företagande",
+        "Transport och kommunikationer"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
+        },
+        {
+          "text": "Handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles"
+        },
+        {
+          "text": "Företagande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles"
+        },
+        {
+          "text": "Transport och kommunikationer",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=314&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=314&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2026_v1_20261005.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2026_v1_20261005.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2025_v1_20251017.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2025_v1_20251017.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2024_v1_20241018.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2024_v1_20241018.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2023_v1_20231117.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2023_v1_20231117.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2022_v1_20221118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2022_v1_20221118.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2021_20211118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2021_20211118.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2020_am_201118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2020_am_201118.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2019_sk_191122.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2019_sk_191122.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2018_sk_181206.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_2018_sk_181206.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_-2017_171206_jv.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_kd_-2017_171206_jv.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2016.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2016.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2014_141201.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2014_141201.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_bs_2003.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2026_v1_20261005.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2026_v1_20261005.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2025_v1_20251017.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2025_v1_20251017.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2024_v1_20241018.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2024_v1_20241018.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2023_v1_20231117x.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2023_v1_20231117x.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2022_v1_20221118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_st_2022_v1_20221118.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2021_20211118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2021_20211118.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2020_am_201118.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2020_am_201118.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2019_sk_291122.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2019_sk_291122.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2018_sk_190710.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_staf_2018_sk_190710.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_-2017_180110_jv.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_-2017_180110_jv.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2016_jv_170117.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2016_jv_170117.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2014_de_150121.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2014_de_150121.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_-2012.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_-2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do-2011.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do-2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/le0108_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/it0102_do_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=LE0108",
+          "url": "https://metadata.scb.se/?produkt=LE0108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Eurostat",
+        "ITU",
+        "BITA - redovisningsgrupper i Statistikdatabasen (pdf)",
+        "Formulär - Befolkningens IT-användning (BITA)"
+      ],
+      "links": [
+        {
+          "text": "Eurostat",
+          "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals"
+        },
+        {
+          "text": "ITU",
+          "href": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx",
+          "url": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx"
+        },
+        {
+          "text": "BITA - redovisningsgrupper i Statistikdatabasen (pdf)",
+          "href": "/contentassets/e990c2fbd1e14545804150efd6208bb9/bita-redovisningsgrupper_i_statistikdatabasen.pdf",
+          "url": "https://www.scb.se/contentassets/e990c2fbd1e14545804150efd6208bb9/bita-redovisningsgrupper_i_statistikdatabasen.pdf"
+        },
+        {
+          "text": "Formulär - Befolkningens IT-användning (BITA)",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/produktrelaterat/Fordjupad-information/formular---befolkningens-it-anvandning-bita/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/produktrelaterat/Fordjupad-information/formular---befolkningens-it-anvandning-bita/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Avdelningen för Social statistik och analys, Sektionen för Befolkning och levnadsförhållanden",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "bita@scb.se"
+      ],
+      "links": [
+        {
+          "text": "bita@scb.se",
+          "href": "mailto:bita@scb.se",
+          "url": "mailto:bita@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Elektronisk handel",
+        "Innovationer",
+        "It",
+        "Digitala plattformar",
+        "Internet",
+        "Digitalisering"
+      ],
+      "links": [
+        {
+          "text": "Elektronisk handel",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=46",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=46"
+        },
+        {
+          "text": "Innovationer",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=97",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=97"
+        },
+        {
+          "text": "It",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=100",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=100"
+        },
+        {
+          "text": "Digitala plattformar",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=323",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=323"
+        },
+        {
+          "text": "Internet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=324",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=324"
+        },
+        {
+          "text": "Digitalisering",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=329",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=329"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/le0108"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

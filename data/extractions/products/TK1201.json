@@ -1,0 +1,291 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK1201",
+    "response_url": "https://www.scb.se/TK1201",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/fardtjanst-och-riksfardtjanst/",
+    "fetched_at": "2026-10-05T13:14:45.590796Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "aaff25f507c42e4e28df6c45e832dd768257921bf9b1f6bfa6e7907f66315b77",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK1201",
+  "product_code_source": "calendar",
+  "title": "Färdtjänst och riksfärdtjänst",
+  "short_address": "https://www.scb.se/tk1201",
+  "summary": "Statistiken visar kommunernas verksamhet med färdtjänst och riksfärdtjänst; antal resor, antal beviljade och nyttjade tillstånd samt med vilken ekonomi verksamheten bedrivs.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Ekonomi",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+    },
+    {
+      "text": "Persontransport",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+    },
+    {
+      "text": "Kollektivtrafik",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar kommunernas verksamhet med färdtjänst och riksfärdtjänst; antal resor, antal beviljade och nyttjade tillstånd samt med vilken ekonomi verksamheten bedrivs."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nyare statistik finns hos Trafikanalys:",
+        "Statistik om färdtjänst och riksfärdtjänst"
+      ],
+      "links": [
+        {
+          "text": "Statistik om färdtjänst och riksfärdtjänst",
+          "href": "https://www.trafa.se/kollektivtrafik/fardtjanst/",
+          "url": "https://www.trafa.se/kollektivtrafik/fardtjanst/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Färdtjänst efter region, ålder och kön. År 1994 - 1997",
+        "1998-07-31"
+      ],
+      "links": [
+        {
+          "text": "Färdtjänst efter region, ålder och kön. År 1994 - 1997",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Fardtj",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Fardtj"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Enkelresor med färdtjänst efter region. År 1994 - 1997",
+        "1998-07-31"
+      ],
+      "links": [
+        {
+          "text": "Enkelresor med färdtjänst efter region. År 1994 - 1997",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FardtjEnkelresor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FardtjEnkelresor"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Andreas Holmström",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 13",
+        "E-post",
+        "andreas.holmstrom@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 13",
+          "href": "tel:010-414 42 13",
+          "url": "tel:010-414 42 13"
+        },
+        {
+          "text": "andreas.holmstrom@trafa.se",
+          "href": "mailto:andreas.holmstrom@trafa.se",
+          "url": "mailto:andreas.holmstrom@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Ekonomi",
+        "Persontransport",
+        "Kollektivtrafik"
+      ],
+      "links": [
+        {
+          "text": "Ekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
+        },
+        {
+          "text": "Persontransport",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
+        },
+        {
+          "text": "Kollektivtrafik",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Färdtjänst och riksfärdtjänst",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk1201"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

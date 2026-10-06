@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/OV9999",
+    "response_url": "https://www.scb.se/OV9999",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/ovrigt/ovriga-publikationer-ej-statistik/",
+    "fetched_at": "2026-10-05T13:13:39.338072Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "5542dafc3fe30c6ddeea5f9e007add0719046d0ca9d8eddbee5e07ad6ab3ab13",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Övriga publikationer, ej statistik",
+  "product_code": "OV9999",
+  "has_documentation_section": false,
+  "groups": []
+}

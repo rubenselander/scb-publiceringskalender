@@ -1,0 +1,99 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI9999",
+    "response_url": "https://www.scb.se/MI9999",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/ovrigt/miljo-ovrigt/",
+    "fetched_at": "2026-10-05T13:12:50.955781Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "06339fd79d4a1da1dd7331f9056a1b1c61ea155de36b6e8fd3c8f877188f3918",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "MI9999",
+  "product_code_source": "calendar",
+  "title": "Miljö övrigt",
+  "short_address": "https://www.scb.se/mi9999",
+  "summary": "",
+  "official_statistics_marker": null,
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Miljö övrigt",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Miljö övrigt",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Närliggande information",
+          "level": 2,
+          "anchor": "_Narliggandeinformation"
+        }
+      ],
+      "paragraphs": [
+        "Kartläggning av Miljöstatistiken. Ett bredare grepp - miljörelevant statistik som ligger utanför den officiella miljöstatistiken",
+        "Kartläggning av Miljöstatistiken - Kartläggning av officiell miljöstatistik enligt förordning 2001:100",
+        "Varuguiden och dess användning i arbetet mot giftfria och resurssnåla kretslopp"
+      ],
+      "links": [
+        {
+          "text": "Kartläggning av Miljöstatistiken. Ett bredare grepp - miljörelevant statistik som ligger utanför den officiella miljöstatistiken",
+          "href": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2008a01_br_x102br0803.pdf",
+          "url": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2008a01_br_x102br0803.pdf"
+        },
+        {
+          "text": "Kartläggning av Miljöstatistiken - Kartläggning av officiell miljöstatistik enligt förordning 2001:100",
+          "href": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2008a01_br_x102br0802.pdf",
+          "url": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2008a01_br_x102br0802.pdf"
+        },
+        {
+          "text": "Varuguiden och dess användning i arbetet mot giftfria och resurssnåla kretslopp",
+          "href": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/mi1304_2009a01_br_mi73br1001.pdf",
+          "url": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/mi1304_2009a01_br_mi73br1001.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Miljö övrigt",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/mi9999"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/UF0550",
+    "response_url": "https://www.scb.se/UF0550",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/historisk-statistik-om-utbildning/",
+    "fetched_at": "2026-10-05T13:15:40.655493Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "7be99e579d2ff8698427bd201dcd0fc1e08520c7c31ffd0a5251140644b7f6f2",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Historisk statistik om utbildning",
+  "product_code": "UF0550",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/14b7f53d037d40708e8d23c6119df78a/uf0550_kd_2024_v2_20240424.pdf",
+          "url": "https://www.scb.se/contentassets/14b7f53d037d40708e8d23c6119df78a/uf0550_kd_2024_v2_20240424.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/14b7f53d037d40708e8d23c6119df78a/uf0550_st_2024_v2_20240424.pdf",
+          "url": "https://www.scb.se/contentassets/14b7f53d037d40708e8d23c6119df78a/uf0550_st_2024_v2_20240424.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=UF0550",
+          "url": "https://metadata.scb.se/?produkt=UF0550"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Myndigheter under riksdagen&format=False",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/myndighet/download?myndgrupp=Myndigheter%20under%20riksdagen&format=False",
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-10-05T12:59:45.206756Z",
+  "sha256": "b266d2c482b7255ac7368d29f494f629f925a4150c458e6830d05074edba2102",
+  "encoding": "utf-8"
+}

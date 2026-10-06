@@ -1,0 +1,449 @@
+{
+  "code": "MI",
+  "index_link": {
+    "text": "MI Miljö",
+    "href": "/hitta-statistik/statistik-efter-amne/miljo/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
+    "fetched_at": "2026-10-05T13:15:58.090182Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "1140e62dfcf38606ffdb2dd2099ebe03d69673ce79b5765277ebafbad52f68ec",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Miljö",
+  "areas": [
+    {
+      "label": "Avfall",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Avfall, elutrustning och batterier",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar sålda, insamlade och behandlade mängder elutrustning och batterier. Behandlingen kan exempelvis vara återanvändning, materialåtervinning eller deponi. Det är Naturvårdsverket som är tillsynsmyndighet för att uttjänt elutrustning och batterier samlas in och behandlas. Det är deras uppgifter som ligger till grund för statistiken.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Avfall, El, Kemikalier, Miljö"
+        },
+        {
+          "link": {
+            "text": "Avfall, förpackningar",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Förpackningsstatistiken redovisar återvinningsgraden för förpackningar som uppkommer i Sverige varje år. Förpackningar används för att skydda och presentera en vara och kan till exempel tillverkas av papper, plast, metall, trä eller glas.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Avfall"
+        },
+        {
+          "link": {
+            "text": "Avfall, uppkommet och behandlat",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar uppkommet avfall inom olika näringsgrenar. Den visar även behandlat avfall efter typ av behandling. Avfall som har uppkommit utomlands och som har importerats för behandling ingår inte i statistiken över uppkommet avfall. Däremot omfattar statistiken över behandlat avfall allt avfall som har behandlats här i Sverige, inklusive importerade mängder för behandling. Det är därför inte rekommenderat att direkt jämföra uppkomna mängder avfall med behandlade mängder.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Avfall"
+        }
+      ]
+    },
+    {
+      "label": "Försäljning och användning av kemikalier",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Flödesanalyser för kemiska ämnen",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/flodesanalyser-for-kemiska-amnen/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/flodesanalyser-for-kemiska-amnen/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Fakta om ämnen och ämnesgrupper, till exempel framställningsmetoder, användningsmönster och fysikaliska data.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Kemikalier, Kemiska ämnen"
+        },
+        {
+          "link": {
+            "text": "Försålda kvantiteter av bekämpningsmedel",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/forsalda-kvantiteter-av-bekampningsmedel/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/forsalda-kvantiteter-av-bekampningsmedel/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar bland annat såld mängd bekämpningsmedel efter olika användarkategorier och typ av medel.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Bekämpningsmedel"
+        },
+        {
+          "link": {
+            "text": "Miljö- och hälsofarliga kemikalier",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/miljo-och-halsofarliga-kemikalier/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/miljo-och-halsofarliga-kemikalier/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken uppdateras inte längre. Syftet med statistiken var att ge kunskap om var i samhället olika kemikalier förekommer och hur de används. Rapporterna täcker cirka 80 olika kemikalier.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Kemikalier"
+        },
+        {
+          "link": {
+            "text": "Växtskyddsmedel i jord- och trädgårdsbruket – användning i grödor",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jord--och-tradgardsbruket--anvandning-i-grodor/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jord--och-tradgardsbruket--anvandning-i-grodor/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Syftet med undersökningen är att kontinuerligt ge regional och differentierad statistik över bekämpningsmedelsanvändningen, liksom att följa förändringar i denna över tiden. Undersökningen ger även väsentlig information för uppföljning av politiskt uppsatta miljömål.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Bekämpningsmedel, Växtskyddsmedel"
+        },
+        {
+          "link": {
+            "text": "Växtskyddsmedel i jordbruket, beräknat antal hektardoser",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jordbruket-beraknat-antal-hektardoser/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jordbruket-beraknat-antal-hektardoser/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Tillverkare och ombud för kemiska bekämpningsmedel lämnar varje år uppgifter till Kemikalieinspektionen om försålda kvantiteter i Sverige av olika produkter.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Bekämpningsmedel, Växtskyddsmedel"
+        },
+        {
+          "link": {
+            "text": "Överblick över kemikalier",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/overblick-over-kemikalier/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/overblick-over-kemikalier/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Hur mycket maskindiskmedel såldes till konsumenter förra året? Vilka kemikalier är vanliga i metallbearbetande industrier? Svar på sådana och många andra frågor går att få i överblickstabellerna.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Kemikalieinspektionen (KemI)",
+          "tags_text": "Kemikalier, Kemiska ämnen"
+        }
+      ]
+    },
+    {
+      "label": "Havs- och vattenmiljö",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Kust och hav – Miljötillstånd: Tillförsel av kväve och fosfor till kusten",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/kust-och-hav-miljotillstand-tillforsel-av-kvave-och-fosfor-till-kusten/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/kust-och-hav-miljotillstand-tillforsel-av-kvave-och-fosfor-till-kusten/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar tillförsel av fosfor respektive kväve från svenska vattendrag uttryckt som ton per år till havsområdena Bottenhavet, Bottenviken, Östersjön, Öresund, Kattegatt och Skagerrak.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Havs- och vattenmyndigheten",
+          "tags_text": "Hav, Kust"
+        },
+        {
+          "link": {
+            "text": "Sötvatten – miljötillstånd",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/sotvatten--miljotillstand/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/sotvatten--miljotillstand/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar miljösituationen i relativt opåverkade vatten, baserat på tidsseriedata av växtplankton i sjöar, fisk, fosfor och kväve i sjöar och vattendrag samt försurningspåverkan, alkalinitet, klorid och nitrat i grundvatten.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Havs- och vattenmyndigheten",
+          "tags_text": "Sjöar, Vatten"
+        }
+      ]
+    },
+    {
+      "label": "Miljöekonomi och hållbar utveckling",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Cirkulär ekonomi",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/cirkular-ekonomi/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/cirkular-ekonomi/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken utgår ifrån de indikatorer Eurostat publicerar för EU:s medlemsländer. Några indikatorer är nya. Indikatorerna visar hur cirkulärt det svenska samhället är.",
+          "responsible_agency_text": null,
+          "tags_text": "Cirkulär ekonomi"
+        },
+        {
+          "link": {
+            "text": "Hållbarhet i svenskt jordbruk",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/hallbarhet-i-svenskt-jordbruk/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/hallbarhet-i-svenskt-jordbruk/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken ger en översiktlig bild av jordbrukets utveckling under senare år sett ur ett hållbarhetsperspektiv. Här redovisas jordbrukets påverkan på miljön, samt ekonomiska och sociala faktorer. Miljömålen samt andra samhällsmål följs upp och analyseras.",
+          "responsible_agency_text": null,
+          "tags_text": "Bekämpningsmedel, Utsläpp"
+        },
+        {
+          "link": {
+            "text": "Indikatorer för hållbar utveckling",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Ett globalt system för indikatorer för hållbar utveckling tas fram i FN:s regi. EU och Sverige är aktiva i detta arbete. Här finns länkar till de rapporter som tagits fram sedan 2001.",
+          "responsible_agency_text": null,
+          "tags_text": "Agenda 2030"
+        },
+        {
+          "link": {
+            "text": "Miljöräkenskaper",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Miljöräkenskaper beskriver samband mellan miljö och ekonomi. Det utgår från branscher, hushåll och offentliga myndigheter. De områden som hittills ingår är utsläpp till luft och vatten, avfall, energianvändning, materialflöden, kemikalier, miljöskyddskostnader, miljöföretag, miljöskatter och miljösubventioner samt naturresurser.",
+          "responsible_agency_text": null,
+          "tags_text": "Bränsle, Grön ekonomi, Konsumtion, Miljö, Skatt, Utsläpp, Klimatgaser, Växthusgaser"
+        },
+        {
+          "link": {
+            "text": "Miljöskyddskostnader",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Miljöskydd är aktiviteter som har som mål att behandla eller förebygga utsläpp. Kopplat till detta finns kostnader inom områdena luft, vatten, avfall, skydd av mark och grundvatten, buller, biologisk mångfald, skydd mot strålning, forskning och utveckling och övrigt miljöskydd (information och utbildning).",
+          "responsible_agency_text": null,
+          "tags_text": "Avfall, Grön ekonomi, Miljö"
+        },
+        {
+          "link": {
+            "text": "Torv",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/torv/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/torv/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar produktion av torv i Sverige. Uppgifter redovisas om skörd av torv för energi och odling samt miljöeffekter vid torvförbränning. Statistiken tas fram årligen. Äldre rapporter innehåller ytterligare statistik om torvproduktion.",
+          "responsible_agency_text": null,
+          "tags_text": "Bränsle, Import och export, Markanvändning, Priser, Torv, Utsläpp"
+        }
+      ]
+    },
+    {
+      "label": "Tillståndet i miljön",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Kust och hav – miljötillstånd miljögifter",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/kust-och-hav-miljotillstand-miljogifter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/kust-och-hav-miljotillstand-miljogifter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken uppdateras inte längre.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Luft – miljötillstånd",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Luftkvaliteten i Sverige mäts av kommunerna och Naturvårdsverket. Resultaten finns att hämta hos Naturvårdsverkets datavärd (SMHI). Den officiella statistiken finns publicerad på Naturvårdsverkets webbplats.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Luftföroreningar"
+        },
+        {
+          "link": {
+            "text": "Miljötillståndet relaterat till hälsa",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/miljotillstandet-relaterat-till-halsa/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/miljotillstandet-relaterat-till-halsa/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Miljötillståndet relaterat till hälsa omfattar statistik över exponering för kadmium hos kvinnor. Data består av kadmiumhalter i urin hos två olika åldersgrupper av kvinnor och samlas in från fyra olika städer i Sverige. Statistiken samlas in vart fjärde år och publiceras på Naturvårdsverkets webbplats. Vid varje publicering uppdateras även tidsserien där första mätningen genomfördes år 2002.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Sötvatten – miljötillstånd miljögifter",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Naturvårdsverket sammanställer och rapporterar data om miljögifter i sötvatten i Sverige varje år. Denna statistik består av arsenik i grundvatten, bly i grundvatten , kadmium i grundvatten och zink i grundvatten och publiceras på Naturvårdsverkets webbplats.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Sjöar, Vatten"
+        }
+      ]
+    },
+    {
+      "label": "Utsläpp",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Utsläpp av luftföroreningar",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-av-luftfororeningar/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-av-luftfororeningar/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Naturvårdsverket sammanställer och rapporterar data om utsläppen av luftföroreningar i Sverige varje år.\nDenna statistik består av utsläpp till luft av: ammoniak, bly, hexaklorbensen, kadmium, kolmonoxid, koppar, kvicksilver, kväveoxider, polycykliska aromatiska kolväten (PAH), partiklar (PM10 och PM2,5), sot, svaveldioxid och zink. Statistiken publiceras på Naturvårdsverkets webbplats.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Utsläpp, Luftföroreningar"
+        },
+        {
+          "link": {
+            "text": "Utsläpp och upptag av växthusgaser",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Naturvårdsverket tar årligen fram statistik om territoriella utsläpp och upptag av växthusgaser för uppföljning av nationella och internationella klimatmål samt för internationell rapportering enligt FN:s Klimatkonvention, Parisavtalet och EU:s regelverk.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Miljö, Utsläpp, Klimatgaser, Växthusgaser"
+        },
+        {
+          "link": {
+            "text": "Utsläpp till vatten och slamproduktion – Kommunala reningsverk, skogsindustri samt viss övrig industri",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-till-vatten-och-slamproduktion--kommunala-reningsverk-skogsindustri-samt-viss-ovrig-industri/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-till-vatten-och-slamproduktion--kommunala-reningsverk-skogsindustri-samt-viss-ovrig-industri/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Naturvårdsverket ansvarar för framtagande av data vartannat år om utsläpp till vatten i Sverige från större punktkällor. Dels handlar det om tillståndspliktiga kommunala reningsverk samt massa- och pappersindustrin och viss övrig kustindustri med rening i egen regi. Det handlar också om kvalitet och användning av det slam som produceras vid reningsverken. Statistiken publiceras på SCB:s webbplats.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
+          "tags_text": "Avlopp, Utsläpp"
+        }
+      ]
+    },
+    {
+      "label": "Vattenanvändning",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Vattenuttag och vattenanvändning i Sverige",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken ger en samlad bild av hur vattenanvändningen ser ut i samhället, till exempel hur mycket grundvatten, ytvatten och havsvatten som tas ut och hur mycket vatten som används av hushåll, industri, jordbruk och övriga användare.",
+          "responsible_agency_text": null,
+          "tags_text": "Vatten, Vattenanvändning, Vattenuttag"
+        }
+      ]
+    },
+    {
+      "label": "Växtnäring och odlingsåtgärder",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Försäljning av kalk för jord- och trädgårdsbruk, sjöar och vattendrag samt skog",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-kalk-for-jord-och-tradgardsbruk-sjoar-och-vattendrag-samt-skog/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-kalk-for-jord-och-tradgardsbruk-sjoar-och-vattendrag-samt-skog/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Sedan 2013 har försäljningsstatistiken för kalk upphört. Statistiken omfattade försäljningen av kalkprodukter till jord- och trädgårdsbruket och till kalkning av sjöar, vattendrag och skogar. För uppgifter om spridning av kalk på åkermark, se Gödselmedel och odlingsåtgärder i jordbruket samt Statistiskt meddelande.",
+          "responsible_agency_text": null,
+          "tags_text": "Jordbruk, Kalk, Miljö"
+        },
+        {
+          "link": {
+            "text": "Försäljning av mineralgödsel för jord- och trädgårdsbruk",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar den regionala försäljningen av kväve, fosfor, kalium och svavel i mineralgödselmedel till jord- och trädgårdsbruket.",
+          "responsible_agency_text": null,
+          "tags_text": "Gödsel, Jordbruk, Miljö"
+        },
+        {
+          "link": {
+            "text": "Gödselmedel och odlingsåtgärder i jordbruket",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/godselmedel-och-odlingsatgarder-i-jordbruket/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/godselmedel-och-odlingsatgarder-i-jordbruket/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken om gödselmedel omfattar användningen av mineral- och stallgödsel. Den visar tillförsel av växtnäringsämnen till olika grödor samt hantering, lagring och spridning av stallgödsel från olika djurslag. I redovisningen över odlingsåtgärder i jordbruket ingår uppgifter om val av jordbearbetningstekniker, användning av fånggrödor, kalkning av åkermark med mera.",
+          "responsible_agency_text": null,
+          "tags_text": "Gödsel, Jordbruk, Miljö, Odling"
+        },
+        {
+          "link": {
+            "text": "Kväve- och fosforbalanser för jordbruksmark",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/kvave--och-fosforbalanser-for-jordbruksmark/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/kvave--och-fosforbalanser-for-jordbruksmark/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistikens visar till- och bortförsel av kväve och fosfor från jordbruksmark och jordbrukssektor regionalt och nationellt. Skillnaden mellan till- och bortförsel, överskott/underskott, ger ett mått på den totala växtnäringssituationen och risken för negativ miljöpåverkan på mark, vatten och luft.",
+          "responsible_agency_text": null,
+          "tags_text": "Gödsel, Jordbruk, Miljö"
+        }
+      ]
+    },
+    {
+      "label": "Övrigt",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Miljö övrigt",
+            "href": "/hitta-statistik/statistik-efter-amne/miljo/ovrigt/miljo-ovrigt/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/ovrigt/miljo-ovrigt/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": null,
+          "responsible_agency_text": null,
+          "tags_text": null
+        }
+      ]
+    }
+  ]
+}

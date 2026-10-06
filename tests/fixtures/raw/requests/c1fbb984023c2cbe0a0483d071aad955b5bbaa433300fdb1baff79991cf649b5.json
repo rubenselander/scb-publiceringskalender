@@ -1,0 +1,17 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload",
+    "method": "GET",
+    "params": {
+      "format": "false",
+      "myndgrupp": "AP-fonder"
+    },
+    "json_body": null
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/PrepareDownload?format=false&myndgrupp=AP-fonder",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:46.287053Z",
+  "sha256": "5a836f23192b4c3becd979357fe247160acd53cf0492a06fb1b31be8ab0f814f",
+  "encoding": "utf-8"
+}

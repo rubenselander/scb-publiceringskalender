@@ -1,0 +1,33 @@
+{
+  "title": "Konjunkturbarometer handel",
+  "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
+  "listed_type": "Diagram",
+  "listed_date": "2026-10-02",
+  "detail_verified": true,
+  "detail_provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
+    "fetched_at": "2026-10-05T13:16:34.159389Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "78dc2626339468c224374c8104062432bca8f0d76c727fbc2484bcef62f4e2c8",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent article",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "subtitle": "Konfidensindikator. Index medelvärde =100. Säsongrensade värden",
+  "comments": "Med handel avses SNI 45-47. Konfidensindikatorer för handeln beräknas enligt formeln konfidensindikator = försäljningsvolym (utfall) – varulager (nulägesomdöme) + försäljningsvolym (förväntningar). Konfidensindikatorn beräknas som ett medelvärde av nettotalen (säsongsrensade och standardiserade) för ovanstående frågor. Denna tidsserie standardiseras sedan till en ny serie med medelvärde 100 och standardavvikelse 10 från 1996 och framåt. Ytterligare resultat och information om konjunkturbarometern finns hos Konjunkturinstitutet. Konjunkturinstitutet",
+  "source_label": "Konjunkturinstitutet (KI)",
+  "updated_at": "2026-10-02",
+  "excel_urls": [
+    "https://www.scb.se/contentassets/0dad81c616824c1f8c3fbbd68ca19a30/ov0011_2026m09_di_01_sv_konjbarom_foretag.xls"
+  ],
+  "image_urls": [
+    "https://www.scb.se/contentassets/0dad81c616824c1f8c3fbbd68ca19a30/ov0011_2026m09_di_27_sv_konjbarom_hande.gif"
+  ],
+  "official_statistics_mark_present": false
+}

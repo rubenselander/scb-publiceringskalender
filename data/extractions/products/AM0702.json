@@ -1,0 +1,860 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0702",
+    "response_url": "https://www.scb.se/AM0702",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/",
+    "fetched_at": "2026-10-05T13:10:14.985646Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "36b5b30f529e48413a08138dcf570da2d16a2f82ed15fb8ef68c52aabc4b45c1",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0702",
+  "product_code_source": "calendar",
+  "title": "Lediga jobb och rekryteringsbehov",
+  "short_address": "https://www.scb.se/am0702",
+  "summary": "Lediga jobb och rekryteringsbehov (LOR) beskriver efterfrågan på arbetskraft på den svenska arbetsmarknaden. Statistiken visar antalet lediga jobb i ekonomin, arbetsgivarnas erfarenheter av att rekrytera senaste halvåret och yrken där arbetsgivarna saknar arbetskraft.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
+  "responsible_agency": null,
+  "notices": [
+    "Statistiken publiceras i tre delar:",
+    "Lediga jobb : antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november.",
+    "Rekryteringserfarenheter och rekryteringsbehov : rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
+    "Rekryteringserfarenheter och rekryteringsbehov per yrke : rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget."
+  ],
+  "tags": [
+    {
+      "text": "Arbetsmarknad",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+    },
+    {
+      "text": "Konjunktur",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
+    },
+    {
+      "text": "Yrke",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-27",
+        "Lediga jobb och rekryteringsbehov (LOR) beskriver efterfrågan på arbetskraft på den svenska arbetsmarknaden. Statistiken visar antalet lediga jobb i ekonomin, arbetsgivarnas erfarenheter av att rekrytera senaste halvåret och yrken där arbetsgivarna saknar arbetskraft."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0702&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0702&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiken publiceras i tre delar:",
+        "Lediga jobb : antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november.",
+        "Rekryteringserfarenheter och rekryteringsbehov : rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
+        "Rekryteringserfarenheter och rekryteringsbehov per yrke : rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-08-28",
+        "Under andra kvartalet fanns det totalt 159 500 lediga jobb på den svenska arbetsmarknaden. Det är 8 procent fler jobb än andra kvartalet 2025, men skillnaden ligger inom osäkerhetsmarginalen."
+      ],
+      "links": [
+        {
+          "text": "Efterfrågan på arbetskraft på uppgång",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/pong/statistiknyhet/lediga-jobb-och-rekryteringsbehov-2a-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/pong/statistiknyhet/lediga-jobb-och-rekryteringsbehov-2a-kvartalet-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=AM0702",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=AM0702"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lediga jobb i hela ekonomin",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lediga jobb, hela ekonomin efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T01v2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T01v2"
+        },
+        {
+          "text": "Lediga jobb, hela ekonomin efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T02v2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T02v2"
+        },
+        {
+          "text": "Lediga jobb, hela ekonomin, säsongrensad efter näringsgren SNI 2007. Kvartal 2009K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T11b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T11b"
+        },
+        {
+          "text": "Lediga jobb, hela ekonomin efter region. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T03v3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T03v3"
+        },
+        {
+          "text": "Lediga jobb, hela ekonomin efter sektor. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T04v2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T04v2"
+        },
+        {
+          "text": "Lediga jobb per anställning, hela ekonomin efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T05"
+        },
+        {
+          "text": "Lediga jobb per anställning, hela ekonomin efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T06"
+        },
+        {
+          "text": "Lediga jobb per anställning, hela ekonomin efter region. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T07v2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T07v2"
+        },
+        {
+          "text": "Lediga jobb per anställning, hela ekonomin efter sektor. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T21",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T21"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lediga jobb, hela ekonomin efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb, hela ekonomin efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb, hela ekonomin, säsongrensad efter näringsgren SNI 2007. Kvartal 2009K1 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb, hela ekonomin efter region. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb, hela ekonomin efter sektor. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb per anställning, hela ekonomin efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb per anställning, hela ekonomin efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb per anställning, hela ekonomin efter region. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb per anställning, hela ekonomin efter sektor. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lediga jobb i näringslivet",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lediga jobb i näringslivet efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T08"
+        },
+        {
+          "text": "Lediga jobb i näringslivet efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T09"
+        },
+        {
+          "text": "Lediga jobb i näringslivet efter region. Kvartal 2024K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T10"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lediga jobb i näringslivet efter antal anställda. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb i näringslivet efter näringsgren SNI 2007. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ],
+        [
+          "Lediga jobb i näringslivet efter region. Kvartal 2024K2 - 2026K2",
+          "2026-08-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rekryteringserfarenheter och rekryteringsbehov",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rekryteringsaktivitet senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T12"
+        },
+        {
+          "text": "Typ av rekryteringsproblem senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T13"
+        },
+        {
+          "text": "Åtgärder vid rekryteringsproblem senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T14"
+        },
+        {
+          "text": "Lyckats eller inte lyckats rekrytera senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T15"
+        },
+        {
+          "text": "Konsekvenser av att inte lyckas rekrytera senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T16"
+        },
+        {
+          "text": "Anställningsplaner på ett års sikt efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T17"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Rekryteringsaktivitet senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ],
+        [
+          "Typ av rekryteringsproblem senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ],
+        [
+          "Åtgärder vid rekryteringsproblem senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ],
+        [
+          "Lyckats eller inte lyckats rekrytera senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ],
+        [
+          "Konsekvenser av att inte lyckas rekrytera senaste 6 månaderna efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ],
+        [
+          "Anställningsplaner på ett års sikt efter näringsgren, sektor, antal anställda eller region. Kvartal 2024K3 - 2026K1",
+          "2026-05-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rekryteringserfarenheter och rekryteringsbehov per yrke",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rekryteringsaktivitet per yrke senaste 6 månaderna efter region. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T18"
+        },
+        {
+          "text": "Rekryteringserfarenhet per yrke senaste 6 månaderna efter region. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T19"
+        },
+        {
+          "text": "Antal personer som saknas per yrke. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T20"
+        },
+        {
+          "text": "Antal personer som saknas per yrke och region. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T22",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0702T22"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Rekryteringsaktivitet per yrke senaste 6 månaderna efter region. År 2024 - 2025",
+          "2026-03-06"
+        ],
+        [
+          "Rekryteringserfarenhet per yrke senaste 6 månaderna efter region. År 2024 - 2025",
+          "2026-03-06"
+        ],
+        [
+          "Antal personer som saknas per yrke. År 2024 - 2025",
+          "2026-03-06"
+        ],
+        [
+          "Antal personer som saknas per yrke och region. År 2024 - 2025",
+          "2026-07-02"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2026_v2_20260828.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2026_v2_20260828.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2025_v6_20260702.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2025_v6_20260702.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2024_v6_20260702.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_kd_2024_v6_20260702.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2026_v2_20260828.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2026_v2_20260828.pdf"
+        },
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2026_v1_20260529.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2026_v1_20260529.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2025_v6_20260529.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2025_v6_20260529.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2024_v5_20260529.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/am0702_staf_2024_v5_20260529.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0702",
+          "url": "https://metadata.scb.se/?produkt=AM0702"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Frågor i undersökningen Lediga jobb och rekryteringsbehov (pdf)",
+        "Webblankett, exempel (pdf)",
+        "Yrkesgrupper i undersökningen LOR (xlsx)",
+        "Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR",
+        "Information om tidsseriebrott (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Frågor i undersökningen Lediga jobb och rekryteringsbehov (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/lor_forteckning-fragor_2026-01.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/lor_forteckning-fragor_2026-01.pdf"
+        },
+        {
+          "text": "Webblankett, exempel (pdf)",
+          "href": "/contentassets/3f8346e153d94e888ffb430f344de1ca/lor_webblankett_2026-01.pdf",
+          "url": "https://www.scb.se/contentassets/3f8346e153d94e888ffb430f344de1ca/lor_webblankett_2026-01.pdf"
+        },
+        {
+          "text": "Yrkesgrupper i undersökningen LOR (xlsx)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/yrkesgrupper-i-lor_2024k3.xlsx",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/yrkesgrupper-i-lor_2024k3.xlsx"
+        },
+        {
+          "text": "Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/"
+        },
+        {
+          "text": "Information om tidsseriebrott (pdf)",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "lor@scb.se"
+      ],
+      "links": [
+        {
+          "text": "lor@scb.se",
+          "href": "mailto:lor@scb.se",
+          "url": "mailto:lor@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbetsmarknad",
+        "Konjunktur",
+        "Yrke"
+      ],
+      "links": [
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
+        },
+        {
+          "text": "Konjunktur",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
+        },
+        {
+          "text": "Yrke",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0702"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

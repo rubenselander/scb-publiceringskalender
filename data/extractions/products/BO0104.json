@@ -1,0 +1,1013 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/BO0104",
+    "response_url": "https://www.scb.se/BO0104",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/",
+    "fetched_at": "2026-10-05T13:10:21.826700Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "cbc84b798fe2d1384ddb4fd11d6e473404c6c163d50eb5ae8368e5f7cea40ea2",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "BO0104",
+  "product_code_source": "calendar",
+  "title": "Bostadsbestånd",
+  "short_address": "https://www.scb.se/bo0104",
+  "summary": "Statistiken visar antal lägenheter i bostadsbeståndet. I Statistikdatabasen redovisas bostadsbeståndet efter hustyp, byggnadsperiod, ägarkategori, upplåtelseform och storlek (bostadsarea). Den regionala indelningen av statistiken är på riks-, läns- och kommunnivå. Andra regionala nivåer kan tas ut på uppdragsbasis.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Boende",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
+    },
+    {
+      "text": "Bostäder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+    },
+    {
+      "text": "Byggande",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
+    },
+    {
+      "text": "Fastigheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+    },
+    {
+      "text": "Fritidshus",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+    },
+    {
+      "text": "Lägenheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar antal lägenheter i bostadsbeståndet. I Statistikdatabasen redovisas bostadsbeståndet efter hustyp, byggnadsperiod, ägarkategori, upplåtelseform och storlek (bostadsarea). Den regionala indelningen av statistiken är på riks-, läns- och kommunnivå. Andra regionala nivåer kan tas ut på uppdragsbasis."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-04-17",
+        "Antalet bostadslägenheter uppgick 2025-12-31 till 5 291 493. Av dessa finns 41 procent i småhus, 52 procent i flerbostadshus, 6 procent i specialbostäder och 1 procent i övriga hus."
+      ],
+      "links": [
+        {
+          "text": "Nästan 5,3 miljoner bostäder i landet",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/pong/statistiknyhet/bostadsbestandet-31-december-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/pong/statistiknyhet/bostadsbestandet-31-december-2025/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=BO0104",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=BO0104"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bostadslägenheter",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal lägenheter efter region och hustyp (inklusive specialbostäder). År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T01"
+        },
+        {
+          "text": "Antal lägenheter efter region, hustyp och byggnadsperiod. År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T02"
+        },
+        {
+          "text": "Antal lägenheter efter region, hustyp och ägarkategori (inklusive specialbostäder). År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T03"
+        },
+        {
+          "text": "Antal lägenheter efter region, hustyp och upplåtelseform (inklusive specialbostäder). År 1990 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T04"
+        },
+        {
+          "text": "Antal lägenheter efter region, hustyp och bostadsarea. År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T5"
+        },
+        {
+          "text": "Antal lägenheter efter region, hustyp och lägenhetstyp (exklusive småhus). År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T09"
+        },
+        {
+          "text": "Antal lägenheter i specialbostäder efter region, typ av specialbostad och bostadsarea. År 2013 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T7",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T7"
+        },
+        {
+          "text": "Antal lägenheter efter region (DeSO/RegSO 2025) och upplåtelseform.  År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T01N2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T01N2"
+        },
+        {
+          "text": "Antal lägenheter efter region (DeSO 2018/RegSO 2020) och upplåtelseform (uppdateras ej). År 2015 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T10N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T10N"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal lägenheter efter region och hustyp (inklusive specialbostäder). År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region, hustyp och byggnadsperiod. År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region, hustyp och ägarkategori (inklusive specialbostäder). År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region, hustyp och upplåtelseform (inklusive specialbostäder). År 1990 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region, hustyp och bostadsarea. År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region, hustyp och lägenhetstyp (exklusive småhus). År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter i specialbostäder efter region, typ av specialbostad och bostadsarea. År 2013 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region (DeSO/RegSO 2025) och upplåtelseform.  År 2024 - 2025",
+          "2026-04-17"
+        ],
+        [
+          "Antal lägenheter efter region (DeSO 2018/RegSO 2020) och upplåtelseform (uppdateras ej). År 2015 - 2023",
+          "2024-04-18"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Fritidshus",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal fritidshus ägda av fysiska personer eller dödsbon efter region. År 1998 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T08"
+        },
+        {
+          "text": "Antal svensk- och utlandsägda fritidshus ägda av fysiska personer efter region. År 1998 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0104T11"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal fritidshus ägda av fysiska personer eller dödsbon efter region. År 1998 - 2025",
+          "2026-03-27"
+        ],
+        [
+          "Antal svensk- och utlandsägda fritidshus ägda av fysiska personer efter region. År 1998 - 2025",
+          "2026-03-27"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Nästan vart åttonde fritidshus i landet ägs av en stockholmare och de finns representerade i landets samtliga kommuner. Norrtälje är kommunen med flest fritidshus och i Härjedalen äger personer från nästan alla Sveriges kommuner ett fritidshus."
+      ],
+      "links": [
+        {
+          "text": "Borta bra men nära bäst för fritidshuset",
+          "href": "/hitta-statistik/artiklar/2026/fritidshus-vart-finns-de/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2026/fritidshus-vart-finns-de/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2026-06-25"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Bebyggelse",
+        "Fastigheter",
+        "Fritidshus"
+      ],
+      "links": [
+        {
+          "text": "Bebyggelse",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=20&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20&selection=articles"
+        },
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53&selection=articles"
+        },
+        {
+          "text": "Fritidshus",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=63&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "I Sveriges tre storstadskommuner bor de flesta i lägenhet. Den vanligaste lägenhetsstorleken är 2 rum och kök, och den genomsnittliga ytan för 2:orna är 57 kvadratmeter. Andelen bostadsrätter är högst i Stockholm och lägst i Göteborg."
+      ],
+      "links": [
+        {
+          "text": "Vanligast med 2 rum och kök på 57 kvadratmeter",
+          "href": "/hitta-statistik/artiklar/2016/Vanligast-med-2-rum-och-kok-pa-57-kvadratmeter/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2016/Vanligast-med-2-rum-och-kok-pa-57-kvadratmeter/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2016-12-12"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Fastigheter",
+        "Boende och byggande",
+        "Kartor",
+        "Städer"
+      ],
+      "links": [
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53&selection=articles"
+        },
+        {
+          "text": "Boende och byggande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
+        },
+        {
+          "text": "Kartor",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=302&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=302&selection=articles"
+        },
+        {
+          "text": "Städer",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=312&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=312&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2025.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2025.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2024_sk250424.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2024_sk250424.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2023_mv_240418.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2023_mv_240418.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2022_mv_230419.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2022_mv_230419.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2021_mv_210422.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2021_mv_210422.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2020_mv_210422.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2020_mv_210422.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2019_rb_200428.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2019_rb_200428.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2018_mv_190411.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2018_mv_190411.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2017_180419_mv.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2017_180419_mv.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2016_mv_170419.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_kd_2016_mv_170419.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2015.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2014_150417.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2014_150417.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2009_ny.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2009_ny.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2008_ny.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2008_ny.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_bs_2006.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2025.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2025.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2024_sk_250424.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2024_sk_250424.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2023_mv_240418.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2023_mv_240418.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2022_mv_230419.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2022_mv_230419.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2021_mv_210422.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2021_mv_210422.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2020_mv_210422.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2020_mv_210422.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2019_rb_200428.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2019_rb_200428.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2018_mv_190425.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2018_mv_190425.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2017_180419_mv.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_staf_2017_180419_mv.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2016_mv_170510.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2016_mv_170510.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2015_mv_160707.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2015_mv_160707.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2014_150918.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2014_150918.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2013_141203.pdf",
+          "url": "https://www.scb.se/contentassets/70390a71b4e4494a953bf46d0aa36fff/bo0104_do_2013_141203.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=BO0104",
+          "url": "https://metadata.scb.se/?produkt=BO0104"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Skräddarsydd statistik",
+        "Metodförändring 2013 (pdf)",
+        "Metodförändring 2010 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Skräddarsydd statistik",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
+        },
+        {
+          "text": "Metodförändring 2013 (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/metodforandring-2013-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/metodforandring-2013-pdf/"
+        },
+        {
+          "text": "Metodförändring 2010 (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/metodforandring-2010-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/produktrelaterat/Fordjupad-information/metodforandring-2010-pdf/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Sara Klinga",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 41 30"
+      ],
+      "links": [
+        {
+          "text": "010-479 41 30",
+          "href": "tel:010-479 41 30",
+          "url": "tel:010-479 41 30"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "byggande.bebyggelse@scb.se"
+      ],
+      "links": [
+        {
+          "text": "byggande.bebyggelse@scb.se",
+          "href": "mailto:byggande.bebyggelse@scb.se",
+          "url": "mailto:byggande.bebyggelse@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Boende",
+        "Bostäder",
+        "Byggande",
+        "Fastigheter",
+        "Fritidshus",
+        "Lägenheter"
+      ],
+      "links": [
+        {
+          "text": "Boende",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
+        },
+        {
+          "text": "Bostäder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+        },
+        {
+          "text": "Byggande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
+        },
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+        },
+        {
+          "text": "Fritidshus",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
+        },
+        {
+          "text": "Lägenheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bostadsbestånd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/bo0104"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

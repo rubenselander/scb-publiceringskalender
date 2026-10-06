@@ -1,0 +1,409 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/ME0104",
+    "response_url": "https://www.scb.se/ME0104",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valresultat/",
+    "fetched_at": "2026-10-05T13:12:17.211509Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "52fb09212af84b38d511fb0bbf6ad6cbed45a615d1249baf32f1475db5ebe68a",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Allmänna val, valresultat",
+  "product_code": "ME0104",
+  "has_documentation_section": true,
+  "groups": [
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Preliminärt röstberättigade",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2022 (pdf)",
+        "2018 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_prel_rbr_2026_20250915.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_prel_rbr_2026_20250915.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_prel_2022_jo_20210913.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_prel_2022_jo_20210913.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018_jo_170925.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018_jo_170925.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Röstberättigade",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2022 (pdf)",
+        "2018 (pdf)",
+        "2014 (pdf)",
+        "2010 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_rbr_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_rbr_kd_2022.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2014_rostberattigade_150317.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2014_rostberattigade_150317.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2010_rbr_151214.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2010_rbr_151214.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2006_rbr_151216.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2006_rbr_151216.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Valresultat",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2022 (pdf)",
+        "2018 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2010 (pdf)",
+        "2006 (pdf)",
+        "2002 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2022.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018_jo_190613.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2018_jo_190613.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2015_jo_170516.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_kd_2015_jo_170516.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2014.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2010_utokad.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2010_utokad.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2006.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_bs_2002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Preliminärt röstberättigade",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2022 (pdf)",
+        "2018 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_prel_rbr_2026_20150915.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_prel_rbr_2026_20150915.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_prel_2022_jo_20210913.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_prel_2022_jo_20210913.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2018_jo_171030.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2018_jo_171030.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Röstberättigade",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2022 (pdf)",
+        "2018 (pdf)",
+        "2014 (pdf)",
+        "2010 (pdf)",
+        "2006 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2022_rb.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2022_rb.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2018_jo_190404.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2018_jo_190404.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2014_rbr.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2014_rbr.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2010.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2006_rbr_151216.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2006_rbr_151216.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Valresultat",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "2022 (pdf)",
+        "2018 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2010 (pdf)",
+        "2002 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2022.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2018_jo_190613.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_staf_2018_jo_190613.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2015_jo_170529.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2015_jo_170529.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2014.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2010_160127.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2010_160127.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/0306ea5d06f34dfab00ef2ca653a5284/me0104_do_2002.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=ME0104",
+          "url": "https://metadata.scb.se/?produkt=ME0104"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

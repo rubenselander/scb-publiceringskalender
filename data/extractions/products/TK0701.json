@@ -1,0 +1,129 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/TK0701",
+    "response_url": "https://www.scb.se/TK0701",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/brev--och-paketdistribution/postverksamhet/",
+    "fetched_at": "2026-10-05T13:14:37.991949Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "4ced892fc9d146f5fa3765199886e25fe701f14082d836a6b7e66d160d1a0ae7",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK0701",
+  "product_code_source": "calendar",
+  "title": "Postverksamhet",
+  "short_address": "https://www.scb.se/tk0701",
+  "summary": "Statistiken visar tjänsteutbud, volymuppgifter, intäkter och kostnader i verksamhetens olika delar, sysselsättning, investeringar samt import och export.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Postverksamhet",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar tjänsteutbud, volymuppgifter, intäkter och kostnader i verksamhetens olika delar, sysselsättning, investeringar samt import och export."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Postverksamhet",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Postverksamhet",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Trafikanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-414 42 00",
+        "E-post",
+        "trafikanalys@trafa.se"
+      ],
+      "links": [
+        {
+          "text": "010-414 42 00",
+          "href": "tel:010-414 42 00",
+          "url": "tel:010-414 42 00"
+        },
+        {
+          "text": "trafikanalys@trafa.se",
+          "href": "mailto:trafikanalys@trafa.se",
+          "url": "mailto:trafikanalys@trafa.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Postverksamhet",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk0701"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

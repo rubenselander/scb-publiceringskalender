@@ -1,0 +1,161 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0118",
+    "response_url": "https://www.scb.se/EN0118",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/transportsektorns-energianvandning/",
+    "fetched_at": "2026-10-05T13:10:35.285935Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "ab34c082f59d64b71afd6de6e746c2e4f424f8e5addcdce403bd4192db891a3d",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0118",
+  "product_code_source": "calendar",
+  "title": "Transportsektorns energianvändning",
+  "short_address": "https://www.scb.se/en0118",
+  "summary": "Statistiken visar total energianvändning för inrikes transporter fördelat på trafikslag och för hela transportsektorn samt användning av bensin, diesel, etanol, biodiesel, fordonsgas, naturgas och biogas.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Transportsektorns energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar total energianvändning för inrikes transporter fördelat på trafikslag och för hela transportsektorn samt användning av bensin, diesel, etanol, biodiesel, fordonsgas, naturgas och biogas."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Transportsektorns energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Transportsektorns energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Viktor Ahlberg",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "016-542 06 27",
+        "E-post",
+        "viktor.ahlberg@energimyndigheten.se"
+      ],
+      "links": [
+        {
+          "text": "016-542 06 27",
+          "href": "tel:016-542 06 27",
+          "url": "tel:016-542 06 27"
+        },
+        {
+          "text": "viktor.ahlberg@energimyndigheten.se",
+          "href": "mailto:viktor.ahlberg@energimyndigheten.se",
+          "url": "mailto:viktor.ahlberg@energimyndigheten.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Transportsektorns energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Transportsektorns energianvändning",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0118"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

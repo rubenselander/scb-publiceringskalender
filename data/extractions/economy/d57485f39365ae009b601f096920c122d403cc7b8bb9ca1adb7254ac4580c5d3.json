@@ -1,0 +1,33 @@
+{
+  "title": "Konjunkturbarometer tjänstesektorn",
+  "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
+  "listed_type": "Diagram",
+  "listed_date": "2026-10-02",
+  "detail_verified": true,
+  "detail_provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
+    "fetched_at": "2026-10-05T13:16:32.731343Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "5f0a1692419711bf07bc67de65189f5b48d44463cd6b117250a7777b29bf09ae",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent article",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "subtitle": "Konfidensindikator. Index medelvärde =100. Säsongrensade värden",
+  "comments": "Med tjänstesektorn avses SNI 49-82, 95-96. Konfidensindikatorer för tjänstesektorn beräknas enligt formeln konfidensindikator = utvecklingen av företagets verksamhet (utfall) + efterfrågan på företagets tjänster (utfall) + efterfrågan på företagets tjänster (förväntningar). För tjänstesektorn är konfidensindikatorn för perioden 1996-2002 skattad utifrån kvartalsserier för ett begränsat antal tjänstebranscher. Konfidensindikatorn beräknas som ett medelvärde av nettotalen (säsongsrensade och standardiserade) för ovanstående frågor. Denna tidsserie standardiseras sedan till en ny serie med medelvärde 100 och standardavvikelse 10 från 1996 och framåt. Ytterligare resultat och information om konjunkturbarometern finns hos Konjunkturinstitutet. Konjunkturinstitutet",
+  "source_label": "Konjunkturinstitutet (KI)",
+  "updated_at": "2026-10-02",
+  "excel_urls": [
+    "https://www.scb.se/contentassets/f6c2a6d728544df589d14ff7630a447f/ov0011_2026m09_di_01_sv_konjbarom_foretag.xls"
+  ],
+  "image_urls": [
+    "https://www.scb.se/contentassets/f6c2a6d728544df589d14ff7630a447f/ov0011_2026m09_di_28_sv_konjbarom_tjans.gif"
+  ],
+  "official_statistics_mark_present": false
+}

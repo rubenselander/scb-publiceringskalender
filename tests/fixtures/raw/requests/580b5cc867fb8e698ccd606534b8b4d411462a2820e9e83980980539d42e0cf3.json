@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+    "method": "POST",
+    "params": {},
+    "json_body": {
+      "mynd": "AP-fonder"
+    }
+  },
+  "final_url": "https://myndighetsregistret.scb.se/Myndighet/HamtaMynd",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:46.087144Z",
+  "sha256": "308df11a62d40ec20fb2f2d6eae5d2de1166a6da0b615411425139e175c44c86",
+  "encoding": "utf-8"
+}

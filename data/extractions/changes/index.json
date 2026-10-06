@@ -1,0 +1,41 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
+    "response_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
+    "canonical_url": "https://www.scb.se/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
+    "fetched_at": "2026-10-05T13:16:35.479734Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "9574671d544fbc2f3db8aa0e0558fc4dbc1eb632e6e9d43c24c5d8925c0fe7f3",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#floatContentBody a[href$='.pdf']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Ändringar i den officiella statistiken",
+  "entries": [
+    {
+      "key": "9205d99ae83272ffbbbdb9a1281bb8dbcef1cc6f58387cbc1cbbde27884ec601",
+      "title": "Ändringar i den officiella statistiken, nov 2025 -feb 2026 (pdf)",
+      "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---nov-2025---feb-2026.pdf"
+    },
+    {
+      "key": "6396eee91d0c5ebddba83da984c43301ebc500d7b87f8ba98aecc93cb87316a0",
+      "title": "Ändringar i den officiella statistiken, april - okt 2025 (pdf)",
+      "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---april---okt-2025.pdf"
+    },
+    {
+      "key": "009372b06c66785a07c85d4c0ed123c245fda861a9c08056dcc3b13bbbf129d0",
+      "title": "Ändringar i den officiella statistiken, nov 2024 - mars 2025 (pdf)",
+      "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-nov-2024--31-mars-2025.pdf"
+    },
+    {
+      "key": "b30f86043e77f0c4c67dae9137f90292238cde5ad6526a193a0062995e9cdda0",
+      "title": "Ändringar i den officiella statistiken, april - okt 2024 (pdf)",
+      "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf"
+    }
+  ],
+  "complete": true
+}

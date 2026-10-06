@@ -1,0 +1,889 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/FM0403",
+    "response_url": "https://www.scb.se/FM0403",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/",
+    "fetched_at": "2026-10-05T13:10:49.168216Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "45191bc40c68c428f10f49447be3aeb4928c4b87639a5edfeab0253d71dd6c90",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "FM0403",
+  "product_code_source": "calendar",
+  "title": "Investeringsfonder, tillgångar och skulder",
+  "short_address": "https://www.scb.se/fm0403",
+  "summary": "Statistiken över investeringsfonder visar fondförmögenhet och fondsparande samt placeringar för fonder under Finansinspektionens tillsyn.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-25",
+  "next_publication_date": "2026-11-25",
+  "responsible_agency": {
+    "label": "Finansinspektionen",
+    "link": {
+      "text": "Finansinspektionen",
+      "href": "http://www.fi.se/statistik",
+      "url": "http://www.fi.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Aktier",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
+    },
+    {
+      "text": "Hushåll",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
+    },
+    {
+      "text": "Sparande",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
+    },
+    {
+      "text": "Tillgångar och skulder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-25",
+        "Statistiken över investeringsfonder visar fondförmögenhet och fondsparande samt placeringar för fonder under Finansinspektionens tillsyn."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0403&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0403&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Finansinspektionen"
+      ],
+      "links": [
+        {
+          "text": "Finansinspektionen",
+          "href": "http://www.fi.se/statistik",
+          "url": "http://www.fi.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-08-24",
+        "Den totala fondförmögenheten i svenska fonder ökade nära 13 procent i det andra kvartalet 2026, den största relativa ökningen sedan det andra kvartalet 2009. I absoluta tal var det första gången som ökningen var mer än 1 000 miljarder kronor under ett enskilt kvartal. Nettoflödet till fonder om drygt 100 miljarder i kvartalet var det högsta på tolv år."
+      ],
+      "links": [
+        {
+          "text": "Fondförmögenheten når över 10 000 miljarder",
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/pong/statistiknyhet/investeringsfonder-tillgangar-och-skulder-2a-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/pong/statistiknyhet/investeringsfonder-tillgangar-och-skulder-2a-kvartalet-2026/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=FM0403",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=FM0403"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder Kvartal",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andelar i investeringsfonder efter fondtyp och sektor. Kvartal 1998K2 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F813FondKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F813FondKv"
+        },
+        {
+          "text": "Antal aktiva fonder efter typ av fond. Kvartal 2016K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0403FondKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0403FondKv"
+        },
+        {
+          "text": "Investeringsfondernas placeringar, mnkr. Kvartal 2005K1 - 2026K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0403FondTot",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0403FondTot"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Andelar i investeringsfonder efter fondtyp och sektor. Kvartal 1998K2 - 2026K2",
+          "2026-08-24"
+        ],
+        [
+          "Antal aktiva fonder efter typ av fond. Kvartal 2016K1 - 2026K2",
+          "2026-08-24"
+        ],
+        [
+          "Investeringsfondernas placeringar, mnkr. Kvartal 2005K1 - 2026K2",
+          "2026-08-24"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Investeringsfonder, 2:a kvartalet 2017",
+          "href": "/publikation/31033",
+          "url": "https://www.scb.se/publikation/31033"
+        },
+        {
+          "text": "Investeringsfonder, 1:a kvartalet 2017",
+          "href": "/publikation/31029",
+          "url": "https://www.scb.se/publikation/31029"
+        },
+        {
+          "text": "Investeringsfonder, 4:a kvartalet 2016",
+          "href": "/publikation/30990",
+          "url": "https://www.scb.se/publikation/30990"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Investeringsfonder, 2:a kvartalet 2017",
+          "",
+          "2017-08-10"
+        ],
+        [
+          "Investeringsfonder, 1:a kvartalet 2017",
+          "",
+          "2017-05-16"
+        ],
+        [
+          "Investeringsfonder, 4:a kvartalet 2016",
+          "",
+          "2017-02-17"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (60)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=FM0403&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=FM0403&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2026_nhj_260522.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2026_nhj_260522.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2025_nhj_250523.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2025_nhj_250523.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2024_ml_240524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2024_ml_240524.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2023_ml_230524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2023_ml_230524.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2022_ml_220524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2022_ml_220524.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2021_ml_210525.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2021_ml_210525.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2020_ll_200526.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2020_ll_200526.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2019_kv_190524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2019_kv_190524.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2018_ap_180524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2018_ap_180524.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2017_kv_170508.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_kd_2017_kv_170508.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2016_kv_170504.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2016_kv_170504.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2015_150909.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2015_150909.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2014_150310.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2014_150310.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_bs_2000.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2026 (pdf)",
+        "2025 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2007kv2-2009kv4 (pdf)",
+        "2000kv2-2007kv1 (pdf)",
+        "1998kv3-2000kv1 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2026_nhj_260522.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2026_nhj_260522.pdf"
+        },
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2025_nhj_250523.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2025_nhj_250523.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2023_ml_230524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2023_ml_230524.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2022_ml_220524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2022_ml_220524.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2021_ml_210525.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2021_ml_210525.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2020_ll_200526.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2020_ll_200526.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2019_kv_190524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2019_kv_190524.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2018_ap_180524.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_staf_2018_ap_180524.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2017_kv_170323.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2017_kv_170323.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2016_kv_170323.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2016_kv_170323.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2015_vk_170306.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2015_vk_170306.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2014_jk_160106.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2014_jk_160106.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2012_jk_160317.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2012_jk_160317.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2011_jk_160317.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2011_jk_160317.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2010_jk_160317.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_2010_jk_160317.pdf"
+        },
+        {
+          "text": "2007kv2-2009kv4 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_20072kv20094kv.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_20072kv20094kv.pdf"
+        },
+        {
+          "text": "2000kv2-2007kv1 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_20002kv20071kv.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_20002kv20071kv.pdf"
+        },
+        {
+          "text": "1998kv3-2000kv1 (pdf)",
+          "href": "/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_19983kv20001kv.pdf",
+          "url": "https://www.scb.se/contentassets/a0ebfcfdc9a645fca24a6290c3aed217/fm0403_do_19983kv20001kv.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=FM0403",
+          "url": "https://metadata.scb.se/?produkt=FM0403"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "fmfi@scb.se",
+          "href": "mailto:fmfi@scb.se",
+          "url": "mailto:fmfi@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Malcolm Svensson Rothmaier",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 41 64",
+        "E-post",
+        "malcolm.svenssonrothmaier@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 41 64",
+          "href": "tel:010-479 41 64",
+          "url": "tel:010-479 41 64"
+        },
+        {
+          "text": "malcolm.svenssonrothmaier@scb.se",
+          "href": "mailto:malcolm.svenssonrothmaier@scb.se",
+          "url": "mailto:malcolm.svenssonrothmaier@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Nils-Henrik Jansson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 41 15",
+        "E-post",
+        "nils-henrik.jansson@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 41 15",
+          "href": "tel:010-479 41 15",
+          "url": "tel:010-479 41 15"
+        },
+        {
+          "text": "nils-henrik.jansson@scb.se",
+          "href": "mailto:nils-henrik.jansson@scb.se",
+          "url": "mailto:nils-henrik.jansson@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Aktier",
+        "Hushåll",
+        "Sparande",
+        "Tillgångar och skulder"
+      ],
+      "links": [
+        {
+          "text": "Aktier",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
+        },
+        {
+          "text": "Hushåll",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
+        },
+        {
+          "text": "Sparande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
+        },
+        {
+          "text": "Tillgångar och skulder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Investeringsfonder, tillgångar och skulder",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/fm0403"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

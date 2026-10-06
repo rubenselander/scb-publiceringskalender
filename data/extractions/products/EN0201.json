@@ -1,0 +1,644 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/EN0201",
+    "response_url": "https://www.scb.se/EN0201",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/",
+    "fetched_at": "2026-10-05T13:10:38.534341Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "cb59def61a24c578c287066bfbc2f13ce26bd38acb6e961342fa00317f8bf6dc",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "EN0201",
+  "product_code_source": "calendar",
+  "title": "Kvartalsvisa energibalanser",
+  "short_address": "https://www.scb.se/en0201",
+  "summary": "Statistiken visar tillförsel, omvandling och slutlig användning av energi efter energibärare, energiflöden och bransch.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Energimyndigheten",
+    "link": {
+      "text": "Energimyndigheten",
+      "href": "http://www.energimyndigheten.se/Statistik/",
+      "url": "http://www.energimyndigheten.se/Statistik/"
+    }
+  },
+  "notices": [
+    "Från och med publiceringen av Kvartalsvisa energibalanser kv 1 2018, 9 juli kommer ny statistik endast att publiceras hos Energimyndigheten.",
+    "Energimyndighetens Statistikdatabas"
+  ],
+  "tags": [
+    {
+      "text": "Bränsle",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+    },
+    {
+      "text": "El",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar tillförsel, omvandling och slutlig användning av energi efter energibärare, energiflöden och bransch."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Energimyndigheten"
+      ],
+      "links": [
+        {
+          "text": "Energimyndigheten",
+          "href": "http://www.energimyndigheten.se/Statistik/",
+          "url": "http://www.energimyndigheten.se/Statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Från och med publiceringen av Kvartalsvisa energibalanser kv 1 2018, 9 juli kommer ny statistik endast att publiceras hos Energimyndigheten.",
+        "Energimyndighetens Statistikdatabas"
+      ],
+      "links": [
+        {
+          "text": "Energimyndighetens Statistikdatabas",
+          "href": "http://pxexternal.energimyndigheten.se/pxweb/sv/Kvartalsvis%20energibalans/?rxid=2317b153-6985-401d-96e3-354d614f9cde",
+          "url": "http://pxexternal.energimyndigheten.se/pxweb/sv/Kvartalsvis%20energibalans/?rxid=2317b153-6985-401d-96e3-354d614f9cde"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bruttotillförsel, kvartal 4 2013–2017, PJ",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/pong/tabell-och-diagram/bruttotillforsel-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/pong/tabell-och-diagram/bruttotillforsel-kvartal/"
+        },
+        {
+          "text": "Slutlig användning för energiändamål kvartal 4 2013–2017, PJ",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/pong/tabell-och-diagram/slutlig-anvandning-for-energiandamal-kvartal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/pong/tabell-och-diagram/slutlig-anvandning-for-energiandamal-kvartal/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Bruttotillförsel, kvartal 4 2013–2017, PJ",
+          "Tabell",
+          "2018-04-09"
+        ],
+        [
+          "Slutlig användning för energiändamål kvartal 4 2013–2017, PJ",
+          "Tabell",
+          "2018-04-09"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Energibalanser efter energibärare och energiflöden, detaljerad redovisning efter näringsgren SNI 2007. Kvartal 2008K1 - 2017K4",
+        "2018-04-09"
+      ],
+      "links": [
+        {
+          "text": "Energibalanser efter energibärare och energiflöden, detaljerad redovisning efter näringsgren SNI 2007. Kvartal 2008K1 - 2017K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKvDetalj07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKvDetalj07"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Energibalanser efter energibärare och energiflöden, detaljerad redovisning efter näringsgren SNI 2002. Kvartal 1984K1 - 2009K4",
+        "2010-04-13"
+      ],
+      "links": [
+        {
+          "text": "Energibalanser efter energibärare och energiflöden, detaljerad redovisning efter näringsgren SNI 2002. Kvartal 1984K1 - 2009K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKvDetalj",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKvDetalj"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Energibalanser efter energibärare och energiflöden. Kvartal 1984K1 - 2017K4",
+        "2018-04-09"
+      ],
+      "links": [
+        {
+          "text": "Energibalanser efter energibärare och energiflöden. Kvartal 1984K1 - 2017K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EbKv"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kvartalsvisa energibalanser fjärde kvartalet 2016 och 2017",
+          "href": "/publikation/35699",
+          "url": "https://www.scb.se/publikation/35699"
+        },
+        {
+          "text": "Kvartalsvisa energibalanser tredje kvartalet 2016 och 2017",
+          "href": "/publikation/34889",
+          "url": "https://www.scb.se/publikation/34889"
+        },
+        {
+          "text": "Kvartalsvisa energibalanser andra kvartalet 2016 och 2017",
+          "href": "/publikation/31695",
+          "url": "https://www.scb.se/publikation/31695"
+        },
+        {
+          "text": "Kvartalsvisa energibalanser första kvartalet 2016 och 2017",
+          "href": "/publikation/31694",
+          "url": "https://www.scb.se/publikation/31694"
+        },
+        {
+          "text": "Kvartalsvisa energibalanser fjärde kvartalet 2015 och 2016",
+          "href": "/publikation/31693",
+          "url": "https://www.scb.se/publikation/31693"
+        },
+        {
+          "text": "Kvartalsvisa energibalanser tredje kvartalet 2015 och 2016",
+          "href": "/publikation/31692",
+          "url": "https://www.scb.se/publikation/31692"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Kvartalsvisa energibalanser fjärde kvartalet 2016 och 2017",
+          "",
+          "2018-04-09"
+        ],
+        [
+          "Kvartalsvisa energibalanser tredje kvartalet 2016 och 2017",
+          "",
+          "2018-01-15"
+        ],
+        [
+          "Kvartalsvisa energibalanser andra kvartalet 2016 och 2017",
+          "",
+          "2017-09-29"
+        ],
+        [
+          "Kvartalsvisa energibalanser första kvartalet 2016 och 2017",
+          "",
+          "2017-07-06"
+        ],
+        [
+          "Kvartalsvisa energibalanser fjärde kvartalet 2015 och 2016",
+          "",
+          "2017-04-07"
+        ],
+        [
+          "Kvartalsvisa energibalanser tredje kvartalet 2015 och 2016",
+          "",
+          "2017-01-16"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (64)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=EN0201&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=EN0201&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1998 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_kd_2017_ma_190125.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_kd_2017_ma_190125.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2016_ma_160701.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2016_ma_160701.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2015_150703.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2015_150703.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2014.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_2000.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_1998.pdf",
+          "url": "https://www.scb.se/contentassets/9c9d91579a21446f812611a6876caed6/en0201_bs_1998.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=EN0201",
+          "url": "https://metadata.scb.se/?produkt=EN0201"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Beskrivning av Energibalanser"
+      ],
+      "links": [
+        {
+          "text": "Beskrivning av Energibalanser",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bränsle",
+        "El"
+      ],
+      "links": [
+        {
+          "text": "Bränsle",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
+        },
+        {
+          "text": "El",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kvartalsvisa energibalanser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/en0201"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

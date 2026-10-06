@@ -1,0 +1,332 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/NV1401",
+    "response_url": "https://www.scb.se/NV1401",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/konkurser-och-offentliga-ackord/",
+    "fetched_at": "2026-10-05T13:13:20.208083Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "39a2b58a019e15458408d6bcda9624e5cd906eb91d961e185846e2ba1578927d",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "NV1401",
+  "product_code_source": "calendar",
+  "title": "Konkurser och offentliga ackord",
+  "short_address": "https://www.scb.se/nv1401",
+  "summary": "Statistiken visar utvecklingen av antal konkurser och antal berörda anställda efter region, näringsgren, storleksklass och företagsform.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-12",
+  "next_publication_date": "2026-10-12",
+  "responsible_agency": {
+    "label": "Tillväxtanalys",
+    "link": {
+      "text": "Tillväxtanalys",
+      "href": "http://www.tillvaxtanalys.se/statistik.html",
+      "url": "http://www.tillvaxtanalys.se/statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Anställda",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
+    },
+    {
+      "text": "Företag",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+    },
+    {
+      "text": "Konkurser",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=108",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=108"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-12",
+        "Statistiken visar utvecklingen av antal konkurser och antal berörda anställda efter region, näringsgren, storleksklass och företagsform."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-12",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1401&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Publicering på SCB:s webbplats av denna statistik upphörde i och med publiceringen 13 juni avseende maj 2024.",
+        "Statistik om konkurser och offentliga ackord publiceras enbart på hos Tillväxtanalys."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Tillväxtanalys"
+      ],
+      "links": [
+        {
+          "text": "Tillväxtanalys",
+          "href": "http://www.tillvaxtanalys.se/statistik.html",
+          "url": "http://www.tillvaxtanalys.se/statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2007 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2007.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/d0075ec3607a41b88662c144d2b0dbdc/nv1401_bs_2000.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=NV1401",
+          "url": "https://metadata.scb.se/?produkt=NV1401"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Tom Johansson",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 61 82",
+        "E-post",
+        "tom.johansson@scb.se"
+      ],
+      "links": [
+        {
+          "text": "010-479 61 82",
+          "href": "tel:010-479 61 82",
+          "url": "tel:010-479 61 82"
+        },
+        {
+          "text": "tom.johansson@scb.se",
+          "href": "mailto:tom.johansson@scb.se",
+          "url": "mailto:tom.johansson@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Anställda",
+        "Företag",
+        "Konkurser"
+      ],
+      "links": [
+        {
+          "text": "Anställda",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
+        },
+        {
+          "text": "Företag",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
+        },
+        {
+          "text": "Konkurser",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=108",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=108"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konkurser och offentliga ackord",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/nv1401"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

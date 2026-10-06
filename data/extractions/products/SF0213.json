@@ -1,0 +1,150 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/SF0213",
+    "response_url": "https://www.scb.se/SF0213",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/statligt-tandvardsstod/",
+    "fetched_at": "2026-10-05T13:14:20.408851Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "87c797020dc7bd1cf5c470c39f7737b099c11427fde6172ef4e831940c60955b",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "SF0213",
+  "product_code_source": "calendar",
+  "title": "Statligt tandvårdsstöd",
+  "short_address": "https://www.scb.se/sf0213",
+  "summary": "Statistiken avser att beskriva användningen av tandvårdsstödet och produktionen av tandvård (utförda åtgärder inom stödet).",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-23",
+  "next_publication_date": "2026-10-23",
+  "responsible_agency": {
+    "label": "Försäkringskassan",
+    "link": {
+      "text": "Försäkringskassan",
+      "href": "http://www.forsakringskassan.se/statistik/",
+      "url": "http://www.forsakringskassan.se/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Statligt tandvårdsstöd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-10-23",
+        "Statistiken avser att beskriva användningen av tandvårdsstödet och produktionen av tandvård (utförda åtgärder inom stödet)."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0213&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0213&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statligt tandvårdsstöd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistiken publiceras på Försäkringskassans hemsida."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statligt tandvårdsstöd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Försäkringskassan"
+      ],
+      "links": [
+        {
+          "text": "Försäkringskassan",
+          "href": "http://www.forsakringskassan.se/statistik/",
+          "url": "http://www.forsakringskassan.se/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statligt tandvårdsstöd",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Försäkringskassan",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-786 90 00",
+        "E-post",
+        "statistikenheten@forsakringskassan.se"
+      ],
+      "links": [
+        {
+          "text": "08-786 90 00",
+          "href": "tel:08-786 90 00",
+          "url": "tel:08-786 90 00"
+        },
+        {
+          "text": "statistikenheten@forsakringskassan.se",
+          "href": "mailto:statistikenheten@forsakringskassan.se",
+          "url": "mailto:statistikenheten@forsakringskassan.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Statligt tandvårdsstöd",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/sf0213"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

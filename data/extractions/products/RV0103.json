@@ -1,0 +1,172 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/RV0103",
+    "response_url": "https://www.scb.se/RV0103",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brott/",
+    "fetched_at": "2026-10-05T13:13:48.198048Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0571b702c000628b1027c9714b6b893966e7a8729caec7b48044312a7d61e272",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "RV0103",
+  "product_code_source": "calendar",
+  "title": "Handlagda brott",
+  "short_address": "https://www.scb.se/rv0103",
+  "summary": "Statistiken visar de uppklarade brottens omfattning, struktur, andelen brott som klaras upp, regionala fördelning och utveckling över tid. Statistiken baseras på beslut som fattas av polisen och åklagarna. Vissa av dessa beslut definieras som brottsuppklarande.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Brottsförebyggande rådet (Brå)",
+    "link": {
+      "text": "Brottsförebyggande rådet (Brå)",
+      "href": "https://www.bra.se/statistik.html",
+      "url": "https://www.bra.se/statistik.html"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Brott",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
+    },
+    {
+      "text": "Åtal",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=261",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=261"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Handlagda brott",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar de uppklarade brottens omfattning, struktur, andelen brott som klaras upp, regionala fördelning och utveckling över tid. Statistiken baseras på beslut som fattas av polisen och åklagarna. Vissa av dessa beslut definieras som brottsuppklarande."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Handlagda brott",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Brottsförebyggande rådet (Brå)"
+      ],
+      "links": [
+        {
+          "text": "Brottsförebyggande rådet (Brå)",
+          "href": "https://www.bra.se/statistik.html",
+          "url": "https://www.bra.se/statistik.html"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Handlagda brott",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Brottsförebyggande rådet",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "08-527 584 00",
+        "E-post",
+        "statistik@bra.se"
+      ],
+      "links": [
+        {
+          "text": "08-527 584 00",
+          "href": "tel:08-527 584 00",
+          "url": "tel:08-527 584 00"
+        },
+        {
+          "text": "statistik@bra.se",
+          "href": "mailto:statistik@bra.se",
+          "url": "mailto:statistik@bra.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Handlagda brott",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Brott",
+        "Åtal"
+      ],
+      "links": [
+        {
+          "text": "Brott",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
+        },
+        {
+          "text": "Åtal",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=261",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=261"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Handlagda brott",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/rv0103"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

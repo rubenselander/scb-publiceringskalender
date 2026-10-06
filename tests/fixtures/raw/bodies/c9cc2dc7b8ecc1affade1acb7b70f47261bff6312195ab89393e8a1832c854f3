@@ -1,0 +1,944 @@
+
+
+
+<!DOCTYPE html>
+<html lang="sv" xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv">
+
+<head>
+        
+
+
+
+
+     
+        <title>Dokumentation</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Language" content="sv" />
+    <meta name="description" content="H&#xE4;r har vi samlat information om hur vi g&#xF6;r v&#xE5;ra unders&#xF6;kningar, till exempel klassifikationer, standarder och metoder. I A-&#xD6;-listan hittar du dokumentation f&#xF6;r respektive statistikomr&#xE5;de." />
+    <meta name="priority" content="0.5" />
+    <meta name="ROBOTS" content="INDEX,FOLLOW" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="format-detection" content="telephone=no" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';base-uri 'self';script-src 'self' 'sha256-qHiY7D5cDxjsKxRms6VShqh2yAR9FnxPajigvEBbgcY=' https://f1-eu.readspeaker.com/ https://matomo.scb.analys.cloud;style-src 'self' 'unsafe-inline' https://f1-eu.readspeaker.com/;img-src 'self' data:;connect-src https://matomo.scb.analys.cloud 'self';frame-src https://app-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/;media-src https://app-eu.readspeaker.com/ https://media-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/">    <link rel="preload" href="/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Semibold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Bold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/js/v-86385/scb.js" as="script" type="text/javascript" crossorigin />
+    <link rel="preconnect" href="https://matomo.scb.analys.cloud" />
+        <meta property="og:site_name" content="Statistikmyndigheten SCB" />
+    <meta property="og:title" content="Dokumentation" />
+    <meta property="og:description" content="H&#xE4;r har vi samlat information om hur vi g&#xF6;r v&#xE5;ra unders&#xF6;kningar, till exempel klassifikationer, standarder och metoder. I A-&#xD6;-listan hittar du dokumentation f&#xF6;r respektive statistikomr&#xE5;de." />
+    <meta property="og:url" content="https://www.scb.se/dokumentation/" />
+    <meta name="pageid" content="76705" />
+    <meta name="pagetype" content="Dokumentationer A-&#xD6;" />
+    <meta property="og:category" content="" />
+        <meta property="og:image" content="~/Assets/Styles/Images/scb-pa-platta.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/img/scb-icon-192.png">
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+    <meta name="scb-load-balance-environment" content="DW11">
+        <link rel="canonical" href="https://www.scb.se/dokumentation/" />
+    <link rel="stylesheet" href="/css/fonts.css?v=86385" />
+    <link rel="stylesheet" href="/css/v-86385/dist/shared.min.css?v=86385" />
+        <link rel="stylesheet" href="/css/v-86385/dist/modules/readspeaker.css" />
+    <link rel="alternate" type="application/rss+xml" title="Statistiknyheter RSS" href="/feed/statistiknyheter" />
+<link rel='stylesheet' href='/css/dist/modules/columns.css?v=v-86385'/><link rel='stylesheet' href='/css/v-86385/scb-wc-partial/breadcrumb.css?v=v-86385'/>
+
+    
+    <link rel="stylesheet" href="/css/v-86385/dist/pagetype/dokumentation-startpage.min.css?v=86385" />
+
+
+
+
+</head>
+<body id="body" class=' no-js'>
+    <script>(l => l.remove('no-js') + l.add('js'))(document.body.classList)</script>
+    
+    
+    
+    
+
+<header id="header">
+    <!-- Länk till sidans huvudinnehåll -->
+    <a href="#mainContentArea" id="mainContentAreaLink" class="button mediumbutton button-link">Till inneh&#xE5;ll p&#xE5; sidan</a>
+    <div class="centered-container">
+        <a id="scb-logotype" href="/" title="Statistikmyndigheten SCB, till startsidan">
+            <img src="/img/scb-logo.svg" alt="" width="48" height="54" />
+        </a>
+
+
+            <nav id="secondary-navigation" class="is-not-displayed-tablet" aria-label="Snabbl&#xE4;nkar">
+                <ul role="menubar">
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" lang=en href="/en/documentation/">In English</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/lattlast/">L&#xE4;ttl&#xE4;st</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/nyheter-och-press/">Press</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/kontakta-oss/">Kontakt</a>
+                            </li>
+                </ul>
+            </nav>
+            <form action="/hitta-statistik/sok/" role="search" class="search-box is-not-displayed-tablet row">
+                <div class="search-box-field">
+                    <input class="search-field" name="query" type="search" placeholder="Vad s&#xF6;ker du?" aria-label="Vad s&#xF6;ker du?"/>
+                    <input id="searchLanguage" name="lang" type="hidden" value="sv"/>
+                </div>
+                <button class="button search-box-button" type="submit" value="S&#xF6;k" aria-label="S&#xF6;k">S&#xF6;k</button>
+            </form>
+            <nav id="primary-navigation" aria-label="Huvudmeny">
+                <div id="desktop-menu">
+                    <ul class="menu-level">
+                            <li class="menu-item ">
+                                <a href="/hitta-statistik/">Hitta statistik</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/vara-tjanster/">V&#xE5;ra tj&#xE4;nster</a>
+                            </li>
+                            <li class="menu-item  is-current-section">
+                                <a href="/dokumentation/">Dokumentation</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/lamna-uppgifter/">L&#xE4;mna uppgifter</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/om-scb/">Om SCB</a>
+                            </li>
+
+                        <li id="menu-buttons-mobile" class="">
+                            <a id="button-mobile-toggle-search" class="button-mobile search" href="/hitta-statistik/sok/" data-module="mobile-search">S&#xF6;k</a>
+                            <a id="button-mobile-toggle-menu" class="button-mobile menu " aria-label="&#xD6;ppna webbplatsnavigering" href="?menu=open" data-module="hamburger" aria-haspopup="true" aria-controls="primary-navigation">Meny</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+    </div>
+</header>    
+    <div id="overlay"></div>
+    <nav id="hamburger" class="collapsed" aria-label="Webbplatsnavigering"><ul class="collapsed"></ul></nav>
+
+    
+        
+<section id="kakrutan" data-nosnippet role="dialog" aria-labelledby="krr">
+    <div class="centered-container">
+    <h1 class="h4" id="krr">Kakor p&#xE5; scb.se</h1>
+    <p class="info">P&#xE5; SCB anv&#xE4;nder vi kakor f&#xF6;r att webbplatsen ska fungera och f&#xF6;r m&#xE4;tning s&#xE5; att vi vet hur den anv&#xE4;nds. M&#xE4;tningarna anv&#xE4;nds f&#xF6;r att g&#xF6;ra f&#xF6;rb&#xE4;ttringar i inneh&#xE5;ll, design och upplevelse.</p>
+    <form action="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/AcceptAll" method="post">
+        <button class="button very smallbutton" name="val" value="allt">Acceptera alla</button>
+        <button class="button very secondary smallbutton" name="val" value="inget">Endast n&#xF6;dv&#xE4;ndiga</button>
+        <input type="hidden" name="camefrom" value="/dokumentation/" />
+        <a id="acceptSomeCookies" class="very smallbutton btn-secondary-medium" href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/?camefrom=/dokumentation/">Hantera</a>
+    </form>
+    </div>
+</section>
+    <main id="mainContent">
+
+        <div class="centered-container">
+                    
+    <ul id="breadcrumb">
+
+        <li class="breadcrumb-item">
+            <a href="/">Hem</a>
+        </li>
+
+        <li class="breadcrumb-item is-current-page">
+            Dokumentation
+        </li>
+    </ul>
+
+            <div class="row">
+                    <nav class="three columns" id="left-menu" aria-label="Undermeny">
+                        
+	        <ul class="menu-level menu-level-1">
+	                <li class="menu-item">
+
+							<a class="reversed-decoration" href="/" aria-current="false" aria-expanded="false" aria-haspopup="false">Statistikmyndigheten SCB</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/hitta-statistik/" aria-current="false" aria-expanded="false" aria-haspopup="false">Hitta statistik</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/vara-tjanster/" aria-current="false" aria-expanded="false" aria-haspopup="false">V&#xE5;ra tj&#xE4;nster</a>
+	                </li>
+	                <li class="menu-item is-current-page is-current-page-parent is-parent">
+
+								<span class="reversed-decoration" href="/dokumentation/" aria-current="page" aria-haspopup="true" aria-expanded="true">Dokumentation</span>
+	        <ul class="menu-level menu-level-2">
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/dokumentation/statistikomraden-under-forandring/" aria-current="false" aria-expanded="false" aria-haspopup="false">Statistikomr&#xE5;den under f&#xF6;r&#xE4;ndring</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/dokumentation/klassifikationer-och-standarder/" aria-current="false" aria-expanded="false" aria-haspopup="false">Klassifikationer och standarder</a>
+	                </li>
+	                <li class="menu-item">
+
+							<a class="reversed-decoration" href="/dokumentation/kvalitet-och-framtagning/" aria-current="false" aria-expanded="false" aria-haspopup="false">Kvalitet och framst&#xE4;llning</a>
+	                </li>
+	                <li class="menu-item">
+
+							<a class="reversed-decoration" href="https://metadata.scb.se/mikrodataregister.aspx" aria-current="false" aria-expanded="false" aria-haspopup="false">Dokumentation av mikrodata</a>
+	                </li>
+	                <li class="menu-item">
+
+							<a class="reversed-decoration" href="https://metadata.scb.se/klassdb.aspx" aria-current="false" aria-expanded="false" aria-haspopup="false">Klassifikationsdatabasen</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/dokumentation/det-ekonomisk-statistiska-systemet/" aria-current="false" aria-expanded="false" aria-haspopup="false">Det ekonomisk-statistiska systemet</a>
+	                </li>
+	                <li class="menu-item">
+
+							<a class="reversed-decoration" href="/dokumentation/ordlista/" aria-current="false" aria-expanded="false" aria-haspopup="false">Ordlista</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/dokumentation/statistiska-metoder/" aria-current="false" aria-expanded="false" aria-haspopup="false">Statistiska metoder</a>
+	                </li>
+	        </ul>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/lamna-uppgifter/" aria-current="false" aria-expanded="false" aria-haspopup="false">L&#xE4;mna uppgifter</a>
+	                </li>
+	                <li class="menu-item is-parent">
+
+							<a class="reversed-decoration" href="/om-scb/" aria-current="false" aria-expanded="false" aria-haspopup="false">Om SCB</a>
+	                </li>
+	        </ul>
+
+                    </nav>
+                <div class='columns nine' id="pageContent">
+                        
+
+<div id="readspeaker_button1" class="rs_skip rsbtn_colorskin rs_preserve">
+    <img src="/img/minimal-speaker-icon-2.svg" width="16" height="16" alt="" id="rsplayicon"><a rel="nofollow" data-module="readspeaker" class="rsbtn_play" title="L&#xE4;s upp denna sida med hj&#xE4;lp av ReadSpeaker" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=8809&lang=sv_se&readid=pageContent&url=https://www.scb.se/dokumentation/">
+    <span class="rsbtn_left rspart"><span class="rsbtn_text"><span>Lyssna</span></span></span>
+    <span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+
+
+                    <div id="mainContentArea" tabindex="-1"></div>
+                    
+
+
+
+
+
+
+<div>
+    <h1 id='h1'>Dokumentation</h1>
+    <div class="xhtmlText">
+        
+<p><span><span>Här har vi samlat information om hur vi&nbsp;gör våra undersökningar. Alltifrån detaljerade beskrivningar av vad våra register innehåller, till vilka klassifikationer eller statistiska metoder som använts. I A–Ö-listan hittar du dokumentation för respektive statistikområde.&nbsp;</span></span></p>
+    </div>
+        
+<div class="margin-bottom-double">
+
+            <a href="#A" class="h2 rs_skip">A</a>
+            <a href="#B" class="h2 rs_skip">B</a>
+            <a href="#C" class="h2 rs_skip">C</a>
+            <a href="#D" class="h2 rs_skip">D</a>
+            <a href="#E" class="h2 rs_skip">E</a>
+            <a href="#F" class="h2 rs_skip">F</a>
+            <a href="#G" class="h2 rs_skip">G</a>
+            <a href="#H" class="h2 rs_skip">H</a>
+            <a href="#I" class="h2 rs_skip">I</a>
+            <a href="#J" class="h2 rs_skip">J</a>
+            <a href="#K" class="h2 rs_skip">K</a>
+            <a href="#L" class="h2 rs_skip">L</a>
+            <a href="#M" class="h2 rs_skip">M</a>
+            <a href="#N" class="h2 rs_skip">N</a>
+            <a href="#O" class="h2 rs_skip">O</a>
+            <a href="#P" class="h2 rs_skip">P</a>
+            <span class="h2 text-gray rs_skip">Q</span>
+            <a href="#R" class="h2 rs_skip">R</a>
+            <a href="#S" class="h2 rs_skip">S</a>
+            <a href="#T" class="h2 rs_skip">T</a>
+            <a href="#U" class="h2 rs_skip">U</a>
+            <a href="#V" class="h2 rs_skip">V</a>
+            <span class="h2 text-gray rs_skip">W</span>
+            <span class="h2 text-gray rs_skip">X</span>
+            <a href="#Y" class="h2 rs_skip">Y</a>
+            <span class="h2 text-gray rs_skip">Z</span>
+            <a href="#&#xC5;" class="h2 rs_skip">&#xC5;</a>
+            <span class="h2 text-gray rs_skip">&#xC4;</span>
+            <a href="#&#xD6;" class="h2 rs_skip">&#xD6;</a>
+
+            <a name="A"></a>
+            <h2 class="margin-top-double">A</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/aborter/#_Dokumentation">Aborter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/aktieagarstatistik/aktieagarstatistik/#_Dokumentation">Aktie&#xE4;garstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/aktivitetsersattning-sjukersattning-och-bostadstillagg/#_Dokumentation">Aktivitetsers&#xE4;ttning, sjukers&#xE4;ttning och bostadstill&#xE4;gg</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/#_Dokumentation">Allm&#xE4;n jordbruksstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-nominerade-och-valda/#_Dokumentation">Allm&#xE4;nna val, nominerade och valda</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valdeltagandeundersokningen/#_Dokumentation">Allm&#xE4;nna val, valdeltagandeunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valresultat/#_Dokumentation">Allm&#xE4;nna val, valresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valundersokningen/#_Dokumentation">Allm&#xE4;nna val, valunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/analyser-och-statistik-om-befolkningens-utbildning/#_Dokumentation">Analyser och statistik om befolkningens utbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/#_Dokumentation">Analyser om utbildning och arbetsmarknad</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/animalieproduktion/#_Dokumentation">Animalieproduktion</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/anmalda-brott/#_Dokumentation">Anm&#xE4;lda brott</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/anmalningspliktiga-smittsamma-sjukdomar/#_Dokumentation">Anm&#xE4;lningspliktiga smittsamma sjukdomar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/annan-pedagogisk-verksamhet-barn-och-personal-per-15-oktober/#_Dokumentation">Annan pedagogisk verksamhet: Barn och personal per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/anpassade-grundskolan-elever-per-15-oktober/#_Dokumentation">Anpassade grundskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/anpassade-gymnasieskolan-elever-per-15-oktober/#_Dokumentation">Anpassade gymnasieskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/#_Dokumentation">Anst&#xE4;llningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/#_Dokumentation">Antalet hel&#xE5;rspersoner som f&#xF6;rs&#xF6;rjdes med sociala ers&#xE4;ttningar och bidrag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/#_Dokumentation">Arbetskostnadsindex f&#xF6;r arbetare och tj&#xE4;nstem&#xE4;n inom privat sektor (AKI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/arbetskraftsbarometern/#_Dokumentation">Arbetskraftsbarometern </a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/#_Dokumentation">Arbetskraftsunders&#xF6;kningarna (AKU)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/#_Dokumentation">Arbetskraftsunders&#xF6;kningarna, tidigare definitioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/#_Dokumentation">Arbetsmilj&#xF6;unders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/#_Dokumentation">Arbetsorsakade besv&#xE4;r</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/#_Dokumentation">Arbetsskador</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arealforhallanden/#_Dokumentation">Arealf&#xF6;rh&#xE5;llanden</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/arrendepriser-for-jordbruksmark/#_Dokumentation">Arrendepriser f&#xF6;r jordbruksmark</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/ovrigt/artificiell-intelligens-i-sverige/#_Dokumentation">Artificiell intelligens i Sverige (AISE)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/assistansersattning/#_Dokumentation">Assistansers&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/assisterad-befruktning/#_Dokumentation">Assisterad befruktning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/#_Dokumentation">Avfall, elutrustning och batterier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/#_Dokumentation">Avfall, f&#xF6;rpackningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/#_Dokumentation">Avfall, uppkommet och behandlat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/#_Dokumentation">Avgifter/hyror f&#xF6;r nybyggda l&#xE4;genheter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/bruttoavverkning/#_Dokumentation">Avverkning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/avverkningsanmalningar/#_Dokumentation">Avverkningsanm&#xE4;lningar</a></li>
+
+            </ul>
+            <a name="B"></a>
+            <h2 class="margin-top-double">B</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/balansstatistik/#_Dokumentation">Balansstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/banker-och-kreditmarknadsforetag-tillgangar-och-skulder/#_Dokumentation">Banker och kreditmarknadsf&#xF6;retag, tillg&#xE5;ngar och skulder</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/bantrafik/#_Dokumentation">Bantrafik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/bantrafikskador/#_Dokumentation">Bantrafikskador</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/#_Dokumentation">Barn- och familjestatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/barn-elever-och-personal-riksniva-sveriges-officiella-statistik-om-forskola-skola-och-vuxenutbildning/#_Dokumentation">Barn, elever och personal riksniv&#xE5; &#x2013; Sveriges officiella statistik om f&#xF6;rskola, skola och vuxenutbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/barnbidrag/#_Dokumentation">Barnbidrag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/barnvaccinationer/#_Dokumentation">Barnvaccinationer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/#_Dokumentation">Befolkningens arbetsmarknadsstatus (BAS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/#_Dokumentation">Befolkningens it-anv&#xE4;ndning (BITA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-studiedeltagande/#_Dokumentation">Befolkningens studiedeltagande</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/#_Dokumentation">Befolkningens utbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/befolkningsframskrivningar/#_Dokumentation">Befolkningsframskrivningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/befolkningsstatistik/#_Dokumentation">Befolkningsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/beslut-om-sjukpenning/#_Dokumentation">Beslut om sjukpenning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/#_Dokumentation">Betalningsbalansen (BoP)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/bilstod/#_Dokumentation">Bilst&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/amnesovergripande-statistik/bostads-och-byggnadsstatistisk-arsbok/#_Dokumentation">Bostads- och byggnadsstatistisk &#xE5;rsbok</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/#_Dokumentation">Bostadsbest&#xE5;nd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/bostadsbidrag-till-barnfamiljer-m-fl/#_Dokumentation">Bostadsbidrag till barnfamiljer m.fl.</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/#_Dokumentation">Byggkostnadsindex (BKI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/#_Dokumentation">Bygglov, nybyggnad och ombyggnad</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/#_Dokumentation">Byggnadsprisindex (BPI)</a></li>
+
+            </ul>
+            <a name="C"></a>
+            <h2 class="margin-top-double">C</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/cirkular-ekonomi/#_Dokumentation">Cirkul&#xE4;r ekonomi</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/#_Dokumentation">Civila samh&#xE4;llet</a></li>
+
+            </ul>
+            <a name="D"></a>
+            <h2 class="margin-top-double">D</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/dagersattning-sjukformaner/#_Dokumentation">Dagers&#xE4;ttning sjukf&#xF6;rm&#xE5;ner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/#_Dokumentation">Demografisk analys</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/den-internationella-undersokningen-av-vuxnas-fardigheter/#_Dokumentation">Den internationella unders&#xF6;kningen av vuxnas f&#xE4;rdigheter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/den-svenska-statsskulden/#_Dokumentation">Den svenska statsskulden</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/det-yrkesmassiga-fisket-i-havet/#_Dokumentation">Det yrkesm&#xE4;ssiga fisket i havet </a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/det-yrkesmassiga-fisket-i-sotvatten/#_Dokumentation">Det yrkesm&#xE4;ssiga fisket i s&#xF6;tvatten</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/djurhalsa/djurhalsa/#_Dokumentation">Djurh&#xE4;lsa</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/doktorander-och-examina-i-hogskoleutbildning-pa-forskarniva/#_Dokumentation">Doktorander och examina i h&#xF6;gskoleutbildning p&#xE5; forskarniv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/domstolarnas-verksamhet/domstolsstatistik/#_Dokumentation">Domstolsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/dranering-av-jordbruksmark/#_Dokumentation">Dr&#xE4;nering av jordbruksmark</a></li>
+
+            </ul>
+            <a name="E"></a>
+            <h2 class="margin-top-double">E</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/ekologisk-animalieproduktion/#_Dokumentation">Ekologisk animalieproduktion</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-djurhallning/#_Dokumentation">Ekologisk djurh&#xE5;llning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-vaxtodling/#_Dokumentation">Ekologisk v&#xE4;xtodling</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-vaxtodling-och-djurhallning/#_Dokumentation">Ekologisk v&#xE4;xtodling och djurh&#xE5;llning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/ekonomisk-kalkyl-for-jordbrukssektorn-eaa/#_Dokumentation">Ekonomisk kalkyl f&#xF6;r jordbrukssektorn (EAA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/ekonomisk-statistik-for-universitet-och-hogskolor/#_Dokumentation">Ekonomisk statistik f&#xF6;r universitet och h&#xF6;gskolor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/ekonomisk-statistik-pa-kvartal/#_Dokumentation">Ekonomisk statistik p&#xE5; kvartal</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/elevpaneler-for-longitudinella-studier/#_Dokumentation">Elevpaneler f&#xF6;r longitudinella studier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/#_Dokumentation">Elpriser och elavtal</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/#_Dokumentation">Emitterade v&#xE4;rdepapper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/ovrigt/energi-ovrigt/#_Dokumentation">Energi &#xF6;vrigt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandning-inom-byggsektorn/#_Dokumentation">Energianv&#xE4;ndning inom byggsektorn</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandning-inom-skogsbruket/#_Dokumentation">Energianv&#xE4;ndning inom skogsbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandningen-inom-fiskesektorn/#_Dokumentation">Energianv&#xE4;ndningen inom fiskesektorn</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandningen-inom-jordbruket/#_Dokumentation">Energianv&#xE4;ndningen inom jordbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-flerbostadshus/#_Dokumentation">Energistatistik f&#xF6;r flerbostadshus</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-fritidshus/#_Dokumentation">Energistatistik f&#xF6;r fritidshus</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-lokaler/#_Dokumentation">Energistatistik f&#xF6;r lokaler</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus/#_Dokumentation">Energistatistik f&#xF6;r sm&#xE5;hus</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus-flerbostadshus-och-lokaler/#_Dokumentation">Energistatistik f&#xF6;r sm&#xE5;hus, flerbostadshus och lokaler</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/etablering-pa-arbetsmarknaden-efter-hogskolestudier-pa-grundniva-och-avancerad-niva/#_Dokumentation">Etablering p&#xE5; arbetsmarknaden efter h&#xF6;gskolestudier p&#xE5; grundniv&#xE5; och avancerad niv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/etablering-pa-arbetsmarknaden-och-fortsatta-studier-efter-gymnasieskolan/#_Dokumentation">Etablering p&#xE5; arbetsmarknaden och fortsatta studier efter gymnasieskolan</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/etablering-pa-arbetsmarknaden-och-fortsatta-studier-efter-komvux/#_Dokumentation">Etablering p&#xE5; arbetsmarknaden och fortsatta studier efter komvux</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/europaparlamentsval-nominerade-och-valda/#_Dokumentation">Europaparlamentsval, nominerade och valda</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/europaparlamentsval-valdeltagandeundersokningen/#_Dokumentation">Europaparlamentsval, valdeltagandeunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/europaparlamentsval-valresultat/#_Dokumentation">Europaparlamentsval, valresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/europaparlamentsval-valundersokningen/#_Dokumentation">Europaparlamentsval, valunders&#xF6;kningen</a></li>
+
+            </ul>
+            <a name="F"></a>
+            <h2 class="margin-top-double">F</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/fastighets--och-agarstruktur-i-skogsbruk/#_Dokumentation">Fastighets- och &#xE4;garstruktur i skogsbruk</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/#_Dokumentation">Fastighetspriser och lagfarter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/#_Dokumentation">Fastighetstaxeringar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/finansiella-foretag-arsbokslut/#_Dokumentation">Finansiella f&#xF6;retag, &#xE5;rsbokslut</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/finansiarer-och-utforare-inom-varden-skolan-och-omsorgen/#_Dokumentation">Finansi&#xE4;rer och utf&#xF6;rare inom v&#xE5;rden, skolan och omsorgen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/#_Dokumentation">Finansmarknadsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/#_Dokumentation">Finansr&#xE4;kenskaper, kvartal och &#xE5;r</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/flodesanalyser-for-kemiska-amnen/#_Dokumentation">Fl&#xF6;desanalyser f&#xF6;r kemiska &#xE4;mnen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/#_Dokumentation">Fokus p&#xE5; n&#xE4;ringsliv och arbetsmarknad</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/folk--larosates--och-sjukhusbibliotek/#_Dokumentation">Folk-, l&#xE4;ros&#xE4;tes- och sjukhusbibliotek</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/folkbildning/folkhogskolestatistik/#_Dokumentation">Folkh&#xF6;gskolestatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/folkomrostningar-valdeltagandeundersokningen/#_Dokumentation">Folkomr&#xF6;stningar, valdeltagandeunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/folkomrostningar-valresultat/#_Dokumentation">Folkomr&#xF6;stningar, valresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/folkomrostningar-valundersokningen/#_Dokumentation">Folkomr&#xF6;stningar, valunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/#_Dokumentation">Fordon</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/forskning-och-utveckling-i-internationella-foretag/#_Dokumentation">Forskning och utveckling i internationella  f&#xF6;retag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/#_Dokumentation">Forskning och utveckling i Sverige</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/forskning-vid-universitet-och-hogskolor/#_Dokumentation">Forskning vid universitet och h&#xF6;gskolor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/fosterskador-och-kromosomavvikelser/#_Dokumentation">Fosterskador och kromosomavvikelser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/fritidsfiske/#_Dokumentation">Fritidsfiske</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/fritidshem-elever-och-personal-per-15-oktober/#_Dokumentation">Fritidshem: Elever och personal per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/fritidshusomraden/#_Dokumentation">Fritidshusomr&#xE5;den</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/frivilliga-avsattningar-och-certifierad-areal/#_Dokumentation">Frivilliga avs&#xE4;ttningar och certifierad areal</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/far-i-december/#_Dokumentation">F&#xE5;r i december</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/fardtjanst-och-riksfardtjanst/#_Dokumentation">F&#xE4;rdtj&#xE4;nst och riksf&#xE4;rdtj&#xE4;nst</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/#_Dokumentation">F&#xF6;rdelningsanalytiskt statistiksystem f&#xF6;r inkomster och transfereringar (FASIT)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/foretag-och-foretagare-i-jordbruket/#_Dokumentation">F&#xF6;retag och f&#xF6;retagare i jordbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/foretagens-demografi/#_Dokumentation">F&#xF6;retagens demografi</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/foretagens-ekonomi/#_Dokumentation">F&#xF6;retagens ekonomi</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/foretagens-utgifter-for-it/#_Dokumentation">F&#xF6;retagens utgifter f&#xF6;r IT</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/foretagens-utlandska-handelskrediter/#_Dokumentation">F&#xF6;retagens utl&#xE4;ndska handelskrediter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/ovrigt/foretagsdatabasen-fdb/#_Dokumentation">F&#xF6;retagsdatabasen (FDB)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/#_Dokumentation">F&#xF6;retagsregister och individdatabas (FRIDA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/forskola-barn-och-personal-per-15-oktober/#_Dokumentation">F&#xF6;rskola: Barn och personal per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/forsalda-kvantiteter-av-bekampningsmedel/#_Dokumentation">F&#xF6;rs&#xE5;lda kvantiteter av bek&#xE4;mpningsmedel</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-kapitalplaceringar/#_Dokumentation">F&#xF6;rs&#xE4;kringsf&#xF6;retagens kapitalplaceringar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-arsredogorelse/#_Dokumentation">F&#xF6;rs&#xE4;kringsf&#xF6;retagens &#xE5;rsredog&#xF6;relse</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-kalk-for-jord-och-tradgardsbruk-sjoar-och-vattendrag-samt-skog/#_Dokumentation">F&#xF6;rs&#xE4;ljning av kalk f&#xF6;r jord- och tr&#xE4;dg&#xE5;rdsbruk, sj&#xF6;ar och vattendrag samt skog</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/#_Dokumentation">F&#xF6;rs&#xE4;ljning av mineralg&#xF6;dsel f&#xF6;r jord- och tr&#xE4;dg&#xE5;rdsbruk</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/foraldrapenning/#_Dokumentation">F&#xF6;r&#xE4;ldrapenning</a></li>
+
+            </ul>
+            <a name="G"></a>
+            <h2 class="margin-top-double">G</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/gaspriser-och-gasavtal/#_Dokumentation">Gaspriser och gasavtal</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/genomstromning-och-resultat-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/#_Dokumentation">Genomstr&#xF6;mning och resultat i h&#xF6;gskoleutbildning p&#xE5; grundniv&#xE5; och avancerad niv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/graviditetspenning/#_Dokumentation">Graviditetspenning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-betyg-arskurs-6/#_Dokumentation">Grundskolan: betyg &#xE5;rskurs 6</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-elever-per-15-oktober/#_Dokumentation">Grundskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-slutbetyg/#_Dokumentation">Grundskolan: slutbetyg</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundsarskolan-och-gymnasiesarskolan-elever-per-15-oktober/#_Dokumentation">Grunds&#xE4;rskolan och gymnasies&#xE4;rskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/#_Dokumentation">Gr&#xF6;nytor i och omkring t&#xE4;torter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-elever-per-15-oktober/#_Dokumentation">Gymnasieskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-sokande-och-antagna/#_Dokumentation">Gymnasieskolan: S&#xF6;kande och antagna</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolans-betygsuppgifter/#_Dokumentation">Gymnasieskolans betygsuppgifter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/gymnasieungdomars-studieintresse/#_Dokumentation">Gymnasieungdomars studieintresse</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/godselmedel-och-odlingsatgarder-i-jordbruket/#_Dokumentation">G&#xF6;dselmedel och odlings&#xE5;tg&#xE4;rder i jordbruket</a></li>
+
+            </ul>
+            <a name="H"></a>
+            <h2 class="margin-top-double">H</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/handikappersattning/#_Dokumentation">Handikappers&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brott/#_Dokumentation">Handlagda brott</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brottsmisstankar/#_Dokumentation">Handlagda brottsmisstankar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/heltidsjordbruket-i-sverige/#_Dokumentation">Heltidsjordbruket i Sverige</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/historisk-statistik-om-utbildning/#_Dokumentation">Historisk statistik om utbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hushallens-boende/#_Dokumentation">Hush&#xE5;llens boende</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-boendeutgifter/#_Dokumentation">Hush&#xE5;llens boendeutgifter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-ekonomi-hek/#_Dokumentation">Hush&#xE5;llens ekonomi (HEK)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/amnesovergripande-statistik/hushallens-ekonomi-allman-statistik/#_Dokumentation">Hush&#xE5;llens ekonomi allm&#xE4;n statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/#_Dokumentation">Hush&#xE5;llens konsumtion</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-tillgangar-och-skulder/#_Dokumentation">Hush&#xE5;llens tillg&#xE5;ngar och skulder</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/#_Dokumentation">Hush&#xE5;llens utgifter (HUT)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hyror-i-bostadslagenheter/#_Dokumentation">Hyror i bostadsl&#xE4;genheter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/hallbarhet-i-svenskt-jordbruk/#_Dokumentation">H&#xE5;llbarhet i svenskt jordbruk</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-kostnader/#_Dokumentation">H&#xE4;lso- och sjukv&#xE5;rdens kostnader</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-verksamhet/#_Dokumentation">H&#xE4;lso- och sjukv&#xE5;rdens verksamhet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/#_Dokumentation">H&#xE4;lso- och sjukv&#xE5;rdsstatistisk &#xE5;rsbok (HSSA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/#_Dokumentation">H&#xE4;lsor&#xE4;kenskaper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hastar/#_Dokumentation">H&#xE4;star</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/hogskolenyborjare-och-doktorandnyborjare-efter-foraldrarnas-utbildningsniva/#_Dokumentation">H&#xF6;gskolenyb&#xF6;rjare och doktorandnyb&#xF6;rjare efter f&#xF6;r&#xE4;ldrarnas utbildningsniv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/hogutbildade-utrikes-fodda/#_Dokumentation">H&#xF6;gutbildade utrikes f&#xF6;dda</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/#_Dokumentation">H&#xF6;sts&#xE5;dda arealer</a></li>
+
+            </ul>
+            <a name="I"></a>
+            <h2 class="margin-top-double">I</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/#_Dokumentation">Indikatorer f&#xF6;r h&#xE5;llbar utveckling</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/industrins-energianvandning/#_Dokumentation">Industrins energianv&#xE4;ndning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-kapacitetsutnyttjande/#_Dokumentation">Industrins kapacitetsutnyttjande</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/#_Dokumentation">Industrins ordering&#xE5;ng och oms&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/industrins-varuproduktion-ivp/#_Dokumentation">Industrins varuproduktion (IVP)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/#_Dokumentation">Industriproduktionsindex (IPI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/#_Dokumentation">Inkomster och skatter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/turism/inkvarteringsstatistik/#_Dokumentation">Inkvarteringsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/innovation/innovation-i-foretagssektorn/#_Dokumentation">Innovation i f&#xF6;retagssektorn</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/innovation/innovation-i-offentlig-sektor/#_Dokumentation">Innovation i offentlig sektor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/insatser-for-barn-och-unga-mangduppgifter/#_Dokumentation">Insatser f&#xF6;r barn och unga &#x2013; m&#xE4;ngduppgifter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/#_Dokumentation">Integration &#x2013; statistik och analys</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/internationell-studentmobilitet-i-hogskolan/#_Dokumentation">Internationell studentmobilitet i h&#xF6;gskolan</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/#_Dokumentation">Intr&#xE4;det p&#xE5; arbetsmarknaden</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/intakts-och-kostnadsundersokning-for-flerbostadshus-iku/#_Dokumentation">Int&#xE4;kts- och kostnadsunders&#xF6;kning f&#xF6;r flerbostadshus (IKU)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/investeringsenkaten/#_Dokumentation">Investeringsenk&#xE4;ten</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/#_Dokumentation">Investeringsfonder, tillg&#xE5;ngar och skulder</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/#_Dokumentation">It-anv&#xE4;ndning i f&#xF6;retag</a></li>
+
+            </ul>
+            <a name="J"></a>
+            <h2 class="margin-top-double">J</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/#_Dokumentation">Jordbrukarhush&#xE5;llens inkomster</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbruksekonomiska-undersokningen/#_Dokumentation">Jordbruksekonomiska unders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-driftsinriktning/#_Dokumentation">Jordbruksf&#xF6;retagens driftsinriktning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-kombinationsverksamhet/#_Dokumentation">Jordbruksf&#xF6;retagens kombinationsverksamhet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksmarkens-anvandning/#_Dokumentation">Jordbruksmarkens anv&#xE4;ndning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/#_Dokumentation">J&#xE4;mst&#xE4;lldhetsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/jarnvagstransporter/#_Dokumentation">J&#xE4;rnv&#xE4;gstransporter</a></li>
+
+            </ul>
+            <a name="K"></a>
+            <h2 class="margin-top-double">K</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/kommersiell-linjetrafik-pa-vag/#_Dokumentation">Kommersiell linjetrafik p&#xE5; v&#xE4;g</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/#_Dokumentation">Kommunal och regional energistatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/kommunalekonomisk-utjamning-och-utjamning-av-lss-kostnader/#_Dokumentation">Kommunalekonomisk utj&#xE4;mning och utj&#xE4;mning av LSS-kostnader</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/kommunalskatterna/#_Dokumentation">Kommunalskatterna</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/kommunernas-och-regionernas-finansiella-tillgangar-och-skulder/#_Dokumentation">Kommunernas och regionernas finansiella tillg&#xE5;ngar och skulder</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-i-svenska-for-invandrare-elever-kursdeltagare-och-utbildningsresultat/#_Dokumentation">Komvux i svenska f&#xF6;r invandrare: elever, kursdeltagare och utbildningsresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-pa-grundlaggande-och-gymnasial-niva-elever-kursdeltagare-och-utbildningsresultat/#_Dokumentation">Komvux p&#xE5; grundl&#xE4;ggande och gymnasial niv&#xE5;: elever, kursdeltagare och utbildningsresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kommunal-vuxenutbildning-som-anpassad-utbildning/#_Dokumentation">Komvux som anpassad utbildning: elever, kursdeltagare och utbildningsresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-foretag/#_Dokumentation">Konjunkturbarometern F&#xF6;retag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-hushall/#_Dokumentation">Konjunkturbarometern Hush&#xE5;ll</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/#_Dokumentation">Konjunkturstatistik &#xF6;ver sjukl&#xF6;ner (KSju)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-vakanser-kv/#_Dokumentation">Konjunkturstatistik &#xF6;ver vakanser (KV)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-kommuner-klk/#_Dokumentation">Konjunkturstatistik, l&#xF6;ner f&#xF6;r kommuner (KLK)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/#_Dokumentation">Konjunkturstatistik, l&#xF6;ner f&#xF6;r privat sektor (KLP)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-regioner-klr/#_Dokumentation">Konjunkturstatistik, l&#xF6;ner f&#xF6;r regioner (KLR)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/#_Dokumentation">Konjunkturstatistik, l&#xF6;ner f&#xF6;r statlig sektor (KLS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/konkurser-och-offentliga-ackord/#_Dokumentation">Konkurser och offentliga ackord</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/konst--och-kulturutbildningar-och-vissa-andra-utbildningar/#_Dokumentation">Konst- och kulturutbildningar och vissa andra utbildningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/konstaterade-fall-av-anmalt-dodligt-vald/#_Dokumentation">Konstaterade fall av anm&#xE4;lt d&#xF6;dligt v&#xE5;ld</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/#_Dokumentation">Konsumentprisindex (KPI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/#_Dokumentation">Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-for-forskola-fritidshem-skola-och-vuxenutbildning/#_Dokumentation">Kostnader f&#xF6;r f&#xF6;rskola, fritidshem, skola och vuxenutbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/kostnader-for-utbildningsvasendet/#_Dokumentation">Kostnader f&#xF6;r utbildningsv&#xE4;sendet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-ekonomi/kostnader-och-intakter-i-det-storskaliga-skogsbruket/#_Dokumentation">Kostnader och int&#xE4;kter i det storskaliga skogsbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-riksniva-sveriges-officiella-statistik-om-forskola-skola-och-vuxenutbildning/#_Dokumentation">Kostnader riksniv&#xE5; &#x2013; Sveriges officiella statistik om f&#xF6;rskola, skola och vuxenutbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/#_Dokumentation">Kreditdatabas (KRITA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard/#_Dokumentation">Kriminalv&#xE5;rd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard---frivard/#_Dokumentation">Kriminalv&#xE5;rd - friv&#xE5;rd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard---fangelse-och-hakte/#_Dokumentation">Kriminalv&#xE5;rd - f&#xE4;ngelse och h&#xE4;kte</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/kulturmiljohansyn-vid-foryngringsavverkning/#_Dokumentation">Kulturmilj&#xF6;h&#xE4;nsyn vid f&#xF6;ryngringsavverkning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturarv/kulturmiljostatistik/#_Dokumentation">Kulturmilj&#xF6;statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/kust-och-hav-miljotillstand-miljogifter/#_Dokumentation">Kust och hav &#x2013; milj&#xF6;tillst&#xE5;nd milj&#xF6;gifter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/kust-och-hav-miljotillstand-tillforsel-av-kvave-och-fosfor-till-kusten/#_Dokumentation">Kust och hav &#x2013; Milj&#xF6;tillst&#xE5;nd: Tillf&#xF6;rsel av kv&#xE4;ve och fosfor till kusten</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/kvartalsutfall-for-kommuner-och-regioner/#_Dokumentation">Kvartalsutfall f&#xF6;r kommuner och regioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/kvartalsvis-branslestatistik/#_Dokumentation">Kvartalsvis br&#xE4;nslestatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/#_Dokumentation">Kvartalsvisa energibalanser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/kvave--och-fosforbalanser-for-jordbruksmark/#_Dokumentation">Kv&#xE4;ve- och fosforbalanser f&#xF6;r jordbruksmark</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/#_Dokumentation">K&#xF6;pkraftspariteter (PPP)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/korstrackor/#_Dokumentation">K&#xF6;rstr&#xE4;ckor</a></li>
+
+            </ul>
+            <a name="L"></a>
+            <h2 class="margin-top-double">L</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/#_Dokumentation">Labour cost index (LCI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/#_Dokumentation">Labour Cost Survey (LCS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/lager-av-rundvirke-och-massaflis/#_Dokumentation">Lager av rundvirke och massaflis</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/lagerhallning-av-spannmal-och-raps/#_Dokumentation">Lagerh&#xE5;llning av spannm&#xE5;l och raps</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/land-och-vattenarealer/#_Dokumentation">Land- och vattenarealer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/#_Dokumentation">Lantbrukets djur i juni</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/lastbilstrafik/#_Dokumentation">Lastbilstrafik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/#_Dokumentation">Lediga jobb och rekryteringsbehov</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/leveranser-av-fordonsgas-och-vatgas/#_Dokumentation">Leveranser av fordonsgas och v&#xE4;tgas</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/levererade-skogsplantor/#_Dokumentation">Levererade skogsplantor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/livsmedelsforsaljning-fordelad-pa-varugrupper/#_Dokumentation">Livsmedelsf&#xF6;rs&#xE4;ljning f&#xF6;rdelad p&#xE5; varugrupper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/#_Dokumentation">Livsmedelsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/longitudinell-individdatabas-linda/#_Dokumentation">Longitudinell individdatabas (LINDA)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/#_Dokumentation">Luft &#x2013; milj&#xF6;tillst&#xE5;nd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/luftfart/luftfart/#_Dokumentation">Luftfart</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/larare-utanfor-yrket/#_Dokumentation">L&#xE4;rare utanf&#xF6;r yrket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/#_Dokumentation">L&#xF6;nestrukturstatistik, hela ekonomin</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/#_Dokumentation">L&#xF6;nestrukturstatistik, kommuner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/#_Dokumentation">L&#xF6;nestrukturstatistik, privat sektor (SLP)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/#_Dokumentation">L&#xF6;nestrukturstatistik, regioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/#_Dokumentation">L&#xF6;nestrukturstatistik, statlig sektor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/#_Dokumentation">L&#xF6;nesummor, arbetsgivaravgifter och prelimin&#xE4;r A-skatt (LAPS)</a></li>
+
+            </ul>
+            <a name="M"></a>
+            <h2 class="margin-top-double">M</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/ovrigt/maritima-naringar/#_Dokumentation">Maritima n&#xE4;ringar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/#_Dokumentation">Markanv&#xE4;ndningen i Sverige</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/markpriser/#_Dokumentation">Markpriser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/merkostnadsersattning/#_Dokumentation">Merkostnadsers&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/ovrigt/miljo-ovrigt/#_Dokumentation">Milj&#xF6; &#xF6;vrigt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/miljo-och-halsofarliga-kemikalier/#_Dokumentation">Milj&#xF6;- och h&#xE4;lsofarliga kemikalier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/miljohansyn-vid-foryngringsavverkning/#_Dokumentation">Milj&#xF6;h&#xE4;nsyn vid f&#xF6;ryngringsavverkning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/#_Dokumentation">Milj&#xF6;r&#xE4;kenskaper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/#_Dokumentation">Milj&#xF6;skyddskostnader</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/miljotillstandet-relaterat-till-halsa/#_Dokumentation">Milj&#xF6;tillst&#xE5;ndet relaterat till h&#xE4;lsa</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/misstankta-personer/#_Dokumentation">Misst&#xE4;nkta personer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturens-verksamheter/museer/#_Dokumentation">Museer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-bransle-gas-och-lagerstatistik/#_Dokumentation">M&#xE5;natlig br&#xE4;nsle-, gas- och lagerstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/#_Dokumentation">M&#xE5;natlig elstatistik och byten av elleverant&#xF6;r</a></li>
+
+            </ul>
+            <a name="N"></a>
+            <h2 class="margin-top-double">N</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/#_Dokumentation">Namnstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/#_Dokumentation">Nationalr&#xE4;kenskaper &#xF6;vrigt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/#_Dokumentation">Nationalr&#xE4;kenskaper, kvartals- och &#xE5;rsber&#xE4;kningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-tidigare-definitioner/#_Dokumentation">Nationalr&#xE4;kenskaper, tidigare definitioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/#_Dokumentation">Nationella folkh&#xE4;lsoenk&#xE4;ten H&#xE4;lsa p&#xE5; lika villkor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-gymnasieskolan-resultat/#_Dokumentation">Nationella prov gymnasieskolan: resultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-arskurs-3-resultat/#_Dokumentation">Nationella prov &#xE5;rskurs 3: resultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-arskurs-6-resultat/#_Dokumentation">Nationella prov &#xE5;rskurs 6: resultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-arskurs-9-resultat/#_Dokumentation">Nationella prov &#xE5;rskurs 9: resultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/nationella-trygghetsundersokningen/#_Dokumentation">Nationella trygghetsunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/#_Dokumentation">Normsk&#xF6;rdar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-kvartal/#_Dokumentation">Nystartade f&#xF6;retag, kvartal</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-ar/#_Dokumentation">Nystartade f&#xF6;retag, &#xE5;r</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/nyttjande-av-studiestod/#_Dokumentation">Nyttjande av studiest&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/natanslutna-solcellsanlaggningar/#_Dokumentation">N&#xE4;tanslutna solcellsanl&#xE4;ggningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/notkreatur-i-december/#_Dokumentation">N&#xF6;tkreatur i december</a></li>
+
+            </ul>
+            <a name="O"></a>
+            <h2 class="margin-top-double">O</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/amnesovergripande-statistik/offentlig-ekonomi-ovrigt/#_Dokumentation">Offentlig ekonomi &#xF6;vrigt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/#_Dokumentation">Offentliga finanser och till&#xE4;gg till EU:s konvergenskriterier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-forvaltningens-sparande-och-bruttoskuld-enligt-eu-s-konvergenskriterier/#_Dokumentation">Offentliga f&#xF6;rvaltningens sparande och bruttoskuld enligt EU:s konvergenskriterier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/samhallets-kulturutgifter/offentliga-utgifter-for-kultur/#_Dokumentation">Offentliga utgifter f&#xF6;r kultur</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/#_Dokumentation">Offentligt &#xE4;gda f&#xF6;retag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oforadlat-tradbransle/#_Dokumentation">Of&#xF6;r&#xE4;dlat tr&#xE4;dbr&#xE4;nsle</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/ohalsomatt/#_Dokumentation">Oh&#xE4;lsom&#xE5;tt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oljeleveranser--kommunvis-redovisning/#_Dokumentation">Oljeleveranser &#x2013; kommunvis redovisning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/omsattning-inom-tjanstesektorn/#_Dokumentation">Oms&#xE4;ttning inom tj&#xE4;nstesektorn</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/omvardnadsbidrag/#_Dokumentation">Omv&#xE5;rdnadsbidrag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/#_Dokumentation">Outhyrda bostadsl&#xE4;genheter i flerbostadshus</a></li>
+
+            </ul>
+            <a name="P"></a>
+            <h2 class="margin-top-double">P</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/#_Dokumentation">Partisympatiunders&#xF6;kningen (PSU)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/pedagogisk-personal-lararregistret/#_Dokumentation">Pedagogisk personal (l&#xE4;rarregistret)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/allman-pension-och-pensionsrelaterade-formaner/pensioner-och-pensionsrelaterade-formaner-i-det-allmanna-pensionssystemet/#_Dokumentation">Pensioner och pensionsrelaterade f&#xF6;rm&#xE5;ner i det allm&#xE4;nna pensionssystemet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/personal-vid-universitet-och-hogskolor/#_Dokumentation">Personal vid universitet och h&#xF6;gskolor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/personalutbildning-i-foretagen/#_Dokumentation">Personalutbildning i f&#xF6;retagen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/personalutbildningsstatistik/#_Dokumentation">Personalutbildningsstatistik </a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/rattsliga-foljder-av-brott/personer-lagforda-for-brott/#_Dokumentation">Personer lagf&#xF6;rda f&#xF6;r brott</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/rattsliga-foljder-av-brott/personer-lagforda-for-narkotikabrott/#_Dokumentation">Personer lagf&#xF6;rda f&#xF6;r narkotikabrott</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/polisanmalda-hatbrott/#_Dokumentation">Polisanm&#xE4;lda hatbrott</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/politikernas-trygghetsundersokning/#_Dokumentation">Politikernas trygghetsunders&#xF6;kning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/brev--och-paketdistribution/postverksamhet/#_Dokumentation">Postverksamhet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/#_Dokumentation">Priser f&#xF6;r nyproducerade bost&#xE4;der</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/priser-pa-skogsmark/#_Dokumentation">Priser p&#xE5; skogsmark</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/#_Dokumentation">Prisindex i producent- och importled (PPI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/prisindex-och-priser-pa-livsmedelsomradet-201812/#_Dokumentation">Prisindex och priser p&#xE5; livsmedelsomr&#xE5;det</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/produktion-av-biogas-och-rotrester/#_Dokumentation">Produktion av biogas och r&#xF6;trester</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/#_Dokumentation">Produktionsv&#xE4;rdeindex (PVI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/punktlighet-pa-jarnvag/#_Dokumentation">Punktlighet p&#xE5; j&#xE4;rnv&#xE4;g</a></li>
+
+            </ul>
+            <a name="R"></a>
+            <h2 class="margin-top-double">R</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/rederistatistik/#_Dokumentation">Rederistatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/regional-jamstalldhetsstatistik/#_Dokumentation">Regional j&#xE4;mst&#xE4;lldhetsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/regional-linjetrafik/#_Dokumentation">Regional linjetrafik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/regionala-matchningsindikatorer/#_Dokumentation">Regionala matchningsindikatorer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/regionalrakenskaper/#_Dokumentation">Regionalr&#xE4;kenskaper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/#_Dokumentation">Registerbaserad arbetsmarknadsstatistik (RAMS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/registerbaserad-folk--och-bostadsrakning-census/#_Dokumentation">Registerbaserad folk- och bostadsr&#xE4;kning, Census</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-lonesummestatistik-lsum/#_Dokumentation">Registerbaserad l&#xF6;nesummestatistik (LSUM)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/temaomraden/integration/regeringsuppdraget-registerdata-for-integration/#_Dokumentation">Registerdata f&#xF6;r integration</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/registrerade-forsakrade/#_Dokumentation">Registrerade f&#xF6;rs&#xE4;krade</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/transportmonster/resvanor-i-sverige/#_Dokumentation">Resvanor i Sverige</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/rotpostpriser/#_Dokumentation">Rotpostpriser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/rundvirkespriser/#_Dokumentation">Rundvirkespriser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/rakenskapssammandrag-for-kommuner-och-regioner/#_Dokumentation">R&#xE4;kenskapssammandrag f&#xF6;r kommuner och regioner</a></li>
+
+            </ul>
+            <a name="S"></a>
+            <h2 class="margin-top-double">S</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning2/#_Dokumentation">Situationen p&#xE5; arbetsmarknaden f&#xF6;r personer med funktionsneds&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/#_Dokumentation">Situationen p&#xE5; arbetsmarknaden f&#xF6;r personer med funktionsneds&#xE4;ttning &#x2013; &#xE4;ldre statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/sjukfall/#_Dokumentation">Sjukfall</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/sjotrafik/#_Dokumentation">Sj&#xF6;trafik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/skogsdata--aktuella-uppgifter-om-de-svenska-skogarna/#_Dokumentation">Skogsdata &#x2013; aktuella uppgifter om de svenska skogarna</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/skogentrepenorer/#_Dokumentation">Skogsentrepen&#xF6;rer</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skogsmark-for-naturvardsandamal/#_Dokumentation">Skogsmark f&#xF6;r naturv&#xE5;rds&#xE4;ndam&#xE5;l</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/skogsskador/#_Dokumentation">Skogsskador</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/amnesovergripande-statistik/skogsstatistisk-arsbok/#_Dokumentation">Skogsstatistisk &#xE5;rsbok</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/skogsstyrelsens-formella-skydd-och-ersattningar/#_Dokumentation">Skogsstyrelsens formella skydd och ers&#xE4;ttningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/skolbiblioteksstatistik/#_Dokumentation">Skolbiblioteksstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/skolundersokningen-om-brott-sub/#_Dokumentation">Skolunders&#xF6;kningen om brott (SUB)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/#_Dokumentation">Skyddad natur</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-potatis/#_Dokumentation">Sk&#xF6;rd av potatis</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-slattervall/#_Dokumentation">Sk&#xF6;rd av sl&#xE5;ttervall</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/#_Dokumentation">Sk&#xF6;rd av spannm&#xE5;l, trinds&#xE4;d och oljev&#xE4;xter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-for-ekologisk-och-konventionell-odling/#_Dokumentation">Sk&#xF6;rd f&#xF6;r ekologisk och konventionell odling</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skordeprognos-for-spannmal-och-oljevaxter/#_Dokumentation">Sk&#xF6;rdeprognos f&#xF6;r spannm&#xE5;l och oljev&#xE4;xter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/sparbarometern/#_Dokumentation">Sparbarometern</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/specialskolan-elever-per-15-oktober/#_Dokumentation">Specialskolan: elever per 15 oktober</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/statens-nettolanebehov/#_Dokumentation">Statens nettol&#xE5;nebehov</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/amning/#_Dokumentation">Statistik om amning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/dodsorsaker/dodsorsaker/#_Dokumentation">Statistik om d&#xF6;dsorsaker</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/ekonomiskt-bistand-arsstatistik/#_Dokumentation">Statistik om ekonomiskt bist&#xE5;nd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/familjeratt/familjeratt/#_Dokumentation">Statistik om familjer&#xE4;tt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/graviditeter-forlossningar-och-nyfodda-barn/#_Dokumentation">Statistik om graviditeter, f&#xF6;rlossningar och nyf&#xF6;dda barn</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/hjartinfarkter/#_Dokumentation">Statistik om hj&#xE4;rtinfarkter</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/personer-med-funktionsnedsattning--insatser-enligt-lss/#_Dokumentation">Statistik om insatser enligt lagen om st&#xF6;d och service till vissa funktionshindrade</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/statistik-om-insatser-till-vuxna-personer-med-skadligt-bruk-och-beroende/#_Dokumentation">Statistik om insatser till vuxna personer med skadligt bruk och beroende</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/familjeradgivning/kommunal-familjeradgivning/#_Dokumentation">Statistik om kommunal familjer&#xE5;dgivning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/kommunal-halso-och-sjukvard-till-aldre/#_Dokumentation">Statistik om kommunala h&#xE4;lso- och sjukv&#xE5;rdsinsatser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/statistik-om-legitimerad-halso--och-sjukvardspersonal-samt-arbetsmarknadsstatus/#_Dokumentation">Statistik om legitimerad h&#xE4;lso- och sjukv&#xE5;rdspersonal samt arbetsmarknadsstatus</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/lakemedelsstatistik/#_Dokumentation">Statistik om l&#xE4;kemedel</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/cancerincidens-i-sverige/#_Dokumentation">Statistik om nyuppt&#xE4;ckta cancerfall</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/sjukdomar-i-sluten-vard/#_Dokumentation">Statistik om sjukdomar behandlade i sluten v&#xE5;rd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/skador-och-forgiftningar-behandlade-i-sluten-vard/#_Dokumentation">Statistik om skador och f&#xF6;rgiftningar behandlade i sluten v&#xE5;rd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/aldre-vard-och-omsorg-kommunala-insatser/#_Dokumentation">Statistik om socialtj&#xE4;nstinsatser f&#xF6;r &#xE4;ldre</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/statistik-om-socialtjanstinsatser-till-barn-och-unga/#_Dokumentation">Statistik om socialtj&#xE4;nstinsatser till barn och unga</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/personer-med-funktionsnedsattning-vard-och-omsorg-kommunala-insatser-enligt-socialtjanstlagen-samt-halso-och-sjukvardslagen/#_Dokumentation">Statistik om socialtj&#xE4;nstinsatser till personer med funktionsneds&#xE4;ttning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/statistik-om-socialtjanstinsatser-till-aldre-och-personer-med-funktionsnedsattning-efter-regiform/#_Dokumentation">Statistik om socialtj&#xE4;nstinsatser till &#xE4;ldre och personer med funktionsneds&#xE4;ttning efter regiform</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/spadbarnsforaldrars-rokvanor/#_Dokumentation">Statistik om sp&#xE4;dbarnsf&#xF6;r&#xE4;ldrars r&#xF6;kvanor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-stroke/#_Dokumentation">Statistik om stroke</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-tandhalsa/#_Dokumentation">Statistik om tandh&#xE4;lsa</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/statliga-anslag-till-forskning-och-utveckling/#_Dokumentation">Statliga anslag till forskning och utveckling</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/statligt-tandvardsstod/#_Dokumentation">Statligt tandv&#xE5;rdsst&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/strandnara-markanvandning/#_Dokumentation">Strandn&#xE4;ra markanv&#xE4;ndning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/#_Dokumentation">Studenter och examinerade i h&#xF6;gskoleutbildning p&#xE5; grundniv&#xE5; och avancerad niv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/folkbildning/studieforbundsstatistik/#_Dokumentation">Studief&#xF6;rbundsstatistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/aterbetalning-av-studiestod/#_Dokumentation">Studieskulder och inbetalning av studiest&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/svensk-och-utlandskbakgrund-for-studenter-och-doktorander-pa-universitet-och-hogskolor/#_Dokumentation">Svensk och utl&#xE4;ndsk bakgrund f&#xF6;r studenter och doktorander p&#xE5; universitet och h&#xF6;gskolor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/svensk-utbildning-i-utlandet-elever-larare-och-utbildningsresultat/#_Dokumentation">Svensk utbildning i utlandet: Elever, l&#xE4;rare och utbildningsresultat</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/svenska-koncerner-med-dotterbolag-i-utlandet/#_Dokumentation">Svenska koncerner med dotterbolag i utlandet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/svenska-och-utlandska-fartyg-i-svensk-regi/#_Dokumentation">Svenska och utl&#xE4;ndska fartyg i svensk regi</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/amnesovergripande-statistik/sveriges-ekonomi-statistiskt-perspektiv/#_Dokumentation">Sveriges ekonomi &#x2013; statistiskt perspektiv</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/#_Dokumentation">Syssels&#xE4;ttning i jordbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-skogsbruket/sysselsattning-i-skogsbruket/#_Dokumentation">Syssels&#xE4;ttning i skogsbruket</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/#_Dokumentation">Syssels&#xE4;ttning och inkomster efter avslutad utbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/#_Dokumentation">Syssels&#xE4;ttningsprognos</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/#_Dokumentation">S&#xF6;kande och antagna till h&#xF6;gskoleutbildning p&#xE5; grundniv&#xE5; och avancerad niv&#xE5;</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/sotvatten--miljotillstand/#_Dokumentation">S&#xF6;tvatten &#x2013; milj&#xF6;tillst&#xE5;nd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/#_Dokumentation">S&#xF6;tvatten &#x2013; milj&#xF6;tillst&#xE5;nd milj&#xF6;gifter</a></li>
+
+            </ul>
+            <a name="T"></a>
+            <h2 class="margin-top-double">T</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/beskattning/taxeringsutfallet/#_Dokumentation">Taxeringsutfallet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/elektronisk-kommunikation/televerksamhet/#_Dokumentation">Televerksamhet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/tiden-mellan-gymnasieskolan-och-universitetet-hogskolan/#_Dokumentation">Tiden mellan gymnasieskolan och universitetet/h&#xF6;gskolan</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/tidigare-folk-och-bostadsrakningar-1960-1990-fob/#_Dokumentation">Tidigare folk- och bostadsr&#xE4;kningar 1960&#x2013;1990 (FoB)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/utfallet-av-statsbudgeten/tidsserier-statsbudgeten/#_Dokumentation">Tidsserier statsbudgeten</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/#_Dokumentation">Tidsunders&#xF6;kningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/tillfallig-foraldrapenning/#_Dokumentation">Tillf&#xE4;llig f&#xF6;r&#xE4;ldrapenning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/#_Dokumentation">Tj&#xE4;nsteproduktionsindex (TjPI)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/torv/#_Dokumentation">Torv</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/pensioner/total-pension/#_Dokumentation">Total pension</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/transportsektorns-energianvandning/#_Dokumentation">Transportsektorns energianv&#xE4;ndning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/#_Dokumentation">Trender och prognoser om utbildning och arbetsmarknad</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/tradbransle--torv--och-avfallspriser/#_Dokumentation">Tr&#xE4;dbr&#xE4;nsle-, torv- och avfallspriser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/tradgardsodlingens-frukttrad/#_Dokumentation">Tr&#xE4;dg&#xE5;rdsodlingens frukttr&#xE4;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/tradgardsodlingens-produktion/#_Dokumentation">Tr&#xE4;dg&#xE5;rdsodlingens produktion</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/tradgardsodlingens-struktur/#_Dokumentation">Tr&#xE4;dg&#xE5;rdsodlingens struktur</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/tradgardsodlingens-vaxthus/#_Dokumentation">Tr&#xE4;dg&#xE5;rdsodlingens v&#xE4;xthus</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/turism/turismsatellitrakenskaper/#_Dokumentation">Turismsatellitr&#xE4;kenskaper</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/#_Dokumentation">T&#xE4;torter och sm&#xE5;orter</a></li>
+
+            </ul>
+            <a name="U"></a>
+            <h2 class="margin-top-double">U</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/underhallsstod/#_Dokumentation">Underh&#xE5;llsst&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/amnesovergripande-statistik/undersokning-av-fortroendevalda-i-kommuner-och-regioner/#_Dokumentation">Unders&#xF6;kning av f&#xF6;rtroendevalda i kommuner och regioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-barns-levnadsforhallanden/#_Dokumentation">Unders&#xF6;kningarna av barns levnadsf&#xF6;rh&#xE5;llanden</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-levnadsforhallanden-ulf-silc/#_Dokumentation">Unders&#xF6;kningarna av levnadsf&#xF6;rh&#xE5;llanden (ULF)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/amnesovergripande-statistik/undersokningen-om-den-lokala-demokratin-i-kommuner-och-regioner/#_Dokumentation">Unders&#xF6;kningen om den lokala demokratin i kommuner och regioner</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/undersokningen-om-vuxnas-deltagande-i-utbildning/#_Dokumentation">Unders&#xF6;kningen om vuxnas deltagande i utbildning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/uppfoljning-av-nystartade-foretag/#_Dokumentation">Uppf&#xF6;ljning av nystartade f&#xF6;retag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/utbetalning-av-studiestod/#_Dokumentation">Utbetalning av studiest&#xF6;d</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/utbetalningar-av-arbets-och-yrkesskadelivrantor-exkl-arbetsskadelivrantor-till-efterlevande/#_Dokumentation">Utbetalningar av arbets- och yrkesskadelivr&#xE4;ntor (exkl. arbetsskadelivr&#xE4;ntor till efterlevande)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/utbildningsresultat-riksniva-sveriges-officiella-statistik-om-forskola-skola-och-vuxenutbildning-del-1/#_Dokumentation">Utbildningsresultat riksniv&#xE5; &#x2013; Sveriges officiella statistik om f&#xF6;rskola, skola och vuxenutbildning. Del 1</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/utgifter-for-det-sociala-skyddet-i-sverige-och-europa-samt-utgifternas-finansiering-esspros/#_Dokumentation">Utgifter f&#xF6;r det sociala skyddet i Sverige och Europa samt utgifternas finansiering (ESSPROS)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/utlandska-foretag/#_Dokumentation">Utl&#xE4;ndska f&#xF6;retag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-tjanster/#_Dokumentation">Utrikeshandel med tj&#xE4;nster</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/#_Dokumentation">Utrikeshandel med varor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-ovrigt/#_Dokumentation">Utrikeshandel, &#xF6;vrigt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-av-luftfororeningar/#_Dokumentation">Utsl&#xE4;pp av luftf&#xF6;roreningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/#_Dokumentation">Utsl&#xE4;pp och upptag av v&#xE4;xthusgaser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-till-vatten-och-slamproduktion--kommunala-reningsverk-skogsindustri-samt-viss-ovrig-industri/#_Dokumentation">Utsl&#xE4;pp till vatten och slamproduktion &#x2013; Kommunala reningsverk, skogsindustri samt viss &#xF6;vrig industri</a></li>
+
+            </ul>
+            <a name="V"></a>
+            <h2 class="margin-top-double">V</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/transportmonster/varuflodesundersokningen/#_Dokumentation">Varufl&#xF6;desunders&#xF6;kningen</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/#_Dokumentation">Vattenbruk</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/#_Dokumentation">Vattenuttag och vattenanv&#xE4;ndning i Sverige</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/vegetations--och-standortsforhallanden/#_Dokumentation">Vegetations- och st&#xE5;ndortsf&#xF6;rh&#xE5;llanden</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/#_Dokumentation">Verksamhetsomr&#xE5;den och handelsomr&#xE5;den</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/virkesforrad-och-tradbiomassa/#_Dokumentation">Virkesf&#xF6;rr&#xE5;d och tr&#xE4;dbiomassa</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/vuxnas-larande/#_Dokumentation">Vuxnas l&#xE4;rande</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/vardbidrag/#_Dokumentation">V&#xE5;rdbidrag</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/vagtrafikskador/#_Dokumentation">V&#xE4;gtrafikskador</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/valfard-scb-s-tidskrift-om-arbetsliv-demografi-och-valfard/#_Dokumentation">V&#xE4;lf&#xE4;rd &#x2013; SCB:s tidskrift om arbetsliv, demografi och v&#xE4;lf&#xE4;rd</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/amnesovergripande-statistik/vardepappersinnehav-vinn/#_Dokumentation">V&#xE4;rdepappersinnehav (VINN)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jord--och-tradgardsbruket--anvandning-i-grodor/#_Dokumentation">V&#xE4;xtskyddsmedel i jord- och tr&#xE4;dg&#xE5;rdsbruket &#x2013; anv&#xE4;ndning i gr&#xF6;dor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jordbruket-beraknat-antal-hektardoser/#_Dokumentation">V&#xE4;xtskyddsmedel i jordbruket, ber&#xE4;knat antal hektardoser</a></li>
+
+            </ul>
+            <a name="Y"></a>
+            <h2 class="margin-top-double">Y</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/#_Dokumentation">Yrkesh&#xF6;gskolan</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/#_Dokumentation">Yrkesregistret med yrkesstatistik</a></li>
+
+            </ul>
+            <a name="&#xC5;"></a>
+            <h2 class="margin-top-double">&#xC5;</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/#_Dokumentation">&#xC5;rlig energistatistik (el, gas och fj&#xE4;rrv&#xE4;rme)</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arlig-tillvaxt/#_Dokumentation">&#xC5;rlig tillv&#xE4;xt</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/arliga-energibalanser/#_Dokumentation">&#xC5;rliga energibalanser</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/arsrapport-for-universitet-och-hogskolor/#_Dokumentation">&#xC5;rsrapport f&#xF6;r universitet och h&#xF6;gskolor</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/aterfall-i-brott/aterfall-i-brott--preliminar-statistik/#_Dokumentation">&#xC5;terfall i brott &#x2013; prelimin&#xE4;r statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/aterfall-i-brott/aterfall-i-brott--slutlig-statistik/#_Dokumentation">&#xC5;terfall i brott &#x2013; slutlig statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/atervaxternas-kvalitet/#_Dokumentation">&#xC5;terv&#xE4;xternas kvalitet</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/atgarder-i-skogsbruket/#_Dokumentation">&#xC5;tg&#xE4;rder i skogsbruket</a></li>
+
+            </ul>
+            <a name="&#xD6;"></a>
+            <h2 class="margin-top-double">&#xD6;</h2>
+            <ul>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/overblick-over-kemikalier/#_Dokumentation">&#xD6;verblick &#xF6;ver kemikalier</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/overgang-gymnasieskola--eftergymnasiala-utbildningar/#_Dokumentation">&#xD6;verg&#xE5;ng gymnasieskola &#x2013; eftergymnasiala utbildningar</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/ovrig-statistik-om-markanvandning/#_Dokumentation">&#xD6;vrig statistik om markanv&#xE4;ndning</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/ovrigt/ovriga-publikationer-ej-statistik/#_Dokumentation">&#xD6;vriga publikationer, ej statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/ovrigt/ovriga-publikationer-statistik/#_Dokumentation">&#xD6;vriga publikationer, statistik</a></li>
+                    <li><a href="https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/ovrigt/ovriga-statistiknyheter/#_Dokumentation">&#xD6;vriga statistiknyheter</a></li>
+
+            </ul>
+</div>
+
+
+</div>
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="share centered-container">
+            <div class="share-wrapper clearfix">
+                <span class="text-dark-gray share-label h5">Dela sidan:</span>
+                <div class="share-icons">
+                    <a href="mailto:?subject=Dokumentation&amp;body=http%3A%2F%2Fwww.scb.se%2Fdokumentation%2F"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><use xlink:href="/img/icons_social_media.svg#mail"></use></svg><span class="share-fallback-text">Dela denna sida via e-post</span></a>
+                    <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.scb.se%2Fdokumentation%2F"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#facebook"></use></svg><span class="share-fallback-text">Dela denna sida via Facebook</span></a>
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.scb.se%2Fdokumentation%2F"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#linkedin"></use></svg><span class="share-fallback-text">Dela denna sida via LinkedIn</span></a>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+
+
+    
+    <footer id="footer">
+            <div class="centered-container">
+    <div id="sitemap" class="row inverted footer-bottom">
+            <div>
+                <h2 class="h3">Aktuell statistik</h2>
+                <ul>
+                        <li><a href="/hitta-statistik/statistiknyheter/">Statistiknyheter</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Nyheter och press</a></li>
+                        <li><a href="/hitta-statistik/publiceringskalendern/">Publiceringskalendern</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Hitta snabbt</h2>
+                <ul>
+                        <li><a href="/om-scb/kontakta-oss/">Kontakta oss</a></li>
+                        <li><a href="/om-scb/jobba-hos-oss/">Jobba hos oss</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Presskontakt</a></li>
+                        <li><a href="/hitta-statistik/rapporter/">Rapporter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Om inneh&#xE5;llet</h2>
+                <ul>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor">Om webbplatsen</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/tillganglighetsredogorelse/">Tillg&#xE4;nglighetsredog&#xF6;relse</a></li>
+                        <li><a href="/dokumentation/ordlista/">Ordlista</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/">Om kakor (cookies)</a></li>
+                        <li><a href="/om-scb/personuppgifter/">Personuppgifter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">F&#xF6;lj SCB</h2>
+                <ul>
+                        <li><a href="/om-scb/nyheter-och-press/bevaka-nyheter/">Bevaka nyheter fr&#xE5;n SCB</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/sociala-medier/">SCB i sociala medier</a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+<div class="copyright inverted">
+    <img class="footer_logo" src="/img/scb-logo.svg#inverted" alt="SCB Logotyp" width="40" height="48" />
+    <div class="footer-vision">Statistikmyndigheten SCB f&#xF6;rser samh&#xE4;llet med statistik f&#xF6;r beslutsfattande, debatt och forskning.</div>
+</div>
+    </footer>
+
+        
+<script type="module" src="/js/v-86385/scb.js"></script>
+
+
+ 
+
+
+
+
+    
+    
+        <script src='/js/v-4/tracking/matomo.js' async id="mtmo" data-key="9zXnh5Ss"></script>
+
+
+</body>
+
+</html>

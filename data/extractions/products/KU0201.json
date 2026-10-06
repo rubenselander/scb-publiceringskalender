@@ -1,0 +1,172 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/KU0201",
+    "response_url": "https://www.scb.se/KU0201",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturarv/kulturmiljostatistik/",
+    "fetched_at": "2026-10-05T13:12:04.760846Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "46baef2396b3dc4691e9291f06aeca390e6e05482477c68bae4ea0ffa8f51a95",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "KU0201",
+  "product_code_source": "calendar",
+  "title": "Kulturmiljöstatistik",
+  "short_address": "https://www.scb.se/ku0201",
+  "summary": "Statistiken innehåller uppgifter om bland annat skyddade byggnader och fornlämningar.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Myndigheten för kulturanalys",
+    "link": {
+      "text": "Myndigheten för kulturanalys",
+      "href": "http://www.kulturanalys.se/statistik/",
+      "url": "http://www.kulturanalys.se/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Kulturmiljö",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=247",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=247"
+    },
+    {
+      "text": "Kulturmiljövård",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=248",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=248"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Kulturmiljöstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken innehåller uppgifter om bland annat skyddade byggnader och fornlämningar."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kulturmiljöstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Myndigheten för kulturanalys"
+      ],
+      "links": [
+        {
+          "text": "Myndigheten för kulturanalys",
+          "href": "http://www.kulturanalys.se/statistik/",
+          "url": "http://www.kulturanalys.se/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kulturmiljöstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Myndigheten för kulturanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "031-395 20 00",
+        "E-post",
+        "statistik@kulturanalys.se"
+      ],
+      "links": [
+        {
+          "text": "031-395 20 00",
+          "href": "tel:031-395 20 00",
+          "url": "tel:031-395 20 00"
+        },
+        {
+          "text": "statistik@kulturanalys.se",
+          "href": "mailto:statistik@kulturanalys.se",
+          "url": "mailto:statistik@kulturanalys.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kulturmiljöstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Kulturmiljö",
+        "Kulturmiljövård"
+      ],
+      "links": [
+        {
+          "text": "Kulturmiljö",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=247",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=247"
+        },
+        {
+          "text": "Kulturmiljövård",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=248",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=248"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kulturmiljöstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/ku0201"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

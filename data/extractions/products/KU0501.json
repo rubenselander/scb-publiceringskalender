@@ -1,0 +1,167 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/KU0501",
+    "response_url": "https://www.scb.se/KU0501",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/samhallets-kulturutgifter/offentliga-utgifter-for-kultur/",
+    "fetched_at": "2026-10-05T13:12:08.015750Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "9f3e001c679e26724496371ca10f18dc86a9e4123a4efb790eaf9721048e3595",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "KU0501",
+  "product_code_source": "calendar",
+  "title": "Offentliga utgifter för kultur",
+  "short_address": "https://www.scb.se/ku0501",
+  "summary": "Statistiken visar statens, regionernas och kommunernas kulturutgifter fördelade på olika sätt.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-11-05",
+  "next_publication_date": "2026-11-05",
+  "responsible_agency": {
+    "label": "Myndigheten för kulturanalys",
+    "link": {
+      "text": "Myndigheten för kulturanalys",
+      "href": "http://www.kulturanalys.se/statistik/",
+      "url": "http://www.kulturanalys.se/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Kulturutgifter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=254",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=254"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Offentliga utgifter för kultur",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2026-11-05",
+        "Statistiken visar statens, regionernas och kommunernas kulturutgifter fördelade på olika sätt."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-05",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=KU0501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=KU0501&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentliga utgifter för kultur",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Myndigheten för kulturanalys"
+      ],
+      "links": [
+        {
+          "text": "Myndigheten för kulturanalys",
+          "href": "http://www.kulturanalys.se/statistik/",
+          "url": "http://www.kulturanalys.se/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentliga utgifter för kultur",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Myndigheten för kulturanalys",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "031-395 20 00",
+        "E-post",
+        "statistik@kulturanalys.se"
+      ],
+      "links": [
+        {
+          "text": "031-395 20 00",
+          "href": "tel:031-395 20 00",
+          "url": "tel:031-395 20 00"
+        },
+        {
+          "text": "statistik@kulturanalys.se",
+          "href": "mailto:statistik@kulturanalys.se",
+          "url": "mailto:statistik@kulturanalys.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentliga utgifter för kultur",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Kulturutgifter"
+      ],
+      "links": [
+        {
+          "text": "Kulturutgifter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=254",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=254"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentliga utgifter för kultur",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/ku0501"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

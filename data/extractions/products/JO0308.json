@@ -1,0 +1,129 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/JO0308",
+    "response_url": "https://www.scb.se/JO0308",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/amnesovergripande-statistik/skogsstatistisk-arsbok/",
+    "fetched_at": "2026-10-05T13:11:35.973335Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "20a6e1d253b23f9fb2e110f981be5d85c04f71ddb07df43f06e109b433acf99e",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "JO0308",
+  "product_code_source": "calendar",
+  "title": "Skogsstatistisk årsbok",
+  "short_address": "https://www.scb.se/jo0308",
+  "summary": "Årsboken uppdateras inte längre. Årsboken innehåller information om förhållanden och händelser inom svenskt skogsbruk och svensk skogsnäring. Skogsstatistisk årsbok har publicerats sedan 1940-talet.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Skogsstyrelsen",
+    "link": {
+      "text": "Skogsstyrelsen",
+      "href": "http://www.skogsstyrelsen.se/statistik",
+      "url": "http://www.skogsstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Skogsstatistisk årsbok",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Årsboken uppdateras inte längre. Årsboken innehåller information om förhållanden och händelser inom svenskt skogsbruk och svensk skogsnäring. Skogsstatistisk årsbok har publicerats sedan 1940-talet."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsstatistisk årsbok",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Skogsstyrelsen"
+      ],
+      "links": [
+        {
+          "text": "Skogsstyrelsen",
+          "href": "http://www.skogsstyrelsen.se/statistik",
+          "url": "http://www.skogsstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsstatistisk årsbok",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Skogsstyrelsen",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-172 10 00",
+        "E-post",
+        "statistik@skogsstyrelsen.se"
+      ],
+      "links": [
+        {
+          "text": "010-172 10 00",
+          "href": "tel:010-172 10 00",
+          "url": "tel:010-172 10 00"
+        },
+        {
+          "text": "statistik@skogsstyrelsen.se",
+          "href": "mailto:statistik@skogsstyrelsen.se",
+          "url": "mailto:statistik@skogsstyrelsen.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skogsstatistisk årsbok",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/jo0308"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

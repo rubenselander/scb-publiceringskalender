@@ -1,0 +1,14 @@
+{
+  "request": {
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/",
+    "method": "GET",
+    "params": {},
+    "json_body": null
+  },
+  "final_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-05T12:59:34.355267Z",
+  "sha256": "4b00be929bb11559e93ddfafb98c1dd0c7a64a46f5b6841760ea1c20c66ec45d",
+  "encoding": "utf-8"
+}

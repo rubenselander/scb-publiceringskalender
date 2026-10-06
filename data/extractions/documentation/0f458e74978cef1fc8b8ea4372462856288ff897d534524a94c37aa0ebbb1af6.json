@@ -1,0 +1,21 @@
+{
+  "provenance": {
+    "requested_url": "https://www.scb.se/MI9999",
+    "response_url": "https://www.scb.se/MI9999",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/ovrigt/miljo-ovrigt/",
+    "fetched_at": "2026-10-05T13:12:50.955781Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "06339fd79d4a1da1dd7331f9056a1b1c61ea155de36b6e8fd3c8f877188f3918",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent section[aria-labelledby='_Dokumentation']",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Miljö övrigt",
+  "product_code": "MI9999",
+  "has_documentation_section": false,
+  "groups": []
+}

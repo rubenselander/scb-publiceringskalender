@@ -1,0 +1,2511 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0208",
+    "response_url": "https://www.scb.se/AM0208",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/",
+    "fetched_at": "2026-10-05T13:10:07.125275Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "93d833968c4ef1c10688236b36eed83e2415d6179d63b1ccf2f3ed55dcb4b342",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0208",
+  "product_code_source": "calendar",
+  "title": "Yrkesregistret med yrkesstatistik",
+  "short_address": "https://www.scb.se/am0208",
+  "summary": "Statistiken visar hur många som arbetar inom olika typer av yrken. Du kan också se hur yrkesutvecklingen inom olika branscher och samhällssektorer ser ut.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2027-01-19",
+  "next_publication_date": "2027-01-19",
+  "responsible_agency": null,
+  "notices": [
+    "Från referensår 2022 bygger yrkesregistret på en ny källa, Befolkningens arbetsmarknadsstatus, BAS i stället för som tidigare Registerbaserad arbetsmarknadsstatistik, RAMS. Det innebär att statistiken inte är helt jämförbar med tidigare årgångar eftersom det är olika metoder för att ta fram BAS respektive RAMS. Mer att läsa om skillnaden finns här:",
+    "Skillnader mellan RAMS och BAS årsregister (pdf)",
+    "BAS, är ny registerbaserad statistik som ersätter RAMS och har som syfte att med hjälp av administrativa data beskriva utbudet av arbetskraft i Sverige för månad, kvartal och år. BAS årsregister utgör grunden till Yrkesregistret.",
+    "Statistiken i BAS är mer omfattande och redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen."
+  ],
+  "tags": [
+    {
+      "text": "Arbete",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+    },
+    {
+      "text": "Yrke",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: 2027-01-19",
+        "Statistiken visar hur många som arbetar inom olika typer av yrken. Du kan också se hur yrkesutvecklingen inom olika branscher och samhällssektorer ser ut."
+      ],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-19",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0208&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0208&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Information gällande ny källa som påverkar Yrkesregistret 2022",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Från referensår 2022 bygger yrkesregistret på en ny källa, Befolkningens arbetsmarknadsstatus, BAS i stället för som tidigare Registerbaserad arbetsmarknadsstatistik, RAMS. Det innebär att statistiken inte är helt jämförbar med tidigare årgångar eftersom det är olika metoder för att ta fram BAS respektive RAMS. Mer att läsa om skillnaden finns här:",
+        "Skillnader mellan RAMS och BAS årsregister (pdf)",
+        "BAS, är ny registerbaserad statistik som ersätter RAMS och har som syfte att med hjälp av administrativa data beskriva utbudet av arbetskraft i Sverige för månad, kvartal och år. BAS årsregister utgör grunden till Yrkesregistret.",
+        "Statistiken i BAS är mer omfattande och redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen."
+      ],
+      "links": [
+        {
+          "text": "Skillnader mellan RAMS och BAS årsregister (pdf)",
+          "href": "/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_rams_och_bas_arsregister.pdf",
+          "url": "https://www.scb.se/contentassets/592dcafe2a3b4e65b8e5434796bab0af/skillnader_mellan_rams_och_bas_arsregister.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-01-16",
+        "Det vanligaste yrket 2024 var Undersköterskor inom hemtjänst, hemsjukvård och äldreboende. Det var även det vanligaste yrket för kvinnor. Vanligaste yrket för män var Mjukvaru- och systemutvecklare."
+      ],
+      "links": [
+        {
+          "text": "Ojämn könsfördelning i de flesta stora yrkena",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/statistiknyhet/yrkesregistret-med-yrkesstatistik-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/statistiknyhet/yrkesregistret-med-yrkesstatistik-2024/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=AM0208",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=AM0208"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "30 vanligaste yrkena",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/30-vanligaste-yrkena/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/30-vanligaste-yrkena/"
+        },
+        {
+          "text": "20 vanligaste yrkena för kvinnor",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/20-vanligaste-yrkena-for-kvinnor/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/20-vanligaste-yrkena-for-kvinnor/"
+        },
+        {
+          "text": "20 vanligaste yrkena för män",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/20-vanligaste-yrkena-for-man/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/20-vanligaste-yrkena-for-man/"
+        },
+        {
+          "text": "25 yrken med högsta medelåldern för kvinnor",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelaldern-for-kvinnor/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelaldern-for-kvinnor/"
+        },
+        {
+          "text": "25 yrken med högsta medelåldern för män",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelaldern-for-man/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelaldern-for-man/"
+        },
+        {
+          "text": "25 yrken med högsta medelålder totalt",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelalder-totalt/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/25-yrken-med-hogsta-medelalder-totalt/"
+        },
+        {
+          "text": "Andel kvinnor och män i chefsposition per kommun  (dagbef)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-kvinnor-och-man-i-chefsposition-per-kommun--dagbef/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-kvinnor-och-man-i-chefsposition-per-kommun--dagbef/"
+        },
+        {
+          "text": "Andel kvinnor och män i chefspositioner",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-kvinnor-och-man-i-chefspositioner/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-kvinnor-och-man-i-chefspositioner/"
+        },
+        {
+          "text": "Andel utrikes och inrikes födda efter yrkesområden",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-utrikes-och-inrikes-fodda-efter-yrkesomraden/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/andel-utrikes-och-inrikes-fodda-efter-yrkesomraden/"
+        },
+        {
+          "text": "5 vanligaste yrkena för egenföretagande kvinnor",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/5-vanligaste-yrkena-for-egenforetagande-kvinnor/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/5-vanligaste-yrkena-for-egenforetagande-kvinnor/"
+        },
+        {
+          "text": "5 vanligaste yrkena för egenföretagande män",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/5-vanligaste-yrkena-for-egenforetagande-man/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/tabell-och-diagram/5-vanligaste-yrkena-for-egenforetagande-man/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "30 vanligaste yrkena",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "20 vanligaste yrkena för kvinnor",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "20 vanligaste yrkena för män",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "25 yrken med högsta medelåldern för kvinnor",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "25 yrken med högsta medelåldern för män",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "25 yrken med högsta medelålder totalt",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "Andel kvinnor och män i chefsposition per kommun  (dagbef)",
+          "Tabell",
+          "2026-01-16"
+        ],
+        [
+          "Andel kvinnor och män i chefspositioner",
+          "Diagram",
+          "2026-01-16"
+        ],
+        [
+          "Andel utrikes och inrikes födda efter yrkesområden",
+          "Diagram",
+          "2026-01-16"
+        ],
+        [
+          "5 vanligaste yrkena för egenföretagande kvinnor",
+          "Tabell",
+          "2024-12-19"
+        ],
+        [
+          "5 vanligaste yrkena för egenföretagande män",
+          "Tabell",
+          "2024-12-19"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hela befolkningen 16+ år",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningen 16+ år efter region, sysselsättning, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG1N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG1N"
+        },
+        {
+          "text": "Befolkningen 16+ år efter region, sysselsättning, ålder och kön. År 2001 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG1"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningen 16+ år efter region, sysselsättning, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Befolkningen 16+ år efter region, sysselsättning, ålder och kön. År 2001 - 2018",
+          "2020-03-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda i riket (SSYK3)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64BAS"
+        },
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63N"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66N"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG61"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG62"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2000, ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG63"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2000), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG64"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG65"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG66"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), födelseregion och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG13B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG13B"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), ålder och kön. År 2001 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG20"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), ålder och kön. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG2007"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), arbetsställets sektortillhörighet, ålder och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG18"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), utbildningsnivå SUN 2000, ålder och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG26",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG26"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), utbildningsinriktning (SUN 2000), ålder och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG27",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG27"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), arbetsställets storleksklass och kön. År 2007 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG41",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG41"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG4107",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG4107"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet, ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsnivå SUN 2000, ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), utbildningsinriktning (SUN 2000), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), födelseregion och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), födelseregion och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), ålder och kön. År 2001 - 2010",
+          "2012-03-07"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), ålder och kön. År 2008 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), arbetsställets sektortillhörighet, ålder och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), utbildningsnivå SUN 2000, ålder och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), utbildningsinriktning (SUN 2000), ålder och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), arbetsställets storleksklass och kön. År 2007 - 2010",
+          "2012-03-07"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), arbetsställets storleksklass och kön. År 2008 - 2013",
+          "2015-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda i riket (SSYK4)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53N"
+        },
+        {
+          "text": "Anställda i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54BAS"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54N"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG50"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2000, ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG51"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2000), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG52"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG53"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG54"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), födelseregion och kön. År 2005 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG36",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG36"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), arbetsställets sektortillhörighet och kön. År 2005 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG33",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG33"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), utbildningsnivå SUN 2000, ålder och kön. År 2005 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Yreg34",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Yreg34"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), utbildningsinriktning (SUN 2000), ålder och kön. År 2005 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG35",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG35"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), ålder och kön. År 2005 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG40",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG40"
+        },
+        {
+          "text": "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), ålder och kön. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG4007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG4007"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2020, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2020), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsnivå SUN 2000, ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), utbildningsinriktning (SUN 2000), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), födelseregion och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), födelseregion och kön. År 2005 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), arbetsställets sektortillhörighet och kön. År 2005 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), utbildningsnivå SUN 2000, ålder och kön. År 2005 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), utbildningsinriktning (SUN 2000), ålder och kön. År 2005 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), näringsgren SNI2002 (grov nivå), ålder och kön. År 2005 - 2010",
+          "2012-03-07"
+        ],
+        [
+          "Anställda 16-64 år i riket efter yrke (4-siffrig SSYK 96), näringsgren SNI2007 (grov nivå), ålder och kön. År 2008 - 2013",
+          "2015-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda efter bostadens belägenhet (nattbefolkning) (SSYK3)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55N"
+        },
+        {
+          "text": "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG55"
+        },
+        {
+          "text": "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 96), ålder och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG14"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med bostad i regionen (nattbef) efter län, yrke (3-siffrig SSYK 96), ålder och kön. År 2001 - 2013",
+          "2015-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda efter arbetsställets belägenhet (dagbefolkning) (SSYK3)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56N"
+        },
+        {
+          "text": "Anställda med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57N"
+        },
+        {
+          "text": "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58N"
+        },
+        {
+          "text": "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59N"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG56"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG57"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG58"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG59"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå) och kön. År 2001 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG21",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG21"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå) och kön. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG2107",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG2107"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 96), ålder och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG16"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96) och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG17"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), arbetsställets sektortillhörighet och kön. År 2001 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG19"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), näringsgren SNI2007 (grov nivå) och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012) och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 2012), arbetsställets sektortillhörighet och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), näringsgren SNI2002 (grov nivå) och kön. År 2001 - 2010",
+          "2012-03-07"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), näringsgren SNI2007 (grov nivå) och kön. År 2008 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (3-siffrig SSYK 96), ålder och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96) och kön. År 2001 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter region, yrke (3-siffrig SSYK 96), arbetsställets sektortillhörighet och kön. År 2001 - 2013",
+          "2015-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda efter arbetsställets belägenhet (dagbefolkning) (SSYK4)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. Baserat på BAS. År 2020 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60BAS"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60N"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG60"
+        },
+        {
+          "text": "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 96) och kön. År 2005 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG37",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG37"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. Baserat på BAS. År 2020 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 2012) och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Anställda 16-64 år med arbetsplats i regionen (dagbef) efter län, yrke (4-siffrig SSYK 96) och kön. År 2005 - 2013",
+          "2015-02-12"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Egna företagare 16+ (dagbefolkning)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12BAS"
+        },
+        {
+          "text": "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12N"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. Baserat på BAS. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12BAS"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12N"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) fördelat efter näringsgren SNI2007 (grov nivå), kombinatör, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG01EGFN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG01EGFN"
+        },
+        {
+          "text": "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 96), ålder och kön. År 2010 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 96), födelseland och kön. År 2010 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) fördelat efter näringsgren SNI2007 (grov nivå), kombinatör, ålder  och kön. År 2010 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG01EGF",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG01EGF"
+        },
+        {
+          "text": "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG02EGF12"
+        },
+        {
+          "text": "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. År 2014 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YREG03EGF12"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på BAS. År 2022 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. Baserat på BAS. År 2022 - 2024",
+          "2026-01-16"
+        ],
+        [
+          "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Egna företagare i riket (dagbef) fördelat efter näringsgren SNI2007 (grov nivå), kombinatör, ålder och kön. Baserat på RAMS. År 2019 - 2021",
+          "2023-03-08"
+        ],
+        [
+          "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 96), ålder och kön. År 2010 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 96), födelseland och kön. År 2010 - 2013",
+          "2015-02-12"
+        ],
+        [
+          "Egna företagare i riket (dagbef) fördelat efter näringsgren SNI2007 (grov nivå), kombinatör, ålder  och kön. År 2010 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Egna företagare i regionen (dagbef) efter region (NUTS2), yrke (3-siffrig SSYK 2012), ålder och kön. År 2014 - 2018",
+          "2020-03-05"
+        ],
+        [
+          "Egna företagare i riket (dagbef) efter yrke (4-siffrig SSYK 2012), födelseland och kön. År 2014 - 2018",
+          "2020-03-05"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "SSYK",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "SSYK, 4-siffernivå med beskrivning 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKBeskrivning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKBeskrivning"
+        },
+        {
+          "text": "SSYK, 4-siffernivå med benämning 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKBenamning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKBenamning"
+        },
+        {
+          "text": "SSYK, 4-siffernivå med yrken 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKIndex",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSYKIndex"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "SSYK, 4-siffernivå med beskrivning 2017",
+          "2024-06-14"
+        ],
+        [
+          "SSYK, 4-siffernivå med benämning 2017",
+          "2024-06-14"
+        ],
+        [
+          "SSYK, 4-siffernivå med yrken 2017",
+          "2024-06-14"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2018",
+          "href": "/publikation/39648",
+          "url": "https://www.scb.se/publikation/39648"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2017",
+          "href": "/publikation/36892",
+          "url": "https://www.scb.se/publikation/36892"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2016",
+          "href": "/publikation/33659",
+          "url": "https://www.scb.se/publikation/33659"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2015",
+          "href": "/publikation/30521",
+          "url": "https://www.scb.se/publikation/30521"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2014",
+          "href": "/publikation/26966",
+          "url": "https://www.scb.se/publikation/26966"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2013",
+          "href": "/publikation/24444",
+          "url": "https://www.scb.se/publikation/24444"
+        },
+        {
+          "text": "Yrkesregistret med yrkesstatistik 2012",
+          "href": "/publikation/21663",
+          "url": "https://www.scb.se/publikation/21663"
+        },
+        {
+          "text": "Bakgrundsfakta: Yrkesregistret med yrkesstatistik – En beskrivning av innehåll och kvalitet",
+          "href": "/publikation/16140",
+          "url": "https://www.scb.se/publikation/16140"
+        }
+      ],
+      "table_headers": [
+        "Titel",
+        "",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Titel",
+          "",
+          "Datum"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2018",
+          "",
+          "2020-03-05"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2017",
+          "",
+          "2019-03-07"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2016",
+          "",
+          "2018-03-07"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2015",
+          "",
+          "2017-03-08"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2014",
+          "",
+          "2016-03-16"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2013",
+          "",
+          "2015-02-12"
+        ],
+        [
+          "Yrkesregistret med yrkesstatistik 2012",
+          "",
+          "2014-03-06"
+        ],
+        [
+          "Bakgrundsfakta: Yrkesregistret med yrkesstatistik – En beskrivning av innehåll och kvalitet",
+          "",
+          "2011-10-21"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Publikationer",
+          "level": 2,
+          "anchor": "_Publikationer"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Visa äldre rapporter (14)",
+          "href": "https://www.scb.se/hitta-statistik/sok/?Query=AM0208&Tab=older&Exact=true",
+          "url": "https://www.scb.se/hitta-statistik/sok/?Query=AM0208&Tab=older&Exact=true"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Fyra av fem specialistläkare blir vinnare nu när värnskatten tas bort. Men 16 procent av dem driver företag vid sidan av och har redan kunnat minska effekten av den."
+      ],
+      "links": [
+        {
+          "text": "Specialistläkare vinnare när värnskatten slopas",
+          "href": "/hitta-statistik/artiklar/2020/varnskatt-och-kombinatorer/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2020/varnskatt-och-kombinatorer/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2020-01-22"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Skatt",
+        "Yrke",
+        "Företagande",
+        "Privatekonomi"
+      ],
+      "links": [
+        {
+          "text": "Skatt",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=170&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170&selection=articles"
+        },
+        {
+          "text": "Yrke",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
+        },
+        {
+          "text": "Företagande",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=293&selection=articles"
+        },
+        {
+          "text": "Privatekonomi",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Yrken utan utbildningskrav, så kallade enkla jobb har hög personalomsättning. Vanligaste yrket att gå till efter ett enkelt jobb finns inom service, omsorg och försäljning. Många unga som slutar arbeta efter ett enkelt jobb studerar, medan äldre går i pension eller hamnar inom trygghetssystemen."
+      ],
+      "links": [
+        {
+          "text": "Hög personalomsättning i enkla jobb",
+          "href": "/hitta-statistik/artiklar/2017/Hog-personalomsattning-i-enkla-jobb/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Hog-personalomsattning-i-enkla-jobb/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-09-13"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet",
+        "Arbetsmarknad"
+      ],
+      "links": [
+        {
+          "text": "Arbetslöshet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=9&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9&selection=articles"
+        },
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Drygt 5 procent av de sysselsatta har arbeten utan krav på särskild yrkesutbildning, så kallade enkla jobb. Hälften av de som började ett enkelt jobb 2006 hade lämnat det efter tre år. Inlåsningseffekten är störst för utrikesfödda kvinnor som bor på landsbygden och saknar gymnasieutbildning."
+      ],
+      "links": [
+        {
+          "text": "Vilka lämnar de enkla jobben?",
+          "href": "/hitta-statistik/artiklar/2017/Vilka-lamnar-de-enkla-jobben/",
+          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Vilka-lamnar-de-enkla-jobben/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "2017-09-06"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Artiklar",
+          "level": 2,
+          "anchor": "_Artiklar"
+        }
+      ],
+      "paragraphs": [
+        "Arbetslöshet",
+        "Arbetsmarknad"
+      ],
+      "links": [
+        {
+          "text": "Arbetslöshet",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=9&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9&selection=articles"
+        },
+        {
+          "text": "Arbetsmarknad",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Aktuellt",
+          "level": 2,
+          "anchor": "_Aktuellt"
+        }
+      ],
+      "paragraphs": [
+        "Information om Standard för svensk yrkesklassificering (SSYK 2012) samt imputerade koder (pdf)"
+      ],
+      "links": [
+        {
+          "text": "Information om Standard för svensk yrkesklassificering (SSYK 2012) samt imputerade koder (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/aktuellt/information-om-standard-for-svensk-yrkesklassificering-ssyk-2012-samt-imputerade-koder-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/aktuellt/information-om-standard-for-svensk-yrkesklassificering-ssyk-2012-samt-imputerade-koder-pdf/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2009ENG (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2024_20260116.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2024_20260116.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2023.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2022.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2021.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2020.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2019_le_210304.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2019_le_210304.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2018_nj_200305.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2018_nj_200305.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2017.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2016_le_180302.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2016_le_180302.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2015_le_170307.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_kd_2015_le_170307.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2014_le_160310.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2014_le_160310.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2013_150212.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2013_150212.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2012.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2012.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2010.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2009.pdf"
+        },
+        {
+          "text": "2009ENG (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2009_en.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2009_en.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_bs_2001.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2012 (pdf)",
+        "2011 (pdf)",
+        "2010 (pdf)",
+        "2009 (pdf)",
+        "2009ENG (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2024_20260116.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2024_20260116.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2023.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2023.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2022.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2022.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2021.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2021.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2020.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2020.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2019_le_210304.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2019_le_210304.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2018_nj_200305.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2018_nj_200305.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2017.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2016_le_180307.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_staf_2016_le_180307.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2015_le_170406.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2015_le_170406.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2014_le_160422.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2014_le_160422.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2013.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2013.pdf"
+        },
+        {
+          "text": "2012 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2012_le_140409.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2012_le_140409.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2011.pdf"
+        },
+        {
+          "text": "2010 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2010.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2010.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2009.pdf"
+        },
+        {
+          "text": "2009ENG (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2009eng.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2009eng.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2006.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2005.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2004.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2003.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2002.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2001.pdf",
+          "url": "https://www.scb.se/contentassets/ba5b9a35c5e54a13bc711de91af92828/am0208_do_2001.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=AM0208",
+          "url": "https://metadata.scb.se/?produkt=AM0208"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Sökfunktion för yrke (SSYK 2012)",
+        "Dokumentation av YSEG (pdf)",
+        "Bakgrundsfakta: Yrkesregistret med yrkesstatistik – En beskrivning av innehåll och kvalitet",
+        "Nyckel: Arbetare-Tjänstemän, SSYK 2012 (xlsx)",
+        "Skräddarsydd statistik – Yrkesregistret med yrkesstatistik",
+        "SSYK in english (xlsx)"
+      ],
+      "links": [
+        {
+          "text": "Sökfunktion för yrke (SSYK 2012)",
+          "href": "https://ssyksok.scb.se/",
+          "url": "https://ssyksok.scb.se/"
+        },
+        {
+          "text": "Dokumentation av YSEG (pdf)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/dokumentation-av-yseg-pdf/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/dokumentation-av-yseg-pdf/"
+        },
+        {
+          "text": "Bakgrundsfakta: Yrkesregistret med yrkesstatistik – En beskrivning av innehåll och kvalitet",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/publikationer/bakgrundsfakta-yrkesregistret-med-yrkesstatistik--en-beskrivning-av-innehall-och-kvalitet/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/pong/publikationer/bakgrundsfakta-yrkesregistret-med-yrkesstatistik--en-beskrivning-av-innehall-och-kvalitet/"
+        },
+        {
+          "text": "Nyckel: Arbetare-Tjänstemän, SSYK 2012 (xlsx)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/nyckel-arbetare-tjansteman-ssyk-2012-xlsx/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/nyckel-arbetare-tjansteman-ssyk-2012-xlsx/"
+        },
+        {
+          "text": "Skräddarsydd statistik – Yrkesregistret med yrkesstatistik",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-yrkesstatistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-yrkesstatistik/"
+        },
+        {
+          "text": "SSYK in english (xlsx)",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/ssyk-english/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/produktrelaterat/Fordjupad-information/ssyk-english/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-479 50 00",
+        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
+      ],
+      "links": [
+        {
+          "text": "010-479 50 00",
+          "href": "tel:010-479 50 00",
+          "url": "tel:010-479 50 00"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistikservice",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Mejla Statistikservice"
+      ],
+      "links": [
+        {
+          "text": "Mejla Statistikservice",
+          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
+          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "yrkesregistret@scb.se"
+      ],
+      "links": [
+        {
+          "text": "yrkesregistret@scb.se",
+          "href": "mailto:yrkesregistret@scb.se",
+          "url": "mailto:yrkesregistret@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbete",
+        "Yrke"
+      ],
+      "links": [
+        {
+          "text": "Arbete",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+        },
+        {
+          "text": "Yrke",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Yrkesregistret med yrkesstatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0208"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

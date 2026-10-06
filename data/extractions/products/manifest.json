@@ -1,0 +1,2287 @@
+{
+  "source": "products",
+  "complete": false,
+  "discovery_complete": true,
+  "discovered_count": 569,
+  "records": {
+    "AA0003": {
+      "status": "fresh",
+      "error": null
+    },
+    "AA0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "AA9998": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AA9998"
+    },
+    "AA9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AA9999"
+    },
+    "AM0000": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM0000"
+    },
+    "AM0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0114": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0117": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0118": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM0118"
+    },
+    "AM0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0206": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0207": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0208": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0209": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0210": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0211": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0302": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0503": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0602": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM0702": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM7001": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM9901": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM9901"
+    },
+    "AM9903": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM9906": {
+      "status": "fresh",
+      "error": null
+    },
+    "AM9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM9999"
+    },
+    "BE0000": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/BE0000"
+    },
+    "BE0001": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/BE9999"
+    },
+    "BO0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0102": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO0102"
+    },
+    "BO0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0303": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0404": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0406": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0601": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO0701": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO0701"
+    },
+    "BO0801": {
+      "status": "fresh",
+      "error": null
+    },
+    "BO9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO9999"
+    },
+    "EN0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0112": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0113": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0114": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0116": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0117": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0117"
+    },
+    "EN0118": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0119": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0120": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0121": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0121"
+    },
+    "EN0122": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0123": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0124": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0302": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN0304": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0304"
+    },
+    "EN0305": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0305"
+    },
+    "EN0306": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0306"
+    },
+    "EN0307": {
+      "status": "fresh",
+      "error": null
+    },
+    "EN9999": {
+      "status": "fresh",
+      "error": null
+    },
+    "FD9901": {
+      "status": "fresh",
+      "error": null
+    },
+    "FH0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "FH0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "FH0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0001": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0002": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0102": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/FM0102"
+    },
+    "FM0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0402": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0403": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM5001": {
+      "status": "fresh",
+      "error": null
+    },
+    "FM9998": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "HA9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HA9999"
+    },
+    "HE0000": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0107": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0107"
+    },
+    "HE0108": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0108"
+    },
+    "HE0109": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0109"
+    },
+    "HE0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0112": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "HE9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE9999"
+    },
+    "HS0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0112": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0114": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0118": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0119": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0203": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/HS0203"
+    },
+    "HS0205": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0206": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0207": {
+      "status": "fresh",
+      "error": null
+    },
+    "HS0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0102": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0102"
+    },
+    "JO0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0112": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0113": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0114": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0116": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0117": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0118": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0119": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0203": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0203"
+    },
+    "JO0204": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0205": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0303": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0304": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0304"
+    },
+    "JO0305": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0305"
+    },
+    "JO0306": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0307": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0308": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0310": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0310"
+    },
+    "JO0311": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0312": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0313": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0314": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0504": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0504"
+    },
+    "JO0601": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0602": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0603": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0604": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0605": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0606": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0607": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0607"
+    },
+    "JO0608": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0609": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0610": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0611": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0801": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0802": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0803": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0804": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0805": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO0806": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1001": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1002": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1003": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1101": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1102": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1104": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1201": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1301": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1302": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1402": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1403": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1404": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1405": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1406": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO1901": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO2001": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO2101": {
+      "status": "fresh",
+      "error": null
+    },
+    "JO9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO9999"
+    },
+    "KU0101": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0101"
+    },
+    "KU0102": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0102"
+    },
+    "KU0103": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0103"
+    },
+    "KU0104": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0104"
+    },
+    "KU0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0402": {
+      "status": "fresh",
+      "error": null
+    },
+    "KU0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0000": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/LE0000"
+    },
+    "LE0001": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE0202": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/LE0202"
+    },
+    "LE0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "LE1900": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0001": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0002": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0003": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0113": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0114": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0116": {
+      "status": "fresh",
+      "error": null
+    },
+    "ME0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0000": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0000"
+    },
+    "MI0103": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0103"
+    },
+    "MI0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0110": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0110"
+    },
+    "MI0206": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0206"
+    },
+    "MI0305": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0307": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0308": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0308"
+    },
+    "MI0309": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0403": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0405": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0406": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0503": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0504": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0505": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0506": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0603": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0604": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0604"
+    },
+    "MI0605": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0802": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0803": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0804": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0804"
+    },
+    "MI0805": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0806": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0807": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0807"
+    },
+    "MI0809": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0810": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0811": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0811"
+    },
+    "MI0812": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0814": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0815": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0816": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0816"
+    },
+    "MI0902": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI0903": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0903"
+    },
+    "MI0904": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0904"
+    },
+    "MI1001": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1002": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1003": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1004": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1101": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1103": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1103"
+    },
+    "MI1104": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1104"
+    },
+    "MI1105": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1301": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1302": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1303": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1304": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1304"
+    },
+    "MI1305": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI1306": {
+      "status": "fresh",
+      "error": null
+    },
+    "MI9999": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0000": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NR0000"
+    },
+    "NR0001": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0104": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NR0104"
+    },
+    "NR0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "NR9999": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0001": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0001"
+    },
+    "NV0004": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0004"
+    },
+    "NV0006": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0107": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0107"
+    },
+    "NV0108": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0108"
+    },
+    "NV0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0113": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0113"
+    },
+    "NV0116": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0117": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0118": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0119": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0120": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0120"
+    },
+    "NV0122": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0123": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0123"
+    },
+    "NV0124": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0402": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0602": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0602"
+    },
+    "NV0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0801": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV0802": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1001": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1301": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV1301"
+    },
+    "NV1302": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1303": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1304": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1401": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1501": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1502": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1503": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV1503"
+    },
+    "NV1504": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1701": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV1703": {
+      "status": "fresh",
+      "error": null
+    },
+    "NV2001": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0112": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0114": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/OE0114"
+    },
+    "OE0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0801": {
+      "status": "fresh",
+      "error": null
+    },
+    "OE0903": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/OE0903"
+    },
+    "OE9999": {
+      "status": "fresh",
+      "error": null
+    },
+    "OV0000": {
+      "status": "fresh",
+      "error": null
+    },
+    "OV0011": {
+      "status": "fresh",
+      "error": null
+    },
+    "OV0111": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV0111"
+    },
+    "OV0904": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV0904"
+    },
+    "OV9901": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV9901"
+    },
+    "OV9998": {
+      "status": "fresh",
+      "error": null
+    },
+    "OV9999": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR0801": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/PR0801"
+    },
+    "PR2001": {
+      "status": "fresh",
+      "error": null
+    },
+    "PR9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/PR9999"
+    },
+    "RV0101": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0101"
+    },
+    "RV0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0105": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0105"
+    },
+    "RV0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0402": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0403": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0501": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0501"
+    },
+    "RV0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV0503": {
+      "status": "fresh",
+      "error": null
+    },
+    "RV1101": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0101": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0101"
+    },
+    "SF0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0109": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0111": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0205": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0206": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0207": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0208": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0209": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0210": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0211": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0212": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0213": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0214": {
+      "status": "fresh",
+      "error": null
+    },
+    "SF0301": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0301"
+    },
+    "SF0302": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0302"
+    },
+    "SF0303": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0303"
+    },
+    "SF0304": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0304"
+    },
+    "SF0305": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0305"
+    },
+    "SF0306": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0306"
+    },
+    "SF0307": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0307"
+    },
+    "SF0308": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0308"
+    },
+    "SF0309": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0309"
+    },
+    "SF0310": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0203": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0204": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0204"
+    },
+    "SO0206": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0207": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0207"
+    },
+    "SO0208": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0208"
+    },
+    "SO0209": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0209"
+    },
+    "SO0210": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0211": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0212": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0212"
+    },
+    "SO0309": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0310": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0311": {
+      "status": "fresh",
+      "error": null
+    },
+    "SO0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0601": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0602": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0603": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0604": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0802": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0808": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK0809": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/TK0809"
+    },
+    "TK0901": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1001": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1004": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1006": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1009": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1101": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1102": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1201": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1202": {
+      "status": "fresh",
+      "error": null
+    },
+    "TK1203": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0102": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0104": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0105": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0106": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0107": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0108": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0110": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0111": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0111"
+    },
+    "UF0113": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0114": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0114"
+    },
+    "UF0115": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0116": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0117": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0117"
+    },
+    "UF0120": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0120"
+    },
+    "UF0121": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0122": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0123": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0123"
+    },
+    "UF0124": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0125": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0126": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0126"
+    },
+    "UF0127": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0127"
+    },
+    "UF0128": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0129": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0130": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0131": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0132": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0133": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0134": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0135": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0137": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0138": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0139": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0140": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0201": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0202": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0204": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0205": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0206": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0208": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0209": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0210": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0211": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0212": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0213": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0214": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0301": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0302": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0302"
+    },
+    "UF0304": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0304"
+    },
+    "UF0306": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0314": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0314"
+    },
+    "UF0315": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0317": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0317"
+    },
+    "UF0319": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0401": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0402": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0404": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0501": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0502": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0503": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0505": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0506": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0507": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0510": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0510"
+    },
+    "UF0512": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0513": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0514": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0515": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0516": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0517": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0518": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0521": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0524": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0524"
+    },
+    "UF0526": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0526"
+    },
+    "UF0527": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0527"
+    },
+    "UF0529": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0532": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0532"
+    },
+    "UF0535": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0535"
+    },
+    "UF0536": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0536"
+    },
+    "UF0538": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0539": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0539"
+    },
+    "UF0540": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0540"
+    },
+    "UF0541": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0542": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0543": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0543"
+    },
+    "UF0544": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0544"
+    },
+    "UF0546": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0548": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0548"
+    },
+    "UF0549": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0550": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0551": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0601": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0701": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF0702": {
+      "status": "fresh",
+      "error": null
+    },
+    "UF9999": {
+      "status": "failed",
+      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF9999"
+    }
+  },
+  "warnings": [
+    "Requested calendar code AA0101; page short address identifies NR0001"
+  ]
+}

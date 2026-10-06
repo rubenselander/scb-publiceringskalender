@@ -1,0 +1,46 @@
+
+<div class="container-fluid">
+    <div id="_MyndResult">
+                <table id="ResultTable" class="table table-striped table-bordered dt-responsive display compact" cellspacing="0" style=" width: 100%">
+                    <thead>
+                        <tr id="kolumnJEAF">
+                            <th>Namn</th>
+                            <th>Organisationsnr</th>
+                            <th>SFS</th>
+                            <th>WebbAdress</th>
+                        </tr>
+                        <tr id="kolumnSokInputJEAF">
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 250px;" type="text" placeholder="Namn"></th>
+                            <th style="width: 92px;padding-right: 4px;" class="input-filter"><input style="width: 110px;" type="text" placeholder="Organisationsnr"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 78px;" type="text" placeholder="SFS"></th>
+                            <th style="width: 70px;padding-right: 4px;" class="input-filter"><input style="width: 100px;" type="text" placeholder="WebbAdress"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>LUFTFARTSVERKET</td>
+                                <td>202100-0795</td>
+                                <td>2010:184</td>
+                                <td>www.lfv.se</td>
+                            </tr>
+                            <tr>
+                                <td>SJ&#214;FARTSVERKET</td>
+                                <td>202100-0654</td>
+                                <td>2007:1161</td>
+                                <td>www.sjofartsverket.se</td>
+                            </tr>
+                            <tr>
+                                <td>SVENSKA KRAFTN&#196;T</td>
+                                <td>202100-4284</td>
+                                <td>2007:1119</td>
+                                <td>www.svk.se</td>
+                            </tr>
+                    </tbody>
+                </table>
+
+    </div>
+</div>
+
+<script src="/DataTables/DataTables-1.13.8/js/jquery.dataTables.js"></script>
+<script src="/DataTables/DataTables-1.13.8/js/dataTables.bootstrap.min.js" charset="utf-8"></script>
+<script src="/DataTables/FixedHeader-3.1.3/js/dataTables.fixedHeader.min.js"></script>

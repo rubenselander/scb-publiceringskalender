@@ -1,0 +1,772 @@
+
+
+
+<!DOCTYPE html>
+<html lang="sv" xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv">
+
+<head>
+        
+
+
+
+
+     
+        <title>Arbetsmarknad</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Language" content="sv" />
+    <meta name="description" content="Arbetsmarknad" />
+    <meta name="priority" content="0.5" />
+    <meta name="ROBOTS" content="INDEX,FOLLOW" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="format-detection" content="telephone=no" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';base-uri 'self';script-src 'self' 'sha256-qHiY7D5cDxjsKxRms6VShqh2yAR9FnxPajigvEBbgcY=' https://f1-eu.readspeaker.com/ https://matomo.scb.analys.cloud;style-src 'self' 'unsafe-inline' https://f1-eu.readspeaker.com/;img-src 'self' data:;connect-src https://matomo.scb.analys.cloud 'self';frame-src https://app-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/;media-src https://app-eu.readspeaker.com/ https://media-eu.readspeaker.com/ https://rstts-eu.readspeaker.com/">    <link rel="preload" href="/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Semibold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Inter-Bold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/js/v-86385/scb.js" as="script" type="text/javascript" crossorigin />
+    <link rel="preconnect" href="https://matomo.scb.analys.cloud" />
+        <meta property="og:site_name" content="Statistikmyndigheten SCB" />
+    <meta property="og:title" content="Arbetsmarknad" />
+    <meta property="og:description" content="Arbetsmarknad" />
+    <meta property="og:url" content="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/" />
+    <meta name="pageid" content="55707" />
+    <meta name="pagetype" content="&#xC4;mnesomr&#xE5;de" />
+    <meta property="og:category" content="" />
+        <meta property="og:image" content="~/Assets/Styles/Images/scb-pa-platta.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/img/scb-icon-192.png">
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+    <meta name="scb-load-balance-environment" content="DW11">
+        <link rel="canonical" href="https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/" />
+    <link rel="stylesheet" href="/css/fonts.css?v=86385" />
+    <link rel="stylesheet" href="/css/v-86385/dist/shared.min.css?v=86385" />
+        <link rel="stylesheet" href="/css/v-86385/dist/modules/readspeaker.css" />
+    <link rel="alternate" type="application/rss+xml" title="Statistiknyheter RSS" href="/feed/statistiknyheter" />
+<link rel='stylesheet' href='/css/dist/modules/columns.css?v=v-86385'/><link rel='stylesheet' href='/css/v-86385/scb-wc-partial/breadcrumb.css?v=v-86385'/>
+
+    
+    <link rel="stylesheet" href="/css/v-86385/dist/pagetype/amnesomrade-page.min.css?v=86385" />
+
+
+
+
+</head>
+<body id="body" class=' no-js'>
+    <script>(l => l.remove('no-js') + l.add('js'))(document.body.classList)</script>
+    
+    
+    
+    
+
+<header id="header">
+    <!-- Länk till sidans huvudinnehåll -->
+    <a href="#mainContentArea" id="mainContentAreaLink" class="button mediumbutton button-link">Till inneh&#xE5;ll p&#xE5; sidan</a>
+    <div class="centered-container">
+        <a id="scb-logotype" href="/" title="Statistikmyndigheten SCB, till startsidan">
+            <img src="/img/scb-logo.svg" alt="" width="48" height="54" />
+        </a>
+
+
+            <nav id="secondary-navigation" class="is-not-displayed-tablet" aria-label="Snabbl&#xE4;nkar">
+                <ul role="menubar">
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" lang=en href="/en/finding-statistics/statistics-by-subject-area/labour-market/">In English</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/lattlast/">L&#xE4;ttl&#xE4;st</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/nyheter-och-press/">Press</a>
+                            </li>
+                            <li role="presentation" class='menu-item'>
+                                    <a role="menuitem" href="/om-scb/kontakta-oss/">Kontakt</a>
+                            </li>
+                </ul>
+            </nav>
+            <form action="/hitta-statistik/sok/" role="search" class="search-box is-not-displayed-tablet row">
+                <div class="search-box-field">
+                    <input class="search-field" name="query" type="search" placeholder="Vad s&#xF6;ker du?" aria-label="Vad s&#xF6;ker du?"/>
+                    <input id="searchLanguage" name="lang" type="hidden" value="sv"/>
+                </div>
+                <button class="button search-box-button" type="submit" value="S&#xF6;k" aria-label="S&#xF6;k">S&#xF6;k</button>
+            </form>
+            <nav id="primary-navigation" aria-label="Huvudmeny">
+                <div id="desktop-menu">
+                    <ul class="menu-level">
+                            <li class="menu-item  is-current-section">
+                                <a href="/hitta-statistik/">Hitta statistik</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/vara-tjanster/">V&#xE5;ra tj&#xE4;nster</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/dokumentation/">Dokumentation</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/lamna-uppgifter/">L&#xE4;mna uppgifter</a>
+                            </li>
+                            <li class="menu-item ">
+                                <a href="/om-scb/">Om SCB</a>
+                            </li>
+
+                        <li id="menu-buttons-mobile" class="">
+                            <a id="button-mobile-toggle-search" class="button-mobile search" href="/hitta-statistik/sok/" data-module="mobile-search">S&#xF6;k</a>
+                            <a id="button-mobile-toggle-menu" class="button-mobile menu " aria-label="&#xD6;ppna webbplatsnavigering" href="?menu=open" data-module="hamburger" aria-haspopup="true" aria-controls="primary-navigation">Meny</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+    </div>
+</header>    
+    <div id="overlay"></div>
+    <nav id="hamburger" class="collapsed" aria-label="Webbplatsnavigering"><ul class="collapsed"></ul></nav>
+
+    
+        
+<section id="kakrutan" data-nosnippet role="dialog" aria-labelledby="krr">
+    <div class="centered-container">
+    <h1 class="h4" id="krr">Kakor p&#xE5; scb.se</h1>
+    <p class="info">P&#xE5; SCB anv&#xE4;nder vi kakor f&#xF6;r att webbplatsen ska fungera och f&#xF6;r m&#xE4;tning s&#xE5; att vi vet hur den anv&#xE4;nds. M&#xE4;tningarna anv&#xE4;nds f&#xF6;r att g&#xF6;ra f&#xF6;rb&#xE4;ttringar i inneh&#xE5;ll, design och upplevelse.</p>
+    <form action="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/AcceptAll" method="post">
+        <button class="button very smallbutton" name="val" value="allt">Acceptera alla</button>
+        <button class="button very secondary smallbutton" name="val" value="inget">Endast n&#xF6;dv&#xE4;ndiga</button>
+        <input type="hidden" name="camefrom" value="/hitta-statistik/statistik-efter-amne/arbetsmarknad/" />
+        <a id="acceptSomeCookies" class="very smallbutton btn-secondary-medium" href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/?camefrom=/hitta-statistik/statistik-efter-amne/arbetsmarknad/">Hantera</a>
+    </form>
+    </div>
+</section>
+    <main id="mainContent">
+
+        <div class="centered-container">
+                    
+    <ul id="breadcrumb">
+
+        <li class="breadcrumb-item">
+            <a href="/">Hem</a>
+        </li>
+
+            <li class="breadcrumb-item">
+                <a href="/hitta-statistik/">Hitta statistik</a>
+            </li>
+        <li class="breadcrumb-item is-current-page">
+            Arbetsmarknad
+        </li>
+    </ul>
+
+            <div class="row">
+                <div class='' id="pageContent">
+                        
+
+<div id="readspeaker_button1" class="rs_skip rsbtn_colorskin rs_preserve">
+    <img src="/img/minimal-speaker-icon-2.svg" width="16" height="16" alt="" id="rsplayicon"><a rel="nofollow" data-module="readspeaker" class="rsbtn_play" title="L&#xE4;s upp denna sida med hj&#xE4;lp av ReadSpeaker" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=8809&lang=sv_se&readid=pageContent&url=https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/">
+    <span class="rsbtn_left rspart"><span class="rsbtn_text"><span>Lyssna</span></span></span>
+    <span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+
+
+                    <div id="mainContentArea" tabindex="-1"></div>
+                    
+
+
+
+
+
+<h1 id='h1'>Arbetsmarknad</h1>
+
+    <div>
+        <img class="sos-logotype-large sos-logotype-large-mb-plus" src="/img/SOS-icons/SOS_svart_Sv_3.svg" title="Tillh&#xF6;r sveriges officiella statistik" alt="Sveriges officiella statistik" />
+    </div>
+<div class="xhtmlText">
+    
+
+</div>
+
+<div class="row">
+    <div class="columns nine">
+        <h2>Unders&#xF6;kningar indelade efter statistikomr&#xE5;de</h2>
+    </div>
+    <div class="columns three">
+        <button id="collapse-all" class="link-button float-right collapse-marg10">St&#xE4;ng alla</button>
+        <button id="expand-all" class="link-button float-right">&#xD6;ppna alla</button>
+    </div>
+</div>
+
+
+
+<ul class="margin-bottom-double">
+
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    Arbetsmilj&#xF6;
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/">Arbetsmilj&#xF6;unders&#xF6;kningen</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Arbetsmilj&#xF6;verket</p>
+
+                            <p>Statistiken visar de fysiska och psykosociala arbetsmilj&#xF6;f&#xF6;rh&#xE5;llanden bland sysselsatta i befolkningen. Resultatet redovisas bland annat per yrke, n&#xE4;ringsgren, inkomst, utbildning, region, &#xE5;lder och k&#xF6;n.</p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Arbetsmilj&#xF6;</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/">Arbetsorsakade besv&#xE4;r</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Arbetsmilj&#xF6;verket</p>
+
+                            <p>Statistiken visar besv&#xE4;r som m&#xE4;nniskor kopplar till sitt arbete, var i kroppen besv&#xE4;ren finns och vad i arbetet som kan ha orsakat dem. Unders&#xF6;kningen &#xE4;r en till&#xE4;ggsunders&#xF6;kning till Arbetskraftsunders&#xF6;kningarna (AKU).</p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Arbetsmilj&#xF6;</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    Arbetsskador
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/">Arbetsskador</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Arbetsmilj&#xF6;verket</p>
+
+                            <p>Statistiken bygger p&#xE5; de arbetsskadeanm&#xE4;lningar som g&#xF6;rs till F&#xF6;rs&#xE4;kringskassan. Arbetsskadeanm&#xE4;lan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker.</p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Arbetsmilj&#xF6;</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    Efterfr&#xE5;gan p&#xE5; arbetskraft
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/">Anst&#xE4;llningar</a>
+                            </p>
+
+                            <p>Statistiken visar niv&#xE5;er och f&#xF6;r&#xE4;ndring av de anst&#xE4;llningar som finns p&#xE5; arbetsmarknaden samt sjukfr&#xE5;nvaro under sjukl&#xF6;neperioden. Anst&#xE4;llningar baseras p&#xE5; arbetsgivardeklarationer (AGI) fr&#xE5;n Skatteverket, medan sjukfr&#xE5;nvarostatistiken samlas in fr&#xE5;n ett urval av arbetsgivare. Statistiken anv&#xE4;nds bland annat f&#xF6;r prognoser, analyser och beslutsfattande. </p>
+                                <p class="text-dark-gray category-simple-list">Anst&#xE4;llda, Arbetade timmar, Arbetsmarknad, L&#xF6;nesummor, Personaloms&#xE4;ttning, Sjukfr&#xE5;nvaro</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/">Konjunkturstatistik &#xF6;ver sjukl&#xF6;ner (KSju)</a>
+                            </p>
+
+                            <p>Statistiken visar hur sjukfr&#xE5;nvaron under sjukl&#xF6;neperioden ser ut. Sjukl&#xF6;neperioden &#xE4;r den tid d&#xE5; arbetsgivaren betalar sjukl&#xF6;n till en arbetstagare, som p&#xE5; grund av sjukdom, inte &#xE4;r p&#xE5; arbetet. Du f&#xE5;r en bild av hur den totala utvecklingen av sjukfr&#xE5;nvaron ser ut.</p>
+                                <p class="text-dark-gray category-simple-list">Sjukfr&#xE5;nvaro, Sjukl&#xF6;n</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-vakanser-kv/">Konjunkturstatistik &#xF6;ver vakanser (KV)</a>
+                            </p>
+
+                            <p>Statistiken baseras p&#xE5; en urvalsunders&#xF6;kning till f&#xF6;retag och ger information om efterfr&#xE5;gan p&#xE5; outnyttjad arbetskraft och lediga jobb f&#xF6;rdelat p&#xE5; n&#xE4;ringsgren, region och storleksklass. Variablerna som redovisas &#xE4;r antalet lediga jobb, antalet vakanser, rekryteringsgrad och vakansgrad.</p>
+                                <p class="text-dark-gray category-simple-list">Anst&#xE4;llda, Arbetskraft, Arbetsl&#xF6;shet, Konjunktur, Sysselsatta</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/">Kortperiodisk syssels&#xE4;ttningsstatistik (KS)</a>
+                            </p>
+
+                            <p>Statistiken visar hur antalet anst&#xE4;llda p&#xE5; hela arbetsmarknaden f&#xF6;r&#xE4;ndras. Statistiken redovisas p&#xE5; detaljerad n&#xE4;ringsgrensniv&#xE5; och efter l&#xE4;n. Information finns &#xE4;ven om personaloms&#xE4;ttning och sjukfr&#xE5;nvaro.</p>
+                                <p class="text-dark-gray category-simple-list">Anst&#xE4;llda, Arbetskraft, Personaloms&#xE4;ttning, Sjukfr&#xE5;nvaro, Sysselsatta</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/">Lediga jobb och rekryteringsbehov</a>
+                            </p>
+
+                            <p>Lediga jobb och rekryteringsbehov (LOR) beskriver efterfr&#xE5;gan p&#xE5; arbetskraft p&#xE5; den svenska arbetsmarknaden. Statistiken visar antalet lediga jobb i ekonomin, arbetsgivarnas erfarenheter av att rekrytera senaste halv&#xE5;ret och yrken d&#xE4;r arbetsgivarna saknar arbetskraft.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetsmarknad, Konjunktur, Yrke</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/">L&#xF6;nesummor, arbetsgivaravgifter och prelimin&#xE4;r A-skatt (LAPS)</a>
+                            </p>
+
+                            <p>Statistiken visar utvecklingen av l&#xF6;nesummor, arbetsgivaravgifter och prelimin&#xE4;r A-skatt. Varje kvartal publiceras statistiken som bygger p&#xE5; arbetsgivardeklarationer fr&#xE5;n f&#xF6;retag. Statistiken finns bland annat per sektor och n&#xE4;ringsgren.&#xA;</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, L&#xF6;nesummor, Skatt</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    Funktionsnedsatta
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/">Situationen p&#xE5; arbetsmarknaden f&#xF6;r personer med funktionsneds&#xE4;ttning &#x2013; &#xE4;ldre statistik</a>
+                            </p>
+
+                            <p>Unders&#xF6;kningen gjordes p&#xE5; uppdrag av arbetsf&#xF6;rmedlingen och visar situationen p&#xE5; arbetsmarknaden f&#xF6;r personer med funktionsneds&#xE4;ttning t.o.m. &#xE5;r 2021.</p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Funktionsneds&#xE4;ttning</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    L&#xF6;ner och arbetskostnader
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/">Arbetskostnadsindex f&#xF6;r arbetare och tj&#xE4;nstem&#xE4;n inom privat sektor (AKI)</a>
+                            </p>
+
+                            <p>AKI m&#xE4;ter och beskriver utvecklingen av den totala arbetskostnaden f&#xF6;r arbetare och tj&#xE4;nstem&#xE4;n f&#xF6;r olika branscher inom privat sektor m&#xE5;nadsvis. Arbetskostnaden best&#xE5;r av l&#xF6;n inklusive r&#xF6;rliga l&#xF6;netill&#xE4;gg, f&#xF6;rm&#xE5;ner, sjukl&#xF6;n och arbetsgivaravgifter. Indextalen anv&#xE4;nds f&#xF6;r att g&#xF6;ra prisjusteringar enligt avtal mellan f&#xF6;retag, f&#xF6;r att bed&#xF6;ma det nationella ekonomiska l&#xE4;get och f&#xF6;r indexreglering av avtal.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetskostnad, Index</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-kommuner-klk/">Konjunkturstatistik, l&#xF6;ner f&#xF6;r kommuner (KLK)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar m&#xE5;nadsvis utvecklingen av l&#xF6;ner och syssels&#xE4;ttning i kommuner. Motsvarande l&#xF6;nestatistik finns &#xE4;ven f&#xF6;r privat och statlig sektor samt regioner.</p>
+                                <p class="text-dark-gray category-simple-list">Konjunktur, L&#xF6;n</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/">Konjunkturstatistik, l&#xF6;ner f&#xF6;r privat sektor (KLP)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar m&#xE5;nadsvis utvecklingen av l&#xF6;ner och syssels&#xE4;ttning i privat sektor. Motsvarande l&#xF6;nestatistik finns &#xE4;ven f&#xF6;r statlig sektor, kommuner och regioner.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetade timmar, Konjunktur, L&#xF6;n</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-regioner-klr/">Konjunkturstatistik, l&#xF6;ner f&#xF6;r regioner (KLR)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar m&#xE5;nadsvis utvecklingen av l&#xF6;ner och syssels&#xE4;ttning i regioner. Motsvarande l&#xF6;nestatistik finns &#xE4;ven f&#xF6;r privat och statlig sektor samt kommuner.</p>
+                                <p class="text-dark-gray category-simple-list">Konjunktur, L&#xF6;n</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/">Konjunkturstatistik, l&#xF6;ner f&#xF6;r statlig sektor (KLS)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar m&#xE5;nadsvis utvecklingen av l&#xF6;ner och syssels&#xE4;ttning i statlig sektor. Motsvarande l&#xF6;nestatistik finns &#xE4;ven f&#xF6;r privat sektor, kommuner och regioner.</p>
+                                <p class="text-dark-gray category-simple-list">Konjunktur, L&#xF6;n</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-index-lci/">Labour cost index (LCI)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>LCI visar kvartalsvis utvecklingen av den totala arbetskraftskostnaden per timme uppdelat p&#xE5; arbetare och tj&#xE4;nstem&#xE4;n, det vill s&#xE4;ga l&#xF6;n inklusive r&#xF6;rliga l&#xF6;netill&#xE4;gg, f&#xF6;rm&#xE5;ner, sjukl&#xF6;n och arbetsgivaravgifter. I LCI ing&#xE5;r enbart privat sektor. LCI publiceras &#xE4;ven p&#xE5; Eurostats webbplats d&#xE4;r b&#xE5;de privat och offentlig sektor ing&#xE5;r utan uppdelning mellan arbetare och tj&#xE4;nstem&#xE4;n, d&#xE4;r ing&#xE5;r &#xE4;ven bonus. Se l&#xE4;nk under f&#xF6;rdjupad information.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetskostnad, Index</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/">Labour Cost Survey (LCS)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>LCS m&#xE4;ter arbetskraftskostnad per arbetad timme och hur stor del av de totala arbetskraftskostnaderna som best&#xE5;r av direkta kostnader (som l&#xF6;n och bonus) respektive indirekta kostnader (som sociala avgifter). Unders&#xF6;kningen genomf&#xF6;rs inom EU vart fj&#xE4;rde &#xE5;r.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetskostnad</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/">L&#xF6;nestrukturstatistik, hela ekonomin</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>L&#xF6;nestrukturstatistiken f&#xF6;r hela ekonomin har till syfte att &#xE5;rligen ge en &#xF6;versiktlig och j&#xE4;mf&#xF6;rbar l&#xF6;nestatistik f&#xF6;r hela arbetsmarknaden.</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, Yrke</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/">L&#xF6;nestrukturstatistik, kommuner</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar l&#xF6;neniv&#xE5;, l&#xF6;nestruktur, l&#xF6;neutveckling och syssels&#xE4;ttning f&#xF6;r anst&#xE4;llda inom kommuner per k&#xF6;n, &#xE5;lder, region, n&#xE4;ringsgren, yrke, utbildning och tj&#xE4;nstg&#xF6;ringens omfattning. Motsvarande l&#xF6;nestatistik redovisas &#xE4;ven f&#xF6;r statlig och privat sektor samt regioner.</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, Yrke</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/">L&#xF6;nestrukturstatistik, privat sektor (SLP)</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar l&#xF6;neniv&#xE5;, l&#xF6;nestruktur och l&#xF6;neutveckling inom privat sektor. Statistiken redovisas per k&#xF6;n, &#xE5;lder, region, n&#xE4;ringsgren, yrke och utbildning uppdelad p&#xE5; arbetare respektive tj&#xE4;nstem&#xE4;n. Motsvarande l&#xF6;nestatistik redovisas &#xE4;ven f&#xF6;r offentlig sektor.</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, Yrke</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/">L&#xF6;nestrukturstatistik, regioner</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar l&#xF6;neniv&#xE5;, l&#xF6;nestruktur, l&#xF6;neutveckling och syssels&#xE4;ttning inom regioner per k&#xF6;n, &#xE5;lder, region, n&#xE4;ringsgren, yrke, utbildning och tj&#xE4;nstg&#xF6;ringens omfattning. Motsvarande l&#xF6;nestatistik finns &#xE4;ven f&#xF6;r kommuner, statlig samt privat sektor.</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, Yrke</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/">L&#xF6;nestrukturstatistik, statlig sektor</a>
+                            </p>
+                                <p class="text-strong">Statistikansvarig myndighet: Medlingsinstitutet</p>
+
+                            <p>Statistiken visar l&#xF6;neniv&#xE5;, l&#xF6;nestruktur, l&#xF6;neutveckling och syssels&#xE4;ttning inom statlig sektor per k&#xF6;n, &#xE5;lder, region, yrke, utbildning och tj&#xE4;nstg&#xF6;ringens omfattning. Motsvarande l&#xF6;nestatistik redovisas &#xE4;ven f&#xF6;r landstingskommunal, prim&#xE4;rkommunal samt privat sektor.</p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, Yrke</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    Utbud av arbetskraft
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/">Arbetskraftsunders&#xF6;kningarna (AKU)</a>
+                            </p>
+
+                            <p>Statistiken beskriver utvecklingen p&#xE5; arbetsmarknaden f&#xF6;r Sveriges befolkning i &#xE5;ldern 15&#x2013;74 &#xE5;r. AKU visar bland annat antal och andel sysselsatta respektive arbetsl&#xF6;sa per m&#xE5;nad, kvartal och &#xE5;r. Ut&#xF6;ver detta redovisas vissa tabeller som &#xE4;ven omfattar personer i &#xE5;ldern 75&#x2013;89 &#xE5;r.</p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Arbetskraft, Arbetsl&#xF6;shet, Arbetsmarknad, Sysselsatta, Ungdomsarbetsl&#xF6;shet</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-tidigare-definitioner/">Arbetskraftsunders&#xF6;kningarna, tidigare definitioner</a>
+                            </p>
+
+                            <p>I januari 2021 anpassades AKU till EU:s f&#xF6;rordning (2019/1700) f&#xF6;r den sociala statistiken, vilket har orsakat tidsseriebrott. Arbetskraftsunders&#xF6;kningarna, tidigare definitioner avser ber&#xE4;kningar f&#xF6;re anpassningen.</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/">Befolkningens arbetsmarknadsstatus (BAS)</a>
+                            </p>
+
+                            <p>BAS, Befolkningens arbetsmarknadsstatus &#xE4;r en statistikprodukt som med hj&#xE4;lp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet &#xE4;r att beskriva arbetsmarknadsl&#xE4;get samt utvecklingen &#xF6;ver tid. Statistiken redovisar bland annat antalet sysselsatta, arbetsl&#xF6;sa och personer utanf&#xF6;r arbetskraften f&#xF6;r den folkbokf&#xF6;rda befolkningen i &#xE5;ldern 15&#x2013;74 &#xE5;r.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetsl&#xF6;shet, Arbetsmarknad, Pendling, Sysselsatta, F&#xF6;retagande, Regionalt</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-arbetsmarknadsstatistik-rams/">Registerbaserad arbetsmarknadsstatistik (RAMS)</a>
+                            </p>
+
+                            <p>Statistiken visar syssels&#xE4;ttning, pendling och personal- och n&#xE4;ringsstruktur. Den visar ocks&#xE5; h&#xE4;ndelser och fl&#xF6;den p&#xE5; arbetsmarknaden. Statistiken &#xE4;r totalr&#xE4;knad och kan brytas ner p&#xE5; l&#xE5;g regional niv&#xE5; eller utifr&#xE5;n de anst&#xE4;lldas egenskaper; till exempel k&#xF6;n, utbildning och &#xE5;lder. </p>
+                                <p class="text-dark-gray category-simple-list">Anst&#xE4;llda, Arbete, F&#xF6;retag, Pendling, Sysselsatta</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/registerbaserad-lonesummestatistik-lsum/">Registerbaserad l&#xF6;nesummestatistik (LSUM)</a>
+                            </p>
+
+                            <p>Statistiken visar l&#xF6;nesummor, prelimin&#xE4;r A-skatt och vilka sociala ers&#xE4;ttningar som betalas ut. Uppgifterna som baseras p&#xE5; arbetsgivardeklarationer (AGI) och  kontrolluppgifter (KU) kan tas fram efter region, sektor och n&#xE4;ringsgren. </p>
+                                <p class="text-dark-gray category-simple-list">L&#xF6;n, L&#xF6;nesummor, Skatt</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning2/">Situationen p&#xE5; arbetsmarknaden f&#xF6;r personer med funktionsneds&#xE4;ttning</a>
+                            </p>
+
+                            <p>Statistiken ger en aktuell bild av arbetsmarknadssituationen i Sverige f&#xF6;r personer med funktionsneds&#xE4;ttning.</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/">Yrkesregistret med yrkesstatistik</a>
+                            </p>
+
+                            <p>Statistiken visar hur m&#xE5;nga som arbetar inom olika typer av yrken. Du kan ocks&#xE5; se hur yrkesutvecklingen inom olika branscher och samh&#xE4;llssektorer ser ut.  </p>
+                                <p class="text-dark-gray category-simple-list">Arbete, Yrke</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+        <li class="expandable-box expandable-box-content-filled">
+            <a class="expandable-box-click-area reversed-decoration" href="Javascript:void(0)" aria-expanded="false">
+                <div class="h3 expandable-box-heading">
+                    &#xD6;vrigt
+                </div>
+
+            </a>
+
+            <div class="expandable-box-content">
+
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/">Fokus p&#xE5; n&#xE4;ringsliv och arbetsmarknad</a>
+                            </p>
+
+                            <p>Publikationen inneh&#xE5;ller olika kommenterande eller analyserande artiklar med inriktning mot n&#xE4;ringsliv och arbetsmarknad.</p>
+                                <p class="text-dark-gray category-simple-list">Arbetsmarknad, N&#xE4;ringsliv</p>
+                        </div>
+                    </div>
+                    <div class="row expandable-box-content-item">
+                        <div class="columns seven">
+                            <p class="h2 text-semibold">
+                                <a href="/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/regionala-matchningsindikatorer/">Regionala matchningsindikatorer</a>
+                            </p>
+
+                            <p>Regionala matchningsindikatorer &#xE4;r en databas som inneh&#xE5;ller statistik om kompetensf&#xF6;rs&#xF6;rjning p&#xE5; regional niv&#xE5;.</p>
+                        </div>
+                    </div>
+            </div>
+        </li>
+
+</ul>
+    <div class="row margin-bottom-double clearfix">
+        <h2 class="text-dark-gray category-icon-tag-small" id="Etiketter">Etiketter</h2>
+        <ul>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=4" > Anst&#xE4;llda</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=5" > Arbetade timmar</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=6" > Arbete</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=7" > Arbetskostnad</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=8" > Arbetskraft</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=9" > Arbetsl&#xF6;shet</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=10" > Arbetsmarknad</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=11" > Arbetsmilj&#xF6;</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=239" > Funktionsneds&#xE4;ttning</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=67" > F&#xF6;retag</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=293" > F&#xF6;retagande</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=91" > Index</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=107" > Konjunktur</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=123" > L&#xF6;n</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=124" > L&#xF6;nesummor</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=140" > N&#xE4;ringsliv</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=149" > Pendling</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=151" > Personaloms&#xE4;ttning</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=316" > Regionalt</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=166" > Sjukfr&#xE5;nvaro</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=167" > Sjukl&#xF6;n</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=170" > Skatt</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=188" > Sysselsatta</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=200" > Ungdomsarbetsl&#xF6;shet</a>
+                </li>
+                <li>
+                    <a class="category-item" href="/hitta-statistik/Etikettfilter/?categoryId=219" > Yrke</a>
+                </li>
+        </ul>
+    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="share centered-container">
+            <div class="share-wrapper clearfix">
+                <span class="text-dark-gray share-label h5">Dela sidan:</span>
+                <div class="share-icons">
+                    <a href="mailto:?subject=Arbetsmarknad&amp;body=http%3A%2F%2Fwww.scb.se%2Fhitta-statistik%2Fstatistik-efter-amne%2Farbetsmarknad%2F"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><use xlink:href="/img/icons_social_media.svg#mail"></use></svg><span class="share-fallback-text">Dela denna sida via e-post</span></a>
+                    <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.scb.se%2Fhitta-statistik%2Fstatistik-efter-amne%2Farbetsmarknad%2F"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#facebook"></use></svg><span class="share-fallback-text">Dela denna sida via Facebook</span></a>
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.scb.se%2Fhitta-statistik%2Fstatistik-efter-amne%2Farbetsmarknad%2F"> <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="/img/icons_social_media.svg#linkedin"></use></svg><span class="share-fallback-text">Dela denna sida via LinkedIn</span></a>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+
+
+    
+    <footer id="footer">
+            <div class="centered-container">
+    <div id="sitemap" class="row inverted footer-bottom">
+            <div>
+                <h2 class="h3">Aktuell statistik</h2>
+                <ul>
+                        <li><a href="/hitta-statistik/statistiknyheter/">Statistiknyheter</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Nyheter och press</a></li>
+                        <li><a href="/hitta-statistik/publiceringskalendern/">Publiceringskalendern</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Hitta snabbt</h2>
+                <ul>
+                        <li><a href="/om-scb/kontakta-oss/">Kontakta oss</a></li>
+                        <li><a href="/om-scb/jobba-hos-oss/">Jobba hos oss</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/">Presskontakt</a></li>
+                        <li><a href="/hitta-statistik/rapporter/">Rapporter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">Om inneh&#xE5;llet</h2>
+                <ul>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor">Om webbplatsen</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/tillganglighetsredogorelse/">Tillg&#xE4;nglighetsredog&#xF6;relse</a></li>
+                        <li><a href="/dokumentation/ordlista/">Ordlista</a></li>
+                        <li><a href="/om-scb/om-scb.se-och-anvandningsvillkor/kakor-cookies/">Om kakor (cookies)</a></li>
+                        <li><a href="/om-scb/personuppgifter/">Personuppgifter</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="h3">F&#xF6;lj SCB</h2>
+                <ul>
+                        <li><a href="/om-scb/nyheter-och-press/bevaka-nyheter/">Bevaka nyheter fr&#xE5;n SCB</a></li>
+                        <li><a href="/om-scb/nyheter-och-press/sociala-medier/">SCB i sociala medier</a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+<div class="copyright inverted">
+    <img class="footer_logo" src="/img/scb-logo.svg#inverted" alt="SCB Logotyp" width="40" height="48" />
+    <div class="footer-vision">Statistikmyndigheten SCB f&#xF6;rser samh&#xE4;llet med statistik f&#xF6;r beslutsfattande, debatt och forskning.</div>
+</div>
+    </footer>
+
+        
+<script type="module" src="/js/v-86385/scb.js"></script>
+
+
+<script type='module' src='/js/v-86385/modules/collapse.js'></script> 
+
+
+
+
+    
+    
+        <script src='/js/v-4/tracking/matomo.js' async id="mtmo" data-key="9zXnh5Ss"></script>
+
+
+</body>
+
+</html>

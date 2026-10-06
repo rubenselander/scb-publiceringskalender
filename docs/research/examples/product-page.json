@@ -1,0 +1,71 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/PR0701",
+    "response_url": "https://www.scb.se/PR0701",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-hushall/",
+    "fetched_at": "2026-10-05T12:17:32.298673Z",
+    "http_status": 200,
+    "content_sha256": "00b94950c382e02d9289c7af2e9795626077d209494dddc2fc10e37aabfa1fef",
+    "source_selector": "#pageContent",
+    "capture_scope": "research_sample",
+    "warnings": []
+  },
+  "product_code": "PR0701",
+  "product_code_source": "page_short_address",
+  "title": "Konjunkturbarometern Hushåll",
+  "short_address": "https://www.scb.se/pr0701",
+  "summary": "Statistiken visar svenska hushålls syn på den egna och den svenska ekonomin, förväntningar om räntor och inflation och om planerade inköp av kapitalvaror och sparande.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: 2026-10-29",
+  "next_publication_date": "2026-10-29",
+  "responsible_agency": {
+    "label": "Konjunkturinstitutet (KI)",
+    "link": {
+      "text": "Konjunkturinstitutet (KI)",
+      "href": "http://www.konj.se/statistik",
+      "url": "http://www.konj.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Hushåll",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
+    },
+    {
+      "text": "Konfidensindikator",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=226",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=226"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Kontakt",
+          "level": null,
+          "anchor": "_Kontakt"
+        }
+      ],
+      "paragraphs": [
+        "Har du frågor om statistiken? Konjunkturinstitutet Telefon 08-453 59 00 E-post registrator@konj.se"
+      ],
+      "links": [
+        {
+          "text": "08-453 59 00",
+          "href": "tel:08-453 59 00",
+          "url": "tel:08-453 59 00"
+        },
+        {
+          "text": "registrator@konj.se",
+          "href": "mailto:registrator@konj.se",
+          "url": "mailto:registrator@konj.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

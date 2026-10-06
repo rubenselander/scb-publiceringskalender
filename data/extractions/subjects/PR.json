@@ -1,0 +1,124 @@
+{
+  "code": "PR",
+  "index_link": {
+    "text": "PR Priser och ekonomiska tendenser",
+    "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/"
+  },
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/",
+    "fetched_at": "2026-10-05T13:15:59.358355Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "829f59d01c339ff764a8598b537347d2366b5415179d87ac7d7ff7f85f75b6eb",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent .expandable-box",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "title": "Priser och ekonomiska tendenser",
+  "areas": [
+    {
+      "label": "Ekonomiska tendenser hos företag och hushåll",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Konjunkturbarometern Företag",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-foretag/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-foretag/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar ekonomiska tendenser hos företag i Sverige genom att belysa deras syn och förväntningar på ekonomin.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Konjunkturinstitutet (KI)",
+          "tags_text": null
+        },
+        {
+          "link": {
+            "text": "Konjunkturbarometern Hushåll",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-hushall/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/ekonomiska-tendenser-hos-foretag-och-hushall/konjunkturbarometern-hushall/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar svenska hushålls syn på den egna och den svenska ekonomin, förväntningar om räntor och inflation och om planerade inköp av kapitalvaror och sparande.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Konjunkturinstitutet (KI)",
+          "tags_text": "Hushåll, Konfidensindikator"
+        }
+      ]
+    },
+    {
+      "label": "Priser",
+      "source_anchor": null,
+      "source_url": null,
+      "products": [
+        {
+          "link": {
+            "text": "Byggkostnadsindex (BKI)",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Indexet mäter kostnadsförändringar för produktionsfaktorer i bostadsbyggande. Inräknat är material av olika slag, som utrustning, löner, transporter med mera. Indexet tar inte hänsyn till marknadssituationen utan baseras på mätningar av en mängd varor och löner. Indextal beräknas för flerbostadshus, gruppbyggda småhus och jordbruksbyggnader, både totalt och för viktigare kostnadsslag.",
+          "responsible_agency_text": null,
+          "tags_text": "Byggande, Priser"
+        },
+        {
+          "link": {
+            "text": "Byggnadsprisindex (BPI)",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Indexet visar prisutvecklingen för nybyggda bostäder, det vill säga det pris som en byggherre/slutkonsument betalar för ett byggprojekt. Statistiken omfattar flerbostadshus och gruppbyggda småhus. Ett projekt med gruppbyggda småhus kan innehålla ett eller flera småhus.",
+          "responsible_agency_text": null,
+          "tags_text": "Bostäder, Byggande, Index, Priser"
+        },
+        {
+          "link": {
+            "text": "Konsumentprisindex (KPI)",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige.",
+          "responsible_agency_text": null,
+          "tags_text": "Ekonomi, Index, Inflation, Prisbasbelopp, Priser, Konsumentprisindex"
+        },
+        {
+          "link": {
+            "text": "Köpkraftspariteter (PPP)",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Köpkraftspariteter, eller Purchasing Power Parity (PPP), mäter prisskillnaden på jämförbara varor och tjänster mellan länder. PPP används för att jämföra länders BNP och för att skapa prisnivåindex (PNI) för att kunna jämföra prisnivåer och levnadskostnader mellan länder.",
+          "responsible_agency_text": null,
+          "tags_text": "BNP, Index, Köpkraft, Prisnivå, Växelkurs"
+        },
+        {
+          "link": {
+            "text": "Prisindex i producent- och importled (PPI)",
+            "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Prisindex i producent- och importled (PPI) visar den genomsnittliga prisutvecklingen i producent- och importledet, totalt och för olika marknader (HMPI, EXPI, IMPI, PPI, ITPI och TPI) och produktgrupper. Priset som mäts är det pris som svenska producenter erhåller när de säljer sin produkt, respektive det pris som köparen betalar då produkterna kommer in i Sverige.",
+          "responsible_agency_text": null,
+          "tags_text": "Avtalsreglering, Index, SPIN"
+        }
+      ]
+    }
+  ]
+}

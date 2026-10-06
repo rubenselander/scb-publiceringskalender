@@ -1,0 +1,172 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/AM0602",
+    "response_url": "https://www.scb.se/AM0602",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/",
+    "fetched_at": "2026-10-05T13:10:13.873567Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0a352635ed7b29d8f848b111444b5d8e50fc343b9aad658a1cc32ab2ea70c063",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "AM0602",
+  "product_code_source": "calendar",
+  "title": "Arbetsskador",
+  "short_address": "https://www.scb.se/am0602",
+  "summary": "Statistiken bygger på de arbetsskadeanmälningar som görs till Försäkringskassan. Arbetsskadeanmälan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Arbetsmiljöverket",
+    "link": {
+      "text": "Arbetsmiljöverket",
+      "href": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/",
+      "url": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/"
+    }
+  },
+  "notices": [],
+  "tags": [
+    {
+      "text": "Arbete",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+    },
+    {
+      "text": "Arbetsmiljö",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken bygger på de arbetsskadeanmälningar som görs till Försäkringskassan. Arbetsskadeanmälan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Arbetsmiljöverket"
+      ],
+      "links": [
+        {
+          "text": "Arbetsmiljöverket",
+          "href": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/",
+          "url": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "Arbetsmiljöverket",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "Telefon",
+        "010-730 90 00",
+        "E-post",
+        "arbetsmiljoverket@av.se"
+      ],
+      "links": [
+        {
+          "text": "010-730 90 00",
+          "href": "tel:010-730 90 00",
+          "url": "tel:010-730 90 00"
+        },
+        {
+          "text": "arbetsmiljoverket@av.se",
+          "href": "mailto:arbetsmiljoverket@av.se",
+          "url": "mailto:arbetsmiljoverket@av.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsskador",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Arbete",
+        "Arbetsmiljö"
+      ],
+      "links": [
+        {
+          "text": "Arbete",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
+        },
+        {
+          "text": "Arbetsmiljö",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsskador",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/am0602"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

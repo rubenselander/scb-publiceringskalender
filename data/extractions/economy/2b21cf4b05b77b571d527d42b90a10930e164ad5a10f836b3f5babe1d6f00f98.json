@@ -1,0 +1,33 @@
+{
+  "title": "Valutakurser, årsgenomsnitt",
+  "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
+  "listed_type": "Diagram",
+  "listed_date": "2026-01-09",
+  "detail_verified": true,
+  "detail_provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
+    "fetched_at": "2026-10-05T13:16:33.182545Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0a1afa8551d4ae3554121833c875dbd37c88215ed9549f7c3996cbc974ac17bf",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent article",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "subtitle": "Kronkurs i förhållande till respektive valuta",
+  "comments": "T.o.m. 30 juni 1991 är kurserna säljkurser. Därefter är de mittkurser, beräknade som (köp+sälj)/2. Kurserna är årsgenomsnitt.",
+  "source_label": "Sveriges riksbank",
+  "updated_at": "2026-01-09",
+  "excel_urls": [
+    "https://www.scb.se/contentassets/ecbb79c5aa1249eca9efd7e352f7a986/valutakurser-ar_sv.xlsx"
+  ],
+  "image_urls": [
+    "https://www.scb.se/contentassets/ecbb79c5aa1249eca9efd7e352f7a986/ov0011_2025m12_di_13_sv_valutakurs_ar.gif"
+  ],
+  "official_statistics_mark_present": true
+}

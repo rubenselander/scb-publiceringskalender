@@ -1,0 +1,120 @@
+{
+  "provenance": {
+    "landing_url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
+    "source_url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
+    "retrieved_at": "2026-10-05T12:16:23.830143Z",
+    "language": "sv",
+    "sha256": "b1683f05bb2e49c53ab8bd8857f0db7655fedbaed20f00c0407ffd8e02cdcbc6"
+  },
+  "title": "Kakor på scb.se",
+  "headers": [
+    "Datamängd",
+    "Tabell/sparad fråga"
+  ],
+  "total_source_groups": 22,
+  "partial_sample": true,
+  "groups": [
+    {
+      "dataset_label": "Industriproduktion",
+      "row_text": "Industriproduktion Industrins produktion efter varugrupp enligt KN. År",
+      "links": [
+        {
+          "anchor_text": "Industrins produktion efter varugrupp enligt KN. År",
+          "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__NV__NV0119/IVPKNAr/",
+          "target_kind": "pxweb_table",
+          "context_text": "Industrins produktion efter varugrupp enligt KN. År"
+        }
+      ]
+    },
+    {
+      "dataset_label": "Nationalräkenskaper – viktiga BNP-aggregat per år och kvartal",
+      "row_text": "Nationalräkenskaper – viktiga BNP-aggregat per år och kvartal Bruttonationalprodukt till marknadspris B.1*G BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År (sparad fråga) BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År (sparad fråga) Bruttoförädlningsvärde B.1G Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga) Enligt NUTS 2-3, löpande priser (sparad fråga) Hushållens slutliga konsumtionsutgifter P.31_S.14 Hushållens konsumtionsutgifter, löpande priser och volymutveckling (sparad fråga) Fasta bruttoinvesteringar P.51g Enligt NACE 2, löpande priser, fasta priser, volymutveckling (sparad fråga) Enligt NUTS 2, löpande priser (sparad fråga) Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling Ersättningar till anställda, D1 Enligt NACE 2, löpande priser (sparad fråga) Egentlig lön D1 enligt NUTS 2, löpande priser (sparad fråga) Anställning, EMP Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga) Medelantal sysselsatta personer i 1000-tal efter NUTS1-3 (sparad fråga) Bruttonationalinkomst B.5g_S.1 Löpande priser och per capita (sparad fråga) Finansiellt sparande för den totala ekonomin, B.9_S.1 Finansiellt sparande för den totala ekonomin, löpande priser (sparad fråga)",
+      "links": [
+        {
+          "anchor_text": "BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150125",
+          "target_kind": "saved_query",
+          "context_text": "BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År (sparad fråga)"
+        },
+        {
+          "anchor_text": "BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150126",
+          "target_kind": "saved_query",
+          "context_text": "BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År (sparad fråga)"
+        },
+        {
+          "anchor_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150127",
+          "target_kind": "saved_query",
+          "context_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga)"
+        },
+        {
+          "anchor_text": "Enligt NUTS 2-3, löpande priser",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150128",
+          "target_kind": "saved_query",
+          "context_text": "Enligt NUTS 2-3, löpande priser (sparad fråga)"
+        },
+        {
+          "anchor_text": "Hushållens konsumtionsutgifter, löpande priser och volymutveckling",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150128",
+          "target_kind": "saved_query",
+          "context_text": "Hushållens konsumtionsutgifter, löpande priser och volymutveckling (sparad fråga)"
+        },
+        {
+          "anchor_text": "Enligt NACE 2, löpande priser, fasta priser, volymutveckling",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150129",
+          "target_kind": "saved_query",
+          "context_text": "Enligt NACE 2, löpande priser, fasta priser, volymutveckling (sparad fråga)"
+        },
+        {
+          "anchor_text": "Enligt NUTS 2, löpande priser",
+          "url": "https://www.statistikdatabasen.scb.se/sq/149977",
+          "target_kind": "saved_query",
+          "context_text": "Enligt NUTS 2, löpande priser (sparad fråga)"
+        },
+        {
+          "anchor_text": "Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150130",
+          "target_kind": "saved_query",
+          "context_text": "Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling"
+        },
+        {
+          "anchor_text": "Enligt NACE 2, löpande priser",
+          "url": "https://www.statistikdatabasen.scb.se/sq/149990",
+          "target_kind": "saved_query",
+          "context_text": "Enligt NACE 2, löpande priser (sparad fråga)"
+        },
+        {
+          "anchor_text": "Egentlig lön D1 enligt NUTS 2, löpande priser",
+          "url": "https://www.statistikdatabasen.scb.se/sq/149992",
+          "target_kind": "saved_query",
+          "context_text": "Egentlig lön D1 enligt NUTS 2, löpande priser (sparad fråga)"
+        },
+        {
+          "anchor_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2",
+          "url": "https://www.statistikdatabasen.scb.se/sq/149994",
+          "target_kind": "saved_query",
+          "context_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga)"
+        },
+        {
+          "anchor_text": "Medelantal sysselsatta personer i 1000-tal efter NUTS1-3",
+          "url": "https://www.statistikdatabasen.scb.se/sq/149995",
+          "target_kind": "saved_query",
+          "context_text": "Medelantal sysselsatta personer i 1000-tal efter NUTS1-3 (sparad fråga)"
+        },
+        {
+          "anchor_text": "Löpande priser och per capita",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150000",
+          "target_kind": "saved_query",
+          "context_text": "Löpande priser och per capita (sparad fråga)"
+        },
+        {
+          "anchor_text": "Finansiellt sparande för den totala ekonomin, löpande priser",
+          "url": "https://www.statistikdatabasen.scb.se/sq/150055",
+          "target_kind": "saved_query",
+          "context_text": "Finansiellt sparande för den totala ekonomin, löpande priser (sparad fråga)"
+        }
+      ]
+    }
+  ]
+}

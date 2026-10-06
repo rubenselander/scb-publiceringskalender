@@ -1,0 +1,927 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/BO0404",
+    "response_url": "https://www.scb.se/BO0404",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/",
+    "fetched_at": "2026-10-05T13:10:24.106873Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "5f212110cc4307235e4caf63f3eb962706a98572837d8c4fd060c4dfcb78def2",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "BO0404",
+  "product_code_source": "calendar",
+  "title": "Avgifter/hyror för nybyggda lägenheter",
+  "short_address": "https://www.scb.se/bo0404",
+  "summary": "Statistiken visar hyror/avgifter och insatser för olika lägenhetstyper inom nyproduktionen i olika delar av landet, fördelat på lägenhetstyper och upplåtelseformer per region.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": null,
+  "notices": [],
+  "tags": [
+    {
+      "text": "Bostäder",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+    },
+    {
+      "text": "Fastigheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+    },
+    {
+      "text": "Hyror",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=86",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=86"
+    },
+    {
+      "text": "Lägenheter",
+      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+    }
+  ],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken visar hyror/avgifter och insatser för olika lägenhetstyper inom nyproduktionen i olika delar av landet, fördelat på lägenhetstyper och upplåtelseformer per region."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        }
+      ],
+      "paragraphs": [
+        "2026-10-02"
+      ],
+      "links": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/statistiknyhet/avgifterhyror-for-nybyggda-lagenheter-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/statistiknyhet/avgifterhyror-for-nybyggda-lagenheter-2025/"
+        },
+        {
+          "text": "Alla statistiknyheter för denna statistik",
+          "href": "/hitta-statistik/statistiknyheter/?selectedProduct=BO0404",
+          "url": "https://www.scb.se/hitta-statistik/statistiknyheter/?selectedProduct=BO0404"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Statistiknyheter",
+          "level": 2,
+          "anchor": "_Statistiknyheter"
+        },
+        {
+          "text": "Missa ingen viktig statistik",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Prenumerera på statistiknyheter",
+          "href": "/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/",
+          "url": "https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/bevaka-nyheter-fran-scb/Ny-statistik-via-epost/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Årshyra per lägenhet",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/arshyra-per-lagenhet/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/arshyra-per-lagenhet/"
+        },
+        {
+          "text": "Genomsnittliga insatser för bostadsrätter 2024",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/genomsnittliga-insatser-for-bostadsratter-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/genomsnittliga-insatser-for-bostadsratter-2024/"
+        },
+        {
+          "text": "Hyresrätter i flerbostadshus (år 2022) fördelat efter region, typ av byggherre och modell för hyressättning",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2022-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2022-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/"
+        },
+        {
+          "text": "Hyresrätter i flerbostadshus (år 2021) fördelat efter region, typ av byggherre och modell för hyressättning.",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2021-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2021-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/"
+        },
+        {
+          "text": "Hyresrätter i flerbostadshus (år 2020) fördelat efter region, typ av byggherre och modell för hyressättning.",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2020-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2020-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/"
+        },
+        {
+          "text": "Hyresrätter i flerbostadshus (år 2019) fördelat efter region, typ av byggherre och modell för hyressättning. Korrigerad 2021-03-26",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2019-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2019-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/"
+        },
+        {
+          "text": "Hyresrätter i flerbostadshus (år 2018) fördelat efter region, typ av byggherre och modell för hyressättning. Korrigerad 2021-03-26",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2018-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/pong/tabell-och-diagram/hyresratter-i-flerbostadshus-ar-2018-fordelat-efter-region-typ-av-byggherre-och-modell-for-hyressattning/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Årshyra per lägenhet",
+          "Diagram",
+          "2026-10-02"
+        ],
+        [
+          "Genomsnittliga insatser för bostadsrätter 2024",
+          "Tabell",
+          "2025-10-03"
+        ],
+        [
+          "Hyresrätter i flerbostadshus (år 2022) fördelat efter region, typ av byggherre och modell för hyressättning",
+          "Tabell",
+          "2023-10-04"
+        ],
+        [
+          "Hyresrätter i flerbostadshus (år 2021) fördelat efter region, typ av byggherre och modell för hyressättning.",
+          "Tabell",
+          "2022-10-28"
+        ],
+        [
+          "Hyresrätter i flerbostadshus (år 2020) fördelat efter region, typ av byggherre och modell för hyressättning.",
+          "Tabell",
+          "2021-10-01"
+        ],
+        [
+          "Hyresrätter i flerbostadshus (år 2019) fördelat efter region, typ av byggherre och modell för hyressättning. Korrigerad 2021-03-26",
+          "Tabell",
+          "2020-10-02"
+        ],
+        [
+          "Hyresrätter i flerbostadshus (år 2018) fördelat efter region, typ av byggherre och modell för hyressättning. Korrigerad 2021-03-26",
+          "Tabell",
+          "2019-10-04"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hyresrätter och bostadsrätter. År 2022-",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hyror i nybyggda hus (hyresrätt) efter region, antal rum och modell för hyressättning. År 2022 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrFHHyModLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrFHHyModLgh"
+        },
+        {
+          "text": "Hyror i nybyggda hus (hyresrätt) efter byggherre, antal rum och modell för hyressättning. År 2022 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrFHHyModBygghLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrFHHyModBygghLgh"
+        },
+        {
+          "text": "Hyror i nybyggda hus (hyresrätt) efter regional indelning NUTS, byggherre och antal rum. År 2022 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrBygghNUTS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrBygghNUTS"
+        },
+        {
+          "text": "Hyror i nybyggda hus (hyresrätt) efter region, byggherre och antal rum. År 2022 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrBygghLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyrBygghLgh"
+        },
+        {
+          "text": "Avgifter och insatser i nybyggda hus (bostadsrätt) efter region, byggherre och antal rum. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattLgh"
+        },
+        {
+          "text": "Avgifter och insatser i nybyggda hus (bostadsrätt) efter regional indelning NUTS, byggherre och antal rum. År 2022 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoNUTS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoNUTS"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Hyror i nybyggda hus (hyresrätt) efter region, antal rum och modell för hyressättning. År 2022 - 2025",
+          "2026-10-02"
+        ],
+        [
+          "Hyror i nybyggda hus (hyresrätt) efter byggherre, antal rum och modell för hyressättning. År 2022 - 2025",
+          "2026-10-02"
+        ],
+        [
+          "Hyror i nybyggda hus (hyresrätt) efter regional indelning NUTS, byggherre och antal rum. År 2022 - 2025",
+          "2026-10-02"
+        ],
+        [
+          "Hyror i nybyggda hus (hyresrätt) efter region, byggherre och antal rum. År 2022 - 2025",
+          "2026-10-02"
+        ],
+        [
+          "Avgifter och insatser i nybyggda hus (bostadsrätt) efter region, byggherre och antal rum. År 2022 - 2024",
+          "2025-10-14"
+        ],
+        [
+          "Avgifter och insatser i nybyggda hus (bostadsrätt) efter regional indelning NUTS, byggherre och antal rum. År 2022 - 2024",
+          "2025-10-14"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hyresrätter och bostadsrätter. Uppdateras ej. År 2014-2022",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter region. År 2014 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthReg"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter region. År 2014 - 2020",
+          "2021-10-01"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Hyresrätter och bostadsrätter. Uppdateras ej. År 1997-2013"
+      ],
+      "links": [
+        {
+          "text": "Hyresrätter och bostadsrätter. Uppdateras ej. År 1997-2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0404C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0404C"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [
+        "SCB dokumenterar sin statistik och mikrodata genom att beskriva statistikens kvalitet, dess framställning och detaljerad information om innehållet i de mikrodata som statistiken bygger på."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Mer information om dokumentation",
+          "href": "/link/47bb9390c89e446689360d9442c33691.aspx",
+          "url": "https://www.scb.se/link/47bb9390c89e446689360d9442c33691.aspx"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens kvalitet (Kvalitetsdeklaration och Beskrivning av statistiken)",
+          "level": 4,
+          "anchor": "bas-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2011 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)",
+        "2006 (pdf)",
+        "2005 (pdf)",
+        "2004 (pdf)",
+        "2003 (pdf)",
+        "2002 (pdf)",
+        "2001 (pdf)",
+        "2000 (pdf)",
+        "1999 (pdf)",
+        "1998 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2025_v01_261002.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2025_v01_261002.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2024_v01_251003.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2024_v01_251003.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2023_v01_241004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2023_v01_241004.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2022_v01_231004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2022_v01_231004.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2021_v01_221028.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2021_v01_221028.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2020_tl_221005_v2.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2020_tl_221005_v2.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2019_tl_201002.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2019_tl_201002.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2018_tl_191004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2018_tl_191004.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2017_tl_181004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2017_tl_181004.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2016_bl_171012.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2016_bl_171012.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2016_tl_171004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_kd_2016_tl_171004.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2015_tl_161006.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2015_tl_161006.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2014_150930.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2014_150930.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2013.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2013.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2011.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2011.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2009.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2008.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2007.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2007.pdf"
+        },
+        {
+          "text": "2006 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2006.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2006.pdf"
+        },
+        {
+          "text": "2005 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2005.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2005.pdf"
+        },
+        {
+          "text": "2004 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2004.pdf"
+        },
+        {
+          "text": "2003 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2003.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2003.pdf"
+        },
+        {
+          "text": "2002 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2002.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2002.pdf"
+        },
+        {
+          "text": "2001 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2001.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2001.pdf"
+        },
+        {
+          "text": "2000 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2000.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_2000.pdf"
+        },
+        {
+          "text": "1999 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_1999.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_1999.pdf"
+        },
+        {
+          "text": "1998 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_1998.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_bs_1998.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        }
+      ],
+      "paragraphs": [
+        "2025 (pdf)",
+        "2024 (pdf)",
+        "2023 (pdf)",
+        "2022 (pdf)",
+        "2021 (pdf)",
+        "2020 (pdf)",
+        "2019 (pdf)",
+        "2018 (pdf)",
+        "2017 (pdf)",
+        "2016 (pdf)",
+        "2015 (pdf)",
+        "2014 (pdf)",
+        "2013 (pdf)",
+        "2011 (pdf)",
+        "2009 (pdf)",
+        "2008 (pdf)",
+        "2007 (pdf)"
+      ],
+      "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2025_v01_261002.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2025_v01_261002.pdf"
+        },
+        {
+          "text": "2024 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2024_v01_251003.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2024_v01_251003.pdf"
+        },
+        {
+          "text": "2023 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2023_v01_241004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2023_v01_241004.pdf"
+        },
+        {
+          "text": "2022 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2022_v01_231004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2022_v01_231004.pdf"
+        },
+        {
+          "text": "2021 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2021_v01_221028.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2021_v01_221028.pdf"
+        },
+        {
+          "text": "2020 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2020_tl_221005.v2.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2020_tl_221005.v2.pdf"
+        },
+        {
+          "text": "2019 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2019_tl_201002.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2019_tl_201002.pdf"
+        },
+        {
+          "text": "2018 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2018_tl_191004.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2018_tl_191004.pdf"
+        },
+        {
+          "text": "2017 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2017.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_staf_2017.pdf"
+        },
+        {
+          "text": "2016 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2016_171221_tl.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2016_171221_tl.pdf"
+        },
+        {
+          "text": "2015 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2015.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2015.pdf"
+        },
+        {
+          "text": "2014 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2014.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2014.pdf"
+        },
+        {
+          "text": "2013 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2013_141127.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2013_141127.pdf"
+        },
+        {
+          "text": "2011 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2011.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2011.pdf"
+        },
+        {
+          "text": "2009 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2009.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2009.pdf"
+        },
+        {
+          "text": "2008 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2008.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2008.pdf"
+        },
+        {
+          "text": "2007 (pdf)",
+          "href": "/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2007.pdf",
+          "url": "https://www.scb.se/contentassets/90ccf2c3383a48b6b8e7cdb209ce680c/bo0404_do_2007.pdf"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Dokumentation",
+          "level": 2,
+          "anchor": "_Dokumentation"
+        },
+        {
+          "text": "Statistikens framställning (alternativt SCBDOK)",
+          "level": 4,
+          "anchor": "dok-list-h"
+        },
+        {
+          "text": "Dokumentation av mikrodata",
+          "level": 4,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "MetaPlus",
+          "href": "https://metadata.scb.se/?produkt=BO0404",
+          "url": "https://metadata.scb.se/?produkt=BO0404"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Fördjupad information",
+          "level": 2,
+          "anchor": "_Fordjupadinformation"
+        }
+      ],
+      "paragraphs": [
+        "Skräddarsydd statistik"
+      ],
+      "links": [
+        {
+          "text": "Skräddarsydd statistik",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Har du frågor om statistiken?",
+          "level": 2,
+          "anchor": null
+        },
+        {
+          "text": "",
+          "level": 2,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "E-post",
+        "byggande.bebyggelse@scb.se"
+      ],
+      "links": [
+        {
+          "text": "byggande.bebyggelse@scb.se",
+          "href": "mailto:byggande.bebyggelse@scb.se",
+          "url": "mailto:byggande.bebyggelse@scb.se"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Etiketter",
+          "level": 2,
+          "anchor": "Etiketter"
+        }
+      ],
+      "paragraphs": [
+        "Bostäder",
+        "Fastigheter",
+        "Hyror",
+        "Lägenheter"
+      ],
+      "links": [
+        {
+          "text": "Bostäder",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
+        },
+        {
+          "text": "Fastigheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
+        },
+        {
+          "text": "Hyror",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=86",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=86"
+        },
+        {
+          "text": "Lägenheter",
+          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
+          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/bo0404"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "endpoint": "dokument",
+  "params": {
+    "pVerkform": "Grundskola och sameskola",
+    "pOmrade": "Betyg årskurs 6",
+    "pLasar": "Vårtermin 2025"
+  },
+  "url": "https://siris.skolverket.se/siris/reports/sossok_api/dokument/?pVerkform=Grundskola%20och%20sameskola&pOmrade=Betyg%20%C3%A5rskurs%206&pLasar=V%C3%A5rtermin%202025",
+  "fetched": "2026-10-05T19:24:13+00:00",
+  "body": [
+    {
+      "url": "//siris.skolverket.se/siris/sitevision_doc.getFile?p_id=554117",
+      "titel": "PM – Betyg i årskurs 6, vårterminen 2025 (PDF)",
+      "typ": "L",
+      "id": "554117",
+      "filetype": "PDF",
+      "sos": "",
+      "tabell_nr": "",
+      "rubrik": "",
+      "huvudrubrik": ""
+    },
+    {
+      "url": "//siris.skolverket.se/siris/sitevision_doc.getFile?p_id=554104",
+      "titel": "Elever i årskurs 6, vårterminen 2025. Visat för olika elevgrupper (XLSX)",
+      "typ": "N",
+      "id": "554104",
+      "filetype": "XLSX",
+      "sos": "1",
+      "tabell_nr": "Tabell 1",
+      "rubrik": "Elever som ej fått godkänt betyg (A–E) i ett, två eller fler, eller i något ämne, samt elever som fått godkänt betyg i alla ämnen.",
+      "huvudrubrik": ""
+    },
+    {
+      "url": "//siris.skolverket.se/siris/sitevision_doc.getFile?p_id=554105",
+      "titel": "Samtliga elever, vårterminen 2025. Totalt, flickor resp. pojkar (XLSX)",
+      "typ": "N",
+      "id": "554105",
+      "filetype": "XLSX",
+      "sos": "1",
+      "tabell_nr": "Tabell 2A-2C",
+      "rubrik": "Fördelning av ämnesbetyg, samt andel som fått godkänt betyg (A-E) i respektive ämne.",
+      "huvudrubrik": ""
+    }
+  ]
+}

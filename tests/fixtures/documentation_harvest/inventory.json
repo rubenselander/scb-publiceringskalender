@@ -1,0 +1,16 @@
+[
+  {
+    "file": "scb.json",
+    "request_url": "https://www.scb.se/DokumentationSammanstallning/UpdateAmnesomrade?amnesomrade=55707",
+    "captured_at": "2026-10-05T19:20:47+00:00",
+    "fixture_sha256": "660b88b49523ebd15f68aae7c5d280bdbd1c5308b8a37bd41943ca50ece36e3b",
+    "coverage": "full subject fragment"
+  },
+  {
+    "file": "siris.json",
+    "request_url": "https://siris.skolverket.se/siris/reports/sossok_api/dokument/?pVerkform=Grundskola%20och%20sameskola&pOmrade=Betyg%20%C3%A5rskurs%206&pLasar=V%C3%A5rtermin%202025",
+    "captured_at": "2026-10-05T19:24:13+00:00",
+    "fixture_sha256": "ca1f45acb4630dc1228acd7a3e72552c1a64bb2552b175a6144e3f0019ed0952",
+    "coverage": "first three document records from one API response"
+  }
+]

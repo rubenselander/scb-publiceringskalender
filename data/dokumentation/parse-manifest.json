@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-10-05",
+  "documents": 9992,
+  "products": 616,
+  "review_candidates": 1074,
+  "source_counts": {
+    "scb": 8418,
+    "siris": 14294,
+    "sam": 725
+  },
+  "fetch_complete": false,
+  "failures": [
+    "sam/mfof",
+    "sam/statskontoret",
+    "sam/tillvaxtanalys",
+    "sam/trafikanalys"
+  ]
+}

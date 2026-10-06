@@ -1,0 +1,103 @@
+name: Update documentation harvest
+
+on:
+  schedule:
+    - cron: "41 4 * * 2"  # Tuesday 04:41 UTC
+  workflow_dispatch:
+    inputs:
+      source:
+        description: Documentation source to refresh
+        type: choice
+        default: all
+        options: [all, scb, siris, sam]
+      only:
+        description: Optional space-separated agency names for sam
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv and Python
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        with:
+          version: "0.12.7"
+          python-version: "3.13"
+
+      - name: Install and verify
+        id: verify
+        run: |
+          uv sync --locked
+          uv run ruff check .
+          uv run pytest -q
+
+      - name: Fetch documentation
+        id: fetch
+        env:
+          HARVEST_SOURCE: ${{ inputs.source || 'all' }}
+          HARVEST_AGENCIES: ${{ inputs.only }}
+        run: |
+          uv run python - <<'PY'
+          import os
+          import subprocess
+          args = ["uv", "run", "python", "fetch_dokumentation.py", "--bundle-dir", ".extract-raw/documentation/scheduled"]
+          source = os.environ["HARVEST_SOURCE"]
+          if source != "all":
+              args.append(source)
+          agencies = os.environ["HARVEST_AGENCIES"].split()
+          if agencies:
+              args.extend(["--only", *agencies])
+          raise SystemExit(subprocess.call(args))
+          PY
+
+      - name: Parse successful captures and retained sources
+        id: parse
+        if: always() && steps.verify.outcome == 'success' && steps.fetch.outcome != 'skipped'
+        run: |
+          uv run python parse_dokumentation.py
+          cp data/dokumentation/state.json .extract-raw/documentation/scheduled/state.json
+
+      - name: Summary
+        if: always() && steps.verify.outcome == 'success'
+        run: |
+          uv run python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          state = json.loads(Path("data/dokumentation/state.json").read_text())
+          print("## Documentation harvest")
+          print("Failed or incomplete sources:", ", ".join(state.get("last_failures", [])) or "none")
+          manifest = Path("data/dokumentation/parse-manifest.json")
+          if manifest.exists():
+              print(manifest.read_text())
+          PY
+
+      - name: Archive raw captures and recovery inputs
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: documentation-raw-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .extract-raw/documentation/scheduled/
+          include-hidden-files: true
+          retention-days: 90
+          if-no-files-found: warn
+
+      - name: Publish validated exports and failure state
+        if: always() && steps.parse.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dokumentation
+          git diff --cached --quiet || git commit -m "Update documentation harvest"
+          git pull --rebase --quiet
+          git push

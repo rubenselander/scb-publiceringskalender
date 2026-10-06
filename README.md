@@ -62,8 +62,7 @@ Rows are exactly what the calendar shows: a few entries have placeholder dates s
 
 ## How it updates
 
-A [scheduled GitHub Action](.github/workflows/update.yml) runs two scripts (standard library
-only) every Monday at 03:17 UTC. [`fetch.py`](fetch.py) copies the calendar's rows into
+A [scheduled GitHub Action](.github/workflows/update.yml) runs the calendar scripts and the metadata extractors every Monday at 03:17 UTC. [`fetch.py`](fetch.py) copies the calendar's rows into
 `data/raw/` without interpreting them, and [`parse.py`](parse.py) rebuilds the calendar files from
 those, so the output format can be changed without fetching anything again. Each run refetches
 everything from 1 January of the previous year up to the last planned publication and replaces
@@ -96,6 +95,86 @@ Locally, from the repository root, with Python 3.9 or later and nothing to insta
 python fetch.py          # or: python fetch.py --full
 python parse.py
 ```
+
+## Dokumentation: kvalitetsdeklarationer and other documentation per product
+
+Every product of Sweden's official statistics has a *kvalitetsdeklaration* (quality declaration),
+most have a *statistikens framställning* (production documentation), older ones a *beskrivning av
+statistiken* or an SCBDOK, and SCB's products a MetaPlus entry. No one lists them in one place:
+SCB's index covers the products SCB produces, the other agencies publish theirs on their own
+sites, each in its own way. The optional documentation harvest collects links exposed by the configured indexes and bounded agency crawls, including older documents still listed there. Coverage is incomplete when a source is inaccessible or a crawl reaches its limit.
+
+| Format | URL |
+|---|---|
+| per document, CSV | https://raw.githubusercontent.com/rubenselander/scb-publiceringskalender/main/data/dokumentation/dokument.csv |
+| per document, JSON Lines | https://raw.githubusercontent.com/rubenselander/scb-publiceringskalender/main/data/dokumentation/dokument.jsonl |
+| per product, CSV | https://raw.githubusercontent.com/rubenselander/scb-publiceringskalender/main/data/dokumentation/produkter.csv |
+| per product, JSON Lines | https://raw.githubusercontent.com/rubenselander/scb-publiceringskalender/main/data/dokumentation/produkter.jsonl |
+
+`dokument` has one row per document: `source` (`scb`, `siris` or `sam/<agency>`), `agency`,
+`product_code`, `product_name`, `product_match` (`code` from a filename or link label,
+`block` from an unambiguous SCB product block, or an inferred `name`/`page` candidate).
+Inferred joins appear only in `candidate_product_code` with `review_required=true`; they do
+not contribute to confirmed product document counts. `document_id` identifies the source
+occurrence; `source_url` and `provenance` retain evidence. Legacy exports may lack byte-level provenance., `doc_type`
+(`kvalitetsdeklaration`, `beskrivning av statistiken`, `statistikens framställning`, `scbdok`,
+`metaplus`, `kvalitetsrapport`), `year`, `title`, `url`, `filetype`, `source_url` (the page the
+link was found on) and `heading`.
+
+`produkter` has one row per product code in the calendar (and codes seen only in documents):
+`product_name`, `responsible_agency`, `in_calendar`, `last_publish_date`, `active` (recent or planned calendar activity relative to the parser reference date; it does not establish legal product status), `documents`, `sources`, and for each kind of document its count and the newest
+one's year and URL (`kd_*`, `bas_*`, `staf_*`, `scbdok_*`, `metaplus_*`).
+
+### Sources
+
+| Source | What | Raw data |
+|---|---|---|
+| `scb` | SCB's [Kvalitet och framställning](https://www.scb.se/dokumentation/kvalitet-och-framtagning/) index, which the page loads one subject area at a time from `/DokumentationSammanstallning/UpdateAmnesomrade?amnesomrade=<id>`. Every document of every product SCB documents, including the ones SCB produces for other agencies. Parsed to `scb_dokument.*` | `data/dokumentation/raw/scb/<id>.json`, the HTML fragment per subject area |
+| `siris` | Skolverket's "Sök statistik" form, backed by a JSON API on `siris.skolverket.se/siris/reports/sossok_api/` (`verksamhetsformer` → `omrade` → `lasar` → `dokument`). Every file Skolverket publishes per school form, area and year — tables, PMs, kvalitetsdeklarationer — with Skolverket's own official-statistics flag (`sos`). All of it is in `siris_dokument.*`; the documentation part goes into `dokument.*` | `data/dokumentation/raw/siris/<verkform>.jsonl`, one line per API response |
+| `sam` | The other statistikansvariga myndigheter, crawled from the start pages in [`dokumentation_sources.json`](dokumentation_sources.json) following the links that file allows. Every link on every page is stored; which ones are documents is decided when parsing (`sam_dokument.*`) | `data/dokumentation/raw/sam/<agency>.jsonl`, one line per page with its links |
+
+Agencies whose pages cannot be read by a plain HTTP client (bot checks, JavaScript-only pages) come
+up short or empty; `data/dokumentation/state.json` lists the sources that failed in the last run.
+Försäkringskassan's current kvalitetsdeklarationer are PDFs that no page links to and are not found.
+
+### How it updates
+
+[`update-dokumentation.yml`](.github/workflows/update-dokumentation.yml) runs
+[`fetch_dokumentation.py`](fetch_dokumentation.py) and
+[`parse_dokumentation.py`](parse_dokumentation.py) every Tuesday at 04:41 UTC, in the same way as
+the calendar: fetch stores what the sources send, parse rebuilds the output files from that.
+The harvest shares the publication concurrency group with the Monday workflow. A failed or
+capped source keeps its prior parsed records, successful siblings publish, and the workflow
+remains visibly failed. Current raw captures are ignored by Git and uploaded as artifacts
+with 90-day retention. The original branch's raw baseline remains recoverable in Git history.
+
+Locally, after `uv sync --locked`:
+
+```bash
+uv run python fetch_dokumentation.py scb siris sam
+uv run python fetch_dokumentation.py sam --only trafikanalys socialstyrelsen
+uv run python parse_dokumentation.py --as-of 2026-10-05
+```
+
+The SCB subject-fragment index supplements `scb_extract`'s product-page documentation.
+This harvest lists links and metadata; it does not download the linked PDFs or observation tables.
+SIRIS retains its native `sos` flag without treating calendar or fuzzy-name membership as proof
+that a document is official statistics.
+
+For offline recovery, download a documentation artifact and reconstruct a working directory:
+
+```bash
+mkdir -p .extract-stage/doc-replay
+cp <bundle>/inputs/* .extract-stage/doc-replay/
+cp <bundle>/state.json .extract-stage/doc-replay/state.json
+uv run python parse_dokumentation.py --raw-dir <bundle>/parsed-raw --data-dir .extract-stage/doc-replay --output-dir .extract-stage/doc-replay
+```
+
+The archived inputs include the previous source exports and calendar. Successful captured
+sources replace their exports; absent or failed sources reuse the previous exports. The artifact's
+state fixes the parser reference date, or pass `--as-of YYYY-MM-DD` explicitly. `http/` contains
+original response bytes, request manifests, redirects and hashes; `attempts/` contains failed crawl
+evidence. `parse-manifest.json` reports source counts, candidate joins and fetch failures.
 
 ## Known holes
 

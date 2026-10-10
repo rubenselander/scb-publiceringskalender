@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0515",
     "response_url": "https://www.scb.se/UF0515",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/",
-    "fetched_at": "2026-10-05T13:15:31.050434Z",
+    "fetched_at": "2026-10-10T01:19:31.262860Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "32a754eef53897cd724cf520f9e971ecac99ab5e1f9ea6d19dfec3d113d0d2cd",
+    "content_sha256": "0596deb2239dd1cb60d99ea6e965a199438568635152d0b62c100c60a4c2af1f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetskraft",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-    },
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -392,180 +376,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Cirka 80 procent av unga med examen från ett yrkesprogram hade arbete tre år senare. Men alla arbetar inte med det de utbildat sig till."
-      ],
-      "links": [
-        {
-          "text": "Jobb väntar för dig som valt yrkesprogram",
-          "href": "/hitta-statistik/artiklar/2018/jobb-vantar-for-dig-som-valt-yrkesprogram/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/jobb-vantar-for-dig-som-valt-yrkesprogram/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-08-29"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Gymnasieskola",
-        "Utbildning",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Tillgången på arbetskraft med yrkesinriktad gymnasial utbildning väntas inte kunna möta den framtida efterfrågan. För de utbildningsgrupper som arbetsgivarna redan idag har svårt att rekrytera finns därmed risk för att dagens brist förvärras. Samtidigt som efterfrågan på gymnasialt yrkesutbildade ökar riskerar det bli ännu svårare att hitta behöriga yrkeslärare."
-      ],
-      "links": [
-        {
-          "text": "Brist på gymnasialt yrkesutbildade även om 20 år",
-          "href": "/hitta-statistik/artiklar/2018/brist-pa-gymnasialt-yrkesutbildade-aven-om-20-ar/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/brist-pa-gymnasialt-yrkesutbildade-aven-om-20-ar/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-03-05"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Gymnasieskola",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -863,18 +673,7 @@
         "Skräddarsydd statistik",
         "Bakgrundsfakta Regionala trender och prognoser. Transportutbildade och yrkeskompetensbevis"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/"
-        },
-        {
-          "text": "Bakgrundsfakta Regionala trender och prognoser. Transportutbildade och yrkeskompetensbevis",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/bakgrundsfakta-trender-och-prognoser.-transportutbildade-och-yrkeskompetensbevis",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/bakgrundsfakta-trender-och-prognoser.-transportutbildade-och-yrkeskompetensbevis"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -897,44 +696,6 @@
           "text": "prognosinstitutet@scb.se",
           "href": "mailto:prognosinstitutet@scb.se",
           "url": "mailto:prognosinstitutet@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trender och prognoser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetskraft",
-        "Arbetsmarknad",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Arbetskraft",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-        },
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
         }
       ],
       "table_headers": [],

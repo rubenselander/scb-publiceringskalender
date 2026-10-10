@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0109",
     "response_url": "https://www.scb.se/EN0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oljeleveranser--kommunvis-redovisning/",
-    "fetched_at": "2026-10-05T13:10:31.329525Z",
+    "fetched_at": "2026-10-10T01:15:39.291033Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a3ce362ffb9ee6ff930e1a11a5e77996c8e4462a95bef617277e35f409f636fe",
+    "content_sha256": "c043d69588d1c3963578a5b5d26f45c7cbf2350c3505339c664b3aceea9735a1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -673,117 +667,7 @@
       "paragraphs": [
         "Beskrivning av Oljeleveranser – kommunvis redovisning"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Oljeleveranser – kommunvis redovisning",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oljeleveranser--kommunvis-redovisning/produktrelaterat/Fordjupad-information/beskrivning-av-oljeleveranser--kommunvis-redovisning/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oljeleveranser--kommunvis-redovisning/produktrelaterat/Fordjupad-information/beskrivning-av-oljeleveranser--kommunvis-redovisning/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Oljeleveranser – kommunvis redovisning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Mats Rönnbacka",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 61 84",
-        "E-post",
-        "mats.ronnbacka@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 61 84",
-          "href": "tel:010-479 61 84",
-          "url": "tel:010-479 61 84"
-        },
-        {
-          "text": "mats.ronnbacka@scb.se",
-          "href": "mailto:mats.ronnbacka@scb.se",
-          "url": "mailto:mats.ronnbacka@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Oljeleveranser – kommunvis redovisning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "William Sörman Olofsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 24",
-        "E-post",
-        "william.sormanolofsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 24",
-          "href": "tel:010-479 63 24",
-          "url": "tel:010-479 63 24"
-        },
-        {
-          "text": "william.sormanolofsson@scb.se",
-          "href": "mailto:william.sormanolofsson@scb.se",
-          "url": "mailto:william.sormanolofsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Oljeleveranser – kommunvis redovisning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

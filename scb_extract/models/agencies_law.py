@@ -1,4 +1,4 @@
-"""Output contracts for agency lists, the register and regulation snapshots.
+"""Output contracts for agency lists and the (disabled) agency register.
 
 Use ``model_json_schema()`` on a document model when a JSON Schema is needed.
 Source strings retain spelling, punctuation, casing, blank cells, and identifiers.
@@ -81,30 +81,6 @@ class SourceField(SourceModel):
     value: str | None = Field(
         description="Empty source text is ''; null means unavailable."
     )
-
-
-class LawBlock(SourceModel):
-    """An ordered block with raw text and its source markup type."""
-
-    source_tag: str
-    text: str = Field(
-        description="Retain tabs, line wraps, section numbers, and validity markers."
-    )
-
-
-class OfficialStatisticsRegulationDocument(SourceModel):
-    """Lossless law draft before interpreting temporally versioned appendix mappings.
-
-    The document includes paragraphs, transitions and appendix text. The draft
-    deliberately avoids claiming all displayed appendix versions apply today.
-    """
-
-    provenance: Provenance
-    page_title: str
-    sfs_number: str
-    metadata: list[SourceField]
-    coverage: Literal["complete", "partial"]
-    content_blocks: list[LawBlock]
 
 
 class RegistryAgency(SourceModel):

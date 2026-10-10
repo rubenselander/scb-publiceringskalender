@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0203",
     "response_url": "https://www.scb.se/SF0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/sjukfall/",
-    "fetched_at": "2026-10-05T13:14:14.119223Z",
+    "fetched_at": "2026-10-10T01:18:35.039942Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6cde0886c239b4f73b428aee5423b1cd3febf85e7964be7ab62763ec11735f49",
+    "content_sha256": "194335d2b70e60bbab8c386dbfc905faa59cf77498d7b7e6a2647330d2da14c9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Sjukfrånvaro",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    },
-    {
-      "text": "Sjukförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -93,89 +72,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sjukfall",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sjukfall",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Inkomst",
-        "Sjukfrånvaro",
-        "Socialförsäkring",
-        "Sjukförsäkring"
-      ],
-      "links": [
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Sjukfrånvaro",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-        },
-        {
-          "text": "Sjukförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
         }
       ],
       "table_headers": [],

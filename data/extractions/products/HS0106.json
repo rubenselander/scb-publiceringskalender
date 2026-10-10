@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0106",
     "response_url": "https://www.scb.se/HS0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/spadbarnsforaldrars-rokvanor/",
-    "fetched_at": "2026-10-05T13:11:06.386014Z",
+    "fetched_at": "2026-10-10T01:16:16.067179Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "36acff2d318e8df1cdf5c091bd8c1cd48a4135bbedee1d2d72716ddc1c9e4db9",
+    "content_sha256": "6a2cf1739acfcd265e44ef67f55a1b7b4faec74c5e26674252403e6d257e8bda",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,28 +34,7 @@
   "notices": [
     "Statistiken uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Rökning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=223",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=223"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -106,89 +85,6 @@
         "Statistiken uppdateras inte längre."
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om spädbarnsföräldrars rökvanor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om spädbarnsföräldrars rökvanor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Hälsa och ohälsa",
-        "Rökning"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Rökning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=223",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=223"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

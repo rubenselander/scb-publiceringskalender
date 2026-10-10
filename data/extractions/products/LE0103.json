@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0103",
     "response_url": "https://www.scb.se/LE0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/",
-    "fetched_at": "2026-10-05T13:12:11.203225Z",
+    "fetched_at": "2026-10-10T01:17:08.297475Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dc22e07e3f669cf6a023d3f85c863bc90bbe49da2792968705e8373703ba71c8",
+    "content_sha256": "58efc73f3e58cae0bd43dba9bca01495986a99c1fb3bd26e9252025b9ba38b95",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Fritid",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=62",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=62"
-    },
-    {
-      "text": "Jämställdhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=102",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=102"
-    },
-    {
-      "text": "Kvinnor och män",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=112",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=112"
-    },
-    {
-      "text": "Tidsanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=191",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=191"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -536,113 +510,7 @@
         "Bakgrundstabeller 2000",
         "Bakgrundstabeller 2010"
       ],
-      "links": [
-        {
-          "text": "Teknisk beskrivning av Tidsanvändningsundersökningen",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/teknisk-beskrivning-av-tidsanvandningsundersokningen/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/teknisk-beskrivning-av-tidsanvandningsundersokningen/"
-        },
-        {
-          "text": "Bakgrundstabeller 2000",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/bakgrundstabeller-2000/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/bakgrundstabeller-2000/"
-        },
-        {
-          "text": "Bakgrundstabeller 2010",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/bakgrundstabeller-2010/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/tidsundersokningar/produktrelaterat/Fordjupad-information/bakgrundstabeller-2010/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tidsundersökningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00",
-        "E-post",
-        "information@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        },
-        {
-          "text": "information@scb.se",
-          "href": "mailto:information@scb.se",
-          "url": "mailto:information@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tidsundersökningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fritid",
-        "Jämställdhet",
-        "Kvinnor och män",
-        "Tidsanvändning",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Fritid",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=62",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=62"
-        },
-        {
-          "text": "Jämställdhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=102",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=102"
-        },
-        {
-          "text": "Kvinnor och män",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=112",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=112"
-        },
-        {
-          "text": "Tidsanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=191",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=191"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

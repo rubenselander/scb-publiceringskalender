@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0107",
     "response_url": "https://www.scb.se/HS0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/graviditeter-forlossningar-och-nyfodda-barn/",
-    "fetched_at": "2026-10-05T13:11:07.472721Z",
+    "fetched_at": "2026-10-10T01:16:16.762007Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "20c609d22e1fc5d0adc8c8c5300b69adb22440c8077516b4b18183205ee8cd9b",
+    "content_sha256": "df98d4f0224e9dbfa465d0bcb3da441fdacec934bf1c2fa1fe6c9bf890be4e73",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,33 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Fruktsamhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=64",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=64"
-    },
-    {
-      "text": "Födda och döda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=66",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=66"
-    },
-    {
-      "text": "Hälso- och sjukvård",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -92,95 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om graviditeter, förlossningar och nyfödda barn",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om graviditeter, förlossningar och nyfödda barn",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Fruktsamhet",
-        "Födda och döda",
-        "Hälso- och sjukvård"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Fruktsamhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=64",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=64"
-        },
-        {
-          "text": "Födda och döda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=66",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=66"
-        },
-        {
-          "text": "Hälso- och sjukvård",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
         }
       ],
       "table_headers": [],

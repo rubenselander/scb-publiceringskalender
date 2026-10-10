@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0202",
     "response_url": "https://www.scb.se/OE0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/den-svenska-statsskulden/",
-    "fetched_at": "2026-10-05T13:13:32.995633Z",
+    "fetched_at": "2026-10-10T01:18:12.516146Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f0ede4b99bc865f9ea656c76b1a93518149c6b1ba8fd7d1723472b5db2d0494a",
+    "content_sha256": "24e97f4ccb986a03a5ad8c9d2945fc41441ad9e1cadaf1bd91cb4d9c940360bc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0202",
   "summary": "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-07",
-  "next_publication_date": "2026-10-07",
+  "next_publication_text": "Nästa publicering: 2026-11-06",
+  "next_publication_date": "2026-11-06",
   "responsible_agency": {
     "label": "Riksgälden",
     "link": {
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Lån",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -59,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-07",
+        "Nästa publicering: 2026-11-06",
         "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-07",
+          "text": "Nästa publicering: 2026-11-06",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year"
         }
@@ -154,7 +138,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M08",
+          "text": "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy"
         },
@@ -174,8 +158,8 @@
           "Datum"
         ],
         [
-          "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M08",
-          "2026-09-08"
+          "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M09",
+          "2026-10-08"
         ],
         [
           "Statsskulden efter kontopost (uppdateras ej). Månad 1970M01 - 2024M09",
@@ -371,83 +355,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=OE0202",
           "url": "https://metadata.scb.se/?produkt=OE0202"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Den svenska statsskulden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Riksgälden",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-613 45 00",
-        "E-post",
-        "riksgalden@riksgalden.se"
-      ],
-      "links": [
-        {
-          "text": "08-613 45 00",
-          "href": "tel:08-613 45 00",
-          "url": "tel:08-613 45 00"
-        },
-        {
-          "text": "riksgalden@riksgalden.se",
-          "href": "mailto:riksgalden@riksgalden.se",
-          "url": "mailto:riksgalden@riksgalden.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Den svenska statsskulden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Lån",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Lån",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

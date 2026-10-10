@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0502",
     "response_url": "https://www.scb.se/UF0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/personalutbildningsstatistik/",
-    "fetched_at": "2026-10-05T13:15:25.616902Z",
+    "fetched_at": "2026-10-10T01:19:27.197836Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ad8c27732343ed3af1c7aada765092fa4b66d675e93442ce99f1d7df87cbcfee",
+    "content_sha256": "9e6ef4db91dbc11e55689961859aec3bab85ea496b3300c74c4ce012949c1dc7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Kompetensutveckling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=106",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=106"
-    },
-    {
-      "text": "Personalutbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=152",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=152"
-    },
-    {
-      "text": "Vuxenutbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1097,76 +1081,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0502",
           "url": "https://metadata.scb.se/?produkt=UF0502"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Personalutbildningsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "ua@scb.se"
-      ],
-      "links": [
-        {
-          "text": "ua@scb.se",
-          "href": "mailto:ua@scb.se",
-          "url": "mailto:ua@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Personalutbildningsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Kompetensutveckling",
-        "Personalutbildning",
-        "Vuxenutbildning"
-      ],
-      "links": [
-        {
-          "text": "Kompetensutveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=106",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=106"
-        },
-        {
-          "text": "Personalutbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=152",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=152"
-        },
-        {
-          "text": "Vuxenutbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
         }
       ],
       "table_headers": [],

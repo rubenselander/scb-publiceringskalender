@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0301",
     "response_url": "https://www.scb.se/UF0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/",
-    "fetched_at": "2026-10-05T13:15:19.028595Z",
+    "fetched_at": "2026-10-10T01:19:22.405530Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "99915b843a37e392a928efc190bd5d4df74e47d9e033ba76328f21779e34c7c2",
+    "content_sha256": "005eafd18e5799ce43007030e3af023a579299c392cc1e6583c93deff3ace37b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-10-29",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Forskare",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=60",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=60"
-    },
-    {
-      "text": "Forskning och utveckling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-    },
-    {
-      "text": "Investeringar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
-    },
-    {
-      "text": "Utgifter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -2352,90 +2331,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Män forskar oftare än kvinnor inom naturvetenskap och teknik, de två forskningsämnesområden som får mest pengar från EU. Det resulterade i att män i genomsnitt tilldelades 25 procent mer forskningsmedel från EU än kvinnor under 2019."
-      ],
-      "links": [
-        {
-          "text": "Män får mer forskningsmedel från EU än kvinnor",
-          "href": "/hitta-statistik/artiklar/2022/man-far-mer-forskningsmedel-fran-eu-an-kvinnor/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2022/man-far-mer-forskningsmedel-fran-eu-an-kvinnor/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2022-06-01"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Forskning och utveckling",
-        "Utbildning",
-        "Europa"
-      ],
-      "links": [
-        {
-          "text": "Forskning och utveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=61&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Europa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -2740,173 +2635,7 @@
         "Tabellbilaga: Forskning och utveckling i Sverige 2021 - Preliminär statistik",
         "Nordic research and development expenditure continues to increase (fpol.no)"
       ],
-      "links": [
-        {
-          "text": "Forskning och Utveckling i Sverige 2017 – Preliminära uppgifter (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/forskning-och-utveckling-i-sverige-2017---preliminara-uppgifter-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/forskning-och-utveckling-i-sverige-2017---preliminara-uppgifter-pdf/"
-        },
-        {
-          "text": "Prognos för FoU 2016 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/prognos-for-fou-2016-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/prognos-for-fou-2016-pdf/"
-        },
-        {
-          "text": "Tidigare prognoser för FoU",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tidigare-prognoser-for-fou/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tidigare-prognoser-for-fou/"
-        },
-        {
-          "text": "Allt fler företag nyttjar forskningsavdrag (pdf)",
-          "href": "/contentassets/8e4fb961de804d73886e0eb98a2b9085/allt_fler_foretag_nyttjar_forskningsavdrag.pdf",
-          "url": "https://www.scb.se/contentassets/8e4fb961de804d73886e0eb98a2b9085/allt_fler_foretag_nyttjar_forskningsavdrag.pdf"
-        },
-        {
-          "text": "Tabellbilaga: Forskning och utveckling i Sverige 2019 – Preliminär statistik (excel)",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tabellbilaga-forskning-och-utveckling-i-sverige-2019--preliminar-statistik-excel/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tabellbilaga-forskning-och-utveckling-i-sverige-2019--preliminar-statistik-excel/"
-        },
-        {
-          "text": "Tabellbilaga: Forskning och utveckling i Sverige 2021 - Preliminär statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tabellbilaga-forskning-och-utveckling-i-sverige-2021---preliminar-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/produktrelaterat/Fordjupad-information/tabellbilaga-forskning-och-utveckling-i-sverige-2021---preliminar-statistik/"
-        },
-        {
-          "text": "Nordic research and development expenditure continues to increase (fpol.no)",
-          "href": "https://www.fpol.no/nordic-rd/",
-          "url": "https://www.fpol.no/nordic-rd/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "fou-statistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "fou-statistik@scb.se",
-          "href": "mailto:fou-statistik@scb.se",
-          "url": "mailto:fou-statistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Forskare",
-        "Forskning och utveckling",
-        "Investeringar",
-        "Utgifter"
-      ],
-      "links": [
-        {
-          "text": "Forskare",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=60",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=60"
-        },
-        {
-          "text": "Forskning och utveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-        },
-        {
-          "text": "Investeringar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
-        },
-        {
-          "text": "Utgifter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

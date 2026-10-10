@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0804",
     "response_url": "https://www.scb.se/JO0804",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arlig-tillvaxt/",
-    "fetched_at": "2026-10-05T13:11:48.563980Z",
+    "fetched_at": "2026-10-10T01:16:51.717538Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "49e71fc3a226974db81cb3244d9bb1ff176e6fb71949f7d6412ffb41af159857",
+    "content_sha256": "b0fa6b69df94cb68c5da953530edbd2dbf00d4ed6a4581ad2939b6ff282beeac",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Produktion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
-    },
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    },
-    {
-      "text": "Skogsmark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Sveriges lantbruksuniversitet (SLU)",
           "href": "http://www.slu.se/skogsstatistik",
           "url": "http://www.slu.se/skogsstatistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årlig tillväxt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Per-Erik Wikberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "090-786 83 03",
-        "E-post",
-        "per-erik.wikberg@slu.se"
-      ],
-      "links": [
-        {
-          "text": "090-786 83 03",
-          "href": "tel:090-786 83 03",
-          "url": "tel:090-786 83 03"
-        },
-        {
-          "text": "per-erik.wikberg@slu.se",
-          "href": "mailto:per-erik.wikberg@slu.se",
-          "url": "mailto:per-erik.wikberg@slu.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årlig tillväxt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Produktion",
-        "Skog",
-        "Skogsmark"
-      ],
-      "links": [
-        {
-          "text": "Produktion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
-        },
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-        },
-        {
-          "text": "Skogsmark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
         }
       ],
       "table_headers": [],

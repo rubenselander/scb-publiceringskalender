@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0301",
     "response_url": "https://www.scb.se/RV0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/domstolarnas-verksamhet/domstolsstatistik/",
-    "fetched_at": "2026-10-05T13:13:59.524913Z",
+    "fetched_at": "2026-10-10T01:18:26.526064Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f8c6315c4ccd984bfc60745da833cd29a9408f66c55cd3bccc32f0a86c700c6a",
+    "content_sha256": "aa10814423aa042884fadc7d5cbf8e3ee20e313df29a14837f5c54a61b7c1354",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Domstolsverket",
           "href": "https://www.domstol.se/om-sveriges-domstolar/statistik-styrning-och-utveckling/statistik/officiell-domstolsstatistik/",
           "url": "https://www.domstol.se/om-sveriges-domstolar/statistik-styrning-och-utveckling/statistik/officiell-domstolsstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Domstolsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Domstolsverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 53 00",
-        "E-post",
-        "domstolsverket@dom.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 53 00",
-          "href": "tel:036-15 53 00",
-          "url": "tel:036-15 53 00"
-        },
-        {
-          "text": "domstolsverket@dom.se",
-          "href": "mailto:domstolsverket@dom.se",
-          "url": "mailto:domstolsverket@dom.se"
         }
       ],
       "table_headers": [],

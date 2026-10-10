@@ -53,12 +53,6 @@
     "params": {},
     "json_body": null
   },
-  "regulation": {
-    "url": "https://data.riksdagen.se/dokument/sfs-2001-100.html",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
   "agency_registry": {
     "url": "https://myndighetsregistret.scb.se/Myndighet",
     "method": "GET",
@@ -73,12 +67,6 @@
   },
   "hvd": {
     "url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/",
     "method": "GET",
     "params": {},
     "json_body": null
@@ -115,72 +103,6 @@
   },
   "changes_3": {
     "url": "https://www.scb.se/globalassets/sam-forum/officiell-statistik/andringar-i-officiell-statistik/forandringar-i-den-officiella-statistiken---1-apr---31-okt.-2024.pdf",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_0": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tjanstesektorn/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_1": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-manadsgenomsnitt/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_2": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/valutakurser-arsgenomsnitt/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_3": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_4": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-hushall---makroindex/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_5": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/hushallens-inkopsplaner-hip--mikroindex/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_6": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-handel/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_7": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkturbarometer-tillverkningsindustrin/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_8": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/konjunkurbarometer-byggverksamhet/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_9": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/kort-och-lang-ranta-1989-/",
-    "method": "GET",
-    "params": {},
-    "json_body": null
-  },
-  "economy_10": {
-    "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/pong/tabell-och-diagram/kort-och-lang-ranta-2008-/",
     "method": "GET",
     "params": {},
     "json_body": null

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0516",
     "response_url": "https://www.scb.se/UF0516",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/",
-    "fetched_at": "2026-10-05T13:15:31.589713Z",
+    "fetched_at": "2026-10-10T01:19:31.846796Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6b64ca6c761b4b513a297ff6b5a749ac5f5992ffe925ef6b866cfa5624e1102e",
+    "content_sha256": "4dbfe0c100d68df27a7999cf4417a4292f8b716daab8675be5f8b9ae1bdacff0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetskraft",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-    },
-    {
-      "text": "Sysselsatta",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -403,18 +392,7 @@
         "Mer om sysselsättningsprognosen",
         "Skräddarsydd statistitk"
       ],
-      "links": [
-        {
-          "text": "Mer om sysselsättningsprognosen",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/produktrelaterat/Fordjupad-information/mer-om-sysselsattningsprognosen/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/produktrelaterat/Fordjupad-information/mer-om-sysselsattningsprognosen/"
-        },
-        {
-          "text": "Skräddarsydd statistitk",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/sysselsattningsprognos/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -437,38 +415,6 @@
           "text": "prognosinstitutet@scb.se",
           "href": "mailto:prognosinstitutet@scb.se",
           "url": "mailto:prognosinstitutet@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sysselsättningsprognos",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetskraft",
-        "Sysselsatta"
-      ],
-      "links": [
-        {
-          "text": "Arbetskraft",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-        },
-        {
-          "text": "Sysselsatta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
         }
       ],
       "table_headers": [],

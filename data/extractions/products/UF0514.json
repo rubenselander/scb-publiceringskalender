@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0514",
     "response_url": "https://www.scb.se/UF0514",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/kostnader-for-utbildningsvasendet/",
-    "fetched_at": "2026-10-05T13:15:30.406337Z",
+    "fetched_at": "2026-10-10T01:19:30.772919Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c5a1156c9fb0a5e447173ee3505baffd649f5cec91893d9ffe74d003263a05b5",
+    "content_sha256": "1776bfab15ff2432dbc54026f405408bf43c61f1c3f2e2dd7ef24662cf7b5f91",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": "2026-11-25",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "BNP",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-    },
-    {
-      "text": "Grundskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-    },
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utgifter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -989,102 +963,7 @@
       "paragraphs": [
         "Beskrivning av Kostnader för utbildningsväsendet"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Kostnader för utbildningsväsendet",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/kostnader-for-utbildningsvasendet/produktrelaterat/Fordjupad-information/beskrivning-av-kostnader-for-utbildningsvasendet/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/kostnader-for-utbildningsvasendet/produktrelaterat/Fordjupad-information/beskrivning-av-kostnader-for-utbildningsvasendet/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kostnader för utbildningsväsendet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Ann Nord",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 69 42",
-        "E-post",
-        "ann.nord@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 69 42",
-          "href": "tel:010-479 69 42",
-          "url": "tel:010-479 69 42"
-        },
-        {
-          "text": "ann.nord@scb.se",
-          "href": "mailto:ann.nord@scb.se",
-          "url": "mailto:ann.nord@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kostnader för utbildningsväsendet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Grundskola",
-        "Gymnasieskola",
-        "Universitet och högskola",
-        "Utgifter"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-        },
-        {
-          "text": "Grundskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utgifter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

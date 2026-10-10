@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0205",
     "response_url": "https://www.scb.se/JO0205",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/ekonomisk-kalkyl-for-jordbrukssektorn-eaa/",
-    "fetched_at": "2026-10-05T13:11:32.075811Z",
+    "fetched_at": "2026-10-10T01:16:34.928081Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9b66bd9cd0a3442f1ac4f67118d39c59bb464aefb44bc43c10f6abb4df4a41de",
+    "content_sha256": "3e6b6ba267d74c92fb61cdb6253a4527db9cb36cbac4f265eb327e0a46343d74",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    },
-    {
-      "text": "Produktion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -550,83 +534,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0205",
           "url": "https://metadata.scb.se/?produkt=JO0205"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Ekonomisk kalkyl för jordbrukssektorn (EAA)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Ekonomisk kalkyl för jordbrukssektorn (EAA)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Odling",
-        "Produktion"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        },
-        {
-          "text": "Produktion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
         }
       ],
       "table_headers": [],

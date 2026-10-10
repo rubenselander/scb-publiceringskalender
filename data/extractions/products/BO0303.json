@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0303",
     "response_url": "https://www.scb.se/BO0303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/",
-    "fetched_at": "2026-10-05T13:10:23.629475Z",
+    "fetched_at": "2026-10-10T01:15:32.077740Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "af0831b748e2c452fea9be27ca39c8f97e4536a26ae2d9cc84d62a7a05863895",
+    "content_sha256": "2d16178414d5cacf337dce64d538c7a8637977999e1b9186c63894c7de7573f0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bostäder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-    },
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -725,161 +709,7 @@
       "paragraphs": [
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Outhyrda bostadslägenheter i flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Outhyrda bostadslägenheter i flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Malin Sundberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 62",
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 62",
-          "href": "tel:010-479 41 62",
-          "url": "tel:010-479 41 62"
-        },
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Outhyrda bostadslägenheter i flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Åsa Törlén",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 47",
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 47",
-          "href": "tel:010-479 41 47",
-          "url": "tel:010-479 41 47"
-        },
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Outhyrda bostadslägenheter i flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bostäder",
-        "Fastigheter",
-        "Lägenheter"
-      ],
-      "links": [
-        {
-          "text": "Bostäder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-        },
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

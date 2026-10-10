@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0106",
     "response_url": "https://www.scb.se/JO0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/foretag-och-foretagare-i-jordbruket/",
-    "fetched_at": "2026-10-05T13:11:20.264074Z",
+    "fetched_at": "2026-10-10T01:16:24.804039Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "54e91b8c1f429a4a481e852d97a50235a6b6136cc91675409f6be21c4c6c3936",
+    "content_sha256": "462ffc25f5864c5c700ed2b35e93261f2978ccff638e730bedfb0ecd517469ea",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -575,77 +564,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0106",
           "url": "https://metadata.scb.se/?produkt=JO0106"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företag och företagare i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företag och företagare i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företag",
-        "Jordbruk"
-      ],
-      "links": [
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0404",
     "response_url": "https://www.scb.se/BO0404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/",
-    "fetched_at": "2026-10-05T13:10:24.106873Z",
+    "fetched_at": "2026-10-10T01:15:32.465164Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5f212110cc4307235e4caf63f3eb962706a98572837d8c4fd060c4dfcb78def2",
+    "content_sha256": "a857c03b51fda983b72862bf2d62f5eb807fd09c7c382aba012d48e4da83785b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bostäder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-    },
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Hyror",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=86",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=86"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -822,89 +801,7 @@
       "paragraphs": [
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avgifter/hyror för nybyggda lägenheter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avgifter/hyror för nybyggda lägenheter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bostäder",
-        "Fastigheter",
-        "Hyror",
-        "Lägenheter"
-      ],
-      "links": [
-        {
-          "text": "Bostäder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-        },
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Hyror",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=86",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=86"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

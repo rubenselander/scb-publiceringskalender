@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0122",
     "response_url": "https://www.scb.se/EN0122",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oforadlat-tradbransle/",
-    "fetched_at": "2026-10-05T13:10:36.988429Z",
+    "fetched_at": "2026-10-10T01:15:45.281224Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ecb2cc3498cdd1622ca70f6ab1508c5d5aa28bae2cd9c4ad06ce6cb751a53169",
+    "content_sha256": "a8620ed2f3bd615b7fd884f0622aebd59533d4fbef4c3db3be82deeaf339d9c2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -100,58 +94,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Oförädlat trädbränsle",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Energimyndigheten",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Box 310, 631 04 Eskilstuna"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Oförädlat trädbränsle",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
         }
       ],
       "table_headers": [],

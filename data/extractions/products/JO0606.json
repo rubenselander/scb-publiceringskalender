@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0606",
     "response_url": "https://www.scb.se/JO0606",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-slattervall/",
-    "fetched_at": "2026-10-05T13:11:44.078592Z",
+    "fetched_at": "2026-10-10T01:16:47.493517Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9cb6f1cfdfd06dddc0556015c404f2c524cf84bfcf9f39481fd00711d51b259c",
+    "content_sha256": "0f04734ffd56481e92198035a214ae0a2a240234a1bf3768cf2987a3cb18b061",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -37,18 +37,7 @@
     "Statistiska tidsserier över skörd av slåttervall finns tillgängliga tillsammans med slutlig skördestatistik från skörd av spannmål, trindsäd, oljeväxter, sockerbetor och potatis i",
     "SCB:s statistikdatabas"
   ],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -425,70 +414,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0606",
           "url": "https://metadata.scb.se/?produkt=JO0606"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd av slåttervall",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lantbruksstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lantbruksstatistik@scb.se",
-          "href": "mailto:lantbruksstatistik@scb.se",
-          "url": "mailto:lantbruksstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd av slåttervall",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
         }
       ],
       "table_headers": [],

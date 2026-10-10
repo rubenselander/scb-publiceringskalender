@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1001",
     "response_url": "https://www.scb.se/JO1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/prisindex-och-priser-pa-livsmedelsomradet-201812/",
-    "fetched_at": "2026-10-05T13:11:50.196203Z",
+    "fetched_at": "2026-10-10T01:16:53.308649Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f75ee39b503a37f14392d8b4848273dcea151069c2cc66ed8cbcdaf28868cc2d",
+    "content_sha256": "62e7ef0ce80fd20c5f13b78562a43fc83992f5d7a08ae6e2c4f28a660ebd5ccc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,18 +34,7 @@
   "notices": [
     "Från och med maj 2020 publiceras nya rapporter hos Jordbruksverket ."
   ],
-  "tags": [
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "Livsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -843,77 +832,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO1001",
           "url": "https://metadata.scb.se/?produkt=JO1001"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Prisindex och priser på livsmedelsområdet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Prisindex och priser på livsmedelsområdet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Index",
-        "Livsmedel"
-      ],
-      "links": [
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "Livsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
         }
       ],
       "table_headers": [],

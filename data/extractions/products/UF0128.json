@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0128",
     "response_url": "https://www.scb.se/UF0128",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-gymnasieskolan-resultat/",
-    "fetched_at": "2026-10-05T13:15:01.292613Z",
+    "fetched_at": "2026-10-10T01:19:09.982214Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "251ef12167312ec6563e209deb82d288a3c84ebc1205b9e2517940493e53d314",
+    "content_sha256": "a33df8fb60d80b2c011233f92dbf6f1b08b976464d28b1996d4ff6ab8277c4f4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -344,38 +344,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0128",
           "url": "https://metadata.scb.se/?produkt=UF0128"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationella prov gymnasieskolan: resultat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

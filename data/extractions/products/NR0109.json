@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0109",
     "response_url": "https://www.scb.se/NR0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/",
-    "fetched_at": "2026-10-05T13:12:54.678103Z",
+    "fetched_at": "2026-10-10T01:17:50.069215Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "70817c34fe9845b90b4fdf981953dc8108d417f4f86ed8dc416cd4c151a0a63c",
+    "content_sha256": "a5699711d6d020f500ae1f0d8398eece39db41bb5a1b425da41e9b58e68af140",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "BNP",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Offentlig ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -641,13 +620,7 @@
       "paragraphs": [
         "Beskrivning av Hälsoräkenskaper"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Hälsoräkenskaper",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/produktrelaterat/Fordjupad-information/beskrivning-av-halsorakenskaper/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/produktrelaterat/Fordjupad-information/beskrivning-av-halsorakenskaper/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -667,143 +640,7 @@
       "paragraphs": [
         "Beräkning av tandvården i Nationalräkenskaperna (pdf)"
       ],
-      "links": [
-        {
-          "text": "Beräkning av tandvården i Nationalräkenskaperna (pdf)",
-          "href": "/contentassets/3be6585841b44daf865fc9638d3b4ffc/nr0001_2017k02_ti_a28it1703.pdf",
-          "url": "https://www.scb.se/contentassets/3be6585841b44daf865fc9638d3b4ffc/nr0001_2017k02_ti_a28it1703.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälsoräkenskaper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälsoräkenskaper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälsoräkenskaper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Nationalräkenskaper",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "nrinfo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "nrinfo@scb.se",
-          "href": "mailto:nrinfo@scb.se",
-          "url": "mailto:nrinfo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälsoräkenskaper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Hushåll",
-        "Hälsa och ohälsa",
-        "Offentlig ekonomi"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Offentlig ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

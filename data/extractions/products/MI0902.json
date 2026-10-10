@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0902",
     "response_url": "https://www.scb.se/MI0902",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/",
-    "fetched_at": "2026-10-05T13:12:41.446135Z",
+    "fetched_at": "2026-10-10T01:17:38.464537Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9c7922ece437e97070c9880bcc24c4f43086803f76a8513244ea8763c73aa126",
+    "content_sha256": "f3938c9277c278e3e866b225820d5445a0f5c5d172d7151ea4252e19db3a9765",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Vatten",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
-    },
-    {
-      "text": "Vattenanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=212",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=212"
-    },
-    {
-      "text": "Vattenuttag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=213",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=213"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1200,149 +1184,7 @@
       "paragraphs": [
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/6212195289bb44b28ea5f3fd46242d74/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/6212195289bb44b28ea5f3fd46242d74/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenuttag och vattenanvändning i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenuttag och vattenanvändning i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jerker Moström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010 479 40 31"
-      ],
-      "links": [
-        {
-          "text": "010 479 40 31",
-          "href": "tel:010 479 40 31",
-          "url": "tel:010 479 40 31"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenuttag och vattenanvändning i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Linus Rispling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 69"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 69",
-          "href": "tel:010-479 45 69",
-          "url": "tel:010-479 45 69"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenuttag och vattenanvändning i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Vatten",
-        "Vattenanvändning",
-        "Vattenuttag"
-      ],
-      "links": [
-        {
-          "text": "Vatten",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
-        },
-        {
-          "text": "Vattenanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=212",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=212"
-        },
-        {
-          "text": "Vattenuttag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=213",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=213"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0501",
     "response_url": "https://www.scb.se/TK0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/luftfart/luftfart/",
-    "fetched_at": "2026-10-05T13:14:32.999777Z",
+    "fetched_at": "2026-10-10T01:18:50.013068Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fafab5fc6c1b54d94264c982b868c590a0dec9dbcfcf9f21371e247273ff81ae",
+    "content_sha256": "7857d9222f700eb73da327538bd9a3b71ca30ab9074ab71514a63f0a7bda8d2b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Flygplatser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=57",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=57"
-    },
-    {
-      "text": "Godstransport",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
-    },
-    {
-      "text": "Persontransport",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
-    },
-    {
-      "text": "Flyg",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=257",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=257"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Luftfart",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Luftfart",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Flygplatser",
-        "Godstransport",
-        "Persontransport",
-        "Flyg"
-      ],
-      "links": [
-        {
-          "text": "Flygplatser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=57",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=57"
-        },
-        {
-          "text": "Godstransport",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
-        },
-        {
-          "text": "Persontransport",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
-        },
-        {
-          "text": "Flyg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=257",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=257"
         }
       ],
       "table_headers": [],

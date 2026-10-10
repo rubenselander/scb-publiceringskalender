@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1102",
     "response_url": "https://www.scb.se/TK1102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/transportmonster/varuflodesundersokningen/",
-    "fetched_at": "2026-10-05T13:14:44.928171Z",
+    "fetched_at": "2026-10-10T01:18:57.861111Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b0890a1b752720dc88a4240fc9734fe057bd2f5468314cf6346c8872d2a5193f",
+    "content_sha256": "785d65a8b6d0034c6fdc13e3713c73d4274e8646c69a8be1d0ae38dbe818973c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Godstransport",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -93,71 +87,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Varuflödesundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Varuflödesundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Godstransport"
-      ],
-      "links": [
-        {
-          "text": "Godstransport",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
         }
       ],
       "table_headers": [],

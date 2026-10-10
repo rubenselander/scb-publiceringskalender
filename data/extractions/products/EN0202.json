@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0202",
     "response_url": "https://www.scb.se/EN0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/arliga-energibalanser/",
-    "fetched_at": "2026-10-05T13:10:39.171262Z",
+    "fetched_at": "2026-10-10T01:15:47.124206Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "71ff75d6263adb71374677a70ff33705b531d02f1e824468fa9abe2462987a83",
+    "content_sha256": "906c78a7500e976d4205337d09795f96bbf342ad347901349f913a0eb19ffca1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -315,84 +304,7 @@
       "paragraphs": [
         "Beskrivning av Energibalanser"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Energibalanser",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/arliga-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/arliga-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årliga energibalanser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Per Dyfvelsten",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 24 50",
-        "E-post",
-        "per.dyfvelsten@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 24 50",
-          "href": "tel:016-544 24 50",
-          "url": "tel:016-544 24 50"
-        },
-        {
-          "text": "per.dyfvelsten@energimyndigheten.se",
-          "href": "mailto:per.dyfvelsten@energimyndigheten.se ",
-          "url": "mailto:per.dyfvelsten@energimyndigheten.se "
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årliga energibalanser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

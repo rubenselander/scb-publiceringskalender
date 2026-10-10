@@ -10,8 +10,6 @@ from scb_extract.core import ExtractionContext, url_key
 from scb_extract.sources.downloads import (
     ADAPTERS,
     parse_changes,
-    parse_economy,
-    parse_economy_detail,
     parse_workbook,
 )
 
@@ -23,18 +21,15 @@ def test_all_download_adapters_replay_with_complete_inventory():
         for source, expected in [
             ("official_products", 1),
             ("hvd", 1),
-            ("economy", 12),
             ("changes", 5),
         ]:
             result = ADAPTERS[source].collect(context)
             assert result.discovery_complete
             assert not result.failures
             assert len(result.documents) == len(result.discovered) == expected
-        economy = ADAPTERS["economy"].collect(context).documents["index"]
-        assert all(
-            entry.detail_verified and entry.detail_provenance
-            for entry in economy.entries
-        )
+        hvd = ADAPTERS["hvd"].collect(context).documents["index"]
+        assert hvd.product_links_only
+        assert all(link.product_code for group in hvd.groups for link in group.links)
 
 
 def test_workbook_preserves_whitespace_and_rejects_changed_headers(snapshot):
@@ -52,22 +47,6 @@ def test_workbook_preserves_whitespace_and_rejects_changed_headers(snapshot):
     book.close()
     with pytest.raises(ValueError, match="headers changed"):
         parse_workbook(original.model_copy(update={"content": buffer.getvalue()}))
-
-
-def test_diagram_assets_and_child_provenance_remain_url_specific(snapshot):
-    index = parse_economy(snapshot("economy"))
-    first = parse_economy_detail(snapshot("economy_0"), index.entries[0])
-    assert first.source_label == "Konjunkturinstitutet (KI)"
-    assert str(first.updated_at) == "2026-10-02"
-    assert first.comments.startswith("Med tjänstesektorn avses SNI")
-    assert len(first.excel_urls) == len(first.image_urls) == 1
-    assert first.detail_provenance.content_sha256 == snapshot("economy_0").sha256
-    rates = [
-        parse_economy_detail(snapshot(f"economy_{i}"), index.entries[i])
-        for i in [9, 10]
-    ]
-    assert rates[0].title == rates[1].title
-    assert rates[0].excel_urls != rates[1].excel_urls
 
 
 def test_pdf_all_rows_cross_page_prose_and_repeated_codes(snapshot):

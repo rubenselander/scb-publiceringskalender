@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE9999",
     "response_url": "https://www.scb.se/OE9999",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/amnesovergripande-statistik/offentlig-ekonomi-ovrigt/",
-    "fetched_at": "2026-10-05T13:13:36.150703Z",
+    "fetched_at": "2026-10-10T01:18:14.771644Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9d3c689c41e99b03e36c18c5402d5fb331939745a4b476f61b4eed7c1c117bad",
+    "content_sha256": "3031c9c39451bc9c3ac2fbd5dbd748a2a66fa5613a91fc755a387d234286c545",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -101,60 +101,6 @@
           "text": "Visa äldre rapporter (0)",
           "href": "https://www.scb.se/hitta-statistik/sok/?Query=OE9999&Tab=older&Exact=true",
           "url": "https://www.scb.se/hitta-statistik/sok/?Query=OE9999&Tab=older&Exact=true"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Offentlig ekonomi övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Offentlig ekonomi övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
         }
       ],
       "table_headers": [],

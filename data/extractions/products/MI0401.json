@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0401",
     "response_url": "https://www.scb.se/MI0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/",
-    "fetched_at": "2026-10-05T13:12:29.226501Z",
+    "fetched_at": "2026-10-10T01:17:26.085983Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "93dc661941bf5023b61dba44bee5b157989a5f5b1cd2f3a508fe558010e5f68a",
+    "content_sha256": "5115f8206c752a1ff5135ae3bb944622f1fb12a14f0d3e49cc989fc51067227b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Luftföroreningar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -128,71 +122,7 @@
       "paragraphs": [
         "Fakta om Luft – miljötillstånd"
       ],
-      "links": [
-        {
-          "text": "Fakta om Luft – miljötillstånd",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/produktrelaterat/Fordjupad-information/fakta-om-luft--miljotillstand/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/produktrelaterat/Fordjupad-information/fakta-om-luft--miljotillstand/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Luft – miljötillstånd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "miljostatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "miljostatistik@scb.se",
-          "href": "mailto:miljostatistik@scb.se",
-          "url": "mailto:miljostatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Luft – miljötillstånd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Luftföroreningar"
-      ],
-      "links": [
-        {
-          "text": "Luftföroreningar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

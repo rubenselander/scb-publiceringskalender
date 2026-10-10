@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0006",
     "response_url": "https://www.scb.se/NV0006",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/",
-    "fetched_at": "2026-10-05T13:12:58.707051Z",
+    "fetched_at": "2026-10-10T01:17:52.459180Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3b8adc28d364b792c5818120371f882ed9034853749497c0ce01ecb276224ad9",
+    "content_sha256": "bd24d726514a1e0da8a394acd5423f3e6242180e692313e0fd4b953e7687d190",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0006",
   "summary": "Statistiken mäter månadsvis utvecklingen av svensk handel, tjänste- och varuproduktion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-11-10",
+  "next_publication_date": "2026-11-10",
   "responsible_agency": null,
   "notices": [
     "Publiceringen av lagerkorrigerat produktionsvärdeindex har upphört. Statistik med liknande innehåll finns tillgängligt i produkten Ekonomisk statistik på Kvartal (ESK), där den benämns som näringslivets förädlingsvärde. Produktionsvärdeindex påverkas inte, utan kommer publiceras som vanligt.",
@@ -40,12 +40,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-11-10",
         "Statistiken mäter månadsvis utvecklingen av svensk handel, tjänste- och varuproduktion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-11-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0006&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0006&period=Forward1Year"
         }
@@ -101,9 +101,9 @@
       ],
       "paragraphs": [
         "Produktionsvärdeindex (säsongrensat)",
-        "109,6",
+        "110,4",
         "Index 2021=100",
-        "Referenstid: juli 2026"
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -123,7 +123,7 @@
         }
       ],
       "paragraphs": [
-        "3,6 %",
+        "3,8 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -144,7 +144,7 @@
         }
       ],
       "paragraphs": [
-        "0,0 %",
+        "0,5 %",
         "jämfört med föregående period"
       ],
       "links": [],
@@ -165,14 +165,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-10",
-        "Produktionsvärdeindex för det totala näringslivet var oförändrad (0,0 procent) i juli 2026 jämfört med juni 2026 i säsongrensade tal. Jämfört med juli 2025 ökade produktionen med 3,6 procent i kalenderkorrigerade tal."
+        "2026-10-09",
+        "Produktionsvärdeindex för det totala näringslivet ökade med 0,5 procent i augusti 2026 jämfört med juli 2026 mätt i fasta priser, kalenderkorrigerade och säsongrensade tal. Jämfört med augusti 2025 ökade produktionen med 3,8 procent mätt i fasta priser och kalenderkorrigerade tal."
       ],
       "links": [
         {
-          "text": "Oförändrad produktion inom näringslivet i juli 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-juli-20252/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-juli-20252/"
+          "text": "Ökad produktion inom näringslivet i augusti 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-augusti-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -272,32 +272,32 @@
         [
           "Produktionsvärdeindex",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Produktionsvärdeindex (tjänstesektorn) och tjänsteproduktionsindex",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Produktionsvärdeindex (industrin) och industriproduktionsindex",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Kalenderkorrigerade detaljerade förändringstal",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Säsongrensade detaljerade förändringstal",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Produktionsvärdeindex, säsongrensad och kalenderkorrigerad",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ]
       ]
     },
@@ -341,7 +341,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M07",
+          "text": "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PVI2015FastM07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PVI2015FastM07"
         }
@@ -356,8 +356,8 @@
           "Datum"
         ],
         [
-          "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M07",
-          "2026-09-10"
+          "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M08",
+          "2026-10-09"
         ]
       ]
     },
@@ -714,124 +714,7 @@
         "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
         "Tillämpning av revideringspolicy (pdf)"
       ],
-      "links": [
-        {
-          "text": "Förändringar i statistiken – Produktionsvärdeindex – april 2023 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/forandringar-i-statistiken--produktionsvardeindex--april-2023-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/forandringar-i-statistiken--produktionsvardeindex--april-2023-pdf/"
-        },
-        {
-          "text": "PVI och BNP-indikatorn – vad är skillnaden?",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/pvi-och-bnp-indikatorn--vad-ar-skillnaden/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/pvi-och-bnp-indikatorn--vad-ar-skillnaden/"
-        },
-        {
-          "text": "Vad är produktionsvärdeindex?",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/ett-manadsindex-for-naringslivets-produktionsvarde/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/ett-manadsindex-for-naringslivets-produktionsvarde/"
-        },
-        {
-          "text": "Lagerkorrigerad PVI",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/lagerkorrigerad-pvi/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/lagerkorrigerad-pvi/"
-        },
-        {
-          "text": "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/faq-pin/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/produktrelaterat/fordjupad-information/faq-pin/"
-        },
-        {
-          "text": "Tillämpning av revideringspolicy (pdf)",
-          "href": "/contentassets/7057d375d49c4b32a5d48cb2c7a39162/tillampningsdokument-revideringar_20261001.pdf",
-          "url": "https://www.scb.se/contentassets/7057d375d49c4b32a5d48cb2c7a39162/tillampningsdokument-revideringar_20261001.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Produktionsvärdeindex (PVI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Produktionsvärdeindex (PVI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Produktionsvärdeindex (PVI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "pin@scb.se"
-      ],
-      "links": [
-        {
-          "text": "pin@scb.se",
-          "href": "mailto:pin@scb.se",
-          "url": "mailto:pin@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

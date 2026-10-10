@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0119",
     "response_url": "https://www.scb.se/NV0119",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/industrins-varuproduktion-ivp/",
-    "fetched_at": "2026-10-05T13:13:03.935144Z",
+    "fetched_at": "2026-10-10T01:17:57.254809Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d42f3be4c61fa95165fe22b7ca5394212430ce863bb20e9771bfc9ba49dca006",
+    "content_sha256": "f89b3256617192a3ad6d58dc822644b44be5d737a8a20601d0d36ccc543db020",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Industri",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
-    },
-    {
-      "text": "Produktion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -707,76 +691,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV0119",
           "url": "https://metadata.scb.se/?produkt=NV0119"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins varuproduktion (IVP)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "ivp.ns@scb.se"
-      ],
-      "links": [
-        {
-          "text": "ivp.ns@scb.se",
-          "href": "mailto:ivp.ns@scb.se",
-          "url": "mailto:ivp.ns@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins varuproduktion (IVP)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företagsekonomi",
-        "Industri",
-        "Produktion"
-      ],
-      "links": [
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Industri",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
-        },
-        {
-          "text": "Produktion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
         }
       ],
       "table_headers": [],

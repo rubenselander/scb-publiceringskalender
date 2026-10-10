@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0112",
     "response_url": "https://www.scb.se/EN0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus-flerbostadshus-och-lokaler/",
-    "fetched_at": "2026-10-05T13:10:32.407716Z",
+    "fetched_at": "2026-10-10T01:15:40.613793Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0939b3ad74c9ecd0bec860deb54c4584e597cd45365087d39cf424c866a8e879",
+    "content_sha256": "352b582509cdbf654590ab17863f324580f66a67ad2ede60edebc3374e857ed3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0112",
   "summary": "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i småhus, flerbostadshus och lokaler.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: 2026-10-29",
+  "next_publication_date": "2026-10-29",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -32,38 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Lokaler",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    },
-    {
-      "text": "Villor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -74,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: 2026-10-29",
         "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i småhus, flerbostadshus och lokaler."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-15",
+          "text": "Nästa publicering: 2026-10-29",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0112&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0112&period=Forward1Year"
         }
@@ -103,101 +72,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för småhus, flerbostadshus och lokaler",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Christoffer Tjärnberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 22 95",
-        "E-post",
-        "christoffer.tjarnberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 22 95",
-          "href": "tel:016-544 22 95",
-          "url": "tel:016-544 22 95"
-        },
-        {
-          "text": "christoffer.tjarnberg@energimyndigheten.se",
-          "href": "mailto:christoffer.tjarnberg@energimyndigheten.se",
-          "url": "mailto:christoffer.tjarnberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för småhus, flerbostadshus och lokaler",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El",
-        "Hushåll",
-        "Lokaler",
-        "Lägenheter",
-        "Villor"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Lokaler",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-        },
-        {
-          "text": "Villor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
         }
       ],
       "table_headers": [],

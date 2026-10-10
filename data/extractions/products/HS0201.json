@@ -1,0 +1,90 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardsstatistisk-arsbok-hssa/",
+    "fetched_at": "2026-10-10T01:19:44.245697Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "0892e00f40fc387499f29700c2474c3c4ffde428fb1cf4e32a840b434679a87d",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "HS0201",
+  "product_code_source": "page_short_address",
+  "title": "Hälso- och sjukvårdsstatistisk årsbok (HSSA)",
+  "short_address": "https://www.scb.se/hs0201",
+  "summary": "Publikationen innehåller främst uppgifter hämtade ur existerande publikationer. Socialstyrelsen gav ut årsboken under perioden 1995–2002. Sedan 2004 publiceras istället fyra separata publikationer. De innehåller i varierande utsträckning de tabeller som tidigare ingått i årsboken.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Socialstyrelsen (SoS)",
+    "link": {
+      "text": "Socialstyrelsen (SoS)",
+      "href": "http://www.socialstyrelsen.se/statistik",
+      "url": "http://www.socialstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Hälso- och sjukvårdsstatistisk årsbok (HSSA)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Publikationen innehåller främst uppgifter hämtade ur existerande publikationer. Socialstyrelsen gav ut årsboken under perioden 1995–2002. Sedan 2004 publiceras istället fyra separata publikationer. De innehåller i varierande utsträckning de tabeller som tidigare ingått i årsboken."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Hälso- och sjukvårdsstatistisk årsbok (HSSA)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Socialstyrelsen (SoS)"
+      ],
+      "links": [
+        {
+          "text": "Socialstyrelsen (SoS)",
+          "href": "http://www.socialstyrelsen.se/statistik",
+          "url": "http://www.socialstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Hälso- och sjukvårdsstatistisk årsbok (HSSA)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/hs0201"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

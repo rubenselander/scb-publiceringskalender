@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1003",
     "response_url": "https://www.scb.se/JO1003",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/arrendepriser-for-jordbruksmark/",
-    "fetched_at": "2026-10-05T13:11:51.576289Z",
+    "fetched_at": "2026-10-10T01:16:54.479166Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0de3ff078ca46ea3b31cac2ff9eb9fc124d6f617b0e62308b54e69e152a832bb",
+    "content_sha256": "1628f5d7652def3cfad93f7885933230bc07b8961af21d83a84c0ab5c4feb5b2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -346,77 +335,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO1003",
           "url": "https://metadata.scb.se/?produkt=JO1003"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arrendepriser för jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arrendepriser för jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Priser"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
         }
       ],
       "table_headers": [],

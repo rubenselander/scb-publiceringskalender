@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0108",
     "response_url": "https://www.scb.se/EN0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/",
-    "fetched_at": "2026-10-05T13:10:30.887337Z",
+    "fetched_at": "2026-10-10T01:15:38.850450Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "778083a07ee8495ffe677f57b9e3c459d517054d30e5b559a03a74098b3a54a5",
+    "content_sha256": "28836589d94c51c0510e4da8eb8569bac1fd134f5b2c6db8440b93377d7696d7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0108",
   "summary": "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -49,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-11-12",
         "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-11-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year"
         }
@@ -168,57 +162,57 @@
         [
           "Elförsörjning månadsvis",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Elförsörjning 2026",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Elförsörjning per elområde månadsvis",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Elproduktion efter produktionsslag månadsvis",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Elproduktion efter produktionsslag 2026",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Industrins elanvändning månadsvis",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Industrins elanvändning 2026",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Import och export av el 2026",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Import och export av el månadsvis",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Byten av elleverantör (elhandelsföretag)",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Byten av elleverantör (elhandelsföretag) månadsvis",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ]
       ]
     },
@@ -262,37 +256,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M07",
+          "text": "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM"
         },
         {
-          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M07",
+          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M"
         },
         {
-          "text": "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M07",
+          "text": "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO"
         },
         {
-          "text": "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M07",
+          "text": "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod"
         },
         {
-          "text": "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M07",
+          "text": "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM"
         },
         {
-          "text": "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M07",
+          "text": "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN"
         },
         {
-          "text": "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M07",
+          "text": "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN"
         }
@@ -307,32 +301,32 @@
           "Datum"
         ],
         [
-          "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M07",
-          "2026-09-10"
+          "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M07",
-          "2026-09-10"
+          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M07",
-          "2026-09-10"
+          "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M07",
-          "2026-09-10"
+          "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M07",
-          "2026-09-10"
+          "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M07",
-          "2026-09-10"
+          "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M07",
-          "2026-09-10"
+          "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M08",
+          "2026-10-09"
         ]
       ]
     },
@@ -812,78 +806,7 @@
       "paragraphs": [
         "Beskrivning av Månatlig elstatistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Månatlig elstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-elstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-elstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Månatlig elstatistik och byten av elleverantör",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Fredrik Fagrell",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 63",
-        "E-post",
-        "fredrik.fagrell@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 63",
-          "href": "tel:010-479 60 63",
-          "url": "tel:010-479 60 63"
-        },
-        {
-          "text": "fredrik.fagrell@scb.se",
-          "href": "mailto:fredrik.fagrell@scb.se",
-          "url": "mailto:fredrik.fagrell@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Månatlig elstatistik och byten av elleverantör",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "El"
-      ],
-      "links": [
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

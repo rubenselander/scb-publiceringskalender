@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0103",
     "response_url": "https://www.scb.se/HA0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/livsmedelsforsaljning-fordelad-pa-varugrupper/",
-    "fetched_at": "2026-10-05T13:10:52.005402Z",
+    "fetched_at": "2026-10-10T01:16:01.058602Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2388006f8df5f009ef16994aab1a8c92bd215c413888aa10d5dcd0cced991130",
+    "content_sha256": "d25135c971a5e0f655707ae728ea19afdfd89a09bfc851fefeddc1d7c5028646",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Försäljning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=70",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=70"
-    },
-    {
-      "text": "Handel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
-    },
-    {
-      "text": "Livsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -889,90 +873,7 @@
       "paragraphs": [
         "Coicop Klassificering"
       ],
-      "links": [
-        {
-          "text": "Coicop Klassificering",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/livsmedelsforsaljning-fordelad-pa-varugrupper/produktrelaterat/Fordjupad-information/coicop-klassificering/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/livsmedelsforsaljning-fordelad-pa-varugrupper/produktrelaterat/Fordjupad-information/coicop-klassificering/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Livsmedelsförsäljning fördelad på varugrupper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Hugo Lindblom",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 06",
-        "E-post",
-        "hugo.lindblom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 06",
-          "href": "tel:010-479 62 06",
-          "url": "tel:010-479 62 06"
-        },
-        {
-          "text": "hugo.lindblom@scb.se",
-          "href": "mailto:hugo.lindblom@scb.se",
-          "url": "mailto:hugo.lindblom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Livsmedelsförsäljning fördelad på varugrupper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Försäljning",
-        "Handel",
-        "Livsmedel"
-      ],
-      "links": [
-        {
-          "text": "Försäljning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=70",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=70"
-        },
-        {
-          "text": "Handel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
-        },
-        {
-          "text": "Livsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

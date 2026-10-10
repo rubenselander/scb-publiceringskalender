@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1901",
     "response_url": "https://www.scb.se/JO1901",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/",
-    "fetched_at": "2026-10-05T13:11:59.074264Z",
+    "fetched_at": "2026-10-10T01:17:01.083359Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "455120a93860e8b61637799c8c6b27020df62fcc7ccf52b0ca68eea41be694b2",
+    "content_sha256": "75aee2b09439ba0564c49fe99e90a985d7d0ff03ee38206f8f000f48e7f6a9d6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Djur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Livsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1621,101 +1600,7 @@
         "Beskrivning av Allmän jordbruksstatistik",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Allmän jordbruksstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-allman-jordbruksstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-allman-jordbruksstatistik/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmän jordbruksstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmän jordbruksstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Djur",
-        "Företag",
-        "Jordbruk",
-        "Livsmedel"
-      ],
-      "links": [
-        {
-          "text": "Djur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Livsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

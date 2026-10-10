@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0518",
     "response_url": "https://www.scb.se/UF0518",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/vuxnas-larande/",
-    "fetched_at": "2026-10-05T13:15:32.903738Z",
+    "fetched_at": "2026-10-10T01:19:32.962768Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "11ea27bd17199485e8afcf3a5d4502718915793a009c1572ec0802290e74d463",
+    "content_sha256": "665bf51e3bde726d09f5037f757f3748fcc06e0c62328f5d2fbd194a7de1977b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -204,38 +204,6 @@
           "text": "Visa äldre rapporter (12)",
           "href": "https://www.scb.se/hitta-statistik/sok/?Query=UF0518&Tab=older&Exact=true",
           "url": "https://www.scb.se/hitta-statistik/sok/?Query=UF0518&Tab=older&Exact=true"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vuxnas lärande",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "ua@scb.se"
-      ],
-      "links": [
-        {
-          "text": "ua@scb.se",
-          "href": "mailto:ua@scb.se",
-          "url": "mailto:ua@scb.se"
         }
       ],
       "table_headers": [],

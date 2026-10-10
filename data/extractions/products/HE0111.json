@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0111",
     "response_url": "https://www.scb.se/HE0111",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hushallens-boende/",
-    "fetched_at": "2026-10-05T13:10:58.643265Z",
+    "fetched_at": "2026-10-10T01:16:08.698189Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "25517b3fa3392745accc05c9a2aee95f40a77f3a6bdfacedff1821eac851e779",
+    "content_sha256": "2bbdda357c45d6f66a3a48b0e6ab262bf501d716ada6770a2a7069799456d85b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Boende",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -320,96 +304,6 @@
           "2026-04-17"
         ]
       ]
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens boende",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Boendeformen varierar mellan personer med olika inkomst. Personer med hög inkomst bor ofta i småhus och bostadsrätt och de med låg inkomst oftare i hyresrätt. Men i mindre kommuner är andelen låginkomsttagare som bor i småhus ändå relativt hög."
-      ],
-      "links": [
-        {
-          "text": "Låginkomsttagare bor ofta i hyresrätt",
-          "href": "/hitta-statistik/artiklar/2017/Laginkomsttagare-bor-ofta-i-hyresratt/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Laginkomsttagare-bor-ofta-i-hyresratt/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens boende",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-06-09"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens boende",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Inkomst",
-        "Boende och byggande",
-        "Hushåll och ekonomi"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95&selection=articles"
-        },
-        {
-          "text": "Boende och byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
-        },
-        {
-          "text": "Hushåll och ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
     },
     {
       "heading_path": [
@@ -723,83 +617,7 @@
       "paragraphs": [
         "Frågor och svar om röjandeskyddet Cell Key Method (CKM)"
       ],
-      "links": [
-        {
-          "text": "Frågor och svar om röjandeskyddet Cell Key Method (CKM)",
-          "href": "/dokumentation/statistikomraden-under-forandring/utveckling-av-rojandeskyddet/fragor-och-svar-om-rojandeskyddet-cell-key-method-ckm/",
-          "url": "https://www.scb.se/dokumentation/statistikomraden-under-forandring/utveckling-av-rojandeskyddet/fragor-och-svar-om-rojandeskyddet-cell-key-method-ckm/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens boende",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Befolkningssektionen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "befolkning@scb.se"
-      ],
-      "links": [
-        {
-          "text": "befolkning@scb.se",
-          "href": "mailto:befolkning@scb.se",
-          "url": "mailto:befolkning@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens boende",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Boende",
-        "Hushåll",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Boende",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1302",
     "response_url": "https://www.scb.se/NV1302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/uppfoljning-av-nystartade-foretag/",
-    "fetched_at": "2026-10-05T13:13:11.175097Z",
+    "fetched_at": "2026-10-10T01:18:02.584834Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bd8bf20ba820c2ac259e900d9a817400fa6e369a67aa8171eccda3eaa54251dd",
+    "content_sha256": "c0e98ae1782d68d9092ec69fdb6aa627a20d607f46aaf77cd7af834216d87f7a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,18 +34,7 @@
   "notices": [
     "Uppföljning av nystartade företag uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Anställda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -225,77 +214,6 @@
         "Tillväxtanalys"
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Uppföljning av nystartade företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Lars Sundell",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-447 44 00",
-        "E-post",
-        "lars.sundell@tillvaxtanalys.se"
-      ],
-      "links": [
-        {
-          "text": "010-447 44 00",
-          "href": "tel:010-447 44 00",
-          "url": "tel:010-447 44 00"
-        },
-        {
-          "text": "lars.sundell@tillvaxtanalys.se",
-          "href": "mailto:lars.sundell@tillvaxtanalys.se",
-          "url": "mailto:lars.sundell@tillvaxtanalys.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Uppföljning av nystartade företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Anställda",
-        "Företag"
-      ],
-      "links": [
-        {
-          "text": "Anställda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -1,0 +1,2107 @@
+{
+  "description": "Rows of SCB's agency register (Myndighetsregistret) that match a statistics agency. The full register extraction (agency_registry) is disabled; this file is maintained by hand and read by `scb_extract build-db` for organisation numbers.",
+  "selection": "Register Namn equal, ignoring case, whitespace and a trailing abbreviation, to exactly one agency named in the calendar, the official-product workbook or the official/European agency lists.",
+  "source_url": "https://myndighetsregistret.scb.se/Myndighet",
+  "fetched_at": "2026-10-05T13:16:26.358831+00:00",
+  "records": [
+    {
+      "agency": "Arbetsmiljöverket",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2148"
+        },
+        {
+          "label": "Namn",
+          "value": "ARBETSMILJÖVERKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 9082"
+        },
+        {
+          "label": "PostNr",
+          "value": "171 09"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "SVETSARVÄGEN 12  2TR"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "171 41"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "Tfn",
+          "value": "0107309000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "arbetsmiljoverket@av.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.av.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2007:913"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.av.se"
+        }
+      ]
+    },
+    {
+      "agency": "Brottsförebyggande rådet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-0068"
+        },
+        {
+          "label": "Namn",
+          "value": "BROTTSFÖREBYGGANDE RÅDET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 1386"
+        },
+        {
+          "label": "PostNr",
+          "value": "111 93"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "FLEMINGGATAN 14"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "112 26"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0852758400"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@bra.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.bra.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2016:1201"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.bra.se"
+        }
+      ]
+    },
+    {
+      "agency": "Centrala studiestödsnämnden",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-1819"
+        },
+        {
+          "label": "Namn",
+          "value": "CENTRALA STUDIESTÖDSNÄMNDEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "851 82"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SUNDSVALL"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "NORRA TJÄRNGATAN 2"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "852 33"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SUNDSVALL"
+        },
+        {
+          "label": "Tfn",
+          "value": "060186000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@csn.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.csn.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2017:1114"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.csn.se"
+        }
+      ]
+    },
+    {
+      "agency": "Finansinspektionen",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-4235"
+        },
+        {
+          "label": "Namn",
+          "value": "FINANSINSPEKTIONEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 7821"
+        },
+        {
+          "label": "PostNr",
+          "value": "103 97"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Sveavägen 44"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "111 34"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0840898000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "finansinspektionen@fi.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.fi.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2023:910"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.fi.se"
+        }
+      ]
+    },
+    {
+      "agency": "Folkhälsomyndigheten",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6545"
+        },
+        {
+          "label": "Namn",
+          "value": "Folkhälsomyndigheten"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "171 82"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "NOBELS VÄG 18"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "171 65"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "Tfn",
+          "value": "0102052000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "info@folkhalsomyndigheten.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.folkhalsomyndigheten.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2021:248"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.folkhalsomyndigheten.se"
+        }
+      ]
+    },
+    {
+      "agency": "Försäkringskassan",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-5521"
+        },
+        {
+          "label": "Namn",
+          "value": "FÖRSÄKRINGSKASSAN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 42006"
+        },
+        {
+          "label": "PostNr",
+          "value": "126 12"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "LM ERICSSONS VÄG 28"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "126 26"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "HÄGERSTEN"
+        },
+        {
+          "label": "Tfn",
+          "value": "087869000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "huvudkontoret@forsakringskassan.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.forsakringskassan.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:1174"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.forsakringskassan.se"
+        }
+      ]
+    },
+    {
+      "agency": "Göteborgs universitet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-3153"
+        },
+        {
+          "label": "Namn",
+          "value": "GÖTEBORGS UNIVERSITET"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "405 30"
+        },
+        {
+          "label": "PostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "UNIVERSITETSPLATSEN 1  Vasaparken"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "411 24"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "Tfn",
+          "value": "0317860000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": ""
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.gu.se"
+        },
+        {
+          "label": "SFS",
+          "value": "1993:100"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.gu.se"
+        }
+      ]
+    },
+    {
+      "agency": "Havs- och vattenmyndigheten",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6420"
+        },
+        {
+          "label": "Namn",
+          "value": "HAVS- OCH VATTENMYNDIGHETEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 11930"
+        },
+        {
+          "label": "PostNr",
+          "value": "404 39"
+        },
+        {
+          "label": "PostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "GULLBERGS STRANDGATA 15"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "411 04"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "Tfn",
+          "value": "0106986000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "havochvatten@havochvatten.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.havochvatten.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2011:619"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.havochvatten.se"
+        }
+      ]
+    },
+    {
+      "agency": "Kemikalieinspektionen",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-3880"
+        },
+        {
+          "label": "Namn",
+          "value": "KEMIKALIEINSPEKTIONEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 2"
+        },
+        {
+          "label": "PostNr",
+          "value": "172 13"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SUNDBYBERG"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Löfströms allé 5"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "172 66"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SUNDBYBERG"
+        },
+        {
+          "label": "Tfn",
+          "value": ""
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "kemi@kemi.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.kemi.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:947"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.kemi.se"
+        }
+      ]
+    },
+    {
+      "agency": "Konjunkturinstitutet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-0845"
+        },
+        {
+          "label": "Namn",
+          "value": "KONJUNKTURINSTITUTET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "FLEMINGGATAN 7"
+        },
+        {
+          "label": "PostNr",
+          "value": "112 26"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Fleminggatan 7"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "112 26"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "084535900"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@konj.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.konj.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2007:759"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.konj.se"
+        }
+      ]
+    },
+    {
+      "agency": "Kungliga biblioteket",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-1710"
+        },
+        {
+          "label": "Namn",
+          "value": "KUNGLIGA BIBLIOTEKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 5039"
+        },
+        {
+          "label": "PostNr",
+          "value": "102 41"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "HUMLEGÅRDSGATAN 26"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "114 46"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0107093000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "kungl.biblioteket@kb.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.kb.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2008:1421"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.kb.se"
+        }
+      ]
+    },
+    {
+      "agency": "Medlingsinstitutet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-5174"
+        },
+        {
+          "label": "Namn",
+          "value": "MEDLINGSINSTITUTET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 1236"
+        },
+        {
+          "label": "PostNr",
+          "value": "111 82"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Drottninggatan 89"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "113 60"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": ""
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "info@mi.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.mi.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2007:912"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.mi.se"
+        }
+      ]
+    },
+    {
+      "agency": "Migrationsverket",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2163"
+        },
+        {
+          "label": "Namn",
+          "value": "MIGRATIONSVERKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "601 70"
+        },
+        {
+          "label": "PostOrt",
+          "value": "NORRKÖPING"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "SLOTTSGATAN 81-82"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "602 22"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "NORRKÖPING"
+        },
+        {
+          "label": "Tfn",
+          "value": "0771235235"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@migrationsverket.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.migrationsverket.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2019:502"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.migrationsverket.se"
+        }
+      ]
+    },
+    {
+      "agency": "Myndigheten för familjerätt och föräldraskapsstöd",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-4169"
+        },
+        {
+          "label": "Namn",
+          "value": "MYNDIGHETEN FÖR FAMILJERÄTT OCH FÖRÄLDRASKAPSSTÖD"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 35"
+        },
+        {
+          "label": "PostNr",
+          "value": "931 21"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SKELLEFTEÅ"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "NYGATAN 40 B"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "931 31"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SKELLEFTEÅ"
+        },
+        {
+          "label": "Tfn",
+          "value": "0101901100"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "info@mfof.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.mfof.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2017:292"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.mfof.se"
+        }
+      ]
+    },
+    {
+      "agency": "Myndigheten för kulturanalys",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6404"
+        },
+        {
+          "label": "Namn",
+          "value": "Myndigheten för kulturanalys"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 1001"
+        },
+        {
+          "label": "PostNr",
+          "value": "405 21"
+        },
+        {
+          "label": "PostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Södra Vägen 54"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "412 54"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "GÖTEBORG"
+        },
+        {
+          "label": "Tfn",
+          "value": "0313952000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "info@kulturanalys.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.kulturanalys.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2011:124"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.kulturanalys.se"
+        }
+      ]
+    },
+    {
+      "agency": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6164"
+        },
+        {
+          "label": "Namn",
+          "value": "Myndigheten för tillväxtpolitiska utvärderingar och analyser"
+        },
+        {
+          "label": "PostAdress",
+          "value": "STUDENTPLAN 3"
+        },
+        {
+          "label": "PostNr",
+          "value": "831 40"
+        },
+        {
+          "label": "PostOrt",
+          "value": "ÖSTERSUND"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "STUDENTPLAN 3"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "831 40"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "ÖSTERSUND"
+        },
+        {
+          "label": "Tfn",
+          "value": "0104474400"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "info@tillvaxtanalys.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.tillvaxtanalys.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2016:1048"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.tillvaxtanalys.se"
+        }
+      ]
+    },
+    {
+      "agency": "Naturvårdsverket",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-1975"
+        },
+        {
+          "label": "Namn",
+          "value": "NATURVÅRDSVERKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "106 48"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "VIRKESVÄGEN 2"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "120 30"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0106981000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@naturvardsverket.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.naturvardsverket.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2012:989"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.naturvardsverket.se"
+        }
+      ]
+    },
+    {
+      "agency": "Pensionsmyndigheten",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6255"
+        },
+        {
+          "label": "Namn",
+          "value": "PENSIONSMYNDIGHETEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 38190"
+        },
+        {
+          "label": "PostNr",
+          "value": "100 64"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "HORNSGATAN 168"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "117 28"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0771771771"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@pensionsmyndigheten.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.pensionsmyndigheten.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:1175"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.pensionsmyndigheten.se"
+        }
+      ]
+    },
+    {
+      "agency": "Polismyndigheten",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-0076"
+        },
+        {
+          "label": "Namn",
+          "value": "POLISMYNDIGHETEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 12256"
+        },
+        {
+          "label": "PostNr",
+          "value": "102 26"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "POLHEMSGATAN 30"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "112 30"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "11414"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator.kansli@polisen.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.polisen.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2022:1718"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.polisen.se"
+        }
+      ]
+    },
+    {
+      "agency": "Riksgäldskontoret",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2635"
+        },
+        {
+          "label": "Namn",
+          "value": "RIKSGÄLDSKONTORET"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "103 74"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Olof Palmes gata 17"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "111 22"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "086134500"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "riksgalden@riksgalden.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.riksgalden.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2023:909"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.riksgalden.se"
+        }
+      ]
+    },
+    {
+      "agency": "Skogsstyrelsen",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-5612"
+        },
+        {
+          "label": "Namn",
+          "value": "SKOGSSTYRELSEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "551 83"
+        },
+        {
+          "label": "PostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "SKEPPSBROGATAN 2"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "553 29"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "Tfn",
+          "value": "0101721000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "skogsstyrelsen@skogsstyrelsen.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.skogsstyrelsen.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:1393"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.skogsstyrelsen.se"
+        }
+      ]
+    },
+    {
+      "agency": "Socialstyrelsen",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-0555"
+        },
+        {
+          "label": "Namn",
+          "value": "SOCIALSTYRELSEN"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "106 30"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "RÅLAMBSVÄGEN 3"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "112 59"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0752473000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "socialstyrelsen@socialstyrelsen.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.socialstyrelsen.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2015:284"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.socialstyrelsen.se"
+        }
+      ]
+    },
+    {
+      "agency": "Statens energimyndighet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-5000"
+        },
+        {
+          "label": "Namn",
+          "value": "STATENS ENERGIMYNDIGHET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 310"
+        },
+        {
+          "label": "PostNr",
+          "value": "631 04"
+        },
+        {
+          "label": "PostOrt",
+          "value": "ESKILSTUNA"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "GREDBYVÄGEN 10"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "632 21"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "ESKILSTUNA"
+        },
+        {
+          "label": "Tfn",
+          "value": "0165442000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@energimyndigheten.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.energimyndigheten.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2025:784"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.energimyndigheten.se"
+        }
+      ]
+    },
+    {
+      "agency": "Statens jordbruksverk",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-4151"
+        },
+        {
+          "label": "Namn",
+          "value": "STATENS JORDBRUKSVERK"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "551 82"
+        },
+        {
+          "label": "PostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Skeppsbrogatan 2"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "553 29"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "Tfn",
+          "value": "036155000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "jordbruksverket@jordbruksverket.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.jordbruksverket.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:1464"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.jordbruksverket.se"
+        }
+      ]
+    },
+    {
+      "agency": "Statens skolverk",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-4185"
+        },
+        {
+          "label": "Namn",
+          "value": "STATENS SKOLVERK"
+        },
+        {
+          "label": "PostAdress",
+          "value": "Box 4002"
+        },
+        {
+          "label": "PostNr",
+          "value": "171 04"
+        },
+        {
+          "label": "PostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Svetsarvägen 16"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "171 41"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "SOLNA"
+        },
+        {
+          "label": "Tfn",
+          "value": "0852733200"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@skolverket.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.skolverket.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2015:1047"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.skolverket.se"
+        }
+      ]
+    },
+    {
+      "agency": "Statistiska centralbyrån",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-0837"
+        },
+        {
+          "label": "Namn",
+          "value": "STATISTISKA CENTRALBYRÅN"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "701 89"
+        },
+        {
+          "label": "PostOrt",
+          "value": "ÖREBRO"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "ÅKULLEGATAN 14"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "703 63"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "ÖREBRO"
+        },
+        {
+          "label": "Tfn",
+          "value": "0104794000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "scb@scb.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.scb.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2016:822"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.scb.se"
+        }
+      ]
+    },
+    {
+      "agency": "Statskontoret",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-5026"
+        },
+        {
+          "label": "Namn",
+          "value": "Statskontoret"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 12028"
+        },
+        {
+          "label": "PostNr",
+          "value": "102 21"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Fleminggatan 20"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "112 26"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "086904300"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@statskontoret.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.statskontoret.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2025:681"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.statskontoret.se"
+        }
+      ]
+    },
+    {
+      "agency": "Sveriges lantbruksuniversitet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2817"
+        },
+        {
+          "label": "Namn",
+          "value": "SVERIGES LANTBRUKSUNIVERSITET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 7070"
+        },
+        {
+          "label": "PostNr",
+          "value": "750 07"
+        },
+        {
+          "label": "PostOrt",
+          "value": "UPPSALA"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Almas Allé 8  Ulls hus"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "756 51"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "UPPSALA"
+        },
+        {
+          "label": "Tfn",
+          "value": "018671000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@slu.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.slu.se"
+        },
+        {
+          "label": "SFS",
+          "value": "1993:221"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.slu.se"
+        }
+      ]
+    },
+    {
+      "agency": "Tillväxtverket",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6149"
+        },
+        {
+          "label": "Namn",
+          "value": "TILLVÄXTVERKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": "BOX 4044"
+        },
+        {
+          "label": "PostNr",
+          "value": "102 61"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "VÄSTGÖTAGATAN 5"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "118 27"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "086819100"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "tillvaxtverket@tillvaxtverket.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.tillvaxtverket.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2009:145"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.tillvaxtverket.se"
+        }
+      ]
+    },
+    {
+      "agency": "Trafikanalys",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6305"
+        },
+        {
+          "label": "Namn",
+          "value": "Trafikanalys"
+        },
+        {
+          "label": "PostAdress",
+          "value": "ROSENLUNDSGATAN 54"
+        },
+        {
+          "label": "PostNr",
+          "value": "118 63"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "ROSENLUNDSGATAN 54"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "118 63"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "0104144200"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "trafikanalys@trafa.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.trafa.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2010:186"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.trafa.se"
+        }
+      ]
+    },
+    {
+      "agency": "Universitetskanslersämbetet",
+      "group_option_value": "2",
+      "group_name": "Statliga förvaltningsmyndigheter",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-6495"
+        },
+        {
+          "label": "Namn",
+          "value": "Universitetskanslersämbetet"
+        },
+        {
+          "label": "PostAdress",
+          "value": "Box 6024"
+        },
+        {
+          "label": "PostNr",
+          "value": "121 06"
+        },
+        {
+          "label": "PostOrt",
+          "value": "JOHANNESHOV"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "Hammarbybacken 31"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "121 45"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "JOHANNESHOV"
+        },
+        {
+          "label": "Tfn",
+          "value": ""
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "registrator@uka.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.uka.se"
+        },
+        {
+          "label": "SFS",
+          "value": "2012:810"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.uka.se"
+        }
+      ]
+    },
+    {
+      "agency": "Sveriges riksbank",
+      "group_option_value": "3",
+      "group_name": "Myndigheter under riksdagen",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2684"
+        },
+        {
+          "label": "Namn",
+          "value": "SVERIGES RIKSBANK"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "103 37"
+        },
+        {
+          "label": "PostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "BRUNKEBERGSTORG 11"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "111 51"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "STOCKHOLM"
+        },
+        {
+          "label": "Tfn",
+          "value": "087870000"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "Lon@riksbank.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.riksbank.se"
+        },
+        {
+          "label": "SFS",
+          "value": "1988:1385"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.riksbank.se"
+        }
+      ]
+    },
+    {
+      "agency": "Domstolsverket",
+      "group_option_value": "6",
+      "group_name": "Sveriges domstolar samt Domstolsverket",
+      "fields": [
+        {
+          "label": "Organisationsnr",
+          "value": "202100-2742"
+        },
+        {
+          "label": "Namn",
+          "value": "DOMSTOLSVERKET"
+        },
+        {
+          "label": "PostAdress",
+          "value": ""
+        },
+        {
+          "label": "PostNr",
+          "value": "551 81"
+        },
+        {
+          "label": "PostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "BesöksAdress",
+          "value": "KYRKOGATAN 32"
+        },
+        {
+          "label": "BesöksPostNr",
+          "value": "553 16"
+        },
+        {
+          "label": "BesöksPostOrt",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "Tfn",
+          "value": "036155300"
+        },
+        {
+          "label": "Fax",
+          "value": ""
+        },
+        {
+          "label": "Epost",
+          "value": "domstolsverket@dom.se"
+        },
+        {
+          "label": "Webbadress",
+          "value": "www.domstol.se"
+        },
+        {
+          "label": "SFS",
+          "value": "1988:317"
+        },
+        {
+          "label": "Sort",
+          "value": "4"
+        },
+        {
+          "label": "CfarNr",
+          "value": "20738233"
+        },
+        {
+          "label": "Postadress",
+          "value": ""
+        },
+        {
+          "label": "Postnr",
+          "value": "551 81"
+        },
+        {
+          "label": "Postort",
+          "value": "JÖNKÖPING"
+        },
+        {
+          "label": "WebbAdress",
+          "value": "www.domstol.se"
+        }
+      ]
+    }
+  ]
+}

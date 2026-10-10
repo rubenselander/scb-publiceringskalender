@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0115",
     "response_url": "https://www.scb.se/UF0115",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/svensk-utbildning-i-utlandet-elever-larare-och-utbildningsresultat/",
-    "fetched_at": "2026-10-05T13:14:55.835010Z",
+    "fetched_at": "2026-10-10T01:19:05.784564Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9e04d9f02c05943b929ab19e9817bd99f2a6d15ca3ebc69b473bb3fb7d1f53cc",
+    "content_sha256": "fbbf1d96bde3316df02bbef9d7182df157b104a4a7cbdf96e96907c02c2caf4b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -272,38 +272,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0115",
           "url": "https://metadata.scb.se/?produkt=UF0115"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svensk utbildning i utlandet: Elever, lärare och utbildningsresultat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

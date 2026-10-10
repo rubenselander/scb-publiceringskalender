@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0402",
     "response_url": "https://www.scb.se/FM0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/finansiella-foretag-arsbokslut/",
-    "fetched_at": "2026-10-05T13:10:48.610707Z",
+    "fetched_at": "2026-10-10T01:15:56.716231Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "72deeead784e329168cd72f26bc1e2e8572b33a4914e60bd156597ebd70cdd88",
+    "content_sha256": "17ccda1124cf3e1a571ea788ef645bff86327b5b4082ef21713dd541034bde60",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Balansräkning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=17",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=17"
-    },
-    {
-      "text": "Banker",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=18",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=18"
-    },
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Resultaträkning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=158",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=158"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -584,89 +563,6 @@
           "text": "fmfi@scb.se",
           "href": "mailto:fmfi@scb.se",
           "url": "mailto:fmfi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansiella företag, årsbokslut",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Nils-Henrik Jansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 15",
-        "E-post",
-        "nils-henrik.jansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 15",
-          "href": "tel:010-479 41 15",
-          "url": "tel:010-479 41 15"
-        },
-        {
-          "text": "nils-henrik.jansson@scb.se",
-          "href": "mailto:nils-henrik.jansson@scb.se",
-          "url": "mailto:nils-henrik.jansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansiella företag, årsbokslut",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Balansräkning",
-        "Banker",
-        "Företagsekonomi",
-        "Resultaträkning"
-      ],
-      "links": [
-        {
-          "text": "Balansräkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=17",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=17"
-        },
-        {
-          "text": "Banker",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=18",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=18"
-        },
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Resultaträkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=158",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=158"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1105",
     "response_url": "https://www.scb.se/MI1105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/kust-och-hav-miljotillstand-tillforsel-av-kvave-och-fosfor-till-kusten/",
-    "fetched_at": "2026-10-05T13:12:46.327169Z",
+    "fetched_at": "2026-10-10T01:17:42.980680Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "abf0e36115f96e9e464c6c9a6841c5378ebd5e96e47a0a8db4e067ccf820dfd7",
+    "content_sha256": "ed5dba930c0144ccee464dd93644721720e6fb64cbe2d7198c597ab1c05b595a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Hav",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-    },
-    {
-      "text": "Kust",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=111",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=111"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -83,38 +72,6 @@
           "text": "Havs- och vattenmyndigheten",
           "href": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html",
           "url": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kust och hav – Miljötillstånd: Tillförsel av kväve och fosfor till kusten",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Hav",
-        "Kust"
-      ],
-      "links": [
-        {
-          "text": "Hav",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-        },
-        {
-          "text": "Kust",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=111",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=111"
         }
       ],
       "table_headers": [],

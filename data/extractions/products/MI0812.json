@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0812",
     "response_url": "https://www.scb.se/MI0812",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/strandnara-markanvandning/",
-    "fetched_at": "2026-10-05T13:12:39.627625Z",
+    "fetched_at": "2026-10-10T01:17:36.750346Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "159f595bdb67180d7961bb5762d8e97185d991be0abdb9820af6d7751b11b70b",
+    "content_sha256": "e3913917f0d53f8ed201afeb8e9cd20ace60b4875880ab07ee53c6bde3e459cc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-12-10",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Befolkning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-    },
-    {
-      "text": "Kust",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=111",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=111"
-    },
-    {
-      "text": "Öar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=222",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=222"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1061,13 +1040,7 @@
       "paragraphs": [
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/9fe9b2bd0d8042b5807593cb28dc54ed/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/9fe9b2bd0d8042b5807593cb28dc54ed/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1087,169 +1060,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Strandnära markanvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Strandnära markanvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Karin Hedeklint",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 14",
-        "E-post",
-        "karin.hedeklint@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 14",
-          "href": "tel:010-479 45 14",
-          "url": "tel:010-479 45 14"
-        },
-        {
-          "text": "karin.hedeklint@scb.se",
-          "href": "mailto:karin.hedeklint@scb.se",
-          "url": "mailto:karin.hedeklint@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Strandnära markanvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Esbjörn Pettersson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010 479 45 72",
-        "E-post",
-        "Esbjorn.Pettersson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010 479 45 72",
-          "href": "tel:010 479 45 72",
-          "url": "tel:010 479 45 72"
-        },
-        {
-          "text": "Esbjorn.Pettersson@scb.se",
-          "href": "mailto:Esbjorn.Pettersson@scb.se",
-          "url": "mailto:Esbjorn.Pettersson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Strandnära markanvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bebyggelse",
-        "Befolkning",
-        "Kust",
-        "Öar"
-      ],
-      "links": [
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-        },
-        {
-          "text": "Kust",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=111",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=111"
-        },
-        {
-          "text": "Öar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=222",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=222"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

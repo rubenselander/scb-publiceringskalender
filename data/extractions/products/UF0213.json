@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0213",
     "response_url": "https://www.scb.se/UF0213",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/forskning-vid-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-05T13:15:17.426475Z",
+    "fetched_at": "2026-10-10T01:19:21.602235Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "de425f20dc749251032a0d9c9d265f8cd6f335975774363ff04ce938c76a4ab2",
+    "content_sha256": "c3989341c701a7bc13b5319b229e3cf139781aa5c5d294c9eb09ca3d35dc959a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -87,45 +87,6 @@
           "text": "Universitetskanslersämbetet",
           "href": "https://www.uka.se/statistik-och-analys",
           "url": "https://www.uka.se/statistik-och-analys"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning vid universitet och högskolor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Analysavdelningen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-563 085 00",
-        "E-post",
-        "analys@uka.se"
-      ],
-      "links": [
-        {
-          "text": "08-563 085 00",
-          "href": "tel:08-563 085 00",
-          "url": "tel:08-563 085 00"
-        },
-        {
-          "text": "analys@uka.se",
-          "href": "mailto:analys@uka.se",
-          "url": "mailto:analys@uka.se"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0308",
     "response_url": "https://www.scb.se/JO0308",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/amnesovergripande-statistik/skogsstatistisk-arsbok/",
-    "fetched_at": "2026-10-05T13:11:35.973335Z",
+    "fetched_at": "2026-10-10T01:16:39.522978Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "20a6e1d253b23f9fb2e110f981be5d85c04f71ddb07df43f06e109b433acf99e",
+    "content_sha256": "e7f63c5d13527b55773d8ffb17e7ae35974141ae598940bdd915440711a2c825",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skogsstatistisk årsbok",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
         }
       ],
       "table_headers": [],

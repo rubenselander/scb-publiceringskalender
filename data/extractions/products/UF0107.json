@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0107",
     "response_url": "https://www.scb.se/UF0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-for-forskola-fritidshem-skola-och-vuxenutbildning/",
-    "fetched_at": "2026-10-05T13:14:52.771223Z",
+    "fetched_at": "2026-10-10T01:19:02.961042Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a30ff3b1ce651992f99c173be59e48b53a41559721a935cd8a258ecb08aba25",
+    "content_sha256": "f9bdeadc6fa8e6e77be04d86f6c850b4bff2e095c521aad63f816ebff081d357",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -347,45 +347,7 @@
       "paragraphs": [
         "Beskrivning av Kostnader för förskoleverksamhet, skolbarnsomsorg, skola och vuxenutbildning"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Kostnader för förskoleverksamhet, skolbarnsomsorg, skola och vuxenutbildning",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-for-forskola-fritidshem-skola-och-vuxenutbildning/produktrelaterat/Fordjupad-information/beskrivning-av-kostnader-for-forskoleverksamhet-skolbarnsomsorg-skola-och-vuxenutbildning/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-for-forskola-fritidshem-skola-och-vuxenutbildning/produktrelaterat/Fordjupad-information/beskrivning-av-kostnader-for-forskoleverksamhet-skolbarnsomsorg-skola-och-vuxenutbildning/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kostnader för förskola, fritidshem, skola och vuxenutbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

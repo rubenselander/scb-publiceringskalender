@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0203",
     "response_url": "https://www.scb.se/HE0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/",
-    "fetched_at": "2026-10-05T13:11:00.934070Z",
+    "fetched_at": "2026-10-10T01:16:12.325262Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "59c075f6429006e7f83cf2b5d2a2e90e62e8181a95c5b60d7d6aa6d1c2ab5d4c",
+    "content_sha256": "3473651e6c0ec17e9fa7db4a8f8e592b6922709fc0e53b95bff0c933fa9185c6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -606,67 +606,7 @@
       "paragraphs": [
         "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?"
       ],
-      "links": [
-        {
-          "text": "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hushallens-konsumtion-och-hushallens-utgifter--vad-ar-skillnaden/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hushallens-konsumtion-och-hushallens-utgifter--vad-ar-skillnaden/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens konsumtion",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens konsumtion",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

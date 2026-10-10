@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0501",
     "response_url": "https://www.scb.se/MI0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jordbruket-beraknat-antal-hektardoser/",
-    "fetched_at": "2026-10-05T13:12:31.595307Z",
+    "fetched_at": "2026-10-10T01:17:28.702621Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "44be6d9551e96a4ace8ef715220c0d204667bbcae3a38fad7f195a9a7c14741f",
+    "content_sha256": "579a7a311534efe95079cc5eb7f9a0f1c3f24c31ec7b944b3ddb7bc85fd5d037",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bekämpningsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-    },
-    {
-      "text": "Växtskyddsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=285",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=285"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -629,109 +618,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=MI0501",
           "url": "https://metadata.scb.se/?produkt=MI0501"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jordbruket, beräknat antal hektardoser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Daniel Persson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 67 54",
-        "E-post",
-        "daniel.persson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 67 54",
-          "href": "tel:010-479 67 54",
-          "url": "tel:010-479 67 54"
-        },
-        {
-          "text": "daniel.persson@scb.se",
-          "href": "mailto:daniel.persson@scb.se",
-          "url": "mailto:daniel.persson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jordbruket, beräknat antal hektardoser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "jordbruk@scb.se"
-      ],
-      "links": [
-        {
-          "text": "jordbruk@scb.se",
-          "href": "mailto:jordbruk@scb.se",
-          "url": "mailto:jordbruk@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jordbruket, beräknat antal hektardoser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bekämpningsmedel",
-        "Växtskyddsmedel"
-      ],
-      "links": [
-        {
-          "text": "Bekämpningsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-        },
-        {
-          "text": "Växtskyddsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=285",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=285"
         }
       ],
       "table_headers": [],

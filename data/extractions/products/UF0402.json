@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0402",
     "response_url": "https://www.scb.se/UF0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/aterbetalning-av-studiestod/",
-    "fetched_at": "2026-10-05T13:15:23.835153Z",
+    "fetched_at": "2026-10-10T01:19:25.873270Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a44d3a03c14f28492742103b6ae3b2a7801d6c0d9a9e6353597a21f103a0c0c0",
+    "content_sha256": "2b812923c1f6f5b5d6d963578a66c569e7db52e58c9433b609662b977afc3947",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    },
-    {
-      "text": "Studiestöd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=246",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=246"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -92,70 +81,6 @@
           "text": "Centrala studiestödsnämnden (CSN)",
           "href": "https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html",
           "url": "https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studieskulder och inbetalning av studiestöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Centrala studiestödsnämnden (CSN)",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "registrator@csn.se"
-      ],
-      "links": [
-        {
-          "text": "registrator@csn.se",
-          "href": "mailto:registrator@csn.se",
-          "url": "mailto:registrator@csn.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studieskulder och inbetalning av studiestöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Tillgångar och skulder",
-        "Studiestöd"
-      ],
-      "links": [
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-        },
-        {
-          "text": "Studiestöd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=246",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=246"
         }
       ],
       "table_headers": [],

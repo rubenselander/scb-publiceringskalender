@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0507",
     "response_url": "https://www.scb.se/UF0507",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-studiedeltagande/",
-    "fetched_at": "2026-10-05T13:15:27.767284Z",
+    "fetched_at": "2026-10-10T01:19:29.310881Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5dba4229d287b5337847a4231f5993bfac9f00796a973d66810dc6a975c3918b",
+    "content_sha256": "0d4ddfe3882186d652fac468173ebdc92be22124796a4be8ca99f77f418ad33d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": "2026-12-11",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Studiedeltagande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=185",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=185"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -696,71 +690,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0507",
           "url": "https://metadata.scb.se/?produkt=UF0507"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Befolkningens studiedeltagande",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tomas Westling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 61 78",
-        "E-post",
-        "tomas.westling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 61 78",
-          "href": "tel:010-479 61 78",
-          "url": "tel:010-479 61 78"
-        },
-        {
-          "text": "tomas.westling@scb.se",
-          "href": "mailto:tomas.westling@scb.se",
-          "url": "mailto:tomas.westling@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Befolkningens studiedeltagande",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Studiedeltagande"
-      ],
-      "links": [
-        {
-          "text": "Studiedeltagande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=185",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=185"
         }
       ],
       "table_headers": [],

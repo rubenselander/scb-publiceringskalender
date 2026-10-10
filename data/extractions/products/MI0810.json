@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0810",
     "response_url": "https://www.scb.se/MI0810",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/",
-    "fetched_at": "2026-10-05T13:12:38.859848Z",
+    "fetched_at": "2026-10-10T01:17:35.994966Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7eb2c485643070568ce76c30d6bb27936ea6993bb6490cc0a5509c1c90661817",
+    "content_sha256": "a1a0774dd532b3b93195f9e28793cda1e941953616d8e670849477cf31d8790f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,38 +25,7 @@
   "next_publication_date": "2026-11-26",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Befolkning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-    },
-    {
-      "text": "Demografi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    },
-    {
-      "text": "Småorter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=174",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=174"
-    },
-    {
-      "text": "Tätorter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=199",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=199"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1127,90 +1096,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Inte någon gång under modern tid har folkökningen varit så stor som mellan 2010 och 2016. Mest ökar befolkningen i Sveriges tätorter. På landsbygden är det skillnad mellan områden som ligger nära respektive längre från kommunernas centralorter."
-      ],
-      "links": [
-        {
-          "text": "Befolkningen ökar svagt på landsbygden",
-          "href": "/hitta-statistik/artiklar/2018/befolkningen-okar-svagt-pa-landsbygden/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/befolkningen-okar-svagt-pa-landsbygden/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-06-04"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Småorter",
-        "Regionalt"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Småorter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=174&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=174&selection=articles"
-        },
-        {
-          "text": "Regionalt",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1620,38 +1505,7 @@
         "Öppna geodata för småorter",
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Kodnyckel (xlsx)",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/produktrelaterat/Fordjupad-information/kodnyckel/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/produktrelaterat/Fordjupad-information/kodnyckel/"
-        },
-        {
-          "text": "Nytt kodsystem statistiska bebyggelseområden (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/produktrelaterat/Fordjupad-information/nytt-kodsystem-statistiska-bebyggelseomraden/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/produktrelaterat/Fordjupad-information/nytt-kodsystem-statistiska-bebyggelseomraden/"
-        },
-        {
-          "text": "SCB:s kartsök för regionala indelningar",
-          "href": "http://geodata.scb.se/reginawebmap/main/webapp/",
-          "url": "http://geodata.scb.se/reginawebmap/main/webapp/"
-        },
-        {
-          "text": "Öppna geodata för tätorter",
-          "href": "/hitta-statistik/regional-statistik-och-kartor/geodata/oppna-geodata/tatorter/",
-          "url": "https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/geodata/oppna-geodata/tatorter/"
-        },
-        {
-          "text": "Öppna geodata för småorter",
-          "href": "/vara-tjanster/oppna-data/oppna-geodata/statistiska-smaorter/",
-          "url": "https://www.scb.se/vara-tjanster/oppna-data/oppna-geodata/statistiska-smaorter/"
-        },
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/48ad89a072bd4779bf19cd94d06a7130/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/48ad89a072bd4779bf19cd94d06a7130/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1671,181 +1525,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Enheten för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Karin Hedeklint",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 14",
-        "E-post",
-        "karin.hedeklint@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 14",
-          "href": "tel:010-479 45 14",
-          "url": "tel:010-479 45 14"
-        },
-        {
-          "text": "karin.hedeklint@scb.se",
-          "href": "mailto:karin.hedeklint@scb.se",
-          "url": "mailto:karin.hedeklint@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Stefan Svanström, SCB",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 58",
-        "E-post",
-        "stefan.svanstrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 58",
-          "href": "tel:010-479 45 58",
-          "url": "tel:010-479 45 58"
-        },
-        {
-          "text": "stefan.svanstrom@scb.se",
-          "href": "mailto:stefan.svanstrom@scb.se",
-          "url": "mailto:stefan.svanstrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tätorter och småorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bebyggelse",
-        "Befolkning",
-        "Demografi",
-        "Markanvändning",
-        "Småorter",
-        "Tätorter"
-      ],
-      "links": [
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-        },
-        {
-          "text": "Demografi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        },
-        {
-          "text": "Småorter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=174",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=174"
-        },
-        {
-          "text": "Tätorter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=199",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=199"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

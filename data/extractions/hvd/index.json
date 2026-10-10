@@ -3,10 +3,10 @@
     "requested_url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
     "response_url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
     "canonical_url": "https://www.scb.se/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
-    "fetched_at": "2026-10-05T13:16:31.696045Z",
+    "fetched_at": "2026-10-10T01:06:20.234522Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "cc38ffc65f9efa7a969d9fe69a0afb2c5b2dda3407311d31decf1fa053e09b73",
+    "content_sha256": "9569cd3cf6e395d79b0019d5a3386f8d3e588910d253ec2f1f87f45a58337482",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -14,12 +14,14 @@
     "capture_scope": "complete_page",
     "warnings": []
   },
-  "title": "Kakor på scb.se",
+  "title": "Värdefulla datamängder – statistik",
   "headers": [
     "Datamängd",
     "Tabell/sparad fråga"
   ],
   "total_source_groups": 22,
+  "total_source_links": 88,
+  "product_links_only": true,
   "partial_sample": false,
   "groups": [
     {
@@ -30,7 +32,9 @@
           "anchor_text": "Industrins produktion efter varugrupp enligt KN. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__NV__NV0119/IVPKNAr/",
           "target_kind": "pxweb_table",
-          "context_text": "Industrins produktion efter varugrupp enligt KN. År"
+          "context_text": "Industrins produktion efter varugrupp enligt KN. År",
+          "subject_code": "NV",
+          "product_code": "NV0119"
         }
       ]
     },
@@ -42,7 +46,9 @@
           "anchor_text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0301__PR0301G/PPI2020M/",
           "target_kind": "pxweb_table",
-          "context_text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad"
+          "context_text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad",
+          "subject_code": "PR",
+          "product_code": "PR0301"
         }
       ]
     },
@@ -54,7 +60,9 @@
           "anchor_text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0101__HA0101B/DivtjansterM07X/",
           "target_kind": "pxweb_table",
-          "context_text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad"
+          "context_text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad",
+          "subject_code": "HA",
+          "product_code": "HA0101"
         }
       ]
     },
@@ -66,19 +74,25 @@
           "anchor_text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0201__HA0201B/ExpTotalKNMan/",
           "target_kind": "pxweb_table",
-          "context_text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad"
+          "context_text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad",
+          "subject_code": "HA",
+          "product_code": "HA0201"
         },
         {
           "anchor_text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0201__HA0201B/ImpTotalKNMan",
           "target_kind": "pxweb_table",
-          "context_text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad"
+          "context_text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad",
+          "subject_code": "HA",
+          "product_code": "HA0201"
         },
         {
           "anchor_text": "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0201__HA0201D/OImpExpSITC4M",
           "target_kind": "pxweb_table",
-          "context_text": "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad. Månad"
+          "context_text": "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad. Månad",
+          "subject_code": "HA",
+          "product_code": "HA0201"
         }
       ]
     },
@@ -90,265 +104,9 @@
           "anchor_text": "Konsumentprisindex (KPI) efter varu-/tjänstegrupp (COICOP), 1980=100. Månad",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0101__PR0101A/KPICOI80MN/",
           "target_kind": "pxweb_table",
-          "context_text": "Konsumentprisindex (KPI) efter varu-/tjänstegrupp (COICOP), 1980=100. Månad"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Nationalräkenskaper – viktiga BNP-aggregat per år och kvartal",
-      "row_text": "Nationalräkenskaper – viktiga BNP-aggregat per år och kvartal Bruttonationalprodukt till marknadspris B.1*G BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År (sparad fråga) BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År (sparad fråga) Bruttoförädlningsvärde B.1G Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga) Enligt NUTS 2-3, löpande priser (sparad fråga) Hushållens slutliga konsumtionsutgifter P.31_S.14 Hushållens konsumtionsutgifter, löpande priser och volymutveckling (sparad fråga) Fasta bruttoinvesteringar P.51g Enligt NACE 2, löpande priser, fasta priser, volymutveckling (sparad fråga) Enligt NUTS 2, löpande priser (sparad fråga) Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling Ersättningar till anställda, D1 Enligt NACE 2, löpande priser (sparad fråga) Egentlig lön D1 enligt NUTS 2, löpande priser (sparad fråga) Anställning, EMP Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga) Medelantal sysselsatta personer i 1000-tal efter NUTS1-3 (sparad fråga) Bruttonationalinkomst B.5g_S.1 Löpande priser och per capita (sparad fråga) Finansiellt sparande för den totala ekonomin, B.9_S.1 Finansiellt sparande för den totala ekonomin, löpande priser (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150125",
-          "target_kind": "saved_query",
-          "context_text": "BNP till marknadspris, samt BNP per capita och volymutvecklingen efter NUTS 2-3. År (sparad fråga)"
-        },
-        {
-          "anchor_text": "BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150126",
-          "target_kind": "saved_query",
-          "context_text": "BNP till marknadspris, löpande pris, fasta priser och volymutveckling för NUTS1. År (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150127",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NUTS 2-3, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150128",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NUTS 2-3, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållens konsumtionsutgifter, löpande priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150128",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens konsumtionsutgifter, löpande priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NACE 2, löpande priser, fasta priser, volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150129",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NACE 2, löpande priser, fasta priser, volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NUTS 2, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/149977",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NUTS 2, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150130",
-          "target_kind": "saved_query",
-          "context_text": "Efter tillgångstyp ANF6, löpande priser, fasta priser, volymutveckling"
-        },
-        {
-          "anchor_text": "Enligt NACE 2, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/149990",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NACE 2, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Egentlig lön D1 enligt NUTS 2, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/149992",
-          "target_kind": "saved_query",
-          "context_text": "Egentlig lön D1 enligt NUTS 2, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2",
-          "url": "https://www.statistikdatabasen.scb.se/sq/149994",
-          "target_kind": "saved_query",
-          "context_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga)"
-        },
-        {
-          "anchor_text": "Medelantal sysselsatta personer i 1000-tal efter NUTS1-3",
-          "url": "https://www.statistikdatabasen.scb.se/sq/149995",
-          "target_kind": "saved_query",
-          "context_text": "Medelantal sysselsatta personer i 1000-tal efter NUTS1-3 (sparad fråga)"
-        },
-        {
-          "anchor_text": "Löpande priser och per capita",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150000",
-          "target_kind": "saved_query",
-          "context_text": "Löpande priser och per capita (sparad fråga)"
-        },
-        {
-          "anchor_text": "Finansiellt sparande för den totala ekonomin, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150055",
-          "target_kind": "saved_query",
-          "context_text": "Finansiellt sparande för den totala ekonomin, löpande priser (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Nationalräkenskaper – viktiga BNP-aggregat per kvartal",
-      "row_text": "Nationalräkenskaper – viktiga BNP-aggregat per kvartal Bruttonationalprodukt till marknadspris B.1*G BNP till marknadspris, löpande priser, fasta priser och volymutveckling (sparad fråga) Bruttoförädlingsvärde B.1G Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga) Hushållens slutliga konsumtionsutgifter P.31_S.14 Hushållens konsumtionsutgifter, löpande priser, fasta priser och volymutveckling (sparad fråga) Fasta bruttoinvesteringar P.51g Efter tillgångstyp ANF6, löpande priser, fastar priser och volymutveckling (sparad fråga) Ersättningar till anställda, D1 Enligt NACE 2, löpande priser (sparad fråga) Anställning, EMP Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "BNP till marknadspris, löpande priser, fasta priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150131",
-          "target_kind": "saved_query",
-          "context_text": "BNP till marknadspris, löpande priser, fasta priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150133",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NACE 2, löpande priser, fasta priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållens konsumtionsutgifter, löpande priser, fasta priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150134",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens konsumtionsutgifter, löpande priser, fasta priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Efter tillgångstyp ANF6, löpande priser, fastar priser och volymutveckling",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150135",
-          "target_kind": "saved_query",
-          "context_text": "Efter tillgångstyp ANF6, löpande priser, fastar priser och volymutveckling (sparad fråga)"
-        },
-        {
-          "anchor_text": "Enligt NACE 2, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150026",
-          "target_kind": "saved_query",
-          "context_text": "Enligt NACE 2, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150028",
-          "target_kind": "saved_query",
-          "context_text": "Medelantal sysselsatta, antal personer i 1000-tal samt antal arbetade timmar i 1 000 000-tal, enligt NACE 2 (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Nationalräkenskaper – viktiga indikatorer för företag per år",
-      "row_text": "Nationalräkenskaper – viktiga indikatorer för företag per år Fast bruttoinvesteringar, driftöverskott, brutto, och sammansatt förvärvsinkomst för icke-finansiella företag, P.51g_S.11, 9B.2g & B3g)_S.11 Fast bruttoinvesteringar, driftöverskott, brutto, och sammansatt förvärvsinkomst för icke-finansiella företag, löpande priser (sparad fråga) Finansiella sektorns totala tillgångar, F.A_S.12 Finansiella sektors totala tillgångar, löpande priser (sparad fråga) Finansiella sektorns totala skulder, F.L_S.12 Finansiella sektors totala skulder, löpande priser (sparad fråga) Finansiellt sparande för icke-finansiella och finansiella företag, B9 Finansiellt sparande för icke-finansiella och finansiella företag, löpande priser (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "Fast bruttoinvesteringar, driftöverskott, brutto, och sammansatt förvärvsinkomst för icke-finansiella företag, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150053",
-          "target_kind": "saved_query",
-          "context_text": "Fast bruttoinvesteringar, driftöverskott, brutto, och sammansatt förvärvsinkomst för icke-finansiella företag, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Finansiella sektors totala tillgångar, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150118",
-          "target_kind": "saved_query",
-          "context_text": "Finansiella sektors totala tillgångar, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Finansiella sektors totala skulder, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150119",
-          "target_kind": "saved_query",
-          "context_text": "Finansiella sektors totala skulder, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Finansiellt sparande för icke-finansiella och finansiella företag, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150054",
-          "target_kind": "saved_query",
-          "context_text": "Finansiellt sparande för icke-finansiella och finansiella företag, löpande priser (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Nationalräkenskaper – viktiga indikatorer för hushåll per år",
-      "row_text": "Nationalräkenskaper – viktiga indikatorer för hushåll per år Hushållens disponibla inkomst - brutto och netto Hushållens disponibla bruttoinkomst, B.6g_S.14 och nettoinkomst, B.6n_S.14 (sparad fråga) Hushållens disponibla nettoinkomst efter NUTS 2 (sparad fråga) Hushållens fasta bruttoinvesteringar, P.51g_S.14 Hushållens fasta bruttoinvesteringar, löpande priser (sparad fråga) Hushållens sparande, brutto, B.8g_S.14 Hushållens sparande brutto, löpande priser (sparad fråga) Hushållssektorns totala tillgångar, F.A_S.14 Hushållssektorns totala tillgångar, löpande priser (sparad fråga) Hushållssektorns totala skulder, F.L_S14 Hushållssektorns totala skulder, Löpande priser, ej konsoliderat (sparad fråga) Finansiellt sparande för hushållen, B.9_S.14 Finansiellt sparande för hushållen. Saldopost, löpande priser (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "Hushållens disponibla bruttoinkomst, B.6g_S.14 och nettoinkomst, B.6n_S.14",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150041",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens disponibla bruttoinkomst, B.6g_S.14 och nettoinkomst, B.6n_S.14 (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållens disponibla nettoinkomst efter NUTS 2",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150048",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens disponibla nettoinkomst efter NUTS 2 (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållens fasta bruttoinvesteringar, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150043",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens fasta bruttoinvesteringar, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållens sparande brutto, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150050",
-          "target_kind": "saved_query",
-          "context_text": "Hushållens sparande brutto, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållssektorns totala tillgångar, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150121",
-          "target_kind": "saved_query",
-          "context_text": "Hushållssektorns totala tillgångar, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Hushållssektorns totala skulder, Löpande priser, ej konsoliderat",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150122",
-          "target_kind": "saved_query",
-          "context_text": "Hushållssektorns totala skulder, Löpande priser, ej konsoliderat (sparad fråga)"
-        },
-        {
-          "anchor_text": "Finansiellt sparande för hushållen. Saldopost, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150057",
-          "target_kind": "saved_query",
-          "context_text": "Finansiellt sparande för hushållen. Saldopost, löpande priser (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Offentliga utgifter och inkomster per år",
-      "row_text": "Offentliga utgifter och inkomster per år Summa offentliga inkomster Offentliga inkomst, fördelad, löpande priser (sparad fråga) Totala utgifter, definieras i förordning (EU) Totala utgifter, fördelad, löpande priser (sparad fråga) Notera: Kapitalöverföringar och anskaffning minus avyttring av icke finansiella icke producerande tillgångar motsvaras av III.1.1.D9.PAY och III.1.2.NP.PAY tillsammans Nettoutlåning/nettoupplåning för offentliga sektorn (B.9) Nettoutlåning/nettoupplåning för offentliga sektorn, löpande priser (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "Offentliga inkomst, fördelad, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150152",
-          "target_kind": "saved_query",
-          "context_text": "Offentliga inkomst, fördelad, löpande priser (sparad fråga)"
-        },
-        {
-          "anchor_text": "Totala utgifter, fördelad, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150153",
-          "target_kind": "saved_query",
-          "context_text": "Totala utgifter, fördelad, löpande priser (sparad fråga) Notera: Kapitalöverföringar och anskaffning minus avyttring av icke finansiella icke producerande tillgångar motsvaras av III.1.1.D9.PAY och III.1.2.NP.PAY tillsammans"
-        },
-        {
-          "anchor_text": "Nettoutlåning/nettoupplåning för offentliga sektorn, löpande priser",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150136",
-          "target_kind": "saved_query",
-          "context_text": "Nettoutlåning/nettoupplåning för offentliga sektorn, löpande priser (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Offentlig bruttoskuld",
-      "row_text": "Offentlig bruttoskuld Offentlig bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "Offentlig bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150045",
-          "target_kind": "saved_query",
-          "context_text": "Offentlig bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån (sparad fråga)"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Offentlig konsoliderad bruttoskuld per kvartal",
-      "row_text": "Offentlig konsoliderad bruttoskuld per kvartal Offentlig konsoliderad bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån (sparad fråga)",
-      "links": [
-        {
-          "anchor_text": "Offentlig konsoliderad bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån",
-          "url": "https://www.statistikdatabasen.scb.se/sq/150046",
-          "target_kind": "saved_query",
-          "context_text": "Offentlig konsoliderad bruttoskuld i sedlar, mynt och inlåning, skuldebrev samt lån (sparad fråga)"
+          "context_text": "Konsumentprisindex (KPI) efter varu-/tjänstegrupp (COICOP), 1980=100. Månad",
+          "subject_code": "PR",
+          "product_code": "PR0101"
         }
       ]
     },
@@ -360,37 +118,49 @@
           "anchor_text": "Folkmängden efter region, civilstånd, ålder och kön. År 2025–",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/BefolkningCKM",
           "target_kind": "pxweb_table",
-          "context_text": "Folkmängden efter region, civilstånd, ålder och kön. År 2025–"
+          "context_text": "Folkmängden efter region, civilstånd, ålder och kön. År 2025–",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Folkmängden efter region, civilstånd, ålder och kön. År 1968–2024",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/BefolkningNy/",
           "target_kind": "pxweb_table",
-          "context_text": "Folkmängden efter region, civilstånd, ålder och kön. År 1968–2024"
+          "context_text": "Folkmängden efter region, civilstånd, ålder och kön. År 1968–2024",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Befolkningens medelålder och medianålder efter region och kön. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101B/BefolkHVDAlder/",
           "target_kind": "pxweb_table",
-          "context_text": "Befolkningens medelålder och medianålder efter region och kön. År"
+          "context_text": "Befolkningens medelålder och medianålder efter region och kön. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Demografisk försörjningskvot efter region. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/FkvotHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Demografisk försörjningskvot efter region. År"
+          "context_text": "Demografisk försörjningskvot efter region. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Folkmängd efter födelselandsgrupp och Human Development Index. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/FolkmFodlandHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Folkmängd efter födelselandsgrupp och Human Development Index. År"
+          "context_text": "Folkmängd efter födelselandsgrupp och Human Development Index. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Folkmängd efter medborgarskapsgrupp och Human Development Index. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/FolkmMedblandHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Folkmängd efter medborgarskapsgrupp och Human Development Index. År"
+          "context_text": "Folkmängd efter medborgarskapsgrupp och Human Development Index. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         }
       ]
     },
@@ -402,19 +172,25 @@
           "anchor_text": "Fruktsamhetstal per 1 000 kvinnor efter moderns ålder och region. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101H/FruktsamhetHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Fruktsamhetstal per 1 000 kvinnor efter moderns ålder och region. År"
+          "context_text": "Fruktsamhetstal per 1 000 kvinnor efter moderns ålder och region. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Födelsetal, födda per 1 000 av medelfolkmängden efter region. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101H/FodelstalHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Födelsetal, födda per 1 000 av medelfolkmängden efter region. År"
+          "context_text": "Födelsetal, födda per 1 000 av medelfolkmängden efter region. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Summerad fruktsamhet efter region och kön. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101H/FruktsamhetSum/",
           "target_kind": "pxweb_table",
-          "context_text": "Summerad fruktsamhet efter region och kön. År"
+          "context_text": "Summerad fruktsamhet efter region och kön. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         }
       ]
     },
@@ -426,31 +202,41 @@
           "anchor_text": "Spädbarnsdödlighet efter region och kön. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101I/SpadbarnsdodlHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Spädbarnsdödlighet efter region och kön. År"
+          "context_text": "Spädbarnsdödlighet efter region och kön. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Ettårig livslängdstabell för hela riket efter kön och ålder. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101I/LivslangdEttariga/",
           "target_kind": "pxweb_table",
-          "context_text": "Ettårig livslängdstabell för hela riket efter kön och ålder. År"
+          "context_text": "Ettårig livslängdstabell för hela riket efter kön och ålder. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Femårig livslängdstabell efter län, utbildningsnivå, kön och ålder. Årsintervall",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0701/LivslUtbLan/",
           "target_kind": "pxweb_table",
-          "context_text": "Femårig livslängdstabell efter län, utbildningsnivå, kön och ålder. Årsintervall"
+          "context_text": "Femårig livslängdstabell efter län, utbildningsnivå, kön och ålder. Årsintervall",
+          "subject_code": "BE",
+          "product_code": "BE0701"
         },
         {
           "anchor_text": "Återstående medellivslängd länsvis efter kön. Femårsperioder",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101I/MedellivslangdL/",
           "target_kind": "pxweb_table",
-          "context_text": "Återstående medellivslängd länsvis efter kön. Femårsperioder"
+          "context_text": "Återstående medellivslängd länsvis efter kön. Femårsperioder",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         },
         {
           "anchor_text": "Dödstal, döda per 1 000 av medelfolkmängden efter region. År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101I/DodstalHVD/",
           "target_kind": "pxweb_table",
-          "context_text": "Dödstal, döda per 1 000 av medelfolkmängden efter region. År"
+          "context_text": "Dödstal, döda per 1 000 av medelfolkmängden efter region. År",
+          "subject_code": "BE",
+          "product_code": "BE0101"
         }
       ]
     },
@@ -462,223 +248,9 @@
           "anchor_text": "Totala hälso- och sjukvårdsutgifter efter producentgrupp (HP) och finansiär (HF) År",
           "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__NR__NR0109/HPHF/",
           "target_kind": "pxweb_table",
-          "context_text": "Totala hälso- och sjukvårdsutgifter efter producentgrupp (HP) och finansiär (HF) År"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Fattigdom, år",
-      "row_text": "Fattigdom, år Ekonomisk utsatthet efter indikator, redovisningsgrupp och kön. År",
-      "links": [
-        {
-          "anchor_text": "Ekonomisk utsatthet efter indikator, redovisningsgrupp och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0101/HVDLE0101T03/",
-          "target_kind": "pxweb_table",
-          "context_text": "Ekonomisk utsatthet efter indikator, redovisningsgrupp och kön. År"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Ojämlikhet, år",
-      "row_text": "Ojämlikhet, år Ginikoefficient för disponibel inkomst per konsumtionsenhet. År Inkomstkvintilkvot S80/S20 för disponibel inkomst efter kön och redovisningsgrupp. År",
-      "links": [
-        {
-          "anchor_text": "Ginikoefficient för disponibel inkomst per konsumtionsenhet. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0101/HVDLE0101T01/",
-          "target_kind": "pxweb_table",
-          "context_text": "Ginikoefficient för disponibel inkomst per konsumtionsenhet. År"
-        },
-        {
-          "anchor_text": "Inkomstkvintilkvot S80/S20 för disponibel inkomst efter kön och redovisningsgrupp. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0101/HVDLE0101T02/",
-          "target_kind": "pxweb_table",
-          "context_text": "Inkomstkvintilkvot S80/S20 för disponibel inkomst efter kön och redovisningsgrupp. År"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Sysselsättning, år",
-      "row_text": "Sysselsättning, år Sysselsatta 20-64 år (AKU) efter kön och ålder. År Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. År Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. År Sysselsatta 20-64 år (AKU) efter region och kön. År Sysselsatta 20-64 år (AKU) efter region och ålder. År Sysselsatta 20-64 år (AKU) efter region och utbildningsnivå. År Deltidsarbete 20-64 år (AKU) efter kön och ålder. År Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och kön. År Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och ålder. År",
-      "links": [
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter kön och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysAlderAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter kön och ålder. År"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. År"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysAlderISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. År"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter region och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter region och kön. År"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter region och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysAlderNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter region och ålder. År"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter region och utbildningsnivå. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysISCEDNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter region och utbildningsnivå. År"
-        },
-        {
-          "anchor_text": "Deltidsarbete 20-64 år (AKU) efter kön och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDDeltidAlderAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Deltidsarbete 20-64 år (AKU) efter kön och ålder. År"
-        },
-        {
-          "anchor_text": "Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDDeltidISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och kön. År"
-        },
-        {
-          "anchor_text": "Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDDeltAlderISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Deltidsarbete 20-64 år (AKU) efter utbildningsnivå och ålder. År"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Sysselsättning, kvartal",
-      "row_text": "Sysselsättning, kvartal Sysselsatta 20-64 år (AKU) efter kön och ålder. Kvartal Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. Kvartal Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. Kvartal",
-      "links": [
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter kön och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysAlderK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter kön och ålder. Kvartal"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och kön. Kvartal"
-        },
-        {
-          "anchor_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDSysAlderISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Sysselsatta 20-64 år (AKU) efter utbildningsnivå och ålder. Kvartal"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Arbetslöshet, år",
-      "row_text": "Arbetslöshet, år Arbetslösa 15-74 år (AKU) efter kön och ålder. År Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År Arbetslösa 15-74 år (AKU) efter region och kön. År Arbetslösa 15-74 år (AKU) efter region och ålder. År Arbetslösa 15-74 år (AKU) efter region och utbildningsnivå. År ångtidsarbetslösa 15-74 år (AKU) efter kön och ålder. År Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År",
-      "links": [
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter kön och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosAlderAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter kön och ålder. År"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDARblosISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblAlderISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter region och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter region och kön. År"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter region och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosAlderNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter region och ålder. År"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter region och utbildningsnivå. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosISCEDNUTSAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter region och utbildningsnivå. År"
-        },
-        {
-          "anchor_text": "ångtidsarbetslösa 15-74 år (AKU) efter kön och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUAlderAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "ångtidsarbetslösa 15-74 år (AKU) efter kön och ålder. År"
-        },
-        {
-          "anchor_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. År"
-        },
-        {
-          "anchor_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUAlderISCEDAr/",
-          "target_kind": "pxweb_table",
-          "context_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. År"
-        }
-      ]
-    },
-    {
-      "dataset_label": "Arbetslöshet, kvartal",
-      "row_text": "Arbetslöshet, kvartal Arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal Långtidsarbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal",
-      "links": [
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosAlderK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal"
-        },
-        {
-          "anchor_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDArblosAlderISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Arbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal"
-        },
-        {
-          "anchor_text": "Långtidsarbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUAlderK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Långtidsarbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal"
-        },
-        {
-          "anchor_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och kön. Kvartal"
-        },
-        {
-          "anchor_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal",
-          "url": "https://hvduppdrag.scb.se/pxweb/sv/uppdrag/HV01__HV0102/HVDLTUAlderISCEDK/",
-          "target_kind": "pxweb_table",
-          "context_text": "Långtidsarbetslösa 15-74 år (AKU) efter utbildningsnivå och ålder. Kvartal"
+          "context_text": "Totala hälso- och sjukvårdsutgifter efter producentgrupp (HP) och finansiär (HF) År",
+          "subject_code": "NR",
+          "product_code": "NR0109"
         }
       ]
     }

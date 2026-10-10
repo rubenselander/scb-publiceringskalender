@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0314",
     "response_url": "https://www.scb.se/JO0314",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/avverkningsanmalningar/",
-    "fetched_at": "2026-10-05T13:11:38.856391Z",
+    "fetched_at": "2026-10-10T01:16:42.158322Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "319ebec33fcf4540aa8b0ad9b3e924eb4eb160517ddc836200387934f604181d",
+    "content_sha256": "f3a977c563204075af857f55353991483962447fd242e4810fd53c6c024ab7ae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    },
-    {
-      "text": "Skogsmark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -83,77 +72,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avverkningsanmälningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avverkningsanmälningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Skog",
-        "Skogsmark"
-      ],
-      "links": [
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-        },
-        {
-          "text": "Skogsmark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
         }
       ],
       "table_headers": [],

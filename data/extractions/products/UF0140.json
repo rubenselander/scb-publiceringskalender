@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0140",
     "response_url": "https://www.scb.se/UF0140",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/etablering-pa-arbetsmarknaden-och-fortsatta-studier-efter-komvux/",
-    "fetched_at": "2026-10-05T13:15:09.842125Z",
+    "fetched_at": "2026-10-10T01:19:15.713617Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1e46ca7bdaffd214aa947c735305dfe2eaaec577447f26cbe34873ccb1df3fad",
+    "content_sha256": "6fb282e0baf53182287a13098665c396088ca61eb1b2a97db76bae1b7117958b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -93,45 +93,7 @@
       "paragraphs": [
         "Beskrivning av etableringsmåttet (pdf)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av etableringsmåttet (pdf)",
-          "href": "/contentassets/4b38303bb639446e8b73ba9f99f23f9c/beskrivning-av-etableringsmattet-gymnasiet_230921.pdf",
-          "url": "https://www.scb.se/contentassets/4b38303bb639446e8b73ba9f99f23f9c/beskrivning-av-etableringsmattet-gymnasiet_230921.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Etablering på arbetsmarknaden och fortsatta studier efter komvux",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skolverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "utbildningsstatistik@skolverket.se"
-      ],
-      "links": [
-        {
-          "text": "utbildningsstatistik@skolverket.se",
-          "href": "mailto:utbildningsstatistik@skolverket.se",
-          "url": "mailto:utbildningsstatistik@skolverket.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

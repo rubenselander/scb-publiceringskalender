@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0501",
     "response_url": "https://www.scb.se/PR0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/",
-    "fetched_at": "2026-10-05T13:13:42.718069Z",
+    "fetched_at": "2026-10-10T01:18:19.016302Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7f9737b1275f03c930ea9c58be30cb8e0e11e5a9a7aa096226e54b60cb391432",
+    "content_sha256": "097c30d837a59f433ec0fd799bfc6a47e05c9f0fc97f91d4a46cec49046d0f28",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,28 +27,7 @@
   "notices": [
     "Publiceringen avseende 2024 är framflyttad, information om ny publiceringstidpunkt kommer läggas upp senare."
   ],
-  "tags": [
-    {
-      "text": "Bostäder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-    },
-    {
-      "text": "Byggande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-    },
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -583,101 +562,7 @@
         "Beskrivning av Byggnadsprisindex och Faktorprisindex för byggnader",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Byggnadsprisindex och Faktorprisindex för byggnader",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/produktrelaterat/Fordjupad-information/beskrivning-av-byggnadsprisindex-och-faktorprisindex-for-byggnader/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/produktrelaterat/Fordjupad-information/beskrivning-av-byggnadsprisindex-och-faktorprisindex-for-byggnader/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggnadsprisindex-bpi/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Byggnadsprisindex (BPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tommy Lindkvist",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 47 26",
-        "E-post",
-        "tommy.lindkvist@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 47 26",
-          "href": "tel:010-479 47 26",
-          "url": "tel:010-479 47 26"
-        },
-        {
-          "text": "tommy.lindkvist@scb.se",
-          "href": "mailto:tommy.lindkvist@scb.se",
-          "url": "mailto:tommy.lindkvist@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Byggnadsprisindex (BPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bostäder",
-        "Byggande",
-        "Index",
-        "Priser"
-      ],
-      "links": [
-        {
-          "text": "Bostäder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-        },
-        {
-          "text": "Byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-        },
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

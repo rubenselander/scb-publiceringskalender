@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0102",
     "response_url": "https://www.scb.se/AM0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/",
-    "fetched_at": "2026-10-05T13:09:59.680264Z",
+    "fetched_at": "2026-10-10T01:15:13.767049Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c1632f56b5ed17a8f04a4a73b50632bea362dae64b2978e2aec30b374bb8245c",
+    "content_sha256": "fdcdc9f41ca2596e49f4ef8f6afd6ef6d2714a3cc4a0bf90309c1f002b183912",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Konjunktur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-    },
-    {
-      "text": "Lön",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -934,104 +923,7 @@
         "Skräddarsydd statistik om löner",
         "Historisk lönestatistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik om löner",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/produktrelaterat/Fordjupad-information/skraddarsydd-statistik-om-loner/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/produktrelaterat/Fordjupad-information/skraddarsydd-statistik-om-loner/"
-        },
-        {
-          "text": "Historisk lönestatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/produktrelaterat/Fordjupad-information/historisk-lonestatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/produktrelaterat/Fordjupad-information/historisk-lonestatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik, löner för statlig sektor (KLS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik, löner för statlig sektor (KLS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik, löner för statlig sektor (KLS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Konjunktur",
-        "Lön"
-      ],
-      "links": [
-        {
-          "text": "Konjunktur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-        },
-        {
-          "text": "Lön",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

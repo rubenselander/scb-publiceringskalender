@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0118",
     "response_url": "https://www.scb.se/NV0118",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/foretagens-utlandska-handelskrediter/",
-    "fetched_at": "2026-10-05T13:13:03.293307Z",
+    "fetched_at": "2026-10-10T01:17:56.702805Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "43ce1959eb6fc15d782338341ec0b15365e6578a6af2782149a1ba1bcb7d79f3",
+    "content_sha256": "5efac77966e404bfa658e9a3ba1e8eeaf7abcbad7c5f9a98134a999c746391ab",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": "2026-12-11",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -552,77 +541,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV0118",
           "url": "https://metadata.scb.se/?produkt=NV0118"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utländska handelskrediter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Arvid Mustonen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 95",
-        "E-post",
-        "arvid.mustonen@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 95",
-          "href": "tel:010-479 60 95",
-          "url": "tel:010-479 60 95"
-        },
-        {
-          "text": "arvid.mustonen@scb.se",
-          "href": "mailto:arvid.mustonen@scb.se",
-          "url": "mailto:arvid.mustonen@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utländska handelskrediter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företagsekonomi",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

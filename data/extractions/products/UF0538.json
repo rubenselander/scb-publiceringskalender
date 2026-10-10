@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0538",
     "response_url": "https://www.scb.se/UF0538",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/undersokningen-om-vuxnas-deltagande-i-utbildning/",
-    "fetched_at": "2026-10-05T13:15:36.049176Z",
+    "fetched_at": "2026-10-10T01:19:35.541862Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1d5f96e7377dbcdc28dda0513c31dab7e4a5032acb78b21715ca4772c0beba1a",
+    "content_sha256": "d959729f022114b78cf57753042bac5ae31048235bff2a62c281ddfb13650ed6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Icke-formell utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=88",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=88"
-    },
-    {
-      "text": "Personalutbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=152",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=152"
-    },
-    {
-      "text": "Vuxenutbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -318,13 +302,7 @@
       "paragraphs": [
         "Information om införande av ny ramlag i AES"
       ],
-      "links": [
-        {
-          "text": "Information om införande av ny ramlag i AES",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/undersokningen-om-vuxnas-deltagande-i-utbildning/produktrelaterat/aktuellt/information-om-inforande-av-ny-ramlag-i-aes/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/undersokningen-om-vuxnas-deltagande-i-utbildning/produktrelaterat/aktuellt/information-om-inforande-av-ny-ramlag-i-aes/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -499,122 +477,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0538",
           "url": "https://metadata.scb.se/?produkt=UF0538"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Undersökningen om vuxnas deltagande i utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Mattias Fritz",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 67",
-        "E-post",
-        "mattias.fritz@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 67",
-          "href": "tel:010-479 62 67",
-          "url": "tel:010-479 62 67"
-        },
-        {
-          "text": "mattias.fritz@scb.se",
-          "href": "mailto:mattias.fritz@scb.se",
-          "url": "mailto:mattias.fritz@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Undersökningen om vuxnas deltagande i utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Ann-Charlott Larsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 14",
-        "E-post",
-        "lotta.larsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 14",
-          "href": "tel:010-479 63 14",
-          "url": "tel:010-479 63 14"
-        },
-        {
-          "text": "lotta.larsson@scb.se",
-          "href": "mailto:lotta.larsson@scb.se",
-          "url": "mailto:lotta.larsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Undersökningen om vuxnas deltagande i utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Icke-formell utbildning",
-        "Personalutbildning",
-        "Vuxenutbildning"
-      ],
-      "links": [
-        {
-          "text": "Icke-formell utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=88",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=88"
-        },
-        {
-          "text": "Personalutbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=152",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=152"
-        },
-        {
-          "text": "Vuxenutbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
         }
       ],
       "table_headers": [],

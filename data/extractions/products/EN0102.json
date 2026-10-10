@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0102",
     "response_url": "https://www.scb.se/EN0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus/",
-    "fetched_at": "2026-10-05T13:10:28.328882Z",
+    "fetched_at": "2026-10-10T01:15:36.045692Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e2b96efafc0659c7ccce8efa037fd49dfaa2410f614cabb26b65bdadac8bf149",
+    "content_sha256": "b68ec9fc9c0729c758623c422c129206c26cbaadaac17e15e3250bfe01e56318",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0102",
   "summary": "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i permanentbebodda småhus.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: 2026-10-29",
+  "next_publication_date": "2026-10-29",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Villor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -64,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: 2026-10-29",
         "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i permanentbebodda småhus."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-15",
+          "text": "Nästa publicering: 2026-10-29",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0102&period=Forward1Year"
         }
@@ -93,89 +72,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för småhus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Christoffer Tjärnberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 22 95",
-        "E-post",
-        "christoffer.tjarnberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 22 95",
-          "href": "tel:016-544 22 95",
-          "url": "tel:016-544 22 95"
-        },
-        {
-          "text": "christoffer.tjarnberg@energimyndigheten.se",
-          "href": "mailto:christoffer.tjarnberg@energimyndigheten.se",
-          "url": "mailto:christoffer.tjarnberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för småhus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El",
-        "Hushåll",
-        "Villor"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Villor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=214",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=214"
         }
       ],
       "table_headers": [],

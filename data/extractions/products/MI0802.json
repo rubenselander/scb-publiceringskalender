@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0802",
     "response_url": "https://www.scb.se/MI0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/land-och-vattenarealer/",
-    "fetched_at": "2026-10-05T13:12:36.224840Z",
+    "fetched_at": "2026-10-10T01:17:33.296488Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fa2b48a48a5cc3666ba2185691a17cab23383878dc381dcca38b75ef37f522f7",
+    "content_sha256": "e10cb6d3a9470553ded37638aeb073b3cd1a65f5a27cc1f0937fbb7f89ecb006",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Areal",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=13",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=13"
-    },
-    {
-      "text": "Hav",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-    },
-    {
-      "text": "Land",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=115",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=115"
-    },
-    {
-      "text": "Landyta",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=116",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=116"
-    },
-    {
-      "text": "Sjöar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -642,167 +616,7 @@
       "paragraphs": [
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/e4f47ca7e71d4bcd94513446a092849f/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/e4f47ca7e71d4bcd94513446a092849f/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Land- och vattenarealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Land- och vattenarealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Esbjörn Pettersson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010 479 45 72",
-        "E-post",
-        "Esbjorn.Pettersson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010 479 45 72",
-          "href": "tel:010 479 45 72",
-          "url": "tel:010 479 45 72"
-        },
-        {
-          "text": "Esbjorn.Pettersson@scb.se",
-          "href": "mailto:Esbjorn.Pettersson@scb.se",
-          "url": "mailto:Esbjorn.Pettersson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Land- och vattenarealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Land- och vattenarealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Areal",
-        "Hav",
-        "Land",
-        "Landyta",
-        "Sjöar"
-      ],
-      "links": [
-        {
-          "text": "Areal",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=13",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=13"
-        },
-        {
-          "text": "Hav",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-        },
-        {
-          "text": "Land",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=115",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=115"
-        },
-        {
-          "text": "Landyta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=116",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=116"
-        },
-        {
-          "text": "Sjöar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

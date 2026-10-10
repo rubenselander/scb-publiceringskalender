@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0602",
     "response_url": "https://www.scb.se/AM0602",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/",
-    "fetched_at": "2026-10-05T13:10:13.873567Z",
+    "fetched_at": "2026-10-10T01:15:25.378301Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0a352635ed7b29d8f848b111444b5d8e50fc343b9aad658a1cc32ab2ea70c063",
+    "content_sha256": "ea3394676e373acaaa0e22d03a64ce3e769007853f4844488df16ec40b157cad",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Arbetsmiljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,77 +66,6 @@
           "text": "Arbetsmiljöverket",
           "href": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/",
           "url": "https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbetsmiljostatistik-officiell-arbetsskadestatstik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Arbetsmiljöverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-730 90 00",
-        "E-post",
-        "arbetsmiljoverket@av.se"
-      ],
-      "links": [
-        {
-          "text": "010-730 90 00",
-          "href": "tel:010-730 90 00",
-          "url": "tel:010-730 90 00"
-        },
-        {
-          "text": "arbetsmiljoverket@av.se",
-          "href": "mailto:arbetsmiljoverket@av.se",
-          "url": "mailto:arbetsmiljoverket@av.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Arbetsmiljö"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Arbetsmiljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0202",
     "response_url": "https://www.scb.se/JO0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbruksekonomiska-undersokningen/",
-    "fetched_at": "2026-10-05T13:11:30.679566Z",
+    "fetched_at": "2026-10-10T01:16:33.569619Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a70f9b188f2f6d2c71cdc29a4d404af35285abdc6ad78999be35c35859d6af9",
+    "content_sha256": "97195d0aa82d2ed5382b3950592d340a877e022d9d65ec3a52e680d1c2f9539c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Djur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-    },
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -693,129 +677,7 @@
       "paragraphs": [
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbruksekonomiska-undersokningen/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbruksekonomiska-undersokningen/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksekonomiska undersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksekonomiska undersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Monica Leonardsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 81",
-        "E-post",
-        "monica.leonardsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 81",
-          "href": "tel:010-479 62 81",
-          "url": "tel:010-479 62 81"
-        },
-        {
-          "text": "monica.leonardsson@scb.se",
-          "href": "mailto:monica.leonardsson@scb.se",
-          "url": "mailto:monica.leonardsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksekonomiska undersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Djur",
-        "Företagsekonomi"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Djur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-        },
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

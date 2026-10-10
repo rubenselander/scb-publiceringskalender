@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0808",
     "response_url": "https://www.scb.se/TK0808",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/svenska-och-utlandska-fartyg-i-svensk-regi/",
-    "fetched_at": "2026-10-05T13:14:39.078450Z",
+    "fetched_at": "2026-10-10T01:18:53.620981Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fb5dbea31088fa3504fab43387dfb1adb4ae77a6560df1ccb3caf55edbde290d",
+    "content_sha256": "793b3ee6819f9ab9c5692e826c0330cc593582d0feef97933dcff0ab815f417b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Sjöfart",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=269",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=269"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,71 +66,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svenska och utländska fartyg i svensk regi",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svenska och utländska fartyg i svensk regi",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Sjöfart"
-      ],
-      "links": [
-        {
-          "text": "Sjöfart",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=269",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=269"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0117",
     "response_url": "https://www.scb.se/NV0117",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/",
-    "fetched_at": "2026-10-05T13:13:02.629520Z",
+    "fetched_at": "2026-10-10T01:17:56.201001Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3dbb795dbbcb567e231377913cd643a48de4602e556affe4c0e5da6e5dfd21df",
+    "content_sha256": "79bd1dbc1b6ae9acbbbdb5ce93ffa16f0bfc34dfa37d2d38814a1b50a822402e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -795,40 +795,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV0117",
           "url": "https://metadata.scb.se/?produkt=NV0117"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Civila samhället",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "CivSam@scb.se"
-      ],
-      "links": [
-        {
-          "text": "CivSam@scb.se",
-          "href": "mailto:CivSam@scb.se",
-          "url": "mailto:CivSam@scb.se"
         }
       ],
       "table_headers": [],

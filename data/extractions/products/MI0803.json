@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0803",
     "response_url": "https://www.scb.se/MI0803",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/",
-    "fetched_at": "2026-10-05T13:12:36.682855Z",
+    "fetched_at": "2026-10-10T01:17:33.772803Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9f4ca3fc495f5f83a66d29d5b43b8ac82668db2a5c6f158fc660074f9e108a5d",
+    "content_sha256": "eabee8d1cedaaa75788b13bbeee3b7361d020a0c9fdde8a013fa1069be67347b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    },
-    {
-      "text": "Markägande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=127",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=127"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -969,13 +953,7 @@
       "paragraphs": [
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/6a2d974b8a5d4620a548900714736131/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/6a2d974b8a5d4620a548900714736131/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -995,202 +973,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markanvändningen i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markanvändningen i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jerker Moström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 40 31",
-        "E-post",
-        "jerker.mostrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 40 31",
-          "href": "tel:010-479 40 31",
-          "url": "tel:010-479 40 31"
-        },
-        {
-          "text": "jerker.mostrom@scb.se",
-          "href": "mailto:jerker.mostrom@scb.se",
-          "url": "mailto:jerker.mostrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markanvändningen i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Linus Rispling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 69",
-        "E-post",
-        "linus.rispling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 69",
-          "href": "tel:010-479 45 69",
-          "url": "tel:010-479 45 69"
-        },
-        {
-          "text": "linus.rispling@scb.se",
-          "href": "mailto:linus.rispling@scb.se",
-          "url": "mailto:linus.rispling@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markanvändningen i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Stefan Svanström, SCB",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 58",
-        "E-post",
-        "stefan.svanstrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 58",
-          "href": "tel:010-479 45 58",
-          "url": "tel:010-479 45 58"
-        },
-        {
-          "text": "stefan.svanstrom@scb.se",
-          "href": "mailto:stefan.svanstrom@scb.se",
-          "url": "mailto:stefan.svanstrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markanvändningen i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bebyggelse",
-        "Markanvändning",
-        "Markägande"
-      ],
-      "links": [
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        },
-        {
-          "text": "Markägande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=127",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=127"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

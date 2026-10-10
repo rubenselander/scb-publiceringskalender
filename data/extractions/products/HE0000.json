@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0000",
     "response_url": "https://www.scb.se/HE0000",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/amnesovergripande-statistik/hushallens-ekonomi-allman-statistik/",
-    "fetched_at": "2026-10-05T13:10:54.029915Z",
+    "fetched_at": "2026-10-10T01:16:03.720712Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1d5a64a07bc1af8e44a974a176567d25f866ffcaa468d5c3856e48a2bcf4c85c",
+    "content_sha256": "16c9605b54d22784e24ea5c9c07db7db2b6348e4329e763513e5bf12af07f450",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -314,137 +298,7 @@
       "paragraphs": [
         "Antalet helårspersoner som försörjdes med sociala ersättningar och bidrag"
       ],
-      "links": [
-        {
-          "text": "Antalet helårspersoner som försörjdes med sociala ersättningar och bidrag",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens ekonomi allmän statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens ekonomi allmän statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens ekonomi allmän statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "inkomststat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "inkomststat@scb.se",
-          "href": "mailto:inkomststat@scb.se",
-          "url": "mailto:inkomststat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens ekonomi allmän statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Inkomst",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

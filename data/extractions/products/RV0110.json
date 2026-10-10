@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0110",
     "response_url": "https://www.scb.se/RV0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/skolundersokningen-om-brott-sub/",
-    "fetched_at": "2026-10-05T13:13:55.719630Z",
+    "fetched_at": "2026-10-10T01:18:25.112772Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "93ba5eb0bb9eb421ef86d13f41b8458cb5db7ba45c6f42ecbbee77ebfa189e0e",
+    "content_sha256": "363c3bcfcc500ff5ce3ded964c6c42e03f28c165cbbe377cf3a7e6791867ae1c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0110",
   "summary": "Brå genomför regelbundet en nationell skolundersökning om brott (SUB). Undersökningen utgör ett viktigt kunskapsunderlag om brottslighet bland ungdomar i årskurs 9 i Sverige, och omfattar både deras egen brottsutövning och deras utsatthet för brott.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-08",
-  "next_publication_date": "2026-10-08",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Brott",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -49,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-08",
+        "Nästa publicering: Ingen planerad",
         "Brå genomför regelbundet en nationell skolundersökning om brott (SUB). Undersökningen utgör ett viktigt kunskapsunderlag om brottslighet bland ungdomar i årskurs 9 i Sverige, och omfattar både deras egen brottsutövning och deras utsatthet för brott."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-08",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0110&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0110&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -78,71 +66,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skolundersökningen om brott (SUB)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skolundersökningen om brott (SUB)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Brott"
-      ],
-      "links": [
-        {
-          "text": "Brott",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
         }
       ],
       "table_headers": [],

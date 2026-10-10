@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0306",
     "response_url": "https://www.scb.se/JO0306",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/lager-av-rundvirke-och-massaflis/",
-    "fetched_at": "2026-10-05T13:11:34.441997Z",
+    "fetched_at": "2026-10-10T01:16:38.079335Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a754fc0f225b15724f717af2d17bdeda8f81dd4d24875e1e33d09bf92e0fce2",
+    "content_sha256": "ff4b20234d086b452f6b0852242c775c1b86eb291ced0ef5f3d6808d7b8ea0d7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -78,71 +72,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lager av rundvirke och massaflis",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lager av rundvirke och massaflis",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Skog"
-      ],
-      "links": [
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0108",
     "response_url": "https://www.scb.se/JO0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-kombinationsverksamhet/",
-    "fetched_at": "2026-10-05T13:11:21.745052Z",
+    "fetched_at": "2026-10-10T01:16:25.916352Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "14f6585c70fc95ea7081a0bc51ede1c30ba0080503e9106eeab18be7de917e1e",
+    "content_sha256": "93521ae17a0fe064c75b7b89b1e903023758a99a942b722a83815022a3a0239e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -314,77 +303,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0108",
           "url": "https://metadata.scb.se/?produkt=JO0108"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksföretagens kombinationsverksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksföretagens kombinationsverksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företag",
-        "Jordbruk"
-      ],
-      "links": [
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
         }
       ],
       "table_headers": [],

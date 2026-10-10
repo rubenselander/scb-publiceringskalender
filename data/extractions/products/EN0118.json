@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0118",
     "response_url": "https://www.scb.se/EN0118",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/transportsektorns-energianvandning/",
-    "fetched_at": "2026-10-05T13:10:35.285935Z",
+    "fetched_at": "2026-10-10T01:15:43.481698Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ab34c082f59d64b71afd6de6e746c2e4f424f8e5addcdce403bd4192db891a3d",
+    "content_sha256": "417af2dfa71f48720e3d935ad74a36c081784bede6466597d27c1b2402592a4f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,71 +66,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Transportsektorns energianvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Viktor Ahlberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-542 06 27",
-        "E-post",
-        "viktor.ahlberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-542 06 27",
-          "href": "tel:016-542 06 27",
-          "url": "tel:016-542 06 27"
-        },
-        {
-          "text": "viktor.ahlberg@energimyndigheten.se",
-          "href": "mailto:viktor.ahlberg@energimyndigheten.se",
-          "url": "mailto:viktor.ahlberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Transportsektorns energianvändning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
         }
       ],
       "table_headers": [],

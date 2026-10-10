@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0301",
     "response_url": "https://www.scb.se/EN0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/",
-    "fetched_at": "2026-10-05T13:10:40.117004Z",
+    "fetched_at": "2026-10-10T01:15:48.346259Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bbd0a2ebe57e56f5c27bf3635ae06ec70f085500b8a6483a534afdc03adfef28",
+    "content_sha256": "7b133656eb1228fac4228b24ee238ba4bd334d12063f16d0b906819f38439054",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -36,13 +36,7 @@
     "Omförhandlade elavtal Tabellen med andel omförhandlade elavtal utgår 2024 och ersätts med en tabell över antal omförhandlade elavtal. Den nya tabellen innehåller uppgifter från och med januari 2023.",
     "Ny redovisning av statistik om el och naturgas Från och med juli 2021 redovisas all statistik som tidigare redovisats under sidorna \"Priser på elenergi och på överföring av el\", \"Energipriser på naturgas och el\", \"Prisutveckling på el och naturgas samt leverantörsbyten\", \"Omförhandling och byten av elavtal\" samt \"Nätpriser på naturgas och byten av naturgasleverantör\" samlat under två sidor avseende el respektive naturgas. Det är dels den här sidan, dels sidan Gaspriser och gasavtal ."
   ],
-  "tags": [
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1199,118 +1193,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=EN0301",
           "url": "https://metadata.scb.se/?produkt=EN0301"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elpriser och elavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elpriser och elavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elpriser och elavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "elhandelspriser@scb.se"
-      ],
-      "links": [
-        {
-          "text": "elhandelspriser@scb.se",
-          "href": "mailto:elhandelspriser@scb.se",
-          "url": "mailto:elhandelspriser@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elpriser och elavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "El"
-      ],
-      "links": [
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
         }
       ],
       "table_headers": [],

@@ -6,3 +6,5 @@ __pycache__/
 .extract-stage/
 data/dokumentation/raw/
 *.py[cod]
+data/*.db
+data/*.db.tmp

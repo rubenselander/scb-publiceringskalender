@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0102",
     "response_url": "https://www.scb.se/RV0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/anmalda-brott/",
-    "fetched_at": "2026-10-05T13:13:47.193513Z",
+    "fetched_at": "2026-10-10T01:18:21.614797Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b84f2ecbb9dc87a3277440782a6fc58afaaf36ae4305fecb704f3bd89345fc7b",
+    "content_sha256": "e961af9201e313cbf17bda52c92f52817d10d97c1dee6c2b52a8f64796a2dc28",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Brott",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -78,71 +72,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Anmälda brott",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Anmälda brott",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Brott"
-      ],
-      "links": [
-        {
-          "text": "Brott",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
         }
       ],
       "table_headers": [],

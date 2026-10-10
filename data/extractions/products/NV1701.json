@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1701",
     "response_url": "https://www.scb.se/NV1701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/turism/inkvarteringsstatistik/",
-    "fetched_at": "2026-10-05T13:13:24.463483Z",
+    "fetched_at": "2026-10-10T01:18:06.484575Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "91648105149456035cba189ebcfed0c6e79074b0e211902ca9ac5820ef364163",
+    "content_sha256": "0b651b4c3981f9b887fa0fe373a039051b4342db1789f899d4c84f0e1ef51d1a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,38 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Besöksnäring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=24",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=24"
-    },
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Gästnätter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=78",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=78"
-    },
-    {
-      "text": "Hotell",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=84",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=84"
-    },
-    {
-      "text": "Omsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-    },
-    {
-      "text": "Turism",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=198",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=198"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -579,101 +548,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV1701",
           "url": "https://metadata.scb.se/?produkt=NV1701"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inkvarteringsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tillväxtverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-681 91 00",
-        "E-post",
-        "tillvaxtverket@tillvaxtverket.se"
-      ],
-      "links": [
-        {
-          "text": "08-681 91 00",
-          "href": "tel:08-681 91 00",
-          "url": "tel:08-681 91 00"
-        },
-        {
-          "text": "tillvaxtverket@tillvaxtverket.se",
-          "href": "mailto:tillvaxtverket@tillvaxtverket.se",
-          "url": "mailto:tillvaxtverket@tillvaxtverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inkvarteringsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Besöksnäring",
-        "Företagsekonomi",
-        "Gästnätter",
-        "Hotell",
-        "Omsättning",
-        "Turism"
-      ],
-      "links": [
-        {
-          "text": "Besöksnäring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=24",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=24"
-        },
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Gästnätter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=78",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=78"
-        },
-        {
-          "text": "Hotell",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=84",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=84"
-        },
-        {
-          "text": "Omsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-        },
-        {
-          "text": "Turism",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=198",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=198"
         }
       ],
       "table_headers": [],

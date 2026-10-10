@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM9998",
     "response_url": "https://www.scb.se/FM9998",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/",
-    "fetched_at": "2026-10-05T13:10:51.243235Z",
+    "fetched_at": "2026-10-10T01:16:00.095260Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e4e60129636e76ca6f26226144ff5ea773fa27d58ff47be2efb1bf6f1e51a2c3",
+    "content_sha256": "7f631d5d9e5a2a5bdec3a346e27c5b8653c39ebac968b3719024437050175247",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -35,13 +35,7 @@
     "Från och med referensmånad oktober 2024 ersätts statistiken med nya tabeller som finns tillgängliga via Statistikdatabasen (SSD). Produkten Emitterade Värdepapper redovisar nya nedbrytningar samt uppgifter om gröna värdepapper (från januari 2022).",
     "Större omklassning mellan MFI: icke säkerställda sektorn och MFI säkerställda sektorn har genomförts för referensperioden januari 2022 till juni 2026, med uppdatering under produktionsmånad juli 2026."
   ],
-  "tags": [
-    {
-      "text": "Räntor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -571,64 +565,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=FM9998",
           "url": "https://metadata.scb.se/?produkt=FM9998"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Emitterade värdepapper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "SVDB@scb.se"
-      ],
-      "links": [
-        {
-          "text": "SVDB@scb.se",
-          "href": "mailto:SVDB@scb.se",
-          "url": "mailto:SVDB@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Emitterade värdepapper",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Räntor"
-      ],
-      "links": [
-        {
-          "text": "Räntor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
         }
       ],
       "table_headers": [],

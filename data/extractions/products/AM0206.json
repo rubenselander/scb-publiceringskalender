@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0206",
     "response_url": "https://www.scb.se/AM0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/",
-    "fetched_at": "2026-10-05T13:10:05.886198Z",
+    "fetched_at": "2026-10-10T01:15:19.088760Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2f6e5ffc2597934f222661f7e05dc72eebb0aa3cfd80415d3aa46f85bbaa19c9",
+    "content_sha256": "2cdd4f973f78100f51afb5102c065b987b64ddfc30c76af4476a305ff55b97d3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,23 +27,7 @@
   "notices": [
     "Publicering av kvartal 4 2024 är sista publiceringen av undersökningen Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS). Användare hänvisas till den nya statistiken Anställningar ."
   ],
-  "tags": [
-    {
-      "text": "Lön",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-    },
-    {
-      "text": "Lönesummor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=124",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=124"
-    },
-    {
-      "text": "Skatt",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=170",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -789,147 +773,7 @@
         "Ny redovisning av sektorer från och med andra kvartalet 2015 (pdf)",
         "Skräddarsydd statistik – Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Lönesummor, arbetsgivaravgifter och preliminär A-skatt från  skattedeklarationer (LAPS)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/beskrivning-av-lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-fran--skattedeklarationer-laps/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/beskrivning-av-lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-fran--skattedeklarationer-laps/"
-        },
-        {
-          "text": "Ny redovisning av sektorer från och med andra kvartalet 2015 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/ny-redovisning-av-sektorer-fran-och-med-andra-kvartalet-2015-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/ny-redovisning-av-sektorer-fran-och-med-andra-kvartalet-2015-pdf/"
-        },
-        {
-          "text": "Skräddarsydd statistik – Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lsum@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lsum@scb.se",
-          "href": "mailto:lsum@scb.se",
-          "url": "mailto:lsum@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Lön",
-        "Lönesummor",
-        "Skatt"
-      ],
-      "links": [
-        {
-          "text": "Lön",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-        },
-        {
-          "text": "Lönesummor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=124",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=124"
-        },
-        {
-          "text": "Skatt",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=170",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=170"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

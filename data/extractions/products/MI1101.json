@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1101",
     "response_url": "https://www.scb.se/MI1101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/havs-och-vattenmiljo/sotvatten--miljotillstand/",
-    "fetched_at": "2026-10-05T13:12:45.055921Z",
+    "fetched_at": "2026-10-10T01:17:41.943096Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0ed7e84b6868d474a931d86602831e2972d916e47883c21e20f29500610c5f95",
+    "content_sha256": "26d8e15fc7d8c43c2e0b20408965e2085408890b77adfe78662bd544dc572000",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Sjöar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-    },
-    {
-      "text": "Vatten",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,38 +66,6 @@
           "text": "Havs- och vattenmyndigheten",
           "href": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html",
           "url": "https://www.havochvatten.se/hav/samordning--fakta/data--statistik/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sötvatten – miljötillstånd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Sjöar",
-        "Vatten"
-      ],
-      "links": [
-        {
-          "text": "Sjöar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-        },
-        {
-          "text": "Vatten",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
         }
       ],
       "table_headers": [],

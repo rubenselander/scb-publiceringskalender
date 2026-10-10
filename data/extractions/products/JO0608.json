@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0608",
     "response_url": "https://www.scb.se/JO0608",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-for-ekologisk-och-konventionell-odling/",
-    "fetched_at": "2026-10-05T13:11:44.812916Z",
+    "fetched_at": "2026-10-10T01:16:48.289073Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "acd3299481c74a5ea9b4d5092b61a3cf0ed24112c04f0ca9346461328e462a89",
+    "content_sha256": "aa4524e34b0930a24d9170afd743f0e9b6244a2250ef5baa47708e8b5d6fb6f0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekologi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=43",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=43"
-    },
-    {
-      "text": "Gödsel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -666,89 +645,7 @@
       "paragraphs": [
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-for-ekologisk-och-konventionell-odling/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-for-ekologisk-och-konventionell-odling/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd för ekologisk och konventionell odling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lantbruksstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lantbruksstatistik@scb.se",
-          "href": "mailto:lantbruksstatistik@scb.se",
-          "url": "mailto:lantbruksstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd för ekologisk och konventionell odling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekologi",
-        "Gödsel",
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Ekologi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=43",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=43"
-        },
-        {
-          "text": "Gödsel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

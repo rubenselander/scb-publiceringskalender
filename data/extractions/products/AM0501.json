@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0501",
     "response_url": "https://www.scb.se/AM0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/",
-    "fetched_at": "2026-10-05T13:10:12.198513Z",
+    "fetched_at": "2026-10-10T01:15:23.766302Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "28274f729031520a722fb7d49c90522a6929d163b9c024007034f8b6cdf9355c",
+    "content_sha256": "5ebe501e3f65c63e638b0bf236bc97f52b16167ac1f8b617a8822f8dbcd3632f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Arbetsmiljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -256,96 +245,6 @@
           "text": "Äldre tabeller som inte uppdateras",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0501B",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0501B"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Sju av tio som jobbar är nöjda med sitt arbete. Barnmorskor och civilingenjörer har högst andel nöjda personer."
-      ],
-      "links": [
-        {
-          "text": "Sju av tio nöjda med jobbet",
-          "href": "/hitta-statistik/artiklar/2017/Sju-av-tio-nojda-med-jobbet/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Sju-av-tio-nojda-med-jobbet/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-06-09"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Befolkning",
-        "Hälsa och ohälsa",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87&selection=articles"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
         }
       ],
       "table_headers": [],
@@ -636,109 +535,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=AM0501",
           "url": "https://metadata.scb.se/?produkt=AM0501"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "arbetsmiljo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "arbetsmiljo@scb.se",
-          "href": "mailto:arbetsmiljo@scb.se",
-          "url": "mailto:arbetsmiljo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "My Järnefelt",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 42 74",
-        "E-post",
-        "my.jarnefelt@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 42 74",
-          "href": "tel:010-479 42 74",
-          "url": "tel:010-479 42 74"
-        },
-        {
-          "text": "my.jarnefelt@scb.se",
-          "href": "mailto:my.jarnefelt@scb.se",
-          "url": "mailto:my.jarnefelt@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsmiljöundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Arbetsmiljö"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Arbetsmiljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
         }
       ],
       "table_headers": [],

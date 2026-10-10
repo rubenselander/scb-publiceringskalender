@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0107",
     "response_url": "https://www.scb.se/EN0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-bransle-gas-och-lagerstatistik/",
-    "fetched_at": "2026-10-05T13:10:30.434743Z",
+    "fetched_at": "2026-10-10T01:15:38.344605Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d6dd0a6aa3f01818a672fb399ae4241f80df69e2d971b73c1ec5e103984919b3",
+    "content_sha256": "5adc22b7ba74009ea6ec62972c12ca169526f492e561daf443a9d0b14a925e42",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,13 +34,7 @@
   "notices": [
     "Data för 2024 och 2025 har reviderats."
   ],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1601,71 +1595,7 @@
       "paragraphs": [
         "Beskrivning av Månatlig bränsle-, gas- och lagerstatistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Månatlig bränsle-, gas- och lagerstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-bransle-gas-och-lagerstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-bransle--gas--och-lagerstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-bransle-gas-och-lagerstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-manatlig-bransle--gas--och-lagerstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Månatlig bränsle-, gas- och lagerstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "en0107@scb.se"
-      ],
-      "links": [
-        {
-          "text": "en0107@scb.se",
-          "href": "mailto:en0107@scb.se",
-          "url": "mailto:en0107@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Månatlig bränsle-, gas- och lagerstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

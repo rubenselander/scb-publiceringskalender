@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0102",
     "response_url": "https://www.scb.se/SF0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/underhallsstod/",
-    "fetched_at": "2026-10-05T13:14:04.474105Z",
+    "fetched_at": "2026-10-10T01:18:30.407793Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b6cdcd97657cfd8b3c5306fd1ae841d409562eaafef8a34fae1247b18b2a51e1",
+    "content_sha256": "fcfdac16dcdedc17431fe6c6deaca9ca5fee56e05dd0c929cbd5512e83047f10",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    },
-    {
-      "text": "Föräldrar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=255",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=255"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -93,89 +72,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Underhållsstöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Underhållsstöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Inkomst",
-        "Socialförsäkring",
-        "Föräldrar"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-        },
-        {
-          "text": "Föräldrar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=255",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=255"
         }
       ],
       "table_headers": [],

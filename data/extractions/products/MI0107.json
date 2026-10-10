@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0107",
     "response_url": "https://www.scb.se/MI0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/",
-    "fetched_at": "2026-10-05T13:12:25.456209Z",
+    "fetched_at": "2026-10-10T01:17:22.396386Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a1365976f8c08a779e41b6febe70bb97095e0e5502eba4388c477d1e47383b56",
+    "content_sha256": "63796c90c5b0b4c6604d998f18938c9df21feafd3bd198648ddb4e036170a1f6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    },
-    {
-      "text": "Utsläpp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-    },
-    {
-      "text": "Klimatgaser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=270",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=270"
-    },
-    {
-      "text": "Växthusgaser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=271",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=271"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -581,116 +560,7 @@
         "Alla Sveriges rapporteringar av växthusgaser (National Inventory Submissions) till FN (UNFCCC:s webbplats)",
         "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)"
       ],
-      "links": [
-        {
-          "text": "Tre sätt att beräkna klimatpåverkande utsläpp (Naturvårdsverkets webbplats)",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/produktrelaterat/Fordjupad-information/tre-satt-att-berakna-klimatpaverkande-utslapp/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-och-upptag-av-vaxthusgaser/produktrelaterat/Fordjupad-information/tre-satt-att-berakna-klimatpaverkande-utslapp/"
-        },
-        {
-          "text": "Läs mer om utsläpp och upptagen av växthusgaser (Naturvårdsverkets webbplats)",
-          "href": "https://www.naturvardsverket.se/data-och-statistik/klimat/vaxthusgaser-territoriella-utslapp-och-upptag/",
-          "url": "https://www.naturvardsverket.se/data-och-statistik/klimat/vaxthusgaser-territoriella-utslapp-och-upptag/"
-        },
-        {
-          "text": "Läs mer om Sveriges rapportering till FN:s klimatkonvention (Naturvårdsverkets webbplats)",
-          "href": "https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/det-globala-klimatarbetet/sveriges-rapportering-till-fns-klimatkonvention/",
-          "url": "https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/det-globala-klimatarbetet/sveriges-rapportering-till-fns-klimatkonvention/"
-        },
-        {
-          "text": "Alla Sveriges rapporteringar av växthusgaser (National Inventory Submissions) till FN (UNFCCC:s webbplats)",
-          "href": "http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/items/9492.php",
-          "url": "http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/items/9492.php"
-        },
-        {
-          "text": "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)",
-          "href": "http://www.smed.se/",
-          "url": "http://www.smed.se/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp och upptag av växthusgaser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Joel Bengtsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-6981196",
-        "E-post",
-        "joel.bengtsson@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "010-6981196",
-          "href": "tel:010-6981196",
-          "url": "tel:010-6981196"
-        },
-        {
-          "text": "joel.bengtsson@naturvardsverket.se",
-          "href": "mailto:joel.bengtsson@naturvardsverket.se",
-          "url": "mailto:joel.bengtsson@naturvardsverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp och upptag av växthusgaser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Miljö",
-        "Utsläpp",
-        "Klimatgaser",
-        "Växthusgaser"
-      ],
-      "links": [
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        },
-        {
-          "text": "Utsläpp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-        },
-        {
-          "text": "Klimatgaser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=270",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=270"
-        },
-        {
-          "text": "Växthusgaser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=271",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=271"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

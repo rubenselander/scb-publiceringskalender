@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0103",
     "response_url": "https://www.scb.se/NV0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/balansstatistik/",
-    "fetched_at": "2026-10-05T13:12:59.866234Z",
+    "fetched_at": "2026-10-10T01:17:53.491318Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8f002b699d212de22081565ac65d72fc756c53f072547ae5f7a01493399719e4",
+    "content_sha256": "1ea386850a2f11918bd40f02e2647e2ddbf750d36d8f9252e98a4545e562d692",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-12-09",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Lån",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-    },
-    {
-      "text": "Sparande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -580,89 +559,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV0103",
           "url": "https://metadata.scb.se/?produkt=NV0103"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Balansstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Elin Bodewall",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 66",
-        "E-post",
-        "elin.bodewall@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 66",
-          "href": "tel:010-479 60 66",
-          "url": "tel:010-479 60 66"
-        },
-        {
-          "text": "elin.bodewall@scb.se",
-          "href": "mailto:elin.bodewall@scb.se",
-          "url": "mailto:elin.bodewall@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Balansstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företagsekonomi",
-        "Lån",
-        "Sparande",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Lån",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-        },
-        {
-          "text": "Sparande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0603",
     "response_url": "https://www.scb.se/MI0603",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/",
-    "fetched_at": "2026-10-05T13:12:35.167011Z",
+    "fetched_at": "2026-10-10T01:17:32.048568Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8e70bab1f32135872a1b678a70562ef0fc95613dfebaa7e7fbabf5290bd96d04",
+    "content_sha256": "0e17890b90e624b5e69607d8c1729f08cd056b67202cb90f40efa19511fdb827",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,38 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    },
-    {
-      "text": "Miljöbalken",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=132",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=132"
-    },
-    {
-      "text": "Nationalpark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=135",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=135"
-    },
-    {
-      "text": "Natura 2000",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=136",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=136"
-    },
-    {
-      "text": "Naturreservat",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=137",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=137"
-    },
-    {
-      "text": "Naturtyp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=138",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=138"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1292,33 +1261,7 @@
         "Skyddad natur 2022-12-31, Tabeller, diagram och  kartor från SCB:s rapport (pdf)",
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Skyddad natur 2025-12-31, Tabeller, diagram och kartor från SCB:s rapport (pdf)",
-          "href": "/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_scb_bilder_skyddadnatur_2025-12-31.pdf",
-          "url": "https://www.scb.se/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_scb_bilder_skyddadnatur_2025-12-31.pdf"
-        },
-        {
-          "text": "Skyddad natur 2024-12-31, Tabeller, diagram och kartor från SCB:s rapport (pdf)",
-          "href": "/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_scb_bilder_skyddadnatur_2024-12-31.pdf",
-          "url": "https://www.scb.se/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_scb_bilder_skyddadnatur_2024-12-31.pdf"
-        },
-        {
-          "text": "Skyddad natur 2023-12-31, Tabeller, diagram och kartor från SCB:s rapport (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/produktrelaterat/Fordjupad-information/skyddad-natur-2023-12-31-tabeller-diagram-och-kartor-fran-scbs-rapport/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/produktrelaterat/Fordjupad-information/skyddad-natur-2023-12-31-tabeller-diagram-och-kartor-fran-scbs-rapport/"
-        },
-        {
-          "text": "Skyddad natur 2022-12-31, Tabeller, diagram och  kartor från SCB:s rapport (pdf)",
-          "href": "/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_2022a01_scb-bilder_skyddadnatur.pdf",
-          "url": "https://www.scb.se/contentassets/9335da8f14fa4cb3bce584a756f428bb/mi0603_2022a01_scb-bilder_skyddadnatur.pdf"
-        },
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/9335da8f14fa4cb3bce584a756f428bb/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/9335da8f14fa4cb3bce584a756f428bb/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1338,181 +1281,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skyddad natur",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skyddad natur",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Karin Hedeklint",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 14",
-        "E-post",
-        "karin.hedeklint@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 14",
-          "href": "tel:010-479 45 14",
-          "url": "tel:010-479 45 14"
-        },
-        {
-          "text": "karin.hedeklint@scb.se",
-          "href": "mailto:karin.hedeklint@scb.se",
-          "url": "mailto:karin.hedeklint@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skyddad natur",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Linus Rispling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 69",
-        "E-post",
-        "linus.rispling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 69",
-          "href": "tel:010-479 45 69",
-          "url": "tel:010-479 45 69"
-        },
-        {
-          "text": "linus.rispling@scb.se",
-          "href": "mailto:linus.rispling@scb.se",
-          "url": "mailto:linus.rispling@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skyddad natur",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Markanvändning",
-        "Miljöbalken",
-        "Nationalpark",
-        "Natura 2000",
-        "Naturreservat",
-        "Naturtyp"
-      ],
-      "links": [
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        },
-        {
-          "text": "Miljöbalken",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=132",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=132"
-        },
-        {
-          "text": "Nationalpark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=135",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=135"
-        },
-        {
-          "text": "Natura 2000",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=136",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=136"
-        },
-        {
-          "text": "Naturreservat",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=137",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=137"
-        },
-        {
-          "text": "Naturtyp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=138",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=138"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

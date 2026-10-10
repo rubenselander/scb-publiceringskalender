@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0401",
     "response_url": "https://www.scb.se/AM0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/",
-    "fetched_at": "2026-10-05T13:10:11.461504Z",
+    "fetched_at": "2026-10-10T01:15:23.284175Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "038fdaf4ec6f8dd541b6bea96f59c98ba89f05f237971e32d828317119707581",
+    "content_sha256": "57058efee242546631e9185a1b3fe184ae53c86b47df3be441a648b89994cf02",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -28,38 +28,7 @@
     "Arbetskraftsundersökningarna, tidigare definitioner",
     "På grund av upptäckta kvalitetsbrister i AKU avseende nedbrytningar på utbildningsnivå samt utbildningsinriktning prickas antalsskattningar inklusive tillhörande osäkerhetstal i Excel- och statistikdatabastabeller. Prickningen av antalsskattningar för utbildningsnivå och utbildningsinriktning görs från år 2012 och framåt. Orsaken till bristerna är att AKU överskattar personer med eftergymnasial utbildning och underskattar personer med gymnasial utbildning. Vidare kan konstateras att kvalitetsbristerna är större för antalsskattningar än andels- och förändringsskattningar. För mer information, se: Utbildningsnivå i AKU (pdf)"
   ],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Arbetskraft",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-    },
-    {
-      "text": "Arbetslöshet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
-    },
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Sysselsatta",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
-    },
-    {
-      "text": "Ungdomsarbetslöshet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=200",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=200"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -3704,245 +3673,12 @@
         "Ändringar i AKU i samband med införandet av ramlagen (pdf)",
         "Införande av ramlagen i AKU (pdf)",
         "Information om införande av ny ramlag 2021 i AKU",
-        "AKUs blankett 2023 v1. (pdf)",
+        "AKUs blankett 2026 (pdf)",
         "Skräddarsydd statistik – Arbetskraftsundersökningarna (AKU)",
         "Varför säsongrensning i AKU?",
         "Arbetsmarknadsläget kvartal två (pdf)"
       ],
-      "links": [
-        {
-          "text": "Analys av skillnader i statistik om sysselsättningsgrad (pdf)",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/analys-av-skillnader-i-statistik-om-sysselsattningsgrad.pdf"
-        },
-        {
-          "text": "AKU och BAS En beskrivning av skillnaderna mellan undersökningarna (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/aku-och-bas-en-beskrivning-av-skillnaderna-mellan-undersokningarna-pdf/"
-        },
-        {
-          "text": "En numerisk beskrivning av relationen mellan BAS och AKU (pdf)",
-          "href": "/contentassets/b88061c80e6d4033ba60ed98b423d67d/en-numerisk-beskrivning-av-relationen-mellan-bas-och-aku.pdf",
-          "url": "https://www.scb.se/contentassets/b88061c80e6d4033ba60ed98b423d67d/en-numerisk-beskrivning-av-relationen-mellan-bas-och-aku.pdf"
-        },
-        {
-          "text": "Korrigering av fackförbund och centralorganisation (pdf)",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/korrigering-fackforbund_20250314.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/korrigering-fackforbund_20250314.pdf"
-        },
-        {
-          "text": "Hantering av höjd pensionsålder",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/hantering-av-hojd-pensionsalder/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/hantering-av-hojd-pensionsalder/"
-        },
-        {
-          "text": "Långtidsarbetslösheten fortsatt hög efter pandemin (scb.se)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/langtidsarbetslosheten-fortsatt-hog-efter-pandemin-scb.se",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/langtidsarbetslosheten-fortsatt-hog-efter-pandemin-scb.se"
-        },
-        {
-          "text": "Fredagsdiagram AKU",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/fredagsdiagram-261002.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/fredagsdiagram-261002.pdf"
-        },
-        {
-          "text": "Information om justering av outlierhantering i AKU",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/information-om-justering-av-outlierhantering-i-aku/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/information-om-justering-av-outlierhantering-i-aku/"
-        },
-        {
-          "text": "Förändringar i AKU",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/forandringar-i-aku/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/forandringar-i-aku/"
-        },
-        {
-          "text": "Metod för länkning av AKU:s tidsserier för perioden 2005–2020",
-          "href": "/contentassets/2aee1dd9405d41d0b9f99dfd012ba7f6/metod-for-lankning-av-akus-tidsserier.pdf",
-          "url": "https://www.scb.se/contentassets/2aee1dd9405d41d0b9f99dfd012ba7f6/metod-for-lankning-av-akus-tidsserier.pdf"
-        },
-        {
-          "text": "Begrepp och definitioner i AKU (pdf)",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/begrepp-och-definitioner-i-aku.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/begrepp-och-definitioner-i-aku.pdf"
-        },
-        {
-          "text": "Ändringar i AKU i samband med införandet av ramlagen (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/andringar-i-aku-i-samband-med-inforandet-av-ramlagen-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/aktuellt/andringar-i-aku-i-samband-med-inforandet-av-ramlagen-pdf/"
-        },
-        {
-          "text": "Införande av ramlagen i AKU (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/inforande-av-ramlagen-i-aku-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/inforande-av-ramlagen-i-aku-pdf/"
-        },
-        {
-          "text": "Information om införande av ny ramlag 2021 i AKU",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/information-om-inforande-av-ny-ramlag-2021-i-aku/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/information-om-inforande-av-ny-ramlag-2021-i-aku/"
-        },
-        {
-          "text": "AKUs blankett 2023 v1. (pdf)",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/akus_blankett_2023_v1.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/akus_blankett_2023_v1.pdf"
-        },
-        {
-          "text": "Skräddarsydd statistik – Arbetskraftsundersökningarna (AKU)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--arbetskraftsundersokningarna-aku/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/skraddarsydd-statistik--arbetskraftsundersokningarna-aku/"
-        },
-        {
-          "text": "Varför säsongrensning i AKU?",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/varfor-sasongrensning-i-aku/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/produktrelaterat/Fordjupad-information/varfor-sasongrensning-i-aku/"
-        },
-        {
-          "text": "Arbetsmarknadsläget kvartal två (pdf)",
-          "href": "/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/arbetsmarknadslaget-kvartal-tva.pdf",
-          "url": "https://www.scb.se/contentassets/c12fd0d28d604529b2b4ffc2eb742fbe/arbetsmarknadslaget-kvartal-tva.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsundersökningarna (AKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsundersökningarna (AKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsundersökningarna (AKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "aku@scb.se"
-      ],
-      "links": [
-        {
-          "text": "aku@scb.se",
-          "href": "mailto:aku@scb.se",
-          "url": "mailto:aku@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsundersökningarna (AKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Arbetskraft",
-        "Arbetslöshet",
-        "Arbetsmarknad",
-        "Sysselsatta",
-        "Ungdomsarbetslöshet"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Arbetskraft",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=8",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=8"
-        },
-        {
-          "text": "Arbetslöshet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=9",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=9"
-        },
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Sysselsatta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
-        },
-        {
-          "text": "Ungdomsarbetslöshet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=200",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=200"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0103",
     "response_url": "https://www.scb.se/RV0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brott/",
-    "fetched_at": "2026-10-05T13:13:48.198048Z",
+    "fetched_at": "2026-10-10T01:18:22.100322Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0571b702c000628b1027c9714b6b893966e7a8729caec7b48044312a7d61e272",
+    "content_sha256": "5c2dc2767ac0bf6effa699c2d473bcad8c8cdafffcf613bf1978ecc0aa791011",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Brott",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-    },
-    {
-      "text": "Åtal",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=261",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=261"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,77 +66,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Handlagda brott",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Handlagda brott",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Brott",
-        "Åtal"
-      ],
-      "links": [
-        {
-          "text": "Brott",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-        },
-        {
-          "text": "Åtal",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=261",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=261"
         }
       ],
       "table_headers": [],

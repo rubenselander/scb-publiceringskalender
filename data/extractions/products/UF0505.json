@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0505",
     "response_url": "https://www.scb.se/UF0505",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/arbetskraftsbarometern/",
-    "fetched_at": "2026-10-05T13:15:26.693593Z",
+    "fetched_at": "2026-10-10T01:19:28.194115Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "50aa0440c2eba784e98002e12227cb702fa7e42505e76f167be167e3f0f5cab1",
+    "content_sha256": "80e8f8cbf0d219b6f7a34b2bc012e277d732583cfcd3b8a3caefcc2f6e0ae16a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,23 +27,7 @@
   "notices": [
     "Arbetskraftsbarometern uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Bristyrken",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=34",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=34"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -847,67 +831,7 @@
       "paragraphs": [
         "Skräddarsydd statistitk"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistitk",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/arbetskraftsbarometern/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/arbetskraftsbarometern/produktrelaterat/Fordjupad-information/skraddarsydd-statistitk/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsbarometern",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsbarometern",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -930,44 +854,6 @@
           "text": "prognosinstitutet@scb.se",
           "href": "mailto:prognosinstitutet@scb.se",
           "url": "mailto:prognosinstitutet@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetskraftsbarometern",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Bristyrken",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Bristyrken",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=34",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=34"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
         }
       ],
       "table_headers": [],

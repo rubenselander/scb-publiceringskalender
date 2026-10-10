@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0109",
     "response_url": "https://www.scb.se/JO0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/heltidsjordbruket-i-sverige/",
-    "fetched_at": "2026-10-05T13:11:22.454831Z",
+    "fetched_at": "2026-10-10T01:16:26.402838Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3cb9993d5db09f79d3bfba43cc3531f463f938cd2107e8d952661ddbab6ac595",
+    "content_sha256": "deb6a69ed21f781da06c622084cf8a3f7a5f2e0a2bcca8f027421971ca53c5cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -308,77 +297,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0109",
           "url": "https://metadata.scb.se/?produkt=JO0109"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Heltidsjordbruket i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Heltidsjordbruket i Sverige",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företag",
-        "Jordbruk"
-      ],
-      "links": [
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
         }
       ],
       "table_headers": [],

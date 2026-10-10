@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0551",
     "response_url": "https://www.scb.se/UF0551",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/larare-utanfor-yrket/",
-    "fetched_at": "2026-10-05T13:15:41.221862Z",
+    "fetched_at": "2026-10-10T01:19:39.731727Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "98af1705abb5dbb5dace123541c9d38fd327318f45bf210369d14be942b0e178",
+    "content_sha256": "c592a1df0266cdbc0d9e176635c3f35b7eb9c8b0d5c61561a3f2df2c30335a4f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,58 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bristyrken",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=34",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=34"
-    },
-    {
-      "text": "Grundskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-    },
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Skola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=171",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=171"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    },
-    {
-      "text": "Lärare",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=283",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=283"
-    },
-    {
-      "text": "Gymnasielärare",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=365",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=365"
-    },
-    {
-      "text": "Grundskollärare",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=366",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=366"
-    },
-    {
-      "text": "Lärarflykt",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=369",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=369"
-    },
-    {
-      "text": "Utanför yrket",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=370",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=370"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -545,125 +494,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0551",
           "url": "https://metadata.scb.se/?produkt=UF0551"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lärare utanför yrket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jessica Baldgrim",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 66 44",
-        "E-post",
-        "jessica.baldgrim@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 66 44",
-          "href": "tel:010-479 66 44",
-          "url": "tel:010-479 66 44"
-        },
-        {
-          "text": "jessica.baldgrim@scb.se",
-          "href": "mailto:jessica.baldgrim@scb.se",
-          "url": "mailto:jessica.baldgrim@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lärare utanför yrket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bristyrken",
-        "Grundskola",
-        "Gymnasieskola",
-        "Skola",
-        "Utbildning",
-        "Lärare",
-        "Gymnasielärare",
-        "Grundskollärare",
-        "Lärarflykt",
-        "Utanför yrket"
-      ],
-      "links": [
-        {
-          "text": "Bristyrken",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=34",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=34"
-        },
-        {
-          "text": "Grundskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Skola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=171",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=171"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-        },
-        {
-          "text": "Lärare",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=283",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=283"
-        },
-        {
-          "text": "Gymnasielärare",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=365",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=365"
-        },
-        {
-          "text": "Grundskollärare",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=366",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=366"
-        },
-        {
-          "text": "Lärarflykt",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=369",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=369"
-        },
-        {
-          "text": "Utanför yrket",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=370",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=370"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0113",
     "response_url": "https://www.scb.se/JO0113",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-vaxtodling-och-djurhallning/",
-    "fetched_at": "2026-10-05T13:11:25.276309Z",
+    "fetched_at": "2026-10-10T01:16:28.576260Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4e4289ff37e1258929974c46179a3848c883c61fc9ff660f70d6e5c3d1c70784",
+    "content_sha256": "41c08c72d7659a1e53063c7b953042cb0b0ef8c92e111295a922485685c9f381",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -403,45 +403,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0113",
           "url": "https://metadata.scb.se/?produkt=JO0113"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Ekologisk växtodling och djurhållning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
         }
       ],
       "table_headers": [],

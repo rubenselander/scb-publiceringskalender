@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0503",
     "response_url": "https://www.scb.se/MI0503",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/forsalda-kvantiteter-av-bekampningsmedel/",
-    "fetched_at": "2026-10-05T13:12:33.042563Z",
+    "fetched_at": "2026-10-10T01:17:29.860278Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f170ac256b667185b7ef1e0b97fb629c4f00eb37746066c3ec36bf098f712adb",
+    "content_sha256": "bbd78cd3e5a70165b4cb9e6c96a2a4a2210adf54fbb0c7a51d96ccb3dadf5538",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bekämpningsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,71 +66,6 @@
           "text": "Kemikalieinspektionen (KemI)",
           "href": "https://www.kemi.se/kemikaliestatistik",
           "url": "https://www.kemi.se/kemikaliestatistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försålda kvantiteter av bekämpningsmedel",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Kemikalieinspektionen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-519 411 00",
-        "E-post",
-        "kemi@kemi.se"
-      ],
-      "links": [
-        {
-          "text": "08-519 411 00",
-          "href": "tel:08-519 411 00",
-          "url": "tel:08-519 411 00"
-        },
-        {
-          "text": "kemi@kemi.se",
-          "href": "mailto:kemi@kemi.se",
-          "url": "mailto:kemi@kemi.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försålda kvantiteter av bekämpningsmedel",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bekämpningsmedel"
-      ],
-      "links": [
-        {
-          "text": "Bekämpningsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
         }
       ],
       "table_headers": [],

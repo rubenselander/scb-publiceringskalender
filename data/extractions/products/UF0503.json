@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0503",
     "response_url": "https://www.scb.se/UF0503",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/",
-    "fetched_at": "2026-10-05T13:15:26.196813Z",
+    "fetched_at": "2026-10-10T01:19:27.738428Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "126efddfae1ce483f0f9f2ad7db9722b9ad824f6d8f4e0a2494119d46cbf276b",
+    "content_sha256": "af91a81270869088f7ffb95f6e8273741f2bec85841c69694ed34c1368a3a6ac",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -877,57 +877,7 @@
         "Övertäckning i folkbokföringen bland högskoleexaminerade (pdf)",
         "Mer statistik på området"
       ],
-      "links": [
-        {
-          "text": "Övertäckning i folkbokföringen bland högskoleexaminerade (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/produktrelaterat/Fordjupad-information/overtackning-i-folkbokforingen-bland-hogskoleexaminerade-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/produktrelaterat/Fordjupad-information/overtackning-i-folkbokforingen-bland-hogskoleexaminerade-pdf/"
-        },
-        {
-          "text": "Mer statistik på området",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/produktrelaterat/Fordjupad-information/mer-statistik-pa-omradet/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/sysselsattning-och-inkomster-efter-avslutad-utbildning/produktrelaterat/Fordjupad-information/mer-statistik-pa-omradet/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sysselsättning och inkomster efter avslutad utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Paula Kossack",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 05",
-        "E-post",
-        "paula.kossack@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 05",
-          "href": "tel:010-479 60 05",
-          "url": "tel:010-479 60 05"
-        },
-        {
-          "text": "paula.kossack@scb.se",
-          "href": "mailto:paula.kossack@scb.se",
-          "url": "mailto:paula.kossack@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

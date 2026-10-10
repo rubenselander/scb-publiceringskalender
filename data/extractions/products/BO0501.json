@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0501",
     "response_url": "https://www.scb.se/BO0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/",
-    "fetched_at": "2026-10-05T13:10:25.317290Z",
+    "fetched_at": "2026-10-10T01:15:33.415946Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1f94fd4144b5e7a7dead949ba91b15328819ebeb891bbceacf6161eabdd3e138",
+    "content_sha256": "a41e1a151cee9c7c5f04ecb216daa39b210d80b6655ca4c7e8badad5ce3dfaa0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,49 +21,13 @@
   "short_address": "https://www.scb.se/bo0501",
   "summary": "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-08",
-  "next_publication_date": "2026-10-08",
+  "next_publication_text": "Nästa publicering: 2026-10-23",
+  "next_publication_date": "2026-10-23",
   "responsible_agency": null,
   "notices": [
     "Korrigering 2026-03-13 Fastighetsprisindex, år och kvartalsvärden, har korrigerats. Berörda tabeller och diagram och tabeller i Statistikdatabasen har uppdaterats med korrigerade värden för 2023–2025."
   ],
-  "tags": [
-    {
-      "text": "Boende",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-    },
-    {
-      "text": "Bostadspriser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=32",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=32"
-    },
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Fritidshus",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
-    },
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    },
-    {
-      "text": "Småhus",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=173",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=173"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -74,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-08",
+        "Nästa publicering: 2026-10-23",
         "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-08",
+          "text": "Nästa publicering: 2026-10-23",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year"
         }
@@ -303,7 +267,7 @@
         [
           "Småhusbarometern – Fastighetsprisstatistik per månad, hela landet",
           "Diagram",
-          "2026-09-10"
+          "2026-10-08"
         ]
       ]
     },
@@ -449,7 +413,7 @@
         [
           "Småhusbarometern",
           "Tabell",
-          "2026-09-10"
+          "2026-10-08"
         ]
       ]
     },
@@ -702,7 +666,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFRegionAr"
         },
         {
-          "text": "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M08",
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M"
         },
@@ -712,7 +676,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegJordAr"
         },
         {
-          "text": "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M08",
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M"
         },
@@ -785,16 +749,16 @@
           "2026-06-05"
         ],
         [
-          "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M08",
-          "2026-09-10"
+          "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M09",
+          "2026-10-08"
         ],
         [
           "Försålda lantbruk efter region (län, riket) och andel jordbruksvärde. År 1999 - 2025",
           "2026-06-05"
         ],
         [
-          "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M08",
-          "2026-09-10"
+          "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M09",
+          "2026-10-08"
         ],
         [
           "Försålda lantbruk efter region (län, riket) och andel skogsbruksvärde. År 1999 - 2025",
@@ -1123,7 +1087,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M08",
+          "text": "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501"
         }
@@ -1138,8 +1102,8 @@
           "Datum"
         ],
         [
-          "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M08",
-          "2026-09-10"
+          "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M09",
+          "2026-10-08"
         ]
       ]
     },
@@ -1739,205 +1703,7 @@
         "Skräddarsydd statistik",
         "Hur mäter man prisutvecklingen på småhus?"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        },
-        {
-          "text": "Hur mäter man prisutvecklingen på småhus?",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/hur-mater-man-prisutvecklingen-pa-smahus/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/produktrelaterat/Fordjupad-information/hur-mater-man-prisutvecklingen-pa-smahus/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Lana Omanovic",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 49 67",
-        "E-post",
-        "lana.omanovic@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 49 67",
-          "href": "tel:010-479 49 67",
-          "url": "tel:010-479 49 67"
-        },
-        {
-          "text": "lana.omanovic@scb.se",
-          "href": "mailto:lana.omanovic@scb.se",
-          "url": "mailto:lana.omanovic@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Boende",
-        "Bostadspriser",
-        "Fastigheter",
-        "Fritidshus",
-        "Index",
-        "Priser",
-        "Småhus"
-      ],
-      "links": [
-        {
-          "text": "Boende",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-        },
-        {
-          "text": "Bostadspriser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=32",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=32"
-        },
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Fritidshus",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
-        },
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        },
-        {
-          "text": "Småhus",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=173",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=173"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

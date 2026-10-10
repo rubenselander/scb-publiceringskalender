@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0311",
     "response_url": "https://www.scb.se/JO0311",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/atervaxternas-kvalitet/",
-    "fetched_at": "2026-10-05T13:11:36.931950Z",
+    "fetched_at": "2026-10-10T01:16:40.378324Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "38ad4f9ba6b689ee9c5362a5e5831d7950e0d28353c3270ad867ca219931d11d",
+    "content_sha256": "e8164ade195b9870932063616035c1e0effa1bd1e9ce0bcc9f125c86373a88e8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -78,71 +72,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Återväxternas kvalitet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Återväxternas kvalitet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Skog"
-      ],
-      "links": [
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
         }
       ],
       "table_headers": [],

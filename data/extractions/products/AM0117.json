@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0117",
     "response_url": "https://www.scb.se/AM0117",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/",
-    "fetched_at": "2026-10-05T13:10:04.506539Z",
+    "fetched_at": "2026-10-10T01:15:18.097917Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c321b72eaf23e4ceb0ec1431c722aae9ae4dde9e1ac71cd6173e1fae97880bb6",
+    "content_sha256": "94b933d3a7e52f0736ca6edd4714908a0b02d8d1bd8eaa676a00c240822d8ca0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetskostnad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=7",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=7"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -682,86 +676,7 @@
         "Kvalitetsrapport 2008 (pdf)",
         "Eurostat – Labour Cost Survey"
       ],
-      "links": [
-        {
-          "text": "Kvalitetsrapport 2016 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2016-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2016-pdf/"
-        },
-        {
-          "text": "Kvalitetsrapport 2012 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2012-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2012-pdf/"
-        },
-        {
-          "text": "Kvalitetsrapport 2008 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2008-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/kvalitetsrapport-2008-pdf/"
-        },
-        {
-          "text": "Eurostat – Labour Cost Survey",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/eurostat---labour-cost-survey/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/labour-cost-survey-lcs/produktrelaterat/Fordjupad-information/eurostat---labour-cost-survey/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Labour Cost Survey (LCS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lonestat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lonestat@scb.se",
-          "href": "mailto:lonestat@scb.se",
-          "url": "mailto:lonestat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Labour Cost Survey (LCS)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetskostnad"
-      ],
-      "links": [
-        {
-          "text": "Arbetskostnad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=7",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=7"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

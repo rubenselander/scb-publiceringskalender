@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0502",
     "response_url": "https://www.scb.se/FM0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-arsredogorelse/",
-    "fetched_at": "2026-10-05T13:10:50.104233Z",
+    "fetched_at": "2026-10-10T01:15:58.892990Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9e11ec728dd321ad61861a33e751f90905ca3b1a4810b72dbfb273855ca74556",
+    "content_sha256": "e6195dcd70d4c5e61483d6b204d71e9682ffc1a98d9ebf42f4ff237c5c3935e7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Sparande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -761,116 +750,6 @@
           "text": "fmfi@scb.se",
           "href": "mailto:fmfi@scb.se",
           "url": "mailto:fmfi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäkringsföretagens årsredogörelse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Nils-Henrik Jansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 15",
-        "E-post",
-        "nils-henrik.jansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 15",
-          "href": "tel:010-479 41 15",
-          "url": "tel:010-479 41 15"
-        },
-        {
-          "text": "nils-henrik.jansson@scb.se",
-          "href": "mailto:nils-henrik.jansson@scb.se",
-          "url": "mailto:nils-henrik.jansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäkringsföretagens årsredogörelse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tina Hansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 58 15",
-        "E-post",
-        "tina.hansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 58 15",
-          "href": "tel:010-479 58 15",
-          "url": "tel:010-479 58 15"
-        },
-        {
-          "text": "tina.hansson@scb.se",
-          "href": "mailto:tina.hansson@scb.se",
-          "url": "mailto:tina.hansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäkringsföretagens årsredogörelse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Sparande",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Sparande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0105",
     "response_url": "https://www.scb.se/JO0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-driftsinriktning/",
-    "fetched_at": "2026-10-05T13:11:19.690187Z",
+    "fetched_at": "2026-10-10T01:16:24.406519Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2288a2e20d60f5853d6286c7292fd78c53937c3844d0d0ce401bf280b58a54eb",
+    "content_sha256": "7f66c35750786ffd8374e8ddc350ead00f7fa2b7a1fb89937a0bf0101d25eca1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -315,71 +309,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0105",
           "url": "https://metadata.scb.se/?produkt=JO0105"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksföretagens driftsinriktning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksföretagens driftsinriktning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
         }
       ],
       "table_headers": [],

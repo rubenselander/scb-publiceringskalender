@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0205",
     "response_url": "https://www.scb.se/HS0205",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/halso-och-sjukvardens-verksamhet/",
-    "fetched_at": "2026-10-05T13:11:15.275391Z",
+    "fetched_at": "2026-10-10T01:16:21.409316Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a356a92b01ea0b5d8f708253c2967c1fccd7e5f5ce2cde59c938bc099553172d",
+    "content_sha256": "80be58bbc0bca480b8d1ef64431a6ab39fc4ff967fe74a8b8f79383011af597e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Hälso- och sjukvård",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -46,86 +40,6 @@
         "Produkten är nedlagd från och med 2008, sista redovisningsår avser 2006."
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälso- och sjukvårdens verksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälso- och sjukvårdens verksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hälso- och sjukvårdens verksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Hälso- och sjukvård"
-      ],
-      "links": [
-        {
-          "text": "Hälso- och sjukvård",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0212",
     "response_url": "https://www.scb.se/SF0212",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/merkostnadsersattning/",
-    "fetched_at": "2026-10-05T13:14:19.768758Z",
+    "fetched_at": "2026-10-10T01:18:39.387593Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "031c0519e9eae1b1d1bb4767cac1da02601ad3ffcfef9725ed89cf712b2fc072",
+    "content_sha256": "ed94c1c74502184ce2955e86ee03772225bedf0ef690c47036da2cb4dac480df",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -72,45 +72,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Merkostnadsersättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
         }
       ],
       "table_headers": [],

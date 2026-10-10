@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0001",
     "response_url": "https://www.scb.se/BE0001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/",
-    "fetched_at": "2026-10-05T13:10:18.087117Z",
+    "fetched_at": "2026-10-10T01:15:28.306022Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a730b9dbc8989b8f687921e4a33aa47be6227d683b8497b2747310b7fb438415",
+    "content_sha256": "2c82bd7c788926f9a2da87e7eb9ca006f3603f81191daedf42e3917b4c543f2b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -28,13 +28,7 @@
     "SCB har länge producerat namnstatistik, men produktionen och uppdateringar av statistiken upphör helt från och med 2024. Anledningen är att vi har valt att prioritera produktion av annan statistik.",
     "Om du är intresserad av namnstatistik kan du hitta den på Skatteverkets webbplats."
   ],
-  "tags": [
-    {
-      "text": "Namn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=134",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=134"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -836,84 +830,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Efternamn med naturinslag är mycket vanliga. Mer än en tredjedel av svenskarna heter något som anspelar på träd, djur, vattendrag eller andra saker i naturen. I några kommuner i Norrland har 60 procent av invånarna naturnamn."
-      ],
-      "links": [
-        {
-          "text": "De naturliga efternamnen",
-          "href": "/hitta-statistik/artiklar/2015/De-naturliga-efternamnen/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2015/De-naturliga-efternamnen/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Namnstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2015-12-07"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Namnstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Namn",
-        "Geografi"
-      ],
-      "links": [
-        {
-          "text": "Namn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=134&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=134&selection=articles"
-        },
-        {
-          "text": "Geografi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=294&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=294&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Namnstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1317,64 +1233,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=BE0001",
           "url": "https://metadata.scb.se/?produkt=BE0001"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Namnstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Befolkningssektionen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "befolkning@scb.se"
-      ],
-      "links": [
-        {
-          "text": "befolkning@scb.se",
-          "href": "mailto:befolkning@scb.se",
-          "url": "mailto:befolkning@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Namnstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Namn"
-      ],
-      "links": [
-        {
-          "text": "Namn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=134",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=134"
         }
       ],
       "table_headers": [],

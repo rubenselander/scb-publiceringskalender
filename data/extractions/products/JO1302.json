@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1302",
     "response_url": "https://www.scb.se/JO1302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/djurhalsa/djurhalsa/",
-    "fetched_at": "2026-10-05T13:11:54.825246Z",
+    "fetched_at": "2026-10-10T01:16:57.740479Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6569b385a48a5b7f56f1ad707b43081d3ac95f949b40f6b632a9c5e2285037da",
+    "content_sha256": "1820976e68e30224cbeb87c71f7a8fe4b9a2f1c66747d37008665dd0b8682f2f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Djur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -350,71 +344,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO1302",
           "url": "https://metadata.scb.se/?produkt=JO1302"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Djurhälsa",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Djurhälsa",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Djur"
-      ],
-      "links": [
-        {
-          "text": "Djur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
         }
       ],
       "table_headers": [],

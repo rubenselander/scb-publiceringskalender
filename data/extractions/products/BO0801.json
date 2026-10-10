@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0801",
     "response_url": "https://www.scb.se/BO0801",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/amnesovergripande-statistik/bostads-och-byggnadsstatistisk-arsbok/",
-    "fetched_at": "2026-10-05T13:10:26.901785Z",
+    "fetched_at": "2026-10-10T01:15:34.802937Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d02365998d6782179f11af0ff5716fa3e11029d92c9291f02710da4240757bd7",
+    "content_sha256": "4dff98608eee0d93dbc7efc5d296990c74c04d796c7858166095b761c95b7cd0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Boende",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-    },
-    {
-      "text": "Bostäder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-    },
-    {
-      "text": "Byggande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-    },
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -80,89 +59,7 @@
       "paragraphs": [
         "Källor och kontaktuppgifter till Bostads- och byggnadsstatistisk årsbok 2012 (pdf)"
       ],
-      "links": [
-        {
-          "text": "Källor och kontaktuppgifter till Bostads- och byggnadsstatistisk årsbok 2012 (pdf)",
-          "href": "/contentassets/c702329e156645bd87f9291fe90809a4/kallor_till_bostads-_och_byggnadsstatistisk_arsbok_2012.pdf",
-          "url": "https://www.scb.se/contentassets/c702329e156645bd87f9291fe90809a4/kallor_till_bostads-_och_byggnadsstatistisk_arsbok_2012.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Bostads- och byggnadsstatistisk årsbok",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Bostads- och byggnadsstatistisk årsbok",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Boende",
-        "Bostäder",
-        "Byggande",
-        "Fastigheter"
-      ],
-      "links": [
-        {
-          "text": "Boende",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=30",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=30"
-        },
-        {
-          "text": "Bostäder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-        },
-        {
-          "text": "Byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-        },
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -11,7 +11,6 @@ from scb_extract.sources.agencies import (
     parse_registry_detail,
     parse_registry_export,
     parse_registry_group,
-    parse_regulation,
 )
 
 
@@ -30,15 +29,6 @@ def test_european_definition_and_central_bank(snapshot):
     assert "Riksbanken" not in page.agency_names
     assert "Riksbanken" in page.central_bank_statement
     assert any("Eurostat" in s.text for s in page.scope_statements)
-
-
-def test_law_keeps_parallel_versions(snapshot):
-    page = parse_regulation(snapshot("regulation"))
-    text = "\n".join(b.text for b in page.content_blocks)
-    assert page.sfs_number == "2001:100"
-    assert "2029-01-01" in text and "2027-01-01" in text
-    assert "Träder i kraft" in text and "Upphör att gälla" in text
-    assert any(b.source_tag == "pre" for b in page.content_blocks)
 
 
 def test_all_registry_groups_and_blank_identified_rows(snapshot):
@@ -75,28 +65,6 @@ def test_official_source_punctuation_and_scb_hierarchy(snapshot):
         for statement in page.scope_statements
         for link in statement.links
     )
-
-
-def test_law_preserves_every_pre_and_direct_text_span(snapshot):
-    source = snapshot("regulation")
-    page = parse_regulation(source)
-    soup = BeautifulSoup(source.text, "lxml")
-    assert [
-        block.text for block in page.content_blocks if block.source_tag == "pre"
-    ] == [node.get_text() for node in soup.select("pre")]
-    assert any(
-        "\t" in block.text for block in page.content_blocks if block.source_tag == "pre"
-    )
-    metadata = {field.label: field.value for field in page.metadata}
-    assert metadata["Ändrad"] == "t.o.m. SFS 2026:1406"
-    assert metadata["Utfärdad"] == "2001-03-15"
-    assert (
-        metadata["Fulltext (Regeringskansliet)"]
-        == "http://rkrattsbaser.gov.se/sfst?bet=2001:100"
-    )
-    text = "".join(block.text for block in page.content_blocks)
-    assert "Denna förordning innehåller kompletterande föreskrifter" in text
-    assert "Myndigheten för tillväxt- och transportanalys" in text
 
 
 def test_registry_exports_keep_strings_and_blank_foreign_row(snapshot):

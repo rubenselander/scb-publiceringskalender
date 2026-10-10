@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0201",
     "response_url": "https://www.scb.se/HE0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/",
-    "fetched_at": "2026-10-05T13:10:59.740070Z",
+    "fetched_at": "2026-10-10T01:16:10.899732Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c284d7f7876afcc5308317ff7e24b8dafc94fd76ae400e5b2679d832d6e825f0",
+    "content_sha256": "619d6833a4924df91b1da95dffdfeaf8a2c88a5d57486821a03a751e1ed30086",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Konsumtion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=109",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=109"
-    },
-    {
-      "text": "Utgifter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1282,155 +1256,7 @@
         "Beskrivning av innehållet i utgiftsgrupperna 2003–2012 (xlsx)",
         "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?"
       ],
-      "links": [
-        {
-          "text": "Hur vi beräknar andelar i HUT",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hur-vi-beraknar-andelar-i-hut/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hur-vi-beraknar-andelar-i-hut/"
-        },
-        {
-          "text": "Beskrivning av Hushållens utgifter (HUT)",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/beskrivning-av-hushallens-utgifter-hut/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/beskrivning-av-hushallens-utgifter-hut/"
-        },
-        {
-          "text": "COICOP-koder 2003–2012 (pdf)",
-          "href": "/contentassets/90c71dbdb84c4fb5abb66896f3a478e6/coicop-koder.pdf",
-          "url": "https://www.scb.se/contentassets/90c71dbdb84c4fb5abb66896f3a478e6/coicop-koder.pdf"
-        },
-        {
-          "text": "Beskrivning av innehållet i utgiftsgrupperna 2003–2012 (xlsx)",
-          "href": "/contentassets/90c71dbdb84c4fb5abb66896f3a478e6/beskrivning-av-innehallet-i-utgiftsgrupperna.xlsx",
-          "url": "https://www.scb.se/contentassets/90c71dbdb84c4fb5abb66896f3a478e6/beskrivning-av-innehallet-i-utgiftsgrupperna.xlsx"
-        },
-        {
-          "text": "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hushallens-konsumtion-och-hushallens-utgifter--vad-ar-skillnaden/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/produktrelaterat/Fordjupad-information/hushallens-konsumtion-och-hushallens-utgifter--vad-ar-skillnaden/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens utgifter (HUT)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00",
-        "E-post",
-        "information@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        },
-        {
-          "text": "information@scb.se",
-          "href": "mailto:information@scb.se",
-          "url": "mailto:information@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens utgifter (HUT)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "utgiftsstat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "utgiftsstat@scb.se",
-          "href": "mailto:utgiftsstat@scb.se",
-          "url": "mailto:utgiftsstat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens utgifter (HUT)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Hushåll",
-        "Konsumtion",
-        "Utgifter",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Konsumtion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=109",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=109"
-        },
-        {
-          "text": "Utgifter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

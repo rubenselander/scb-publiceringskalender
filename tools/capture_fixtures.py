@@ -24,13 +24,10 @@ SOURCES = {
     + "/om-scb/samordning-av-sveriges-officiella-statistik/statistikansvariga-myndigheter/",
     "european_agencies": SCB
     + "/om-scb/samordning-av-europeisk-statistik-i-sverige/myndigheter-som-ansvarar-for-europeisk-statistik/",
-    "regulation": "https://data.riksdagen.se/dokument/sfs-2001-100.html",
     "agency_registry": "https://myndighetsregistret.scb.se/Myndighet",
     "official_products": SCB + "/sam-forum/hem/officiell-statistik/",
     "hvd": SCB
     + "/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
-    "economy": SCB
-    + "/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/",
     "changes": SCB
     + "/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
 }
@@ -61,7 +58,7 @@ def main():
         snapshots = {
             name: capture(name, FetchRequest(url=url)) for name, url in SOURCES.items()
         }
-        for name in ["official_products", "changes", "economy"]:
+        for name in ["official_products", "changes"]:
             snapshot = snapshots[name]
             if snapshot is None:
                 continue
@@ -76,7 +73,6 @@ def main():
                         and "Statistikprodukter" in anchor.get_text()
                     )
                     or (name == "changes" and ".pdf" in href)
-                    or (name == "economy" and "/pong/tabell-och-diagram/" in href)
                 ) and href not in links:
                     links.append(href)
             for number, href in enumerate(links):

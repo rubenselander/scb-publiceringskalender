@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0605",
     "response_url": "https://www.scb.se/JO0605",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skordeprognos-for-spannmal-och-oljevaxter/",
-    "fetched_at": "2026-10-05T13:11:43.546908Z",
+    "fetched_at": "2026-10-10T01:16:46.943485Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "34ac9d206bfdf8443db2b4fdd129b4a62b99872ba67c82f202fd684d38443440",
+    "content_sha256": "30fa8e589ac9115083b08f2c7abdad6122f9c0892ea221b203de4bc9c1be4649",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -486,84 +475,7 @@
       "paragraphs": [
         "Beskrivning av Skördeprognos för spannmål och oljeväxter"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Skördeprognos för spannmål och oljeväxter",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skordeprognos-for-spannmal-och-oljevaxter/produktrelaterat/Fordjupad-information/beskrivning-av-skordeprognos-for-spannmal-och-oljevaxter/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skordeprognos-for-spannmal-och-oljevaxter/produktrelaterat/Fordjupad-information/beskrivning-av-skordeprognos-for-spannmal-och-oljevaxter/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skördeprognos för spannmål och oljeväxter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skördeprognos för spannmål och oljeväxter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

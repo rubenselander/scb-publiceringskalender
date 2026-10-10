@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0103",
     "response_url": "https://www.scb.se/NR0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/",
-    "fetched_at": "2026-10-05T13:12:52.782959Z",
+    "fetched_at": "2026-10-10T01:17:48.358926Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "506d417fe7fce8c4568c48f6819d522d4c54f952b0876d9534d4501276694191",
+    "content_sha256": "e58e3d294d11753293e5faa228076113908b02043b690d0987069605937fb7e3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,27 +25,12 @@
   "next_publication_date": "2026-10-29",
   "responsible_agency": null,
   "notices": [
+    "2026-10-09: Ett fel har korrigerats i tabellen Input-outputtabeller (bransch*bransch) 2021-2024 som publicerades den 25:e september och som berör branschfördelningen för 2024.",
     "2026-09-10: Efter publiceringen den 28 augusti 2026, har vi upptäckt ett fel på ett växelkursindex rörande Danmark som används i beräkningen av svenskars löner i utlandet. En upprättning är planerad i samband med ordinarie publicering i november.  Preliminära uppgifter tyder på att de svenska lönerna i utlandet kommer att justeras upp med cirka 1 miljard kronor per kvartal från första kvartalet 2025 till och med andra kvartalet 2026.",
     "2026-08-28 : I samband med ordinarie publicering av andra kvartalet den 28 augusti har vi korrigerat arbetsinsatsen för år och kvartal 2024. Detta görs för att rätta ett tidsseriebrott 2023/2024 som uppstod i majpubliceringen av den definitiva årsberäkningen avseende referensår 2024. Tidsseriebrottet uppstod till följd av att statistikprodukten Befolkningens Arbetsmarknadsstatus (BAS) ändrat sin definition av egenföretagare. Felet berör endast näringslivet och HIO men korrigeringen får effekt även på totalerna. Det är i huvudsak branscher med hög andel egenföretagare som berörs. Som en konsekvens av korrigeringen så har även arbetskostnader i näringslivet år och kvartal 2024 reviderats något.",
     "Vid samma tidpunkt har vi korrigerat ett mindre fel avseende fördelningen av hushållens konsumtionsutgifter efter ändamål (COICOP) och varaktighet. Felet påverkar kvartalsserier för åren 2022-2024 men för årsvärden berörs endast år 2024. Hushållens totala konsumtionsutgifter påverkas inte av felet."
   ],
-  "tags": [
-    {
-      "text": "BNP",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-    },
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Konjunktur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -78,6 +63,7 @@
         }
       ],
       "paragraphs": [
+        "2026-10-09: Ett fel har korrigerats i tabellen Input-outputtabeller (bransch*bransch) 2021-2024 som publicerades den 25:e september och som berör branschfördelningen för 2024.",
         "2026-09-10: Efter publiceringen den 28 augusti 2026, har vi upptäckt ett fel på ett växelkursindex rörande Danmark som används i beräkningen av svenskars löner i utlandet. En upprättning är planerad i samband med ordinarie publicering i november.  Preliminära uppgifter tyder på att de svenska lönerna i utlandet kommer att justeras upp med cirka 1 miljard kronor per kvartal från första kvartalet 2025 till och med andra kvartalet 2026.",
         "2026-08-28 : I samband med ordinarie publicering av andra kvartalet den 28 augusti har vi korrigerat arbetsinsatsen för år och kvartal 2024. Detta görs för att rätta ett tidsseriebrott 2023/2024 som uppstod i majpubliceringen av den definitiva årsberäkningen avseende referensår 2024. Tidsseriebrottet uppstod till följd av att statistikprodukten Befolkningens Arbetsmarknadsstatus (BAS) ändrat sin definition av egenföretagare. Felet berör endast näringslivet och HIO men korrigeringen får effekt även på totalerna. Det är i huvudsak branscher med hög andel egenföretagare som berörs. Som en konsekvens av korrigeringen så har även arbetskostnader i näringslivet år och kvartal 2024 reviderats något.",
         "Vid samma tidpunkt har vi korrigerat ett mindre fel avseende fördelningen av hushållens konsumtionsutgifter efter ändamål (COICOP) och varaktighet. Felet påverkar kvartalsserier för åren 2022-2024 men för årsvärden berörs endast år 2024. Hushållens totala konsumtionsutgifter påverkas inte av felet."
@@ -348,9 +334,9 @@
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/tabell-och-diagram/tabeller/input-outputtabeller-produktprodukt-2021-2024/"
         },
         {
-          "text": "Input-outputtabeller (bransch*bransch) 2021-2024",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/tabell-och-diagram/tabeller/input-outputtabeller-branschbransch-2021-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/tabell-och-diagram/tabeller/input-outputtabeller-branschbransch-2021-2024/"
+          "text": "Input-outputtabeller (bransch*bransch) 2021-2024. Reviderad 2026-10-09",
+          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/tabell-och-diagram/tabeller/input-outputtabeller-branschbransch-2021-2024.-reviderad-2026-10-09",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/tabell-och-diagram/tabeller/input-outputtabeller-branschbransch-2021-2024.-reviderad-2026-10-09"
         }
       ],
       "table_headers": [
@@ -390,9 +376,9 @@
           "2026-09-25"
         ],
         [
-          "Input-outputtabeller (bransch*bransch) 2021-2024",
+          "Input-outputtabeller (bransch*bransch) 2021-2024. Reviderad 2026-10-09",
           "Excel-fil",
-          "2026-09-25"
+          "2026-10-09"
         ]
       ]
     },
@@ -1973,264 +1959,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Utrikeshandel utgör en väsentlig andel av Sveriges BNP och framförallt tjänstehandeln har ökat sin andel över tid. Tjänsteexporten har ökat brant medan varuhandeln har ökat långsammare. Fortfarande är dock exporten av varor större än exporten av tjänster."
-      ],
-      "links": [
-        {
-          "text": "Varuexport – en motor i svensk ekonomi",
-          "href": "/hitta-statistik/artiklar/2017/Varuexport--en-motor-i-svensk-ekonomi/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Varuexport--en-motor-i-svensk-ekonomi/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-09-04"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Ekonomi",
-        "Handel"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
-        },
-        {
-          "text": "Handel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Hushållens bolåneskulder fortsätter att växa men det senaste året har ökningstakten mattats något. Det hänger ihop med att bostadspriserna steg i lugnare takt under fjolåret samtidigt som amorteringarna ökade. De senaste månaderna har dock priserna ökat något snabbare igen."
-      ],
-      "links": [
-        {
-          "text": "Bolånen i Sverige fortsätter växa",
-          "href": "/hitta-statistik/artiklar/2017/Bolanen-i-Sverige-fortsatter-vaxa/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Bolanen-i-Sverige-fortsatter-vaxa/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-05-03"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Finanser",
-        "Boende och byggande",
-        "Hushåll och ekonomi"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
-        },
-        {
-          "text": "Finanser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=54&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=54&selection=articles"
-        },
-        {
-          "text": "Boende och byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
-        },
-        {
-          "text": "Hushåll och ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Från jordbruk via industrier till tjänster. Sveriges ekonomiska historia har präglats av dessa tre perioder. Den senaste övergången symboliseras av att Ericsson AB nu klassificeras om från industriföretag till tjänsteföretag i SCB:s ekonomiska statistik."
-      ],
-      "links": [
-        {
-          "text": "Unik tillväxt när Sverige gick från jordbruk till tjänster",
-          "href": "/hitta-statistik/artiklar/2017/Unik-tillvaxt-nar-Sverige-gick-fran-jordbruk-till-tjanster/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Unik-tillvaxt-nar-Sverige-gick-fran-jordbruk-till-tjanster/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-04-26"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Ekonomi",
-        "Näringsliv"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29&selection=articles"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44&selection=articles"
-        },
-        {
-          "text": "Näringsliv",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=140&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Aktuellt",
           "level": 2,
           "anchor": "_Aktuellt"
@@ -2240,18 +1968,7 @@
         "Statistiknyheter, fördjupningstexter/kommentarer och tabeller",
         "Pressmaterial om Nationalräkenskaperna"
       ],
-      "links": [
-        {
-          "text": "Statistiknyheter, fördjupningstexter/kommentarer och tabeller",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/aktuellt/fordjupningar-och-kommentarer/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/aktuellt/fordjupningar-och-kommentarer/"
-        },
-        {
-          "text": "Pressmaterial om Nationalräkenskaperna",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/aktuellt/pressmaterial-om-nationalrakenskaperna/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/aktuellt/pressmaterial-om-nationalrakenskaperna/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -2658,273 +2375,7 @@
         "Kapitaltillskott till Riksbanken.pdf",
         "SNA2025 - Nya utmaningar för statistiken (pdf)"
       ],
-      "links": [
-        {
-          "text": "Mindre översyn av tidsserierna i maj 2025 (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/mindre-oversyn-av-tidsserierna-i-maj-2025_rev.20251205.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/mindre-oversyn-av-tidsserierna-i-maj-2025_rev.20251205.pdf"
-        },
-        {
-          "text": "Allmän översyn av BNP maj 2024 (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/allman_oversyn_av_bnp_maj_2024.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/allman_oversyn_av_bnp_maj_2024.pdf"
-        },
-        {
-          "text": "I augusti och september 2026 revideras tidsserien för offentliga finanser (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/i-augusti-och-september-2026-revideras-tidsserien-for-offentliga-finanser.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/i-augusti-och-september-2026-revideras-tidsserien-for-offentliga-finanser.pdf"
-        },
-        {
-          "text": "Elstöd baserat på kapacitetsavgifter (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/elstod-baserat-pa-kapacitetsavgifter/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/elstod-baserat-pa-kapacitetsavgifter/"
-        },
-        {
-          "text": "Reviderade tidsserier för BNP 29 maj 2020 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/reviderade-tidsserier-for-bnp-29-maj-2020-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/reviderade-tidsserier-for-bnp-29-maj-2020-pdf/"
-        },
-        {
-          "text": "BNP-indikatorn – Beräkningsrutiner och underlag",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/bnp-indikatorn-berakningsrutiner-och-underlag/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/bnp-indikatorn-berakningsrutiner-och-underlag/"
-        },
-        {
-          "text": "Avstämning av BNP (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/avstamning-av-bnp-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/avstamning-av-bnp-pdf/"
-        },
-        {
-          "text": "Allmän översyn av BNP hösten 2019 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/i-host-forandras-bnp/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/i-host-forandras-bnp/"
-        },
-        {
-          "text": "Dokumentation av BNP, sektor- och BNI-beräkningar i löpande priser",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/dokumentation-av-bnp-sektor--och-bni-berakningar-i-lopande-priser/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/dokumentation-av-bnp-sektor--och-bni-berakningar-i-lopande-priser/"
-        },
-        {
-          "text": "Definitioner och förklaringar",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/definitioner-och-forklaringar/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/definitioner-och-forklaringar/"
-        },
-        {
-          "text": "Vanliga frågor – Nationalräkenskaper",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/vanliga-fragor--nationalrakenskaper/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/vanliga-fragor--nationalrakenskaper/"
-        },
-        {
-          "text": "ENS 2010 – en anpassning av de svenska nationalräkenskaperna till EU:s nya regelverk",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/ens-2010--en-anpassning-av-de-svenska-nationalrakenskaperna-till-eus-nya-regelverk/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/ens-2010--en-anpassning-av-de-svenska-nationalrakenskaperna-till-eus-nya-regelverk/"
-        },
-        {
-          "text": "Nationalförmögenheten, dokumentation (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/dokumentation-nationalformogenheten.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/dokumentation-nationalformogenheten.pdf"
-        },
-        {
-          "text": "Real BNP tar hänsyn till köpkraftsförändringar",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/real-bnp-tar-hansyn-till-kopkraftsforandringar/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/real-bnp-tar-hansyn-till-kopkraftsforandringar/"
-        },
-        {
-          "text": "SNI-omläggning av nationalräkenskaperna (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/sni-omlaggning-av-nationalrakenskaperna-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/sni-omlaggning-av-nationalrakenskaperna-pdf/"
-        },
-        {
-          "text": "Beräkningsrutiner för national­räkenskaperna – Bilaga 3 i SOU 2002:118 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/berakningsrutiner-for-nationalrakenskaperna--bilaga-3-i-sou-2002118-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/berakningsrutiner-for-nationalrakenskaperna--bilaga-3-i-sou-2002118-pdf/"
-        },
-        {
-          "text": "Dokumentation om källor och metoder för kvartalsräkenskaperna (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/qna-inventory_sweden_2025.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/qna-inventory_sweden_2025.pdf"
-        },
-        {
-          "text": "Begreppsförklaringar inom nationalräkenskaperna",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/begreppsforklaringar-inom-nationalrakenskaperna/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/begreppsforklaringar-inom-nationalrakenskaperna/"
-        },
-        {
-          "text": "Revideringspolicy (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/revideringspolicy_nr0103_20251201.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/revideringspolicy_nr0103_20251201.pdf"
-        },
-        {
-          "text": "Beskrivning av Input-Output tabellpaketet (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/beskrivning-av-input-output-tabellpaketet-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/beskrivning-av-input-output-tabellpaketet-pdf/"
-        },
-        {
-          "text": "Kapitaltillskott till Riksbanken.pdf",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/kapitaltillskott-till-riksbanken.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/kapitaltillskott-till-riksbanken.pdf"
-        },
-        {
-          "text": "SNA2025 - Nya utmaningar för statistiken (pdf)",
-          "href": "/contentassets/66e9dae3a5d94bf8b4c299ce25294348/sna2025_slutlig_002.pdf",
-          "url": "https://www.scb.se/contentassets/66e9dae3a5d94bf8b4c299ce25294348/sna2025_slutlig_002.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Nationalräkenskaper",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "nrinfo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "nrinfo@scb.se",
-          "href": "mailto:nrinfo@scb.se",
-          "url": "mailto:nrinfo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Frågor och svar",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Vanliga frågor – Nationalräkenskaper"
-      ],
-      "links": [
-        {
-          "text": "Vanliga frågor – Nationalräkenskaper",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/vanliga-fragor--nationalrakenskaper/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/produktrelaterat/Fordjupad-information/vanliga-fragor--nationalrakenskaper/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, kvartals- och årsberäkningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Ekonomi",
-        "Konjunktur"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Konjunktur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

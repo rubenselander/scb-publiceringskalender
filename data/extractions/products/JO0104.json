@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0104",
     "response_url": "https://www.scb.se/JO0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksmarkens-anvandning/",
-    "fetched_at": "2026-10-05T13:11:18.921704Z",
+    "fetched_at": "2026-10-10T01:16:23.850527Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "cdf86488f74bd3919dc28dd194985df6b1633ed65ba882a336fb0d824f15d26e",
+    "content_sha256": "eb7842ddffbda4dd272eabe62a9d6aee87ef10dc23eb14440454b065c48a51c3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekologi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=43",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=43"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -649,83 +633,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0104",
           "url": "https://metadata.scb.se/?produkt=JO0104"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksmarkens användning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbruksmarkens användning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekologi",
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Ekologi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=43",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=43"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0107",
     "response_url": "https://www.scb.se/SF0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/vardbidrag/",
-    "fetched_at": "2026-10-05T13:14:06.189898Z",
+    "fetched_at": "2026-10-10T01:18:31.421310Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "132aa0f1a230d157d9c11db20f30f2227b1e262b4474d016c7e9aae0dbc3284a",
+    "content_sha256": "a89987e5f794afdba3b4cf426ddd900651e00b936e9df0f074fd99a304f55819",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,33 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Bidrag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    },
-    {
-      "text": "Funktionshinder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=256",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=256"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -92,95 +66,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vårdbidrag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vårdbidrag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Bidrag",
-        "Inkomst",
-        "Socialförsäkring",
-        "Funktionshinder"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Bidrag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-        },
-        {
-          "text": "Funktionshinder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=256",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=256"
         }
       ],
       "table_headers": [],

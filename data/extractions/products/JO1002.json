@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1002",
     "response_url": "https://www.scb.se/JO1002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/markpriser/",
-    "fetched_at": "2026-10-05T13:11:50.968915Z",
+    "fetched_at": "2026-10-10T01:16:53.895316Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2b49375dc6072791392d75736eeec0154ff9fd3150321407552b752f683b4f88",
+    "content_sha256": "13865588c800c5d712cf45081f7d13877d8c2e81bbe819fc4f418ee50c9b4ba8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -489,77 +478,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO1002",
           "url": "https://metadata.scb.se/?produkt=JO1002"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markpriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Markpriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Priser"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
         }
       ],
       "table_headers": [],

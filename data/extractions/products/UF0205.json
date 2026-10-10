@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0205",
     "response_url": "https://www.scb.se/UF0205",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
-    "fetched_at": "2026-10-05T13:15:12.128036Z",
+    "fetched_at": "2026-10-10T01:19:17.593738Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9aa31c314d738ce1d9ff9147cea8adec16a4c9f43326d2f06d58d3ab869306f0",
+    "content_sha256": "47c857b8ec5cf758679ce1067d08d668ff38cdc0224039ce365cdf89f9409dbf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Examen",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=50",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=50"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1222,18 +1201,7 @@
         "Beskrivning av Studenter och examinerade i högskoleutbildning på grundnivå och avancerad nivå",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Studenter och examinerade i högskoleutbildning på grundnivå och avancerad nivå",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/beskrivning-av-studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/beskrivning-av-studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/studenter-och-examinerade-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1255,121 +1223,6 @@
         "SCB"
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studenter och examinerade i högskoleutbildning på grundnivå och avancerad nivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-563 085 00",
-        "E-post",
-        "analys@uka.se"
-      ],
-      "links": [
-        {
-          "text": "08-563 085 00",
-          "href": "tel:08-563 085 00",
-          "url": "tel:08-563 085 00"
-        },
-        {
-          "text": "analys@uka.se",
-          "href": "mailto:analys@uka.se",
-          "url": "mailto:analys@uka.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studenter och examinerade i högskoleutbildning på grundnivå och avancerad nivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "hogskolestat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "hogskolestat@scb.se",
-          "href": "mailto:hogskolestat@scb.se",
-          "url": "mailto:hogskolestat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studenter och examinerade i högskoleutbildning på grundnivå och avancerad nivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Examen",
-        "Studenter",
-        "Universitet och högskola",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Examen",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=50",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=50"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0310",
     "response_url": "https://www.scb.se/SO0310",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/personer-med-funktionsnedsattning-vard-och-omsorg-kommunala-insatser-enligt-socialtjanstlagen-samt-halso-och-sjukvardslagen/",
-    "fetched_at": "2026-10-05T13:14:30.701662Z",
+    "fetched_at": "2026-10-10T01:18:48.460365Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a2e77bfc65480288706cda4bffada469d7fba8f4e4ea3c34397222898dd7a8bc",
+    "content_sha256": "e0a5ad4e83f3adec9c58759ecb46c4ac827345c9841785cd9d4c446b70107210",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Omsorg",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-    },
-    {
-      "text": "Socialtjänst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
-    },
-    {
-      "text": "Funktionsnedsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om socialtjänstinsatser till personer med funktionsnedsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om socialtjänstinsatser till personer med funktionsnedsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Omsorg",
-        "Socialtjänst",
-        "Funktionsnedsättning"
-      ],
-      "links": [
-        {
-          "text": "Omsorg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-        },
-        {
-          "text": "Socialtjänst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
-        },
-        {
-          "text": "Funktionsnedsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
         }
       ],
       "table_headers": [],

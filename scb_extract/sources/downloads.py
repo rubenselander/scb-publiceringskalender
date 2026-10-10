@@ -28,8 +28,6 @@ from scb_extract.models.common import IndexEntry, PageIndex
 from scb_extract.models.downloads_collections import (
     ChangeNotice,
     ChangesReport,
-    EconomyCollection,
-    EconomyDiagram,
     HvdCollection,
     HvdGroup,
     HvdLink,
@@ -42,8 +40,6 @@ URLS = {
     "official_products": ROOT + "/sam-forum/hem/officiell-statistik/",
     "hvd": ROOT
     + "/vara-tjanster/oppna-data/vardefulla-datamangder-hvd/vardefulla-datamangder--statistik/",
-    "economy": ROOT
-    + "/hitta-statistik/statistik-efter-amne/ovrigt/allmant/sveriges-ekonomi/",
     "changes": ROOT
     + "/sam-forum/hem/officiell-statistik/andringar-i-den-officiella-statistiken/",
 }
@@ -59,6 +55,7 @@ HEADERS = [
     "Periodicitet",
 ]
 CODE = re.compile(r"^[A-Z]{2}\d{4}$")
+PXWEB_CODE = re.compile(r"START__([A-Z]{2})__([A-Z]{2}\d{4})(?=__|/|$)")
 SOURCE_ERRORS = (
     OSError,
     ValueError,
@@ -143,6 +140,7 @@ def parse_hvd(snapshot: FetchSnapshot) -> HvdCollection:
         links = []
         for anchor in cells[1].select("a[href]"):
             url = absolute_url(snapshot.final_url, anchor["href"])
+            code = PXWEB_CODE.search(url)
             links.append(
                 HvdLink(
                     anchor_text=_text(anchor),
@@ -153,6 +151,8 @@ def parse_hvd(snapshot: FetchSnapshot) -> HvdCollection:
                     if "/sq/" in url.lower()
                     else "other",
                     context_text=_text(anchor.find_parent("p") or cells[1]) or None,
+                    subject_code=code[1] if code else None,
+                    product_code=code[2] if code else None,
                 )
             )
         groups.append(
@@ -165,100 +165,20 @@ def parse_hvd(snapshot: FetchSnapshot) -> HvdCollection:
         title=_text(soup.select_one("h1")),
         headers=["Datamängd", "Tabell/sparad fråga"],
         total_source_groups=len(groups),
+        total_source_links=sum(len(group.links) for group in groups),
         partial_sample=False,
         groups=groups,
     )
 
 
-def parse_economy(snapshot: FetchSnapshot) -> EconomyCollection:
-    soup = _html(snapshot)
-    tables = [
-        table
-        for table in soup.select("main table")
-        if [_text(cell) for cell in table.select("thead th")]
-        == ["Namn", "Typ", "Datum"]
-    ]
-    if len(tables) != 1:
-        raise ValueError("Expected one economy diagram inventory")
-    entries = []
-    for row in tables[0].select("tbody tr"):
-        cells = row.find_all("td", recursive=False)
-        anchor = cells[0].select_one("a[href]") if cells else None
-        if len(cells) != 3 or not anchor:
-            raise ValueError("Incomplete economy diagram row")
-        entries.append(
-            EconomyDiagram(
-                title=_text(anchor),
-                url=absolute_url(snapshot.final_url, anchor["href"]),
-                listed_type=_text(cells[1]),
-                listed_date=date.fromisoformat(_text(cells[2]))
-                if _text(cells[2])
-                else None,
-                detail_verified=False,
-                detail_provenance=None,
-                subtitle=None,
-                comments=None,
-                source_label=None,
-                updated_at=None,
-                excel_urls=[],
-                image_urls=[],
-                official_statistics_mark_present=None,
-            )
-        )
-    if not entries or len({entry.url for entry in entries}) != len(entries):
-        raise ValueError("Empty or duplicate-URL economy inventory")
-    return EconomyCollection(
-        provenance=_provenance(snapshot, "main table[Namn,Typ,Datum]"),
-        title=_text(soup.select_one("h1")),
-        section="Tabeller och diagram",
-        total_source_entries=len(entries),
-        partial_sample=False,
-        entries=entries,
-    )
-
-
-def parse_economy_detail(
-    snapshot: FetchSnapshot, entry: EconomyDiagram
-) -> EconomyDiagram:
-    soup = _html(snapshot)
-    article = soup.select_one("#pageContent article")
-    if not article or not article.select_one("h1"):
-        raise ValueError("Missing economy diagram article")
-    labels = {}
-    for label in article.select("span.text-dark-gray"):
-        paragraph = label.find_parent("p")
-        value = _text(paragraph)
-        labels[_text(label)] = value.removeprefix(_text(label)).strip()
-    updated = labels.get("Senast uppdaterad")
-    if not updated or not labels.get("Källa"):
-        raise ValueError("Missing economy source or update date")
-    comments_heading = next(
-        (h for h in article.select("h2") if _text(h) == "Kommentarer"), None
-    )
-    comments = comments_heading.find_next_sibling("div") if comments_heading else None
-    return entry.model_copy(
-        update={
-            "title": _text(article.select_one("h1")),
-            "detail_verified": True,
-            "detail_provenance": _provenance(snapshot, "#pageContent article"),
-            "subtitle": _text(article.select_one("p.ingress")) or None,
-            "comments": _text(comments) or None,
-            "source_label": labels["Källa"],
-            "updated_at": date.fromisoformat(updated),
-            "excel_urls": [
-                absolute_url(snapshot.final_url, a["href"])
-                for a in article.select("a[href]")
-                if urlsplit(a["href"]).path.lower().endswith((".xls", ".xlsx"))
-            ],
-            "image_urls": [
-                absolute_url(snapshot.final_url, image["src"])
-                for image in article.select(".xhtmlText img[src]")
-            ],
-            "official_statistics_mark_present": bool(
-                soup.select('img[src*="SOS-icons"]')
-            ),
-        }
-    )
+def product_links_only(collection: HvdCollection) -> HvdCollection:
+    """Keep the links that yield a product code, and the rows that still have one."""
+    groups = []
+    for group in collection.groups:
+        links = [link for link in group.links if link.product_code]
+        if links:
+            groups.append(group.model_copy(update={"links": links}))
+    return collection.model_copy(update={"groups": groups, "product_links_only": True})
 
 
 def parse_changes_index(snapshot: FetchSnapshot) -> PageIndex:
@@ -479,24 +399,7 @@ class DownloadsAdapter:
                 )
                 result.documents["index"] = parse_workbook(workbook)
             elif self.source == "hvd":
-                result.documents["index"] = parse_hvd(snapshot)
-            elif self.source == "economy":
-                collection = parse_economy(snapshot)
-                result.documents["index"] = collection
-                entries = []
-                for entry in collection.entries:
-                    key = url_key(entry.url)
-                    result.discovered.append(key)
-                    try:
-                        detail = context.fetch(FetchRequest(url=entry.url))
-                        result.documents[key] = parse_economy_detail(detail, entry)
-                        entries.append(result.documents[key])
-                    except SOURCE_ERRORS as exc:
-                        result.failures[key] = str(exc)
-                        entries.append(entry)
-                result.documents["index"] = collection.model_copy(
-                    update={"entries": entries}
-                )
+                result.documents["index"] = product_links_only(parse_hvd(snapshot))
             else:
                 inventory = parse_changes_index(snapshot)
                 result.documents["index"] = inventory

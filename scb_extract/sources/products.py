@@ -1,4 +1,8 @@
-"""SCB landing pages and their bounded subject/documentation discovery."""
+"""SCB product landing pages and the official-statistics subject hierarchy.
+
+Product pages are discovered from the calendar and from SCB's A-Z documentation
+index, which also lists products the calendar no longer carries.
+"""
 
 import json
 import re
@@ -20,7 +24,6 @@ from scb_extract.models.products_subjects import (
     ContentGroup,
     DocumentationEntry,
     DocumentationIndex,
-    DocumentationPage,
     Heading,
     OfficialSubjects,
     ProductCard,
@@ -209,26 +212,6 @@ def parse_product(
     )
 
 
-def parse_documentation(
-    snapshot: FetchSnapshot, product_code: str | None = None
-) -> DocumentationPage:
-    page, canonical = _page(snapshot)
-    heading = page.select_one("#_Dokumentation")
-    section = heading.find_parent("section") if heading else None
-    if heading and section is None:
-        raise ValueError("Documentation heading has no section container")
-    return DocumentationPage(
-        provenance=snapshot.provenance(
-            canonical=canonical,
-            selector="#pageContent section[aria-labelledby='_Dokumentation']",
-        ),
-        title=_text(page.select_one("h1")),
-        product_code=product_code or _identity(page)[1],
-        has_documentation_section=section is not None,
-        groups=_groups(section, snapshot.final_url) if section else [],
-    )
-
-
 def parse_subject_index(snapshot: FetchSnapshot) -> OfficialSubjects:
     page, canonical = _page(snapshot)
     subjects = []
@@ -333,6 +316,7 @@ def parse_subject(
 def parse_documentation_index(snapshot: FetchSnapshot) -> DocumentationIndex:
     page, canonical = _page(snapshot)
     entries = []
+    # Layout until early October 2026: <h2>A</h2><ul><li><a href>…</a></li></ul>.
     for heading in page.select("h2"):
         letter = _text(heading) or ""
         listing = heading.find_next_sibling("ul")
@@ -341,12 +325,21 @@ def parse_documentation_index(snapshot: FetchSnapshot) -> DocumentationIndex:
                 DocumentationEntry(letter=letter, link=_link(a, snapshot.final_url))
                 for a in listing.select("li a[href]")
             )
+    selector = "#pageContent h2 + ul li a"
+    if not entries:
+        # Web-component layout: <section id="A"><scb-link-card><scb-link href>…</scb-link>.
+        selector = "#pageContent section[id] scb-link[href]"
+        for section in page.select("section[id]"):
+            letter = section["id"]
+            if len(letter) == 1:
+                entries.extend(
+                    DocumentationEntry(letter=letter, link=_link(a, snapshot.final_url))
+                    for a in section.select("scb-link[href], a[href]")
+                )
     if not entries:
         raise ValueError("Documentation index contains no entries")
     return DocumentationIndex(
-        provenance=snapshot.provenance(
-            canonical=canonical, selector="#pageContent h2 + ul li a"
-        ),
+        provenance=snapshot.provenance(canonical=canonical, selector=selector),
         title=_text(page.select_one("h1")),
         introduction=_text(page.select_one(".xhtmlText")),
         entries=entries,
@@ -360,7 +353,7 @@ def parse_documentation_index(snapshot: FetchSnapshot) -> DocumentationIndex:
 def _fetch(context: ExtractionContext, url: str) -> FetchSnapshot:
     if urlsplit(url).hostname not in {"www.scb.se", "scb.se"}:
         raise ValueError(f"Target outside SCB allowlist: {url}")
-    # Reuse short-address requests for documentation's canonical product links.
+    # Reuse short-address requests for the documentation index's canonical product links.
     target = canonical_url(url)
     processed, aliases = _ALIASES.setdefault(context, (set(), {}))
     for snapshot in context.available_snapshots():
@@ -398,6 +391,11 @@ def _calendar(context: ExtractionContext) -> dict[str, str]:
     return products
 
 
+def _page_urls(page: ProductPage) -> set[str]:
+    p = page.provenance
+    return {canonical_url(url) for url in (p.requested_url, p.response_url, p.canonical_url) if url}
+
+
 class ProductsAdapter:
     def collect(self, context: ExtractionContext) -> SourceResult:
         result = SourceResult(source="products")
@@ -408,14 +406,58 @@ class ProductsAdapter:
             result.failures["index"] = str(exc)
             return result
         result.discovered = sorted(products)
+        covered: set[str] = set()
         for code in result.discovered:
             try:
                 page = parse_product(_fetch(context, products[code]), code)
                 result.documents[code] = page
                 result.warnings.extend(page.provenance.warnings)
+                covered |= _page_urls(page)
             except (OSError, ValueError) as exc:
                 result.failures[code] = str(exc)
+        self._documentation_index_pages(context, result, covered)
         return result
+
+    @staticmethod
+    def _documentation_index_pages(
+        context: ExtractionContext, result: SourceResult, covered: set[str]
+    ) -> None:
+        """Add product pages listed in the A-Z documentation index but not in the calendar.
+
+        The page's own short address supplies the key; a page without one is keyed
+        by url_key(). A calendar code whose short URL failed is recovered here when
+        the index links its page under the long URL.
+        """
+        try:
+            index = parse_documentation_index(_fetch(context, DOCUMENTATION_URL))
+        except (OSError, ValueError) as exc:
+            result.discovery_complete = False
+            result.failures["documentation_index"] = str(exc)
+            return
+        for url in index.unfetched_page_urls:
+            if url in covered:
+                continue
+            try:
+                page = parse_product(_fetch(context, url))
+            except (OSError, ValueError) as exc:
+                key = url_key(url)
+                result.discovered.append(key)
+                result.failures[key] = str(exc)
+                continue
+            urls = _page_urls(page)
+            covered |= urls | {url}
+            key = page.product_code or url_key(url)
+            if key in result.documents:
+                continue
+            if key in result.failures:
+                result.warnings.append(
+                    f"Calendar code {key} recovered from the documentation index: {url}"
+                )
+                del result.failures[key]
+            if key not in result.discovered:
+                result.discovered.append(key)
+            result.documents[key] = page
+            result.warnings.extend(page.provenance.warnings)
 
 
 class SubjectsAdapter:
@@ -458,33 +500,7 @@ class SubjectsAdapter:
         return result
 
 
-class DocumentationAdapter:
-    def collect(self, context: ExtractionContext) -> SourceResult:
-        result = SourceResult(source="documentation", discovered=["index"])
-        try:
-            index = parse_documentation_index(_fetch(context, DOCUMENTATION_URL))
-        except (OSError, ValueError) as exc:
-            result.discovery_complete = False
-            result.failures["index"] = str(exc)
-            return result
-        pending = []
-        for url in index.unfetched_page_urls:
-            key = url_key(url)
-            result.discovered.append(key)
-            try:
-                page = parse_documentation(_fetch(context, url))
-                result.documents[key] = page
-            except (OSError, ValueError) as exc:
-                result.failures[key] = str(exc)
-                pending.append(url)
-        index.unfetched_page_urls = pending
-        index.traversal_complete = not pending
-        result.documents["index"] = index
-        return result
-
-
 ADAPTERS = {
     "products": ProductsAdapter(),
     "subjects": SubjectsAdapter(),
-    "documentation": DocumentationAdapter(),
 }

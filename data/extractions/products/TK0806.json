@@ -1,0 +1,90 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/rederistatistik/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/rederistatistik/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/rederistatistik/",
+    "fetched_at": "2026-10-10T01:19:44.875292Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "652fddd11bd78e8bcdc7957b72cb2ae694b1d3299f80584760b3aa2a5ef55962",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "TK0806",
+  "product_code_source": "page_short_address",
+  "title": "Rederistatistik",
+  "short_address": "https://www.scb.se/tk0806",
+  "summary": "Statistiken uppdateras inte längre.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Trafikanalys",
+    "link": {
+      "text": "Trafikanalys",
+      "href": "http://trafa.se/etiketter/statistik/",
+      "url": "http://trafa.se/etiketter/statistik/"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Rederistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken uppdateras inte längre."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Rederistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Trafikanalys"
+      ],
+      "links": [
+        {
+          "text": "Trafikanalys",
+          "href": "http://trafa.se/etiketter/statistik/",
+          "url": "http://trafa.se/etiketter/statistik/"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Rederistatistik",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/tk0806"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

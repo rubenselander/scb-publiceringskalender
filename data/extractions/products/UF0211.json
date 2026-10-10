@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0211",
     "response_url": "https://www.scb.se/UF0211",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/svensk-och-utlandskbakgrund-for-studenter-och-doktorander-pa-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-05T13:15:15.883265Z",
+    "fetched_at": "2026-10-10T01:19:20.421142Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5f8e9910d15d0f3a3415fb96f598fcc0266a0b92fae070c017ae0fef7e825c1e",
+    "content_sha256": "a728339d86741e3163acf7e3bb8f016660b64d11ef9738caeaca46a7722f3c17",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Doktorander",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=42",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=42"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -479,121 +458,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0211",
           "url": "https://metadata.scb.se/?produkt=UF0211"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svensk och utländsk bakgrund för studenter och doktorander på universitet och högskolor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Analysavdelningen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-563 085 00",
-        "E-post",
-        "analys@uka.se"
-      ],
-      "links": [
-        {
-          "text": "08-563 085 00",
-          "href": "tel:08-563 085 00",
-          "url": "tel:08-563 085 00"
-        },
-        {
-          "text": "analys@uka.se",
-          "href": "mailto:analys@uka.se",
-          "url": "mailto:analys@uka.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svensk och utländsk bakgrund för studenter och doktorander på universitet och högskolor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "hogskolestat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "hogskolestat@scb.se",
-          "href": "mailto:hogskolestat@scb.se",
-          "url": "mailto:hogskolestat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svensk och utländsk bakgrund för studenter och doktorander på universitet och högskolor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Doktorander",
-        "Studenter",
-        "Universitet och högskola",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Doktorander",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=42",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=42"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0517",
     "response_url": "https://www.scb.se/UF0517",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/tiden-mellan-gymnasieskolan-och-universitetet-hogskolan/",
-    "fetched_at": "2026-10-05T13:15:32.239728Z",
+    "fetched_at": "2026-10-10T01:19:32.485342Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "196f9d891792edaaef2bfa320e71b10e2f5c7f2374dadc6d5ded9cf9b8807dd1",
+    "content_sha256": "dfa10ee80d99650d6cbbebd27d984598295893658604bfa8e39ee683eee2bd8f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -75,76 +59,6 @@
           "text": "Analyser och statistik om befolkningens utbildning",
           "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/analyser-och-statistik-om-befolkningens-utbildning/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/analyser-och-statistik-om-befolkningens-utbildning/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tiden mellan gymnasieskolan och universitetet/högskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "ua@scb.se"
-      ],
-      "links": [
-        {
-          "text": "ua@scb.se",
-          "href": "mailto:ua@scb.se",
-          "url": "mailto:ua@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Tiden mellan gymnasieskolan och universitetet/högskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gymnasieskola",
-        "Studenter",
-        "Universitet och högskola"
-      ],
-      "links": [
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
         }
       ],
       "table_headers": [],

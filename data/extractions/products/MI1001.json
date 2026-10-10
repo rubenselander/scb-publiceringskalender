@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1001",
     "response_url": "https://www.scb.se/MI1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/godselmedel-och-odlingsatgarder-i-jordbruket/",
-    "fetched_at": "2026-10-05T13:12:42.720508Z",
+    "fetched_at": "2026-10-10T01:17:39.342119Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b701bb791bfadd63de92cdf64ce8ff3de0f0b13860d78daaed23ac65cae5738c",
+    "content_sha256": "fee58df9e8f3471f24ce673a42f72b510997643dcb163e304f701e718dbf31bd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-11-26",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Gödsel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1205,106 +1184,7 @@
         "Improvements in agrienvironmental and grassland statistics in Sweden (pdf)",
         "Sambearbetning av Gödselmedelsundersökningen och Skördeundersökningarna 2011 (pdf)"
       ],
-      "links": [
-        {
-          "text": "Estimating the content of nitrogen and phosphorus in agricultural products in Sweden (doc)",
-          "href": "https://circabc.europa.eu/d/d/workspace/SpacesStore/88824c13-2be6-4a6f-97e6-dac2a30c7d66/FinalReport_NPcrops_SE_4070120110032011560.docx",
-          "url": "https://circabc.europa.eu/d/d/workspace/SpacesStore/88824c13-2be6-4a6f-97e6-dac2a30c7d66/FinalReport_NPcrops_SE_4070120110032011560.docx"
-        },
-        {
-          "text": "Improvements in agrienvironmental and grassland statistics in Sweden (pdf)",
-          "href": "https://circabc.europa.eu/sd/a/3ea3b94e-4ffc-4027-a258-6db50118d25b/161026%20SE%20FinalReport.pdf",
-          "url": "https://circabc.europa.eu/sd/a/3ea3b94e-4ffc-4027-a258-6db50118d25b/161026%20SE%20FinalReport.pdf"
-        },
-        {
-          "text": "Sambearbetning av Gödselmedelsundersökningen och Skördeundersökningarna 2011 (pdf)",
-          "href": "/contentassets/522f034797674a488e3b0d9d64bd9715/pm-lantbruksstatistik-2013-2-reviderad.pdf",
-          "url": "https://www.scb.se/contentassets/522f034797674a488e3b0d9d64bd9715/pm-lantbruksstatistik-2013-2-reviderad.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gödselmedel och odlingsåtgärder i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Ylva Andrist Rangel",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 56",
-        "E-post",
-        "ylva.andrist-rangel@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 56",
-          "href": "tel:010-479 68 56",
-          "url": "tel:010-479 68 56"
-        },
-        {
-          "text": "ylva.andrist-rangel@scb.se",
-          "href": "mailto:ylva.andrist-rangel@scb.se",
-          "url": "mailto:ylva.andrist-rangel@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gödselmedel och odlingsåtgärder i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gödsel",
-        "Jordbruk",
-        "Miljö",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Gödsel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

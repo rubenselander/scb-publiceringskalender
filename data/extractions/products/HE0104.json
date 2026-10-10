@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0104",
     "response_url": "https://www.scb.se/HE0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/hushallens-tillgangar-och-skulder/",
-    "fetched_at": "2026-10-05T13:10:54.885664Z",
+    "fetched_at": "2026-10-10T01:16:04.895161Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e1c5c38fe605255308938a9e7c4b32bf13b3831b6fb2d470f2c2c77e3f15d43f",
+    "content_sha256": "94511fd6b02bcbb17496c9e23786bc5075969e4ca4f2639e5d3d03238cebe2ce",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Förmögenhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=69",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=69"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -409,89 +388,7 @@
       "paragraphs": [
         "Förmögenhetsfördelningen i Sverige 1997 – med tillbakablick till 1975 (pdf)"
       ],
-      "links": [
-        {
-          "text": "Förmögenhetsfördelningen i Sverige 1997 – med tillbakablick till 1975 (pdf)",
-          "href": "/contentassets/f430d1bf3ba44b588a96d821cd8f8fc6/formogenhetsfordelningen-i-sverige-1997-med-tillbakablick-till-1975.pdf",
-          "url": "https://www.scb.se/contentassets/f430d1bf3ba44b588a96d821cd8f8fc6/formogenhetsfordelningen-i-sverige-1997-med-tillbakablick-till-1975.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "inkomststat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "inkomststat@scb.se",
-          "href": "mailto:inkomststat@scb.se",
-          "url": "mailto:inkomststat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hushållens tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Förmögenhet",
-        "Tillgångar och skulder",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Förmögenhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=69",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=69"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

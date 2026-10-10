@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0206",
     "response_url": "https://www.scb.se/SF0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/aktivitetsersattning-sjukersattning-och-bostadstillagg/",
-    "fetched_at": "2026-10-05T13:14:15.238272Z",
+    "fetched_at": "2026-10-10T01:18:36.163775Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9f8e81ea3f275437eb35f9c6dd4ad32b8a3ccd50cca7dc0fd338852b7d49dcfe",
+    "content_sha256": "2b82b67bb47a69ab8066ad2970abd3064f13c2b30264a588316373382148e835",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    },
-    {
-      "text": "Sjukförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -88,83 +72,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktivitetsersättning, sjukersättning och bostadstillägg",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktivitetsersättning, sjukersättning och bostadstillägg",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Inkomst",
-        "Socialförsäkring",
-        "Sjukförsäkring"
-      ],
-      "links": [
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-        },
-        {
-          "text": "Sjukförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=288",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=288"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0502",
     "response_url": "https://www.scb.se/MI0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jord--och-tradgardsbruket--anvandning-i-grodor/",
-    "fetched_at": "2026-10-05T13:12:32.268271Z",
+    "fetched_at": "2026-10-10T01:17:29.345876Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2c8818b5e46b0d7d6ad77b1c44cf64f1492b1a768a185ba9d08cf44dd23bfc5f",
+    "content_sha256": "5213e889790b9d291f836133cdadd3a89e86a91ef7ac97882960bf7ffb2bcdf3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bekämpningsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-    },
-    {
-      "text": "Växtskyddsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=285",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=285"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -418,116 +407,7 @@
       "paragraphs": [
         "Bilaga: Växtskyddsmedel 2010 - Medelfel till tabeller"
       ],
-      "links": [
-        {
-          "text": "Bilaga: Växtskyddsmedel 2010 - Medelfel till tabeller",
-          "href": "/contentassets/d3d0885942d94253842d92d56234b514/mi0502_2009i10_sm_mi31sm1101-bilaga-medelfel.pdf",
-          "url": "https://www.scb.se/contentassets/d3d0885942d94253842d92d56234b514/mi0502_2009i10_sm_mi31sm1101-bilaga-medelfel.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jord- och trädgårdsbruket – användning i grödor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Daniel Persson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 67 54",
-        "E-post",
-        "daniel.persson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 67 54",
-          "href": "tel:010-479 67 54",
-          "url": "tel:010-479 67 54"
-        },
-        {
-          "text": "daniel.persson@scb.se",
-          "href": "mailto:daniel.persson@scb.se",
-          "url": "mailto:daniel.persson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jord- och trädgårdsbruket – användning i grödor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "jordbruk@scb.se"
-      ],
-      "links": [
-        {
-          "text": "jordbruk@scb.se",
-          "href": "mailto:jordbruk@scb.se",
-          "url": "mailto:jordbruk@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Växtskyddsmedel i jord- och trädgårdsbruket – användning i grödor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bekämpningsmedel",
-        "Växtskyddsmedel"
-      ],
-      "links": [
-        {
-          "text": "Bekämpningsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-        },
-        {
-          "text": "Växtskyddsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=285",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=285"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

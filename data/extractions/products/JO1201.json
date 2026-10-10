@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1201",
     "response_url": "https://www.scb.se/JO1201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/",
-    "fetched_at": "2026-10-05T13:11:53.689088Z",
+    "fetched_at": "2026-10-10T01:16:56.643379Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b041cd6f82cff3c84f8e40fe53f3228f850bac07d7098b27fdb283d0a247b92a",
+    "content_sha256": "c58735fa69f0bbf534e7b0883503c2a304193beb6bd877f2d6dfd839638b4fb7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Fiske",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-    },
-    {
-      "text": "Livsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -626,128 +615,7 @@
         "Beskrivning av Vattenbruksundersökningen",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Vattenbruksundersökningen",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/produktrelaterat/Fordjupad-information/beskrivning-av-vattenbruksundersokningen/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/produktrelaterat/Fordjupad-information/beskrivning-av-vattenbruksundersokningen/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/vattenbruk/vattenbruk/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 65",
-        "E-post",
-        "vattenbruk@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 65",
-          "href": "tel:010-479 60 65",
-          "url": "tel:010-479 60 65"
-        },
-        {
-          "text": "vattenbruk@scb.se",
-          "href": "mailto:vattenbruk@scb.se",
-          "url": "mailto:vattenbruk@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Monica Leonardsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 81",
-        "E-post",
-        "monica.leonardsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 81",
-          "href": "tel:010-479 62 81",
-          "url": "tel:010-479 62 81"
-        },
-        {
-          "text": "monica.leonardsson@scb.se",
-          "href": "mailto:monica.leonardsson@scb.se",
-          "url": "mailto:monica.leonardsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vattenbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fiske",
-        "Livsmedel"
-      ],
-      "links": [
-        {
-          "text": "Fiske",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-        },
-        {
-          "text": "Livsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

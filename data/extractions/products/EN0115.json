@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0115",
     "response_url": "https://www.scb.se/EN0115",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandningen-inom-fiskesektorn/",
-    "fetched_at": "2026-10-05T13:10:33.955511Z",
+    "fetched_at": "2026-10-10T01:15:42.242456Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5bf4a791c1bca7082bc1499e4306855983dbaff3f1f5fe06b35e1e7f96a594ea",
+    "content_sha256": "2af0bdb2bf7f3f0d3bb2394040a93cc1af48fd490a9e74c72d2aa1498e3e10ad",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -93,58 +87,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energianvändningen inom fiskesektorn",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Energimyndigheten",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Box 310, 631 04 Eskilstuna"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energianvändningen inom fiskesektorn",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
         }
       ],
       "table_headers": [],

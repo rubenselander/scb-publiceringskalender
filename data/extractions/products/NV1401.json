@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1401",
     "response_url": "https://www.scb.se/NV1401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/konkurser-och-offentliga-ackord/",
-    "fetched_at": "2026-10-05T13:13:20.208083Z",
+    "fetched_at": "2026-10-10T01:18:04.113103Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "39a2b58a019e15458408d6bcda9624e5cd906eb91d961e185846e2ba1578927d",
+    "content_sha256": "737b4c6ada6f0059b1db432caed175804affb8433059b410652d8fc46d47ff20",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Anställda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Konkurser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=108",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=108"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -231,83 +215,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV1401",
           "url": "https://metadata.scb.se/?produkt=NV1401"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konkurser och offentliga ackord",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tom Johansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 61 82",
-        "E-post",
-        "tom.johansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 61 82",
-          "href": "tel:010-479 61 82",
-          "url": "tel:010-479 61 82"
-        },
-        {
-          "text": "tom.johansson@scb.se",
-          "href": "mailto:tom.johansson@scb.se",
-          "url": "mailto:tom.johansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konkurser och offentliga ackord",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Anställda",
-        "Företag",
-        "Konkurser"
-      ],
-      "links": [
-        {
-          "text": "Anställda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Konkurser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=108",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=108"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0209",
     "response_url": "https://www.scb.se/UF0209",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/internationell-studentmobilitet-i-hogskolan/",
-    "fetched_at": "2026-10-05T13:15:14.428807Z",
+    "fetched_at": "2026-10-10T01:19:19.290039Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d24bc6173f0c2c229c33e7803203bb45c205d44bf393bbcf2597dcc7d484b9ae",
+    "content_sha256": "f17193580fb4c10fe06b7cf7d0c795c4588f608674fad25f1e2548b7e15b5253",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -483,122 +467,6 @@
         "Universitetskanslersämbetet"
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Internationell studentmobilitet i högskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Angelina Hauzar",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 29",
-        "E-post",
-        "angelina.hauzar@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 29",
-          "href": "tel:010-479 68 29",
-          "url": "tel:010-479 68 29"
-        },
-        {
-          "text": "angelina.hauzar@scb.se",
-          "href": "mailto:angelina.hauzar@scb.se",
-          "url": "mailto:angelina.hauzar@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Internationell studentmobilitet i högskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-563 085 00",
-        "E-post",
-        "analys@uka.se"
-      ],
-      "links": [
-        {
-          "text": "08-563 085 00",
-          "href": "tel:08-563 085 00",
-          "url": "tel:08-563 085 00"
-        },
-        {
-          "text": "analys@uka.se",
-          "href": "mailto:analys@uka.se",
-          "url": "mailto:analys@uka.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Internationell studentmobilitet i högskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Studenter",
-        "Universitet och högskola",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

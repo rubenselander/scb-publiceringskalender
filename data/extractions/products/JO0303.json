@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0303",
     "response_url": "https://www.scb.se/JO0303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/rundvirkespriser/",
-    "fetched_at": "2026-10-05T13:11:33.288067Z",
+    "fetched_at": "2026-10-10T01:16:36.806403Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "672b256f6c44ec1a47e6deff68f7f37ef69d4e21d4382930c4b83ba868710b09",
+    "content_sha256": "143d4c075e276cb1ba680891d66622ca9dced507d81cb02f734ffdb089d97c63",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    },
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -83,77 +72,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Rundvirkespriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Rundvirkespriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Priser",
-        "Skog"
-      ],
-      "links": [
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        },
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
         }
       ],
       "table_headers": [],

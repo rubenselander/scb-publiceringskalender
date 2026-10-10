@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0206",
     "response_url": "https://www.scb.se/SO0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/familjeradgivning/kommunal-familjeradgivning/",
-    "fetched_at": "2026-10-05T13:14:26.997757Z",
+    "fetched_at": "2026-10-10T01:18:44.842574Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a99d9f6b5a09813af12ef0241d5de0edd89d8a36085f281194275dbd8e1f8bb2",
+    "content_sha256": "de5f6828cfc6feb4bae82a0c47f9221e28b76f7a9d516c14f630f2f110dda465",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Separationer",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=164",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=164"
-    },
-    {
-      "text": "Socialtjänst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Myndigheten för familjerätt och föräldraskapsstöd",
           "href": "https://www.mfof.se/",
           "url": "https://www.mfof.se/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om kommunal familjerådgivning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Malin Lundgren",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-190 11 05",
-        "E-post",
-        "malin.lundgren@mfof.se"
-      ],
-      "links": [
-        {
-          "text": "010-190 11 05",
-          "href": "tel:010-190 11 05",
-          "url": "tel:010-190 11 05"
-        },
-        {
-          "text": "malin.lundgren@mfof.se",
-          "href": "mailto:malin.lundgren@mfof.se",
-          "url": "mailto:malin.lundgren@mfof.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om kommunal familjerådgivning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Familj",
-        "Separationer",
-        "Socialtjänst"
-      ],
-      "links": [
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Separationer",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=164",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=164"
-        },
-        {
-          "text": "Socialtjänst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
         }
       ],
       "table_headers": [],

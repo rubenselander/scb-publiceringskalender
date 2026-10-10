@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1501",
     "response_url": "https://www.scb.se/NV1501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/svenska-koncerner-med-dotterbolag-i-utlandet/",
-    "fetched_at": "2026-10-05T13:13:20.814521Z",
+    "fetched_at": "2026-10-10T01:18:04.624556Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "54e5d685161ba39bc41244bfcc547e7deabe6ef68ca84b6811ba888017463b99",
+    "content_sha256": "3a7cbe46d5f4a7bfa1cad81b179f91c2a3306ae7a6f2a2cbee1684f3641261a2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Anställda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Omsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-    },
-    {
-      "text": "Internationella företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -108,89 +87,6 @@
           "text": "Tillväxtanalys",
           "href": "http://www.tillvaxtanalys.se/statistik.html",
           "url": "http://www.tillvaxtanalys.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svenska koncerner med dotterbolag i utlandet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tillväxtanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-447 44 00",
-        "E-post",
-        "info@tillvaxtanalys.se"
-      ],
-      "links": [
-        {
-          "text": "010-447 44 00",
-          "href": "tel:010-447 44 00",
-          "url": "tel:010-447 44 00"
-        },
-        {
-          "text": "info@tillvaxtanalys.se",
-          "href": "mailto:info@tillvaxtanalys.se",
-          "url": "mailto:info@tillvaxtanalys.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Svenska koncerner med dotterbolag i utlandet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Anställda",
-        "Företag",
-        "Omsättning",
-        "Internationella företag"
-      ],
-      "links": [
-        {
-          "text": "Anställda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Omsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-        },
-        {
-          "text": "Internationella företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
         }
       ],
       "table_headers": [],

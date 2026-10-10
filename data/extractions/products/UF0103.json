@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0103",
     "response_url": "https://www.scb.se/UF0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-05T13:14:49.752439Z",
+    "fetched_at": "2026-10-10T01:19:01.084510Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "00018024f6fa0946f217daa54f2b5709914c4ecedc23366c254c621ebc2e44ba",
+    "content_sha256": "ba814294b3691c0ca2ed9e91d5f466ee96acd9b5145863de1065bb671bd97a6c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -326,38 +326,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0103",
           "url": "https://metadata.scb.se/?produkt=UF0103"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieskolan: elever per 15 oktober",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

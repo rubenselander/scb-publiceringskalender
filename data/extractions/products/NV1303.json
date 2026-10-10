@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1303",
     "response_url": "https://www.scb.se/NV1303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-kvartal/",
-    "fetched_at": "2026-10-05T13:13:11.904138Z",
+    "fetched_at": "2026-10-10T01:18:03.099523Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6711ec69db3cfbba022121017b9371d73f178590081cb24db10b301cfce85f0b",
+    "content_sha256": "1c011851ca050f21937206d6ed81d9f48c878d097e116c0ffd172b61f30537e8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Entreprenörskap",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=272",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=272"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -104,84 +93,7 @@
       "paragraphs": [
         "Beskrivning av Nystartade företag"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Nystartade företag",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-kvartal/produktrelaterat/Fordjupad-information/beskrivning-av-nystartade-foretag/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-kvartal/produktrelaterat/Fordjupad-information/beskrivning-av-nystartade-foretag/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nystartade företag, kvartal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Johan Hansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 59",
-        "E-post",
-        "johan.hansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 59",
-          "href": "tel:010-479 63 59",
-          "url": "tel:010-479 63 59"
-        },
-        {
-          "text": "johan.hansson@scb.se",
-          "href": "mailto:johan.hansson@scb.se",
-          "url": "mailto:johan.hansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nystartade företag, kvartal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företag",
-        "Entreprenörskap"
-      ],
-      "links": [
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Entreprenörskap",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=272",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=272"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

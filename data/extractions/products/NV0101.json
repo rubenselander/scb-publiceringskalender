@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0101",
     "response_url": "https://www.scb.se/NV0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/ovrigt/foretagsdatabasen-fdb/",
-    "fetched_at": "2026-10-05T13:12:59.353012Z",
+    "fetched_at": "2026-10-10T01:17:53.028213Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5be1b02626fb7bd5569a306d6b4e11b7f753b86aa8655b41fd24e25ecd9d20f5",
+    "content_sha256": "e714472fc773474ec92a09acab68df1a5aa194345dc6945aea6d7b9f93359652",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": "2026-12-01",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetsställen",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=12",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=12"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "SNI",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=175",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=175"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -611,44 +595,6 @@
           "text": "scbforetag@scb.se",
           "href": "mailto:scbforetag@scb.se",
           "url": "mailto:scbforetag@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagsdatabasen (FDB)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsställen",
-        "Företag",
-        "SNI"
-      ],
-      "links": [
-        {
-          "text": "Arbetsställen",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=12",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=12"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "SNI",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=175",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=175"
         }
       ],
       "table_headers": [],

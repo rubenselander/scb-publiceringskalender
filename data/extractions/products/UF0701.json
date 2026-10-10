@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0701",
     "response_url": "https://www.scb.se/UF0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/",
-    "fetched_at": "2026-10-05T13:15:42.207932Z",
+    "fetched_at": "2026-10-10T01:19:40.663719Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3edb664b7b223371577771fd945d05eaf1bac9d8d34e45090f2846374868727f",
+    "content_sha256": "91add6858930d1ecab036e65ecd46d8d2f2b52cf63d2b6767d1f5f78a97f637f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -1355,109 +1355,7 @@
         "Definitioner av variabler för sökande, studerande och examinerade i yrkeshögskolan",
         "#fredagsdiagram YH.pdf"
       ],
-      "links": [
-        {
-          "text": "Föräldrars utbildningsnivå för studerande i yrkeshögskolan",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/produktrelaterat/fordjupad-information/foraldrars-utbildningsniva-for-studerande-i-yrkeshogskolan/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/produktrelaterat/fordjupad-information/foraldrars-utbildningsniva-for-studerande-i-yrkeshogskolan/"
-        },
-        {
-          "text": "Definitioner av variabler för sökande, studerande och examinerade i yrkeshögskolan",
-          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/definitioner-yh_20260428.xlsx",
-          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/definitioner-yh_20260428.xlsx"
-        },
-        {
-          "text": "#fredagsdiagram YH.pdf",
-          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/fredagsdiagram-yh-20251128.pdf",
-          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/fredagsdiagram-yh-20251128.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Yrkeshögskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Yrkeshögskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Yrkeshögskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Enheten för statistik om utbildning och arbete",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "yh-statistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "yh-statistik@scb.se",
-          "href": "mailto:yh-statistik@scb.se",
-          "url": "mailto:yh-statistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

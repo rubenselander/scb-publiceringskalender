@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0815",
     "response_url": "https://www.scb.se/MI0815",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/",
-    "fetched_at": "2026-10-05T13:12:40.680426Z",
+    "fetched_at": "2026-10-10T01:17:37.744728Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f551ce158fff39df7a24776abb4d5b8d36a7415ee2cf2245bc75b95623f02ca2",
+    "content_sha256": "456265c1df90bf1277a2ab26d8c762b5eca73468298c5bde6bf894910b7f5d95",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -701,18 +685,7 @@
         "SCB:s öppna geodata",
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "SCB:s öppna geodata",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/produktrelaterat/Fordjupad-information/scbs-oppna-geodata/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/produktrelaterat/Fordjupad-information/scbs-oppna-geodata/"
-        },
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/bcd0e32c9588488a95d896659d41a39d/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/bcd0e32c9588488a95d896659d41a39d/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -732,163 +705,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Verksamhetsområden och handelsområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Verksamhetsområden och handelsområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Linus Rispling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 69",
-        "E-post",
-        "linus.rispling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 69",
-          "href": "tel:010-479 45 69",
-          "url": "tel:010-479 45 69"
-        },
-        {
-          "text": "linus.rispling@scb.se",
-          "href": "mailto:linus.rispling@scb.se",
-          "url": "mailto:linus.rispling@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Verksamhetsområden och handelsområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jerker Moström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 40 31",
-        "E-post",
-        "jerker.mostrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 40 31",
-          "href": "tel:010-479 40 31",
-          "url": "tel:010-479 40 31"
-        },
-        {
-          "text": "jerker.mostrom@scb.se",
-          "href": "mailto:jerker.mostrom@scb.se",
-          "url": "mailto:jerker.mostrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Verksamhetsområden och handelsområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Bebyggelse",
-        "Markanvändning"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

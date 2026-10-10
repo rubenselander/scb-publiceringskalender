@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM5001",
     "response_url": "https://www.scb.se/FM5001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/",
-    "fetched_at": "2026-10-05T13:10:50.609603Z",
+    "fetched_at": "2026-10-10T01:15:59.466195Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b74ac3ed5ef7f162c7ffb3916981326af2eec43584a090035db888e12b72a0b5",
+    "content_sha256": "cd665662bbfc3d474eb587a56f591f4f5c9fb27418fcd157ab6f1ab733820513",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,33 +34,7 @@
   "notices": [
     "\"Bolåneräntor för räntekomponenten i KPI-beräkningen” finns nu endast som tabell i vår statistikdatabas nedan. Se In- och utlåningsräntor."
   ],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Lån",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-    },
-    {
-      "text": "Räntor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1141,164 +1115,7 @@
         "Beskrivning av Finansmarknadsstatistik",
         "Ordlista till Finansmarknadsstatistik (pdf)"
       ],
-      "links": [
-        {
-          "text": "Under huven på lånetillväxten (pdf)",
-          "href": "/contentassets/1e6704b3fcbf482cb2135b2010ce2eab/under-huven-pa-lanetillvaxten.pdf",
-          "url": "https://www.scb.se/contentassets/1e6704b3fcbf482cb2135b2010ce2eab/under-huven-pa-lanetillvaxten.pdf"
-        },
-        {
-          "text": "Noter till finansmarknadsstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/noter-till-finansmarknadsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/noter-till-finansmarknadsstatistik/"
-        },
-        {
-          "text": "Beskrivning av Finansmarknadsstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-finansmarknadsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-finansmarknadsstatistik/"
-        },
-        {
-          "text": "Ordlista till Finansmarknadsstatistik (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/ordlista-till-finansmarknadsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansmarknadsstatistik/finansmarknadsstatistik/produktrelaterat/Fordjupad-information/ordlista-till-finansmarknadsstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansmarknadsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansmarknadsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansmarknadsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "fmr@scb.se"
-      ],
-      "links": [
-        {
-          "text": "fmr@scb.se",
-          "href": "mailto:fmr@scb.se",
-          "url": "mailto:fmr@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansmarknadsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Hushåll",
-        "Lån",
-        "Räntor",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Lån",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-        },
-        {
-          "text": "Räntor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=162",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=162"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

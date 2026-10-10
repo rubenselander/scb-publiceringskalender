@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0305",
     "response_url": "https://www.scb.se/MI0305",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/",
-    "fetched_at": "2026-10-05T13:12:26.983948Z",
+    "fetched_at": "2026-10-10T01:17:24.125123Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "439f1d11a08f1d6b2a422fb6845e9737167e462343b5f8f6d4092f86f1bcd908",
+    "content_sha256": "ac208fae61f839ad828b9745c9ea34016c35952024340c7527cd8d43b1550b18",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Avfall",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -490,120 +484,7 @@
         "Manual för avfallsdata (Eurostat)",
         "Avfallsstatistikförordningen"
       ],
-      "links": [
-        {
-          "text": "SMED",
-          "href": "http://www.smed.se/",
-          "url": "http://www.smed.se/"
-        },
-        {
-          "text": "Manual för avfallsdata (Eurostat)",
-          "href": "http://ec.europa.eu/eurostat/documents/3859598/5926045/KS-RA-13-015-EN.PDF/055ad62c-347b-4315-9faa-0a1ebcb1313e",
-          "url": "http://ec.europa.eu/eurostat/documents/3859598/5926045/KS-RA-13-015-EN.PDF/055ad62c-347b-4315-9faa-0a1ebcb1313e"
-        },
-        {
-          "text": "Avfallsstatistikförordningen",
-          "href": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32010R0849",
-          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32010R0849"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, uppkommet och behandlat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Alexander Dimberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 44 17",
-        "E-post",
-        "alexander.dimberg@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 44 17",
-          "href": "tel:010-479 44 17",
-          "url": "tel:010-479 44 17"
-        },
-        {
-          "text": "alexander.dimberg@scb.se",
-          "href": "mailto:alexander.dimberg@scb.se",
-          "url": "mailto:alexander.dimberg@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, uppkommet och behandlat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Naturvårdsverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "avfallsstatistik@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "avfallsstatistik@naturvardsverket.se",
-          "href": "mailto:avfallsstatistik@naturvardsverket.se",
-          "url": "mailto:avfallsstatistik@naturvardsverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, uppkommet och behandlat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avfall"
-      ],
-      "links": [
-        {
-          "text": "Avfall",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

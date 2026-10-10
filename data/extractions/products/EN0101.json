@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0101",
     "response_url": "https://www.scb.se/EN0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-flerbostadshus/",
-    "fetched_at": "2026-10-05T13:10:27.721179Z",
+    "fetched_at": "2026-10-10T01:15:35.502768Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6e13e631c52ec10128c441d503f97c0d635791901eec1402b2790261ce96634c",
+    "content_sha256": "feccc647cff6e48f34e6607306b422f4dac1036849130b4090e0a4ce35ecc14f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Christoffer Tjärnberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 22 95",
-        "E-post",
-        "christoffer.tjarnberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 22 95",
-          "href": "tel:016-544 22 95",
-          "url": "tel:016-544 22 95"
-        },
-        {
-          "text": "christoffer.tjarnberg@energimyndigheten.se",
-          "href": "mailto:christoffer.tjarnberg@energimyndigheten.se",
-          "url": "mailto:christoffer.tjarnberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för flerbostadshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El",
-        "Hushåll",
-        "Lägenheter"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
         }
       ],
       "table_headers": [],

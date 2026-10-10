@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0504",
     "response_url": "https://www.scb.se/MI0504",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/miljo-och-halsofarliga-kemikalier/",
-    "fetched_at": "2026-10-05T13:12:33.617012Z",
+    "fetched_at": "2026-10-10T01:17:30.418045Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ee89d8db1af8aa07ba675eeeab389179e3e8d36351c47edd382339db3a3461d4",
+    "content_sha256": "55fd52e5fdafd81aab53fcbaab5cd0352ec6dddea81998f32e23c71e23de664d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Kemikalier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -373,86 +367,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=MI0504",
           "url": "https://metadata.scb.se/?produkt=MI0504"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljö- och hälsofarliga kemikalier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljö- och hälsofarliga kemikalier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljö- och hälsofarliga kemikalier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Kemikalier"
-      ],
-      "links": [
-        {
-          "text": "Kemikalier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0209",
     "response_url": "https://www.scb.se/AM0209",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/",
-    "fetched_at": "2026-10-05T13:10:08.292114Z",
+    "fetched_at": "2026-10-10T01:15:20.453501Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7c19a845784c59a7c65b23c0d788cf9fd7dd9cfb7e6e504e24a04b208c594e84",
+    "content_sha256": "ca1027c26a7a600422d4d896e95ed79e4beab9153e6e8309ed9fda1cfa0677fa",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,18 +27,7 @@
   "notices": [
     "Ingen fortsatt redovisning av KSju Publicering av kvartal 4 2023 är sista publiceringen av undersökningen Konjunkturstatistik över sjuklöner (KSju). Användare hänvisas till den nya statistiken Anställningar ."
   ],
-  "tags": [
-    {
-      "text": "Sjukfrånvaro",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-    },
-    {
-      "text": "Sjuklön",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=167",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=167"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -545,104 +534,7 @@
         "Bortfall och övertäckning",
         "Ny redovisning på grund av nya sektorkoder (pdf)"
       ],
-      "links": [
-        {
-          "text": "Bortfall och övertäckning",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/bortfall-och-overtackning/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/bortfall-och-overtackning/"
-        },
-        {
-          "text": "Ny redovisning på grund av nya sektorkoder (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/ny-redovisning-pa-grund-av-nya-sektorkoder-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/produktrelaterat/Fordjupad-information/ny-redovisning-pa-grund-av-nya-sektorkoder-pdf/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik över sjuklöner (KSju)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik över sjuklöner (KSju)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konjunkturstatistik över sjuklöner (KSju)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Sjukfrånvaro",
-        "Sjuklön"
-      ],
-      "links": [
-        {
-          "text": "Sjukfrånvaro",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-        },
-        {
-          "text": "Sjuklön",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=167",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=167"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0501",
     "response_url": "https://www.scb.se/NV0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/",
-    "fetched_at": "2026-10-05T13:13:07.038661Z",
+    "fetched_at": "2026-10-10T01:17:59.535467Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "36ff2bd5cbcacd5889655f2cf1beb9b76d5a963a5532c3ddd647bdb72f281e5b",
+    "content_sha256": "aeb5c0a083646cebc01a11c16e830a0a55aa0366323399dd721809b219347b3d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,37 +21,11 @@
   "short_address": "https://www.scb.se/nv0501",
   "summary": "Statistiken är urvals- och registerbaserad och avser att månadsvis mäta de kortsiktiga förändringarna i industrins orderingång och omsättning, såväl totalt som uppdelat på branscher och hemma- respektive exportmarknad. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-11-10",
+  "next_publication_date": "2026-11-10",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "Industri",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
-    },
-    {
-      "text": "Omsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-    },
-    {
-      "text": "Order",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=146",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=146"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -62,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-11-10",
         "Statistiken är urvals- och registerbaserad och avser att månadsvis mäta de kortsiktiga förändringarna i industrins orderingång och omsättning, såväl totalt som uppdelat på branscher och hemma- respektive exportmarknad. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-11-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0501&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0501&period=Forward1Year"
         }
@@ -90,9 +64,9 @@
       ],
       "paragraphs": [
         "Industrins orderingång (säsongrensat)",
-        "99,9",
+        "108,8",
         "Index 2021=100",
-        "Referenstid: juli 2026"
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -112,7 +86,7 @@
         }
       ],
       "paragraphs": [
-        "-0,5 %",
+        "5,1 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -133,7 +107,7 @@
         }
       ],
       "paragraphs": [
-        "-24,1 %",
+        "2,0 %",
         "jämfört med föregående period"
       ],
       "links": [],
@@ -154,14 +128,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-10",
-        "Industrins totala orderingång minskade med 24,1 procent i juli 2026 jämfört med juni 2026, i säsongsrensade tal. Jämfört med juli föregående år minskade orderingången med 0,5 procent i kalenderkorrigerade tal."
+        "2026-10-09",
+        "Industrins totala orderingång ökade med 2,0 procent i augusti 2026 jämfört med juli 2026 mätt i fasta priser, kalenderkorrigerade och säsongrensade tal. Jämfört med augusti 2025 ökade orderingången med 5,1 procent mätt i fasta priser och kalenderkorrigerade tal."
       ],
       "links": [
         {
-          "text": "Industrins orderingång minskade i juli 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/pong/statistiknyhet/industrins-orderingang-och-omsattning-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/pong/statistiknyhet/industrins-orderingang-och-omsattning-juli-2026/"
+          "text": "Industrins orderingång ökade i augusti 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/pong/statistiknyhet/industrins-orderingang-och-omsattning-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/pong/statistiknyhet/industrins-orderingang-och-omsattning-augusti-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -246,17 +220,17 @@
         [
           "Industrins orderingång",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Industrins orderingång och produktion",
           "Diagram",
-          "2026-09-10"
+          "2026-10-09"
         ],
         [
           "Förändringstal",
           "Tabell",
-          "2026-09-10"
+          "2026-10-09"
         ]
       ]
     },
@@ -300,12 +274,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Industrins orderingång, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M07",
+          "text": "Industrins orderingång, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndOrd2010M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndOrd2010M"
         },
         {
-          "text": "Industrins omsättning, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M07",
+          "text": "Industrins omsättning, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLev2010M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLev2010M"
         }
@@ -320,12 +294,12 @@
           "Datum"
         ],
         [
-          "Industrins orderingång, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M07",
-          "2026-09-10"
+          "Industrins orderingång, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M08",
+          "2026-10-09"
         ],
         [
-          "Industrins omsättning, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M07",
-          "2026-09-10"
+          "Industrins omsättning, 2021=100, efter marknad och näringsgren SNI2007. Månad 2000M01 - 2026M08",
+          "2026-10-09"
         ]
       ]
     },
@@ -786,164 +760,7 @@
         "Förändringar i statistiken – Industrins omsättning - april 2023 (pdf)",
         "Tillämpning av revideringspolicy (pdf)"
       ],
-      "links": [
-        {
-          "text": "Vanliga frågor och svar – Produktion inom näringslivet (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/produktrelaterat/Fordjupad-information/faq-pin/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/produktrelaterat/Fordjupad-information/faq-pin/"
-        },
-        {
-          "text": "Förändringar i statistiken – Industrins orderingång - april 2024 (pdf)",
-          "href": "/contentassets/b4d932b21dee4782989de69645f9ba1a/forandringar-i-statistiken---industrins-orderingang---april-2024.pdf",
-          "url": "https://www.scb.se/contentassets/b4d932b21dee4782989de69645f9ba1a/forandringar-i-statistiken---industrins-orderingang---april-2024.pdf"
-        },
-        {
-          "text": "Förändringar i statistiken – Industrins omsättning - april 2023 (pdf)",
-          "href": "/contentassets/b4d932b21dee4782989de69645f9ba1a/forandringar_i_statistiken-industrins_omsattning-april_2023.pdf",
-          "url": "https://www.scb.se/contentassets/b4d932b21dee4782989de69645f9ba1a/forandringar_i_statistiken-industrins_omsattning-april_2023.pdf"
-        },
-        {
-          "text": "Tillämpning av revideringspolicy (pdf)",
-          "href": "/contentassets/b4d932b21dee4782989de69645f9ba1a/tillampningsdokument-revideringar_20261001.pdf",
-          "url": "https://www.scb.se/contentassets/b4d932b21dee4782989de69645f9ba1a/tillampningsdokument-revideringar_20261001.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins orderingång och omsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins orderingång och omsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins orderingång och omsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "pin@scb.se"
-      ],
-      "links": [
-        {
-          "text": "pin@scb.se",
-          "href": "mailto:pin@scb.se",
-          "url": "mailto:pin@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Industrins orderingång och omsättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företagsekonomi",
-        "Index",
-        "Industri",
-        "Omsättning",
-        "Order"
-      ],
-      "links": [
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "Industri",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=92",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=92"
-        },
-        {
-          "text": "Omsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=145",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=145"
-        },
-        {
-          "text": "Order",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=146",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=146"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

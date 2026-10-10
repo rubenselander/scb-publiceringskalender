@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0110",
     "response_url": "https://www.scb.se/JO0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/",
-    "fetched_at": "2026-10-05T13:11:23.290379Z",
+    "fetched_at": "2026-10-10T01:16:26.965363Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a2ab2ba6ce3b414bc3d4b628ca812980a3108b411d438b10c8c5825cb673ada3",
+    "content_sha256": "b494657c278e4d83c2038ccd06b8238149203c40d0468a07f62e72a1170ac54c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -697,76 +691,7 @@
         "Beskrivning av Höstsådda arealer",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Höstsådda arealer",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/produktrelaterat/Fordjupad-information/beskrivning-av-hostsadda-arealer/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/produktrelaterat/Fordjupad-information/beskrivning-av-hostsadda-arealer/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/hostsadda-arealer/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Höstsådda arealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lantbruksstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lantbruksstatistik@scb.se",
-          "href": "mailto:lantbruksstatistik@scb.se",
-          "url": "mailto:lantbruksstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Höstsådda arealer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

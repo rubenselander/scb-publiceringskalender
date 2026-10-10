@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM9903",
     "response_url": "https://www.scb.se/AM9903",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/",
-    "fetched_at": "2026-10-05T13:10:16.550104Z",
+    "fetched_at": "2026-10-10T01:15:27.204435Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fabdad99eca1f5dec5a5bf397eeb2e9b389766f20a9d1dcd628822e04f32d1b0",
+    "content_sha256": "999cfcb60755f914c550e0174d877b88b24b7ea0ddf67a71db7db6fdf26b36a8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Näringsliv",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=140",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -396,84 +385,7 @@
       "paragraphs": [
         "Artikelregister för Fokus på näringsliv och arbetsmarknad"
       ],
-      "links": [
-        {
-          "text": "Artikelregister för Fokus på näringsliv och arbetsmarknad",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/produktrelaterat/Fordjupad-information/artikelregister-for-fokus-pa-naringsliv-och-arbetsmarknad/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/fokus-pa-naringsliv-och-arbetsmarknad/produktrelaterat/Fordjupad-information/artikelregister-for-fokus-pa-naringsliv-och-arbetsmarknad/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fokus på näringsliv och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Andreas Lennmalm",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 40 54",
-        "E-post",
-        "andreas.lennmalm@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 40 54",
-          "href": "tel:010-479 40 54",
-          "url": "tel:010-479 40 54"
-        },
-        {
-          "text": "andreas.lennmalm@scb.se",
-          "href": "mailto:andreas.lennmalm@scb.se",
-          "url": "mailto:andreas.lennmalm@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fokus på näringsliv och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Näringsliv"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Näringsliv",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=140",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=140"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

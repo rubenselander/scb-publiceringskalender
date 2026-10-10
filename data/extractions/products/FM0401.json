@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0401",
     "response_url": "https://www.scb.se/FM0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/banker-och-kreditmarknadsforetag-tillgangar-och-skulder/",
-    "fetched_at": "2026-10-05T13:10:48.125894Z",
+    "fetched_at": "2026-10-10T01:15:56.290713Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "68b63ec779a1974fa2dedcce41a11c1b623ef5e6c9c162e88154c5aab96a8bf2",
+    "content_sha256": "9f90c9759c750b2302cb5e067888dabed17ff7ab34cb76ffc73c3f18db76bbd4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,18 +34,7 @@
   "notices": [
     "2022-04-01. MFI:s utlåning till hushåll med säkerhet bostad har korrigerats så att en tidigare dubbelräknad post har rättats."
   ],
-  "tags": [
-    {
-      "text": "Lån",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -419,70 +408,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=FM0401",
           "url": "https://metadata.scb.se/?produkt=FM0401"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Banker och kreditmarknadsföretag, tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "fmr@scb.se"
-      ],
-      "links": [
-        {
-          "text": "fmr@scb.se",
-          "href": "mailto:fmr@scb.se",
-          "url": "mailto:fmr@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Banker och kreditmarknadsföretag, tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Lån",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Lån",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=121",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=121"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

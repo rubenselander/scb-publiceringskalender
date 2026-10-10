@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1301",
     "response_url": "https://www.scb.se/JO1301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/",
-    "fetched_at": "2026-10-05T13:11:54.199154Z",
+    "fetched_at": "2026-10-10T01:16:57.216653Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3ca248a318f8e47bb69151023d970fd1ac91d18af5760781bf762cfa676d9c45",
+    "content_sha256": "74d7e7f7f86e28047dc0a007a8dbe1c017a708888ca956ff45187c7547557758",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Livsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -423,83 +417,7 @@
         "Skräddarsydd statistik",
         "Beskrivning av Livsmedelsstatistik"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        },
-        {
-          "text": "Beskrivning av Livsmedelsstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-livsmedelsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/livsmedelsstatistik/produktrelaterat/Fordjupad-information/beskrivning-av-livsmedelsstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Livsmedelsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Livsmedelsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Livsmedel"
-      ],
-      "links": [
-        {
-          "text": "Livsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=118",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=118"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

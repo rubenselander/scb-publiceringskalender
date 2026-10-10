@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1002",
     "response_url": "https://www.scb.se/MI1002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/",
-    "fetched_at": "2026-10-05T13:12:43.244958Z",
+    "fetched_at": "2026-10-10T01:17:40.326363Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bf930aeb10294de50b9d316865715e8ea2883043e04da0566d8af5a59ad7f738",
+    "content_sha256": "20f18cd46185ad67e81919947daf1cd14e87932e37fe05bd36d68186fb0a4e1c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Gödsel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -798,90 +782,7 @@
       "paragraphs": [
         "Beskrivning av Försäljning av mineralgödsel till jord- och trädgårdsbruk"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Försäljning av mineralgödsel till jord- och trädgårdsbruk",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/produktrelaterat/Fordjupad-information/beskrivning-av-forsaljning-av-mineralgodsel-till-jord--och-tradgardsbruk/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/produktrelaterat/Fordjupad-information/beskrivning-av-forsaljning-av-mineralgodsel-till-jord--och-tradgardsbruk/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäljning av mineralgödsel för jord- och trädgårdsbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Lea Wedén",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 13",
-        "E-post",
-        "lea.weden@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 13",
-          "href": "tel:010-479 60 13",
-          "url": "tel:010-479 60 13"
-        },
-        {
-          "text": "lea.weden@scb.se",
-          "href": "mailto:lea.weden@scb.se",
-          "url": "mailto:lea.weden@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäljning av mineralgödsel för jord- och trädgårdsbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gödsel",
-        "Jordbruk",
-        "Miljö"
-      ],
-      "links": [
-        {
-          "text": "Gödsel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

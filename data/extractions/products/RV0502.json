@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0502",
     "response_url": "https://www.scb.se/RV0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/aterfall-i-brott/aterfall-i-brott--slutlig-statistik/",
-    "fetched_at": "2026-10-05T13:14:02.427296Z",
+    "fetched_at": "2026-10-10T01:18:28.801391Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "cb28a85bb4498d1d3af0336a6595d7702a80635aa536d0cd145cfaea3edb106c",
+    "content_sha256": "03746d830caa5226b78a991eceeff0e75b98dfa75af9b3af7fa8087c712095a0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Brott",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-    },
-    {
-      "text": "Straff",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=263",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=263"
-    },
-    {
-      "text": "Återfall i brott",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=264",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=264"
-    },
-    {
-      "text": "Påföljd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=266",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=266"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Återfall i brott – slutlig statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Återfall i brott – slutlig statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Brott",
-        "Straff",
-        "Återfall i brott",
-        "Påföljd"
-      ],
-      "links": [
-        {
-          "text": "Brott",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=260",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=260"
-        },
-        {
-          "text": "Straff",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=263",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=263"
-        },
-        {
-          "text": "Återfall i brott",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=264",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=264"
-        },
-        {
-          "text": "Påföljd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=266",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=266"
         }
       ],
       "table_headers": [],

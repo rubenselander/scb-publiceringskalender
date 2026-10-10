@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR9999",
     "response_url": "https://www.scb.se/NR9999",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/",
-    "fetched_at": "2026-10-05T13:12:57.693233Z",
+    "fetched_at": "2026-10-10T01:17:51.516330Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "76f1a0d22678fcd8651c03485023b82f532ef178181d676a8cc33fb420662575",
+    "content_sha256": "3a59d8e1eef1eba7974b8a34e7b6a71914f952f375b4d93ab9d275d16a8d868f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nr9999",
   "summary": "Här publiceras statistik som har anknytning till nationalräkenskaperna, såsom den månadsvisa BNP-indikatorn, nationalförmögenheten, hushållsfördelningsräkenskaper och multifaktorproduktiviteten.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-10-29",
+  "next_publication_date": "2026-10-29",
   "responsible_agency": null,
   "notices": [
     "För närvarande är ingen uppdatering av statistiken över multifaktorproduktivitet planerad."
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-10-29",
         "Här publiceras statistik som har anknytning till nationalräkenskaperna, såsom den månadsvisa BNP-indikatorn, nationalförmögenheten, hushållsfördelningsräkenskaper och multifaktorproduktiviteten."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-10-29",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR9999&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR9999&period=Forward1Year"
         }
@@ -85,14 +85,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-10",
-        "Sveriges BNP minskade med 0,8 procent i juli, säsongrensat och jämfört med föregående månad enligt BNP-indikatorns preliminära sammanställning. Kalenderkorrigerad BNP var 2,5 procent högre än i motsvarande månad föregående år."
+        "2026-10-09",
+        "Sveriges BNP ökade med 1,1 procent i augusti, säsongrensat och jämfört med föregående månad enligt BNP-indikatorns preliminära sammanställning. Kalenderkorrigerad BNP var 3,5 procent högre än i motsvarande månad föregående år."
       ],
       "links": [
         {
-          "text": "Lägre BNP i juli",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-juli-2026/"
+          "text": "Högre BNP i augusti",
+          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-augusti-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -191,7 +191,7 @@
         [
           "BNP-indikator månad, tidsserier och revideringshistorik",
           "Excel-fil",
-          "2026-09-10"
+          "2026-10-09"
         ]
       ]
     },
@@ -361,7 +361,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M07",
+          "text": "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR9999ENS2010BNPIndN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR9999ENS2010BNPIndN"
         }
@@ -376,8 +376,8 @@
           "Datum"
         ],
         [
-          "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M07",
-          "2026-09-10"
+          "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M08",
+          "2026-10-09"
         ]
       ]
     },
@@ -665,92 +665,6 @@
           "text": "Visa äldre rapporter (82)",
           "href": "https://www.scb.se/hitta-statistik/sok/?Query=NR9999&Tab=older&Exact=true",
           "url": "https://www.scb.se/hitta-statistik/sok/?Query=NR9999&Tab=older&Exact=true"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Nationalräkenskaper",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "nrinfo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "nrinfo@scb.se",
-          "href": "mailto:nrinfo@scb.se",
-          "url": "mailto:nrinfo@scb.se"
         }
       ],
       "table_headers": [],

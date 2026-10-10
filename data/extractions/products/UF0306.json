@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0306",
     "response_url": "https://www.scb.se/UF0306",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/statliga-anslag-till-forskning-och-utveckling/",
-    "fetched_at": "2026-10-05T13:15:20.316744Z",
+    "fetched_at": "2026-10-10T01:19:23.330295Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d73b40c6f971927f34995dff6a14739992d3de905ea87fba1991287530e749e8",
+    "content_sha256": "d1c4be3ca170cffe5ec6865c56217c90d931e07ed7a9962e61229a6d71bf176d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": "2026-12-09",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Forskning och utveckling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-    },
-    {
-      "text": "Investeringar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
-    },
-    {
-      "text": "Utgifter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -581,90 +565,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Under 2017 beräknas regeringen avsätta 36,7 miljarder kronor till forskning och utveckling (FoU), visar SCB:s statistik. Det är 2,3 miljarder kronor mer än förra året. Liksom tidigare år går nästan 4 procent av statsbudgeten till finansiering av FoU och som andel av BNP beräknas regeringens satsningar motsvara 0,8 procent."
-      ],
-      "links": [
-        {
-          "text": "Regeringen satsar 37 miljarder kronor på FoU 2017",
-          "href": "/hitta-statistik/artiklar/2017/Regeringen-satsar-37-miljarder-kronor-pa-FoU-2017/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Regeringen-satsar-37-miljarder-kronor-pa-FoU-2017/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-04-06"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Högskola",
-        "Politik och demokrati",
-        "Sveriges ekonomi"
-      ],
-      "links": [
-        {
-          "text": "Högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles"
-        },
-        {
-          "text": "Politik och demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=308&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=308&selection=articles"
-        },
-        {
-          "text": "Sveriges ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=313&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=313&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1050,130 +950,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0306",
           "url": "https://metadata.scb.se/?produkt=UF0306"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "fou-statistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "fou-statistik@scb.se",
-          "href": "mailto:fou-statistik@scb.se",
-          "url": "mailto:fou-statistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statliga anslag till forskning och utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Forskning och utveckling",
-        "Investeringar",
-        "Utgifter"
-      ],
-      "links": [
-        {
-          "text": "Forskning och utveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-        },
-        {
-          "text": "Investeringar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
-        },
-        {
-          "text": "Utgifter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=204",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=204"
         }
       ],
       "table_headers": [],

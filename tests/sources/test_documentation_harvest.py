@@ -305,3 +305,47 @@ def test_selected_agency_cannot_clear_family_failure(harvest, monkeypatch):
     state = json.loads((fetch.DATA / "state.json").read_text())
     assert state["last_failures"] == ["sam"]
     assert state["last_completed_sam"] == "2025-01-01"
+
+
+def test_exports_carry_scb_subject_labels_and_drop_retired_files(harvest):
+    for source in ("scb", "siris"):
+        directory = parse.RAW / source
+        directory.mkdir(parents=True)
+        content = (FIXTURES / f"{source}.json").read_text("utf-8")
+        (directory / ("1.json" if source == "scb" else "form.jsonl")).write_text(
+            content if source == "scb" else json.dumps(json.loads(content)) + "\n", "utf-8"
+        )
+    parse.DOK.mkdir()
+    for name in ("scb_dokument.jsonl", "scb_dokument.csv", "siris_dokument.csv", "sam_dokument.csv"):
+        (parse.DOK / name).write_text("stale")
+    parse.main(["--as-of", "2026-10-05"])
+    docs = [json.loads(line) for line in (parse.DOK / "dokument.jsonl").read_text("utf-8").splitlines()]
+    scb = [d for d in docs if d["source"] == "scb"]
+    assert scb and all(d["subject_area"] and d["statistics_area"] for d in scb)
+    assert all(d["subject_area"] is None for d in docs if d["source"] != "scb")
+    siris = [json.loads(line) for line in (parse.DOK / "siris_dokument.jsonl").read_text("utf-8").splitlines() if line]
+    assert all(row["doc_type"] in parse.SIRIS_DOC_TYPES for row in siris)
+    names = {path.name for path in parse.DOK.iterdir()}
+    assert {"dokument.csv", "produkter.csv", "siris_dokument.jsonl"} <= names
+    assert not names & {"scb_dokument.jsonl", "scb_dokument.csv", "siris_dokument.csv", "sam_dokument.csv"}
+
+
+def test_missing_scb_capture_reuses_previous_scb_documents(harvest, monkeypatch):
+    parse.DOK.mkdir()
+    previous = {
+        "source": "scb", "agency": None, "product_code": "AM0101", "product_name": None,
+        "product_match": "code", "doc_type": "kvalitetsdeklaration", "year": "2025",
+        "title": "Product – KD 2025", "url": "https://www.scb.se/am0101_kd_2025.pdf",
+        "filetype": "pdf", "source_url": "https://www.scb.se/index", "heading": "Kvalitet",
+        "subject_area": "Arbetsmarknad", "statistics_area": "Sysselsättning",
+        "document_id": "old", "candidate_product_code": None, "review_required": False,
+        "source_status": "legacy", "provenance": {},
+    }
+    (parse.DOK / "dokument.jsonl").write_text(json.dumps(previous, ensure_ascii=False) + "\n", "utf-8")
+    monkeypatch.setattr(parse, "parse_siris", list)
+    monkeypatch.setattr(parse, "parse_sam", list)
+    parse.main(["--as-of", "2026-10-05"])
+    (doc,) = [json.loads(line) for line in (parse.DOK / "dokument.jsonl").read_text("utf-8").splitlines()]
+    assert doc["url"] == previous["url"]
+    assert (doc["subject_area"], doc["statistics_area"]) == ("Arbetsmarknad", "Sysselsättning")
+    assert doc["product_code"] == "AM0101"

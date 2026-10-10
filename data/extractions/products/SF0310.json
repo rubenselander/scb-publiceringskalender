@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0310",
     "response_url": "https://www.scb.se/SF0310",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/allman-pension-och-pensionsrelaterade-formaner/pensioner-och-pensionsrelaterade-formaner-i-det-allmanna-pensionssystemet/",
-    "fetched_at": "2026-10-05T13:14:23.825701Z",
+    "fetched_at": "2026-10-10T01:18:42.758916Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6eed98987c20ee7eb9f3cb867b275320de9722de3f4a2458c2288ee9c9cf4d67",
+    "content_sha256": "0cc5545e9283a2a51b5588978fcf42748e824c3bbc113f19427aa3ba8e8f5a4f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Pension",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=150",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=150"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -78,64 +72,6 @@
           "text": "Pensionsmyndigheten",
           "href": "http://www.pensionsmyndigheten.se/Statistik.html",
           "url": "http://www.pensionsmyndigheten.se/Statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Pensioner och pensionsrelaterade förmåner i det allmänna pensionssystemet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Pensionsmyndigheten",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "statistik@pensionsmyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "statistik@pensionsmyndigheten.se",
-          "href": "mailto:statistik@pensionsmyndigheten.se",
-          "url": "mailto:statistik@pensionsmyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Pensioner och pensionsrelaterade förmåner i det allmänna pensionssystemet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Pension"
-      ],
-      "links": [
-        {
-          "text": "Pension",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=150",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=150"
         }
       ],
       "table_headers": [],

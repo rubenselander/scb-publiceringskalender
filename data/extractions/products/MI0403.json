@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0403",
     "response_url": "https://www.scb.se/MI0403",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/miljotillstandet-relaterat-till-halsa/",
-    "fetched_at": "2026-10-05T13:12:29.929083Z",
+    "fetched_at": "2026-10-10T01:17:27.018804Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d4187dc6106db517b10fe0843c08edd94f761f648be1eb5a06717dc764fb0d2e",
+    "content_sha256": "fc770fb9431cf8a4d2f006e03672c9e9c81a4d51890ea3e3aaf5b273810f36bc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Naturvårdsverket",
           "href": "https://www.naturvardsverket.se/data-och-statistik/",
           "url": "https://www.naturvardsverket.se/data-och-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljötillståndet relaterat till hälsa",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Karin Norström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-698 10 65",
-        "E-post",
-        "karin.norstrom@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "010-698 10 65",
-          "href": "tel:010-698 10 65",
-          "url": "tel:010-698 10 65"
-        },
-        {
-          "text": "karin.norstrom@naturvardsverket.se",
-          "href": "mailto:karin.norstrom@naturvardsverket.se",
-          "url": "mailto:karin.norstrom@naturvardsverket.se"
         }
       ],
       "table_headers": [],

@@ -1,4 +1,4 @@
-"""Output contracts for SCB products, subject hierarchy and documentation.
+"""Output contracts for SCB products, the subject hierarchy and the A-Z index.
 
 Generate JSON Schema with a root model's model_json_schema(). Displayed source
 text is preserved; inferred identifiers must be explicitly attributed.
@@ -118,28 +118,13 @@ class DocumentationEntry(SourceModel):
     link: SourceLink
 
 
-class DocumentationPage(SourceModel):
-    """Observed documentation section of a statistical product page.
-
-    has_documentation_section=False is a successful inspected-page observation,
-    not a fetch failure. An externally maintained product can have no section.
-    """
-
-    provenance: Provenance
-    title: str
-    product_code: str | None = Field(pattern=r"^[A-Z]{2}[0-9]{4}$")
-    has_documentation_section: bool
-    groups: list[ContentGroup] = Field(default_factory=list)
-
-
 class DocumentationIndex(SourceModel):
-    """A-Z index and bounded section captures; document contents are out of scope."""
+    """A-Z documentation index, used to discover product pages beyond the calendar."""
 
     record_type: Literal["documentation_index"] = "documentation_index"
     provenance: Provenance
     title: str
     introduction: str | None
     entries: list[DocumentationEntry]
-    pages: list[DocumentationPage] = Field(default_factory=list)
     traversal_complete: bool
     unfetched_page_urls: list[str] = Field(default_factory=list)

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0806",
     "response_url": "https://www.scb.se/MI0806",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/fritidshusomraden/",
-    "fetched_at": "2026-10-05T13:12:37.723741Z",
+    "fetched_at": "2026-10-10T01:17:34.879790Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a703571d47c62edbca05e33075a2cf41705f1e5a5eee4220143b68486d3ab9fa",
+    "content_sha256": "9b6f20d39e5106a37356dd34d60a638b4d99dd1cc89853fd4600e3063e297aeb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Fritidshus",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -292,96 +276,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Det finns knappt 580 000 fritidshus i landet. Av dessa ligger 25 procent så tätt att de kan grupperas till fritidshusområden. Många av de sammanlagt nästan 1 200 fritidshusområdena ligger längs kusten och i fjälltrakterna."
-      ],
-      "links": [
-        {
-          "text": "Flest fritidshusområden i Norrtälje",
-          "href": "/hitta-statistik/artiklar/2017/Flest-fritidshusomraden-i-Norrtalje/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Flest-fritidshusomraden-i-Norrtalje/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-06-09"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Boende och byggande",
-        "Glesbygd",
-        "Kartor",
-        "Regionalt"
-      ],
-      "links": [
-        {
-          "text": "Boende och byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=290&selection=articles"
-        },
-        {
-          "text": "Glesbygd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=296&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=296&selection=articles"
-        },
-        {
-          "text": "Kartor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=302&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=302&selection=articles"
-        },
-        {
-          "text": "Regionalt",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=316&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -574,23 +468,7 @@
         "SCB:s kartsök för regionala indelningar",
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Fritidshusområden Öppna data",
-          "href": "/hitta-statistik/regional-statistik-och-kartor/geodata/oppna-geodata/fritidshusomraden/",
-          "url": "https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/geodata/oppna-geodata/fritidshusomraden/"
-        },
-        {
-          "text": "SCB:s kartsök för regionala indelningar",
-          "href": "http://geodata.scb.se/reginawebmap/main/webapp/",
-          "url": "http://geodata.scb.se/reginawebmap/main/webapp/"
-        },
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/39f8da4883df4c1c9ef8e489b3b355b0/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/39f8da4883df4c1c9ef8e489b3b355b0/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -610,164 +488,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Karin Hedeklint",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 14",
-        "E-post",
-        "karin.hedeklint@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 14",
-          "href": "tel:010-479 45 14",
-          "url": "tel:010-479 45 14"
-        },
-        {
-          "text": "karin.hedeklint@scb.se",
-          "href": "mailto:karin.hedeklint@scb.se",
-          "url": "mailto:karin.hedeklint@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00",
-        "E-post",
-        "information@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        },
-        {
-          "text": "information@scb.se",
-          "href": "mailto:information@scb.se",
-          "url": "mailto:information@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidshusområden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bebyggelse",
-        "Fritidshus",
-        "Markanvändning"
-      ],
-      "links": [
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Fritidshus",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=63",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=63"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

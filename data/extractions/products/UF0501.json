@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0501",
     "response_url": "https://www.scb.se/UF0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/elevpaneler-for-longitudinella-studier/",
-    "fetched_at": "2026-10-05T13:15:25.163303Z",
+    "fetched_at": "2026-10-10T01:19:26.768992Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3c44c7f3459815867151a3312e36ea67b58e12335c221fec6afa64edfdffb275",
+    "content_sha256": "d1ad6b06d339c82a2c71d8a00f2b8692c289f727bca36df554a7119d48d027ba",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Elever",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=47",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=47"
-    },
-    {
-      "text": "Grundskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-    },
-    {
-      "text": "Modersmål",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=133",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=133"
-    },
-    {
-      "text": "Stödundervisning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=186",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=186"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1418,90 +1397,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0501",
           "url": "https://metadata.scb.se/?produkt=UF0501"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elevpaneler för longitudinella studier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00",
-        "E-post",
-        "information@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        },
-        {
-          "text": "information@scb.se",
-          "href": "mailto:information@scb.se",
-          "url": "mailto:information@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Elevpaneler för longitudinella studier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Elever",
-        "Grundskola",
-        "Modersmål",
-        "Stödundervisning"
-      ],
-      "links": [
-        {
-          "text": "Elever",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=47",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=47"
-        },
-        {
-          "text": "Grundskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-        },
-        {
-          "text": "Modersmål",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=133",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=133"
-        },
-        {
-          "text": "Stödundervisning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=186",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=186"
         }
       ],
       "table_headers": [],

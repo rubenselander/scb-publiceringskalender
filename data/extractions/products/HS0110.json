@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0110",
     "response_url": "https://www.scb.se/HS0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/sjukdomar-i-sluten-vard/",
-    "fetched_at": "2026-10-05T13:11:08.369858Z",
+    "fetched_at": "2026-10-10T01:16:17.332054Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d8f2bb52b93cff11bbf8bb53949439e81ded576d3fd14873d69035af66ef08b5",
+    "content_sha256": "a671f1705f6577009ce5eabba9aed6c1201a4f66466e9d7a0d349842788fa3a1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/hs0110",
   "summary": "Statistiken visar bland annat antalet patienter som vårdats, fördelat på sjukdomsgrupper, ålder och kön.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-06",
-  "next_publication_date": "2026-10-06",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Socialstyrelsen (SoS)",
     "link": {
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Patienter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=148",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=148"
-    },
-    {
-      "text": "Hälso- och sjukvård",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -59,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-06",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar bland annat antalet patienter som vårdats, fördelat på sjukdomsgrupper, ålder och kön."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-06",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HS0110&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HS0110&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -88,83 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om sjukdomar behandlade i sluten vård",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om sjukdomar behandlade i sluten vård",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Hälsa och ohälsa",
-        "Patienter",
-        "Hälso- och sjukvård"
-      ],
-      "links": [
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Patienter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=148",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=148"
-        },
-        {
-          "text": "Hälso- och sjukvård",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0120",
     "response_url": "https://www.scb.se/EN0120",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/leveranser-av-fordonsgas-och-vatgas/",
-    "fetched_at": "2026-10-05T13:10:36.222454Z",
+    "fetched_at": "2026-10-10T01:15:44.444163Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e581dba7eea7dc4370c130708cc97848c415985f8c1f6b8a46988258339c11f3",
+    "content_sha256": "eb5202bbd79d66b9aaefff4e81a9c632f85c396d66f436571c506840cb3fc6e5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -560,71 +554,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=EN0120",
           "url": "https://metadata.scb.se/?produkt=EN0120"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Leveranser av fordonsgas och vätgas",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Monica Leonardsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 81",
-        "E-post",
-        "monica.leonardsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 81",
-          "href": "tel:010-479 62 81",
-          "url": "tel:010-479 62 81"
-        },
-        {
-          "text": "monica.leonardsson@scb.se",
-          "href": "mailto:monica.leonardsson@scb.se",
-          "url": "mailto:monica.leonardsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Leveranser av fordonsgas och vätgas",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
         }
       ],
       "table_headers": [],

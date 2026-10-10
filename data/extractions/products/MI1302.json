@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1302",
     "response_url": "https://www.scb.se/MI1302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/",
-    "fetched_at": "2026-10-05T13:12:47.924683Z",
+    "fetched_at": "2026-10-10T01:17:44.226128Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "76ec0b7aeb586f45a125ebc90d194978ddbc72d30c891cb03c271bfa48eb4df1",
+    "content_sha256": "52cd0d491fa1c09591e4b4405fd1d47479fc5ea330cfbb58f7ee19750de3cc64",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,27 +21,11 @@
   "short_address": "https://www.scb.se/mi1302",
   "summary": "Miljöskydd är aktiviteter som har som mål att behandla eller förebygga utsläpp. Kopplat till detta finns kostnader inom områdena luft, vatten, avfall, skydd av mark och grundvatten, buller, biologisk mångfald, skydd mot strålning, forskning och utveckling och övrigt miljöskydd (information och utbildning).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-08",
-  "next_publication_date": "2026-10-08",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Avfall",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-    },
-    {
-      "text": "Grön ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=75",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=75"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -52,16 +36,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-08",
+        "Nästa publicering: Ingen planerad",
         "Miljöskydd är aktiviteter som har som mål att behandla eller förebygga utsläpp. Kopplat till detta finns kostnader inom områdena luft, vatten, avfall, skydd av mark och grundvatten, buller, biologisk mångfald, skydd mot strålning, forskning och utveckling och övrigt miljöskydd (information och utbildning)."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-08",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1302&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1302&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -79,14 +57,14 @@
         }
       ],
       "paragraphs": [
-        "2026-01-22",
-        "De totala kostnaderna för miljöskydd ökade 2024 jämfört med 2023. Miljöområdena vatten, avfall och luft stod för de största ökningarna."
+        "2026-10-08",
+        "De totala kostnaderna för miljöskydd år 2025 stannade på samma nivå som 2024. Miljöområdet mark och grundvatten var det enda område som hade ökade investeringar."
       ],
       "links": [
         {
-          "text": "Stora investeringar i miljöskydd 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/statistiknyhet/miljoskyddskostnader-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/statistiknyhet/miljoskyddskostnader-2024/"
+          "text": "Fortsatt stora miljöskyddsinvesteringar i vatten 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/statistiknyhet/miljoskyddskostnader-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/statistiknyhet/miljoskyddskostnader-2025/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -142,24 +120,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Industrins investeringar i miljöskydd per miljöområde, 2001-2024. Korrigerad 2026-03-17",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-investeringar-i-miljoskydd-per-miljoomrade-2001-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-investeringar-i-miljoskydd-per-miljoomrade-2001-2024/"
+          "text": "Industrins investeringar i miljöskydd per miljöområde, 2001-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-investeringar-i-miljoskydd-per-miljoomrade-2001-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-investeringar-i-miljoskydd-per-miljoomrade-2001-2025/"
         },
         {
-          "text": "Industrins totala utgifter för miljöskydd per bransch, 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-totala-utgifter-for-miljoskydd-per-bransch-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-totala-utgifter-for-miljoskydd-per-bransch-2024/"
-        },
-        {
-          "text": "Industrins totala miljöskyddskostnader, 2001–2024. Korrigerad 2026-03-17",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-totala-miljoskyddskostnader-20012024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-totala-miljoskyddskostnader-20012024/"
-        },
-        {
-          "text": "Industrins löpande miljöskyddskostnader per miljöområde, 2001-2024. Korrigerad 2026-03-17",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-lopande-miljoskyddskostnader-per-miljoomrade-2001-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-lopande-miljoskyddskostnader-per-miljoomrade-2001-2024/"
+          "text": "Industrins löpande miljöskyddskostnader per miljöområde, 2001-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-lopande-miljoskyddskostnader-per-miljoomrade-2001-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/pong/tabell-och-diagram/industrins-lopande-miljoskyddskostnader-per-miljoomrade-2001-2025/"
         }
       ],
       "table_headers": [
@@ -174,24 +142,14 @@
           "Datum"
         ],
         [
-          "Industrins investeringar i miljöskydd per miljöområde, 2001-2024. Korrigerad 2026-03-17",
+          "Industrins investeringar i miljöskydd per miljöområde, 2001-2025",
           "Diagram",
-          "2026-03-17"
+          "2026-10-08"
         ],
         [
-          "Industrins totala utgifter för miljöskydd per bransch, 2024",
-          "Tabell",
-          "2026-01-22"
-        ],
-        [
-          "Industrins totala miljöskyddskostnader, 2001–2024. Korrigerad 2026-03-17",
-          "Tabell",
-          "2026-03-17"
-        ],
-        [
-          "Industrins löpande miljöskyddskostnader per miljöområde, 2001-2024. Korrigerad 2026-03-17",
+          "Industrins löpande miljöskyddskostnader per miljöområde, 2001-2025",
           "Diagram",
-          "2026-03-17"
+          "2026-10-08"
         ]
       ]
     },
@@ -235,22 +193,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Miljöskyddsinvesteringar i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2024",
+          "text": "Miljöskyddsinvesteringar i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostInvSNI2007",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostInvSNI2007"
         },
         {
-          "text": "Miljöskyddskostnader i industrin efter kostnadsslag och miljöområde.  År 2001 - 2024",
+          "text": "Miljöskyddskostnader i industrin efter kostnadsslag och miljöområde.  År 2001 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostSlagOm2007",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostSlagOm2007"
         },
         {
-          "text": "Miljöskyddskostnader i industrin efter näringsgren SNI 2007 och kostnadsslag. År 2001 - 2024",
+          "text": "Miljöskyddskostnader i industrin efter näringsgren SNI 2007 och kostnadsslag. År 2001 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostSlagSNI2007",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostSlagSNI2007"
         },
         {
-          "text": "Löpande miljöskyddskostnader i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2024",
+          "text": "Löpande miljöskyddskostnader i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostLopSNI2007",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoKostLopSNI2007"
         }
@@ -265,20 +223,20 @@
           "Datum"
         ],
         [
-          "Miljöskyddsinvesteringar i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2024",
-          "2026-03-17"
+          "Miljöskyddsinvesteringar i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2025",
+          "2026-10-08"
         ],
         [
-          "Miljöskyddskostnader i industrin efter kostnadsslag och miljöområde.  År 2001 - 2024",
-          "2026-03-17"
+          "Miljöskyddskostnader i industrin efter kostnadsslag och miljöområde.  År 2001 - 2025",
+          "2026-10-08"
         ],
         [
-          "Miljöskyddskostnader i industrin efter näringsgren SNI 2007 och kostnadsslag. År 2001 - 2024",
-          "2026-03-17"
+          "Miljöskyddskostnader i industrin efter näringsgren SNI 2007 och kostnadsslag. År 2001 - 2025",
+          "2026-10-08"
         ],
         [
-          "Löpande miljöskyddskostnader i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2024",
-          "2026-03-17"
+          "Löpande miljöskyddskostnader i industrin efter näringsgren SNI 2007 och miljöområde. År 2001 - 2025",
+          "2026-10-08"
         ]
       ]
     },
@@ -557,78 +515,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Industriföretagens kostnader för att minska sin miljöpåverkan har varit oförändrade i Sverige sedan 2001. Det visar statistik från SCB, som varje år mäter företagens investeringar och löpande kostnader för miljöskydd."
-      ],
-      "links": [
-        {
-          "text": "Industrins kostnader för miljöskydd står stilla",
-          "href": "/hitta-statistik/artiklar/2017/Industrins-kostnader-for-miljoskydd-star-stilla/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Industrins-kostnader-for-miljoskydd-star-stilla/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljöskyddskostnader",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-09-07"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljöskyddskostnader",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Miljö och hållbar utveckling"
-      ],
-      "links": [
-        {
-          "text": "Miljö och hållbar utveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=306&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=306&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljöskyddskostnader",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -684,6 +570,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -711,6 +598,11 @@
         "2000 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_kd_2025_20261008.pdf",
+          "url": "https://www.scb.se/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_kd_2025_20261008.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_kd_2024_20260122.pdf",
@@ -859,6 +751,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -881,6 +774,11 @@
         "1999–2000 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_staf_2025_20261008.pdf",
+          "url": "https://www.scb.se/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_staf_2025_20261008.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/5c671de894c247a7aa6560cdb0b06e34/mi1302_staf_2024_20260122.pdf",
@@ -1035,83 +933,7 @@
       "paragraphs": [
         "Eurostat: Environmental protection expenditure accounts"
       ],
-      "links": [
-        {
-          "text": "Eurostat: Environmental protection expenditure accounts",
-          "href": "https://ec.europa.eu/eurostat/databrowser/product/page/ENV_EPEA_NEEP",
-          "url": "https://ec.europa.eu/eurostat/databrowser/product/page/ENV_EPEA_NEEP"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljöskyddskostnader",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "miljorakenskaper@scb.se"
-      ],
-      "links": [
-        {
-          "text": "miljorakenskaper@scb.se",
-          "href": "mailto:miljorakenskaper@scb.se",
-          "url": "mailto:miljorakenskaper@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Miljöskyddskostnader",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avfall",
-        "Grön ekonomi",
-        "Miljö"
-      ],
-      "links": [
-        {
-          "text": "Avfall",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-        },
-        {
-          "text": "Grön ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=75",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=75"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

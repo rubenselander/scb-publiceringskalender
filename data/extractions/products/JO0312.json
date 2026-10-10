@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0312",
     "response_url": "https://www.scb.se/JO0312",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/bruttoavverkning/",
-    "fetched_at": "2026-10-05T13:11:37.494142Z",
+    "fetched_at": "2026-10-10T01:16:40.919608Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d965efb656f24a84d615137eefb09f3f9acc2883cf13f9d6877afde444a3a942",
+    "content_sha256": "f7410f425c2595b5bf5cedac9c9b3e2ce2f24ef88d5ee7ebdd7548c4abb3b35f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    },
-    {
-      "text": "Skogsmark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,77 +66,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avverkning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avverkning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Skog",
-        "Skogsmark"
-      ],
-      "links": [
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-        },
-        {
-          "text": "Skogsmark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
         }
       ],
       "table_headers": [],

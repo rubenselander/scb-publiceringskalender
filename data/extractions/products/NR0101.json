@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0101",
     "response_url": "https://www.scb.se/NR0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-tidigare-definitioner/",
-    "fetched_at": "2026-10-05T13:12:52.167661Z",
+    "fetched_at": "2026-10-10T01:17:47.798766Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e23ef573161354817cb367ad216ac7f38f95ef0fb2768cf0f7cd1cdc63683cfa",
+    "content_sha256": "b8613636996bac024cf6abcd30f786f6de449ff6a9c02a14f9bc39575d499e74",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "BNP",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-    },
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Konjunktur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1161,98 +1145,6 @@
           "1999-03-10"
         ]
       ]
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, tidigare definitioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, tidigare definitioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationalräkenskaper, tidigare definitioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Ekonomi",
-        "Konjunktur"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Konjunktur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
     },
     {
       "heading_path": [

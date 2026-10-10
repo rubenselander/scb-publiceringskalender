@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0521",
     "response_url": "https://www.scb.se/UF0521",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/",
-    "fetched_at": "2026-10-05T13:15:33.489374Z",
+    "fetched_at": "2026-10-10T01:19:33.417682Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2049b3feff57bad6e58920a0f6980cc4a2ed6f89301f60e5dc174bb65c8244ee",
+    "content_sha256": "da1c438906eabf5fb5a255b629ace4260265346a16b64379372c8438225abf1c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,22 +21,11 @@
   "short_address": "https://www.scb.se/uf0521",
   "summary": "Här finns analyser om kompetensförsörjning och olika rapporter om sambandet mellan utbildning och arbetsmarknad. Här hittar du också SCB:s statistik om arbetskraftsinvandring till Sverige.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2026-10-13",
+  "next_publication_date": "2026-10-13",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -47,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2026-10-13",
         "Här finns analyser om kompetensförsörjning och olika rapporter om sambandet mellan utbildning och arbetsmarknad. Här hittar du också SCB:s statistik om arbetskraftsinvandring till Sverige."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-13",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0521&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0521&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -550,186 +545,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "I framtiden väntas betydande brist på vård- och omsorgsutbildade. Även om intresset bland gymnasieungdomar skulle öka och betydligt fler skulle examineras från komvux är risken stor att antalet utbildade inte når upp till efterfrågan år 2035."
-      ],
-      "links": [
-        {
-          "text": "Stora insatser krävs för att klara 40-talisternas äldreomsorg",
-          "href": "/hitta-statistik/artiklar/2016/Stora-insatser-kravs-for-att-klara-40-talisternas-aldreomsorg/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2016/Stora-insatser-kravs-for-att-klara-40-talisternas-aldreomsorg/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2016-03-07"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Utbildning",
-        "Äldreomsorg",
-        "Äldre"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Äldreomsorg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=235&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=235&selection=articles"
-        },
-        {
-          "text": "Äldre",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=281&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=281&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Lärarbristen fortsätter att vara ett stort problem för skolan. År 2013 arbetade nästan 40 000 lärarutbildade i andra yrken utanför skolan. Det motsvarar knappt en av sex lärarutbildade som ur skolans perspektiv kan betraktas som en outnyttjad resurs."
-      ],
-      "links": [
-        {
-          "text": "40 000 lärare arbetar inte med undervisning",
-          "href": "/hitta-statistik/artiklar/2016/40-000-larare-arbetar-inte-med-undervisning/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2016/40-000-larare-arbetar-inte-med-undervisning/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2016-02-03"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Skola",
-        "Utbildning",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Skola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=171&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=171&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -919,38 +734,7 @@
         "Work in Sweden - SCBs prognoser utifrån Trender och prognoser 2023 (pdf)",
         "Work in Sweden - OECD:s indikatorramverk för talangattraktion (pdf)"
       ],
-      "links": [
-        {
-          "text": "Fredagsdiagram arbetskraftsinvandring 2026 (pdf)",
-          "href": "/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-arbetskraftsinvandring-2026.pdf",
-          "url": "https://www.scb.se/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-arbetskraftsinvandring-2026.pdf"
-        },
-        {
-          "text": "Fredagsdiagram utbildning & arbetsmarknad 2026 (pdf)",
-          "href": "/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-utbildning-och-arbetsmarknad_2026-10-02.pdf",
-          "url": "https://www.scb.se/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-utbildning-och-arbetsmarknad_2026-10-02.pdf"
-        },
-        {
-          "text": "Fredagsdiagram utbildning & arbetsmarknad 2025 (pdf)",
-          "href": "/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-utbildning-och-arbetsmarknad_2025-12-19.pdf",
-          "url": "https://www.scb.se/contentassets/ee787f0ad1754813bcad846e298a3325/fredagsdiagram-utbildning-och-arbetsmarknad_2025-12-19.pdf"
-        },
-        {
-          "text": "Skräddarsydd statistitk",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        },
-        {
-          "text": "Work in Sweden - SCBs prognoser utifrån Trender och prognoser 2023 (pdf)",
-          "href": "/contentassets/ee787f0ad1754813bcad846e298a3325/work-in-sweden-scbs-prognoser-utifran-trender-och-prognoser-2023_ver1.0.pdf",
-          "url": "https://www.scb.se/contentassets/ee787f0ad1754813bcad846e298a3325/work-in-sweden-scbs-prognoser-utifran-trender-och-prognoser-2023_ver1.0.pdf"
-        },
-        {
-          "text": "Work in Sweden - OECD:s indikatorramverk för talangattraktion (pdf)",
-          "href": "/contentassets/ee787f0ad1754813bcad846e298a3325/work-in-sweden-oecds-indikatorramverk-for-talangattraktion.pdf",
-          "url": "https://www.scb.se/contentassets/ee787f0ad1754813bcad846e298a3325/work-in-sweden-oecds-indikatorramverk-for-talangattraktion.pdf"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -973,38 +757,6 @@
           "text": "prognosinstitutet@scb.se",
           "href": "mailto:prognosinstitutet@scb.se",
           "url": "mailto:prognosinstitutet@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Analyser om utbildning och arbetsmarknad",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Utbildning"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
         }
       ],
       "table_headers": [],

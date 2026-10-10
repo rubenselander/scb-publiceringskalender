@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1001",
     "response_url": "https://www.scb.se/NV1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/foretagens-demografi/",
-    "fetched_at": "2026-10-05T13:13:09.736090Z",
+    "fetched_at": "2026-10-10T01:18:01.771914Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3f299b191bbf8b9d2819169409f5748b3fc2cfb6f62fdf90ededb82a93a2c3c8",
+    "content_sha256": "d9c9e15c48cebd025fe2d09ce56a1fa4ce0c9bc4e3f0250f88bfabb5caa1d887",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -72,45 +72,6 @@
           "text": "Tillväxtanalys",
           "href": "http://www.tillvaxtanalys.se/statistik.html",
           "url": "http://www.tillvaxtanalys.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens demografi",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tillväxtanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-447 44 00",
-        "E-post",
-        "info@tillvaxtanalys.se"
-      ],
-      "links": [
-        {
-          "text": "010-447 44 00",
-          "href": "tel:010-447 44 00",
-          "url": "tel:010-447 44 00"
-        },
-        {
-          "text": "info@tillvaxtanalys.se",
-          "href": "mailto:info@tillvaxtanalys.se",
-          "url": "mailto:info@tillvaxtanalys.se"
         }
       ],
       "table_headers": [],

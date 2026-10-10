@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1104",
     "response_url": "https://www.scb.se/JO1104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/fritidsfiske/",
-    "fetched_at": "2026-10-05T13:11:53.104871Z",
+    "fetched_at": "2026-10-10T01:16:55.952230Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "34fb4fe1dc92c6f73eb4cf564cae062acaf63990b49c74de31b078345b9ae35f",
+    "content_sha256": "37029427ddc79437b75d7c6d2069014b19c93f87ef712da4fa793e7227f867e2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Fiske",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -641,18 +635,7 @@
         "Bortfallsredovisning 2025.xlsx",
         "Bortfallsredovisning 2024.xlsx"
       ],
-      "links": [
-        {
-          "text": "Bortfallsredovisning 2025.xlsx",
-          "href": "/contentassets/c57eb1c55a4b48c3b0ef4ee263534296/bortfallsredovisning_2025.xlsx",
-          "url": "https://www.scb.se/contentassets/c57eb1c55a4b48c3b0ef4ee263534296/bortfallsredovisning_2025.xlsx"
-        },
-        {
-          "text": "Bortfallsredovisning 2024.xlsx",
-          "href": "/contentassets/c57eb1c55a4b48c3b0ef4ee263534296/bortfallsredovisning-2024.xlsx",
-          "url": "https://www.scb.se/contentassets/c57eb1c55a4b48c3b0ef4ee263534296/bortfallsredovisning-2024.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -673,71 +656,6 @@
         "Havs- och vattenmyndigheten"
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidsfiske",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Gustav Blomqvist",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010 – 698 62 59",
-        "E-post",
-        "gustav.blomqvist@havochvatten.se"
-      ],
-      "links": [
-        {
-          "text": "010 – 698 62 59",
-          "href": "tel:010 – 698 62 59",
-          "url": "tel:010 – 698 62 59"
-        },
-        {
-          "text": "gustav.blomqvist@havochvatten.se",
-          "href": "mailto:gustav.blomqvist@havochvatten.se",
-          "url": "mailto:gustav.blomqvist@havochvatten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fritidsfiske",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fiske"
-      ],
-      "links": [
-        {
-          "text": "Fiske",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

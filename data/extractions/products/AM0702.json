@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0702",
     "response_url": "https://www.scb.se/AM0702",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/",
-    "fetched_at": "2026-10-05T13:10:14.985646Z",
+    "fetched_at": "2026-10-10T01:15:26.193448Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "36b5b30f529e48413a08138dcf570da2d16a2f82ed15fb8ef68c52aabc4b45c1",
+    "content_sha256": "aea1506e5a77257c15bafd99db77662560c8359867276bd80226eb4f3eaf7c03",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -30,23 +30,7 @@
     "Rekryteringserfarenheter och rekryteringsbehov : rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
     "Rekryteringserfarenheter och rekryteringsbehov per yrke : rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget."
   ],
-  "tags": [
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Konjunktur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-    },
-    {
-      "text": "Yrke",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -741,103 +725,7 @@
         "Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR",
         "Information om tidsseriebrott (pdf)"
       ],
-      "links": [
-        {
-          "text": "Frågor i undersökningen Lediga jobb och rekryteringsbehov (pdf)",
-          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/lor_forteckning-fragor_2026-01.pdf",
-          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/lor_forteckning-fragor_2026-01.pdf"
-        },
-        {
-          "text": "Webblankett, exempel (pdf)",
-          "href": "/contentassets/3f8346e153d94e888ffb430f344de1ca/lor_webblankett_2026-01.pdf",
-          "url": "https://www.scb.se/contentassets/3f8346e153d94e888ffb430f344de1ca/lor_webblankett_2026-01.pdf"
-        },
-        {
-          "text": "Yrkesgrupper i undersökningen LOR (xlsx)",
-          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/yrkesgrupper-i-lor_2024k3.xlsx",
-          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/yrkesgrupper-i-lor_2024k3.xlsx"
-        },
-        {
-          "text": "Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/"
-        },
-        {
-          "text": "Information om tidsseriebrott (pdf)",
-          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf",
-          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lediga jobb och rekryteringsbehov",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lor@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lor@scb.se",
-          "href": "mailto:lor@scb.se",
-          "url": "mailto:lor@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lediga jobb och rekryteringsbehov",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Konjunktur",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Konjunktur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

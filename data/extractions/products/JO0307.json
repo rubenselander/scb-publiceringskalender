@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0307",
     "response_url": "https://www.scb.se/JO0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-ekonomi/kostnader-och-intakter-i-det-storskaliga-skogsbruket/",
-    "fetched_at": "2026-10-05T13:11:35.214858Z",
+    "fetched_at": "2026-10-10T01:16:38.904064Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e0f16fa77cf4d1c787f299eba13f22025d11f8a89b14885e807525ac23202d4c",
+    "content_sha256": "3ef0eb5d91da3ed9ab0367d8e450a114b91abd49b41a7bb24aaae41c42959c62",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    },
-    {
-      "text": "Skogsmark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kostnader och intäkter i det storskaliga skogsbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kostnader och intäkter i det storskaliga skogsbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Skog",
-        "Skogsmark"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-        },
-        {
-          "text": "Skogsmark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
         }
       ],
       "table_headers": [],

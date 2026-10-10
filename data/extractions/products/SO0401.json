@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0401",
     "response_url": "https://www.scb.se/SO0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/insatser-till-aldre-och-personer-med-funktionsnedsattning/personer-med-funktionsnedsattning--insatser-enligt-lss/",
-    "fetched_at": "2026-10-05T13:14:32.278919Z",
+    "fetched_at": "2026-10-10T01:18:49.506266Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b48c53754693fac6e9d136b657ede157b3f8169f072eb588ff9a87eef4e8eca0",
+    "content_sha256": "4358127cce52661a56a0a7bd17057c013ef785d90eac24187d6febcf5b6aaf3f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "LSS",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=120",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=120"
-    },
-    {
-      "text": "Omsorg",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-    },
-    {
-      "text": "Funktionsnedsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -103,90 +87,7 @@
       "paragraphs": [
         "Situationen på arbetsmarknaden för personer med funktionsnedsättning"
       ],
-      "links": [
-        {
-          "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om insatser enligt lagen om stöd och service till vissa funktionshindrade",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om insatser enligt lagen om stöd och service till vissa funktionshindrade",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "LSS",
-        "Omsorg",
-        "Funktionsnedsättning"
-      ],
-      "links": [
-        {
-          "text": "LSS",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=120",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=120"
-        },
-        {
-          "text": "Omsorg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-        },
-        {
-          "text": "Funktionsnedsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

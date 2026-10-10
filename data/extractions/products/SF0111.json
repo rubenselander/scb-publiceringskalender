@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0111",
     "response_url": "https://www.scb.se/SF0111",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/barnbidrag/",
-    "fetched_at": "2026-10-05T13:14:12.259496Z",
+    "fetched_at": "2026-10-10T01:18:33.526697Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d46240d7514574d5332d45239c2ddfe7277f91a16fcd501550d042c5e48120d1",
+    "content_sha256": "8816b10fd1ed773246cb95fdb8ecba2eb759c15a103e04ee21cffc03cefb1d11",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Bidrag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Barnbidrag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Barnbidrag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Bidrag",
-        "Inkomst",
-        "Socialförsäkring"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Bidrag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
         }
       ],
       "table_headers": [],

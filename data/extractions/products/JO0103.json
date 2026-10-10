@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0103",
     "response_url": "https://www.scb.se/JO0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/",
-    "fetched_at": "2026-10-05T13:11:18.279554Z",
+    "fetched_at": "2026-10-10T01:16:23.371851Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2f22263dbde5766ea99f7c71084f8f0ec13d3e659ea33ee27e1d1e9d946691c0",
+    "content_sha256": "359b6c61873e3cc93acc7c6a7ca021094e06901d92e5309b123679fe24a36db4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Djur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -572,83 +566,7 @@
         "Beskrivning av Husdjursundesökningen",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Husdjursundesökningen",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/produktrelaterat/Fordjupad-information/beskrivning-av-husdjursundesokningen/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/produktrelaterat/Fordjupad-information/beskrivning-av-husdjursundesokningen/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lantbrukets djur i juni",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lantbrukets djur i juni",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Djur"
-      ],
-      "links": [
-        {
-          "text": "Djur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

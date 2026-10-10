@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1101",
     "response_url": "https://www.scb.se/JO1101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/det-yrkesmassiga-fisket-i-havet/",
-    "fetched_at": "2026-10-05T13:11:52.202794Z",
+    "fetched_at": "2026-10-10T01:16:55.018557Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "55d995c1ff6b0da41c28487e70b5ea8ab95a7b139fd4f3a0f3f7b32d6cee1476",
+    "content_sha256": "398227bb751a0a75548468f2531aada1fb1bc364d551a70f4224359ff7ed4a8f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Fiske",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-    },
-    {
-      "text": "Hav",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-    },
-    {
-      "text": "Yrkesfiske",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=259",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=259"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -261,98 +245,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO1101",
           "url": "https://metadata.scb.se/?produkt=JO1101"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Det yrkesmässiga fisket i havet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Det yrkesmässiga fisket i havet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Det yrkesmässiga fisket i havet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fiske",
-        "Hav",
-        "Yrkesfiske"
-      ],
-      "links": [
-        {
-          "text": "Fiske",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=56",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=56"
-        },
-        {
-          "text": "Hav",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=83",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=83"
-        },
-        {
-          "text": "Yrkesfiske",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=259",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=259"
         }
       ],
       "table_headers": [],

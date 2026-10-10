@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0601",
     "response_url": "https://www.scb.se/BO0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/",
-    "fetched_at": "2026-10-05T13:10:25.967311Z",
+    "fetched_at": "2026-10-10T01:15:33.929737Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dc83c8a40c726de1a611036e6472ae926fd21fcd01cfe9227d75152b85fdd2ed",
+    "content_sha256": "4c81dd9ee1671c00b83045cb0d5fda6e28c9bdd6eb757eac805ef394d40db12e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-12-16",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Lokaler",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-    },
-    {
-      "text": "Taxering",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=189",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=189"
-    },
-    {
-      "text": "Taxeringsvärde",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=190",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=190"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1459,133 +1438,7 @@
         "Skräddarsydd statistik",
         "Beskrivning av Fastighetstaxeringar och Fastighetstaxeringsregistret (FTR)"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        },
-        {
-          "text": "Beskrivning av Fastighetstaxeringar och Fastighetstaxeringsregistret (FTR)",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/produktrelaterat/Fordjupad-information/beskrivning-av-fastighetstaxeringar-och-fastighetstaxeringsregistret-ftr/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/produktrelaterat/Fordjupad-information/beskrivning-av-fastighetstaxeringar-och-fastighetstaxeringsregistret-ftr/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetstaxeringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetstaxeringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Magnus Walestad",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 44 18",
-        "E-post",
-        "magnus.walestad@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 44 18",
-          "href": "tel:010-479 44 18",
-          "url": "tel:010-479 44 18"
-        },
-        {
-          "text": "magnus.walestad@scb.se",
-          "href": "mailto:magnus.walestad@scb.se",
-          "url": "mailto:magnus.walestad@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetstaxeringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fastigheter",
-        "Lokaler",
-        "Taxering",
-        "Taxeringsvärde"
-      ],
-      "links": [
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Lokaler",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-        },
-        {
-          "text": "Taxering",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=189",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=189"
-        },
-        {
-          "text": "Taxeringsvärde",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=190",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=190"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1009",
     "response_url": "https://www.scb.se/TK1009",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/korstrackor/",
-    "fetched_at": "2026-10-05T13:14:43.714709Z",
+    "fetched_at": "2026-10-10T01:18:56.760923Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "affb62dc610357eb811cc0cd2df4c73df5f67e1e8c4221c5082b17f59d751e46",
+    "content_sha256": "304df3dfa3d8f80cf3dd43c0ba07ff24dbc54bcf627c3e4b8032dcf6b207e0cc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bilar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=28",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=28"
-    },
-    {
-      "text": "Fordon",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=59",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=59"
-    },
-    {
-      "text": "Lastbilar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-    },
-    {
-      "text": "Körsträckor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=284",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=284"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -432,50 +411,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=TK1009",
           "url": "https://metadata.scb.se/?produkt=TK1009"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Körsträckor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bilar",
-        "Fordon",
-        "Lastbilar",
-        "Körsträckor"
-      ],
-      "links": [
-        {
-          "text": "Bilar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=28",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=28"
-        },
-        {
-          "text": "Fordon",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=59",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=59"
-        },
-        {
-          "text": "Lastbilar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-        },
-        {
-          "text": "Körsträckor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=284",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=284"
         }
       ],
       "table_headers": [],

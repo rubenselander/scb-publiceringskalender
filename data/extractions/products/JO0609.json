@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0609",
     "response_url": "https://www.scb.se/JO0609",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/ekologisk-animalieproduktion/",
-    "fetched_at": "2026-10-05T13:11:45.465425Z",
+    "fetched_at": "2026-10-10T01:16:48.851148Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5fe4328dcfce2aa5c10f90282b7dd453c015528f45d424b529347757f1f82a5d",
+    "content_sha256": "5dcfa530747ab20567ca25e38f69b67f7e59ca4720a6324eecdef3bd603e0ae5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -418,45 +418,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0609",
           "url": "https://metadata.scb.se/?produkt=JO0609"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Ekologisk animalieproduktion",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
         }
       ],
       "table_headers": [],

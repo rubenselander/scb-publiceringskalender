@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0104",
     "response_url": "https://www.scb.se/AM0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/",
-    "fetched_at": "2026-10-05T13:10:00.623080Z",
+    "fetched_at": "2026-10-10T01:15:14.779646Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c1b43652fcc88bb13f698eb60b16d99d45d40a304601bfaf9d789101849c252b",
+    "content_sha256": "32540f867a8661f033053a9f1d0f373c55d45b3c1f5f34e0855e1dca13aa88ce",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Lön",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-    },
-    {
-      "text": "Yrke",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -903,146 +892,7 @@
         "Beskrivning av Lönestrukturstatistik, statlig sektor",
         "Sökfunktion för yrke (SSYK 2012)"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd statistik om löner",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/produktrelaterat/Fordjupad-information/skraddarsydd-statistik-om-loner/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/produktrelaterat/Fordjupad-information/skraddarsydd-statistik-om-loner/"
-        },
-        {
-          "text": "Övrig lönestrukturstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/produktrelaterat/Fordjupad-information/ovrig-lonestrukturstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/produktrelaterat/Fordjupad-information/ovrig-lonestrukturstatistik/"
-        },
-        {
-          "text": "Beskrivning av Lönestrukturstatistik, statlig sektor",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/produktrelaterat/Fordjupad-information/beskrivning-av-lonestrukturstatistik-statlig-sektor/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/produktrelaterat/Fordjupad-information/beskrivning-av-lonestrukturstatistik-statlig-sektor/"
-        },
-        {
-          "text": "Sökfunktion för yrke (SSYK 2012)",
-          "href": "https://ssyksok.scb.se/SsykSok/SSYK2012",
-          "url": "https://ssyksok.scb.se/SsykSok/SSYK2012"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönestrukturstatistik, statlig sektor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönestrukturstatistik, statlig sektor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönestrukturstatistik, statlig sektor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lonestat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lonestat@scb.se",
-          "href": "mailto:lonestat@scb.se",
-          "url": "mailto:lonestat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lönestrukturstatistik, statlig sektor",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Lön",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Lön",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=123",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=123"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

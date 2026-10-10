@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0105",
     "response_url": "https://www.scb.se/HE0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/",
-    "fetched_at": "2026-10-05T13:10:55.605301Z",
+    "fetched_at": "2026-10-10T01:16:05.787809Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "55ffc765197ad442b6975b67dae487853e59fcff8d6e235832d1c05f5925a58f",
+    "content_sha256": "8ba2f44523f17cd8581a0a836a46f6983b2e3dd3f0eac18ca5ceababa52ad467",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": "2026-11-13",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -570,78 +564,7 @@
       "paragraphs": [
         "Beskrivning av företagsregistret och individdatabasen FRIDA"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av företagsregistret och individdatabasen FRIDA",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/produktrelaterat/Fordjupad-information/beskrivning-av-foretagsregistret-och-individdatabasen-frida/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/foretagsregister-och-individdatabas-frida/produktrelaterat/Fordjupad-information/beskrivning-av-foretagsregistret-och-individdatabasen-frida/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagsregister och individdatabas (FRIDA)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Barbro Olsson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 11",
-        "E-post",
-        "barbro.olsson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 11",
-          "href": "tel:010-479 63 11",
-          "url": "tel:010-479 63 11"
-        },
-        {
-          "text": "barbro.olsson@scb.se",
-          "href": "mailto:barbro.olsson@scb.se",
-          "url": "mailto:barbro.olsson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagsregister och individdatabas (FRIDA)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företag"
-      ],
-      "links": [
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

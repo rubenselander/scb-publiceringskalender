@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/KU0105",
     "response_url": "https://www.scb.se/KU0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/folk--larosates--och-sjukhusbibliotek/",
-    "fetched_at": "2026-10-05T13:12:02.982719Z",
+    "fetched_at": "2026-10-10T01:17:03.561723Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "54a5a56b927e09e2c2312409324917b6da0ca8a45fc1d4c5db1e346810d8b26b",
+    "content_sha256": "5b8a9f205a184bc637d07c60cc1be91877eeae079d98476a22b9e9c91d170b10",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,43 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
-    },
-    {
-      "text": "Folkbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=241",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=241"
-    },
-    {
-      "text": "Sjukhusbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=242",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=242"
-    },
-    {
-      "text": "Universitetsbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=244",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=244"
-    },
-    {
-      "text": "Högskolebibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=245",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=245"
-    },
-    {
-      "text": "Specialbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=274",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=274"
-    },
-    {
-      "text": "Myndighetsbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=276",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=276"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -296,107 +260,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=KU0105",
           "url": "https://metadata.scb.se/?produkt=KU0105"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Folk-, lärosätes- och sjukhusbibliotek",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Cecilia Ranemo",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-709 36 39",
-        "E-post",
-        "cecilia.ranemo@kb.se"
-      ],
-      "links": [
-        {
-          "text": "010-709 36 39",
-          "href": "tel:010-709 36 39",
-          "url": "tel:010-709 36 39"
-        },
-        {
-          "text": "cecilia.ranemo@kb.se",
-          "href": "mailto:cecilia.ranemo@kb.se",
-          "url": "mailto:cecilia.ranemo@kb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Folk-, lärosätes- och sjukhusbibliotek",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bibliotek",
-        "Folkbibliotek",
-        "Sjukhusbibliotek",
-        "Universitetsbibliotek",
-        "Högskolebibliotek",
-        "Specialbibliotek",
-        "Myndighetsbibliotek"
-      ],
-      "links": [
-        {
-          "text": "Bibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
-        },
-        {
-          "text": "Folkbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=241",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=241"
-        },
-        {
-          "text": "Sjukhusbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=242",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=242"
-        },
-        {
-          "text": "Universitetsbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=244",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=244"
-        },
-        {
-          "text": "Högskolebibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=245",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=245"
-        },
-        {
-          "text": "Specialbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=274",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=274"
-        },
-        {
-          "text": "Myndighetsbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=276",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=276"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0201",
     "response_url": "https://www.scb.se/EN0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/",
-    "fetched_at": "2026-10-05T13:10:38.534341Z",
+    "fetched_at": "2026-10-10T01:15:46.699877Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "cb59def61a24c578c287066bfbc2f13ce26bd38acb6e961342fa00317f8bf6dc",
+    "content_sha256": "e5e73437bf66db97c5e0e575fb8e52863d307025b40e62a46400caa069ede51d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -35,18 +35,7 @@
     "Från och med publiceringen av Kvartalsvisa energibalanser kv 1 2018, 9 juli kommer ny statistik endast att publiceras hos Energimyndigheten.",
     "Energimyndighetens Statistikdatabas"
   ],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -583,45 +572,7 @@
       "paragraphs": [
         "Beskrivning av Energibalanser"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Energibalanser",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kvartalsvisa-energibalanser/produktrelaterat/Fordjupad-information/beskrivning-av-energibalanser/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kvartalsvisa energibalanser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

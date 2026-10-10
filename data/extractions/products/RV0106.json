@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0106",
     "response_url": "https://www.scb.se/RV0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brottsmisstankar/",
-    "fetched_at": "2026-10-05T13:13:50.660376Z",
+    "fetched_at": "2026-10-10T01:18:23.227281Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f48a3dd17f677fcc892961cea4cf11edc96ccec750810e95203d1c28c25a08fd",
+    "content_sha256": "cbda088a940850ae58340795fd78bc5c3295c84756399e70186f4ec76463d789",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -65,45 +65,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Handlagda brottsmisstankar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
         }
       ],
       "table_headers": [],

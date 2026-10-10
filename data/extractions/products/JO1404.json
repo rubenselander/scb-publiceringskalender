@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1404",
     "response_url": "https://www.scb.se/JO1404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/frivilliga-avsattningar-och-certifierad-areal/",
-    "fetched_at": "2026-10-05T13:11:56.918821Z",
+    "fetched_at": "2026-10-10T01:16:59.280432Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6a893c1a75c04def8fda778575d91deae637e4d79200b1f8c290a5157e053e2b",
+    "content_sha256": "0a4e0033cba0627597871b1a04d57a08a4e3f90085635ef307cbfa8dbf90c85c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Frivilliga avsättningar och certifierad areal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
         }
       ],
       "table_headers": [],

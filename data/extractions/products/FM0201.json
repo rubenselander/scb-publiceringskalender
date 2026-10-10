@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0201",
     "response_url": "https://www.scb.se/FM0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/aktieagarstatistik/aktieagarstatistik/",
-    "fetched_at": "2026-10-05T13:10:47.667603Z",
+    "fetched_at": "2026-10-10T01:15:55.733240Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "05bc0a2983717041058b7843f05cb28076ea152d4ce646df1b2ee01979e69f78",
+    "content_sha256": "8247a14a69c4903037f8bd72d703354e72a7dc59bcdf9145d89c7cccd3fa8f29",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0201",
   "summary": "Statistiken visar ägandet av aktier fördelat på samhällssektorer, utländska ägare, uppgifter om värdepapperskonton och antal noterade bolag fördelade på marknadsplats. För hushållen visas också andelen aktieägare i befolkningen, fördelat på kön, ålder, taxerad inkomst och genomsnittliga portföljstorlekar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-25",
+  "next_publication_date": "2027-02-25",
   "responsible_agency": {
     "label": "Finansinspektionen",
     "link": {
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Aktier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -54,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-25",
         "Statistiken visar ägandet av aktier fördelat på samhällssektorer, utländska ägare, uppgifter om värdepapperskonton och antal noterade bolag fördelade på marknadsplats. För hushållen visas också andelen aktieägare i befolkningen, fördelat på kön, ålder, taxerad inkomst och genomsnittliga portföljstorlekar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -966,134 +961,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=FM0201",
           "url": "https://metadata.scb.se/?produkt=FM0201"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktieägarstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Emil Jansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 43 57"
-      ],
-      "links": [
-        {
-          "text": "010-479 43 57",
-          "href": "tel:010-479 43 57",
-          "url": "tel:010-479 43 57"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktieägarstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Linus Eriksson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 90"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 90",
-          "href": "tel:010-479 63 90",
-          "url": "tel:010-479 63 90"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktieägarstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "aktieagarstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "aktieagarstatistik@scb.se",
-          "href": "mailto:aktieagarstatistik@scb.se",
-          "url": "mailto:aktieagarstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aktieägarstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Aktier",
-        "Hushåll"
-      ],
-      "links": [
-        {
-          "text": "Aktier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
         }
       ],
       "table_headers": [],

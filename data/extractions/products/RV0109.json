@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0109",
     "response_url": "https://www.scb.se/RV0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/nationella-trygghetsundersokningen/",
-    "fetched_at": "2026-10-05T13:13:54.327080Z",
+    "fetched_at": "2026-10-10T01:18:24.632311Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "88081dfffc06e9d18a64078b85c4c7be90d51d770df5fd8f99be8426d3f4b1ae",
+    "content_sha256": "e330e526775bc50186eac06b4cbb049fbf773e0bc16dc695d1515633a1735004",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -72,45 +72,6 @@
           "text": "Brottsförebyggande rådet (Brå)",
           "href": "https://www.bra.se/statistik.html",
           "url": "https://www.bra.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationella trygghetsundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Brottsförebyggande rådet",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-527 584 00",
-        "E-post",
-        "statistik@bra.se"
-      ],
-      "links": [
-        {
-          "text": "08-527 584 00",
-          "href": "tel:08-527 584 00",
-          "url": "tel:08-527 584 00"
-        },
-        {
-          "text": "statistik@bra.se",
-          "href": "mailto:statistik@bra.se",
-          "url": "mailto:statistik@bra.se"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0404",
     "response_url": "https://www.scb.se/UF0404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/nyttjande-av-studiestod/",
-    "fetched_at": "2026-10-05T13:15:24.612880Z",
+    "fetched_at": "2026-10-10T01:19:26.333709Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3e164183c252e55b6b52c8cd5c7c309ce9a54de72923093b7200153f563c4889",
+    "content_sha256": "14099c87d4f4e53c557e55bcdfa696dc66724f98f49fc148f0d0ccf09bd336a1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,48 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Folkhögskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=58",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=58"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Studiedeltagande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=185",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=185"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    },
-    {
-      "text": "Utbildningsnivå",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-    },
-    {
-      "text": "Vuxenutbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
-    },
-    {
-      "text": "Studiestöd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=246",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=246"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -123,106 +82,6 @@
           "text": "Centrala studiestödsnämnden (CSN)",
           "href": "https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html",
           "url": "https://www.csn.se/om-csn/statistik-och-rapporter/officiell-statistik-om-studiestod.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nyttjande av studiestöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Centrala studiestödsnämnden (CSN)",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "registrator@csn.se"
-      ],
-      "links": [
-        {
-          "text": "registrator@csn.se",
-          "href": "mailto:registrator@csn.se",
-          "url": "mailto:registrator@csn.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nyttjande av studiestöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Folkhögskola",
-        "Studenter",
-        "Studiedeltagande",
-        "Universitet och högskola",
-        "Utbildning",
-        "Utbildningsnivå",
-        "Vuxenutbildning",
-        "Studiestöd"
-      ],
-      "links": [
-        {
-          "text": "Folkhögskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=58",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=58"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Studiedeltagande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=185",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=185"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-        },
-        {
-          "text": "Utbildningsnivå",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-        },
-        {
-          "text": "Vuxenutbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=215",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=215"
-        },
-        {
-          "text": "Studiestöd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=246",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=246"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0102",
     "response_url": "https://www.scb.se/LE0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/",
-    "fetched_at": "2026-10-05T13:12:10.587475Z",
+    "fetched_at": "2026-10-10T01:17:07.747468Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f1524010856272522a43ac881806b766174f1a8280b3ec9dfbd9d6453b0f5285",
+    "content_sha256": "0be6b0c77c9547b75aeb3da03457811abf209501f360cff0c6d478d536c5b688",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Separationer",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=164",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=164"
-    },
-    {
-      "text": "Syskon",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=187",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=187"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1297,28 +1276,7 @@
         "23 000 barn går inte i förskola",
         "44 000 barn lever i familjer med varaktigt låg inkomst"
       ],
-      "links": [
-        {
-          "text": "215 000 barn har en bonusförälder",
-          "href": "/hitta-statistik/artiklar/2021/215-000-barn-har-en-bonusforalder/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2021/215-000-barn-har-en-bonusforalder/"
-        },
-        {
-          "text": "Fler biologiska mammor än pappor",
-          "href": "/hitta-statistik/artiklar/2020/fler-biologiska-mammor-an-pappor/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2020/fler-biologiska-mammor-an-pappor/"
-        },
-        {
-          "text": "23 000 barn går inte i förskola",
-          "href": "/hitta-statistik/artiklar/2019/23-000-barn-gar-inte-i-forskola/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2019/23-000-barn-gar-inte-i-forskola/"
-        },
-        {
-          "text": "44 000 barn lever i familjer med varaktigt låg inkomst",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/produktrelaterat/aktuellt/44-000-barn-lever-i-familjer-med-varaktigt-lag-inkomst/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/produktrelaterat/aktuellt/44-000-barn-lever-i-familjer-med-varaktigt-lag-inkomst/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1673,82 +1631,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=LE0102",
           "url": "https://metadata.scb.se/?produkt=LE0102"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Barn- och familjestatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "Barn-ochfamiljestatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "Barn-ochfamiljestatistik@scb.se",
-          "href": "mailto:Barn-ochfamiljestatistik@scb.se",
-          "url": "mailto:Barn-ochfamiljestatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Barn- och familjestatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Separationer",
-        "Syskon"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Separationer",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=164",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=164"
-        },
-        {
-          "text": "Syskon",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=187",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=187"
         }
       ],
       "table_headers": [],

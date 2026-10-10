@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0108",
     "response_url": "https://www.scb.se/MI0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-av-luftfororeningar/",
-    "fetched_at": "2026-10-05T13:12:25.996971Z",
+    "fetched_at": "2026-10-10T01:17:23.037911Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9f4b2d5f6972c29579c7fc32bbd0415027d2728b8c7def746617788c3fb5bc1f",
+    "content_sha256": "7bace2054cbb35831968c26099ccfe4efebffeacb005ded38c20da731160f652",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Utsläpp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-    },
-    {
-      "text": "Luftföroreningar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -570,99 +559,7 @@
         "Sveriges rapporteringar av luftföroreningar till FN:s Luftvårdskonvention (CEIP:s webbplats)",
         "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)"
       ],
-      "links": [
-        {
-          "text": "Luftföroreningar och dess effekter (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/",
-          "url": "https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/"
-        },
-        {
-          "text": "Utsläpp av luftföroreningar (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/amnesomraden/luft/statistik--utslapp-och-halter/utslapp-av-luftfororeningar/?q=Luftf%C3%B6roreningar",
-          "url": "https://www.naturvardsverket.se/amnesomraden/luft/statistik--utslapp-och-halter/utslapp-av-luftfororeningar/?q=Luftf%C3%B6roreningar"
-        },
-        {
-          "text": "Sveriges rapporteringar av luftföroreningar till FN:s Luftvårdskonvention (CEIP:s webbplats)",
-          "href": "https://www.ceip.at/status-of-reporting-and-review-results",
-          "url": "https://www.ceip.at/status-of-reporting-and-review-results"
-        },
-        {
-          "text": "SMED beräknar underlaget för växthusgasinventeringen i Sverige (SMED:s webbplats)",
-          "href": "http://www.smed.se/",
-          "url": "http://www.smed.se/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp av luftföroreningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Peter Guban",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-698 10 00",
-        "E-post",
-        "klimatluftrapportering@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "010-698 10 00",
-          "href": "tel:010-698 10 00",
-          "url": "tel:010-698 10 00"
-        },
-        {
-          "text": "klimatluftrapportering@naturvardsverket.se",
-          "href": "mailto:klimatluftrapportering@naturvardsverket.se",
-          "url": "mailto:klimatluftrapportering@naturvardsverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp av luftföroreningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Utsläpp",
-        "Luftföroreningar"
-      ],
-      "links": [
-        {
-          "text": "Utsläpp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-        },
-        {
-          "text": "Luftföroreningar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=267",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=267"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

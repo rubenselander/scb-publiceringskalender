@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0102",
     "response_url": "https://www.scb.se/HS0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/aborter/",
-    "fetched_at": "2026-10-05T13:11:02.653337Z",
+    "fetched_at": "2026-10-10T01:16:13.638499Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c916f25715a4e8d973682eca5d1360d066cef575c499643be059050118ee2550",
+    "content_sha256": "3811bc55408b348e2ddf3637f5354221ad4bfb7f2cad308bb2ecc279cc09c042",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Hälso- och sjukvård",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-    },
-    {
-      "text": "Reproduktion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=232",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=232"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aborter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Aborter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Hälsa och ohälsa",
-        "Hälso- och sjukvård",
-        "Reproduktion"
-      ],
-      "links": [
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Hälso- och sjukvård",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-        },
-        {
-          "text": "Reproduktion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=232",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=232"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0103",
     "response_url": "https://www.scb.se/EN0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-lokaler/",
-    "fetched_at": "2026-10-05T13:10:28.891447Z",
+    "fetched_at": "2026-10-10T01:15:36.953211Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b736675b9e27b4e02731d82a2823c05cb7388235328f728e13ca77296074c9a9",
+    "content_sha256": "6718bee513a183fc370f84869b3fd5ba6584e883de6be8387471660574e3152f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    },
-    {
-      "text": "Lokaler",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för lokaler",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Christoffer Tjärnberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 22 95",
-        "E-post",
-        "christoffer.tjarnberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 22 95",
-          "href": "tel:016-544 22 95",
-          "url": "tel:016-544 22 95"
-        },
-        {
-          "text": "christoffer.tjarnberg@energimyndigheten.se",
-          "href": "mailto:christoffer.tjarnberg@energimyndigheten.se",
-          "url": "mailto:christoffer.tjarnberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för lokaler",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El",
-        "Lokaler"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        },
-        {
-          "text": "Lokaler",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
         }
       ],
       "table_headers": [],

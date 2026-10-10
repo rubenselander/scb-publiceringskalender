@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1004",
     "response_url": "https://www.scb.se/MI1004",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/kvave--och-fosforbalanser-for-jordbruksmark/",
-    "fetched_at": "2026-10-05T13:12:44.504653Z",
+    "fetched_at": "2026-10-10T01:17:41.408798Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b723c576359e5a570b0f7ec16d1bb39a83118396bd0b56f35e2494090bb66797",
+    "content_sha256": "226fef5adb24ce0be7e6c1e3979852fbc0ccce2e29cf65576bc54606b59d870b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Gödsel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -437,95 +421,7 @@
         "Estimating the content of nitrogen and phosphorus in agricultural products in Sweden (doc)",
         "Improvements in agrienvironmental and grassland statistics in Sweden (pdf)"
       ],
-      "links": [
-        {
-          "text": "Estimating the content of nitrogen and phosphorus in agricultural products in Sweden (doc)",
-          "href": "https://circabc.europa.eu/d/d/workspace/SpacesStore/88824c13-2be6-4a6f-97e6-dac2a30c7d66/FinalReport_NPcrops_SE_4070120110032011560.docx",
-          "url": "https://circabc.europa.eu/d/d/workspace/SpacesStore/88824c13-2be6-4a6f-97e6-dac2a30c7d66/FinalReport_NPcrops_SE_4070120110032011560.docx"
-        },
-        {
-          "text": "Improvements in agrienvironmental and grassland statistics in Sweden (pdf)",
-          "href": "https://circabc.europa.eu/sd/a/3ea3b94e-4ffc-4027-a258-6db50118d25b/161026%20SE%20FinalReport.pdf",
-          "url": "https://circabc.europa.eu/sd/a/3ea3b94e-4ffc-4027-a258-6db50118d25b/161026%20SE%20FinalReport.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kväve- och fosforbalanser för jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Ylva Andrist Rangel",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 56",
-        "E-post",
-        "ylva.andrist-rangel@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 56",
-          "href": "tel:010-479 68 56",
-          "url": "tel:010-479 68 56"
-        },
-        {
-          "text": "ylva.andrist-rangel@scb.se",
-          "href": "mailto:ylva.andrist-rangel@scb.se",
-          "url": "mailto:ylva.andrist-rangel@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kväve- och fosforbalanser för jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gödsel",
-        "Jordbruk",
-        "Miljö"
-      ],
-      "links": [
-        {
-          "text": "Gödsel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

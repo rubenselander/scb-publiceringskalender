@@ -2,7 +2,7 @@
   "source": "products",
   "complete": false,
   "discovery_complete": true,
-  "discovered_count": 569,
+  "discovered_count": 577,
   "records": {
     "AA0003": {
       "status": "fresh",
@@ -14,15 +14,15 @@
     },
     "AA9998": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AA9998"
+      "error": "GET https://www.scb.se/AA9998: HTTP 404, 11530 bytes"
     },
     "AA9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AA9999"
+      "error": "GET https://www.scb.se/AA9999: HTTP 404, 11530 bytes"
     },
     "AM0000": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM0000"
+      "error": "GET https://www.scb.se/AM0000: HTTP 404, 11530 bytes"
     },
     "AM0101": {
       "status": "fresh",
@@ -70,7 +70,7 @@
     },
     "AM0118": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM0118"
+      "error": "GET https://www.scb.se/AM0118: HTTP 404, 11530 bytes"
     },
     "AM0201": {
       "status": "fresh",
@@ -112,6 +112,10 @@
       "status": "fresh",
       "error": null
     },
+    "AM0403": {
+      "status": "fresh",
+      "error": null
+    },
     "AM0501": {
       "status": "fresh",
       "error": null
@@ -142,7 +146,7 @@
     },
     "AM9901": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM9901"
+      "error": "GET https://www.scb.se/AM9901: HTTP 404, 11530 bytes"
     },
     "AM9903": {
       "status": "fresh",
@@ -154,17 +158,25 @@
     },
     "AM9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/AM9999"
+      "error": "GET https://www.scb.se/AM9999: HTTP 404, 11530 bytes"
     },
     "BE0000": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/BE0000"
+      "error": "GET https://www.scb.se/BE0000: HTTP 404, 11530 bytes"
     },
     "BE0001": {
       "status": "fresh",
       "error": null
     },
     "BE0101": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE0103": {
+      "status": "fresh",
+      "error": null
+    },
+    "BE0205": {
       "status": "fresh",
       "error": null
     },
@@ -178,7 +190,7 @@
     },
     "BE9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/BE9999"
+      "error": "GET https://www.scb.se/BE9999: HTTP 404, 11530 bytes"
     },
     "BO0101": {
       "status": "fresh",
@@ -186,7 +198,7 @@
     },
     "BO0102": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO0102"
+      "error": "GET https://www.scb.se/BO0102: HTTP 404, 11530 bytes"
     },
     "BO0104": {
       "status": "fresh",
@@ -222,7 +234,7 @@
     },
     "BO0701": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO0701"
+      "error": "GET https://www.scb.se/BO0701: HTTP 404, 11530 bytes"
     },
     "BO0801": {
       "status": "fresh",
@@ -230,7 +242,7 @@
     },
     "BO9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/BO9999"
+      "error": "GET https://www.scb.se/BO9999: HTTP 404, 11530 bytes"
     },
     "EN0101": {
       "status": "fresh",
@@ -290,7 +302,7 @@
     },
     "EN0117": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0117"
+      "error": "GET https://www.scb.se/EN0117: HTTP 404, 11530 bytes"
     },
     "EN0118": {
       "status": "fresh",
@@ -306,7 +318,7 @@
     },
     "EN0121": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0121"
+      "error": "GET https://www.scb.se/EN0121: HTTP 404, 11530 bytes"
     },
     "EN0122": {
       "status": "fresh",
@@ -342,15 +354,15 @@
     },
     "EN0304": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0304"
+      "error": "GET https://www.scb.se/EN0304: HTTP 404, 11530 bytes"
     },
     "EN0305": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0305"
+      "error": "GET https://www.scb.se/EN0305: HTTP 404, 11530 bytes"
     },
     "EN0306": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/EN0306"
+      "error": "GET https://www.scb.se/EN0306: HTTP 404, 11530 bytes"
     },
     "EN0307": {
       "status": "fresh",
@@ -384,9 +396,13 @@
       "status": "fresh",
       "error": null
     },
+    "FM0003": {
+      "status": "fresh",
+      "error": null
+    },
     "FM0102": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/FM0102"
+      "error": "GET https://www.scb.se/FM0102: HTTP 404, 11530 bytes"
     },
     "FM0103": {
       "status": "fresh",
@@ -450,7 +466,7 @@
     },
     "HA9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HA9999"
+      "error": "GET https://www.scb.se/HA9999: HTTP 404, 11530 bytes"
     },
     "HE0000": {
       "status": "fresh",
@@ -474,15 +490,15 @@
     },
     "HE0107": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0107"
+      "error": "GET https://www.scb.se/HE0107: HTTP 404, 11530 bytes"
     },
     "HE0108": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0108"
+      "error": "GET https://www.scb.se/HE0108: HTTP 404, 11530 bytes"
     },
     "HE0109": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE0109"
+      "error": "GET https://www.scb.se/HE0109: HTTP 404, 11530 bytes"
     },
     "HE0110": {
       "status": "fresh",
@@ -514,7 +530,7 @@
     },
     "HE9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HE9999"
+      "error": "GET https://www.scb.se/HE9999: HTTP 404, 11530 bytes"
     },
     "HS0102": {
       "status": "fresh",
@@ -564,13 +580,21 @@
       "status": "fresh",
       "error": null
     },
+    "HS0201": {
+      "status": "fresh",
+      "error": null
+    },
     "HS0202": {
       "status": "fresh",
       "error": null
     },
     "HS0203": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/HS0203"
+      "error": "GET https://www.scb.se/HS0203: HTTP 404, 11530 bytes"
+    },
+    "HS0204": {
+      "status": "fresh",
+      "error": null
     },
     "HS0205": {
       "status": "fresh",
@@ -590,7 +614,7 @@
     },
     "JO0102": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0102"
+      "error": "GET https://www.scb.se/JO0102: HTTP 404, 11530 bytes"
     },
     "JO0103": {
       "status": "fresh",
@@ -666,7 +690,7 @@
     },
     "JO0203": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0203"
+      "error": "GET https://www.scb.se/JO0203: HTTP 404, 11530 bytes"
     },
     "JO0204": {
       "status": "fresh",
@@ -680,17 +704,21 @@
       "status": "fresh",
       "error": null
     },
+    "JO0302": {
+      "status": "fresh",
+      "error": null
+    },
     "JO0303": {
       "status": "fresh",
       "error": null
     },
     "JO0304": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0304"
+      "error": "GET https://www.scb.se/JO0304: HTTP 404, 11530 bytes"
     },
     "JO0305": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0305"
+      "error": "GET https://www.scb.se/JO0305: HTTP 404, 11530 bytes"
     },
     "JO0306": {
       "status": "fresh",
@@ -706,7 +734,7 @@
     },
     "JO0310": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0310"
+      "error": "GET https://www.scb.se/JO0310: HTTP 404, 11530 bytes"
     },
     "JO0311": {
       "status": "fresh",
@@ -734,7 +762,7 @@
     },
     "JO0504": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0504"
+      "error": "GET https://www.scb.se/JO0504: HTTP 404, 11530 bytes"
     },
     "JO0601": {
       "status": "fresh",
@@ -762,7 +790,7 @@
     },
     "JO0607": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO0607"
+      "error": "GET https://www.scb.se/JO0607: HTTP 404, 11530 bytes"
     },
     "JO0608": {
       "status": "fresh",
@@ -874,23 +902,23 @@
     },
     "JO9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/JO9999"
+      "error": "GET https://www.scb.se/JO9999: HTTP 404, 11530 bytes"
     },
     "KU0101": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0101"
+      "error": "GET https://www.scb.se/KU0101: HTTP 404, 11530 bytes"
     },
     "KU0102": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0102"
+      "error": "GET https://www.scb.se/KU0102: HTTP 404, 11530 bytes"
     },
     "KU0103": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0103"
+      "error": "GET https://www.scb.se/KU0103: HTTP 404, 11530 bytes"
     },
     "KU0104": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/KU0104"
+      "error": "GET https://www.scb.se/KU0104: HTTP 404, 11530 bytes"
     },
     "KU0105": {
       "status": "fresh",
@@ -922,7 +950,7 @@
     },
     "LE0000": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/LE0000"
+      "error": "GET https://www.scb.se/LE0000: HTTP 404, 11530 bytes"
     },
     "LE0001": {
       "status": "fresh",
@@ -958,7 +986,7 @@
     },
     "LE0202": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/LE0202"
+      "error": "GET https://www.scb.se/LE0202: HTTP 404, 11530 bytes"
     },
     "LE0203": {
       "status": "fresh",
@@ -1030,11 +1058,11 @@
     },
     "MI0000": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0000"
+      "error": "GET https://www.scb.se/MI0000: HTTP 404, 11530 bytes"
     },
     "MI0103": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0103"
+      "error": "GET https://www.scb.se/MI0103: HTTP 404, 11530 bytes"
     },
     "MI0106": {
       "status": "fresh",
@@ -1050,11 +1078,11 @@
     },
     "MI0110": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0110"
+      "error": "GET https://www.scb.se/MI0110: HTTP 404, 11530 bytes"
     },
     "MI0206": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0206"
+      "error": "GET https://www.scb.se/MI0206: HTTP 404, 11530 bytes"
     },
     "MI0305": {
       "status": "fresh",
@@ -1066,7 +1094,7 @@
     },
     "MI0308": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0308"
+      "error": "GET https://www.scb.se/MI0308: HTTP 404, 11530 bytes"
     },
     "MI0309": {
       "status": "fresh",
@@ -1118,7 +1146,7 @@
     },
     "MI0604": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0604"
+      "error": "GET https://www.scb.se/MI0604: HTTP 404, 11530 bytes"
     },
     "MI0605": {
       "status": "fresh",
@@ -1134,7 +1162,7 @@
     },
     "MI0804": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0804"
+      "error": "GET https://www.scb.se/MI0804: HTTP 404, 11530 bytes"
     },
     "MI0805": {
       "status": "fresh",
@@ -1146,7 +1174,7 @@
     },
     "MI0807": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0807"
+      "error": "GET https://www.scb.se/MI0807: HTTP 404, 11530 bytes"
     },
     "MI0809": {
       "status": "fresh",
@@ -1158,7 +1186,7 @@
     },
     "MI0811": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0811"
+      "error": "GET https://www.scb.se/MI0811: HTTP 404, 11530 bytes"
     },
     "MI0812": {
       "status": "fresh",
@@ -1174,7 +1202,7 @@
     },
     "MI0816": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0816"
+      "error": "GET https://www.scb.se/MI0816: HTTP 404, 11530 bytes"
     },
     "MI0902": {
       "status": "fresh",
@@ -1182,11 +1210,11 @@
     },
     "MI0903": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0903"
+      "error": "GET https://www.scb.se/MI0903: HTTP 404, 11530 bytes"
     },
     "MI0904": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI0904"
+      "error": "GET https://www.scb.se/MI0904: HTTP 404, 11530 bytes"
     },
     "MI1001": {
       "status": "fresh",
@@ -1210,11 +1238,11 @@
     },
     "MI1103": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1103"
+      "error": "GET https://www.scb.se/MI1103: HTTP 404, 11530 bytes"
     },
     "MI1104": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1104"
+      "error": "GET https://www.scb.se/MI1104: HTTP 404, 11530 bytes"
     },
     "MI1105": {
       "status": "fresh",
@@ -1234,7 +1262,7 @@
     },
     "MI1304": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/MI1304"
+      "error": "GET https://www.scb.se/MI1304: HTTP 404, 11530 bytes"
     },
     "MI1305": {
       "status": "fresh",
@@ -1250,7 +1278,7 @@
     },
     "NR0000": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NR0000"
+      "error": "GET https://www.scb.se/NR0000: HTTP 404, 11530 bytes"
     },
     "NR0001": {
       "status": "fresh",
@@ -1266,7 +1294,7 @@
     },
     "NR0104": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NR0104"
+      "error": "GET https://www.scb.se/NR0104: HTTP 404, 11530 bytes"
     },
     "NR0105": {
       "status": "fresh",
@@ -1294,11 +1322,11 @@
     },
     "NV0001": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0001"
+      "error": "GET https://www.scb.se/NV0001: HTTP 404, 11530 bytes"
     },
     "NV0004": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0004"
+      "error": "GET https://www.scb.se/NV0004: HTTP 404, 11530 bytes"
     },
     "NV0006": {
       "status": "fresh",
@@ -1314,11 +1342,11 @@
     },
     "NV0107": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0107"
+      "error": "GET https://www.scb.se/NV0107: HTTP 404, 11530 bytes"
     },
     "NV0108": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0108"
+      "error": "GET https://www.scb.se/NV0108: HTTP 404, 11530 bytes"
     },
     "NV0109": {
       "status": "fresh",
@@ -1326,7 +1354,7 @@
     },
     "NV0113": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0113"
+      "error": "GET https://www.scb.se/NV0113: HTTP 404, 11530 bytes"
     },
     "NV0116": {
       "status": "fresh",
@@ -1346,7 +1374,7 @@
     },
     "NV0120": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0120"
+      "error": "GET https://www.scb.se/NV0120: HTTP 404, 11530 bytes"
     },
     "NV0122": {
       "status": "fresh",
@@ -1354,7 +1382,7 @@
     },
     "NV0123": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0123"
+      "error": "GET https://www.scb.se/NV0123: HTTP 404, 11530 bytes"
     },
     "NV0124": {
       "status": "fresh",
@@ -1370,7 +1398,7 @@
     },
     "NV0602": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV0602"
+      "error": "GET https://www.scb.se/NV0602: HTTP 404, 11530 bytes"
     },
     "NV0701": {
       "status": "fresh",
@@ -1390,7 +1418,7 @@
     },
     "NV1301": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV1301"
+      "error": "GET https://www.scb.se/NV1301: HTTP 404, 11530 bytes"
     },
     "NV1302": {
       "status": "fresh",
@@ -1418,7 +1446,7 @@
     },
     "NV1503": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/NV1503"
+      "error": "GET https://www.scb.se/NV1503: HTTP 404, 11530 bytes"
     },
     "NV1504": {
       "status": "fresh",
@@ -1462,7 +1490,7 @@
     },
     "OE0114": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/OE0114"
+      "error": "GET https://www.scb.se/OE0114: HTTP 404, 11530 bytes"
     },
     "OE0115": {
       "status": "fresh",
@@ -1486,7 +1514,7 @@
     },
     "OE0903": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/OE0903"
+      "error": "GET https://www.scb.se/OE0903: HTTP 404, 11530 bytes"
     },
     "OE9999": {
       "status": "fresh",
@@ -1502,15 +1530,15 @@
     },
     "OV0111": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV0111"
+      "error": "GET https://www.scb.se/OV0111: HTTP 404, 11530 bytes"
     },
     "OV0904": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV0904"
+      "error": "GET https://www.scb.se/OV0904: HTTP 404, 11530 bytes"
     },
     "OV9901": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/OV9901"
+      "error": "GET https://www.scb.se/OV9901: HTTP 404, 11530 bytes"
     },
     "OV9998": {
       "status": "fresh",
@@ -1546,7 +1574,7 @@
     },
     "PR0801": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/PR0801"
+      "error": "GET https://www.scb.se/PR0801: HTTP 404, 11530 bytes"
     },
     "PR2001": {
       "status": "fresh",
@@ -1554,11 +1582,11 @@
     },
     "PR9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/PR9999"
+      "error": "GET https://www.scb.se/PR9999: HTTP 404, 11530 bytes"
     },
     "RV0101": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0101"
+      "error": "GET https://www.scb.se/RV0101: HTTP 404, 11530 bytes"
     },
     "RV0102": {
       "status": "fresh",
@@ -1574,7 +1602,7 @@
     },
     "RV0105": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0105"
+      "error": "GET https://www.scb.se/RV0105: HTTP 404, 11530 bytes"
     },
     "RV0106": {
       "status": "fresh",
@@ -1622,7 +1650,7 @@
     },
     "RV0501": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/RV0501"
+      "error": "GET https://www.scb.se/RV0501: HTTP 404, 11530 bytes"
     },
     "RV0502": {
       "status": "fresh",
@@ -1638,7 +1666,7 @@
     },
     "SF0101": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0101"
+      "error": "GET https://www.scb.se/SF0101: HTTP 404, 11530 bytes"
     },
     "SF0102": {
       "status": "fresh",
@@ -1722,39 +1750,39 @@
     },
     "SF0301": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0301"
+      "error": "GET https://www.scb.se/SF0301: HTTP 404, 11530 bytes"
     },
     "SF0302": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0302"
+      "error": "GET https://www.scb.se/SF0302: HTTP 404, 11530 bytes"
     },
     "SF0303": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0303"
+      "error": "GET https://www.scb.se/SF0303: HTTP 404, 11530 bytes"
     },
     "SF0304": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0304"
+      "error": "GET https://www.scb.se/SF0304: HTTP 404, 11530 bytes"
     },
     "SF0305": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0305"
+      "error": "GET https://www.scb.se/SF0305: HTTP 404, 11530 bytes"
     },
     "SF0306": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0306"
+      "error": "GET https://www.scb.se/SF0306: HTTP 404, 11530 bytes"
     },
     "SF0307": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0307"
+      "error": "GET https://www.scb.se/SF0307: HTTP 404, 11530 bytes"
     },
     "SF0308": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0308"
+      "error": "GET https://www.scb.se/SF0308: HTTP 404, 11530 bytes"
     },
     "SF0309": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SF0309"
+      "error": "GET https://www.scb.se/SF0309: HTTP 404, 11530 bytes"
     },
     "SF0310": {
       "status": "fresh",
@@ -1774,7 +1802,7 @@
     },
     "SO0204": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0204"
+      "error": "GET https://www.scb.se/SO0204: HTTP 404, 11530 bytes"
     },
     "SO0206": {
       "status": "fresh",
@@ -1782,15 +1810,15 @@
     },
     "SO0207": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0207"
+      "error": "GET https://www.scb.se/SO0207: HTTP 404, 11530 bytes"
     },
     "SO0208": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0208"
+      "error": "GET https://www.scb.se/SO0208: HTTP 404, 11530 bytes"
     },
     "SO0209": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0209"
+      "error": "GET https://www.scb.se/SO0209: HTTP 404, 11530 bytes"
     },
     "SO0210": {
       "status": "fresh",
@@ -1802,7 +1830,7 @@
     },
     "SO0212": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/SO0212"
+      "error": "GET https://www.scb.se/SO0212: HTTP 404, 11530 bytes"
     },
     "SO0309": {
       "status": "fresh",
@@ -1848,13 +1876,17 @@
       "status": "fresh",
       "error": null
     },
+    "TK0806": {
+      "status": "fresh",
+      "error": null
+    },
     "TK0808": {
       "status": "fresh",
       "error": null
     },
     "TK0809": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/TK0809"
+      "error": "GET https://www.scb.se/TK0809: HTTP 404, 11530 bytes"
     },
     "TK0901": {
       "status": "fresh",
@@ -1934,7 +1966,7 @@
     },
     "UF0111": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0111"
+      "error": "GET https://www.scb.se/UF0111: HTTP 404, 11530 bytes"
     },
     "UF0113": {
       "status": "fresh",
@@ -1942,7 +1974,7 @@
     },
     "UF0114": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0114"
+      "error": "GET https://www.scb.se/UF0114: HTTP 404, 11530 bytes"
     },
     "UF0115": {
       "status": "fresh",
@@ -1954,11 +1986,11 @@
     },
     "UF0117": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0117"
+      "error": "GET https://www.scb.se/UF0117: HTTP 404, 11530 bytes"
     },
     "UF0120": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0120"
+      "error": "GET https://www.scb.se/UF0120: HTTP 404, 11530 bytes"
     },
     "UF0121": {
       "status": "fresh",
@@ -1970,7 +2002,7 @@
     },
     "UF0123": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0123"
+      "error": "GET https://www.scb.se/UF0123: HTTP 404, 11530 bytes"
     },
     "UF0124": {
       "status": "fresh",
@@ -1982,11 +2014,11 @@
     },
     "UF0126": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0126"
+      "error": "GET https://www.scb.se/UF0126: HTTP 404, 11530 bytes"
     },
     "UF0127": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0127"
+      "error": "GET https://www.scb.se/UF0127: HTTP 404, 11530 bytes"
     },
     "UF0128": {
       "status": "fresh",
@@ -2090,11 +2122,11 @@
     },
     "UF0302": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0302"
+      "error": "GET https://www.scb.se/UF0302: HTTP 404, 11530 bytes"
     },
     "UF0304": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0304"
+      "error": "GET https://www.scb.se/UF0304: HTTP 404, 11530 bytes"
     },
     "UF0306": {
       "status": "fresh",
@@ -2102,7 +2134,7 @@
     },
     "UF0314": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0314"
+      "error": "GET https://www.scb.se/UF0314: HTTP 404, 11530 bytes"
     },
     "UF0315": {
       "status": "fresh",
@@ -2110,7 +2142,7 @@
     },
     "UF0317": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0317"
+      "error": "GET https://www.scb.se/UF0317: HTTP 404, 11530 bytes"
     },
     "UF0319": {
       "status": "fresh",
@@ -2154,7 +2186,7 @@
     },
     "UF0510": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0510"
+      "error": "GET https://www.scb.se/UF0510: HTTP 404, 11530 bytes"
     },
     "UF0512": {
       "status": "fresh",
@@ -2190,15 +2222,15 @@
     },
     "UF0524": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0524"
+      "error": "GET https://www.scb.se/UF0524: HTTP 404, 11530 bytes"
     },
     "UF0526": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0526"
+      "error": "GET https://www.scb.se/UF0526: HTTP 404, 11530 bytes"
     },
     "UF0527": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0527"
+      "error": "GET https://www.scb.se/UF0527: HTTP 404, 11530 bytes"
     },
     "UF0529": {
       "status": "fresh",
@@ -2206,15 +2238,15 @@
     },
     "UF0532": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0532"
+      "error": "GET https://www.scb.se/UF0532: HTTP 404, 11530 bytes"
     },
     "UF0535": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0535"
+      "error": "GET https://www.scb.se/UF0535: HTTP 404, 11530 bytes"
     },
     "UF0536": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0536"
+      "error": "GET https://www.scb.se/UF0536: HTTP 404, 11530 bytes"
     },
     "UF0538": {
       "status": "fresh",
@@ -2222,11 +2254,11 @@
     },
     "UF0539": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0539"
+      "error": "GET https://www.scb.se/UF0539: HTTP 404, 11530 bytes"
     },
     "UF0540": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0540"
+      "error": "GET https://www.scb.se/UF0540: HTTP 404, 11530 bytes"
     },
     "UF0541": {
       "status": "fresh",
@@ -2238,11 +2270,11 @@
     },
     "UF0543": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0543"
+      "error": "GET https://www.scb.se/UF0543: HTTP 404, 11530 bytes"
     },
     "UF0544": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0544"
+      "error": "GET https://www.scb.se/UF0544: HTTP 404, 11530 bytes"
     },
     "UF0546": {
       "status": "fresh",
@@ -2250,7 +2282,7 @@
     },
     "UF0548": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF0548"
+      "error": "GET https://www.scb.se/UF0548: HTTP 404, 11530 bytes"
     },
     "UF0549": {
       "status": "fresh",
@@ -2278,7 +2310,7 @@
     },
     "UF9999": {
       "status": "failed",
-      "error": "Recorded unsuccessful response 404: https://www.scb.se/UF9999"
+      "error": "GET https://www.scb.se/UF9999: HTTP 404, 11530 bytes"
     }
   },
   "warnings": [

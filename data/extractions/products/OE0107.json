@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0107",
     "response_url": "https://www.scb.se/OE0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/rakenskapssammandrag-for-kommuner-och-regioner/",
-    "fetched_at": "2026-10-05T13:13:28.539659Z",
+    "fetched_at": "2026-10-10T01:18:09.031398Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "987f7ad0a366510e481724acbddba9186de9deb58ec84193f251de8cef7d0ea8",
+    "content_sha256": "337b9c424a8c26a76b9fd3d78790a0ec9ab958dd03accaa79c153c33206e37c2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Offentlig ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -4077,148 +4066,7 @@
         "Definitioner (pdf)",
         "Rapport om gemensamma verksamheter (pdf)"
       ],
-      "links": [
-        {
-          "text": "Definitioner (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/rakenskapssammandrag-for-kommuner-och-regioner/produktrelaterat/Fordjupad-information/definitioner-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/rakenskapssammandrag-for-kommuner-och-regioner/produktrelaterat/Fordjupad-information/definitioner-pdf/"
-        },
-        {
-          "text": "Rapport om gemensamma verksamheter (pdf)",
-          "href": "/contentassets/df07c46cf42c4fa0be2bb93a2b613584/rapport-om-gemensamma-verksamheter.pdf",
-          "url": "https://www.scb.se/contentassets/df07c46cf42c4fa0be2bb93a2b613584/rapport-om-gemensamma-verksamheter.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Räkenskapssammandrag för kommuner och regioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Räkenskapssammandrag för kommuner och regioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Räkenskapssammandrag för kommuner och regioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Offentlig ekonomi",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "SCB 701 89 Örebro",
-        "E-post",
-        "offentlig.ekonomi@scb.se"
-      ],
-      "links": [
-        {
-          "text": "offentlig.ekonomi@scb.se",
-          "href": "mailto:offentlig.ekonomi@scb.se",
-          "url": "mailto:offentlig.ekonomi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Räkenskapssammandrag för kommuner och regioner",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Offentlig ekonomi"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Offentlig ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

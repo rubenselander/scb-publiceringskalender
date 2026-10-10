@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0802",
     "response_url": "https://www.scb.se/NV0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/foretagens-utgifter-for-it/",
-    "fetched_at": "2026-10-05T13:13:09.010237Z",
+    "fetched_at": "2026-10-10T01:18:01.172589Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3ebcc4ef6027bbd11886a12e2e42243fbd3f0b084a1b40f67caff074bbda953d",
+    "content_sha256": "4ad13771e3cf558a36b90a11b418dad7ed23aa173aa0229512338683310b3d3e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Företagsekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-    },
-    {
-      "text": "It",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=100",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=100"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -921,133 +910,7 @@
       "paragraphs": [
         "Beskrivning av Företagens utgifter för IT"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Företagens utgifter för IT",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/foretagens-utgifter-for-it/produktrelaterat/Fordjupad-information/beskrivning-av-foretagens-utgifter-for-it/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/foretagens-utgifter-for-it/produktrelaterat/Fordjupad-information/beskrivning-av-foretagens-utgifter-for-it/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utgifter för IT",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utgifter för IT",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utgifter för IT",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Sektionen för Innovation, Näringslivets produktion och Forskning",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "it-statistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "it-statistik@scb.se",
-          "href": "mailto:it-statistik@scb.se",
-          "url": "mailto:it-statistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Företagens utgifter för IT",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Företagsekonomi",
-        "It"
-      ],
-      "links": [
-        {
-          "text": "Företagsekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=68",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=68"
-        },
-        {
-          "text": "It",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=100",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=100"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

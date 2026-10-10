@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0211",
     "response_url": "https://www.scb.se/AM0211",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/",
-    "fetched_at": "2026-10-05T13:10:09.364610Z",
+    "fetched_at": "2026-10-10T01:15:21.900805Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dbd3523a79f7f1f093e72893677a8fa573536b727ce0576a17014b334b03d6c4",
+    "content_sha256": "d6aac85af980775c3d976e08540e5bd04572f35da95b540a32de476564f66b55",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,38 +25,7 @@
   "next_publication_date": "2026-10-29",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Anställda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-    },
-    {
-      "text": "Arbetade timmar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=5",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=5"
-    },
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Lönesummor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=124",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=124"
-    },
-    {
-      "text": "Personalomsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=151",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=151"
-    },
-    {
-      "text": "Sjukfrånvaro",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -998,171 +967,7 @@
         "Länkning mellan ANST och KS (pdf)",
         "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt (pdf)"
       ],
-      "links": [
-        {
-          "text": "Jämförelse mellan SuS och Ksju (pdf)",
-          "href": "/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-sus-och-ksju.pdf",
-          "url": "https://www.scb.se/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-sus-och-ksju.pdf"
-        },
-        {
-          "text": "Jämförelse mellan KS och ANST (pdf)",
-          "href": "/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-ks-och-anst_v2.pdf",
-          "url": "https://www.scb.se/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-ks-och-anst_v2.pdf"
-        },
-        {
-          "text": "Ersättningsdagar och andel sjukfrånvaro från KSju",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/ersattningsdagar-och-andel-sjukfranvaro-fran-ksju/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/ersattningsdagar-och-andel-sjukfranvaro-fran-ksju/"
-        },
-        {
-          "text": "Jämförelse mellan BAS och ANST (pdf)",
-          "href": "/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-bas-och-anst.pdf",
-          "url": "https://www.scb.se/contentassets/25e98a5fc02e431cbc77e1146773b047/jamforelse-mellan-bas-och-anst.pdf"
-        },
-        {
-          "text": "Jämförelse andel sjukfrånvaro i SuS och KS (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/jamforelse-andel-sjukfranvaro-i-sus-och-ks-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/produktrelaterat/fordjupad-information/jamforelse-andel-sjukfranvaro-i-sus-och-ks-pdf/"
-        },
-        {
-          "text": "Länkning mellan ANST och KS (pdf)",
-          "href": "/contentassets/25e98a5fc02e431cbc77e1146773b047/lankning-mellan-anst-och-ks.pdf",
-          "url": "https://www.scb.se/contentassets/25e98a5fc02e431cbc77e1146773b047/lankning-mellan-anst-och-ks.pdf"
-        },
-        {
-          "text": "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt (pdf)",
-          "href": "/contentassets/25e98a5fc02e431cbc77e1146773b047/lonesummor-formaner-arbetsgivaravgifter-och-preliminar-a-skatt2.pdf",
-          "url": "https://www.scb.se/contentassets/25e98a5fc02e431cbc77e1146773b047/lonesummor-formaner-arbetsgivaravgifter-och-preliminar-a-skatt2.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Anställningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00",
-        "E-post",
-        "information@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        },
-        {
-          "text": "information@scb.se",
-          "href": "mailto:information@scb.se",
-          "url": "mailto:information@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Anställningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Anställningar",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "anstallningar@scb.se"
-      ],
-      "links": [
-        {
-          "text": "anstallningar@scb.se",
-          "href": "mailto:anstallningar@scb.se",
-          "url": "mailto:anstallningar@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Anställningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Anställda",
-        "Arbetade timmar",
-        "Arbetsmarknad",
-        "Lönesummor",
-        "Personalomsättning",
-        "Sjukfrånvaro"
-      ],
-      "links": [
-        {
-          "text": "Anställda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-        },
-        {
-          "text": "Arbetade timmar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=5",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=5"
-        },
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Lönesummor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=124",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=124"
-        },
-        {
-          "text": "Personalomsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=151",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=151"
-        },
-        {
-          "text": "Sjukfrånvaro",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=166",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=166"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

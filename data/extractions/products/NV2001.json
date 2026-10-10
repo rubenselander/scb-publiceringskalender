@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV2001",
     "response_url": "https://www.scb.se/NV2001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-ovrigt/",
-    "fetched_at": "2026-10-05T13:13:26.558805Z",
+    "fetched_at": "2026-10-10T01:18:07.525301Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "886c12fcd642b4d71dc656bc48e060ea9c2e900ffc88c2b3928f671675e8878f",
+    "content_sha256": "87ee7a41c940ee6387d62d65008c406132242251e355d2bde0b8d6b3dfbe2cf6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -29,38 +29,7 @@
     "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat International trade in goods by enterprise characteristic - Statistics Explained - Eurostat",
     "Utrikeshandel med varor Utrikeshandel med tjänster"
   ],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Handel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
-    },
-    {
-      "text": "Import och export",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
-    },
-    {
-      "text": "Utrikeshandel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
-    },
-    {
-      "text": "Varor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=210",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=210"
-    },
-    {
-      "text": "Tjänster",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -236,180 +205,6 @@
           "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M07",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utrikeshandel, övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utrikeshandel, övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utrikeshandel, övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Varuhandel",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "utrikeshandel@scb.se"
-      ],
-      "links": [
-        {
-          "text": "utrikeshandel@scb.se",
-          "href": "mailto:utrikeshandel@scb.se",
-          "url": "mailto:utrikeshandel@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utrikeshandel, övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tjänstehandel",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "uht@scb.se"
-      ],
-      "links": [
-        {
-          "text": "uht@scb.se",
-          "href": "mailto:uht@scb.se",
-          "url": "mailto:uht@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utrikeshandel, övrigt",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Handel",
-        "Import och export",
-        "Utrikeshandel",
-        "Varor",
-        "Tjänster"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Handel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=81",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=81"
-        },
-        {
-          "text": "Import och export",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
-        },
-        {
-          "text": "Utrikeshandel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=206",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=206"
-        },
-        {
-          "text": "Varor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=210",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=210"
-        },
-        {
-          "text": "Tjänster",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=351",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=351"
         }
       ],
       "table_headers": [],

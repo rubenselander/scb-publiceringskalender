@@ -60,3 +60,16 @@ collection after integration. Source tests initially fail on missing modules.
 - Existing calendar source/data files unchanged; production outputs regenerated from archived live evidence. No LLM calls, Regina or linked observation-data harvest.
 
 Working branch: codex/scb-extractions. No remote publication is implied by local implementation.
+
+## Later scope changes (2026-10-10)
+
+- Removed sources: `documentation` (product pages already carry the Dokumentation
+  section; the products source now also discovers pages from the A-Z
+  documentation index), `economy` and `regulation`. Their fixtures were removed.
+- `agency_registry` is disabled, not deleted: excluded from `--source all` and the
+  workflow; linked rows live in `data/reference/agency_registry_linked.json`.
+- HVD output keeps only links that yield a product code.
+- Documentation harvest: `scb_dokument` retired (subject and statistical-area labels
+  moved into `dokument`), SIRIS export limited to documentation files, CSV kept only
+  for the published `dokument` and `produkter`.
+- The inventory counts above describe the original capture, not the current scope.

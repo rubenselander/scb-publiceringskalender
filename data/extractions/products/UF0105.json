@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0105",
     "response_url": "https://www.scb.se/UF0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-sokande-och-antagna/",
-    "fetched_at": "2026-10-05T13:14:51.206026Z",
+    "fetched_at": "2026-10-10T01:19:02.029270Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2f6c7cdbcf116ef16d83a1f2590c0e8e3e36c90dedaa0573439615daf41bf239",
+    "content_sha256": "a4e379577f2d84ba753469b418a171d2ea9cbf85e4fa29851edf147d04837da0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -362,38 +362,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0105",
           "url": "https://metadata.scb.se/?produkt=UF0105"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieskolan: Sökande och antagna",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

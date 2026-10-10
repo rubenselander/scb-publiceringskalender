@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1303",
     "response_url": "https://www.scb.se/MI1303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/",
-    "fetched_at": "2026-10-05T13:12:48.885695Z",
+    "fetched_at": "2026-10-10T01:17:44.740736Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ebffafc5699cad1075ae6be3a2d7328a4d2b2c8257fefa3dec620fe10cf8e8b2",
+    "content_sha256": "87bcd4bff6c69889129e76d594159cc87ea29c48531be3d099afd318242b580f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Agenda 2030",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=347",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=347"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -592,96 +586,7 @@
         "FN:s mål om hållbar utveckling",
         "Nationell indikatorlista (pdf)"
       ],
-      "links": [
-        {
-          "text": "Detaljerad indikatorlista Agenda 2030 (pdf)",
-          "href": "/contentassets/832cbb94580540249f7ae28637f39811/bilaga-1_detaljerad.pdf",
-          "url": "https://www.scb.se/contentassets/832cbb94580540249f7ae28637f39811/bilaga-1_detaljerad.pdf"
-        },
-        {
-          "text": "Indikatorer om hållbar utveckling och livskvalitet till budgetarbetet (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/indikatorer-om-hallbar-utveckling-och-livskvalitet-till-budgetarbetet/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/indikatorer-om-hallbar-utveckling-och-livskvalitet-till-budgetarbetet/"
-        },
-        {
-          "text": "Fakta om Indikatorer för hållbar utveckling",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/fakta-om-indikatorer-for-hallbar-utveckling/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/fakta-om-indikatorer-for-hallbar-utveckling/"
-        },
-        {
-          "text": "Hållbar utvecklingspolitik",
-          "href": "http://www.regeringen.se/regeringens-politik/hallbar-utvecklingspolitik/",
-          "url": "http://www.regeringen.se/regeringens-politik/hallbar-utvecklingspolitik/"
-        },
-        {
-          "text": "FN:s mål om hållbar utveckling",
-          "href": "http://www.regeringen.se/regeringens-politik/hallbar-utvecklingspolitik/en-unik-mojlighet-till-forandring/",
-          "url": "http://www.regeringen.se/regeringens-politik/hallbar-utvecklingspolitik/en-unik-mojlighet-till-forandring/"
-        },
-        {
-          "text": "Nationell indikatorlista (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/nationell-indikatorlista-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/produktrelaterat/Fordjupad-information/nationell-indikatorlista-pdf/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Indikatorer för hållbar utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "agenda2030statsweden@scb.se"
-      ],
-      "links": [
-        {
-          "text": "agenda2030statsweden@scb.se",
-          "href": "mailto:agenda2030statsweden@scb.se",
-          "url": "mailto:agenda2030statsweden@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Indikatorer för hållbar utveckling",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Agenda 2030"
-      ],
-      "links": [
-        {
-          "text": "Agenda 2030",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=347",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=347"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0204",
     "response_url": "https://www.scb.se/JO0204",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/",
-    "fetched_at": "2026-10-05T13:11:31.481174Z",
+    "fetched_at": "2026-10-10T01:16:34.298946Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "43efbdd8c276513e45f4d6c8c209f57a305b8346c2f100a19db587dd305c106a",
+    "content_sha256": "b3f6eb514465ebee886923e1df0f375ee2b2be23f76dec6dd1a077de4cfa1995",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -568,89 +557,7 @@
         "Beskrivning av Jordbrukshushållens inkomster",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Jordbrukshushållens inkomster",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/produktrelaterat/Fordjupad-information/beskrivning-av-jordbrukshushallens-inkomster/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/produktrelaterat/Fordjupad-information/beskrivning-av-jordbrukshushallens-inkomster/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbrukarhushållens inkomster",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jordbrukarhushållens inkomster",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Hushåll",
-        "Inkomst"
-      ],
-      "links": [
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0301",
     "response_url": "https://www.scb.se/HS0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/dodsorsaker/dodsorsaker/",
-    "fetched_at": "2026-10-05T13:11:17.476883Z",
+    "fetched_at": "2026-10-10T01:16:22.710368Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "332fbfceeec4b0430265e1c38c173f62b3098effe45c89ffd4d2808edeb6a215",
+    "content_sha256": "f9a1dfc1afc2dfad4070376ee545def06d8e7f43406d8fea73d98dd3462e7af4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Födda och döda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=66",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=66"
-    },
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Hälso- och sjukvård",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -109,83 +93,6 @@
           "text": "Döda efter region, dödsorsak, ålder och kön. År 1969 - 1996",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DodaOrsak",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DodaOrsak"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om dödsorsaker",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om dödsorsaker",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Födda och döda",
-        "Hälsa och ohälsa",
-        "Hälso- och sjukvård"
-      ],
-      "links": [
-        {
-          "text": "Födda och döda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=66",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=66"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Hälso- och sjukvård",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=168",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=168"
         }
       ],
       "table_headers": [],

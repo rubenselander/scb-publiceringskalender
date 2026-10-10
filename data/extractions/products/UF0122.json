@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0122",
     "response_url": "https://www.scb.se/UF0122",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/specialskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-05T13:14:58.721126Z",
+    "fetched_at": "2026-10-10T01:19:07.780418Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a0eb67b02e71f2d226ed613854fa25dec9f07e61d50c709e1d0ffc9e8ba5464",
+    "content_sha256": "955a5ec1d62583bf0715f56ca49ed7f98338cbb7490b8d20d227fbe23e269ec6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -362,38 +362,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0122",
           "url": "https://metadata.scb.se/?produkt=UF0122"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Specialskolan: elever per 15 oktober",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

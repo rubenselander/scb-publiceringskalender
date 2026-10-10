@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0105",
     "response_url": "https://www.scb.se/ME0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valdeltagandeundersokningen/",
-    "fetched_at": "2026-10-05T13:12:17.883370Z",
+    "fetched_at": "2026-10-10T01:17:14.647007Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e2a636648792fae49b5fbc742ca260301c44bdb38df865d916436ad5acb929fe",
+    "content_sha256": "117086a6ccc7cf1f6afb220c3d53fc68a9a496e6d089b29c7f669f002551c831",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Demokrati",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-    },
-    {
-      "text": "Politik",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
-    },
-    {
-      "text": "Röstberättigade",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=163",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=163"
-    },
-    {
-      "text": "Val",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
-    },
-    {
-      "text": "Valdeltagande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=209",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=209"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1308,84 +1282,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Inför höstens val arbetar SCB med att ta fram den första totalräknade statistiken över valdeltagande sedan 1940. – SCB har ansvar för den officiella statistiken och har dessutom ett regeringsuppdrag att följa upp hur valdeltagandet ser ut i olika grupper och regioner, säger Mikaela Järnbert på SCB."
-      ],
-      "links": [
-        {
-          "text": "Intervju: Ny statistik om valdeltagande",
-          "href": "/hitta-statistik/artiklar/2018/intervju-ny-statistik-om-valdeltagande/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/intervju-ny-statistik-om-valdeltagande/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-06-04"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Demokrati",
-        "Valdeltagande"
-      ],
-      "links": [
-        {
-          "text": "Demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles"
-        },
-        {
-          "text": "Valdeltagande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=209&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=209&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1600,149 +1496,7 @@
       "paragraphs": [
         "Fakta om valdeltagandeundersökningen"
       ],
-      "links": [
-        {
-          "text": "Fakta om valdeltagandeundersökningen",
-          "href": "/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valdeltagandeundersokningen/produktrelaterat/Fordjupad-information/fakta-om-valdeltagandeundersokningen/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valdeltagandeundersokningen/produktrelaterat/Fordjupad-information/fakta-om-valdeltagandeundersokningen/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "valstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "valstatistik@scb.se",
-          "href": "mailto:valstatistik@scb.se",
-          "url": "mailto:valstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valdeltagandeundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Demokrati",
-        "Politik",
-        "Röstberättigade",
-        "Val",
-        "Valdeltagande"
-      ],
-      "links": [
-        {
-          "text": "Demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-        },
-        {
-          "text": "Politik",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
-        },
-        {
-          "text": "Röstberättigade",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=163",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=163"
-        },
-        {
-          "text": "Val",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
-        },
-        {
-          "text": "Valdeltagande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=209",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=209"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

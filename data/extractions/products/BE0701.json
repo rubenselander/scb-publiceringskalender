@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0701",
     "response_url": "https://www.scb.se/BE0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/",
-    "fetched_at": "2026-10-05T13:10:19.941217Z",
+    "fetched_at": "2026-10-10T01:15:29.497012Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dd9ef2fb0629d0b441a73aa1aa86c0deec8d8f3c2a42e5d6ef70578665bcf1a9",
+    "content_sha256": "32298f20a073dd0671f3dd4dcae6714da5342951e9784f71756b2f985445b887",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,37 +21,11 @@
   "short_address": "https://www.scb.se/be0701",
   "summary": "I statistiken analyseras demografiska händelser som barnafödande, dödsfall och migration för olika grupper i samhället. Dessutom studeras bland annat parbildning och separationer. Analyserna ger också underlag för de antaganden som ligger till grund för de årliga befolkningsframskrivningarna.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2026-10-21",
+  "next_publication_date": "2026-10-21",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Befolkning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-    },
-    {
-      "text": "Demografi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Fruktsamhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=64",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=64"
-    },
-    {
-      "text": "In- och utvandring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=90",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=90"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -62,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2026-10-21",
         "I statistiken analyseras demografiska händelser som barnafödande, dödsfall och migration för olika grupper i samhället. Dessutom studeras bland annat parbildning och separationer. Analyserna ger också underlag för de antaganden som ligger till grund för de årliga befolkningsframskrivningarna."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-10-21",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BE0701&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BE0701&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -825,252 +805,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "De med högst inkomster flyttar ofta till områden där många höginkomsttagare redan bor. Det blir särskilt tydligt i Stockholm. Där var inkomsterna högst bland de som flyttade till Norrmalm under åren 2013–2016."
-      ],
-      "links": [
-        {
-          "text": "Höginkomsttagare flyttar till samma område",
-          "href": "/hitta-statistik/artiklar/2018/hoginkomsttagare-flyttar-till-samma-omrade/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/hoginkomsttagare-flyttar-till-samma-omrade/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-12-18"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Demografi",
-        "Inrikes flyttning",
-        "Städer"
-      ],
-      "links": [
-        {
-          "text": "Demografi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=38&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38&selection=articles"
-        },
-        {
-          "text": "Inrikes flyttning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=299&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=299&selection=articles"
-        },
-        {
-          "text": "Städer",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=312&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=312&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Svenska kvinnors barnafödande har minskat under senare år. Tidigare nedgångar \ni fruktsamheten har haft kopplingar till ekonomin eller familjepolitik men det är svårt \natt hitta tydliga förklaringar till dagens nedgång."
-      ],
-      "links": [
-        {
-          "text": "Nedåtgående trend i barnafödande",
-          "href": "/hitta-statistik/artiklar/2018/nedatgaende-trend-i-barnafodande/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/nedatgaende-trend-i-barnafodande/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-10-09"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Sverige har länge haft en hög medellivslängd. År 2015 var den 84,0 år för kvinnor och 80,4 år för män och jämfört med många andra länder är det högt. Ökningen av medellivslängden har dock varit svag i Sverige och under den senaste femårs­perioden har flera andra länder passerat Sverige."
-      ],
-      "links": [
-        {
-          "text": "Hög medellivslängd i Sverige",
-          "href": "/hitta-statistik/artiklar/2017/Hog-medellivslangd-i-Sverige/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/Hog-medellivslangd-i-Sverige/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2017-03-06"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Kvinnor och män",
-        "Medellivslängd",
-        "Europa"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Kvinnor och män",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=112&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=112&selection=articles"
-        },
-        {
-          "text": "Medellivslängd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=129&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=129&selection=articles"
-        },
-        {
-          "text": "Europa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1354,88 +1088,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=BE0701",
           "url": "https://metadata.scb.se/?produkt=BE0701"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Demografi",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "demografi@scb.se"
-      ],
-      "links": [
-        {
-          "text": "demografi@scb.se",
-          "href": "mailto:demografi@scb.se",
-          "url": "mailto:demografi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Demografisk analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Demografi",
-        "Familj",
-        "Fruktsamhet",
-        "In- och utvandring"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21"
-        },
-        {
-          "text": "Demografi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Fruktsamhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=64",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=64"
-        },
-        {
-          "text": "In- och utvandring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=90",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=90"
         }
       ],
       "table_headers": [],

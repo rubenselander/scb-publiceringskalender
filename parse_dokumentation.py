@@ -2,16 +2,19 @@
 
 Uses the repository’s locked uv environment; no network. Run from the repository root:  python parse_dokumentation.py
 
-Outputs (CSV and JSON Lines with the same rows):
-  scb_dokument      every document SCB's "Kvalitet och framställning" index lists, all years
-  siris_dokument    every file Skolverket's SIRIS API lists (tables, PMs, kvalitetsdeklarationer),
-                    with Skolverket's own official-statistics flag (sos)
-  sam_dokument      every link on the crawled agency pages that looks like a documentation file
-  dokument          the three above reduced to documentation (kvalitetsdeklaration, beskrivning av
-                    statistiken, statistikens framställning, SCBDOK, MetaPlus, kvalitetsrapport),
-                    one row per document, with the product code where one could be established
-  produkter         one row per product code in the calendar (data/calendar.jsonl): its agency,
-                    the newest document of each kind and how many documents were found
+Outputs:
+  dokument          (CSV + JSON Lines) one row per documentation document (kvalitetsdeklaration,
+                    beskrivning av statistiken, statistikens framställning, SCBDOK, MetaPlus,
+                    kvalitetsrapport) from SCB's "Kvalitet och framställning" index, SIRIS and the
+                    crawled agencies, with the product code where one could be established and,
+                    for SCB, the subject area and statistical area it is listed under
+  produkter         (CSV + JSON Lines) one row per product code in the calendar
+                    (data/calendar.jsonl): its agency, the newest document of each kind and how
+                    many documents were found
+  siris_dokument    (JSON Lines) the SIRIS files that are documentation, with Skolverket's own
+                    official-statistics flag (sos)
+  sam_dokument      (JSON Lines) every link on the crawled agency pages that looks like a
+                    documentation file
 
 A product code is taken from the file name or link text when it holds one (xx0000). Documents
 without a code (Socialstyrelsen, Trafikanalys, Skolverket, ...) are matched to the responsible
@@ -92,11 +95,24 @@ FIELDS = (
     "filetype",
     "source_url",
     "heading",
+    "subject_area",
+    "statistics_area",
     "document_id",
     "candidate_product_code",
     "review_required",
     "source_status",
     "provenance",
+)
+
+
+# Recomputed for every document in main(); never carried over from a previous export.
+DERIVED = (
+    "agency",
+    "document_id",
+    "product_name",
+    "candidate_product_code",
+    "review_required",
+    "source_status",
 )
 
 
@@ -116,6 +132,8 @@ class Document(BaseModel):
     filetype: str
     source_url: str
     heading: str
+    subject_area: str | None = None
+    statistics_area: str | None = None
     document_id: str
     candidate_product_code: str | None = None
     review_required: bool = False
@@ -215,18 +233,27 @@ def kind(url: str, text: str, heading: str = "") -> str | None:
     return None
 
 
-def write(name: str, rows: list[dict], fields: tuple) -> None:
-    """Atomically replace each complete export; never truncate the old output."""
+def write(name: str, rows: list[dict], fields: tuple, *, with_csv: bool = True) -> None:
+    """Atomically replace each complete export; never truncate the old output.
+
+    The published files (dokument, produkter) also get a CSV copy; internal
+    exports are JSON Lines only, and a stale CSV copy of them is removed.
+    """
     DOK.mkdir(parents=True, exist_ok=True)
     lines = "".join(
         json.dumps({k: r.get(k) for k in fields}, ensure_ascii=False) + "\n"
         for r in rows
     )
-    buffer = io.StringIO(newline="")
-    writer = csv.writer(buffer, lineterminator="\n")
-    writer.writerow(fields)
-    writer.writerows([_csv(r.get(k)) for k in fields] for r in rows)
-    for suffix, text in (("jsonl", lines), ("csv", buffer.getvalue())):
+    outputs = [("jsonl", lines)]
+    if with_csv:
+        buffer = io.StringIO(newline="")
+        writer = csv.writer(buffer, lineterminator="\n")
+        writer.writerow(fields)
+        writer.writerows([_csv(r.get(k)) for k in fields] for r in rows)
+        outputs.append(("csv", buffer.getvalue()))
+    else:
+        (DOK / f"{name}.csv").unlink(missing_ok=True)
+    for suffix, text in outputs:
         target = DOK / f"{name}.{suffix}"
         temporary = target.with_suffix(target.suffix + ".tmp")
         temporary.write_text(text, "utf-8", newline="\n")
@@ -400,11 +427,13 @@ class _ScbIndex(HTMLParser):
             self._capture = None
 
 
-def parse_scb() -> list[dict]:
+def parse_scb() -> list[dict] | None:
+    """Rows of SCB's index, or None without a capture (the previous dokument rows are reused)."""
     rows = []
     files = raw_files("scb", ".json")
     if not files:
-        return cached("scb_dokument")
+        # Exports written before scb_dokument was retired still carry the full SCB rows.
+        return cached("scb_dokument") or None
     for path in files:
         record = json.loads(path.read_text("utf-8"))
         parser = _ScbIndex()
@@ -435,26 +464,14 @@ def parse_scb() -> list[dict]:
     return rows
 
 
-SCB_FIELDS = (
-    "amne",
-    "statistikomrade",
-    "produkt",
-    "product_code",
-    "product_match",
-    "heading",
-    "sub",
-    "doc_type",
-    "year",
-    "label",
-    "url",
-    "filetype",
-    "fetched",
-    "source_url",
-    "provenance",
-)
-
-
 # ---------------------------------------------------------------- siris
+
+# SIRIS lists every file Skolverket publishes; only these kinds are documentation.
+SIRIS_DOC_TYPES = (
+    "kvalitetsdeklaration",
+    "statistikens framställning",
+    "beskrivning av statistiken",
+)
 
 SIRIS_FIELDS = (
     "verkform",
@@ -610,14 +627,19 @@ def main(argv: list[str] | None = None) -> None:
     scb, siris, sam = parse_scb(), parse_siris(), parse_sam()
 
     docs: list[dict] = []
-    for r in scb:
-        code = r["product_code"]
-        docs.append(
+    if scb is None:
+        # No SCB capture: keep the previous SCB documents as they were published.
+        scb_docs = [
+            {k: r.get(k) for k in FIELDS if k not in DERIVED}
+            for r in cached("dokument")
+            if r.get("source") == "scb"
+        ]
+    else:
+        scb_docs = [
             {
                 "source": "scb",
-                "product_code": code,
+                "product_code": r["product_code"],
                 "product_match": r["product_match"],
-                "agency": prods.get(code, {}).get("agency") if code else None,
                 "doc_type": r["doc_type"],
                 "year": r["year"],
                 "title": f"{r['produkt']} – {r['sub'] + ' ' if r['sub'] else ''}{r['label']}",
@@ -625,16 +647,18 @@ def main(argv: list[str] | None = None) -> None:
                 "filetype": r["filetype"],
                 "source_url": r.get("source_url", ""),
                 "heading": r["heading"],
+                "subject_area": r.get("amne") or None,
+                "statistics_area": r.get("statistikomrade") or None,
                 "provenance": r.get("provenance", {}),
             }
-        )
+            for r in scb
+        ]
+    for d in scb_docs:
+        code = d["product_code"]
+        d["agency"] = prods.get(code, {}).get("agency") if code else None
+        docs.append(d)
+    siris = [r for r in siris if r["doc_type"] in SIRIS_DOC_TYPES]
     for r in siris:
-        if r["doc_type"] not in (
-            "kvalitetsdeklaration",
-            "statistikens framställning",
-            "beskrivning av statistiken",
-        ):
-            continue
         code = matcher.match("Statens skolverk", r["titel"], r["verkform"], r["omrade"])
         docs.append(
             {
@@ -718,10 +742,12 @@ def main(argv: list[str] | None = None) -> None:
     docs = [Document.model_validate(d).model_dump(mode="json") for d in docs]
     if not docs:
         raise ValueError("No documentation could be parsed; previous exports preserved")
-    write("scb_dokument", scb, SCB_FIELDS)
-    write("siris_dokument", siris, SIRIS_FIELDS)
-    write("sam_dokument", sam, SAM_FIELDS)
+    write("siris_dokument", siris, SIRIS_FIELDS, with_csv=False)
+    write("sam_dokument", sam, SAM_FIELDS, with_csv=False)
     write("dokument", docs, FIELDS)
+    # scb_dokument is retired: its subject and statistical-area labels now live in dokument.
+    for suffix in ("jsonl", "csv"):
+        (DOK / f"scb_dokument.{suffix}").unlink(missing_ok=True)
 
     by_code: dict[str, list[dict]] = defaultdict(list)
     for d in docs:
@@ -775,7 +801,7 @@ def main(argv: list[str] | None = None) -> None:
             "documents": len(docs),
             "products": len(out),
             "review_candidates": sum(d["review_required"] for d in docs),
-            "source_counts": {"scb": len(scb), "siris": len(siris), "sam": len(sam)},
+            "source_counts": {"scb": len(scb_docs), "siris": len(siris), "sam": len(sam)},
             "fetch_complete": state.get("complete", not state.get("last_failures")),
             "failures": state.get("last_failures", []),
         },
@@ -784,7 +810,7 @@ def main(argv: list[str] | None = None) -> None:
     current = [r for r in out if r["active"]]
     with_kd = sum(1 for r in current if r["kd_count"])
     print(
-        f"scb {len(scb)}, siris {len(siris)}, sam {len(sam)} -> {len(docs)} documents; "
+        f"scb {len(scb_docs)}, siris {len(siris)}, sam {len(sam)} -> {len(docs)} documents; "
         f"{len(prods)} products in the calendar, {len(current)} current, {with_kd} of those with a kvalitetsdeklaration"
     )
 

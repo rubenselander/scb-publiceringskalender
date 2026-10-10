@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0111",
     "response_url": "https://www.scb.se/NR0111",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/",
-    "fetched_at": "2026-10-05T13:12:56.081141Z",
+    "fetched_at": "2026-10-10T01:17:51.012644Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "16dd0f667cdf2e476540e36cd70a38facbb1effdc5bf20fd71cc1ef323e6bbc9",
+    "content_sha256": "1512eaf7f2448e421cf3b51ae24e653b11dd4e3f705dbdf04d5b092ea23ad67e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,28 +27,7 @@
   "notices": [
     "Från och med januari 2026 ersätts tidigare budgetdata med siffror enligt nationalräkenskaperna. Samtidigt ändras redovisningen för staten och sociala trygghetsfonder från månads- till kvartalsuppgifter. Äldre budgetdata finns kvar i statistikdatabasen men uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Offentlig ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-    },
-    {
-      "text": "Stabilitets- och tillväxtpakten",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=181",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=181"
-    },
-    {
-      "text": "Statsbudget",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=182",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=182"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -273,23 +252,7 @@
         "Rådets Direktiv 2011/85/EU (pdf)",
         "Rådets Direktiv 2024/1265/ EU (pdf)"
       ],
-      "links": [
-        {
-          "text": "Offentliga finanser EU direktiv 2011/85 (pdf)",
-          "href": "/contentassets/58f88d85f65548098ddf54591e99ce2e/offentliga-finanser-eu-direktiv-2011_85.pdf",
-          "url": "https://www.scb.se/contentassets/58f88d85f65548098ddf54591e99ce2e/offentliga-finanser-eu-direktiv-2011_85.pdf"
-        },
-        {
-          "text": "Rådets Direktiv 2011/85/EU (pdf)",
-          "href": "/contentassets/58f88d85f65548098ddf54591e99ce2e/radets-direktiv-2011_85_eu.pdf",
-          "url": "https://www.scb.se/contentassets/58f88d85f65548098ddf54591e99ce2e/radets-direktiv-2011_85_eu.pdf"
-        },
-        {
-          "text": "Rådets Direktiv 2024/1265/ EU (pdf)",
-          "href": "/contentassets/58f88d85f65548098ddf54591e99ce2e/radets-direktiv-2024_1265_eu.pdf",
-          "url": "https://www.scb.se/contentassets/58f88d85f65548098ddf54591e99ce2e/radets-direktiv-2024_1265_eu.pdf"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -593,89 +556,7 @@
       "paragraphs": [
         "Beskrivning av offentliga finanser och tillägg till EU:s konvergenskriterier"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av offentliga finanser och tillägg till EU:s konvergenskriterier",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/produktrelaterat/Fordjupad-information/beskrivning-av-offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/produktrelaterat/Fordjupad-information/beskrivning-av-offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Nationalräkenskaper",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "nrinfo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "nrinfo@scb.se",
-          "href": "mailto:nrinfo@scb.se",
-          "url": "mailto:nrinfo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Offentlig ekonomi",
-        "Stabilitets- och tillväxtpakten",
-        "Statsbudget"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Offentlig ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=142",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=142"
-        },
-        {
-          "text": "Stabilitets- och tillväxtpakten",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=181",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=181"
-        },
-        {
-          "text": "Statsbudget",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=182",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=182"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

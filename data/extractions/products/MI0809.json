@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0809",
     "response_url": "https://www.scb.se/MI0809",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/torv/",
-    "fetched_at": "2026-10-05T13:12:38.386995Z",
+    "fetched_at": "2026-10-10T01:17:35.565436Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d4d7f33997d938de9ad9c0969cbafa5a5ca49ef77c2d13dd5e29cb5d04ac6326",
+    "content_sha256": "cdb8357d3cf3817d6c032b154b7eb23bc98e51772892be72f23f791d2e85c515",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,38 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "Import och export",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    },
-    {
-      "text": "Torv",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=195",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=195"
-    },
-    {
-      "text": "Utsläpp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -649,101 +618,7 @@
       "paragraphs": [
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/553b0691ea484a439e1270318508bfa5/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/553b0691ea484a439e1270318508bfa5/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Torv",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "miljorakenskaper@scb.se"
-      ],
-      "links": [
-        {
-          "text": "miljorakenskaper@scb.se",
-          "href": "mailto:miljorakenskaper@scb.se",
-          "url": "mailto:miljorakenskaper@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Torv",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "Import och export",
-        "Markanvändning",
-        "Priser",
-        "Torv",
-        "Utsläpp"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "Import och export",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=89",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=89"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        },
-        {
-          "text": "Torv",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=195",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=195"
-        },
-        {
-          "text": "Utsläpp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

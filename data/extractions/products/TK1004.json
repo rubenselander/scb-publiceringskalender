@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1004",
     "response_url": "https://www.scb.se/TK1004",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/vagtrafikskador/",
-    "fetched_at": "2026-10-05T13:14:41.395822Z",
+    "fetched_at": "2026-10-10T01:18:55.728166Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "022225c3802fd454b5b4f66147551e88abc51f3ea586961dcab48b35220ab7db",
+    "content_sha256": "4f94326402ae9c90686807231297dfc948ffb312a24c691d54ffa12d611940e2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Trafikolyckor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,103 +66,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vägtrafikskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vägtrafikskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Maria Melkersson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 16",
-        "E-post",
-        "maria.melkersson@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 16",
-          "href": "tel:010-414 42 16",
-          "url": "tel:010-414 42 16"
-        },
-        {
-          "text": "maria.melkersson@trafa.se",
-          "href": "mailto:maria.melkersson@trafa.se",
-          "url": "mailto:maria.melkersson@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Vägtrafikskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Trafikolyckor"
-      ],
-      "links": [
-        {
-          "text": "Trafikolyckor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
         }
       ],
       "table_headers": [],

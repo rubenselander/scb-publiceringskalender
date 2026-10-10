@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0003",
     "response_url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/medborgarundersokningen/",
     "canonical_url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/medborgarundersokningen/",
-    "fetched_at": "2026-10-05T13:12:16.547820Z",
+    "fetched_at": "2026-10-10T01:17:13.559714Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "06b2c7b6e38da5c7a08202aa47d8c1cc1adc49f44b78623b887dba3d9f188b17",
+    "content_sha256": "128c9467b406eaac3442f30b4fe4b99aa41bd6cd5b2dc9b1c4da6fd1dc914a2a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -142,13 +142,7 @@
       "table_rows": []
     },
     {
-      "heading_path": [
-        {
-          "text": "Mer info",
-          "level": 4,
-          "anchor": null
-        }
-      ],
+      "heading_path": [],
       "paragraphs": [
         "Tidsplan (pdf)",
         "Allt du behöver veta om SCB:s medborgarundersökning (pdf)",
@@ -175,33 +169,6 @@
           "text": "Kommunikationsmaterial (zip)",
           "href": "/contentassets/c3479a44b3524800bc636ea005b7bf33/kommunikationsmaterial.zip",
           "url": "https://www.scb.se/contentassets/c3479a44b3524800bc636ea005b7bf33/kommunikationsmaterial.zip"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kontakta oss",
-          "level": 3,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "scb.medborgarundersokningen@scb.se"
-      ],
-      "links": [
-        {
-          "text": "scb.medborgarundersokningen@scb.se",
-          "href": "mailto:scb.medborgarundersokningen@scb.se",
-          "url": "mailto:scb.medborgarundersokningen@scb.se"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0503",
     "response_url": "https://www.scb.se/AM0503",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/",
-    "fetched_at": "2026-10-05T13:10:13.297285Z",
+    "fetched_at": "2026-10-10T01:15:24.883191Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "eeb33ff297b2d623468a447bbd19a2064b7f0e1596b610c529714b6ecb44b1bc",
+    "content_sha256": "3f3142cdbb304843b9a1e0f4507cb55dc5be81b2c715dd13aeb8349d0ab1fef0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Funktionsnedsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -458,116 +447,7 @@
       "paragraphs": [
         "Förutsättningar i arbetslivet - en undersökning om diskriminering på arbetsmarknaden  och arbetssituationen för personer med funktionsnedsättning (pdf)"
       ],
-      "links": [
-        {
-          "text": "Förutsättningar i arbetslivet - en undersökning om diskriminering på arbetsmarknaden  och arbetssituationen för personer med funktionsnedsättning (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/produktrelaterat/Fordjupad-information/forutsattningar-i-arbetslivet---en-undersokning-om-diskriminering-pa-arbetsmarknaden--och-arbetssituationen-for-personer-med-funktionsnedsattning-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/funktionsnedsatta/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning--aldre-statistik/produktrelaterat/Fordjupad-information/forutsattningar-i-arbetslivet---en-undersokning-om-diskriminering-pa-arbetsmarknaden--och-arbetssituationen-for-personer-med-funktionsnedsattning-pdf/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning – äldre statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "arbetsmiljo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "arbetsmiljo@scb.se",
-          "href": "mailto:arbetsmiljo@scb.se",
-          "url": "mailto:arbetsmiljo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning – äldre statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Marc Doppelbauer",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 42 15",
-        "E-post",
-        "marc.doppelbauer@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 42 15",
-          "href": "tel:010-479 42 15",
-          "url": "tel:010-479 42 15"
-        },
-        {
-          "text": "marc.doppelbauer@scb.se",
-          "href": "mailto:marc.doppelbauer@scb.se",
-          "url": "mailto:marc.doppelbauer@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Situationen på arbetsmarknaden för personer med funktionsnedsättning – äldre statistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Funktionsnedsättning"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Funktionsnedsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

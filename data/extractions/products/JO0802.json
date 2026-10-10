@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0802",
     "response_url": "https://www.scb.se/JO0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arealforhallanden/",
-    "fetched_at": "2026-10-05T13:11:47.521719Z",
+    "fetched_at": "2026-10-10T01:16:50.767517Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "73ee026e7d2921de595772cd3afc1cf2439d43f05a4777db0b39d986af07e08f",
+    "content_sha256": "8d6082f6ed329abfbf505f56557f63dbc09a385bd650817ff855bbf61e0bc371",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Areal",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=13",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=13"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    },
-    {
-      "text": "Skog",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-    },
-    {
-      "text": "Skogsmark",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Sveriges lantbruksuniversitet (SLU)",
           "href": "http://www.slu.se/skogsstatistik",
           "url": "http://www.slu.se/skogsstatistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arealförhållanden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Per-Erik Wikberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "090-786 83 03",
-        "E-post",
-        "per-erik.wikberg@slu.se"
-      ],
-      "links": [
-        {
-          "text": "090-786 83 03",
-          "href": "tel:090-786 83 03",
-          "url": "tel:090-786 83 03"
-        },
-        {
-          "text": "per-erik.wikberg@slu.se",
-          "href": "mailto:per-erik.wikberg@slu.se",
-          "url": "mailto:per-erik.wikberg@slu.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arealförhållanden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Areal",
-        "Miljö",
-        "Skog",
-        "Skogsmark"
-      ],
-      "links": [
-        {
-          "text": "Areal",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=13",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=13"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        },
-        {
-          "text": "Skog",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=227",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=227"
-        },
-        {
-          "text": "Skogsmark",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=228",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=228"
         }
       ],
       "table_headers": [],

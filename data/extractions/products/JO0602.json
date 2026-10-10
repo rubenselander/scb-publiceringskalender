@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0602",
     "response_url": "https://www.scb.se/JO0602",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/",
-    "fetched_at": "2026-10-05T13:11:41.387458Z",
+    "fetched_at": "2026-10-10T01:16:45.004376Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3c93886d986645d5d693daba653c6fbb2e5dc1314c7226432f38c1a56ac2faca",
+    "content_sha256": "0a46e0d477bebcfe461b3c279557ff4542a9cfff0c60e829f6523c4ace40d03b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -35,18 +35,7 @@
     "Från och med hösten 2020 publiceras statistiken i en statistikrapport och i Jordbruksverkets statistikdatabas.",
     "Jordbruksverket"
   ],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -646,82 +635,7 @@
         "Beskrivning av Normskördar",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Normskördar",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/produktrelaterat/Fordjupad-information/beskrivning-av-normskordar/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/produktrelaterat/Fordjupad-information/beskrivning-av-normskordar/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Normskördar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lantbruksstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lantbruksstatistik@scb.se",
-          "href": "mailto:lantbruksstatistik@scb.se",
-          "url": "mailto:lantbruksstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Normskördar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

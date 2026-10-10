@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0112",
     "response_url": "https://www.scb.se/JO0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/dranering-av-jordbruksmark/",
-    "fetched_at": "2026-10-05T13:11:24.634552Z",
+    "fetched_at": "2026-10-10T01:16:28.108643Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "34a5032a4ebda7b9102c9b538187ee957bc534766721796070d0986eb6ad21f8",
+    "content_sha256": "a5195521ba40e7323071e08c7050842b71b5fa8f58ae6039c3a3014d02011ae2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -264,71 +258,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0112",
           "url": "https://metadata.scb.se/?produkt=JO0112"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Dränering av jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Dränering av jordbruksmark",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
         }
       ],
       "table_headers": [],

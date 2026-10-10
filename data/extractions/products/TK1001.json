@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1001",
     "response_url": "https://www.scb.se/TK1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/",
-    "fetched_at": "2026-10-05T13:14:40.644246Z",
+    "fetched_at": "2026-10-10T01:18:54.770276Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "171cbb0a66360b273470e3090ef39d967b7848bc407e4c151269f6cef248058d",
+    "content_sha256": "ed65412588c561b0939e6af7614668fcaef94772b5fd4a7a879388c5c982a4c4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -35,23 +35,7 @@
     "Från och med januari 2021 kommer statistiknyheter för nyregistreringar av fordon att publiceras på Trafikanalys webbplats.",
     "Trafikanalys"
   ],
-  "tags": [
-    {
-      "text": "Bilar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=28",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=28"
-    },
-    {
-      "text": "Fordon",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=59",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=59"
-    },
-    {
-      "text": "Lastbilar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1115,171 +1099,7 @@
         "Skräddarsydd fordonsstatistik",
         "Körsträckedata"
       ],
-      "links": [
-        {
-          "text": "Körsträckor och bränsleförbrukning",
-          "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/korstrackor-och-bransleforbrukning/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/korstrackor-och-bransleforbrukning/"
-        },
-        {
-          "text": "Skräddarsydd fordonsstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/skraddarsydd-fordonsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/skraddarsydd-fordonsstatistik/"
-        },
-        {
-          "text": "Körsträckedata",
-          "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/korstrackedata/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/produktrelaterat/Fordjupad-information/korstrackedata/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fordon",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "uppdrag@scb.se"
-      ],
-      "links": [
-        {
-          "text": "uppdrag@scb.se",
-          "href": "mailto:uppdrag@scb.se",
-          "url": "mailto:uppdrag@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fordon",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Annika Johansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 25",
-        "E-post",
-        "annika.johansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 25",
-          "href": "tel:010-479 68 25",
-          "url": "tel:010-479 68 25"
-        },
-        {
-          "text": "annika.johansson@scb.se",
-          "href": "mailto:annika.johansson@scb.se",
-          "url": "mailto:annika.johansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fordon",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Magnus Nyström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 63 73",
-        "E-post",
-        "magnus.nystrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 63 73",
-          "href": "tel:010-479 63 73",
-          "url": "tel:010-479 63 73"
-        },
-        {
-          "text": "magnus.nystrom@scb.se",
-          "href": "mailto:magnus.nystrom@scb.se",
-          "url": "mailto:magnus.nystrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fordon",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bilar",
-        "Fordon",
-        "Lastbilar"
-      ],
-      "links": [
-        {
-          "text": "Bilar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=28",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=28"
-        },
-        {
-          "text": "Fordon",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=59",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=59"
-        },
-        {
-          "text": "Lastbilar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

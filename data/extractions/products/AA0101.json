@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AA0101",
     "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/amnesovergripande-statistik/sveriges-ekonomi-statistiskt-perspektiv/",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/amnesovergripande-statistik/sveriges-ekonomi-statistiskt-perspektiv/",
-    "fetched_at": "2026-10-05T13:09:58.045457Z",
+    "fetched_at": "2026-10-10T01:15:11.360901Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a3f40bba6ee495b84df886d047df526b9b2f9f6289cfdd208d734ef95ac90fc",
+    "content_sha256": "ddb3232933ca673cc7910c1cd856a740a7c057c32a3f965016c78d5ff13c2fa3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,23 +27,7 @@
   "next_publication_date": "2026-10-14",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "BNP",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-    },
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Konjunktur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -278,83 +262,7 @@
       "paragraphs": [
         "Tema Sveriges ekonomi"
       ],
-      "links": [
-        {
-          "text": "Tema Sveriges ekonomi",
-          "href": "/hitta-statistik/temaomraden/sveriges-ekonomi/",
-          "url": "https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sveriges ekonomi – statistiskt perspektiv",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "ekstat@scb.se"
-      ],
-      "links": [
-        {
-          "text": "ekstat@scb.se",
-          "href": "mailto:ekstat@scb.se",
-          "url": "mailto:ekstat@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sveriges ekonomi – statistiskt perspektiv",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "BNP",
-        "Ekonomi",
-        "Konjunktur"
-      ],
-      "links": [
-        {
-          "text": "BNP",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=29",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=29"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Konjunktur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=107",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=107"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

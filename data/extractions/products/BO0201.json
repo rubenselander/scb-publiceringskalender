@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0201",
     "response_url": "https://www.scb.se/BO0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/",
-    "fetched_at": "2026-10-05T13:10:22.468229Z",
+    "fetched_at": "2026-10-10T01:15:31.265644Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "440f8b893797a0f54db3e286a98b7aa81844da6a57a849f9d91576a795593908",
+    "content_sha256": "b39f6832559f29729abdbc824e3d1deace8073567e8eb7a7c1a0a08470ddadfd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": "2026-12-04",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bostäder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-    },
-    {
-      "text": "Byggande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-    },
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1823,138 +1802,7 @@
         "Skräddarsydd statistik",
         "Enkäter"
       ],
-      "links": [
-        {
-          "text": "Byggnadsprisindex BPI",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/byggnadsprisindex-bpi/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/byggnadsprisindex-bpi/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        },
-        {
-          "text": "Enkäter",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/enkater/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/priser-for-nyproducerade-bostader/produktrelaterat/Fordjupad-information/enkater/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Priser för nyproducerade bostäder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Priser för nyproducerade bostäder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tommy Lindkvist",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 47 26",
-        "E-post",
-        "tommy.lindkvist@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 47 26",
-          "href": "tel:010-479 47 26",
-          "url": "tel:010-479 47 26"
-        },
-        {
-          "text": "tommy.lindkvist@scb.se",
-          "href": "mailto:tommy.lindkvist@scb.se",
-          "url": "mailto:tommy.lindkvist@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Priser för nyproducerade bostäder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bostäder",
-        "Byggande",
-        "Fastigheter",
-        "Lägenheter"
-      ],
-      "links": [
-        {
-          "text": "Bostäder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=33",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=33"
-        },
-        {
-          "text": "Byggande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=36",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=36"
-        },
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

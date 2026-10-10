@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0103",
     "response_url": "https://www.scb.se/HS0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/amning/",
-    "fetched_at": "2026-10-05T13:11:03.347160Z",
+    "fetched_at": "2026-10-10T01:16:14.203805Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dc10f2f169b3663017c523ee5442b7bb584fcd900337191e41be454ef6890891",
+    "content_sha256": "a9bf4d5da4c2b300d61a95fd9114b43c4b957ef182ad3a18ca969f4bd5d9522e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,28 +34,7 @@
   "notices": [
     "Statistiken uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "Amning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=224",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=224"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -106,89 +85,6 @@
         "Statistiken uppdateras inte längre."
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om amning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om amning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Hälsa och ohälsa",
-        "Amning"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "Amning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=224",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=224"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

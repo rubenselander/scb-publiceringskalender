@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0103",
     "response_url": "https://www.scb.se/FM0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/",
-    "fetched_at": "2026-10-05T13:10:46.882992Z",
+    "fetched_at": "2026-10-10T01:15:54.759714Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6d360d017c28b28dc2be87469bfd1005c71c170ee71647c886984e0a78305935",
+    "content_sha256": "7a52721fe8d63e3503f2d3601e22ec6f95b0b992e564a979d814d29eeda12ed9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,38 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Finanser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=54",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=54"
-    },
-    {
-      "text": "Förmögenhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=69",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=69"
-    },
-    {
-      "text": "Sparande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    },
-    {
-      "text": "Transaktioner",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=196",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=196"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -620,13 +589,7 @@
       "paragraphs": [
         "Vad kostar inflations- och räntechocken hushållen i kronor (pdf)"
       ],
-      "links": [
-        {
-          "text": "Vad kostar inflations- och räntechocken hushållen i kronor (pdf)",
-          "href": "/contentassets/84fbfbc8bc9a4fc4b8568e75f1768b52/vad-kostar-inflations-och-rantechocken-hushallen-i-kronor.pdf",
-          "url": "https://www.scb.se/contentassets/84fbfbc8bc9a4fc4b8568e75f1768b52/vad-kostar-inflations-och-rantechocken-hushallen-i-kronor.pdf"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -983,160 +946,7 @@
         "Revideringspolicy",
         "Nya källor för värdepapperstatistik"
       ],
-      "links": [
-        {
-          "text": "Revideringspolicy",
-          "href": "/contentassets/84fbfbc8bc9a4fc4b8568e75f1768b52/revideringspolicy-finansrakenskaperna-2026.pdf",
-          "url": "https://www.scb.se/contentassets/84fbfbc8bc9a4fc4b8568e75f1768b52/revideringspolicy-finansrakenskaperna-2026.pdf"
-        },
-        {
-          "text": "Nya källor för värdepapperstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/produktrelaterat/Fordjupad-information/nya-kallor-for-vardepapperstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/produktrelaterat/Fordjupad-information/nya-kallor-for-vardepapperstatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansräkenskaper, kvartal och år",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansräkenskaper, kvartal och år",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansräkenskaper, kvartal och år",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, Nationalräkenskaper",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "nrinfo@scb.se"
-      ],
-      "links": [
-        {
-          "text": "nrinfo@scb.se",
-          "href": "mailto:nrinfo@scb.se",
-          "url": "mailto:nrinfo@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansräkenskaper, kvartal och år",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Finanser",
-        "Förmögenhet",
-        "Sparande",
-        "Tillgångar och skulder",
-        "Transaktioner"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Finanser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=54",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=54"
-        },
-        {
-          "text": "Förmögenhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=69",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=69"
-        },
-        {
-          "text": "Sparande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-        },
-        {
-          "text": "Transaktioner",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=196",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=196"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

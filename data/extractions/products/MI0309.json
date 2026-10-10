@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0309",
     "response_url": "https://www.scb.se/MI0309",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/",
-    "fetched_at": "2026-10-05T13:12:28.562479Z",
+    "fetched_at": "2026-10-10T01:17:25.369216Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b44a354f45522a1c28338415751b3c3f6a78c214caedd7f66cd82b81225aa503",
+    "content_sha256": "17a4eb3038cc219ae84b3b8bcd75f256a69478b49a80babc46d37f056802c402",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Avfall",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    },
-    {
-      "text": "Kemikalier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -480,163 +459,7 @@
         "Rapportering för producentansvar elutrustning (Naturvårdsverket)",
         "Rapportering för producentansvar batterier (Naturvårdsverket)"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd avfallsstatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/produktrelaterat/Fordjupad-information/skraddarsydd-avfallsstatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/produktrelaterat/Fordjupad-information/skraddarsydd-avfallsstatistik/"
-        },
-        {
-          "text": "Producentansvaret för batterier (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/",
-          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/"
-        },
-        {
-          "text": "Producentansvar för elutrustning (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/",
-          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/"
-        },
-        {
-          "text": "Rapportering för producentansvar elutrustning (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/#E2104318509",
-          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-elutrustning/#E2104318509"
-        },
-        {
-          "text": "Rapportering för producentansvar batterier (Naturvårdsverket)",
-          "href": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/#E-802129557",
-          "url": "https://www.naturvardsverket.se/vagledning-och-stod/producentansvar/producentansvar-for-batterier/#E-802129557"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, elutrustning och batterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, elutrustning och batterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, elutrustning och batterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Naturvårdsverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "avfallsstatistik@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "avfallsstatistik@naturvardsverket.se",
-          "href": "mailto:avfallsstatistik@naturvardsverket.se",
-          "url": "mailto:avfallsstatistik@naturvardsverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, elutrustning och batterier",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avfall",
-        "El",
-        "Kemikalier",
-        "Miljö"
-      ],
-      "links": [
-        {
-          "text": "Avfall",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        },
-        {
-          "text": "Kemikalier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=105",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=105"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

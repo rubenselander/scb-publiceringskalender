@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0122",
     "response_url": "https://www.scb.se/NV0122",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/ovrigt/maritima-naringar/",
-    "fetched_at": "2026-10-05T13:13:05.107339Z",
+    "fetched_at": "2026-10-10T01:17:57.888635Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9ee6ba293f6c4e4f55c728e481971a3c7ec82e42f8da863441cee213f39cc349",
+    "content_sha256": "534b88738704fb4d1205229fe3bf7a03bce88b852c7546dd3e38cbdc147e3c79",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -200,52 +200,7 @@
       "paragraphs": [
         "Redovisning av regeringsuppdraget att utveckla statistiken kring de maritima näringarna (pdf)"
       ],
-      "links": [
-        {
-          "text": "Redovisning av regeringsuppdraget att utveckla statistiken kring de maritima näringarna (pdf)",
-          "href": "/contentassets/930201cc060d402180862db287e89f58/redovisning-av-regeringsuppdraget-att-utveckla-statistiken-kring-de-maritima-naringarna-januari-2017.pdf",
-          "url": "https://www.scb.se/contentassets/930201cc060d402180862db287e89f58/redovisning-av-regeringsuppdraget-att-utveckla-statistiken-kring-de-maritima-naringarna-januari-2017.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Maritima näringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Lars Werke",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 57",
-        "E-post",
-        "lars.werke@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 57",
-          "href": "tel:010-479 68 57",
-          "url": "tel:010-479 68 57"
-        },
-        {
-          "text": "lars.werke@scb.se",
-          "href": "mailto:lars.werke@scb.se",
-          "url": "mailto:lars.werke@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

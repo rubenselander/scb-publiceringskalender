@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0106",
     "response_url": "https://www.scb.se/MI0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/utslapp/utslapp-till-vatten-och-slamproduktion--kommunala-reningsverk-skogsindustri-samt-viss-ovrig-industri/",
-    "fetched_at": "2026-10-05T13:12:25.058303Z",
+    "fetched_at": "2026-10-10T01:17:21.843234Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6946b6ef6ff608d60aef027d08ef4156d7c8db6ad8df2c3e59fa7d1340b2cc54",
+    "content_sha256": "d1a9e94322e72fed879f61dd81f9ef888e429cb095c70139146a12548dd7a438",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Avlopp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=15",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=15"
-    },
-    {
-      "text": "Utsläpp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -742,70 +731,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=MI0106",
           "url": "https://metadata.scb.se/?produkt=MI0106"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp till vatten och slamproduktion – Kommunala reningsverk, skogsindustri samt viss övrig industri",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "miljostatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "miljostatistik@scb.se",
-          "href": "mailto:miljostatistik@scb.se",
-          "url": "mailto:miljostatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utsläpp till vatten och slamproduktion – Kommunala reningsverk, skogsindustri samt viss övrig industri",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avlopp",
-        "Utsläpp"
-      ],
-      "links": [
-        {
-          "text": "Avlopp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=15",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=15"
-        },
-        {
-          "text": "Utsläpp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
         }
       ],
       "table_headers": [],

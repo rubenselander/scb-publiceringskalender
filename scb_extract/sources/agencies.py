@@ -1,4 +1,8 @@
-"""Faithful agency lists, ordered regulation text and full registry groups."""
+"""Faithful agency lists and full agency-register groups.
+
+The register adapter is disabled in scheduled runs (see runner.DISABLED_SOURCE_IDS);
+its linked rows are kept in data/reference/agency_registry_linked.json.
+"""
 
 import csv
 import io
@@ -8,7 +12,7 @@ from collections.abc import Callable
 from dataclasses import dataclass
 from urllib.parse import urlsplit
 
-from bs4 import BeautifulSoup, NavigableString, Tag
+from bs4 import BeautifulSoup, Tag
 from pydantic import BaseModel
 
 from scb_extract.core import (
@@ -22,10 +26,8 @@ from scb_extract.core import (
 from scb_extract.models.agencies_law import (
     AgencyRegistryDocument,
     EuropeanAgenciesDocument,
-    LawBlock,
     OfficialAgenciesDocument,
     OfficialAgency,
-    OfficialStatisticsRegulationDocument,
     RegistryAgency,
     RegistryGroup,
     SourceField,
@@ -36,7 +38,6 @@ from scb_extract.models.agencies_law import (
 
 OFFICIAL_URL = "https://www.scb.se/om-scb/samordning-av-sveriges-officiella-statistik/statistikansvariga-myndigheter/"
 EUROPEAN_URL = "https://www.scb.se/om-scb/samordning-av-europeisk-statistik-i-sverige/myndigheter-som-ansvarar-for-europeisk-statistik/"
-REGULATION_URL = "https://data.riksdagen.se/dokument/sfs-2001-100.html"
 REGISTRY_URL = "https://myndighetsregistret.scb.se/Myndighet"
 
 
@@ -194,71 +195,6 @@ def parse_european_agencies(snapshot: FetchSnapshot) -> EuropeanAgenciesDocument
         central_bank_links=[
             link for node in bank_paragraphs for link in _links(node, snapshot)
         ],
-    )
-
-
-def parse_regulation(snapshot: FetchSnapshot) -> OfficialStatisticsRegulationDocument:
-    """Capture direct ordered law children; inline and pre whitespace is retained."""
-    soup = BeautifulSoup(snapshot.text, "lxml")
-    body = _required(soup, "body")
-    title = _text(_required(body, "h2"))
-    metadata = []
-    for label in body.find_all("b", recursive=False):
-        value = []
-        for node in label.next_siblings:
-            if isinstance(node, Tag) and node.name in ("br", "b", "hr"):
-                break
-            value.append(node.get_text() if isinstance(node, Tag) else str(node))
-        metadata.append(
-            SourceField(
-                label=_text(label), value="".join(value).strip().lstrip(":").strip()
-            )
-        )
-    # Link labels and URL values are both retained, without an invented API route.
-    for link in body.find_all("a", recursive=False):
-        metadata.append(
-            SourceField(
-                label=_text(link), value=absolute_url(snapshot.final_url, link["href"])
-            )
-        )
-    number = next((field.value for field in metadata if field.label == "SFS nr"), None)
-    if not number:
-        raise ValueError("Missing SFS number")
-    law = next(
-        (
-            node
-            for node in body.find_all("div", recursive=False)
-            if "sfstoc" not in node.get("class", [])
-        ),
-        None,
-    )
-    if law is None:
-        raise ValueError("Missing regulation full text")
-    blocks = []
-    for node in law.children:
-        if isinstance(node, Tag):
-            if node.name in ("style", "script"):
-                continue
-            text = node.get_text(separator="\n" if node.name == "br" else "")
-            if node.name == "br":
-                text = "\n"
-            tag = node.name
-        elif isinstance(node, NavigableString):
-            text, tag = str(node), "text"
-        else:
-            continue
-        # Empty anchor-only elements have no legal prose; retain every nonempty span.
-        if text:
-            blocks.append(LawBlock(source_tag=tag, text=text))
-    if not any(block.source_tag == "pre" for block in blocks):
-        raise ValueError("Missing aligned regulation appendix")
-    return OfficialStatisticsRegulationDocument(
-        provenance=snapshot.provenance(selector="body > div:not(.sfstoc)"),
-        page_title=title,
-        sfs_number=number,
-        metadata=metadata,
-        coverage="complete",
-        content_blocks=blocks,
     )
 
 
@@ -541,6 +477,5 @@ ADAPTERS: dict[str, SourceAdapter] = {
     "european_agencies": PageAdapter(
         "european_agencies", EUROPEAN_URL, parse_european_agencies
     ),
-    "regulation": PageAdapter("regulation", REGULATION_URL, parse_regulation),
     "agency_registry": RegistryAdapter(),
 }

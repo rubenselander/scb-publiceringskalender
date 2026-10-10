@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0801",
     "response_url": "https://www.scb.se/NV0801",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/investeringsenkaten/",
-    "fetched_at": "2026-10-05T13:13:08.606298Z",
+    "fetched_at": "2026-10-10T01:18:00.768572Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3ee6f8df769c6e1f956e8b0cb5ac1eae80d88efec4479601a958d373493c36a1",
+    "content_sha256": "0620730d911feb10b7b1e2cd76cfa48b64450b2600594124e91a7d3075530e85",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Investeringar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -469,103 +463,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=NV0801",
           "url": "https://metadata.scb.se/?produkt=NV0801"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsenkäten",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "esk@scb.se"
-      ],
-      "links": [
-        {
-          "text": "esk@scb.se",
-          "href": "mailto:esk@scb.se",
-          "url": "mailto:esk@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsenkäten",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Nathalie Persson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 69 91",
-        "E-post",
-        "nathalie.persson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 69 91",
-          "href": "tel:010-479 69 91",
-          "url": "tel:010-479 69 91"
-        },
-        {
-          "text": "nathalie.persson@scb.se",
-          "href": "mailto:nathalie.persson@scb.se",
-          "url": "mailto:nathalie.persson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsenkäten",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Investeringar"
-      ],
-      "links": [
-        {
-          "text": "Investeringar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=99",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=99"
         }
       ],
       "table_headers": [],

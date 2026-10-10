@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0105",
     "response_url": "https://www.scb.se/EN0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/",
-    "fetched_at": "2026-10-05T13:10:29.338437Z",
+    "fetched_at": "2026-10-10T01:15:37.363438Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a420a193673084ee2e468d38a0cd404b9fc0a5bd3fef227f136ef3e8800c0ed7",
+    "content_sha256": "09ee5bdb0eadd1cb269730e1c1136207932952982f09a37979c1e4f52d8480b4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0105",
   "summary": "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-08",
-  "next_publication_date": "2026-10-08",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -54,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-08",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch)."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-08",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -125,9 +108,9 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Tillförsel och användning av el 2001–2024 (GWh)",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012024-gwh/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012024-gwh/"
+          "text": "Tillförsel och användning av el 2001–2025 (GWh)",
+          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012025-gwh/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/pong/tabell-och-diagram/tillforsel-och-anvandning-av-el-20012025-gwh/"
         },
         {
           "text": "Fjärrvärme (GWh)",
@@ -147,14 +130,14 @@
           "Datum"
         ],
         [
-          "Tillförsel och användning av el 2001–2024 (GWh)",
+          "Tillförsel och användning av el 2001–2025 (GWh)",
           "Tabell",
-          "2025-10-08"
+          "2026-10-08"
         ],
         [
           "Fjärrvärme (GWh)",
           "Tabell",
-          "2025-10-08"
+          "2026-10-08"
         ]
       ]
     },
@@ -198,67 +181,67 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2024",
+          "text": "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnlInstEffBrProd",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnlInstEffBrProd"
         },
         {
-          "text": "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "text": "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UttagspSNI2007Ar",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UttagspSNI2007Ar"
         },
         {
-          "text": "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2024",
+          "text": "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforangaAR",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforangaAR"
         },
         {
-          "text": "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2024",
+          "text": "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforelARb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BrforelARb"
         },
         {
-          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2024",
+          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007ArN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007ArN"
         },
         {
-          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2024",
+          "text": "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007Ar",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAnvSNI2007Ar"
         },
         {
-          "text": "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2024",
+          "text": "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElProdAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElProdAr"
         },
         {
-          "text": "Fjärrkyla. År 2018 - 2024",
+          "text": "Fjärrkyla. År 2018 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FjarrKyla",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FjarrKyla"
         },
         {
-          "text": "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2024",
+          "text": "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdBrAnvVGr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdBrAnvVGr"
         },
         {
-          "text": "Omsatt värme. År 2015 - 2024",
+          "text": "Omsatt värme. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsVarme",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsVarme"
         },
         {
-          "text": "Värmeleveranser till slutliga förbrukare. År 2015 - 2024",
+          "text": "Värmeleveranser till slutliga förbrukare. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VarmeLev",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VarmeLev"
         },
         {
-          "text": "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2024",
+          "text": "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Inkvarde",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Inkvarde"
         },
         {
-          "text": "Nätanslutna batterier efter lagringskapacitet.  År 2024",
+          "text": "Nätanslutna batterier efter lagringskapacitet.  År 2024 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Batterier",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Batterier"
         }
@@ -273,56 +256,56 @@
           "Datum"
         ],
         [
-          "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2024",
-          "2025-10-08"
+          "Bruttoproduktion, installerad effekt samt antal anläggningar fördelat på elområde. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2024",
-          "2025-10-08"
+          "Antal uttagspunkter fördelat på användningsområde (SNI 2007) och elområde. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2024",
-          "2025-10-08"
+          "Bränsleförbrukning för produktion av ånga och hetvatten i Sverige efter produktionsslag och bränsletyp. År 1990 - 2025",
+          "2026-10-08"
         ],
         [
-          "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2024",
-          "2025-10-08"
+          "Bränsleförbrukning för elproduktion i Sverige efter produktionsslag och bränsletyp.  År 1990 - 2025",
+          "2026-10-08"
         ],
         [
-          "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2024",
-          "2025-10-08"
+          "Elanvändning i Sverige efter användningsområde (SNI 2007) och elområde. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2024",
-          "2025-10-08"
+          "Elanvändning i Sverige efter användningsområde (SNI 2007). År 2008 - 2025",
+          "2026-10-08"
         ],
         [
-          "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2024",
-          "2025-10-08"
+          "Eltillförsel i Sverige efter produktionsslag. År 1986 - 2025",
+          "2026-10-08"
         ],
         [
-          "Fjärrkyla. År 2018 - 2024",
-          "2025-10-08"
+          "Fjärrkyla. År 2018 - 2025",
+          "2026-10-08"
         ],
         [
-          "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2024",
-          "2025-10-08"
+          "Nettoproduktion av el, bränsleanvändning samt verkningsgrad fördelat på kraftslag. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Omsatt värme. År 2015 - 2024",
-          "2025-10-08"
+          "Omsatt värme. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Värmeleveranser till slutliga förbrukare. År 2015 - 2024",
-          "2025-10-08"
+          "Värmeleveranser till slutliga förbrukare. År 2015 - 2025",
+          "2026-10-08"
         ],
         [
-          "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2024",
-          "2025-10-08"
+          "Inköpsvärde för bränsle till el- och värmeproduktion, samt för mottagen värme, efter bränsletyp. År 2021 - 2025",
+          "2026-10-08"
         ],
         [
-          "Nätanslutna batterier efter lagringskapacitet.  År 2024",
-          "2025-10-08"
+          "Nätanslutna batterier efter lagringskapacitet.  År 2024 - 2025",
+          "2026-10-08"
         ]
       ]
     },
@@ -548,6 +531,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -576,6 +560,11 @@
         "1999 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2025a_261008.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2025a_261008.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_kd_2024a_20251008.pdf",
@@ -729,6 +718,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -747,6 +737,11 @@
         "2009 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2025a_261008.pdf",
+          "url": "https://www.scb.se/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2025a_261008.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/431d8fb7c82442e59a73739bd6aff3b4/en0105_staf_2024a_20251008.pdf",
@@ -881,84 +876,7 @@
       "paragraphs": [
         "Beskrivning av Årlig energistatistik (el, gas och fjärrvärme)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Årlig energistatistik (el, gas och fjärrvärme)",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/produktrelaterat/Fordjupad-information/beskrivning-av-arlig-energistatistik-el-gas-och-fjarrvarme/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/produktrelaterat/Fordjupad-information/beskrivning-av-arlig-energistatistik-el-gas-och-fjarrvarme/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Susanne Enmalm",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 69 63",
-        "E-post",
-        "susanne.enmalm@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 69 63",
-          "href": "tel:010-479 69 63",
-          "url": "tel:010-479 69 63"
-        },
-        {
-          "text": "susanne.enmalm@scb.se",
-          "href": "mailto:susanne.enmalm@scb.se",
-          "url": "mailto:susanne.enmalm@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Årlig energistatistik (el, gas och fjärrvärme)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

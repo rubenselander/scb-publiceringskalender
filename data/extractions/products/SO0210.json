@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0210",
     "response_url": "https://www.scb.se/SO0210",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/insatser-for-barn-och-unga-mangduppgifter/",
-    "fetched_at": "2026-10-05T13:14:28.661953Z",
+    "fetched_at": "2026-10-10T01:18:45.919469Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9363e714b08fcc545fb9a6443543749ec6230d7b1ac9e674ec2d0632d365d2ad",
+    "content_sha256": "f2bfb00165fb98d423af124a7ee378f99b7a86e6f0f024f103f82328a11dd11e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Barn",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-    },
-    {
-      "text": "Familj",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-    },
-    {
-      "text": "Omsorg",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-    },
-    {
-      "text": "Socialtjänst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -87,89 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Insatser för barn och unga – mängduppgifter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Insatser för barn och unga – mängduppgifter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Omsorg",
-        "Socialtjänst"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51"
-        },
-        {
-          "text": "Omsorg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=233",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=233"
-        },
-        {
-          "text": "Socialtjänst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=238",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=238"
         }
       ],
       "table_headers": [],

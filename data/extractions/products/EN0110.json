@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0110",
     "response_url": "https://www.scb.se/EN0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-fritidshus/",
-    "fetched_at": "2026-10-05T13:10:31.838797Z",
+    "fetched_at": "2026-10-10T01:15:39.993627Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d089c7c8736d01f027922ffd0405a26a08d48d6463e1b62c5dcfe0178ea19dbf",
+    "content_sha256": "84bc94d115d1333a5e09360045440002f512dba32efa13aee5deab34457f004e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,71 +66,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för fritidshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Christoffer Tjärnberg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 22 95",
-        "E-post",
-        "christoffer.tjarnberg@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 22 95",
-          "href": "tel:016-544 22 95",
-          "url": "tel:016-544 22 95"
-        },
-        {
-          "text": "christoffer.tjarnberg@energimyndigheten.se",
-          "href": "mailto:christoffer.tjarnberg@energimyndigheten.se",
-          "url": "mailto:christoffer.tjarnberg@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Energistatistik för fritidshus",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "El"
-      ],
-      "links": [
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
         }
       ],
       "table_headers": [],

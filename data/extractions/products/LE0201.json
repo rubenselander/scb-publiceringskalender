@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0201",
     "response_url": "https://www.scb.se/LE0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/",
-    "fetched_at": "2026-10-05T13:12:13.081337Z",
+    "fetched_at": "2026-10-10T01:17:10.475579Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b8891ae841fe38900e97672dcc3f4186adae35aa6da95c4a6641188279ab241f",
+    "content_sha256": "aa8c02fd46b526ec32b3fb16908729ce2c139e7145fecc41475ea548704c9810",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,13 +25,7 @@
   "next_publication_date": "2026-10-15",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Jämställdhet",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=102",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=102"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -871,7 +865,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema22N"
         },
         {
-          "text": "Tabell 2.3 - Ekonomisk standard för personer 20–64 år. Medianinkomst, kronor i tusental efter hushållstyp. År 2011 - 2024",
+          "text": "Tabell 2.3 - Ekonomisk standard för personer i arbetande ålder. Medianinkomst, kronor i tusental efter hushållstyp. År 2011 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema23"
         },
@@ -1079,7 +1073,7 @@
           "2026-06-18"
         ],
         [
-          "Tabell 2.3 - Ekonomisk standard för personer 20–64 år. Medianinkomst, kronor i tusental efter hushållstyp. År 2011 - 2024",
+          "Tabell 2.3 - Ekonomisk standard för personer i arbetande ålder. Medianinkomst, kronor i tusental efter hushållstyp. År 2011 - 2024",
           "2026-06-18"
         ],
         [
@@ -1757,7 +1751,7 @@
         ],
         [
           "Tabell 4.2 - Ersatta dagar med föräldrapenning och för vård av barn. År 1974 - 2025",
-          "2026-03-26"
+          "2026-08-11"
         ],
         [
           "Tabell 4.3 - Genomsnittlig tidsanvändning för personer i åldern 20–64 år. År 1990/91 - 2010/11",
@@ -1843,7 +1837,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema52N"
         },
         {
-          "text": "Tabell 5.3 - Självrapporterad hälsa för personer i åldern 16-84 år efter födelseregion. År 2024",
+          "text": "Tabell 5.3 - Självrapporterad hälsa för personer i åldern 16–84 år efter födelseregion. År 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema53N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tema53N"
         },
@@ -2036,7 +2030,7 @@
           "2024-12-11"
         ],
         [
-          "Tabell 5.3 - Självrapporterad hälsa för personer i åldern 16-84 år efter födelseregion. År 2024",
+          "Tabell 5.3 - Självrapporterad hälsa för personer i åldern 16–84 år efter födelseregion. År 2024",
           "2024-12-11"
         ],
         [
@@ -2752,220 +2746,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Jämställdheten på arbetsmarknaden inom EU har gått framåt de senaste årtiondena. Men bakom siffrorna döljer sig fortfarande stora ojämlikheter mellan kvinnor och män."
-      ],
-      "links": [
-        {
-          "text": "Långsam utveckling för jämställdheten i EU",
-          "href": "/hitta-statistik/artiklar/2024/langsam-utveckling-for-jamstalldheten-i-eu/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2024/langsam-utveckling-for-jamstalldheten-i-eu/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2024-09-17"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Det är en ojämn könsfördelning i Europaparlamentet. En majoritet av ledamöterna är män; 64 procent. En nivå som legat nästan konstant de senaste tio åren."
-      ],
-      "links": [
-        {
-          "text": "Män har makten i EU",
-          "href": "/hitta-statistik/artiklar/2019/man-har-makten-i-eu/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2019/man-har-makten-i-eu/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2019-05-20"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Demokrati",
-        "Jämställdhet",
-        "Europa"
-      ],
-      "links": [
-        {
-          "text": "Demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39&selection=articles"
-        },
-        {
-          "text": "Jämställdhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=102&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=102&selection=articles"
-        },
-        {
-          "text": "Europa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=319&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "För att göra det lättare att kombinera familjeliv och arbetsliv finns det mål inom EU för tillgång till barnomsorg. Det finns tydliga skillnader mellan länder, både vad gäller sysselsättning och tillgång till barnomsorg."
-      ],
-      "links": [
-        {
-          "text": "Få länder når upp till mål om sysselsättning och barnomsorg",
-          "href": "/hitta-statistik/artiklar/2018/fa-lander-nar-upp-till-mal-om-sysselsattning-och-barnomsorg/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/fa-lander-nar-upp-till-mal-om-sysselsattning-och-barnomsorg/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-10-09"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Barn",
-        "Familj",
-        "Sysselsatta"
-      ],
-      "links": [
-        {
-          "text": "Barn",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=19&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=19&selection=articles"
-        },
-        {
-          "text": "Familj",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=51&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=51&selection=articles"
-        },
-        {
-          "text": "Sysselsatta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=188&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Aktuellt",
           "level": 2,
           "anchor": "_Aktuellt"
@@ -2974,13 +2754,7 @@
       "paragraphs": [
         "Flyer - På tal om kvinnor och män (pdf)"
       ],
-      "links": [
-        {
-          "text": "Flyer - På tal om kvinnor och män (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/produktrelaterat/aktuellt/flyer---pa-tal-om-kvinnor-och-man/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/produktrelaterat/aktuellt/flyer---pa-tal-om-kvinnor-och-man/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -3282,145 +3056,7 @@
         "Män har makten i EU",
         "Engendering Statistics – A Tool for Change"
       ],
-      "links": [
-        {
-          "text": "Osäkerhetstal i På tal om kvinnor och män 2024 (xlsx)",
-          "href": "/contentassets/2a4d8b96c4cf4ee88d05034b77717d1e/osakerhetstal-250217.xlsx",
-          "url": "https://www.scb.se/contentassets/2a4d8b96c4cf4ee88d05034b77717d1e/osakerhetstal-250217.xlsx"
-        },
-        {
-          "text": "Jämställdhetspolitiken",
-          "href": "http://www.regeringen.se/sb/d/2593",
-          "url": "http://www.regeringen.se/sb/d/2593"
-        },
-        {
-          "text": "Könsuppdelad statistik – Ett nödvändigt medel för jämställdhetsanalys",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/produktrelaterat/Fordjupad-information/konsuppdelad-statistik--ett-nodvandigt-medel-for-jamstalldhetsanalys/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/produktrelaterat/Fordjupad-information/konsuppdelad-statistik--ett-nodvandigt-medel-for-jamstalldhetsanalys/"
-        },
-        {
-          "text": "Män har makten i EU",
-          "href": "/hitta-statistik/artiklar/2019/man-har-makten-i-eu/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2019/man-har-makten-i-eu/"
-        },
-        {
-          "text": "Engendering Statistics – A Tool for Change",
-          "href": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/le0202_1996a01_br_x93%C3%B6p9601.pdf",
-          "url": "http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/le0202_1996a01_br_x93%C3%B6p9601.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "jamstalldhet@scb.se"
-      ],
-      "links": [
-        {
-          "text": "jamstalldhet@scb.se",
-          "href": "mailto:jamstalldhet@scb.se",
-          "url": "mailto:jamstalldhet@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Jämställdhetsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jämställdhet"
-      ],
-      "links": [
-        {
-          "text": "Jämställdhet",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=102",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=102"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

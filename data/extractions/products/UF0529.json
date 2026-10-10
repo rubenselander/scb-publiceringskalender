@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0529",
     "response_url": "https://www.scb.se/UF0529",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/hogutbildade-utrikes-fodda/",
-    "fetched_at": "2026-10-05T13:15:34.741002Z",
+    "fetched_at": "2026-10-10T01:19:34.489003Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "42c3cb0c8dcb4d87cbe3a06391f31cb0197a24811c19dc020c50adf5f2a62407",
+    "content_sha256": "a275d51e2a9fe972e595a30a1cde60bce4e51909975a34464718cfdc06b46daf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -1318,45 +1318,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0529",
           "url": "https://metadata.scb.se/?produkt=UF0529"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Högutbildade utrikes födda",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tomas Westling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 61 78",
-        "E-post",
-        "tomas.westling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 61 78",
-          "href": "tel:010-479 61 78",
-          "url": "tel:010-479 61 78"
-        },
-        {
-          "text": "tomas.westling@scb.se",
-          "href": "mailto:tomas.westling@scb.se",
-          "url": "mailto:tomas.westling@scb.se"
         }
       ],
       "table_headers": [],

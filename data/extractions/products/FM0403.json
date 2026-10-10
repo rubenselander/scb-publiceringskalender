@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0403",
     "response_url": "https://www.scb.se/FM0403",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/investeringsfonder-tillgangar-och-skulder/",
-    "fetched_at": "2026-10-05T13:10:49.168216Z",
+    "fetched_at": "2026-10-10T01:15:57.435480Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "45191bc40c68c428f10f49447be3aeb4928c4b87639a5edfeab0253d71dd6c90",
+    "content_sha256": "9c6898588a04507b027f9dbbe55e1e0fd7aa7711c00996914e150d0090898f37",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,28 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Aktier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Sparande",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -743,128 +722,6 @@
           "text": "fmfi@scb.se",
           "href": "mailto:fmfi@scb.se",
           "url": "mailto:fmfi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsfonder, tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Malcolm Svensson Rothmaier",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 64",
-        "E-post",
-        "malcolm.svenssonrothmaier@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 64",
-          "href": "tel:010-479 41 64",
-          "url": "tel:010-479 41 64"
-        },
-        {
-          "text": "malcolm.svenssonrothmaier@scb.se",
-          "href": "mailto:malcolm.svenssonrothmaier@scb.se",
-          "url": "mailto:malcolm.svenssonrothmaier@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsfonder, tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Nils-Henrik Jansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 15",
-        "E-post",
-        "nils-henrik.jansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 15",
-          "href": "tel:010-479 41 15",
-          "url": "tel:010-479 41 15"
-        },
-        {
-          "text": "nils-henrik.jansson@scb.se",
-          "href": "mailto:nils-henrik.jansson@scb.se",
-          "url": "mailto:nils-henrik.jansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Investeringsfonder, tillgångar och skulder",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Aktier",
-        "Hushåll",
-        "Sparande",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Aktier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Sparande",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=178",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=178"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

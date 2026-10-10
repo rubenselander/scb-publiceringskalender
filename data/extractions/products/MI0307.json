@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0307",
     "response_url": "https://www.scb.se/MI0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/",
-    "fetched_at": "2026-10-05T13:12:27.849589Z",
+    "fetched_at": "2026-10-10T01:17:24.636043Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "411a78691306b812d21b7162d2f779f3dca384b646d4c45b2c61cdc2814870a0",
+    "content_sha256": "a1599a45cdd0b98a75f1b35a7edcd084f669fabeec2e83f824aa31e404d6272b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,13 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Avfall",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -388,110 +382,7 @@
       "paragraphs": [
         "Återvinning av förpackningar (pdf)"
       ],
-      "links": [
-        {
-          "text": "Återvinning av förpackningar (pdf)",
-          "href": "https://www.naturvardsverket.se/data-och-statistik/producentansvar/atervinning-av-forpackningar/",
-          "url": "https://www.naturvardsverket.se/data-och-statistik/producentansvar/atervinning-av-forpackningar/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, förpackningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Naturvårdsverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "avfallsstatistik@naturvardsverket.se"
-      ],
-      "links": [
-        {
-          "text": "avfallsstatistik@naturvardsverket.se",
-          "href": "mailto:avfallsstatistik@naturvardsverket.se",
-          "url": "mailto:avfallsstatistik@naturvardsverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, förpackningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Malin Andersson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-479 42 31",
-        "E-post",
-        "malin.andersson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "08-479 42 31",
-          "href": "tel:08-479 42 31",
-          "url": "tel:08-479 42 31"
-        },
-        {
-          "text": "malin.andersson@scb.se",
-          "href": "mailto:malin.andersson@scb.se",
-          "url": "mailto:malin.andersson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Avfall, förpackningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avfall"
-      ],
-      "links": [
-        {
-          "text": "Avfall",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=14",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=14"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

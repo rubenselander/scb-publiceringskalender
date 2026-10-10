@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0604",
     "response_url": "https://www.scb.se/JO0604",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/animalieproduktion/",
-    "fetched_at": "2026-10-05T13:11:42.880243Z",
+    "fetched_at": "2026-10-10T01:16:46.319504Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b50f3d93489654bd7bbd8d77e2d650b940e7c46a3abcf6f4cc49298789fc95eb",
+    "content_sha256": "92cdebcabe69ee3651c2b6c30a8ff4d0c211d612edec56dbeb8c41a128911fde",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0604",
   "summary": "Statistiken visar bland annat mängd invägd mjölk och produktion vid mejeri och slakt av större husdjur och fjäderfä vid slakteri. Jämförelser med länder i EU görs också.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-11-13",
+  "next_publication_date": "2026-11-13",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Djur",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-    },
-    {
-      "text": "Produktion",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -54,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-11-13",
         "Statistiken visar bland annat mängd invägd mjölk och produktion vid mejeri och slakt av större husdjur och fjäderfä vid slakteri. Jämförelser med länder i EU görs också."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-11-13",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0604&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0604&period=Forward1Year"
         }
@@ -845,77 +834,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=JO0604",
           "url": "https://metadata.scb.se/?produkt=JO0604"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Animalieproduktion",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Animalieproduktion",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Djur",
-        "Produktion"
-      ],
-      "links": [
-        {
-          "text": "Djur",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=41",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=41"
-        },
-        {
-          "text": "Produktion",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=157",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=157"
         }
       ],
       "table_headers": [],

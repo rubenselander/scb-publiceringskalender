@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1502",
     "response_url": "https://www.scb.se/NV1502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/utlandska-foretag/",
-    "fetched_at": "2026-10-05T13:13:22.157021Z",
+    "fetched_at": "2026-10-10T01:18:05.194487Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "12e8af0f6009a22d278069c7a0fa606aa7c9bb90ad517fbfad7ceb39bdc30269",
+    "content_sha256": "93ef25a640bc5c4b291ca332db339f2f7ba997af883b2f72f05174f472597753",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Anställda",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-    },
-    {
-      "text": "Företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-    },
-    {
-      "text": "Internationella företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -82,83 +66,6 @@
           "text": "Tillväxtanalys",
           "href": "http://www.tillvaxtanalys.se/statistik.html",
           "url": "http://www.tillvaxtanalys.se/statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utländska företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tillväxtanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-447 44 00",
-        "E-post",
-        "info@tillvaxtanalys.se"
-      ],
-      "links": [
-        {
-          "text": "010-447 44 00",
-          "href": "tel:010-447 44 00",
-          "url": "tel:010-447 44 00"
-        },
-        {
-          "text": "info@tillvaxtanalys.se",
-          "href": "mailto:info@tillvaxtanalys.se",
-          "url": "mailto:info@tillvaxtanalys.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Utländska företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Anställda",
-        "Företag",
-        "Internationella företag"
-      ],
-      "links": [
-        {
-          "text": "Anställda",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=4",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=4"
-        },
-        {
-          "text": "Företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=67",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=67"
-        },
-        {
-          "text": "Internationella företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0501",
     "response_url": "https://www.scb.se/HE0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/pensioner/total-pension/",
-    "fetched_at": "2026-10-05T13:11:01.767570Z",
+    "fetched_at": "2026-10-10T01:16:12.924910Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "612511fae723f172dc160f6901dc9d98950b4f290e83a603e2be6e7c9c5868c8",
+    "content_sha256": "43d82c52fb75311078fcd4b347dee29ee9c41a63f605cf098f342af57f0fc0ef",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -72,38 +72,6 @@
           "text": "Pensionsmyndigheten",
           "href": "http://www.pensionsmyndigheten.se/Statistik.html",
           "url": "http://www.pensionsmyndigheten.se/Statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Total pension",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Pensionsmyndigheten",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "statistik@pensionsmyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "statistik@pensionsmyndigheten.se",
-          "href": "mailto:statistik@pensionsmyndigheten.se",
-          "url": "mailto:statistik@pensionsmyndigheten.se"
         }
       ],
       "table_headers": [],

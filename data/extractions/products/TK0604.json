@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0604",
     "response_url": "https://www.scb.se/TK0604",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/punktlighet-pa-jarnvag/",
-    "fetched_at": "2026-10-05T13:14:36.019096Z",
+    "fetched_at": "2026-10-10T01:18:52.132576Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "612b668debfe11e4bdc2334faeacca954fcde4d6df7e2ce8da2f39ab9c1018e1",
+    "content_sha256": "230cecd029bf0681b358829f4cca35bdccca6d0e5338f32def4246c7ec8cab34",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Järnvägar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
-    },
-    {
-      "text": "Persontransport",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
-    },
-    {
-      "text": "Kollektivtrafik",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -88,83 +72,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Punktlighet på järnväg",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Punktlighet på järnväg",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Järnvägar",
-        "Persontransport",
-        "Kollektivtrafik"
-      ],
-      "links": [
-        {
-          "text": "Järnvägar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
-        },
-        {
-          "text": "Persontransport",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=240",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=240"
-        },
-        {
-          "text": "Kollektivtrafik",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=258",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=258"
         }
       ],
       "table_headers": [],

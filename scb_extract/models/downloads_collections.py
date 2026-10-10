@@ -1,4 +1,4 @@
-"""Output contracts for SCB workbook, HVD, economy and change reports.
+"""Output contracts for SCB workbook, HVD and change reports.
 
 Use ``model_json_schema(by_alias=True)`` for generated JSON Schema. Nullable
 fields are required so missing evidence is explicit in structured extraction.
@@ -40,6 +40,12 @@ class HvdLink(SourceModel):
     url: str
     target_kind: Literal["pxweb_table", "saved_query", "other"]
     context_text: str | None
+    subject_code: str | None = Field(default=None, pattern=r"^[A-Z]{2}$")
+    product_code: str | None = Field(
+        default=None,
+        pattern=r"^[A-Z]{2}[0-9]{4}$",
+        description="From a PxWeb START__<subject>__<code> path segment; saved queries have none.",
+    )
 
 
 class HvdGroup(SourceModel):
@@ -51,39 +57,16 @@ class HvdGroup(SourceModel):
 
 
 class HvdCollection(SourceModel):
+    """Published output keeps only links that yield a product code (see product_links_only)."""
+
     provenance: Provenance
     title: str
     headers: list[str]
     total_source_groups: int = Field(ge=0)
+    total_source_links: int = Field(default=0, ge=0)
+    product_links_only: bool = False
     partial_sample: bool
     groups: list[HvdGroup]
-
-
-class EconomyDiagram(SourceModel):
-    """Collection entries are diagram pages, not discovered product pages."""
-
-    title: str
-    url: str
-    listed_type: str
-    listed_date: date | None
-    detail_verified: bool
-    detail_provenance: Provenance | None
-    subtitle: str | None
-    comments: str | None
-    source_label: str | None
-    updated_at: date | None
-    excel_urls: list[str]
-    image_urls: list[str]
-    official_statistics_mark_present: bool | None
-
-
-class EconomyCollection(SourceModel):
-    provenance: Provenance
-    title: str
-    section: str
-    total_source_entries: int = Field(ge=0)
-    partial_sample: bool
-    entries: list[EconomyDiagram]
 
 
 class ChangeNotice(SourceModel):

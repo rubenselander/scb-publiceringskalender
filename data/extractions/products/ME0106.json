@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0106",
     "response_url": "https://www.scb.se/ME0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valundersokningen/",
-    "fetched_at": "2026-10-05T13:12:18.657137Z",
+    "fetched_at": "2026-10-10T01:17:15.334904Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "73a9db408b8445cbc9ddb76435a894d94681ae8e56f6035a74ee9f90131257be",
+    "content_sha256": "d8e6173c6656c6fc842577cf6444f74f1d9fab14a367f84e61b1cd93d0e410f2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Demokrati",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-    },
-    {
-      "text": "Partier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=147",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=147"
-    },
-    {
-      "text": "Politik",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
-    },
-    {
-      "text": "Val",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -469,136 +448,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=ME0106",
           "url": "https://metadata.scb.se/?produkt=ME0106"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "valstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "valstatistik@scb.se",
-          "href": "mailto:valstatistik@scb.se",
-          "url": "mailto:valstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Allmänna val, valundersökningen",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Demokrati",
-        "Partier",
-        "Politik",
-        "Val"
-      ],
-      "links": [
-        {
-          "text": "Demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-        },
-        {
-          "text": "Partier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=147",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=147"
-        },
-        {
-          "text": "Politik",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=153",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=153"
-        },
-        {
-          "text": "Val",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=208",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=208"
         }
       ],
       "table_headers": [],

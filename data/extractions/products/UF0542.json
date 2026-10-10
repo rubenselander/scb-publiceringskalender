@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0542",
     "response_url": "https://www.scb.se/UF0542",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/overgang-gymnasieskola--eftergymnasiala-utbildningar/",
-    "fetched_at": "2026-10-05T13:15:37.677592Z",
+    "fetched_at": "2026-10-10T01:19:37.043642Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2dbaff72ba22901a3aeedc525ca8f62661685222337da6c821317a7dd0086376",
+    "content_sha256": "871e8173eb4795d16aa1e37a722cc7d5efe564560868931cd7abcf6d36c23bd9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": "2026-11-04",
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -872,129 +856,7 @@
       "paragraphs": [
         "Mer statistik på området"
       ],
-      "links": [
-        {
-          "text": "Mer statistik på området",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/overgang-gymnasieskola--eftergymnasiala-utbildningar/produktrelaterat/Fordjupad-information/mer-statistik-pa-omradet/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/overgang-gymnasieskola--eftergymnasiala-utbildningar/produktrelaterat/Fordjupad-information/mer-statistik-pa-omradet/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Övergång gymnasieskola – eftergymnasiala utbildningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Petter Lassinantti",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 91",
-        "E-post",
-        "petter.lassinantti@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 91",
-          "href": "tel:010-479 60 91",
-          "url": "tel:010-479 60 91"
-        },
-        {
-          "text": "petter.lassinantti@scb.se",
-          "href": "mailto:petter.lassinantti@scb.se",
-          "url": "mailto:petter.lassinantti@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Övergång gymnasieskola – eftergymnasiala utbildningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Annica Wallerå",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 62 57",
-        "E-post",
-        "annica.wallera@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 62 57",
-          "href": "tel:010-479 62 57",
-          "url": "tel:010-479 62 57"
-        },
-        {
-          "text": "annica.wallera@scb.se",
-          "href": "mailto:annica.wallera@scb.se",
-          "url": "mailto:annica.wallera@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Övergång gymnasieskola – eftergymnasiala utbildningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gymnasieskola",
-        "Studenter",
-        "Universitet och högskola"
-      ],
-      "links": [
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

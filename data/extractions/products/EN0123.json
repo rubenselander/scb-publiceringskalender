@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0123",
     "response_url": "https://www.scb.se/EN0123",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/natanslutna-solcellsanlaggningar/",
-    "fetched_at": "2026-10-05T13:10:37.499635Z",
+    "fetched_at": "2026-10-10T01:15:45.815727Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2b71f5c22403ce54bdfca6d81054f0240105f2956f62249feadbfde479471e1f",
+    "content_sha256": "7112234fdf23b14255af60c7d68578a65bfbf260bbb505eb38cd670ef5b28fae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -88,84 +88,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nätanslutna solcellsanläggningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Johan Harrysson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-542 06 32",
-        "E-post",
-        "johan.harrysson@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-542 06 32",
-          "href": "tel:016-542 06 32",
-          "url": "tel:016-542 06 32"
-        },
-        {
-          "text": "johan.harrysson@energimyndigheten.se",
-          "href": "mailto:johan.harrysson@energimyndigheten.se",
-          "url": "mailto:johan.harrysson@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nätanslutna solcellsanläggningar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Hampus Egly",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 83",
-        "E-post",
-        "Hampus.egly@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 83",
-          "href": "tel:010-479 60 83",
-          "url": "tel:010-479 60 83"
-        },
-        {
-          "text": "Hampus.egly@scb.se",
-          "href": "mailto:Hampus.egly@scb.se",
-          "url": "mailto:Hampus.egly@scb.se"
         }
       ],
       "table_headers": [],

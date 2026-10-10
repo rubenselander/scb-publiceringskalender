@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0106",
     "response_url": "https://www.scb.se/UF0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-pa-grundlaggande-och-gymnasial-niva-elever-kursdeltagare-och-utbildningsresultat/",
-    "fetched_at": "2026-10-05T13:14:52.016706Z",
+    "fetched_at": "2026-10-10T01:19:02.518665Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f173ee29d099773b68b2889fb5c8ef60e8454f0097ced9d3775249447faf0b5b",
+    "content_sha256": "e09298535c98abdbac4b0cf36a82ca3e58cfceba8ac36c44369ab4f4a23edd5b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -455,45 +455,7 @@
       "paragraphs": [
         "Beskrivning av Komvux: elever, kursdeltagare och utbildningsresultat"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Komvux: elever, kursdeltagare och utbildningsresultat",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-pa-grundlaggande-och-gymnasial-niva-elever-kursdeltagare-och-utbildningsresultat/produktrelaterat/Fordjupad-information/beskrivning-av-komvux-elever-kursdeltagare-och-utbildningsresultat/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-pa-grundlaggande-och-gymnasial-niva-elever-kursdeltagare-och-utbildningsresultat/produktrelaterat/Fordjupad-information/beskrivning-av-komvux-elever-kursdeltagare-och-utbildningsresultat/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Komvux på grundläggande och gymnasial nivå: elever, kursdeltagare och utbildningsresultat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0203",
     "response_url": "https://www.scb.se/SO0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/individ-och-familjeomsorg/ekonomiskt-bistand-arsstatistik/",
-    "fetched_at": "2026-10-05T13:14:26.014179Z",
+    "fetched_at": "2026-10-10T01:18:44.148350Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1905273f1794960992ef2db4342e235f0c1d6f999ab1c88d8f32c16f4a6976a6",
+    "content_sha256": "ebf0bc1144e618232bcd4725625c5a2aee093db5167949c01b8e1b7d851fbeae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,33 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bidrag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-    },
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Välfärd",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -118,95 +92,6 @@
           "text": "Statistik från Socialstyrelsen, äldre tabeller uppdateras ej",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SO0203B",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SO0203B"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om ekonomiskt bistånd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om ekonomiskt bistånd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bidrag",
-        "Ekonomi",
-        "Hushåll",
-        "Inkomst",
-        "Välfärd"
-      ],
-      "links": [
-        {
-          "text": "Bidrag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=27",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=27"
-        },
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Välfärd",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=217",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=217"
         }
       ],
       "table_headers": [],

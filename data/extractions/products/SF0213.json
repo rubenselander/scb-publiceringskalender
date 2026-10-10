@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0213",
     "response_url": "https://www.scb.se/SF0213",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/statligt-tandvardsstod/",
-    "fetched_at": "2026-10-05T13:14:20.408851Z",
+    "fetched_at": "2026-10-10T01:18:39.922713Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "87c797020dc7bd1cf5c470c39f7737b099c11427fde6172ef4e831940c60955b",
+    "content_sha256": "4218295b6d48bfb8886bf0d70a8b9a9550f71d55cfc3c46105e9321b3c274f52",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -87,45 +87,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statligt tandvårdsstöd",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
         }
       ],
       "table_headers": [],

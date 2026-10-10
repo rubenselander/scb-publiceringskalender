@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1006",
     "response_url": "https://www.scb.se/TK1006",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/lastbilstrafik/",
-    "fetched_at": "2026-10-05T13:14:42.746705Z",
+    "fetched_at": "2026-10-10T01:18:56.312653Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "23a7c6679ec6aabcffa925fe2b0b353066fbfa290f12610c3539a7d0a8d8b3e9",
+    "content_sha256": "4a19ea1f9a63e2fb63189b8bfeee3c90f5139922d97e24bed5b3d7c69cf28ab7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Godstransport",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
-    },
-    {
-      "text": "Lastbilar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-    },
-    {
-      "text": "Körsträckor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=284",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=284"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -110,76 +94,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lastbilstrafik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Lastbilstrafik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Godstransport",
-        "Lastbilar",
-        "Körsträckor"
-      ],
-      "links": [
-        {
-          "text": "Godstransport",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=73",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=73"
-        },
-        {
-          "text": "Lastbilar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=117",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=117"
-        },
-        {
-          "text": "Körsträckor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=284",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=284"
         }
       ],
       "table_headers": [],

@@ -1,8 +1,8 @@
 from scb_extract.sources.downloads import (
     parse_changes,
-    parse_economy,
     parse_hvd,
     parse_workbook,
+    product_links_only,
 )
 
 
@@ -20,14 +20,21 @@ def test_hvd_preserves_all_link_occurrences(snapshot):
     links = [link for group in page.groups for link in group.links]
     assert len(links) == 88
     assert sum("/sq/150128" in link.url for link in links) == 2
+    assert page.total_source_links == 88
+    coded = [link for link in links if link.product_code]
+    assert len(coded) == 22
+    assert {(link.subject_code, link.product_code) for link in coded} >= {("NV", "NV0119")}
+    assert all(link.target_kind == "pxweb_table" for link in coded)
 
 
-def test_economy_duplicate_titles_are_distinct(snapshot):
-    page = parse_economy(snapshot("economy"))
-    assert len(page.entries) == 11
-    rates = [entry for entry in page.entries if entry.title == "Kort och lång ränta"]
-    assert len(rates) == 2
-    assert rates[0].url != rates[1].url
+def test_hvd_output_keeps_only_rows_that_yield_a_product(snapshot):
+    page = product_links_only(parse_hvd(snapshot("hvd")))
+    links = [link for group in page.groups for link in group.links]
+    assert page.product_links_only
+    assert len(links) == 22
+    assert all(link.product_code for link in links)
+    assert all(group.links for group in page.groups)
+    assert page.total_source_groups == 22 and page.total_source_links == 88
 
 
 def test_pdf_page_evidence_and_explicit_date(snapshot):

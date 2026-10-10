@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0108",
     "response_url": "https://www.scb.se/UF0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-i-svenska-for-invandrare-elever-kursdeltagare-och-utbildningsresultat/",
-    "fetched_at": "2026-10-05T13:14:53.487971Z",
+    "fetched_at": "2026-10-10T01:19:03.444041Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2a76f19c8d7c5bc4e3313976bc5d4bc18118c674eeb52a415ea041aba7c7e309",
+    "content_sha256": "76c337ff8049d9e32fde5732ed3507aca1210a430c51601d5389eac83dde0009",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -423,45 +423,7 @@
       "paragraphs": [
         "Beskrivning av Utbildning i svenska för invandrare"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Utbildning i svenska för invandrare",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-i-svenska-for-invandrare-elever-kursdeltagare-och-utbildningsresultat/produktrelaterat/Fordjupad-information/beskrivning-av-utbildning-i-svenska-for-invandrare/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/komvux-i-svenska-for-invandrare-elever-kursdeltagare-och-utbildningsresultat/produktrelaterat/Fordjupad-information/beskrivning-av-utbildning-i-svenska-for-invandrare/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Komvux i svenska för invandrare: elever, kursdeltagare och utbildningsresultat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

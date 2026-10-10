@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0307",
     "response_url": "https://www.scb.se/EN0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/tradbransle--torv--och-avfallspriser/",
-    "fetched_at": "2026-10-05T13:10:42.117724Z",
+    "fetched_at": "2026-10-10T01:15:50.416868Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "109f7813718df2df60a7e886548c98947b576878e149158d78da0c0c8e1b45e8",
+    "content_sha256": "2ec71d020919ebaf8756b795e3157ef859ac2e0c260200fe3ec1a0a2663c75a3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    },
-    {
-      "text": "Torv",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=195",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=195"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -109,83 +93,6 @@
           "text": "Energimyndigheten",
           "href": "http://www.energimyndigheten.se/Statistik/",
           "url": "http://www.energimyndigheten.se/Statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trädbränsle-, torv- och avfallspriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Johan Vinterbäck",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "016-544 20 73",
-        "E-post",
-        "Johan.Vinterback@energimyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "016-544 20 73",
-          "href": "tel:016-544 20 73",
-          "url": "tel:016-544 20 73"
-        },
-        {
-          "text": "Johan.Vinterback@energimyndigheten.se",
-          "href": "mailto:Johan.Vinterback@energimyndigheten.se",
-          "url": "mailto:Johan.Vinterback@energimyndigheten.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Trädbränsle-, torv- och avfallspriser",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "Priser",
-        "Torv"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        },
-        {
-          "text": "Torv",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=195",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=195"
         }
       ],
       "table_headers": [],

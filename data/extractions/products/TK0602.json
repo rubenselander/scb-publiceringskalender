@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0602",
     "response_url": "https://www.scb.se/TK0602",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/bantrafikskador/",
-    "fetched_at": "2026-10-05T13:14:34.398762Z",
+    "fetched_at": "2026-10-10T01:18:50.996277Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "912a44db58933f702c43a8171554d056d5d9a755a70c02dc3e09d7e33b504ca4",
+    "content_sha256": "e70357c071ee509fa748e6e20ef8f44d3d7825cfa67e71dd7efa3635a2a44de0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Järnvägar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
-    },
-    {
-      "text": "Trafikolyckor",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,77 +66,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Bantrafikskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Bantrafikskador",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Järnvägar",
-        "Trafikolyckor"
-      ],
-      "links": [
-        {
-          "text": "Järnvägar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=103",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=103"
-        },
-        {
-          "text": "Trafikolyckor",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=268",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=268"
         }
       ],
       "table_headers": [],

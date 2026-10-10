@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0113",
     "response_url": "https://www.scb.se/UF0113",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/pedagogisk-personal-lararregistret/",
-    "fetched_at": "2026-10-05T13:14:55.126283Z",
+    "fetched_at": "2026-10-10T01:19:04.616476Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f280cbf77bdb86db010e70e6814434d11de31eb145a592d924b5ddc79738e705",
+    "content_sha256": "73eb1bda92647c90dac9ce73d24b9b57cfc6a5b1e55949b5473c8b35df9ab72c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -419,45 +419,7 @@
       "paragraphs": [
         "Beskrivning av Pedagogisk personal (Lärarregistret)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Pedagogisk personal (Lärarregistret)",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/pedagogisk-personal-lararregistret/produktrelaterat/Fordjupad-information/beskrivning-av-pedagogisk-personal-lararregistret/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/pedagogisk-personal-lararregistret/produktrelaterat/Fordjupad-information/beskrivning-av-pedagogisk-personal-lararregistret/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Pedagogisk personal (lärarregistret)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

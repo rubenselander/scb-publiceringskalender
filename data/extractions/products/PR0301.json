@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0301",
     "response_url": "https://www.scb.se/PR0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
-    "fetched_at": "2026-10-05T13:13:40.853258Z",
+    "fetched_at": "2026-10-10T01:18:18.045533Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6c8ba73cd1191ef65e152a6c67834f13b2b394aee9f7798eae23ed6f24f758b3",
+    "content_sha256": "6b5d33a67e2a01d2dd3030ee77634d4531c8382755f3a5c57ca0e03d393db307",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -27,23 +27,7 @@
   "notices": [
     "PPI byter klassifikation"
   ],
-  "tags": [
-    {
-      "text": "Avtalsreglering",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=16",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=16"
-    },
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "SPIN",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=179",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=179"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -976,48 +960,7 @@
         "Ändringar i PPI från 2021",
         "Ändringar i PPI från 2020"
       ],
-      "links": [
-        {
-          "text": "PPI byter klassifikation",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/ppi-byter-klassifikation/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/ppi-byter-klassifikation/"
-        },
-        {
-          "text": "Ändringar i PPI från 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2026/"
-        },
-        {
-          "text": "Ändringar i PPI från 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2025/"
-        },
-        {
-          "text": "Ändringar i PPI från 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2024/"
-        },
-        {
-          "text": "Ändringar i PPI från 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2023/"
-        },
-        {
-          "text": "Ändringar i PPI från 2022",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2022/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2022/"
-        },
-        {
-          "text": "Ändringar i PPI från 2021",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2021/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2021/"
-        },
-        {
-          "text": "Ändringar i PPI från 2020",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2020/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/aktuellt/andringar-i-ppi-fran-2020/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1626,72 +1569,7 @@
         "Beskrivning av Prisindex i producent- och importled (PPI)",
         "Tjänstepriserna ökar på export- och importmarknaden (Fördjupningsartikel)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Prisindex i producent- och importled (PPI)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/Fordjupad-information/beskrivning-av-prisindex-i-producent--och-importled-ppi/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/Fordjupad-information/beskrivning-av-prisindex-i-producent--och-importled-ppi/"
-        },
-        {
-          "text": "Tjänstepriserna ökar på export- och importmarknaden (Fördjupningsartikel)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/se-aven/tjanstepriserna-okar-pa-export--och-importmarknaden-fordjupningsartikel/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/produktrelaterat/se-aven/tjanstepriserna-okar-pa-export--och-importmarknaden-fordjupningsartikel/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Prisindex i producent- och importled (PPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Prisindex i producent- och importled (PPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1714,44 +1592,6 @@
           "text": "priser@scb.se",
           "href": "mailto:priser@scb.se",
           "url": "mailto:priser@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Prisindex i producent- och importled (PPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Avtalsreglering",
-        "Index",
-        "SPIN"
-      ],
-      "links": [
-        {
-          "text": "Avtalsreglering",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=16",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=16"
-        },
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "SPIN",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=179",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=179"
         }
       ],
       "table_headers": [],

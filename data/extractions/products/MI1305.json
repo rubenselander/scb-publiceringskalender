@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1305",
     "response_url": "https://www.scb.se/MI1305",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/hallbarhet-i-svenskt-jordbruk/",
-    "fetched_at": "2026-10-05T13:12:49.679380Z",
+    "fetched_at": "2026-10-10T01:17:45.473908Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b52a790355d6282c68b3c0cde00b159c77b9f52716fa0a6ddfacc6c8e2890695",
+    "content_sha256": "6dad82c2a1b62adc82067437cc7b14917d400419dc83811a944f428a3259290a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,18 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bekämpningsmedel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-    },
-    {
-      "text": "Utsläpp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -465,77 +454,6 @@
           ""
         ]
       ]
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hållbarhet i svenskt jordbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Veronica Eklund",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 43 41",
-        "E-post",
-        "veronica.eklund@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 43 41",
-          "href": "tel:010-479 43 41",
-          "url": "tel:010-479 43 41"
-        },
-        {
-          "text": "veronica.eklund@scb.se",
-          "href": "mailto:veronica.eklund@scb.se",
-          "url": "mailto:veronica.eklund@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Hållbarhet i svenskt jordbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bekämpningsmedel",
-        "Utsläpp"
-      ],
-      "links": [
-        {
-          "text": "Bekämpningsmedel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=23",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=23"
-        },
-        {
-          "text": "Utsläpp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=207",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=207"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
     },
     {
       "heading_path": [

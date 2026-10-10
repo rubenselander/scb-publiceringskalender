@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0805",
     "response_url": "https://www.scb.se/MI0805",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/",
-    "fetched_at": "2026-10-05T13:12:37.289150Z",
+    "fetched_at": "2026-10-10T01:17:34.454654Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4f04e763fbc265efdd8cb7812876837a8d06be5830f48695fe31f2826bfd454d",
+    "content_sha256": "46bf5cc4066106614ef0266e31ca1bcce5a60ef74af6dc0bb68827db52010f21",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,28 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Bebyggelse",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-    },
-    {
-      "text": "Grönområden",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=76",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=76"
-    },
-    {
-      "text": "Markanvändning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-    },
-    {
-      "text": "Tätorter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=199",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=199"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -650,18 +629,7 @@
         "Hur gröna är våra svenska städer? Se presentation från konferensen Låt staden grönska",
         "SCB kartlägger grönområden i alla Sveriges tätorter (video)"
       ],
-      "links": [
-        {
-          "text": "Hur gröna är våra svenska städer? Se presentation från konferensen Låt staden grönska",
-          "href": "https://www.youtube.com/watch?v=NnKq_TGoLis&list=PLgGFtRVUTORRMKEP44h6styZoAMTN3Q7R&index=4&t=0s",
-          "url": "https://www.youtube.com/watch?v=NnKq_TGoLis&list=PLgGFtRVUTORRMKEP44h6styZoAMTN3Q7R&index=4&t=0s"
-        },
-        {
-          "text": "SCB kartlägger grönområden i alla Sveriges tätorter (video)",
-          "href": "https://www.youtube.com/watch?v=Kr7zlYtp-XE",
-          "url": "https://www.youtube.com/watch?v=Kr7zlYtp-XE"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -864,18 +832,7 @@
         "Tätortsnära natur - En studie om statistik avseende natur i och omkring tätorter (pdf)",
         "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)"
       ],
-      "links": [
-        {
-          "text": "Tätortsnära natur - En studie om statistik avseende natur i och omkring tätorter (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/produktrelaterat/Fordjupad-information/tatortsnara-natur---en-studie-om-statistik-avseende-natur-i-och-omkring-tatorter-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/produktrelaterat/Fordjupad-information/tatortsnara-natur---en-studie-om-statistik-avseende-natur-i-och-omkring-tatorter-pdf/"
-        },
-        {
-          "text": "Rapporter och artiklar om markanvändning, vattenanvändning och geografi (xlsx)",
-          "href": "/contentassets/825560b0f60e4e7c9546c12ceb917440/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx",
-          "url": "https://www.scb.se/contentassets/825560b0f60e4e7c9546c12ceb917440/publikationer_artiklar_scb_miljo_markanvandning_2024-01-09_publ.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -895,169 +852,7 @@
       "paragraphs": [
         "Skräddarsydd geografisk bearbetning och analys"
       ],
-      "links": [
-        {
-          "text": "Skräddarsydd geografisk bearbetning och analys",
-          "href": "/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/",
-          "url": "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/geografisk-bearbetning-och-analys/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grönytor i och omkring tätorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "SCB, sektionen för samhällsbyggnad och turism",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Adress",
-        "Solna strandväg 86 171 54 Solna",
-        "E-post",
-        "mark.vatten.gis@scb.se"
-      ],
-      "links": [
-        {
-          "text": "mark.vatten.gis@scb.se",
-          "href": "mailto:mark.vatten.gis@scb.se",
-          "url": "mailto:mark.vatten.gis@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grönytor i och omkring tätorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jerker Moström",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 40 31",
-        "E-post",
-        "jerker.mostrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 40 31",
-          "href": "tel:010-479 40 31",
-          "url": "tel:010-479 40 31"
-        },
-        {
-          "text": "jerker.mostrom@scb.se",
-          "href": "mailto:jerker.mostrom@scb.se",
-          "url": "mailto:jerker.mostrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grönytor i och omkring tätorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Stefan Svanström, SCB",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 45 58",
-        "E-post",
-        "stefan.svanstrom@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 45 58",
-          "href": "tel:010-479 45 58",
-          "url": "tel:010-479 45 58"
-        },
-        {
-          "text": "stefan.svanstrom@scb.se",
-          "href": "mailto:stefan.svanstrom@scb.se",
-          "url": "mailto:stefan.svanstrom@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grönytor i och omkring tätorter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bebyggelse",
-        "Grönområden",
-        "Markanvändning",
-        "Tätorter"
-      ],
-      "links": [
-        {
-          "text": "Bebyggelse",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=20",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=20"
-        },
-        {
-          "text": "Grönområden",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=76",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=76"
-        },
-        {
-          "text": "Markanvändning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=126",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=126"
-        },
-        {
-          "text": "Tätorter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=199",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=199"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

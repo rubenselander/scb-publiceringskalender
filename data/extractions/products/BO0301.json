@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0301",
     "response_url": "https://www.scb.se/BO0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/intakts-och-kostnadsundersokning-for-flerbostadshus-iku/",
-    "fetched_at": "2026-10-05T13:10:23.133472Z",
+    "fetched_at": "2026-10-10T01:15:31.703217Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "da55145c2217bb677232470cb5bb2d804407faa57c848a3dad2fbc2630be61b3",
+    "content_sha256": "6685d292f9f94366b382028925b7513e1d8399a9b55e0c3eadb28aa41fe8f3c8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Fastigheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-    },
-    {
-      "text": "Lokaler",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-    },
-    {
-      "text": "Lägenheter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -533,76 +517,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=BO0301",
           "url": "https://metadata.scb.se/?produkt=BO0301"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Intäkts- och kostnadsundersökning för flerbostadshus (IKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "byggande.bebyggelse@scb.se"
-      ],
-      "links": [
-        {
-          "text": "byggande.bebyggelse@scb.se",
-          "href": "mailto:byggande.bebyggelse@scb.se",
-          "url": "mailto:byggande.bebyggelse@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Intäkts- och kostnadsundersökning för flerbostadshus (IKU)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Fastigheter",
-        "Lokaler",
-        "Lägenheter"
-      ],
-      "links": [
-        {
-          "text": "Fastigheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=53",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=53"
-        },
-        {
-          "text": "Lokaler",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=119",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=119"
-        },
-        {
-          "text": "Lägenheter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=122",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=122"
         }
       ],
       "table_headers": [],

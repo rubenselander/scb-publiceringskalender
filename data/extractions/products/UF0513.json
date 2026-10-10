@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0513",
     "response_url": "https://www.scb.se/UF0513",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/gymnasieungdomars-studieintresse/",
-    "fetched_at": "2026-10-05T13:15:29.803626Z",
+    "fetched_at": "2026-10-10T01:19:30.324224Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ca5f685cf84cd7eb131b80a4dacb9b4574cec9c3f8661fdf097f5e1be2b88634",
+    "content_sha256": "046c1b0b2b68f493e64ca5cf18f0e24bd7a5a17764d489af83806fc8c517ba54",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Betyg",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=25",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=25"
-    },
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -453,90 +437,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Majoriteten av gymnasieeleverna som uppger att de har planer på att studera på högskola eller universitet påbörjar också studier inom tre år. Men längre uppföljningar visar att det finns grupper som trots studieplaner aldrig studerar vidare på högskolan."
-      ],
-      "links": [
-        {
-          "text": "Gymnasieungdomar följer sina studieplaner",
-          "href": "/hitta-statistik/artiklar/2018/gymnasieungdomar-foljer-sina-studieplaner/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/gymnasieungdomar-foljer-sina-studieplaner/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieungdomars studieintresse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-12-10"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieungdomars studieintresse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Utbildning",
-        "Utbildningsnivå",
-        "Högskola"
-      ],
-      "links": [
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Utbildningsnivå",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=203&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203&selection=articles"
-        },
-        {
-          "text": "Högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieungdomars studieintresse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -808,83 +708,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0513",
           "url": "https://metadata.scb.se/?produkt=UF0513"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieungdomars studieintresse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jessica Baldgrim",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 66 44",
-        "E-post",
-        "jessica.baldgrim@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 66 44",
-          "href": "tel:010-479 66 44",
-          "url": "tel:010-479 66 44"
-        },
-        {
-          "text": "jessica.baldgrim@scb.se",
-          "href": "mailto:jessica.baldgrim@scb.se",
-          "url": "mailto:jessica.baldgrim@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gymnasieungdomars studieintresse",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Betyg",
-        "Gymnasieskola",
-        "Universitet och högskola"
-      ],
-      "links": [
-        {
-          "text": "Betyg",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=25",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=25"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
         }
       ],
       "table_headers": [],

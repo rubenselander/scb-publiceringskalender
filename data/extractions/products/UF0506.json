@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0506",
     "response_url": "https://www.scb.se/UF0506",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/",
-    "fetched_at": "2026-10-05T13:15:27.175862Z",
+    "fetched_at": "2026-10-10T01:19:28.706619Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "83ca08b6c4dd781111901f75fd77f5995ea844d23f2625899e1184c58238e92a",
+    "content_sha256": "16341175bc5ef2e37004d90bd868077cb31049ff6397fa14a85c273f77d7d9d3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Grundskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-    },
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Migration",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=130",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=130"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildningsnivå",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1221,134 +1195,10 @@
         "Kvalitetshöjningen i Utbildningsregistret år 2000",
         "Bortfallsanalys av Utbildningsregistret 2014",
         "Bakgrundsfakta 2006:4 - Evalvering av UREG (pdf)",
-        "Rapport - Bortfallsanalys utbildningsregistret 2022 (pdf)"
+        "Rapport - Bortfallsanalys utbildningsregistret 2022 (pdf)",
+        "Rapport - Eftergymnasiala utlandsstudier (pdf)"
       ],
-      "links": [
-        {
-          "text": "Viktiga förändringar i utbildningsregistret sedan 1990 (pdf)",
-          "href": "/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/viktiga-forandringar-i-utbildningsregistret-sedan-1990.pdf",
-          "url": "https://www.scb.se/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/viktiga-forandringar-i-utbildningsregistret-sedan-1990.pdf"
-        },
-        {
-          "text": "Kodning av avklarade poäng i Komvux (pdf)",
-          "href": "/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/kodning-av-avklarade-poang-i-komvux.pdf",
-          "url": "https://www.scb.se/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/kodning-av-avklarade-poang-i-komvux.pdf"
-        },
-        {
-          "text": "Svensk utbildningsnomenklatur (SUN)",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/sun-svensk-utbildningsnomenklatur/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/sun-svensk-utbildningsnomenklatur/"
-        },
-        {
-          "text": "Kvalitetshöjningen i Utbildningsregistret år 2000",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/kvalitetshojningen-i-utbildningsregistret-ar-2000/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/kvalitetshojningen-i-utbildningsregistret-ar-2000/"
-        },
-        {
-          "text": "Bortfallsanalys av Utbildningsregistret 2014",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/bortfallsanalys-av-utbildningsregistret/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/produktrelaterat/Fordjupad-information/bortfallsanalys-av-utbildningsregistret/"
-        },
-        {
-          "text": "Bakgrundsfakta 2006:4 - Evalvering av UREG (pdf)",
-          "href": "/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/bakgrundsfakta_2006-4_evalvering_av_ureg.pdf",
-          "url": "https://www.scb.se/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/bakgrundsfakta_2006-4_evalvering_av_ureg.pdf"
-        },
-        {
-          "text": "Rapport - Bortfallsanalys utbildningsregistret 2022 (pdf)",
-          "href": "/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/rapport-bortfallsanalys_ureg_2022_def.pdf",
-          "url": "https://www.scb.se/contentassets/776fd7a4ac2f4574ae86e4a3b5b7595e/rapport-bortfallsanalys_ureg_2022_def.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Befolkningens utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tomas Westling",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 61 78",
-        "E-post",
-        "tomas.westling@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 61 78",
-          "href": "tel:010-479 61 78",
-          "url": "tel:010-479 61 78"
-        },
-        {
-          "text": "tomas.westling@scb.se",
-          "href": "mailto:tomas.westling@scb.se",
-          "url": "mailto:tomas.westling@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Befolkningens utbildning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Grundskola",
-        "Gymnasieskola",
-        "Migration",
-        "Universitet och högskola",
-        "Utbildningsnivå"
-      ],
-      "links": [
-        {
-          "text": "Grundskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Migration",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=130",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=130"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildningsnivå",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0203",
     "response_url": "https://www.scb.se/EN0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/",
-    "fetched_at": "2026-10-05T13:10:39.641592Z",
+    "fetched_at": "2026-10-10T01:15:47.833570Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "aef1224c583476f269b26d4bfe50bb2ee279f80b8c5b78490f836668a7f3d2ec",
+    "content_sha256": "de433dc3236ceb2d31de95d2b2b19e3b2b8b38817c9de6582a036abf58817eeb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -523,89 +512,7 @@
         "Användarhandledning 2024 (pdf)",
         "Vanliga frågor och svar"
       ],
-      "links": [
-        {
-          "text": "Användarhandledning 2024 (pdf)",
-          "href": "/contentassets/37ec814f01fc4f2ca64ab621d13203ec/anvandarhandledning-2024-version-1.0.pdf",
-          "url": "https://www.scb.se/contentassets/37ec814f01fc4f2ca64ab621d13203ec/anvandarhandledning-2024-version-1.0.pdf"
-        },
-        {
-          "text": "Vanliga frågor och svar",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/produktrelaterat/Fordjupad-information/vanliga-fragor-och-svar-om-kommunal-och-regional-energistatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/produktrelaterat/Fordjupad-information/vanliga-fragor-och-svar-om-kommunal-och-regional-energistatistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kommunal och regional energistatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Helena Rehn",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 66 42",
-        "E-post",
-        "helena.rehn@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 66 42",
-          "href": "tel:010-479 66 42",
-          "url": "tel:010-479 66 42"
-        },
-        {
-          "text": "helena.rehn@scb.se",
-          "href": "mailto:helena.rehn@scb.se",
-          "url": "mailto:helena.rehn@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kommunal och regional energistatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0125",
     "response_url": "https://www.scb.se/UF0125",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-arskurs-3-resultat/",
-    "fetched_at": "2026-10-05T13:15:00.188819Z",
+    "fetched_at": "2026-10-10T01:19:08.978758Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d73ccc969d000b337ab44b20054e5a321080eebb16b9865a9ca01c84c63dd679",
+    "content_sha256": "86d3ff3a452498807405fdb0151d87cfd8d8ac0c2e46e5ebe726b7acbe262c1c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -356,38 +356,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=UF0125",
           "url": "https://metadata.scb.se/?produkt=UF0125"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Nationella prov årskurs 3: resultat",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
         }
       ],
       "table_headers": [],

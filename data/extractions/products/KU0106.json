@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/KU0106",
     "response_url": "https://www.scb.se/KU0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/bibliotek/skolbiblioteksstatistik/",
-    "fetched_at": "2026-10-05T13:12:03.861457Z",
+    "fetched_at": "2026-10-10T01:17:04.086413Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f25325de21d86709c995ebe773ca61e04526380078239bf9ef0433d5f6f2b9be",
+    "content_sha256": "a782d775a5fae099b203903c230dd01ff509d1a22886587b9c9871d308dd754d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
-    },
-    {
-      "text": "Skolbibliotek",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=243",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=243"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -77,70 +66,6 @@
           "text": "Kungliga biblioteket (KB)",
           "href": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html",
           "url": "https://www.kb.se/samverkan-och-utveckling/biblioteksstatistik/hamta-ut-statistik.html"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skolbiblioteksstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Anna Dellborg",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "anna.dellborg@kb.se"
-      ],
-      "links": [
-        {
-          "text": "anna.dellborg@kb.se",
-          "href": "mailto:anna.dellborg@kb.se",
-          "url": "mailto:anna.dellborg@kb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skolbiblioteksstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bibliotek",
-        "Skolbibliotek"
-      ],
-      "links": [
-        {
-          "text": "Bibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=26",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=26"
-        },
-        {
-          "text": "Skolbibliotek",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=243",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=243"
         }
       ],
       "table_headers": [],

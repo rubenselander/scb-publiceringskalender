@@ -1,0 +1,90 @@
+{
+  "record_type": "product_page",
+  "provenance": {
+    "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/rotpostpriser/",
+    "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/rotpostpriser/",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/rotpostpriser/",
+    "fetched_at": "2026-10-10T01:19:46.404234Z",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_sha256": "3dcfa2d1bb36b151be2335e0b6e90583647b74008f13545e5b07af0d45b7b5fc",
+    "request_method": "GET",
+    "request_parameters": {},
+    "request_json_body": null,
+    "source_selector": "#pageContent",
+    "capture_scope": "complete_page",
+    "warnings": []
+  },
+  "product_code": "JO0302",
+  "product_code_source": "page_short_address",
+  "title": "Rotpostpriser",
+  "short_address": "https://www.scb.se/jo0302",
+  "summary": "Statistiken uppdateras inte längre.",
+  "official_statistics_marker": "Sveriges officiella statistik",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
+  "responsible_agency": {
+    "label": "Skogsstyrelsen",
+    "link": {
+      "text": "Skogsstyrelsen",
+      "href": "http://www.skogsstyrelsen.se/statistik",
+      "url": "http://www.skogsstyrelsen.se/statistik"
+    }
+  },
+  "notices": [],
+  "tags": [],
+  "sections": [
+    {
+      "heading_path": [
+        {
+          "text": "Rotpostpriser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Nästa publicering: Ingen planerad",
+        "Statistiken uppdateras inte längre."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Rotpostpriser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "För den här statistiken ansvarar: Skogsstyrelsen"
+      ],
+      "links": [
+        {
+          "text": "Skogsstyrelsen",
+          "href": "http://www.skogsstyrelsen.se/statistik",
+          "url": "http://www.skogsstyrelsen.se/statistik"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Rotpostpriser",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Kortadress till denna sida: https://www.scb.se/jo0302"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    }
+  ]
+}

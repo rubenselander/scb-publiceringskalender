@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0101",
     "response_url": "https://www.scb.se/UF0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-slutbetyg/",
-    "fetched_at": "2026-10-05T13:14:47.896578Z",
+    "fetched_at": "2026-10-10T01:18:59.949501Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "590976fc3b71404f4e4f07e1c50329f050d0b070683e5b9cc86467b35627c42e",
+    "content_sha256": "d24cb875c75a41e267ab3f47d0109644cc04b7cf769a9598b58351a9ff94a94c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -464,45 +464,7 @@
       "paragraphs": [
         "Beskrivning av Grundskolan: slutbetyg"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Grundskolan: slutbetyg",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-slutbetyg/produktrelaterat/Fordjupad-information/beskrivning-av-grundskolan-slutbetyg/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-slutbetyg/produktrelaterat/Fordjupad-information/beskrivning-av-grundskolan-slutbetyg/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grundskolan: slutbetyg",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

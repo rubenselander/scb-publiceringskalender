@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1504",
     "response_url": "https://www.scb.se/NV1504",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/forskning-och-utveckling-i-internationella-foretag/",
-    "fetched_at": "2026-10-05T13:13:23.884128Z",
+    "fetched_at": "2026-10-10T01:18:05.963160Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "679085133164062486938192db950e0af09560fd444e7c9dedf2e1d77114364c",
+    "content_sha256": "3d952a442dfea0b11569f666c1e7b710a9c090415568c70f9071db703d9e03e2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Forskning och utveckling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-    },
-    {
-      "text": "Internationella företag",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -403,84 +392,7 @@
       "paragraphs": [
         "Beskrivning av statistiken över forskning och utveckling"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av statistiken över forskning och utveckling",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/forskning-och-utveckling-i-internationella-foretag/produktrelaterat/Fordjupad-information/beskrivning-av-statistiken-over-forskning-och-utveckling/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/forskning-och-utveckling-i-internationella-foretag/produktrelaterat/Fordjupad-information/beskrivning-av-statistiken-over-forskning-och-utveckling/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i internationella  företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Tillväxtanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-447 44 00",
-        "E-post",
-        "info@tillvaxtanalys.se"
-      ],
-      "links": [
-        {
-          "text": "010-447 44 00",
-          "href": "tel:010-447 44 00",
-          "url": "tel:010-447 44 00"
-        },
-        {
-          "text": "info@tillvaxtanalys.se",
-          "href": "mailto:info@tillvaxtanalys.se",
-          "url": "mailto:info@tillvaxtanalys.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Forskning och utveckling i internationella  företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Forskning och utveckling",
-        "Internationella företag"
-      ],
-      "links": [
-        {
-          "text": "Forskning och utveckling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=61",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=61"
-        },
-        {
-          "text": "Internationella företag",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=273",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=273"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0104",
     "response_url": "https://www.scb.se/UF0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-05T13:14:50.443154Z",
+    "fetched_at": "2026-10-10T01:19:01.492882Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f2a5679dea450bcc3be550da2f5702ce1ffc1a1ec0569d5c89f1407850db2376",
+    "content_sha256": "c333f14f76102275f51e00d3f1dea933680a077632943a455704b8e3f3d34846",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Elever",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=47",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=47"
-    },
-    {
-      "text": "Grundskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1366,77 +1355,7 @@
       "paragraphs": [
         "Beskrivning av Grundskolan: elever per den 15 oktober"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Grundskolan: elever per den 15 oktober",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-elever-per-15-oktober/produktrelaterat/Fordjupad-information/beskrivning-av-grundskolan-elever-per-den-15-oktober/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-elever-per-15-oktober/produktrelaterat/Fordjupad-information/beskrivning-av-grundskolan-elever-per-den-15-oktober/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grundskolan: elever per 15 oktober",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "skolstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "skolstatistik@scb.se",
-          "href": "mailto:skolstatistik@scb.se",
-          "url": "mailto:skolstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Grundskolan: elever per 15 oktober",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Elever",
-        "Grundskola"
-      ],
-      "links": [
-        {
-          "text": "Elever",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=47",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=47"
-        },
-        {
-          "text": "Grundskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=74",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=74"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

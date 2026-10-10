@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FH0201",
     "response_url": "https://www.scb.se/FH0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/barnvaccinationer/",
-    "fetched_at": "2026-10-05T13:10:44.292604Z",
+    "fetched_at": "2026-10-10T01:15:52.626746Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9a700c9ff3d390b5e3cc560fea71cf50d4d82f0d1f9b5d7e0edc2cd815385634",
+    "content_sha256": "2ef32c132aecd10b175492c0fea96a3b0aa845337fd2f97a745eae61cb7d9ccd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,38 +66,6 @@
           "text": "Folkhälsomyndigheten",
           "href": "https://www.folkhalsomyndigheten.se/statistik-och-data/",
           "url": "https://www.folkhalsomyndigheten.se/statistik-och-data/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Barnvaccinationer",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "vaccinationsregistret@folkhalsomyndigheten.se"
-      ],
-      "links": [
-        {
-          "text": "vaccinationsregistret@folkhalsomyndigheten.se",
-          "href": "mailto:vaccinationsregistret@folkhalsomyndigheten.se",
-          "url": "mailto:vaccinationsregistret@folkhalsomyndigheten.se"
         }
       ],
       "table_headers": [],

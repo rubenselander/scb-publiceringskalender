@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0106",
     "response_url": "https://www.scb.se/HE0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/",
-    "fetched_at": "2026-10-05T13:10:56.545956Z",
+    "fetched_at": "2026-10-10T01:16:06.401963Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8234787c597957111a5814fef331e8f8aafa8475a09aa02e8e9f921535433d67",
+    "content_sha256": "fa32e14805deb64949896e33dfb2a53c381264e3553b11514d9eb2c6a0ed17ed",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,33 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "FASIT",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=52",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=52"
-    },
-    {
-      "text": "Hushåll",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Simulering",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=165",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=165"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -444,100 +418,7 @@
         "Mikrosimuleringsmodellen FASIT",
         "Användarhandledning (pdf)"
       ],
-      "links": [
-        {
-          "text": "Mikrosimuleringsmodellen FASIT",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/produktrelaterat/Fordjupad-information/mikrosimuleringsmodellen-fasit/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/produktrelaterat/Fordjupad-information/mikrosimuleringsmodellen-fasit/"
-        },
-        {
-          "text": "Användarhandledning (pdf)",
-          "href": "/contentassets/046c084226bb42e98bc10de5eb9951cb/anvandarhandledning-2024.pdf",
-          "url": "https://www.scb.se/contentassets/046c084226bb42e98bc10de5eb9951cb/anvandarhandledning-2024.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fördelningsanalytiskt statistiksystem för inkomster och transfereringar (FASIT)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Fasit",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "fasit@scb.se"
-      ],
-      "links": [
-        {
-          "text": "fasit@scb.se",
-          "href": "mailto:fasit@scb.se",
-          "url": "mailto:fasit@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fördelningsanalytiskt statistiksystem för inkomster och transfereringar (FASIT)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "FASIT",
-        "Hushåll",
-        "Inkomst",
-        "Simulering"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "FASIT",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=52",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=52"
-        },
-        {
-          "text": "Hushåll",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=85",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=85"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Simulering",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=165",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=165"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

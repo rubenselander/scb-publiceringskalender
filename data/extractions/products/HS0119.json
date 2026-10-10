@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0119",
     "response_url": "https://www.scb.se/HS0119",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-tandhalsa/",
-    "fetched_at": "2026-10-05T13:11:13.516107Z",
+    "fetched_at": "2026-10-10T01:16:20.160009Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d093ef2ad951c35b9aaf877f93dd800526d50835b240ab3e499fb7bec0cc3c7a",
+    "content_sha256": "0f51cd94bc7bdc015194489ab7e6e003093676a42724bd794d997a1cecc57ccb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Socialstyrelsen (SoS)",
           "href": "http://www.socialstyrelsen.se/statistik",
           "url": "http://www.socialstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statistik om tandhälsa",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Socialstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "075-247 30 00",
-        "E-post",
-        "socialstyrelsen@socialstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "075-247 30 00",
-          "href": "tel:075-247 30 00",
-          "url": "tel:075-247 30 00"
-        },
-        {
-          "text": "socialstyrelsen@socialstyrelsen.se",
-          "href": "mailto:socialstyrelsen@socialstyrelsen.se",
-          "url": "mailto:socialstyrelsen@socialstyrelsen.se"
         }
       ],
       "table_headers": [],

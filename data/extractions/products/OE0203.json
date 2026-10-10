@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0203",
     "response_url": "https://www.scb.se/OE0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/statens-nettolanebehov/",
-    "fetched_at": "2026-10-05T13:13:33.622150Z",
+    "fetched_at": "2026-10-10T01:18:13.071067Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7d744ffbc5c10f5a1577f29db9a1eb327c5577e75696b84cc5835095cb05155a",
+    "content_sha256": "3bbf2c1fb96dccfced915e482e1179ed977ad5b9539d422590ee8a4c30337468",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0203",
   "summary": "Statistiken visar hur mycket staten behöver låna till följd av underskott i statsbudgeten.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-07",
-  "next_publication_date": "2026-10-07",
+  "next_publication_text": "Nästa publicering: 2026-11-06",
+  "next_publication_date": "2026-11-06",
   "responsible_agency": {
     "label": "Riksgälden",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-07",
+        "Nästa publicering: 2026-11-06",
         "Statistiken visar hur mycket staten behöver låna till följd av underskott i statsbudgeten."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-07",
+          "text": "Nästa publicering: 2026-11-06",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0203&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0203&period=Forward1Year"
         }
@@ -93,45 +93,6 @@
           "text": "Riksgälden",
           "href": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/",
           "url": "https://www.riksgalden.se/sv/var-verksamhet/statsskulden/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Statens nettolånebehov",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Riksgälden",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-613 45 00",
-        "E-post",
-        "riksgalden@riksgalden.se"
-      ],
-      "links": [
-        {
-          "text": "08-613 45 00",
-          "href": "tel:08-613 45 00",
-          "url": "tel:08-613 45 00"
-        },
-        {
-          "text": "riksgalden@riksgalden.se",
-          "href": "mailto:riksgalden@riksgalden.se",
-          "url": "mailto:riksgalden@riksgalden.se"
         }
       ],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0502",
     "response_url": "https://www.scb.se/AM0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/",
-    "fetched_at": "2026-10-05T13:10:12.693481Z",
+    "fetched_at": "2026-10-10T01:15:24.151234Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0fc902b8a29879db7838e403657aeb7556df7bfaa862ec5008d7232544f7d5df",
+    "content_sha256": "e1452704968567578175f008bb98e4401fd1ee9042af31dccd8f2536d6e5c118",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Arbetsmiljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -268,13 +257,7 @@
       "paragraphs": [
         "Metadata"
       ],
-      "links": [
-        {
-          "text": "Metadata",
-          "href": "/contentassets/6c54975b70534fa6a19b1c266a207430/am0502-metadata-2018.xlsx",
-          "url": "https://www.scb.se/contentassets/6c54975b70534fa6a19b1c266a207430/am0502-metadata-2018.xlsx"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -575,77 +558,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=AM0502",
           "url": "https://metadata.scb.se/?produkt=AM0502"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsorsakade besvär",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Marc Doppelbauer",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 42 15",
-        "E-post",
-        "marc.doppelbauer@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 42 15",
-          "href": "tel:010-479 42 15",
-          "url": "tel:010-479 42 15"
-        },
-        {
-          "text": "marc.doppelbauer@scb.se",
-          "href": "mailto:marc.doppelbauer@scb.se",
-          "url": "mailto:marc.doppelbauer@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Arbetsorsakade besvär",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Arbetsmiljö"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Arbetsmiljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=11",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=11"
         }
       ],
       "table_headers": [],

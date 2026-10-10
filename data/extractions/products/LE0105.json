@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0105",
     "response_url": "https://www.scb.se/LE0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/",
-    "fetched_at": "2026-10-05T13:12:11.628686Z",
+    "fetched_at": "2026-10-10T01:17:08.744364Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "372cd07e597f6775e7dc2a604eb36194617aa4cb6a1dcf145cec9e66797c008a",
+    "content_sha256": "ae91f98172a7180b6a615ba1eb594965d76b10f29d55fba48789e35dd51738cf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,54 +21,13 @@
   "short_address": "https://www.scb.se/le0105",
   "summary": "Statistiken visar situationen för olika grupper av utrikes och inrikes födda inom områden som arbetsmarknad, utbildning, ekonomi, boende, hälsa och demokrati. Statistiken publiceras i Statistikdatabasen och i årliga analysrapporter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-08",
-  "next_publication_date": "2026-10-08",
+  "next_publication_text": "Nästa publicering: 2026-12-21",
+  "next_publication_date": "2026-12-21",
   "responsible_agency": null,
   "notices": [
     "Ytterligare statistik"
   ],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Demografi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-    },
-    {
-      "text": "Demokrati",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-    },
-    {
-      "text": "Hälsa och ohälsa",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-    },
-    {
-      "text": "In- och utvandring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=90",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=90"
-    },
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Integration",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=98",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=98"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -79,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-08",
+        "Nästa publicering: 2026-12-21",
         "Statistiken visar situationen för olika grupper av utrikes och inrikes födda inom områden som arbetsmarknad, utbildning, ekonomi, boende, hälsa och demokrati. Statistiken publiceras i Statistikdatabasen och i årliga analysrapporter."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-08",
+          "text": "Nästa publicering: 2026-12-21",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0105&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0105&period=Forward1Year"
         }
@@ -142,14 +101,14 @@
         }
       ],
       "paragraphs": [
-        "2026-05-11",
-        "Fler än 9 av 10 som invandrat som flykting eller anhörig till flykting under perioden 2014–2018 har deltagit i sfi och de flesta som läst sfi har godkänt i någon kurs. Sex år efter invandringen var andelen sysselsatta eller studerande högre för dem med godkänt i sfi än för dem som inte fått godkänt."
+        "2026-10-08",
+        "Andelen elever i årskurs 9 som får godkänt i svenska som andraspråk är runt 70 procent och andelen som får godkänt i svenska är strax under 90 procent. Det visar statistik från Skolverket. Statistiken som SCB publicerar idag visar att tiden i Sverige och föräldrarnas utbildning har stor betydelse för betygsutfallet för elever med utländsk bakgrund. Bland elever med utländsk bakgrund som har föräldrar med en förgymnasial utbildning fick 71 procent godkänt betyg i svenska eller svenska som andraspråk i årskurs 9, medan 90 procent fick det bland elever med föräldrar med en eftergymnasial utbildning."
       ],
       "links": [
         {
-          "text": "Nästan alla flyktingar har läst sfi",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/statistiknyhet/analys-om-sfi-och-integration/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/statistiknyhet/analys-om-sfi-och-integration/"
+          "text": "Åtta av tio elever med utländsk bakgrund fick godkänt i svenska eller svenska som andraspråk i årskurs 9",
+          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/statistiknyhet/integration-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/pong/statistiknyhet/integration-2025/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -277,6 +236,16 @@
           "text": "Sysselsatta för hela riket efter kön, åldersgrupp, yrke, tid i Sverige och bakgrundsvariabel. År 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SSYK02",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SSYK02"
+        },
+        {
+          "text": "Arbetsmarknadsstatus efter boenderegion RegSo, åldersgrupp och bakgrundsvariabel. År 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ArbStatRegSo01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ArbStatRegSo01"
+        },
+        {
+          "text": "Personer efter boenderegion RegSo, åldersgrupp, arbetsrelaterad inkomstnivå och bakgrundsvariabel. År 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ArbStatRegSo02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ArbStatRegSo02"
         }
       ],
       "table_headers": [
@@ -327,6 +296,14 @@
         [
           "Sysselsatta för hela riket efter kön, åldersgrupp, yrke, tid i Sverige och bakgrundsvariabel. År 2024",
           "2026-04-14"
+        ],
+        [
+          "Arbetsmarknadsstatus efter boenderegion RegSo, åldersgrupp och bakgrundsvariabel. År 2024",
+          "2026-10-08"
+        ],
+        [
+          "Personer efter boenderegion RegSo, åldersgrupp, arbetsrelaterad inkomstnivå och bakgrundsvariabel. År 2024",
+          "2026-10-08"
         ]
       ]
     },
@@ -395,9 +372,9 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr08"
         },
         {
-          "text": "Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo01",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo01"
+          "text": "NY Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo02"
         }
       ],
       "table_headers": [
@@ -430,8 +407,68 @@
           "2026-04-14"
         ],
         [
-          "Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
-          "2026-06-30"
+          "NY Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
+          "2026-10-08"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Integration – statistik och analys",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kommunmottagna",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Integration – statistik och analys",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal kommunmottagna personer efter mottagningsår, mottagningsregion (M), boenderegion (B), kön och ålder. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna04"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal kommunmottagna personer efter mottagningsår, mottagningsregion (M), boenderegion (B), kön och ålder. År 2024 - 2025",
+          "2026-10-08"
         ]
       ]
     },
@@ -589,6 +626,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Befolkning 20–74 år efter boenderegion RegSo, utbildningsnivå och bakgrundsvariabel. År 2024 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105UtbRegSO01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105UtbRegSO01"
+        },
+        {
           "text": "Befolkning 20–74 år efter boenderegion, utbildningsnivå, kön, och bakgrundsvariabel. År 2024 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105UtbN01",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105UtbN01"
@@ -607,6 +649,26 @@
           "text": "Elever behöriga till gymnasieskolan som avslutat årskurs 9 för hela riket efter tid i Sverige, utländsk/svensk bakgrund och bakgrundsvariabel. År 2023/24 - 2024/25",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105BehGym02",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105BehGym02"
+        },
+        {
+          "text": "Elever med utländsk bakgrund i grundskolan som har undervisning i svenska eller svenska som andraspråk (SVA) efter boenderegion och bakgrundsvariabel. Läsår 2023/24 - 2025/26",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA01"
+        },
+        {
+          "text": "Elever med utländsk bakgrund i grundskolan som har godkänt betyg i svenska eller svenska som andraspråk (SVA) efter boenderegion och bakgrundsvariabel. Läsår 2023/24 - 2024/25",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA03"
+        },
+        {
+          "text": "Elever med utländsk bakgrund i  grundskolan som har undervisning i svenska eller svenska som andraspråk (SVA) för hela riket efter kön, tid i Sverige och bakgrundsvariabel. Läsår 2023/24 - 2025/26",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA02"
+        },
+        {
+          "text": "Elever med utländsk bakgrund i grundskolan som har godkänt betyg i svenska eller svenska som andraspråk (SVA) för hela riket efter kön, tid i Sverige och bakgrundsvariabel. Läsår 2023/24 - 2024/25",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SVA04"
         },
         {
           "text": "Elever i svenska för invandrare (sfi) som varit i Sverige 0–14 år efter boenderegion, kön och bakgrundsvariabel. År 2024 - 2025",
@@ -639,6 +701,10 @@
           "Datum"
         ],
         [
+          "Befolkning 20–74 år efter boenderegion RegSo, utbildningsnivå och bakgrundsvariabel. År 2024 - 2025",
+          "2026-10-08"
+        ],
+        [
           "Befolkning 20–74 år efter boenderegion, utbildningsnivå, kön, och bakgrundsvariabel. År 2024 - 2025",
           "2026-06-30"
         ],
@@ -653,6 +719,22 @@
         [
           "Elever behöriga till gymnasieskolan som avslutat årskurs 9 för hela riket efter tid i Sverige, utländsk/svensk bakgrund och bakgrundsvariabel. År 2023/24 - 2024/25",
           "2026-06-30"
+        ],
+        [
+          "Elever med utländsk bakgrund i grundskolan som har undervisning i svenska eller svenska som andraspråk (SVA) efter boenderegion och bakgrundsvariabel. Läsår 2023/24 - 2025/26",
+          "2026-10-08"
+        ],
+        [
+          "Elever med utländsk bakgrund i grundskolan som har godkänt betyg i svenska eller svenska som andraspråk (SVA) efter boenderegion och bakgrundsvariabel. Läsår 2023/24 - 2024/25",
+          "2026-10-08"
+        ],
+        [
+          "Elever med utländsk bakgrund i  grundskolan som har undervisning i svenska eller svenska som andraspråk (SVA) för hela riket efter kön, tid i Sverige och bakgrundsvariabel. Läsår 2023/24 - 2025/26",
+          "2026-10-08"
+        ],
+        [
+          "Elever med utländsk bakgrund i grundskolan som har godkänt betyg i svenska eller svenska som andraspråk (SVA) för hela riket efter kön, tid i Sverige och bakgrundsvariabel. Läsår 2023/24 - 2024/25",
+          "2026-10-08"
         ],
         [
           "Elever i svenska för invandrare (sfi) som varit i Sverige 0–14 år efter boenderegion, kön och bakgrundsvariabel. År 2024 - 2025",
@@ -1012,258 +1094,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Drygt 30 000 flyktingar i åldern 18–49 år invandrade 1997–2001. Den vanligaste huvudsakliga inkomstkällan deras första 15 år i Sverige var arbete."
-      ],
-      "links": [
-        {
-          "text": "Så försörjde sig flyktingar de 15 första åren i Sverige",
-          "href": "/hitta-statistik/artiklar/2019/sa-forsorjde-sig-flyktingar-de-15-forsta-aren-i-sverige/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2019/sa-forsorjde-sig-flyktingar-de-15-forsta-aren-i-sverige/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2019-06-12"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "In- och utvandring",
-        "Integration",
-        "Flyktingar",
-        "Privatekonomi"
-      ],
-      "links": [
-        {
-          "text": "In- och utvandring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=90&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=90&selection=articles"
-        },
-        {
-          "text": "Integration",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles"
-        },
-        {
-          "text": "Flyktingar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=318&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=318&selection=articles"
-        },
-        {
-          "text": "Privatekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Hur ser arbetsmarknaden ut för utrikes födda i de nordiska länderna? Det försöker ett nytt nordiskt samarbetsprojekt skildra med en gemensam statistikdatabas. Petter Wikström och Karin Lundström har deltagit i arbetet för SCB:s räkning."
-      ],
-      "links": [
-        {
-          "text": "Intervju: Nya nordiska data om integration",
-          "href": "/hitta-statistik/artiklar/2018/intervju-nya-nordiska-data-om-integration/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/intervju-nya-nordiska-data-om-integration/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-12-10"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Integration"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Integration",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Utrikes födda har en lägre förvärvsfrekvens än inrikes födda i alla nordiska länder. Genom att redovisa olika bakgrundsfaktorer kan mer rättvisande jämförelser göras mellan länderna."
-      ],
-      "links": [
-        {
-          "text": "Lägre andel förvärvsarbetande bland utrikes födda i Norden",
-          "href": "/hitta-statistik/artiklar/2018/lagre-andel-forvarvsarbetande-bland-utrikes-fodda-i-norden/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/lagre-andel-forvarvsarbetande-bland-utrikes-fodda-i-norden/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-12-10"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Befolkning",
-        "Integration",
-        "Sysselsatta"
-      ],
-      "links": [
-        {
-          "text": "Befolkning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=21&selection=articles"
-        },
-        {
-          "text": "Integration",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=98&selection=articles"
-        },
-        {
-          "text": "Sysselsatta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=188&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1332,8 +1162,8 @@
       "links": [
         {
           "text": "2026 (pdf)",
-          "href": "/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_kd_2026_v1_20260630.pdf",
-          "url": "https://www.scb.se/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_kd_2026_v1_20260630.pdf"
+          "href": "/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_kd_2026_v1_20261008.pdf",
+          "url": "https://www.scb.se/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_kd_2026_v1_20261008.pdf"
         },
         {
           "text": "2025 (pdf)",
@@ -1411,8 +1241,8 @@
       "links": [
         {
           "text": "2026 (pdf)",
-          "href": "/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_staf_2026_v1_20260630.pdf",
-          "url": "https://www.scb.se/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_staf_2026_v1_20260630.pdf"
+          "href": "/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_staf_2026_v1_20261008.pdf",
+          "url": "https://www.scb.se/contentassets/e64f19a874024fdcb5a89e6e630562b4/le0105_staf_2026_v1_20261008.pdf"
         },
         {
           "text": "2025 (pdf)",
@@ -1510,23 +1340,7 @@
         "Utveckling av röjandeskyddet",
         "Skyddsmetoder för röjandekontroll"
       ],
-      "links": [
-        {
-          "text": "Indelning i områdestyper efter socioekonomiskt index på DeSo-nivå (pdf)",
-          "href": "/contentassets/e64f19a874024fdcb5a89e6e630562b4/indelning-i-omradestyper-efter-socioekonomiskt-index-pa-deso-niva.pdf",
-          "url": "https://www.scb.se/contentassets/e64f19a874024fdcb5a89e6e630562b4/indelning-i-omradestyper-efter-socioekonomiskt-index-pa-deso-niva.pdf"
-        },
-        {
-          "text": "Utveckling av röjandeskyddet",
-          "href": "/dokumentation/statistikomraden-under-forandring/utveckling-av-rojandeskyddet/",
-          "url": "https://www.scb.se/dokumentation/statistikomraden-under-forandring/utveckling-av-rojandeskyddet/"
-        },
-        {
-          "text": "Skyddsmetoder för röjandekontroll",
-          "href": "/dokumentation/statistiska-metoder/skyddsmetoder-for-rojandekontroll/",
-          "url": "https://www.scb.se/dokumentation/statistiska-metoder/skyddsmetoder-for-rojandekontroll/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1549,74 +1363,6 @@
           "text": "integration@scb.se",
           "href": "mailto:integration@scb.se",
           "url": "mailto:integration@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Integration – statistik och analys",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Arbetsmarknad",
-        "Demografi",
-        "Demokrati",
-        "Hälsa och ohälsa",
-        "In- och utvandring",
-        "Inkomst",
-        "Integration"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Demografi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=38",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=38"
-        },
-        {
-          "text": "Demokrati",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=39",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=39"
-        },
-        {
-          "text": "Hälsa och ohälsa",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=87",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=87"
-        },
-        {
-          "text": "In- och utvandring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=90",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=90"
-        },
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Integration",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=98",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=98"
         }
       ],
       "table_headers": [],

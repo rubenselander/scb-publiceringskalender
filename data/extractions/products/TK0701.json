@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0701",
     "response_url": "https://www.scb.se/TK0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/brev--och-paketdistribution/postverksamhet/",
-    "fetched_at": "2026-10-05T13:14:37.991949Z",
+    "fetched_at": "2026-10-10T01:18:52.591415Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4ced892fc9d146f5fa3765199886e25fe701f14082d836a6b7e66d160d1a0ae7",
+    "content_sha256": "e466e8188fe5d9478dcacb22f03cff8b8884b8edd94254e857ceda810d58c8a8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Trafikanalys",
           "href": "http://trafa.se/etiketter/statistik/",
           "url": "http://trafa.se/etiketter/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Postverksamhet",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Trafikanalys",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-414 42 00",
-        "E-post",
-        "trafikanalys@trafa.se"
-      ],
-      "links": [
-        {
-          "text": "010-414 42 00",
-          "href": "tel:010-414 42 00",
-          "url": "tel:010-414 42 00"
-        },
-        {
-          "text": "trafikanalys@trafa.se",
-          "href": "mailto:trafikanalys@trafa.se",
-          "url": "mailto:trafikanalys@trafa.se"
         }
       ],
       "table_headers": [],

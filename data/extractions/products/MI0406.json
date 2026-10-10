@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0406",
     "response_url": "https://www.scb.se/MI0406",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/",
-    "fetched_at": "2026-10-05T13:12:31.049711Z",
+    "fetched_at": "2026-10-10T01:17:28.122329Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9ca01c1457513dc5f8ab3be3a1638f74d8982cffb30394503e17e92db0b94b0c",
+    "content_sha256": "5802822a8c3348e0839ccc248ca0e16313996d57038ba92b9c81ce59997bca0a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -34,18 +34,7 @@
   "notices": [
     "Statistiken uppdateras inte längre."
   ],
-  "tags": [
-    {
-      "text": "Sjöar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-    },
-    {
-      "text": "Vatten",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -96,38 +85,6 @@
         "Statistiken uppdateras inte längre."
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sötvatten – miljötillstånd miljögifter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Sjöar",
-        "Vatten"
-      ],
-      "links": [
-        {
-          "text": "Sjöar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=169",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=169"
-        },
-        {
-          "text": "Vatten",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=211",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=211"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

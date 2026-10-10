@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0106",
     "response_url": "https://www.scb.se/EN0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/kvartalsvis-branslestatistik/",
-    "fetched_at": "2026-10-05T13:10:29.858999Z",
+    "fetched_at": "2026-10-10T01:15:37.856367Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d0b179bcf8f41c153c3fa2bd9bbd306319c737ec24ebfa909cf2a2e8b892dc91",
+    "content_sha256": "5bc608f5937b3506245fa94c01dcea8c0430160a0e08150551ea6f0e5ed75450",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Bränsle",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-    },
-    {
-      "text": "El",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -980,104 +969,7 @@
         "Beskrivning av Kvartalsvis bränslestatistik",
         "Industrins och energiproducenters bränsleanvändning år 2024 (Energimyndigheten)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Kvartalsvis bränslestatistik",
-          "href": "/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/kvartalsvis-branslestatistik/produktrelaterat/Fordjupad-information/beskrivning-av-kvartalsvis-branslestatistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/kvartalsvis-branslestatistik/produktrelaterat/Fordjupad-information/beskrivning-av-kvartalsvis-branslestatistik/"
-        },
-        {
-          "text": "Industrins och energiproducenters bränsleanvändning år 2024 (Energimyndigheten)",
-          "href": "https://www.energimyndigheten.se/nyhetsarkiv/2025/industrins-och-energiproducenters-bransleanvandning-ar-2024/",
-          "url": "https://www.energimyndigheten.se/nyhetsarkiv/2025/industrins-och-energiproducenters-bransleanvandning-ar-2024/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kvartalsvis bränslestatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kvartalsvis bränslestatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Kvartalsvis bränslestatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Bränsle",
-        "El"
-      ],
-      "links": [
-        {
-          "text": "Bränsle",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=35",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=35"
-        },
-        {
-          "text": "El",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=45",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=45"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/KU0401",
     "response_url": "https://www.scb.se/KU0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/folkbildning/studieforbundsstatistik/",
-    "fetched_at": "2026-10-05T13:12:06.436297Z",
+    "fetched_at": "2026-10-10T01:17:05.455724Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b6513bb5c86806b8320d9ea38de592045912cc099c169bd3abbb68018d6464c2",
+    "content_sha256": "4721adc074f5d51886970b5f957923fb31176fb03c4548110e440d9ed357b68c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Studieförbund",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=251",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=251"
-    },
-    {
-      "text": "Folkbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=252",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=252"
-    },
-    {
-      "text": "Studiecirklar",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=253",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=253"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -535,44 +519,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=KU0401",
           "url": "https://metadata.scb.se/?produkt=KU0401"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Studieförbundsstatistik",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Studieförbund",
-        "Folkbildning",
-        "Studiecirklar"
-      ],
-      "links": [
-        {
-          "text": "Studieförbund",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=251",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=251"
-        },
-        {
-          "text": "Folkbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=252",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=252"
-        },
-        {
-          "text": "Studiecirklar",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=253",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=253"
         }
       ],
       "table_headers": [],

@@ -5,9 +5,8 @@ The complete contents of SCB's [publiceringskalender](https://www.scb.se/hitta-s
 publication, refreshed automatically every week.
 
 The repository also contains deterministic extractors for SCB product pages,
-subject/documentation indexes, agency responsibilities, the agency register,
-official product workbook, legislation, HVD links, economy diagrams and change
-reports. See [Metadata extracts](#metadata-extracts) below.
+the subject index, agency responsibilities, the official product workbook, HVD
+links and change reports. See [Metadata extracts](#metadata-extracts) below.
 
 ## Get the data
 
@@ -119,7 +118,9 @@ not contribute to confirmed product document counts. `document_id` identifies th
 occurrence; `source_url` and `provenance` retain evidence. Legacy exports may lack byte-level provenance., `doc_type`
 (`kvalitetsdeklaration`, `beskrivning av statistiken`, `statistikens framställning`, `scbdok`,
 `metaplus`, `kvalitetsrapport`), `year`, `title`, `url`, `filetype`, `source_url` (the page the
-link was found on) and `heading`.
+link was found on), `heading`, and for SCB documents `subject_area` and `statistics_area`
+(the ämnesområde and statistikområde SCB's index lists the document under; empty for other
+sources).
 
 `produkter` has one row per product code in the calendar (and codes seen only in documents):
 `product_name`, `responsible_agency`, `in_calendar`, `last_publish_date`, `active` (recent or planned calendar activity relative to the parser reference date; it does not establish legal product status), `documents`, `sources`, and for each kind of document its count and the newest
@@ -129,9 +130,9 @@ one's year and URL (`kd_*`, `bas_*`, `staf_*`, `scbdok_*`, `metaplus_*`).
 
 | Source | What | Raw data |
 |---|---|---|
-| `scb` | SCB's [Kvalitet och framställning](https://www.scb.se/dokumentation/kvalitet-och-framtagning/) index, which the page loads one subject area at a time from `/DokumentationSammanstallning/UpdateAmnesomrade?amnesomrade=<id>`. Every document of every product SCB documents, including the ones SCB produces for other agencies. Parsed to `scb_dokument.*` | `data/dokumentation/raw/scb/<id>.json`, the HTML fragment per subject area |
-| `siris` | Skolverket's "Sök statistik" form, backed by a JSON API on `siris.skolverket.se/siris/reports/sossok_api/` (`verksamhetsformer` → `omrade` → `lasar` → `dokument`). Every file Skolverket publishes per school form, area and year — tables, PMs, kvalitetsdeklarationer — with Skolverket's own official-statistics flag (`sos`). All of it is in `siris_dokument.*`; the documentation part goes into `dokument.*` | `data/dokumentation/raw/siris/<verkform>.jsonl`, one line per API response |
-| `sam` | The other statistikansvariga myndigheter, crawled from the start pages in [`dokumentation_sources.json`](dokumentation_sources.json) following the links that file allows. Every link on every page is stored; which ones are documents is decided when parsing (`sam_dokument.*`) | `data/dokumentation/raw/sam/<agency>.jsonl`, one line per page with its links |
+| `scb` | SCB's [Kvalitet och framställning](https://www.scb.se/dokumentation/kvalitet-och-framtagning/) index, which the page loads one subject area at a time from `/DokumentationSammanstallning/UpdateAmnesomrade?amnesomrade=<id>`. Every document of every product SCB documents, including the ones SCB produces for other agencies. Parsed straight into `dokument.*`, with the subject and statistical area each document is listed under | `data/dokumentation/raw/scb/<id>.json`, the HTML fragment per subject area |
+| `siris` | Skolverket's "Sök statistik" form, backed by a JSON API on `siris.skolverket.se/siris/reports/sossok_api/` (`verksamhetsformer` → `omrade` → `lasar` → `dokument`). Every file Skolverket publishes per school form, area and year — tables, PMs, kvalitetsdeklarationer — with Skolverket's own official-statistics flag (`sos`). Only the documentation files (kvalitetsdeklaration, statistikens framställning, beskrivning av statistiken) are kept, in `siris_dokument.jsonl` and `dokument.*` | `data/dokumentation/raw/siris/<verkform>.jsonl`, one line per API response |
+| `sam` | The other statistikansvariga myndigheter, crawled from the start pages in [`dokumentation_sources.json`](dokumentation_sources.json) following the links that file allows. Every link on every page is stored; which ones are documents is decided when parsing (`sam_dokument.jsonl`) | `data/dokumentation/raw/sam/<agency>.jsonl`, one line per page with its links |
 
 Agencies whose pages cannot be read by a plain HTTP client (bot checks, JavaScript-only pages) come
 up short or empty; `data/dokumentation/state.json` lists the sources that failed in the last run.
@@ -157,7 +158,8 @@ uv run python parse_dokumentation.py --as-of 2026-10-05
 ```
 
 The SCB subject-fragment index supplements `scb_extract`'s product-page documentation.
-This harvest lists links and metadata; it does not download the linked PDFs or observation tables.
+`dokument` and `produkter` are published as CSV and JSON Lines; `siris_dokument` and
+`sam_dokument` are internal and JSON Lines only. This harvest lists links and metadata; it does not download the linked PDFs or observation tables.
 SIRIS retains its native `sos` flag without treating calendar or fuzzy-name membership as proof
 that a document is official statistics.
 
@@ -195,14 +197,18 @@ uv run python -m scb_extract run --source all
 uv run python -m scb_extract run --source official_products
 ```
 
-Source IDs: `products`, `subjects`, `documentation`, `official_agencies`,
-`european_agencies`, `regulation`, `agency_registry`, `official_products`, `hvd`,
-`economy`, `changes`. No LLM service or credential is used. Regina is deferred.
+Source IDs: `products`, `subjects`, `official_agencies`, `european_agencies`,
+`official_products`, `hvd`, `changes`. No LLM service or credential is used.
+Regina is deferred.
+
+The agency register (`agency_registry`) is disabled: `--source all` and the
+weekly workflow skip it, but `--source agency_registry` still runs it. The 33
+register rows that match a statistics agency are kept by hand in
+[`data/reference/agency_registry_linked.json`](data/reference/agency_registry_linked.json).
 
 Each source writes to `data/extractions/<source>/`. Products use product codes;
-subjects use subject codes; documentation pages, diagrams and PDFs use a stable
-SHA-256 URL identifier. Documentation product codes remain metadata, so a failed
-refresh cannot change the page's filename. Collection files are `index.json`.
+subjects use subject codes; change-report PDFs, and product pages found without
+a code, use a stable SHA-256 URL identifier. Collection files are `index.json`.
 Swedish source text, source ordering and link contexts are retained. The workbook
 uses original column names, including `Anvandare`.
 
@@ -216,15 +222,19 @@ sibling outputs are still published. An absent section is distinguished from a
 failed request.
 
 Product discovery includes all distinct codes in the calendar, including old
-codes whose current URLs may return 404. These failures remain visible. Membership
+codes whose current URLs may return 404. These failures remain visible. SCB's
+A–Z documentation index (`/dokumentation/`) adds product pages the calendar
+does not list, keyed by the code in the page's short address, and recovers a
+calendar code whose short URL fails when the index links its page. Membership
 in a subject or calendar is not proof of current official-product status: join
 against the current workbook using exact `Produktkod`, never fuzzy titles.
 
-The regulation retains source text and future-effective versions without deciding
-which provisions apply today. PDF notices retain page text and evidence; proposals
-and uncertain dates are flagged. The reports themselves omit some changes, so
-they are not a complete historical change ledger. Linked HVD observations,
-documentation PDFs and economy Excel assets are recorded as links, not downloaded.
+Change-report PDF notices retain page text and evidence; proposals and uncertain
+dates are flagged. The reports themselves omit some changes, so they are not a
+complete historical change ledger. HVD output keeps only the links whose PxWeb
+path names a product (`START__<subject>__<code>`), with `total_source_links`
+recording how many the page listed. Linked observations and documentation PDFs
+are recorded as links, not downloaded.
 
 ### Raw archives and replay
 
@@ -251,6 +261,69 @@ raw inputs cannot be recovered from Git; normalized JSON remains in Git history.
 The workflow commits validated data and status files once, and remains failed if
 any extraction step failed. Workflow changes take effect after integration into
 the repository's scheduled branch.
+
+### Local SQLite database
+
+Everything above (calendar, documentation harvest, the extraction families and
+the reference register rows) can be loaded into one normalized SQLite file. It is built locally
+from the committed files, not fetched, and is ignored by Git:
+
+```bash
+uv run python -m scb_extract build-db                 # writes data/scb.db
+uv run python -m scb_extract build-db --out /tmp/scb.db --data-dir data
+```
+
+The build takes well under a minute and replaces the file only when it
+completes. Tables fall into four groups:
+
+| Group | Tables |
+|---|---|
+| Dimensions | `product`, `agency` (+ `agency_alias`), `subject`, `statistical_area`, `document` |
+| Links | `document_product_claim`, `product_subject_claim`, `product_alias`, `product_name_alias` |
+| Facts per source | `calendar_entry*`, `harvest_document`, `siris_dokument`, `sam_dokument`, `dokumentation_product`, `product_page*` (keyed by `page_key`; `product_code` may be empty), `subject_product_card`, `official_agency*`, `european_agency`, `registry_agency*`, `official_product_row`, `hvd_*`, `changes_report*`, `change_notice*` |
+| Diagnostics | `build_info`, `source_status` (every manifest record), `provenance`, `link_issues` |
+
+Views for common questions: `v_product_overview` (workbook status, last and
+next calendar date, document counts per type), `v_agency_products`,
+`v_document_latest` (newest document per product and type) and
+`v_document_code_conflicts`.
+
+Links are soft. Agencies match on normalized names (case, whitespace and a
+trailing abbreviation ignored) and on the workbook's short names, mapped to the
+calendar's long names through shared product codes; nothing is fuzzy-matched.
+A document's product code is stored per source in `document_product_claim`,
+because the harvest takes it from the filename and the product page from the
+page that lists the file, and the two disagree for several hundred files. Candidate
+joins keep `origin = 'harvest_candidate'` and are excluded from the views.
+Anything that did not resolve is counted in `link_issues` instead of being
+dropped. The two-letter prefix of a product code is not its subject; use
+`product_subject_claim`.
+
+### Compact SQLite database
+
+A second, much smaller database keeps the same content in four tables, for
+reading rather than auditing:
+
+```bash
+uv run python -m scb_extract build-compact-db         # writes data/scb_compact.db
+```
+
+| Table | One row per | Holds |
+|---|---|---|
+| `product` | product code | name, `agency`, `subject`, `area`, `official` (in the workbook), periodicity, purpose, page summary, `alias_of`, and JSON columns `other_names`, `publications` (calendar entries), `documents`, `changes` (change notices), `hvd` |
+| `agency` | agency | name, org number, website, statistics URL, `official`, `european`, JSON `subjects` (subject → statistical areas) and `documents` not tied to a product |
+| `subject` | subject code | name and JSON `areas` |
+| `meta` | key | build time, git revision, data dates and the records that were not freshly refreshed |
+
+An agency is always referred to by one slug of its name: lowercase, å and ä
+become a, ö becomes o, and other characters become `_`
+(`statistiska_centralbyran`). There are no ids, aliases or URL keys. Empty JSON
+values are stored as NULL and empty keys are dropped from JSON objects. A
+document claimed for several products appears under each of them; one that only
+a name match links to has `"candidate": true`. The build creates the full
+database in a temporary file and projects it, so matching is identical.
+Canonical URLs, provenance, publication status, duplicate calendar rows and
+link diagnostics are left out; use `build-db` for those.
 
 ### Tests and parser contracts
 

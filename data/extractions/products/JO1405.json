@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1405",
     "response_url": "https://www.scb.se/JO1405",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/fastighets--och-agarstruktur-i-skogsbruk/",
-    "fetched_at": "2026-10-05T13:11:57.760736Z",
+    "fetched_at": "2026-10-10T01:17:00.165600Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "204d62ded427424d01f499cabfbdccc7fac9cce71938b66e90154a5822d61807",
+    "content_sha256": "ddde3c4aa4458d76ef8a622c3284873f24d7c7168aca5884ab34bb1d4c5b23a2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -66,45 +66,6 @@
           "text": "Skogsstyrelsen",
           "href": "http://www.skogsstyrelsen.se/statistik",
           "url": "http://www.skogsstyrelsen.se/statistik"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighets- och ägarstruktur i skogsbruk",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skogsstyrelsen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-172 10 00",
-        "E-post",
-        "statistik@skogsstyrelsen.se"
-      ],
-      "links": [
-        {
-          "text": "010-172 10 00",
-          "href": "tel:010-172 10 00",
-          "url": "tel:010-172 10 00"
-        },
-        {
-          "text": "statistik@skogsstyrelsen.se",
-          "href": "mailto:statistik@skogsstyrelsen.se",
-          "url": "mailto:statistik@skogsstyrelsen.se"
         }
       ],
       "table_headers": [],

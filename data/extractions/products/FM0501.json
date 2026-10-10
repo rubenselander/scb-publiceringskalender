@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0501",
     "response_url": "https://www.scb.se/FM0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-kapitalplaceringar/",
-    "fetched_at": "2026-10-05T13:10:49.667214Z",
+    "fetched_at": "2026-10-10T01:15:58.392335Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "69d36b12036d4e74251d62476cd22b83dfe7430ff61c3c3b2cdece7ef2b8b560",
+    "content_sha256": "b1bdbb838cd59fd69f0def9a1f1fead8894fd7d610958bc36024334fe863d679",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,18 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Aktier",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-    },
-    {
-      "text": "Tillgångar och skulder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -838,77 +827,6 @@
           "text": "fmfi@scb.se",
           "href": "mailto:fmfi@scb.se",
           "url": "mailto:fmfi@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäkringsföretagens kapitalplaceringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Nils-Henrik Jansson",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 41 15",
-        "E-post",
-        "nils-henrik.jansson@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 41 15",
-          "href": "tel:010-479 41 15",
-          "url": "tel:010-479 41 15"
-        },
-        {
-          "text": "nils-henrik.jansson@scb.se",
-          "href": "mailto:nils-henrik.jansson@scb.se",
-          "url": "mailto:nils-henrik.jansson@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäkringsföretagens kapitalplaceringar",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Aktier",
-        "Tillgångar och skulder"
-      ],
-      "links": [
-        {
-          "text": "Aktier",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=3",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=3"
-        },
-        {
-          "text": "Tillgångar och skulder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=192",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=192"
         }
       ],
       "table_headers": [],

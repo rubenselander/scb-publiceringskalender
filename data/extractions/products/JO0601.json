@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0601",
     "response_url": "https://www.scb.se/JO0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/",
-    "fetched_at": "2026-10-05T13:11:40.763072Z",
+    "fetched_at": "2026-10-10T01:16:44.299598Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "39ab5008083914ab987efe9a72b449d8075edd259764e6632a7e9ca86d11aa6a",
+    "content_sha256": "8bf335cdb2cd0543385372a0facfb27401dff18cc00602c359fbd1233f7c64cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Gödsel",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Odling",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -986,88 +970,7 @@
         "Beskrivning av Skörd av spannmål, trindsäd och oljeväxter",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Skörd av spannmål, trindsäd och oljeväxter",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/produktrelaterat/Fordjupad-information/beskrivning-av-skord-av-spannmal-trindsad-och-oljevaxter/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/produktrelaterat/Fordjupad-information/beskrivning-av-skord-av-spannmal-trindsad-och-oljevaxter/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd av spannmål, trindsäd och oljeväxter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "lantbruksstatistik@scb.se"
-      ],
-      "links": [
-        {
-          "text": "lantbruksstatistik@scb.se",
-          "href": "mailto:lantbruksstatistik@scb.se",
-          "url": "mailto:lantbruksstatistik@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Skörd av spannmål, trindsäd och oljeväxter",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Gödsel",
-        "Jordbruk",
-        "Odling"
-      ],
-      "links": [
-        {
-          "text": "Gödsel",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=79",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=79"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Odling",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=141",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=141"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

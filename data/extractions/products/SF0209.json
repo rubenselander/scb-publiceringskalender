@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0209",
     "response_url": "https://www.scb.se/SF0209",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/assistansersattning/",
-    "fetched_at": "2026-10-05T13:14:17.107931Z",
+    "fetched_at": "2026-10-10T01:18:37.746772Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "144c31fcda8f4675732105596c5bbe8a8fe012de69bbcc81f7b4526a2c97cadf",
+    "content_sha256": "7f664ba1b55bb8fc4a50bde4ffeab41312c4c47096bd8baac99782a4facb9ecf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0209",
   "summary": "Statistiken visar antal assistansberättigade och antalet beviljade timmar per vecka fördelat på ålder, personkrets, län och typ av anordnare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-09",
-  "next_publication_date": "2026-10-09",
+  "next_publication_text": "Nästa publicering: 2026-11-11",
+  "next_publication_date": "2026-11-11",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -32,33 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Inkomst",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-    },
-    {
-      "text": "Socialförsäkring",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-    },
-    {
-      "text": "Funktionsnedsättning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-    },
-    {
-      "text": "Funktionshinder",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=256",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=256"
-    },
-    {
-      "text": "Handikapp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=287",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=287"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -69,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-09",
+        "Nästa publicering: 2026-11-11",
         "Statistiken visar antal assistansberättigade och antalet beviljade timmar per vecka fördelat på ålder, personkrets, län och typ av anordnare."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-09",
+          "text": "Nästa publicering: 2026-11-11",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0209&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0209&period=Forward1Year"
         }
@@ -98,95 +72,6 @@
           "text": "Försäkringskassan",
           "href": "http://www.forsakringskassan.se/statistik/",
           "url": "http://www.forsakringskassan.se/statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Assistansersättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Försäkringskassan",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-786 90 00",
-        "E-post",
-        "statistikenheten@forsakringskassan.se"
-      ],
-      "links": [
-        {
-          "text": "08-786 90 00",
-          "href": "tel:08-786 90 00",
-          "url": "tel:08-786 90 00"
-        },
-        {
-          "text": "statistikenheten@forsakringskassan.se",
-          "href": "mailto:statistikenheten@forsakringskassan.se",
-          "url": "mailto:statistikenheten@forsakringskassan.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Assistansersättning",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Inkomst",
-        "Socialförsäkring",
-        "Funktionsnedsättning",
-        "Funktionshinder",
-        "Handikapp"
-      ],
-      "links": [
-        {
-          "text": "Inkomst",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=95",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=95"
-        },
-        {
-          "text": "Socialförsäkring",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=176",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=176"
-        },
-        {
-          "text": "Funktionsnedsättning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=239",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=239"
-        },
-        {
-          "text": "Funktionshinder",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=256",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=256"
-        },
-        {
-          "text": "Handikapp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=287",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=287"
         }
       ],
       "table_headers": [],

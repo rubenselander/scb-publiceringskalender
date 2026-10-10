@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0139",
     "response_url": "https://www.scb.se/UF0139",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/etablering-pa-arbetsmarknaden-och-fortsatta-studier-efter-gymnasieskolan/",
-    "fetched_at": "2026-10-05T13:15:08.837020Z",
+    "fetched_at": "2026-10-10T01:19:15.204611Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "14aae41cc32816cbeb2451dd9fc0f73139e5afba895f1314206177cef4ff14e6",
+    "content_sha256": "445f666e5742014b9308d53e13dc045d2975a7bca0f7186063b87998c1ad9d02",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -202,45 +202,7 @@
       "paragraphs": [
         "Beskrivning av etableringsmåttet (pdf)"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av etableringsmåttet (pdf)",
-          "href": "/contentassets/d0d9d997942e4fe8ad350a3a1bcd9127/beskrivning-av-etableringsmattet-gymnasiet_240830.pdf",
-          "url": "https://www.scb.se/contentassets/d0d9d997942e4fe8ad350a3a1bcd9127/beskrivning-av-etableringsmattet-gymnasiet_240830.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Etablering på arbetsmarknaden och fortsatta studier efter gymnasieskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Skolverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "E-post",
-        "utbildningsstatistik@skolverket.se"
-      ],
-      "links": [
-        {
-          "text": "utbildningsstatistik@skolverket.se",
-          "href": "mailto:utbildningsstatistik@skolverket.se",
-          "url": "mailto:utbildningsstatistik@skolverket.se"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

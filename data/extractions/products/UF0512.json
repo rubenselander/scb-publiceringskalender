@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0512",
     "response_url": "https://www.scb.se/UF0512",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/",
-    "fetched_at": "2026-10-05T13:15:28.514745Z",
+    "fetched_at": "2026-10-10T01:19:29.902896Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "21af096d8c513383d7f06207c8acd66efe6db028190eb445a60479edeb19dc5d",
+    "content_sha256": "3e8bf607923a9b10019a740b87423239b7405951d8f8ea57912d692b6f85c56b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbetsmarknad",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-    },
-    {
-      "text": "Gymnasieskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -1068,180 +1052,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Cirka 80 procent av unga med examen från ett yrkesprogram hade arbete tre år senare. Men alla arbetar inte med det de utbildat sig till."
-      ],
-      "links": [
-        {
-          "text": "Jobb väntar för dig som valt yrkesprogram",
-          "href": "/hitta-statistik/artiklar/2018/jobb-vantar-for-dig-som-valt-yrkesprogram/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/jobb-vantar-for-dig-som-valt-yrkesprogram/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-08-29"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Gymnasieskola",
-        "Utbildning",
-        "Yrke"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10&selection=articles"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77&selection=articles"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202&selection=articles"
-        },
-        {
-          "text": "Yrke",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=219&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Under våren 2017 fick ett urval av universitets- och högskolestudenter som avslutat sina studier läsåret 2013/14 svara på en enkät om sin situation på arbetsmarknaden. Framför allt på generella program är det vanligt att avsluta sin utbildning utan examen."
-      ],
-      "links": [
-        {
-          "text": "Arbete i linje med utbildningen vanligare bland examinerade",
-          "href": "/hitta-statistik/artiklar/2018/arbete-i-linje-med-utbildningen-vanligare-bland-examinerade/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2018/arbete-i-linje-med-utbildningen-vanligare-bland-examinerade/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2018-03-05"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Examen",
-        "Utbildningsnivå",
-        "Högskola"
-      ],
-      "links": [
-        {
-          "text": "Examen",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=50&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=50&selection=articles"
-        },
-        {
-          "text": "Utbildningsnivå",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=203&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203&selection=articles"
-        },
-        {
-          "text": "Högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=298&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -1863,95 +1673,7 @@
         "Översikt över enkätundersökningarna",
         "Statistik om inträde/etablering på arbetsmarknaden och övergång till vidare studier efter utbildning (pdf)"
       ],
-      "links": [
-        {
-          "text": "Översikt över enkätundersökningarna",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/produktrelaterat/Fordjupad-information/oversikt-over-enkatundersokningarna/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/produktrelaterat/Fordjupad-information/oversikt-over-enkatundersokningarna/"
-        },
-        {
-          "text": "Statistik om inträde/etablering på arbetsmarknaden och övergång till vidare studier efter utbildning (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/produktrelaterat/Fordjupad-information/statistik-om-intradeetablering-pa-arbetsmarknaden-och-overgang-till-vidare-studier-efter-utbildning-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/intradet-pa-arbetsmarknaden/produktrelaterat/Fordjupad-information/statistik-om-intradeetablering-pa-arbetsmarknaden-och-overgang-till-vidare-studier-efter-utbildning-pdf/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Paula Kossack",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 60 05",
-        "E-post",
-        "paula.kossack@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 60 05",
-          "href": "tel:010-479 60 05",
-          "url": "tel:010-479 60 05"
-        },
-        {
-          "text": "paula.kossack@scb.se",
-          "href": "mailto:paula.kossack@scb.se",
-          "url": "mailto:paula.kossack@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Inträdet på arbetsmarknaden",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbetsmarknad",
-        "Gymnasieskola",
-        "Universitet och högskola"
-      ],
-      "links": [
-        {
-          "text": "Arbetsmarknad",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=10",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=10"
-        },
-        {
-          "text": "Gymnasieskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=77",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=77"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

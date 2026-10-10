@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0101",
     "response_url": "https://www.scb.se/PR0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/",
-    "fetched_at": "2026-10-05T13:13:39.984467Z",
+    "fetched_at": "2026-10-10T01:18:17.575281Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dd5c3022c649125a9559559345f4cee565361cbb2e8ecedcd9173d5d590cd74e",
+    "content_sha256": "7db801d346065500a61e6ed18776c64efb55edf5034d6512fafc1d0e79b9010c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0101",
   "summary": "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-07",
-  "next_publication_date": "2026-10-07",
+  "next_publication_text": "Nästa publicering: 2026-10-14",
+  "next_publication_date": "2026-10-14",
   "responsible_agency": null,
   "notices": [
     "KPI byter klassifikation och basår",
@@ -30,38 +30,7 @@
     "Prisbasbeloppet för år 2027",
     "Nämnden för Konsumentprisindex"
   ],
-  "tags": [
-    {
-      "text": "Ekonomi",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-    },
-    {
-      "text": "Index",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-    },
-    {
-      "text": "Inflation",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=94",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=94"
-    },
-    {
-      "text": "Prisbasbelopp",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=154",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=154"
-    },
-    {
-      "text": "Priser",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-    },
-    {
-      "text": "Konsumentprisindex",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=304",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=304"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -72,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-07",
+        "Nästa publicering: 2026-10-14",
         "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-07",
+          "text": "Nästa publicering: 2026-10-14",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year"
         }
@@ -205,14 +174,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-14",
-        "Inflationstakten enligt KPI var 0,3 procent i augusti 2026, vilket var en uppgång från 0,2 procent i juli. Månadsförändringen från juli till augusti var -0,3 procent enligt KPI. Inflationstakten enligt KPIF (Konsumentprisindex med fast ränta) var 0,7 procent i augusti, vilket den även var i juli."
+        "2026-10-07",
+        "Den preliminära inflationstakten enligt KPI för september 2026 var 1,1 procent, vilket var en uppgång från 0,3 procent i augusti. Månadsförändringen för KPI från augusti till september var 0,9 procent. Den ordinarie publiceringen för september sker den 14 oktober."
       ],
       "links": [
         {
-          "text": "Inflationstakten enligt KPI var 0,3 procent i augusti 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-augusti-2026/"
+          "text": "Snabb-KPI: Inflationstakten 1,1 procent i september 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -251,6 +220,55 @@
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konsumentprisindex (KPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller och diagram",
+          "level": 2,
+          "anchor": "_Tabellerochdiagram"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Konsumentprisindex (2020=100), fastställda tal",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/tabell-och-diagram/konsumentprisindex-2020100-faststallda-tal/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/tabell-och-diagram/konsumentprisindex-2020100-faststallda-tal/"
+        },
+        {
+          "text": "Konsumentprisindex (1980=100), fastställda tal (Uppdateras ej efter 2025)",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/tabell-och-diagram/konsumentprisindex-1980100-faststallda-tal-uppdateras-ej-efter-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/tabell-och-diagram/konsumentprisindex-1980100-faststallda-tal-uppdateras-ej-efter-2025/"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Typ",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Typ",
+          "Datum"
+        ],
+        [
+          "Konsumentprisindex (2020=100), fastställda tal",
+          "Tabell",
+          "2026-10-07"
+        ],
+        [
+          "Konsumentprisindex (1980=100), fastställda tal (Uppdateras ej efter 2025)",
+          "Tabell",
+          "2026-01-15"
+        ]
+      ]
     },
     {
       "heading_path": [
@@ -1003,22 +1021,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M08",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI"
-        },
-        {
-          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M08",
+          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d"
         },
         {
-          "text": "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M08",
+          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI"
+        },
+        {
+          "text": "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIAvdelningar",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIAvdelningar"
         },
         {
-          "text": "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M08",
+          "text": "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIFSA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIFSA"
         }
@@ -1033,20 +1051,20 @@
           "Datum"
         ],
         [
-          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M08",
-          "2026-09-07"
+          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M09",
+          "2026-10-07"
         ],
         [
-          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M08",
-          "2026-09-07"
+          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M09",
+          "2026-10-07"
         ],
         [
-          "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M08",
-          "2026-09-07"
+          "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M09",
+          "2026-10-07"
         ],
         [
-          "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M08",
-          "2026-09-07"
+          "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M09",
+          "2026-10-07"
         ]
       ]
     },
@@ -1513,90 +1531,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Sedan 1950-talet har hushållens konsumtion mätts varje år genom att titta på hur varor och tjänster ser ut i en så kallad konsumentkorg. Vad korgen består av säger inte bara något om vår konsumtion, utan också något om samhället och de värderingar som präglar vår tid."
-      ],
-      "links": [
-        {
-          "text": "Vår konsumtion speglar samhällets utveckling",
-          "href": "/hitta-statistik/artiklar/2020/var-konsumtion-speglar-samhallets-utveckling/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2020/var-konsumtion-speglar-samhallets-utveckling/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "2020-12-21"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Artiklar",
-          "level": 2,
-          "anchor": "_Artiklar"
-        }
-      ],
-      "paragraphs": [
-        "Hushåll och ekonomi",
-        "Konsumentprisindex",
-        "Privatekonomi"
-      ],
-      "links": [
-        {
-          "text": "Hushåll och ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=297&selection=articles"
-        },
-        {
-          "text": "Konsumentprisindex",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=304&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=304&selection=articles"
-        },
-        {
-          "text": "Privatekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=348&selection=articles"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Aktuellt",
           "level": 2,
           "anchor": "_Aktuellt"
@@ -1610,38 +1544,7 @@
         "KPI byter klassificering och basår",
         "Priserna i Sverige – Konsumentprisindex (KPI)"
       ],
-      "links": [
-        {
-          "text": "Hantering i KPI och relaterade mått av reformer som införs i juli 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/hantering-i-kpi-och-relaterade-matt-av-reformer-som-infors-i-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/hantering-i-kpi-och-relaterade-matt-av-reformer-som-infors-i-juli-2026/"
-        },
-        {
-          "text": "SCB återgår till tidigare datakälla för flygresor (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/scb-atergar-till-tidigare-datakalla-for-flygesor_20260812.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/scb-atergar-till-tidigare-datakalla-for-flygesor_20260812.pdf"
-        },
-        {
-          "text": "Ändringar i KPI från och med 2026 (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/andringar-i-kpi-fran-och-med-2026_v2.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/andringar-i-kpi-fran-och-med-2026_v2.pdf"
-        },
-        {
-          "text": "Effekt av klassifikations- och basårsbyte för KPI och relaterade mått (pdf",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/effekt-av-klassifikations--och-basarsbyte-for-kpi-och-relaterade-matt-2025m01-2025m12.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/effekt-av-klassifikations--och-basarsbyte-for-kpi-och-relaterade-matt-2025m01-2025m12.pdf"
-        },
-        {
-          "text": "KPI byter klassificering och basår",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/kpi-byter-klassificering-och-basar/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/kpi-byter-klassificering-och-basar/"
-        },
-        {
-          "text": "Priserna i Sverige – Konsumentprisindex (KPI)",
-          "href": "/hitta-statistik/sverige-i-siffror/samhallets-ekonomi/kpi/",
-          "url": "https://www.scb.se/hitta-statistik/sverige-i-siffror/samhallets-ekonomi/kpi/"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -2099,233 +2002,7 @@
         "Sveriges ekonomi - Svängande energipriser påverkar KPI",
         "Eurostat grant project summary report - 2023 (pdf)"
       ],
-      "links": [
-        {
-          "text": "SSD användarguide för KPI (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/ssd-anvandarguide-for-kpi.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/ssd-anvandarguide-for-kpi.pdf"
-        },
-        {
-          "text": "Högkostnadsskyddet juli 2025 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/hogkostnadsskyddet-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/aktuellt/hogkostnadsskyddet-juli-2026/"
-        },
-        {
-          "text": "Hantering i KPI av ändrat rotavdrag (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/pm-rotavdrag-2025-maj_sv.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/pm-rotavdrag-2025-maj_sv.pdf"
-        },
-        {
-          "text": "KPI och KPIF, två olika inflationsmått",
-          "href": "/hitta-statistik/artiklar/2017/kpi-och-kpif-tva-olika-inflationsmatt/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2017/kpi-och-kpif-tva-olika-inflationsmatt/"
-        },
-        {
-          "text": "Snabb-KPI",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/snabb-kpi/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/snabb-kpi/"
-        },
-        {
-          "text": "Information om nämnden för KPI",
-          "href": "/om-scb/scbs-verksamhet/rad-och-namnder/namnden-for-konsumentprisindex/",
-          "url": "https://www.scb.se/om-scb/scbs-verksamhet/rad-och-namnder/namnden-for-konsumentprisindex/"
-        },
-        {
-          "text": "Prisindex på detaljerad nivå (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/prisindex_pa_detaljerad_niva_20240517.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/prisindex_pa_detaljerad_niva_20240517.pdf"
-        },
-        {
-          "text": "Utrikesflyg har blivit 43 procent dyrare på två år",
-          "href": "/pressmeddelande/utrikesflyg-har-blivit-12-procent-dyrare-an-forra-aret/",
-          "url": "https://www.scb.se/pressmeddelande/utrikesflyg-har-blivit-12-procent-dyrare-an-forra-aret/"
-        },
-        {
-          "text": "Boendekostnader steg i genomsnitt mest förra året",
-          "href": "/pressmeddelande/boendekostnader-steg-i-genomsnitt-mest-forra-aret/#:~:text=%E2%80%93%20R%C3%A4knat%20p%C3%A5%20%C3%A5rsmedel%2C%20som%20%C3%A4r,fr%C3%A4mst%20i%20m%C3%A5nads-%20och%20%C3%A5rsf%C3%B6r%C3%A4ndringar.",
-          "url": "https://www.scb.se/pressmeddelande/boendekostnader-steg-i-genomsnitt-mest-forra-aret/#:~:text=%E2%80%93%20R%C3%A4knat%20p%C3%A5%20%C3%A5rsmedel%2C%20som%20%C3%A4r,fr%C3%A4mst%20i%20m%C3%A5nads-%20och%20%C3%A5rsf%C3%B6r%C3%A4ndringar."
-        },
-        {
-          "text": "Kulflation – att resa har ökat mer i pris än att äta ute",
-          "href": "/hitta-statistik/artiklar/2023/kulflation--att-resa-har-okat-mer-i-pris-an-att-ata-ute/",
-          "url": "https://www.scb.se/hitta-statistik/artiklar/2023/kulflation--att-resa-har-okat-mer-i-pris-an-att-ata-ute/"
-        },
-        {
-          "text": "Revideringspolicy för KPI och relaterade inflationsmått (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/revideringspolicy-for-kpi-och-relaterade-inflationsmatt-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/revideringspolicy-for-kpi-och-relaterade-inflationsmatt-pdf/"
-        },
-        {
-          "text": "Alla har en personlig inflation",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/alla-har-en-personlig-inflation/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/alla-har-en-personlig-inflation/"
-        },
-        {
-          "text": "Matpriser stiger lika kraftigt som på 80-talet",
-          "href": "/hitta-statistik/redaktionellt/matpriser-stiger-lika-kraftigt-som-pa-80-talet/",
-          "url": "https://www.scb.se/hitta-statistik/redaktionellt/matpriser-stiger-lika-kraftigt-som-pa-80-talet/"
-        },
-        {
-          "text": "Så syns bostadspriser i inflationsberäkningarna",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/sa-syns-bostadspriser-i-inflationsberakningarna/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/sa-syns-bostadspriser-i-inflationsberakningarna/"
-        },
-        {
-          "text": "Hantering av ränteavdraget i KPI (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/hantering-av-ranteavdraget-i-kpi-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/hantering-av-ranteavdraget-i-kpi-pdf/"
-        },
-        {
-          "text": "Beskrivning av korgeffekten (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/beskrivning-av-korgeffekten-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/beskrivning-av-korgeffekten-pdf/"
-        },
-        {
-          "text": "Beskrivning av KPIF-måtten (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/beskrivning-av-kpif-matten-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/beskrivning-av-kpif-matten-pdf/"
-        },
-        {
-          "text": "KPI-KS (KPI med konstant skatt) och KPIF-KS (KPI med fast ränta och konstant skatt) (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/kpi-ks-kpi-med-konstant-skatt-och-kpif-ks-kpi-med-fast-ranta-och-konstant-skatt-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/kpi-ks-kpi-med-konstant-skatt-och-kpif-ks-kpi-med-fast-ranta-och-konstant-skatt-pdf/"
-        },
-        {
-          "text": "HIKP metadata (Eurostat)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/hikp-metadata/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/hikp-metadata/"
-        },
-        {
-          "text": "Förbättrad KPI-konstruktion från januari 2005 (pdf)",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/forbattrad-kpi-konstruktion-fran-januari-2005-pdf/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/produktrelaterat/Fordjupad-information/forbattrad-kpi-konstruktion-fran-januari-2005-pdf/"
-        },
-        {
-          "text": "Sampling of Scanner Data Product Offers in the Swedish CPI (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/sampling-of-scanner-data-product-offers-in-the-swedish-cpi.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/sampling-of-scanner-data-product-offers-in-the-swedish-cpi.pdf"
-        },
-        {
-          "text": "Sveriges ekonomi - Svängande energipriser påverkar KPI",
-          "href": "/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/svangande-energipriser-paverkar-kpi/",
-          "url": "https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/svangande-energipriser-paverkar-kpi/"
-        },
-        {
-          "text": "Eurostat grant project summary report - 2023 (pdf)",
-          "href": "/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/eurostat_grant_project_summary_report-2023.pdf",
-          "url": "https://www.scb.se/contentassets/a1e257bb3a574420b9d3f2ff59851c0a/eurostat_grant_project_summary_report-2023.pdf"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Konsumentprisindex (KPI)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Ekonomi",
-        "Index",
-        "Inflation",
-        "Prisbasbelopp",
-        "Priser",
-        "Konsumentprisindex"
-      ],
-      "links": [
-        {
-          "text": "Ekonomi",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=44",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=44"
-        },
-        {
-          "text": "Index",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=91",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=91"
-        },
-        {
-          "text": "Inflation",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=94",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=94"
-        },
-        {
-          "text": "Prisbasbelopp",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=154",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=154"
-        },
-        {
-          "text": "Priser",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=155",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=155"
-        },
-        {
-          "text": "Konsumentprisindex",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=304",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=304"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

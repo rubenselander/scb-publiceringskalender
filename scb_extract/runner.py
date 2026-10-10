@@ -9,16 +9,16 @@ from scb_extract.output import publish
 SOURCE_IDS = (
     "products",
     "subjects",
-    "documentation",
     "official_agencies",
     "european_agencies",
-    "regulation",
-    "agency_registry",
     "official_products",
     "hvd",
-    "economy",
     "changes",
 )
+# Kept runnable on explicit request (--source agency_registry) but excluded from
+# "all" and the scheduled workflow. Rows that link to a statistics agency are kept
+# in data/reference/agency_registry_linked.json.
+DISABLED_SOURCE_IDS = ("agency_registry",)
 
 
 def adapters() -> dict[str, SourceAdapter]:

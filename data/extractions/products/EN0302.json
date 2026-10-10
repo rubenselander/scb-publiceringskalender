@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0302",
     "response_url": "https://www.scb.se/EN0302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/gaspriser-och-gasavtal/",
-    "fetched_at": "2026-10-05T13:10:40.610501Z",
+    "fetched_at": "2026-10-10T01:15:48.994296Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "541b4b82f1af7b798726449683b0cc305ccf50a64bdacf7d72951267f19161ee",
+    "content_sha256": "257f4bcd9dfa534fa20db71a41266fdb208fe7d38d36f7b4b98815ff296493f2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -937,60 +937,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=EN0302",
           "url": "https://metadata.scb.se/?produkt=EN0302"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gaspriser och gasavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 50 00",
-        "Vardagar: 9.00–16.00 Lunchstängt: 12.00–13.00"
-      ],
-      "links": [
-        {
-          "text": "010-479 50 00",
-          "href": "tel:010-479 50 00",
-          "url": "tel:010-479 50 00"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Gaspriser och gasavtal",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Statistikservice",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Mejla Statistikservice"
-      ],
-      "links": [
-        {
-          "text": "Mejla Statistikservice",
-          "href": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/",
-          "url": "https://www.scb.se/om-scb/kontakta-oss/statistikservice/fraga-oss/"
         }
       ],
       "table_headers": [],

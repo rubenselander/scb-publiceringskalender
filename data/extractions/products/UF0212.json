@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0212",
     "response_url": "https://www.scb.se/UF0212",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/hogskolenyborjare-och-doktorandnyborjare-efter-foraldrarnas-utbildningsniva/",
-    "fetched_at": "2026-10-05T13:15:16.800750Z",
+    "fetched_at": "2026-10-10T01:19:21.005025Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9ee39385f8b42a47960244c3295b32998869daf1003c03fad4c6c6ff064c8d18",
+    "content_sha256": "37379ec432d54d94ed3361b64da75b51691bb606e79b995a24b3f0624e6db1c0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,33 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Doktorander",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=42",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=42"
-    },
-    {
-      "text": "Studenter",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-    },
-    {
-      "text": "Universitet och högskola",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-    },
-    {
-      "text": "Utbildning",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-    },
-    {
-      "text": "Utbildningsnivå",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -473,134 +447,6 @@
         "SCB"
       ],
       "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Högskolenybörjare och doktorandnybörjare efter föräldrarnas utbildningsnivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Analysavdelningen",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "08-563 085 00",
-        "E-post",
-        "analys@uka.se"
-      ],
-      "links": [
-        {
-          "text": "08-563 085 00",
-          "href": "tel:08-563 085 00",
-          "url": "tel:08-563 085 00"
-        },
-        {
-          "text": "analys@uka.se",
-          "href": "mailto:analys@uka.se",
-          "url": "mailto:analys@uka.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Högskolenybörjare och doktorandnybörjare efter föräldrarnas utbildningsnivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jesper Länk",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 57 33",
-        "E-post",
-        "jesper.lank@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 57 33",
-          "href": "tel:010-479 57 33",
-          "url": "tel:010-479 57 33"
-        },
-        {
-          "text": "jesper.lank@scb.se",
-          "href": "mailto:jesper.lank@scb.se",
-          "url": "mailto:jesper.lank@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Högskolenybörjare och doktorandnybörjare efter föräldrarnas utbildningsnivå",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Doktorander",
-        "Studenter",
-        "Universitet och högskola",
-        "Utbildning",
-        "Utbildningsnivå"
-      ],
-      "links": [
-        {
-          "text": "Doktorander",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=42",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=42"
-        },
-        {
-          "text": "Studenter",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=184",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=184"
-        },
-        {
-          "text": "Universitet och högskola",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=201",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=201"
-        },
-        {
-          "text": "Utbildning",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=202",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=202"
-        },
-        {
-          "text": "Utbildningsnivå",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=203",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=203"
-        }
-      ],
       "table_headers": [],
       "table_rows": []
     },

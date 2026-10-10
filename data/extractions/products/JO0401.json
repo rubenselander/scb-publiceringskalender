@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0401",
     "response_url": "https://www.scb.se/JO0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/",
-    "fetched_at": "2026-10-05T13:11:39.468412Z",
+    "fetched_at": "2026-10-10T01:16:42.782365Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ec8f47f15436c53d8d8d05ef7302e9a385ba3901822879ddb63acd0885025a39",
+    "content_sha256": "4f31df1d6e124268241174193ac038e26a7b48b8f705cb38c162194135840257",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -32,23 +32,7 @@
     }
   },
   "notices": [],
-  "tags": [
-    {
-      "text": "Arbete",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-    },
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Sysselsatta",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -357,95 +341,7 @@
         "Beskrivning av Sysselsättning i jordbruket",
         "Skräddarsydd statistik"
       ],
-      "links": [
-        {
-          "text": "Beskrivning av Sysselsättning i jordbruket",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/produktrelaterat/Fordjupad-information/beskrivning-av-sysselsattning-i-jordbruket/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/produktrelaterat/Fordjupad-information/beskrivning-av-sysselsattning-i-jordbruket/"
-        },
-        {
-          "text": "Skräddarsydd statistik",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/produktrelaterat/Fordjupad-information/skraddarsydd-statistik/"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sysselsättning i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Jordbruksverket",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "036-15 50 00",
-        "E-post",
-        "statistik@jordbruksverket.se"
-      ],
-      "links": [
-        {
-          "text": "036-15 50 00",
-          "href": "tel:036-15 50 00",
-          "url": "tel:036-15 50 00"
-        },
-        {
-          "text": "statistik@jordbruksverket.se",
-          "href": "mailto:statistik@jordbruksverket.se",
-          "url": "mailto:statistik@jordbruksverket.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Sysselsättning i jordbruket",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Arbete",
-        "Jordbruk",
-        "Sysselsatta"
-      ],
-      "links": [
-        {
-          "text": "Arbete",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=6",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=6"
-        },
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Sysselsatta",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=188",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=188"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

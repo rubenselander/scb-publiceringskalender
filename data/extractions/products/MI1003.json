@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1003",
     "response_url": "https://www.scb.se/MI1003",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-kalk-for-jord-och-tradgardsbruk-sjoar-och-vattendrag-samt-skog/",
-    "fetched_at": "2026-10-05T13:12:43.956157Z",
+    "fetched_at": "2026-10-10T01:17:40.910622Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e82f6dc3650ca78f6d900465ec6d9322edf20ec910936f8dc520b56cbfa12550",
+    "content_sha256": "818546e5787c6c7283c1f3a73e897f9d3e0bd9ce10bf1e7318ed1958ab027b71",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -25,23 +25,7 @@
   "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
-  "tags": [
-    {
-      "text": "Jordbruk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-    },
-    {
-      "text": "Kalk",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=104",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=104"
-    },
-    {
-      "text": "Miljö",
-      "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-      "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
-    }
-  ],
+  "tags": [],
   "sections": [
     {
       "heading_path": [
@@ -506,83 +490,6 @@
           "text": "MetaPlus",
           "href": "https://metadata.scb.se/?produkt=MI1003",
           "url": "https://metadata.scb.se/?produkt=MI1003"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäljning av kalk för jord- och trädgårdsbruk, sjöar och vattendrag samt skog",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Har du frågor om statistiken?",
-          "level": 2,
-          "anchor": null
-        },
-        {
-          "text": "Ylva Andrist Rangel",
-          "level": 2,
-          "anchor": null
-        }
-      ],
-      "paragraphs": [
-        "Telefon",
-        "010-479 68 56",
-        "E-post",
-        "ylva.andrist-rangel@scb.se"
-      ],
-      "links": [
-        {
-          "text": "010-479 68 56",
-          "href": "tel:010-479 68 56",
-          "url": "tel:010-479 68 56"
-        },
-        {
-          "text": "ylva.andrist-rangel@scb.se",
-          "href": "mailto:ylva.andrist-rangel@scb.se",
-          "url": "mailto:ylva.andrist-rangel@scb.se"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Försäljning av kalk för jord- och trädgårdsbruk, sjöar och vattendrag samt skog",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Etiketter",
-          "level": 2,
-          "anchor": "Etiketter"
-        }
-      ],
-      "paragraphs": [
-        "Jordbruk",
-        "Kalk",
-        "Miljö"
-      ],
-      "links": [
-        {
-          "text": "Jordbruk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=101",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=101"
-        },
-        {
-          "text": "Kalk",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=104",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=104"
-        },
-        {
-          "text": "Miljö",
-          "href": "/hitta-statistik/Etikettfilter/?categoryId=131",
-          "url": "https://www.scb.se/hitta-statistik/Etikettfilter/?categoryId=131"
         }
       ],
       "table_headers": [],

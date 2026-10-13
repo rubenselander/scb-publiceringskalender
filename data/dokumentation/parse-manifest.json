@@ -1,18 +1,16 @@
 {
-  "as_of": "2026-10-10",
-  "documents": 9996,
+  "as_of": "2026-10-13",
+  "documents": 10047,
   "products": 616,
-  "review_candidates": 1074,
+  "review_candidates": 1098,
   "source_counts": {
     "scb": 8422,
     "siris": 849,
-    "sam": 725
+    "sam": 776
   },
   "fetch_complete": false,
   "failures": [
     "sam/mfof",
-    "sam/statskontoret",
-    "sam/tillvaxtanalys",
-    "sam/trafikanalys"
+    "sam/statskontoret"
   ]
 }

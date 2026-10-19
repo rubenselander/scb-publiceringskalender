@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV2001",
     "response_url": "https://www.scb.se/NV2001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-ovrigt/",
-    "fetched_at": "2026-10-12T03:52:32.545761Z",
+    "fetched_at": "2026-10-19T03:41:11.282345Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2326ccfcc770c0bd91dd718514707d74d16d8f1c551038cb750839af91b5c6df",
+    "content_sha256": "c56d1bb05872aa94990a5f36fdbbcfe5cac6fadf5d1e19717e82ee95f76d962a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv2001",
   "summary": "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2026-10-21",
+  "next_publication_date": "2026-10-21",
   "responsible_agency": null,
   "notices": [
     "STEC (Service Trade by Enterprise Characteristics) och TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat.",
@@ -40,12 +40,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2026-10-21",
         "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2026-10-21",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year"
         }
@@ -68,7 +68,7 @@
       ],
       "paragraphs": [
         "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på denna sida. Tabellerna finns under avsnittet Tabeller i Statistikdatabasen längre ner. Tabellerna, som är under utveckling, innehåller data fr.o.m. januari 2026. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på produktsidan för Utrikeshandel med varor är de underlag som används under tröskeln. I den nya importtabellen används data från det mikrodatautbyte av införseldata (MDE) som sker mellan medlemsländerna. Genom att använda MDE-data under tröskeln kan fördelningen av handeln på varukoder och länder under tröskeln fördelas bättre än i nuvarande metod. I den nya exporttabellen används istället data från VIES (VAT Information Exchange System) under tröskeln för en bättre landfördelning jämfört med dagens metod. Tanken är att de nya tabellerna ska publiceras med data för hela år 2026 och att de sedan, om inget oförutsett inträffar, ska ersätta de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabellerna fr.o.m. publiceringen av 2027 års data. Ansatsen görs i ett första steg i ett kvalitetshöjande syfte. På längre sikt är tanken att uppgiftslämnarbördan för införselföretagen ska kunna minska genom att tröskelvärdet för införsel höjs samtidigt som MDE-data används i större utsträckning.",
-        "Under oktober 2026 kommer varuhandelns faktureringsvaluta att publiceras på denna sida"
+        "Den 21 oktober kommer varuhandelns faktureringsvaluta (TIC) att publiceras på denna sida."
       ],
       "links": [],
       "table_headers": [],

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM7001",
     "response_url": "https://www.scb.se/AM7001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/situationen-pa-arbetsmarknaden-for-personer-med-funktionsnedsattning2/",
-    "fetched_at": "2026-10-12T03:49:55.651592Z",
+    "fetched_at": "2026-10-19T03:38:22.331775Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9ae44f64fb20c1dbb3f3e8903d3fb8f904dbc4fc429b0cee917e0a488606237b",
+    "content_sha256": "c0c177d16f254006c7abf3da78296dfe2f2bbcfa21e2a024fff6704aa3103b7f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am7001",
   "summary": "Statistiken ger en aktuell bild av arbetsmarknadssituationen i Sverige för personer med funktionsnedsättning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-26",
+  "next_publication_date": "2027-04-26",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-26",
         "Statistiken ger en aktuell bild av arbetsmarknadssituationen i Sverige för personer med funktionsnedsättning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM7001&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM7001&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

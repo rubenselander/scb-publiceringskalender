@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0102",
     "response_url": "https://www.scb.se/SF0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/underhallsstod/",
-    "fetched_at": "2026-10-12T03:52:54.570633Z",
+    "fetched_at": "2026-10-19T03:41:38.500135Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fcfdac16dcdedc17431fe6c6deaca9ca5fee56e05dd0c929cbd5512e83047f10",
+    "content_sha256": "81a779cad86466db379779f8c4e51aee7c462e35cec9758d480ad26236374360",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0102",
   "summary": "Statistiken visar antal barn, antal boföräldrar samt antal bidragsskyldiga föräldrar fördelat efter kön, ålder och län.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-14",
-  "next_publication_date": "2026-10-14",
+  "next_publication_text": "Nästa publicering: 2026-11-16",
+  "next_publication_date": "2026-11-16",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-14",
+        "Nästa publicering: 2026-11-16",
         "Statistiken visar antal barn, antal boföräldrar samt antal bidragsskyldiga föräldrar fördelat efter kön, ålder och län."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-14",
+          "text": "Nästa publicering: 2026-11-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0102&period=Forward1Year"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0309",
     "response_url": "https://www.scb.se/MI0309",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-elutrustning-och-batterier/",
-    "fetched_at": "2026-10-12T03:51:51.503660Z",
+    "fetched_at": "2026-10-19T03:40:22.424402Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "46e323f10439053ce8beb3213ed788b51a98fa224bf382f065ed2a40bc5ace6b",
+    "content_sha256": "c9bc17d3bd7eb69f91ac26eb7855361969b6187f29f3b2ad84d23e6f96cc305c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0309",
   "summary": "Statistiken visar sålda, insamlade och behandlade mängder elutrustning och batterier. Behandlingen kan exempelvis vara återanvändning, materialåtervinning eller deponi. Det är Naturvårdsverket som är tillsynsmyndighet för att uttjänt elutrustning och batterier samlas in och behandlas. Det är deras uppgifter som ligger till grund för statistiken.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-20",
-  "next_publication_date": "2026-11-20",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Naturvårdsverket",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-20",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar sålda, insamlade och behandlade mängder elutrustning och batterier. Behandlingen kan exempelvis vara återanvändning, materialåtervinning eller deponi. Det är Naturvårdsverket som är tillsynsmyndighet för att uttjänt elutrustning och batterier samlas in och behandlas. Det är deras uppgifter som ligger till grund för statistiken."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-11-20",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0309&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0309&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

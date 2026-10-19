@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0303",
     "response_url": "https://www.scb.se/BO0303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/",
-    "fetched_at": "2026-10-12T03:50:03.348766Z",
+    "fetched_at": "2026-10-19T03:38:29.135674Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2d16178414d5cacf337dce64d538c7a8637977999e1b9186c63894c7de7573f0",
+    "content_sha256": "ed1ee275d84df51cea5d546af45c1fc542bf6cd63e7765df479ab47de447672b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/bo0303",
   "summary": "Statistiken visar andelen outhyrda lägenheter i flerbostadshus och bostadsbeståndets struktur. Av de outhyrda lägenheterna redovisas hur många som är lediga till uthyrning och hur många som är utrymda för reparation, rivning eller är outhyrda av annan orsak. Undersökningen genomförs från och med 2024 vart tredje år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-12-10",
+  "next_publication_date": "2027-12-10",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-12-10",
         "Statistiken visar andelen outhyrda lägenheter i flerbostadshus och bostadsbeståndets struktur. Av de outhyrda lägenheterna redovisas hur många som är lediga till uthyrning och hur många som är utrymda för reparation, rivning eller är outhyrda av annan orsak. Undersökningen genomförs från och med 2024 vart tredje år."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-12-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0303&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0303&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -188,7 +194,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthLghPrivAllmAr0"
         },
         {
-          "text": "Bestånd och lediga lägenheter i flerbostadshus efter region och färdigställandeår. Uppdateras ej. År 2003 - 2017",
+          "text": "Bestånd och lediga lägenheter i flerbostadshus efter region och färdigställandeår (uppdateras ej). År 2003 - 2017",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthLghPrivAllmAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthLghPrivAllmAr"
         },
@@ -198,7 +204,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmTypLgh0"
         },
         {
-          "text": "Bestånd och lediga lägenheter i flerbostadshus efter region och lägenhetstyp. Uppdateras ej. År 2003 - 2017",
+          "text": "Bestånd och lediga lägenheter i flerbostadshus efter region och lägenhetstyp (uppdateras ej). År 2003 - 2017",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmTypLgh",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmTypLgh"
         },
@@ -208,7 +214,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllm0"
         },
         {
-          "text": "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  färdigställandeår. Uppdateras ej 2000M09 - 2017M09",
+          "text": "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  färdigställandeår (uppdateras ej) 2000M09 - 2017M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllm",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllm"
         },
@@ -218,7 +224,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllmLghTypKom0"
         },
         {
-          "text": "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  lägenhetstyp. Uppdateras ej 2000M09 - 2017M09",
+          "text": "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och lägenhetstyp (uppdateras ej) 2000M09 - 2017M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllmLghTypKom",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthAllmLghTypKom"
         },
@@ -247,7 +253,7 @@
           "2024-12-10"
         ],
         [
-          "Bestånd och lediga lägenheter i flerbostadshus efter region och färdigställandeår. Uppdateras ej. År 2003 - 2017",
+          "Bestånd och lediga lägenheter i flerbostadshus efter region och färdigställandeår (uppdateras ej). År 2003 - 2017",
           "2020-01-23"
         ],
         [
@@ -255,7 +261,7 @@
           "2024-12-10"
         ],
         [
-          "Bestånd och lediga lägenheter i flerbostadshus efter region och lägenhetstyp. Uppdateras ej. År 2003 - 2017",
+          "Bestånd och lediga lägenheter i flerbostadshus efter region och lägenhetstyp (uppdateras ej). År 2003 - 2017",
           "2017-12-21"
         ],
         [
@@ -263,7 +269,7 @@
           "2024-12-10"
         ],
         [
-          "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  färdigställandeår. Uppdateras ej 2000M09 - 2017M09",
+          "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  färdigställandeår (uppdateras ej) 2000M09 - 2017M09",
           "2017-12-21"
         ],
         [
@@ -271,7 +277,7 @@
           "2024-12-10"
         ],
         [
-          "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och  lägenhetstyp. Uppdateras ej 2000M09 - 2017M09",
+          "Lediga lägenheter i flerbostadshus, allmännyttiga bostadsföretag efter region och lägenhetstyp (uppdateras ej) 2000M09 - 2017M09",
           "2017-12-21"
         ],
         [

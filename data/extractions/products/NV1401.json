@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1401",
     "response_url": "https://www.scb.se/NV1401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/konkurser-och-offentliga-ackord/",
-    "fetched_at": "2026-10-12T03:52:29.527538Z",
+    "fetched_at": "2026-10-19T03:41:07.711840Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a300a638dffee5f026a73f18c8f921ad03f55c1c7edce64f61a6c3afa85b0578",
+    "content_sha256": "7cfb66063380557c82deb1ed831e63e13bdb6e1aa2a873b0bce0bed76f91eba3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1401",
   "summary": "Statistiken visar utvecklingen av antal konkurser och antal berörda anställda efter region, näringsgren, storleksklass och företagsform.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: 2026-11-12",
         "Statistiken visar utvecklingen av antal konkurser och antal berörda anställda efter region, näringsgren, storleksklass och företagsform."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-12",
+          "text": "Nästa publicering: 2026-11-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1401&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1401&period=Forward1Year"
         }

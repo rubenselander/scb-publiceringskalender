@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0203",
     "response_url": "https://www.scb.se/SF0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/sjukfall/",
-    "fetched_at": "2026-10-12T03:52:58.736275Z",
+    "fetched_at": "2026-10-19T03:41:43.716115Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0f853f5def1925d607bb303ff1762cdfa08277f89ec5a6e1d54b95f42c2ae41c",
+    "content_sha256": "dc2c0d471d42ffa75d2c763f2d17840659e4c8295bd615d001839487bb83d64b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0203",
   "summary": "Statistiken visar sammanhängande perioder av utbetalda dagar av sjukpenning, rehabiliteringspenning och/eller arbetsskade-sjukpenning (så kallade sjukfall).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-14",
-  "next_publication_date": "2026-10-14",
+  "next_publication_text": "Nästa publicering: 2026-10-20",
+  "next_publication_date": "2026-10-20",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-14",
+        "Nästa publicering: 2026-10-20",
         "Statistiken visar sammanhängande perioder av utbetalda dagar av sjukpenning, rehabiliteringspenning och/eller arbetsskade-sjukpenning (så kallade sjukfall)."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-14",
+          "text": "Nästa publicering: 2026-10-20",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0203&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0203&period=Forward1Year"
         }

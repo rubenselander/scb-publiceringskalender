@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0212",
     "response_url": "https://www.scb.se/SF0212",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/merkostnadsersattning/",
-    "fetched_at": "2026-10-12T03:53:02.615255Z",
+    "fetched_at": "2026-10-19T03:41:47.963710Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "17a043b1a3498eae810ae9368aeecca6e6fb4ff8373a2a918c0843e6326e1b6d",
+    "content_sha256": "cfb30a9ab3796435a2fc2e730f3a1fd9dc15ecd7ba25dabe3671283d5830cde8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0212",
   "summary": "Statistiken visar antal mottagare av merkostnadsersättning och utbetalt belopp fördelat efter typ av merkostnadsersättning, år, kön, län, ålder, och nivå. Med typ av merkostnadsersättning menas merkostnadsersättning för barn och merkostnadsersättning för vuxna.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: 2026-11-10",
+  "next_publication_date": "2026-11-10",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: 2026-11-10",
         "Statistiken visar antal mottagare av merkostnadsersättning och utbetalt belopp fördelat efter typ av merkostnadsersättning, år, kön, län, ålder, och nivå. Med typ av merkostnadsersättning menas merkostnadsersättning för barn och merkostnadsersättning för vuxna."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-12",
+          "text": "Nästa publicering: 2026-11-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0212&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0212&period=Forward1Year"
         }

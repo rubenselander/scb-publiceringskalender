@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0206",
     "response_url": "https://www.scb.se/HS0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halso-och-sjukvard/statistik-om-legitimerad-halso--och-sjukvardspersonal-samt-arbetsmarknadsstatus/",
-    "fetched_at": "2026-10-12T03:50:50.427781Z",
+    "fetched_at": "2026-10-19T03:39:17.774231Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "685c1f25390ecb15ba1c9ed6b07fe470329f2c62cd0492906a9fc3aa0ef76b5b",
+    "content_sha256": "71df257e183dac079b513111a84636c10bc2b9ca5d833f13371bc0622d3d98b5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/hs0206",
   "summary": "Statistiken innehåller arbetsmarknadsstatus för samtlig legitimerad hälso- och sjukvårdspersonal och specialistbevisinnehavare, samt inom vilken näringsgren de är sysselsatta.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Socialstyrelsen (SoS)",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: Ingen planerad",
         "Statistiken innehåller arbetsmarknadsstatus för samtlig legitimerad hälso- och sjukvårdspersonal och specialistbevisinnehavare, samt inom vilken näringsgren de är sysselsatta."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-15",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HS0206&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HS0206&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

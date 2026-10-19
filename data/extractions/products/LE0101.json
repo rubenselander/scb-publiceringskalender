@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0101",
     "response_url": "https://www.scb.se/LE0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-levnadsforhallanden-ulf-silc/",
-    "fetched_at": "2026-10-12T03:51:36.046717Z",
+    "fetched_at": "2026-10-19T03:40:03.185881Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c8b5643bd264408d5fddf6ef15f98e64947b9ff8510b837bc72531bb31f9577a",
+    "content_sha256": "87e2d0b17c975dd03bdbf87bd33f23dbb2f59386d3697c06a85b4115393432d0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0101",
   "summary": "Statistiken beskriver levnadsförhållanden för Sveriges befolkning 16 år och äldre inom ett antal områden: hälsa, ekonomi, boende, sysselsättning, välbefinnande och tillit, fritid, sociala relationer, medborgerliga aktiviteter, trygghet och arbetsmiljö. Statistiken används bland annat till jämförelser mellan grupper, jämförelser över tid och vid internationella jämförelser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,16 +36,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: Ingen planerad",
         "Statistiken beskriver levnadsförhållanden för Sveriges befolkning 16 år och äldre inom ett antal områden: hälsa, ekonomi, boende, sysselsättning, välbefinnande och tillit, fritid, sociala relationer, medborgerliga aktiviteter, trygghet och arbetsmiljö. Statistiken används bland annat till jämförelser mellan grupper, jämförelser över tid och vid internationella jämförelser."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-12",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0101&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0101&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -1753,6 +1747,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Mått på ekonomiska svårigheter och utsatthet inom ULF",
+          "href": "/publikation/63524",
+          "url": "https://www.scb.se/publikation/63524"
+        },
+        {
           "text": "Bokläsningen 1982–2024",
           "href": "/publikation/58646",
           "url": "https://www.scb.se/publikation/58646"
@@ -1863,6 +1862,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Mått på ekonomiska svårigheter och utsatthet inom ULF",
+          "",
+          "2026-10-12"
         ],
         [
           "Bokläsningen 1982–2024",

@@ -3,11 +3,11 @@
   "provenance": {
     "requested_url": "https://www.scb.se/NR0111",
     "response_url": "https://www.scb.se/NR0111",
-    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-tillagg-till-eus-konvergenskriterier/",
-    "fetched_at": "2026-10-12T03:52:15.184197Z",
+    "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/offentliga-finanser-och-dess-tillagg-till-eus-konvergenskriterier/",
+    "fetched_at": "2026-10-19T03:40:51.123090Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0902bdda83598a52b6724e1443b5d17897119883f97c3c61be985a1f6d4c88ff",
+    "content_sha256": "d758c383bc118c18e6f1851cf9762703fe02cdcfd45f4e1b73a8ee747a3e3cd5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -17,12 +17,12 @@
   },
   "product_code": "NR0111",
   "product_code_source": "calendar",
-  "title": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+  "title": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
   "short_address": "https://www.scb.se/nr0111",
   "summary": "EU-direktiv 2011/85 med dess tillägg i EU-direktiv 2024/1265 specificerar ett antal krav på medlemsländernas ramverk för offentliga finanser. Det innebär bland annat att inkomster, utgifter och finansiellt sparande ska redovisas kvartalsvis för staten respektive kommuner och regioner tillsammans, samt sociala trygghetsfonder. Utöver det, tilläggsuppgifter årsvis där syftet är att fånga upp transaktioner där offentliga finanser skulle kunna påverkas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: 2026-12-15",
+  "next_publication_date": "2026-12-15",
   "responsible_agency": null,
   "notices": [
     "Från och med januari 2026 ersätts tidigare budgetdata med siffror enligt nationalräkenskaperna. Samtidigt ändras redovisningen för staten och sociala trygghetsfonder från månads- till kvartalsuppgifter. Äldre budgetdata finns kvar i statistikdatabasen men uppdateras inte längre."
@@ -32,18 +32,18 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: 2026-12-15",
         "EU-direktiv 2011/85 med dess tillägg i EU-direktiv 2024/1265 specificerar ett antal krav på medlemsländernas ramverk för offentliga finanser. Det innebär bland annat att inkomster, utgifter och finansiellt sparande ska redovisas kvartalsvis för staten respektive kommuner och regioner tillsammans, samt sociala trygghetsfonder. Utöver det, tilläggsuppgifter årsvis där syftet är att fånga upp transaktioner där offentliga finanser skulle kunna påverkas."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-15",
+          "text": "Nästa publicering: 2026-12-15",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR0111&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR0111&period=Forward1Year"
         }
@@ -54,7 +54,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         }
@@ -69,7 +69,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -93,7 +93,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -126,17 +126,17 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffBolagsSkulderAr"
         },
         {
-          "text": "Offentliga förvaltningens utgivna garantier i procent av BNP. År 2010 - 2024",
+          "text": "Offentliga förvaltningens utgivna garantier i procent av BNP. År 2010 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffForvUtgGarAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffForvUtgGarAr"
         },
         {
-          "text": "Nödlidande lån för offentlig förvaltning i procent av BNP. År 2010 - 2024",
+          "text": "Nödlidande lån för offentlig förvaltning i procent av BNP. År 2010 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NodLanOffForvAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NodLanOffForvAr"
         },
         {
-          "text": "Totalt utestående skulder relaterade till offentlig-privat samverkan, bokförda utanför den offentliga förvaltningens balansräkning i procent av BNP. År 2010 - 2024",
+          "text": "Totalt utestående skulder relaterade till offentlig-privat samverkan, bokförda utanför den offentliga förvaltningens balansräkning i procent av BNP. År 2010 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TotUtSkuldSamvAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TotUtSkuldSamvAr"
         },
@@ -197,16 +197,16 @@
           "2025-12-22"
         ],
         [
-          "Offentliga förvaltningens utgivna garantier i procent av BNP. År 2010 - 2024",
-          "2025-10-31"
+          "Offentliga förvaltningens utgivna garantier i procent av BNP. År 2010 - 2025",
+          "2026-10-15"
         ],
         [
-          "Nödlidande lån för offentlig förvaltning i procent av BNP. År 2010 - 2024",
-          "2025-10-31"
+          "Nödlidande lån för offentlig förvaltning i procent av BNP. År 2010 - 2025",
+          "2026-10-15"
         ],
         [
-          "Totalt utestående skulder relaterade till offentlig-privat samverkan, bokförda utanför den offentliga förvaltningens balansräkning i procent av BNP. År 2010 - 2024",
-          "2025-10-31"
+          "Totalt utestående skulder relaterade till offentlig-privat samverkan, bokförda utanför den offentliga förvaltningens balansräkning i procent av BNP. År 2010 - 2025",
+          "2026-10-15"
         ],
         [
           "Budgetuppgifter för sociala trygghetsfonder (uppdateras ej). Månad 2014M01 - 2025M11",
@@ -237,7 +237,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -259,7 +259,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -279,7 +279,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -303,7 +303,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -406,7 +406,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -509,7 +509,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -543,7 +543,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         },
@@ -563,7 +563,7 @@
     {
       "heading_path": [
         {
-          "text": "Offentliga finanser och tillägg till EU:s konvergenskriterier",
+          "text": "Offentliga finanser och dess tillägg till EU:s konvergenskriterier",
           "level": 1,
           "anchor": "h1"
         }

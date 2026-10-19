@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0505",
     "response_url": "https://www.scb.se/MI0505",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/overblick-over-kemikalier/",
-    "fetched_at": "2026-10-12T03:51:55.579096Z",
+    "fetched_at": "2026-10-19T03:40:28.335152Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b151b22d8b3f1eac8be744fabab1fca16618a04344026aa2639cad9b9ba4900c",
+    "content_sha256": "2333dad184dd60374cccd56984a0b860e7e1fba2c96e106ace41417ab5cd3429",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0505",
   "summary": "Hur mycket maskindiskmedel såldes till konsumenter förra året? Vilka kemikalier är vanliga i metallbearbetande industrier? Svar på sådana och många andra frågor går att få i överblickstabellerna.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Kemikalieinspektionen (KemI)",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: Ingen planerad",
         "Hur mycket maskindiskmedel såldes till konsumenter förra året? Vilka kemikalier är vanliga i metallbearbetande industrier? Svar på sådana och många andra frågor går att få i överblickstabellerna."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-12",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0505&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0505&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

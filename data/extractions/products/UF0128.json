@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0128",
     "response_url": "https://www.scb.se/UF0128",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-gymnasieskolan-resultat/",
-    "fetched_at": "2026-10-12T03:53:34.337456Z",
+    "fetched_at": "2026-10-19T03:42:25.495271Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "031e6d0b18088118dc112ba44151fcdb25f0b84dd28a0a4e338238d0219241ef",
+    "content_sha256": "c607d4a92dd969c582bed4552fe8e490985e4a486f188cf3a537b0543f0c1ef1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0128",
   "summary": "Statistiken visar uppnått genomsnittligt provbetyg, fördelat per höst- och vårtermin, kön, program, svensk/utländsk bakgrund och utbildningsnivå hos elevernas föräldrar samt även procentuell fördelning per uppnått provbetyg.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar uppnått genomsnittligt provbetyg, fördelat per höst- och vårtermin, kön, program, svensk/utländsk bakgrund och utbildningsnivå hos elevernas föräldrar samt även procentuell fördelning per uppnått provbetyg."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-15",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0128&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0128&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

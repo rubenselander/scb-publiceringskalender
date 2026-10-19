@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0108",
     "response_url": "https://www.scb.se/LE0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/",
-    "fetched_at": "2026-10-12T03:51:38.455188Z",
+    "fetched_at": "2026-10-19T03:40:06.277815Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "af6a0c51abff235fa4bfd342a3d448733024cce5126634a3b5050c4950ecc911",
+    "content_sha256": "0c91e2e4919b581feb3fbc777d5a5428437ddf532576243051fffde4ab819f5e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -80,29 +80,6 @@
         }
       ],
       "paragraphs": [
-        "Sålt varor eller tjänster via internet",
-        "30 %",
-        "16 år eller äldre",
-        "Referenstid:  2026"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Befolkningens it-användning (BITA)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Nyckeltal för Sverige",
-          "level": 2,
-          "anchor": "_Nyckeltal"
-        }
-      ],
-      "paragraphs": [
         "Använt generativa AI-verktyg",
         "47 %",
         "16 år eller äldre",
@@ -126,8 +103,77 @@
         }
       ],
       "paragraphs": [
+        "Läst nyheter online",
+        "80 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
         "Kontrollerat falsk eller tveksam information/innehåll på internet",
         "43 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Sålt varor eller tjänster via internet",
+        "30 %",
+        "16 år eller äldre",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Lyssnat på podcasts",
+        "44 %",
         "16 år eller äldre",
         "Referenstid:  2026"
       ],

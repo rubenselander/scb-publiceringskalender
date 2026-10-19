@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0109",
     "response_url": "https://www.scb.se/SF0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/tillfallig-foraldrapenning/",
-    "fetched_at": "2026-10-12T03:52:56.428225Z",
+    "fetched_at": "2026-10-19T03:41:40.446406Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "78001927a6607b6c4b66e45fd6be890ee5656206253d5746b038c3068c8111be",
+    "content_sha256": "b399742ce1956e7965141cd1ef065969cc25d8f22f704cc7c9de95e037dc1f40",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0109",
   "summary": "Statistiken visar antal mottagare, antal barn, antal nettodagar, antal nettodagar per barn i befolkningen, antal nettodagar per barn med vab samt utbetalt belopp. Statistiken är fördelad på kön, ålder, omfattning, län och kommun.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: 2026-11-11",
+  "next_publication_date": "2026-11-11",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: 2026-11-11",
         "Statistiken visar antal mottagare, antal barn, antal nettodagar, antal nettodagar per barn i befolkningen, antal nettodagar per barn med vab samt utbetalt belopp. Statistiken är fördelad på kön, ålder, omfattning, län och kommun."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-12",
+          "text": "Nästa publicering: 2026-11-11",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0109&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0109&period=Forward1Year"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0814",
     "response_url": "https://www.scb.se/MI0814",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/ovrig-statistik-om-markanvandning/",
-    "fetched_at": "2026-10-12T03:52:01.239220Z",
+    "fetched_at": "2026-10-19T03:40:35.744121Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "24fad3cb8ba9b36efea7b7a29d3b8a8db42b60774350e428ce44edf38a064795",
+    "content_sha256": "917cd1d6577cfce98ecda3f3c970b448f281c2c85b8ca6944bd8af0983e9aaf4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -392,6 +392,126 @@
           "Markanvändning per vattendistrikt",
           "Karta",
           ""
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Övrig statistik om markanvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Permanent boende i fritidshus",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Övrig statistik om markanvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Inflyttning för permanent boende i fritidshus 1991-2004. Antal permanent bosatta fritidshus och antal personer efter region. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PermboFrhus9104",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PermboFrhus9104"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Inflyttning för permanent boende i fritidshus 1991-2004. Antal permanent bosatta fritidshus och antal personer efter region. År 2005",
+          "2005-04-29"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Övrig statistik om markanvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Markanvändning enligt Svenska MarktäckeData (SMD)",
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Övrig statistik om markanvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Markanvändning enligt Svenska Marktäckedata (SMD) kring tätorter med mer än 10 000 invånare efter tätort, kmzon och markanvändningsklass. År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvTatortZonSMD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvTatortZonSMD"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Markanvändning enligt Svenska Marktäckedata (SMD) kring tätorter med mer än 10 000 invånare efter tätort, kmzon och markanvändningsklass. År 2000",
+          "2005-04-29"
         ]
       ]
     },

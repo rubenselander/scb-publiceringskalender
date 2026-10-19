@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0521",
     "response_url": "https://www.scb.se/UF0521",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/",
-    "fetched_at": "2026-10-12T03:53:57.003904Z",
+    "fetched_at": "2026-10-19T03:42:52.047577Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "da1c438906eabf5fb5a255b629ace4260265346a16b64379372c8438225abf1c",
+    "content_sha256": "6ecce5b7fe8e504c54a31fe2624e19c7be04fe9f67ae0bd048a9b9bd97578c2f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0521",
   "summary": "Här finns analyser om kompetensförsörjning och olika rapporter om sambandet mellan utbildning och arbetsmarknad. Här hittar du också SCB:s statistik om arbetskraftsinvandring till Sverige.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-13",
-  "next_publication_date": "2026-10-13",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,16 +36,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-13",
+        "Nästa publicering: Ingen planerad",
         "Här finns analyser om kompetensförsörjning och olika rapporter om sambandet mellan utbildning och arbetsmarknad. Här hittar du också SCB:s statistik om arbetskraftsinvandring till Sverige."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-13",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0521&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0521&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -63,14 +57,14 @@
         }
       ],
       "paragraphs": [
-        "2026-04-21",
-        "Hälften av de högkvalificerade arbetskraftsinvandrarna uppger att balans mellan arbete och fritid samt familjevänliga förhållanden var en viktig faktor när de valde Sverige. Även möjligheten till ett specifikt arbete och goda karriärmöjligheter lyfts fram som betydelsefullt."
+        "2026-10-13",
+        "Antalet utländska forskare vid svenska lärosäten har ökat kraftigt över tid. Sedan 2012 har antalet utländska forskare fördubblats, och 2025 utgör de ungefär hälften av alla nyrekryterade forskare."
       ],
       "links": [
         {
-          "text": "Balans mellan arbete och fritid – därför väljer arbetskraftsinvandrare Sverige",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/arbetskraftsinvandrares-erfarenheter-av-sverige/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/arbetskraftsinvandrares-erfarenheter-av-sverige/"
+          "text": "Svenska lärosäten anställer allt fler utländska forskare",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/utlandska-forskare-vid-svenska-larosaten/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/analyser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/utlandska-forskare-vid-svenska-larosaten/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -320,6 +314,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Utländska forskare vid svenska lärosäten",
+          "href": "/publikation/63643",
+          "url": "https://www.scb.se/publikation/63643"
+        },
+        {
           "text": "Inresande studenters syn på en framtid i Sverige",
           "href": "/publikation/62964",
           "url": "https://www.scb.se/publikation/62964"
@@ -420,6 +419,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Utländska forskare vid svenska lärosäten",
+          "",
+          "2026-10-13"
         ],
         [
           "Inresande studenters syn på en framtid i Sverige",

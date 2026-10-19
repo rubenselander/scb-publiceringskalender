@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1001",
     "response_url": "https://www.scb.se/JO1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/prisindex-och-priser-pa-livsmedelsomradet-201812/",
-    "fetched_at": "2026-10-12T03:51:21.362477Z",
+    "fetched_at": "2026-10-19T03:39:48.238816Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "62e7ef0ce80fd20c5f13b78562a43fc83992f5d7a08ae6e2c4f28a660ebd5ccc",
+    "content_sha256": "e9e71fbd7f1d530e8c31ff568743bf78a7a278b3d138cd349735eebd75760ca9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1001",
   "summary": "Statistiken visar bland annat Produktionsmedelsprisindex (PM-index), Avräkningsprisindex (A-index), Producentprisindex för livsmedelsindustrin, jordbruksreglerade livsmedel (PPI-J) och Konsumentprisindex för jordbruksreglerade livsmedel (KPI-J) per månad.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-15",
-  "next_publication_date": "2026-10-15",
+  "next_publication_text": "Nästa publicering: 2026-11-16",
+  "next_publication_date": "2026-11-16",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -45,12 +45,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-15",
+        "Nästa publicering: 2026-11-16",
         "Statistiken visar bland annat Produktionsmedelsprisindex (PM-index), Avräkningsprisindex (A-index), Producentprisindex för livsmedelsindustrin, jordbruksreglerade livsmedel (PPI-J) och Konsumentprisindex för jordbruksreglerade livsmedel (KPI-J) per månad."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-15",
+          "text": "Nästa publicering: 2026-11-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1001&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1001&period=Forward1Year"
         }

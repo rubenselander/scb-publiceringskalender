@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0108",
     "response_url": "https://www.scb.se/SF0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/foraldrapenning/",
-    "fetched_at": "2026-10-12T03:52:55.969731Z",
+    "fetched_at": "2026-10-19T03:41:39.978287Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "acf22e77fa57c5aed41ff84c991700540bee98d3c43fb76329b4e5c850f971e1",
+    "content_sha256": "9a963212368b1f42c4057fe1c63d15a78df1f36e77af11818f525b73bd38cdeb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0108",
   "summary": "Statistiken visar antal mottagare, antal barn, antal och andel utbetalda nettodagar samt utbetalt belopp. Statistiken är fördelad bland annat på kön, ålder, län, kommun, utbildningsnivå och dagtyp. Statistiken visar även på föräldrar och barn vars föräldrar delat jämställt på föräldrapenningen uppdelat på bland annat utbildnings- och inkomstnivå. Inom området finns även statistik för genomsnittligt uttagna föräldrapenningdagar efter barnets ålder samt statistik över barn vars föräldrar har tagit ut dubbeldagar efter län.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-12",
-  "next_publication_date": "2026-10-12",
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-12",
+        "Nästa publicering: 2026-11-12",
         "Statistiken visar antal mottagare, antal barn, antal och andel utbetalda nettodagar samt utbetalt belopp. Statistiken är fördelad bland annat på kön, ålder, län, kommun, utbildningsnivå och dagtyp. Statistiken visar även på föräldrar och barn vars föräldrar delat jämställt på föräldrapenningen uppdelat på bland annat utbildnings- och inkomstnivå. Inom området finns även statistik för genomsnittligt uttagna föräldrapenningdagar efter barnets ålder samt statistik över barn vars föräldrar har tagit ut dubbeldagar efter län."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-12",
+          "text": "Nästa publicering: 2026-11-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0108&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0108&period=Forward1Year"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0314",
     "response_url": "https://www.scb.se/JO0314",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/avverkningsanmalningar/",
-    "fetched_at": "2026-10-12T03:51:08.772741Z",
+    "fetched_at": "2026-10-19T03:39:36.296011Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f3a977c563204075af857f55353991483962447fd242e4810fd53c6c024ab7ae",
+    "content_sha256": "1671ba71bbad71d1ff5ac7f60fbb59f19150aecac8afb91bda3faae6c0b5298a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0314",
   "summary": "Statistiken visar utvecklingen av anmälningar och ansökningar för föryngringsavverkning och avverkning för annat ändamål än virkesproduktion.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-13",
-  "next_publication_date": "2026-10-13",
+  "next_publication_text": "Nästa publicering: 2026-11-17",
+  "next_publication_date": "2026-11-17",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-13",
+        "Nästa publicering: 2026-11-17",
         "Statistiken visar utvecklingen av anmälningar och ansökningar för föryngringsavverkning och avverkning för annat ändamål än virkesproduktion."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-13",
+          "text": "Nästa publicering: 2026-11-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0314&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0314&period=Forward1Year"
         }

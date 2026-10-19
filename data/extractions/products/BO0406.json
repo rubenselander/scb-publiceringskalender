@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0406",
     "response_url": "https://www.scb.se/BO0406",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hyror-i-bostadslagenheter/",
-    "fetched_at": "2026-10-12T03:50:04.263411Z",
+    "fetched_at": "2026-10-19T03:38:30.128143Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1b87944d6f0b58bf8f8abf3003fe47f9d3f54cf70c6bf1ccc3f87164d385aaa4",
+    "content_sha256": "d20bc5f8d576a9d65d365f0acf654acb489e98d985763adc3720e31911ba0cb4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/bo0406",
   "summary": "Statistiken visar hyresnivåer och hyresförändringar i hyresrätter. Uppgifterna redovisas efter region (kommunnivå och uppåt), lägenhetstyp (antal rum) och ägarkategori. Undersökningen bygger på ett statistiskt urval på cirka 16 000 lägenheter i flerbostadshus och småhus i hela landet.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-01",
+  "next_publication_date": "2027-10-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-01",
         "Statistiken visar hyresnivåer och hyresförändringar i hyresrätter. Uppgifterna redovisas efter region (kommunnivå och uppåt), lägenhetstyp (antal rum) och ägarkategori. Undersökningen bygger på ett statistiskt urval på cirka 16 000 lägenheter i flerbostadshus och småhus i hela landet."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0406&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0406&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

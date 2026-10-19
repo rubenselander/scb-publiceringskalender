@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM9998",
     "response_url": "https://www.scb.se/FM9998",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/",
-    "fetched_at": "2026-10-12T03:50:32.115075Z",
+    "fetched_at": "2026-10-19T03:38:57.886851Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7f631d5d9e5a2a5bdec3a346e27c5b8653c39ebac968b3719024437050175247",
+    "content_sha256": "5f9a8df0121b6cdfc7fd30579c1b23f5ba52e22cf804748f7d65685363599142",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm9998",
   "summary": "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-16",
-  "next_publication_date": "2026-10-16",
+  "next_publication_text": "Nästa publicering: 2026-11-17",
+  "next_publication_date": "2026-11-17",
   "responsible_agency": {
     "label": "Sveriges riksbank",
     "link": {
@@ -33,7 +33,7 @@
   },
   "notices": [
     "Från och med referensmånad oktober 2024 ersätts statistiken med nya tabeller som finns tillgängliga via Statistikdatabasen (SSD). Produkten Emitterade Värdepapper redovisar nya nedbrytningar samt uppgifter om gröna värdepapper (från januari 2022).",
-    "Större omklassning mellan MFI: icke säkerställda sektorn och MFI säkerställda sektorn har genomförts för referensperioden januari 2022 till juni 2026, med uppdatering under produktionsmånad juli 2026."
+    "I samband med septemberpubliceringen byttes källa för uppgifter som rör emittenten. Detta har medfört vissa historiska omklassificeringar av sektortillhörighet från och med mars 2013, främst från sektorn Icke-finansiell till sektorn Övrig finansiell. Förändringarna påverkar inte det totala beloppet på aggregerad nivå."
   ],
   "tags": [],
   "sections": [
@@ -46,12 +46,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-16",
+        "Nästa publicering: 2026-11-17",
         "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-16",
+          "text": "Nästa publicering: 2026-11-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year"
         }
@@ -90,7 +90,7 @@
       ],
       "paragraphs": [
         "Från och med referensmånad oktober 2024 ersätts statistiken med nya tabeller som finns tillgängliga via Statistikdatabasen (SSD). Produkten Emitterade Värdepapper redovisar nya nedbrytningar samt uppgifter om gröna värdepapper (från januari 2022).",
-        "Större omklassning mellan MFI: icke säkerställda sektorn och MFI säkerställda sektorn har genomförts för referensperioden januari 2022 till juni 2026, med uppdatering under produktionsmånad juli 2026."
+        "I samband med septemberpubliceringen byttes källa för uppgifter som rör emittenten. Detta har medfört vissa historiska omklassificeringar av sektortillhörighet från och med mars 2013, främst från sektorn Icke-finansiell till sektorn Övrig finansiell. Förändringarna påverkar inte det totala beloppet på aggregerad nivå."
       ],
       "links": [],
       "table_headers": [],
@@ -110,14 +110,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-16",
-        "I slutet av augusti uppgick den sammanlagda svenska räntebärande värdepappersskulden till 9 631 miljarder kronor, vilket är en ökning med 81 miljarder kronor sedan juli."
+        "2026-10-16",
+        "I slutet av september uppgick den sammanlagda svenska räntebärande värdepappersskulden till 9 680 miljarder kronor, vilket är en ökning med 45 miljarder kronor sedan augusti."
       ],
       "links": [
         {
           "text": "Ökad upplåning i räntebärande värdepapper",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-augusti-2026/"
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -236,19 +236,19 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M08",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N"
-        },
-        {
-          "text": "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M08",
+          "text": "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron"
         },
         {
-          "text": "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M08",
+          "text": "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N"
+        },
+        {
+          "text": "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N"
         }
       ],
       "table_headers": [
@@ -261,16 +261,16 @@
           "Datum"
         ],
         [
-          "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M08",
-          "2026-09-16"
+          "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M09",
+          "2026-10-16"
         ],
         [
-          "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M08",
-          "2026-09-16"
+          "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M09",
+          "2026-10-16"
         ],
         [
-          "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M08",
-          "2026-09-16"
+          "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M09",
+          "2026-10-16"
         ]
       ]
     },

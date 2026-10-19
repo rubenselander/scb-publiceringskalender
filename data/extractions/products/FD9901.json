@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FD9901",
     "response_url": "https://www.scb.se/FD9901",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/ovrigt/artificiell-intelligens-i-sverige/",
-    "fetched_at": "2026-10-12T03:50:24.732442Z",
+    "fetched_at": "2026-10-19T03:38:50.143174Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "de6fd80cc8b939bfc4ab8b3b5e50851890a313317f427b56bac63afa850d1f32",
+    "content_sha256": "2f033c8f29fdd15bafc539a38215783644588b28f2590e7f9751a0c1929d8ce8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -120,6 +120,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Artificial intelligence in Sweden 2025",
+          "href": "/publikation/63755",
+          "url": "https://www.scb.se/publikation/63755"
+        },
+        {
           "text": "Artificiell intelligens i Sverige 2025",
           "href": "/publikation/62482",
           "url": "https://www.scb.se/publikation/62482"
@@ -145,6 +150,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Artificial intelligence in Sweden 2025",
+          "",
+          "2026-10-15"
         ],
         [
           "Artificiell intelligens i Sverige 2025",

@@ -1,6 +1,6 @@
 {
-  "last_completed_siris": "2026-10-13",
-  "last_completed_scb": "2026-10-13",
+  "last_completed_siris": "2026-10-20",
+  "last_completed_scb": "2026-10-20",
   "last_failures": [
     "sam/mfof",
     "sam/statskontoret"
@@ -8,7 +8,7 @@
   "complete": false,
   "coverage_note": "Legacy normalized exports from documentation branch 1ab86f9; sources with failed pages, no usable links or a reached crawl limit are retained and incomplete. Fresh live verification bundles are separate.",
   "legacy_last_reported_completed_sam": "2026-10-05",
-  "last_attempted_at": "2026-10-13T05:08:53+00:00",
+  "last_attempted_at": "2026-10-20T05:03:21+00:00",
   "attempted_sources": [
     "sam",
     "scb",

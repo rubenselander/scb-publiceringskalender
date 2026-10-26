@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0105",
     "response_url": "https://www.scb.se/LE0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/integration/integration--analys/",
-    "fetched_at": "2026-10-19T03:40:04.937003Z",
+    "fetched_at": "2026-10-26T03:43:12.873507Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6f8077969826a16afb7a70817d227a7a1a714f47a9e15c9973d224e871e96026",
+    "content_sha256": "42fc4e26d1224284c8c7c3d37bf17309b56d4bb48a4cfac13559bc0d0d98c36f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -372,7 +372,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr08"
         },
         {
-          "text": "NY Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
+          "text": "Befolkning efter boenderegion RegSo, kön, ålder  och bakgrundsvariabel. År 2024 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo02",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105DemogrRegSo02"
         }
@@ -407,7 +407,7 @@
           "2026-04-14"
         ],
         [
-          "NY Befolkning efter boenderegion RegSo, kön, ålder och bakgrundsvariabel. År 2024 - 2025",
+          "Befolkning efter boenderegion RegSo, kön, ålder  och bakgrundsvariabel. År 2024 - 2025",
           "2026-10-08"
         ]
       ]
@@ -794,6 +794,131 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Antal kommunmottagna personer efter mottagningsregion, vistelsetid, kön och år. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna02"
+        },
+        {
+          "text": "Sysselsatta 20–69 år efter yrke (1-siffer SSYK 2012), utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal. År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ForvarvsarbBAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105ForvarvsarbBAS"
+        },
+        {
+          "text": "Förvärvsarbetande 20–69 år efter yrke (1-siffer SSYK 2012), utbildningsnivå, vistelsetid,  födelseregion, kön och ålder. Antal. År 2014 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Forvarvsarb03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Forvarvsarb03"
+        },
+        {
+          "text": "Befolkningen 20–74 år efter sysselsättning,  grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie. År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Syssels01BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Syssels01BAS"
+        },
+        {
+          "text": "Befolkningen 20–74 år efter sysselsättning,  utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie År 2020 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Syssels02BAS",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Syssels02BAS"
+        },
+        {
+          "text": "Befolkningen 20–69 år efter sysselsättning, utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal. År 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn02"
+        },
+        {
+          "text": "Befolkningen 20–74 år efter sysselsättning, grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie. År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn01N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn01N"
+        },
+        {
+          "text": "Befolkningen 20–74 år efter sysselsättning, utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie År 2019 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn02N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn02N"
+        },
+        {
+          "text": "Befolkningen 20–69 år efter sysselsättning, grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal 2004 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn01L",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Sysselsattn01L"
+        },
+        {
+          "text": "Sjuk- och rehabiliteringspenning efter vistelsetid, födelseregion, kön och ålder. Antal. År 2003 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SjukRehab04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SjukRehab04"
+        },
+        {
+          "text": "Aktivitets - och sjukersättning efter vistelsetid, födelseregion, kön och ålder. Antal. År 2003 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SjukAktiv05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105SjukAktiv05"
+        },
+        {
+          "text": "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2020, vistelsetid, födelseregion, kön och ålder. År 2019 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning02"
+        },
+        {
+          "text": "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2020, vistelsetid, grund för bosättning, kön och ålder. År 2019 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning04"
+        },
+        {
+          "text": "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2000, vistelsetid, grund för bosättning, kön och ålder . År 2001 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning03"
+        },
+        {
+          "text": "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2000, vistelsetid, födelseregion, kön och ålder . År 2001 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Utbildning01"
+        },
+        {
+          "text": "Antal trångbodda personer i flerbostadshus enligt norm 2 efter region, födelseregion, ålder och kön. År 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende02"
+        },
+        {
+          "text": "Antal trångbodda personer i flerbostadshus enligt norm 2, 15 år och äldre efter grund för bosättning, vistelsetid, födelseregion, ålder och kön 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende01N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende01N"
+        },
+        {
+          "text": "Antal personer efter födelseregion, hustyp, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende03N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende03N"
+        },
+        {
+          "text": "Antal personer efter födelseregion, upplåtelseform, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende04N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende04N"
+        },
+        {
+          "text": "Genomsnittlig bostadsarea per person efter födelseregion, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende05N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Boende05N"
+        },
+        {
+          "text": "Antal personer efter hushållsställning, födelseregion, vistelsetid, kön, ålder. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr02"
+        },
+        {
+          "text": "Antal som har svenskt medborgarskap efter födelseland, vistelsetid, kön och ålder. År 2001 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr03"
+        },
+        {
+          "text": "Befolkning efter födelseregion, grund för bosättning, vistelsetid, kön och ålder 2001 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr01N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Demogr01N"
+        },
+        {
+          "text": "Disponibel inkomst per konsumtionsenhet i relation till medianinkomsten efter  grund för bosättning, vistelsetid, födelseregion och ålder.  År 2011 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Ekonomi02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Ekonomi02"
+        },
+        {
+          "text": "Disponibel inkomst per konsumtionsenhet efter grund för bosättning, vistelsetid, födelseregion och ålder.  År 2011 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Ekonomi01N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Ekonomi01N"
+        },
+        {
           "text": "Antal kommunmottagna personer efter region, mottagningsår, ålder och kön. År 2011 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna01",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0105Mottagna01"
@@ -812,6 +937,106 @@
         [
           "Namn",
           "Datum"
+        ],
+        [
+          "Antal kommunmottagna personer efter mottagningsregion, vistelsetid, kön och år. År 2011 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Sysselsatta 20–69 år efter yrke (1-siffer SSYK 2012), utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal. År 2020 - 2023",
+          "2025-11-26"
+        ],
+        [
+          "Förvärvsarbetande 20–69 år efter yrke (1-siffer SSYK 2012), utbildningsnivå, vistelsetid,  födelseregion, kön och ålder. Antal. År 2014 - 2021",
+          "2023-06-21"
+        ],
+        [
+          "Befolkningen 20–74 år efter sysselsättning,  grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie. År 2020 - 2023",
+          "2025-11-26"
+        ],
+        [
+          "Befolkningen 20–74 år efter sysselsättning,  utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie År 2020 - 2023",
+          "2025-11-26"
+        ],
+        [
+          "Befolkningen 20–69 år efter sysselsättning, utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal. År 2004 - 2018",
+          "2021-11-26"
+        ],
+        [
+          "Befolkningen 20–74 år efter sysselsättning, grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie. År 2019 - 2021",
+          "2023-06-21"
+        ],
+        [
+          "Befolkningen 20–74 år efter sysselsättning, utbildningsnivå, vistelsetid, födelseregion, kön och ålder. Antal, ny tidsserie År 2019 - 2021",
+          "2023-06-21"
+        ],
+        [
+          "Befolkningen 20–69 år efter sysselsättning, grund för bosättning, vistelsetid, födelseregion, kön och ålder. Antal 2004 - 2018",
+          "2021-11-26"
+        ],
+        [
+          "Sjuk- och rehabiliteringspenning efter vistelsetid, födelseregion, kön och ålder. Antal. År 2003 - 2022",
+          "2024-07-11"
+        ],
+        [
+          "Aktivitets - och sjukersättning efter vistelsetid, födelseregion, kön och ålder. Antal. År 2003 - 2022",
+          "2024-07-11"
+        ],
+        [
+          "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2020, vistelsetid, födelseregion, kön och ålder. År 2019 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2020, vistelsetid, grund för bosättning, kön och ålder. År 2019 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2000, vistelsetid, grund för bosättning, kön och ålder . År 2001 - 2018",
+          "2021-11-26"
+        ],
+        [
+          "Befolkningen 16–74 år efter utbildningsnivå, utbildningsinriktning SUN 2000, vistelsetid, födelseregion, kön och ålder . År 2001 - 2018",
+          "2021-11-26"
+        ],
+        [
+          "Antal trångbodda personer i flerbostadshus enligt norm 2 efter region, födelseregion, ålder och kön. År 2012 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Antal trångbodda personer i flerbostadshus enligt norm 2, 15 år och äldre efter grund för bosättning, vistelsetid, födelseregion, ålder och kön 2012 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Antal personer efter födelseregion, hustyp, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Antal personer efter födelseregion, upplåtelseform, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Genomsnittlig bostadsarea per person efter födelseregion, grund för bosättning, vistelsetid, kön och ålder 2012 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Antal personer efter hushållsställning, födelseregion, vistelsetid, kön, ålder. År 2011 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Antal som har svenskt medborgarskap efter födelseland, vistelsetid, kön och ålder. År 2001 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Befolkning efter födelseregion, grund för bosättning, vistelsetid, kön och ålder 2001 - 2024",
+          "2025-11-26"
+        ],
+        [
+          "Disponibel inkomst per konsumtionsenhet i relation till medianinkomsten efter  grund för bosättning, vistelsetid, födelseregion och ålder.  År 2011 - 2023",
+          "2025-11-26"
+        ],
+        [
+          "Disponibel inkomst per konsumtionsenhet efter grund för bosättning, vistelsetid, födelseregion och ålder.  År 2011 - 2023",
+          "2025-11-26"
         ],
         [
           "Antal kommunmottagna personer efter region, mottagningsår, ålder och kön. År 2011 - 2024",

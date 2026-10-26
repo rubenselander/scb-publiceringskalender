@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0119",
     "response_url": "https://www.scb.se/NV0119",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/industrins-varuproduktion-ivp/",
-    "fetched_at": "2026-10-19T03:40:58.845994Z",
+    "fetched_at": "2026-10-26T03:44:01.821624Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ffc20d0f77cd12280dc591daad4b325b641564d955658d914738cecd78f360f3",
+    "content_sha256": "e8aebf315a38be2af1fa5248414a81d41a6a6bac07ecd3f113a62ed011075eea",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0119",
   "summary": "Statistiken belyser årligen den svenska industriproduktionens varufördelning med kvantitets- och värdeuppgifter. Både produktion av varor och industriella tjänster ingår i statistiken.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-23",
+  "next_publication_date": "2027-04-23",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-23",
         "Statistiken belyser årligen den svenska industriproduktionens varufördelning med kvantitets- och värdeuppgifter. Både produktion av varor och industriella tjänster ingår i statistiken."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0119&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0119&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -96,12 +102,12 @@
         }
       ],
       "paragraphs": [
-        "Industrins produktion efter varugrupp enligt KN. År 1996 - 2025",
+        "Industrins produktion efter varugrupp enligt KN (IVP). År 1996 - 2025",
         "2026-06-29"
       ],
       "links": [
         {
-          "text": "Industrins produktion efter varugrupp enligt KN. År 1996 - 2025",
+          "text": "Industrins produktion efter varugrupp enligt KN (IVP). År 1996 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IVPKNAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IVPKNAr"
         }

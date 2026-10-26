@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0501",
     "response_url": "https://www.scb.se/BO0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/",
-    "fetched_at": "2026-10-19T03:38:30.610192Z",
+    "fetched_at": "2026-10-26T03:41:41.477329Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "66b974dcf2db39dfd1dcc4d9d54ffbc55c3a534693a5dca39319b48a0f9fd203",
+    "content_sha256": "5cadd73a1841d64682c0257dc2a7c72e52e8eb6c7aa29551376eba5d32877cb5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,12 +21,10 @@
   "short_address": "https://www.scb.se/bo0501",
   "summary": "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-23",
-  "next_publication_date": "2026-10-23",
+  "next_publication_text": "Nästa publicering: 2026-11-05",
+  "next_publication_date": "2026-11-05",
   "responsible_agency": null,
-  "notices": [
-    "Korrigering 2026-03-13 Fastighetsprisindex, år och kvartalsvärden, har korrigerats. Berörda tabeller och diagram och tabeller i Statistikdatabasen har uppdaterats med korrigerade värden för 2023–2025."
-  ],
+  "notices": [],
   "tags": [],
   "sections": [
     {
@@ -38,31 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-23",
+        "Nästa publicering: 2026-11-05",
         "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-23",
+          "text": "Nästa publicering: 2026-11-05",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year"
         }
       ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Fastighetspriser och lagfarter",
-          "level": 1,
-          "anchor": "h1"
-        }
-      ],
-      "paragraphs": [
-        "Korrigering 2026-03-13 Fastighetsprisindex, år och kvartalsvärden, har korrigerats. Berörda tabeller och diagram och tabeller i Statistikdatabasen har uppdaterats med korrigerade värden för 2023–2025."
-      ],
-      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -81,9 +64,9 @@
       ],
       "paragraphs": [
         "Fastighetsprisindex, kvartal, preliminära värden",
-        "965",
+        "986",
         "Index 1981=100",
-        "Referenstid: kvartal 2 2026"
+        "Referenstid: kvartal 3 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -103,7 +86,7 @@
         }
       ],
       "paragraphs": [
-        "2 %",
+        "4 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -145,14 +128,14 @@
         }
       ],
       "paragraphs": [
-        "2026-08-21",
-        "Enligt SCB:s fastighetsprisindex för permanenta småhus på riksnivå så ökade priserna med nästan 2 procent under andra kvartalet 2026, jämfört med kvartalet innan. Statistiken redovisas efter tidpunkten på köpebrevet, det vill säga den dag då köparen är ny formell ägare."
+        "2026-10-23",
+        "Enligt SCB:s fastighetsprisindex för permanenta småhus på riksnivå så ökade priserna med 2 procent under tredje kvartalet 2026, jämfört med kvartalet innan. Statistiken redovisas efter tidpunkten på köpebrevet, det vill säga den dag då köparen är ny formell ägare."
       ],
       "links": [
         {
-          "text": "Fastighetspriser och lagfarter, 2:a kvartalet 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-2a-kvartalet-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-2a-kvartalet-2026/"
+          "text": "Priserna på småhus ökade under tredje kvartalet 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-3e-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/pong/statistiknyhet/fastighetspriser-och-lagfarter-3e-kvartalet-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -262,7 +245,7 @@
         [
           "Prisutvecklingen på småhus för permanentboende, fritidshus och hyreshus samt konsumentprisindex (KPI)",
           "Tabell",
-          "2026-08-21"
+          "2026-10-23"
         ],
         [
           "Småhusbarometern – Fastighetsprisstatistik per månad, hela landet",
@@ -457,7 +440,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K2",
+          "text": "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501K",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTBO0501K"
         },
@@ -477,8 +460,8 @@
           "Datum"
         ],
         [
-          "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K2",
-          "2026-08-21"
+          "Nyckeltal och förändringstal för fastighetsprisindex, kvartal, preliminära värden 2016K3 - 2026K3",
+          "2026-10-23"
         ],
         [
           "Nyckeltal och förändringstal för fastighetsprisindex, år 2015 - 2025",
@@ -531,7 +514,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidRegAr"
         },
         {
-          "text": "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K2",
+          "text": "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidshusKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiFritidshusKv"
         },
@@ -551,7 +534,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSLanAr"
         },
         {
-          "text": "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K2",
+          "text": "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastpiPSRegKv"
         }
@@ -570,8 +553,8 @@
           "2026-06-05"
         ],
         [
-          "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K2",
-          "2026-08-21"
+          "Fastighetsprisindex för fritidshus. Kvartal 1986K1 - 2026K3",
+          "2026-10-23"
         ],
         [
           "Fastighetsprisindex för lantbruk (1992=100) efter region. År 1988 - 2025",
@@ -586,8 +569,8 @@
           "2026-06-05"
         ],
         [
-          "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K2",
-          "2026-08-21"
+          "Fastighetsprisindex för permanenta småhus efter region. Kvartal 1986K1 - 2026K3",
+          "2026-10-23"
         ]
       ]
     },
@@ -636,7 +619,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisManadAr"
         },
         {
-          "text": "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "text": "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisFHRegKv"
         },
@@ -651,12 +634,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHRegionAr"
         },
         {
-          "text": "Försålda hyreshus. Kvartal 1994K1 - 2026K2",
+          "text": "Försålda hyreshus. Kvartal 1994K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisHHKv"
         },
         {
-          "text": "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K2",
+          "text": "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFKv"
         },
@@ -691,12 +674,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBBebyggAr"
         },
         {
-          "text": "Försålda lantbruk. Kvartal 1999K1 - 2026K2",
+          "text": "Försålda lantbruk. Kvartal 1999K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBKv"
         },
         {
-          "text": "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K2",
+          "text": "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisPSRegKv"
         },
@@ -725,8 +708,8 @@
           "2026-06-05"
         ],
         [
-          "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K2",
-          "2026-08-21"
+          "Försålda fritidshus efter region (riksområden, riket). Kvartal 1998K1 - 2026K3",
+          "2026-10-23"
         ],
         [
           "Försålda fritidshus efter region (riksområden, riket). År 2000 - 2025",
@@ -737,12 +720,12 @@
           "2026-06-05"
         ],
         [
-          "Försålda hyreshus. Kvartal 1994K1 - 2026K2",
-          "2026-08-21"
+          "Försålda hyreshus. Kvartal 1994K1 - 2026K3",
+          "2026-10-23"
         ],
         [
-          "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K2",
-          "2026-08-21"
+          "Försålda industrier (tillverkningsindustrier). Kvartal 1994K1 - 2026K3",
+          "2026-10-23"
         ],
         [
           "Försålda industrier efter region (län, riket) och fastighetstyp. År 1994 - 2025",
@@ -769,12 +752,12 @@
           "2026-06-05"
         ],
         [
-          "Försålda lantbruk. Kvartal 1999K1 - 2026K2",
-          "2026-08-21"
+          "Försålda lantbruk. Kvartal 1999K1 - 2026K3",
+          "2026-10-23"
         ],
         [
-          "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K2",
-          "2026-08-21"
+          "Försålda permanenta småhus efter region (län, riksområden, riket). Kvartal 1998K1 - 2026K3",
+          "2026-10-23"
         ],
         [
           "Försålda permanenta småhus efter region (län, riksområden, riket). År 2000 - 2025",

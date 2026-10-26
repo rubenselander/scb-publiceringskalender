@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0810",
     "response_url": "https://www.scb.se/MI0810",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/tatorter-och-smaorter/",
-    "fetched_at": "2026-10-19T03:40:34.241050Z",
+    "fetched_at": "2026-10-26T03:43:39.794641Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a719db53a136c2b94188adcddd8398115bfde7dc076e3fdd9f0aa28748eb3def",
+    "content_sha256": "993fd062df4b49f6a6dd943037b1d13f143b0ed429e619f60a770884302c30c9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -666,18 +666,52 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0810D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0810D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tätorter och småorter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Markanvändning inom tätort efter storlek och markanvändningsklass. Vart femte år 1995 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvTatort",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvTatort"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Markanvändning inom tätort efter storlek och markanvändningsklass. Vart femte år 1995 - 2000",
+          "2003-02-11"
+        ]
+      ]
     },
     {
       "heading_path": [

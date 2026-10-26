@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0209",
     "response_url": "https://www.scb.se/AM0209",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-sjukloner-ksju/",
-    "fetched_at": "2026-10-19T03:38:15.968685Z",
+    "fetched_at": "2026-10-26T03:41:26.929555Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ca1027c26a7a600422d4d896e95ed79e4beab9153e6e8309ed9fda1cfa0677fa",
+    "content_sha256": "3cda92d95057e0a27f7be198e27ba5cb1c4025ddfcfd3afb0653a147dc2f822d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -148,18 +148,61 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0209B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0209B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över sjuklöner (KSju)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal sjukdagar och sjukfall per anställd efter kön och näringsgren SNI 2002 (produktions- och servicenäringar). Kvartal 2006K1 - 2009K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSjuSNI2002",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSjuSNI2002"
+        },
+        {
+          "text": "Antal sjukdagar och sjukfall per anställd efter kön och sektor (gammal sektorkodsindelning). Kvartal 2006K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SjukloneperiodSekt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SjukloneperiodSekt"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal sjukdagar och sjukfall per anställd efter kön och näringsgren SNI 2002 (produktions- och servicenäringar). Kvartal 2006K1 - 2009K1",
+          "2009-06-02"
+        ],
+        [
+          "Antal sjukdagar och sjukfall per anställd efter kön och sektor (gammal sektorkodsindelning). Kvartal 2006K1 - 2015K1",
+          "2015-06-02"
+        ]
+      ]
     },
     {
       "heading_path": [

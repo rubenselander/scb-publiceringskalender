@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0109",
     "response_url": "https://www.scb.se/EN0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/oljeleveranser--kommunvis-redovisning/",
-    "fetched_at": "2026-10-19T03:38:37.131573Z",
+    "fetched_at": "2026-10-26T03:41:47.525372Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9c3372e98501a167f7a08a48276d8326097b07504776a602693f6f24031dd331",
+    "content_sha256": "95f940c3ac8f487b2700e30e3af0e31e92e7be27f355257ab789b1db429cb378",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0109",
   "summary": "Statistiken visar leveranser av motorbensin, dieselbränsle, eldningsoljor, etanol, HVO och FAME till slutliga förbrukare per kommun och län.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-18",
+  "next_publication_date": "2027-06-18",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-18",
         "Statistiken visar leveranser av motorbensin, dieselbränsle, eldningsoljor, etanol, HVO och FAME till slutliga förbrukare per kommun och län."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0109&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0109&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

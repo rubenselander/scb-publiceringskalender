@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0112",
     "response_url": "https://www.scb.se/HE0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/antalet-helarspersoner-som-forsorjdes-med-sociala-ersattningar-och-bidrag/",
-    "fetched_at": "2026-10-19T03:39:06.774998Z",
+    "fetched_at": "2026-10-26T03:42:15.309838Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b937cc858d821668fad2d9c0de596abc816b2b76d84e34255999557657c05745",
+    "content_sha256": "77b1eef1b5b480d713c2b2fd377199ca18ba33e8085b5af0afb6a20bba26cce1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/he0112",
   "summary": "Statistiken visar antal helårspersoner i arbetsför ålder som försörjs med sociala ersättningar och bidrag, såsom sjukpenning, sjuk- och aktivitetsersättning, ersättning vid arbetslöshet och ekonomiskt bistånd. För att skapa jämförbarhet mellan olika typer av ersättningar beräknas så kallade helårsekvivalenter som visar hur många som skulle kunna försörjas under ett helt år med full ersättning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-18",
+  "next_publication_date": "2027-03-18",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-18",
         "Statistiken visar antal helårspersoner i arbetsför ålder som försörjs med sociala ersättningar och bidrag, såsom sjukpenning, sjuk- och aktivitetsersättning, ersättning vid arbetslöshet och ekonomiskt bistånd. För att skapa jämförbarhet mellan olika typer av ersättningar beräknas så kallade helårsekvivalenter som visar hur många som skulle kunna försörjas under ett helt år med full ersättning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0112&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0112&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

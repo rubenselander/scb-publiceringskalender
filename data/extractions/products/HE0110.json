@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0110",
     "response_url": "https://www.scb.se/HE0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/inkomster-och-skatter/",
-    "fetched_at": "2026-10-19T03:39:05.788272Z",
+    "fetched_at": "2026-10-26T03:42:14.001700Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5dfb5262a82da950c01240b2d33c25380afe9fc3df86c617ee72909c40fd55a2",
+    "content_sha256": "4f436653cc4116abfdfef56decf1106900e64c4e134a053135ea5983c712948d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -1547,18 +1547,169 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som ej uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som ej uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0110J",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0110J"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Inkomster och skatter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Indikatorer inkomstfördelning efter region. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab1DispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab1DispInkN"
+        },
+        {
+          "text": "Fördelning inkomster (fraktiler) efter region. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab2DispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab2DispInkN"
+        },
+        {
+          "text": "Disponibel inkomst för hushåll efter region, hushållstyp och ålder. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4bDispInkN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4bDispInkN"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, hushållstyp och ålder.   År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI47",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI47"
+        },
+        {
+          "text": "Ekonomisk standard, andel av befolkningen per inkomstklass efter region.   År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab3InkDesoN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab3InkDesoN"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, födelseland, antal år i Sverige och ålder 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI58",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI58"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, sysselsättning, utländsk/svensk bakgrund och ålder 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI69",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI69"
+        },
+        {
+          "text": "Ekonomisk standard för personer efter region, upplåtelseform, ålder och hushållstyp 2012 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI4C",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispI4C"
+        },
+        {
+          "text": "Låg respektive hög ekonomisk standard efter region och ålder.    År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4InkDesoN1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab4InkDesoN1"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet uppdelade i decilgrupper efter region. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab10InkStrukt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab10InkStrukt"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och hushållstyp. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab11InkStruktN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab11InkStruktN"
+        },
+        {
+          "text": "Fördelning inkomster för hushåll (fraktiler) efter region.  År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispH1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TabDispH1"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, födelseland och antal år i Sverige. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab12InkStruktN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab12InkStruktN"
+        },
+        {
+          "text": "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och sysselsättning. År 2011 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab13InkStruktN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Tab13InkStruktN"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Indikatorer inkomstfördelning efter region. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Fördelning inkomster (fraktiler) efter region. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Disponibel inkomst för hushåll efter region, hushållstyp och ålder. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, hushållstyp och ålder.   År 2011 - 2020",
+          "2022-09-09"
+        ],
+        [
+          "Ekonomisk standard, andel av befolkningen per inkomstklass efter region.   År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, födelseland, antal år i Sverige och ålder 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, sysselsättning, utländsk/svensk bakgrund och ålder 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Ekonomisk standard för personer efter region, upplåtelseform, ålder och hushållstyp 2012 - 2020",
+          "2022-09-09"
+        ],
+        [
+          "Låg respektive hög ekonomisk standard efter region och ålder.    År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet uppdelade i decilgrupper efter region. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och hushållstyp. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Fördelning inkomster för hushåll (fraktiler) efter region.  År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, födelseland och antal år i Sverige. År 2011 - 2020",
+          "2022-01-26"
+        ],
+        [
+          "Inkomststruktur för hushåll per konsumtionsenhet efter region, ålder och sysselsättning. År 2011 - 2020",
+          "2022-01-26"
+        ]
+      ]
     },
     {
       "heading_path": [

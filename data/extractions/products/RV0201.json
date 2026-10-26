@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0201",
     "response_url": "https://www.scb.se/RV0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/rattsliga-foljder-av-brott/personer-lagforda-for-brott/",
-    "fetched_at": "2026-10-19T03:41:32.320107Z",
+    "fetched_at": "2026-10-26T03:44:35.041502Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7b76b7e6fcda533497c4f6d6f63ec1680c63d076772bdf81af55c43407006050",
+    "content_sha256": "c6c4339cd25a86bc49b1622687766f1b1016de58ff5bf44ab2c9f1d11d6aa636",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0201",
   "summary": "Statistiken visar bland annat lagföringsbeslut efter huvudbrott och huvudpåföljd redovisat efter ålder, kön och regional fördelning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-22",
+  "next_publication_date": "2027-04-22",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -45,10 +45,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-22",
         "Statistiken visar bland annat lagföringsbeslut efter huvudbrott och huvudpåföljd redovisat efter ålder, kön och regional fördelning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-22",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

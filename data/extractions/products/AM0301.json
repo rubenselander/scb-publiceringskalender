@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0301",
     "response_url": "https://www.scb.se/AM0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/",
-    "fetched_at": "2026-10-19T03:38:17.447665Z",
+    "fetched_at": "2026-10-26T03:41:28.341491Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c134f33bae4b18eb8d8daafded4d24200a7b2445d1cf6d2dae2298ac9b3137fe",
+    "content_sha256": "752378bfe8d77025808e9620091ea34a979b4d158866874b7d364b64f8cf8051",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -339,18 +339,124 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre indexserier som ej längre uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre indexserier som ej längre uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0301C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0301C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetskostnadsindex för arbetare och tjänstemän inom privat sektor (AKI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetskostnadsindex för arbetare, privat sektor (AKIak) efter näringsgren enligt SNI 2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIAM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIAM"
+        },
+        {
+          "text": "Arbetskostnadsindex för industriarbetare (AKIam) efter näringsgren enligt SNI 2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIIM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIIM"
+        },
+        {
+          "text": "Arbetskostnadsindex för tjänstemän, privat sektor (AKItk) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKITM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKITM"
+        },
+        {
+          "text": "Löneindex för arbetare, privat sektor (LÖIak) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIAK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIAK"
+        },
+        {
+          "text": "Löneindex för industriarbetare (LÖI) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIIM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIIM"
+        },
+        {
+          "text": "Löneindex för tjänstemän, privat sektor (LÖItk) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK"
+        },
+        {
+          "text": "Arbetskostnadsindex, arbetare och tjänstemän, privat sektor (AKI) efter näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 1999K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKI"
+        },
+        {
+          "text": "Arbetskostnadsindex för industriarbetare (AKIam) efter näringsgren SNI92 (uppdateras ej). Kvartalsmittmånad 1994M02 - 2000M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIIndustriarbetare",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIIndustriarbetare"
+        },
+        {
+          "text": "Löneindex för industriarbetare (LÖI) efter näringsgren SNI92 (uppdateras ej). Kvartalsmittmånad 1994M02 - 2000M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonIndexIndarb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonIndexIndarb"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetskostnadsindex för arbetare, privat sektor (AKIak) efter näringsgren enligt SNI 2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Arbetskostnadsindex för industriarbetare (AKIam) efter näringsgren enligt SNI 2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Arbetskostnadsindex för tjänstemän, privat sektor (AKItk) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Löneindex för arbetare, privat sektor (LÖIak) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Löneindex för industriarbetare (LÖI) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Löneindex för tjänstemän, privat sektor (LÖItk) efter näringsgren SNI2002 (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2009-03-02"
+        ],
+        [
+          "Arbetskostnadsindex, arbetare och tjänstemän, privat sektor (AKI) efter näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 1999K2",
+          "1999-11-09"
+        ],
+        [
+          "Arbetskostnadsindex för industriarbetare (AKIam) efter näringsgren SNI92 (uppdateras ej). Kvartalsmittmånad 1994M02 - 2000M05",
+          "2000-07-31"
+        ],
+        [
+          "Löneindex för industriarbetare (LÖI) efter näringsgren SNI92 (uppdateras ej). Kvartalsmittmånad 1994M02 - 2000M05",
+          "2000-07-31"
+        ]
+      ]
     },
     {
       "heading_path": [

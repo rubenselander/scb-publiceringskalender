@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0207",
     "response_url": "https://www.scb.se/SF0207",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/utbetalningar-av-arbets-och-yrkesskadelivrantor-exkl-arbetsskadelivrantor-till-efterlevande/",
-    "fetched_at": "2026-10-19T03:41:45.276153Z",
+    "fetched_at": "2026-10-26T03:44:49.040009Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "58cb4024ae1147e1e8bde643bcd41727d9985d25b9c84794d5c060a35f1ba84f",
+    "content_sha256": "de9263c1d0d0ca080f15498e697777793d90e89414371a5896a9adae5836eee3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0207",
   "summary": "Statistiken visar antal livräntetagare, antal livräntor och årsbelopp fördelat bland annat på kön och ålder. Även måttet antal beslut fördelat på beslutstyp (bifall/avslag), skadetyp och diagnos finns.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-20",
-  "next_publication_date": "2026-10-20",
+  "next_publication_text": "Nästa publicering: 2026-11-20",
+  "next_publication_date": "2026-11-20",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-20",
+        "Nästa publicering: 2026-11-20",
         "Statistiken visar antal livräntetagare, antal livräntor och årsbelopp fördelat bland annat på kön och ålder. Även måttet antal beslut fördelat på beslutstyp (bifall/avslag), skadetyp och diagnos finns."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-20",
+          "text": "Nästa publicering: 2026-11-20",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0207&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0207&period=Forward1Year"
         }

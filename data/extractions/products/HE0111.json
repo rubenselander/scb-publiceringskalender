@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0111",
     "response_url": "https://www.scb.se/HE0111",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/hushallens-boende/",
-    "fetched_at": "2026-10-19T03:39:06.324632Z",
+    "fetched_at": "2026-10-26T03:42:14.867836Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2bbdda357c45d6f66a3a48b0e6ab262bf501d716ada6770a2a7069799456d85b",
+    "content_sha256": "9e5f85b530f988f1f3c3ae5b765705cf29011af147e4c7d7a87798f8de802a06",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/he0111",
   "summary": "Statistiken om hushållens boende är en årlig undersökning som omfattar Sveriges folkbokförda befolkning. Statistiken ger information om till exempel boendeform och utrymmesstandard för hushåll och individer.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-22",
+  "next_publication_date": "2027-04-22",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-22",
         "Statistiken om hushållens boende är en årlig undersökning som omfattar Sveriges folkbokförda befolkning. Statistiken ger information om till exempel boendeform och utrymmesstandard för hushåll och individer."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-22",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0111&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0111&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

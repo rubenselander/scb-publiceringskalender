@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0502",
     "response_url": "https://www.scb.se/RV0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/aterfall-i-brott/aterfall-i-brott--slutlig-statistik/",
-    "fetched_at": "2026-10-19T03:41:36.497862Z",
+    "fetched_at": "2026-10-26T03:44:39.058344Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "505e5177a7e854852796bdcf2c6bdd258922589f747fd4dc7cd8691606ee3ac3",
+    "content_sha256": "1124b44f44f0a3f8f3268c81ba564eaf25b0f5cc64578f091bb5e5e3baa8687f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0502",
   "summary": "Statistiken visar personer som återfaller i lagförd brottslighet fördelat på kön, ålder samt tidigare kriminell belastning, tid till första återfall, antal återfall och risk för återfall.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-13",
+  "next_publication_date": "2027-05-13",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-13",
         "Statistiken visar personer som återfaller i lagförd brottslighet fördelat på kön, ålder samt tidigare kriminell belastning, tid till första återfall, antal återfall och risk för återfall."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-13",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0502&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0502&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

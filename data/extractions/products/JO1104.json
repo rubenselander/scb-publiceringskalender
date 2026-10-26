@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1104",
     "response_url": "https://www.scb.se/JO1104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/fritidsfiske/",
-    "fetched_at": "2026-10-19T03:39:50.899082Z",
+    "fetched_at": "2026-10-26T03:42:58.592602Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "65c8646281993c2d620ebce3e7e8647c7e24769ba4a6e5f70ca0ede5c5d07176",
+    "content_sha256": "bd4b9fe0870c9b3c948ee0bc9722a8871c124a19be49611a91b6ccba9c0acd9e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -180,18 +180,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JO1104B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JO1104B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fritidsfiske",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal dagar i tusental som fritidsfiske bedrivits efter område. År 2013 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F1ny",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F1ny"
+        },
+        {
+          "text": "Fritidsfiskets fångster efter redskap och område. År 2013 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F3ny",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F3ny"
+        },
+        {
+          "text": "Utgifter för fritidsfisket efter kostnadsslag. År 2013 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F4ny",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/F4ny"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal dagar i tusental som fritidsfiske bedrivits efter område. År 2013 - 2020",
+          "2021-06-18"
+        ],
+        [
+          "Fritidsfiskets fångster efter redskap och område. År 2013 - 2020",
+          "2021-06-18"
+        ],
+        [
+          "Utgifter för fritidsfisket efter kostnadsslag. År 2013 - 2020",
+          "2021-06-18"
+        ]
+      ]
     },
     {
       "heading_path": [

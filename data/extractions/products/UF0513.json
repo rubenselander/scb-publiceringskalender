@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0513",
     "response_url": "https://www.scb.se/UF0513",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/gymnasieungdomars-studieintresse/",
-    "fetched_at": "2026-10-19T03:42:48.943682Z",
+    "fetched_at": "2026-10-26T03:45:52.731714Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "967eb3026806612ed3855465fde8da9de3025e13a8cd643831530da79fe879fc",
+    "content_sha256": "a9314e7569e6572b33f72de2b60bb06ddb78eca162e02ba1685870e5044ecdaf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -223,6 +223,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data fr.o.m. läsåret 2013/2014. Vartannat läsår 2013/2014 - 2017/2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi2013",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi2013"
+        },
+        {
           "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter kön, gymnasieprogram och studieintresse. Vartannat läsår 2003/2004 - 2017/2018",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrSi",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrSi"
@@ -231,11 +236,6 @@
           "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Upplägg av högskolestudierna efter kön, gymnasieprogram och studieupplägg. Vartannat läsår 2003/2004 - 2017/2018",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrDSi",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrDSi"
-        },
-        {
-          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data fr.o.m. läsåret 2013-2014. Vartannat läsår 2013/2014 - 2017/2018",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi2013",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi2013"
         },
         {
           "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Ämnesområde för högskolestudierna efter kön, gymnasieprogram och ämne. Vartannat läsår 2015/2016 - 2017/2018",
@@ -253,15 +253,15 @@
           "Datum"
         ],
         [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data fr.o.m. läsåret 2013/2014. Vartannat läsår 2013/2014 - 2017/2018",
+          "2018-03-08"
+        ],
+        [
           "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter kön, gymnasieprogram och studieintresse. Vartannat läsår 2003/2004 - 2017/2018",
           "2018-03-08"
         ],
         [
           "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Upplägg av högskolestudierna efter kön, gymnasieprogram och studieupplägg. Vartannat läsår 2003/2004 - 2017/2018",
-          "2018-03-08"
-        ],
-        [
-          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data fr.o.m. läsåret 2013-2014. Vartannat läsår 2013/2014 - 2017/2018",
           "2018-03-08"
         ],
         [
@@ -283,18 +283,133 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0513B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0513B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Gymnasieungdomars studieintresse",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Ämnesområde för högskolestudierna efter kön, gymnasieprogram och ämne.  Vartannat läsår 2003/2004 - 2011/2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrFSiOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrFSiOLD"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data t.o.m. läsåret 2011/2012. Vartannat läsår 2003/2004 - 2011/2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrESi"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter kön, gymnasieprogram och studieintresse.  Vartannat läsår 2003/2004 - 2011/2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrSiOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrSiOLD"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Upplägg av högskolestudierna efter kön, gymnasieprogram och studieupplägg.  Vartannat läsår 2003/2004 - 2011/2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrDSiOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrDSiOLD"
+        },
+        {
+          "text": "Elever som inte är intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Anledningar till att inte börja läsa på högskola efter kön, gymnasieprogram och anledning. Läsår 2003/04 2003/2004",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrCSi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrCSi"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Anledning för att läsa på högskolan efter kön, gymnasieprogram och anledning. Vartannat läsår 2003/2004 - 2009/2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrGSi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrGSi"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Intresse för att genomföra en del av studierna utomlands efter kön, gymnasieprogram och utlandsstudier.  Vartannat läsår 2003/2004 - 2011/2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrHSiOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrHSiOLD"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter riksområde, kön och studieintresse. Vartannat läsår 2003/2004 - 2007/2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrBSi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrBSi"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Ämnesområde för högskolestudierna efter kön, gymnasieprogram och ämne.   Vartannat läsår 2003/2004 - 2013/2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrFSi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrFSi"
+        },
+        {
+          "text": "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Intresse för att genomföra en del av studierna utomlands efter kön, gymnasieprogram och utlandsstudier. Vartannat läsår 2003/2004 - 2015/2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrHSi",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GystStudIntrHSi"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Ämnesområde för högskolestudierna efter kön, gymnasieprogram och ämne.  Vartannat läsår 2003/2004 - 2011/2012",
+          "2012-04-17"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Avsedd längd på högskolestudierna efter kön, gymnasieprogram och studielängd. Data t.o.m. läsåret 2011/2012. Vartannat läsår 2003/2004 - 2011/2012",
+          "2012-04-16"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter kön, gymnasieprogram och studieintresse.  Vartannat läsår 2003/2004 - 2011/2012",
+          "2012-04-16"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Upplägg av högskolestudierna efter kön, gymnasieprogram och studieupplägg.  Vartannat läsår 2003/2004 - 2011/2012",
+          "2012-04-16"
+        ],
+        [
+          "Elever som inte är intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Anledningar till att inte börja läsa på högskola efter kön, gymnasieprogram och anledning. Läsår 2003/04 2003/2004",
+          "2004-04-22"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Anledning för att läsa på högskolan efter kön, gymnasieprogram och anledning. Vartannat läsår 2003/2004 - 2009/2010",
+          "2010-03-17"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Intresse för att genomföra en del av studierna utomlands efter kön, gymnasieprogram och utlandsstudier.  Vartannat läsår 2003/2004 - 2011/2012",
+          "2012-04-16"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning efter riksområde, kön och studieintresse. Vartannat läsår 2003/2004 - 2007/2008",
+          "2007-12-19"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Ämnesområde för högskolestudierna efter kön, gymnasieprogram och ämne.   Vartannat läsår 2003/2004 - 2013/2014",
+          "2014-03-10"
+        ],
+        [
+          "Elever intresserade av att börja läsa på universitet eller högskola inom tre år från avslutad gymnasieutbildning. Intresse för att genomföra en del av studierna utomlands efter kön, gymnasieprogram och utlandsstudier. Vartannat läsår 2003/2004 - 2015/2016",
+          "2016-03-08"
+        ]
+      ]
     },
     {
       "heading_path": [

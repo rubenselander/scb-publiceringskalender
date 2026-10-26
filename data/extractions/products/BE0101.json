@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0101",
     "response_url": "https://www.scb.se/BE0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/befolkningsstatistik/",
-    "fetched_at": "2026-10-19T03:38:25.141523Z",
+    "fetched_at": "2026-10-26T03:41:35.640106Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8fe1ed258da6515b51d5b59e17699df9b522a121c51d25194f0cf483aaf271e8",
+    "content_sha256": "68c1010f86020de15c223da634be2d9fdd348e9fc4b9f93f2158b58b81b58838",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -2758,18 +2758,61 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Cirkulär migration – Äldre tabeller som inte längre uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Cirkulär migration – Äldre tabeller som inte längre uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0101M",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0101M"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningsstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal migrationer efter migrationsland, födelselandgrupp, totalt antal migrationer, typ av migration och kön. Period 2000-2009 - 2010-2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CirkMigMLandFLandgr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CirkMigMLandFLandgr"
+        },
+        {
+          "text": "Internationella migranter efter födelseland, kön och antal migrationer. Period 2000-2009 - 2010-2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntalMigMLandFLandgr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntalMigMLandFLandgr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal migrationer efter migrationsland, födelselandgrupp, totalt antal migrationer, typ av migration och kön. Period 2000-2009 - 2010-2019",
+          "2021-09-07"
+        ],
+        [
+          "Internationella migranter efter födelseland, kön och antal migrationer. Period 2000-2009 - 2010-2019",
+          "2021-09-07"
+        ]
+      ]
     },
     {
       "heading_path": [

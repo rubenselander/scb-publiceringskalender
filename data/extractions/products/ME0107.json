@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0107",
     "response_url": "https://www.scb.se/ME0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-nominerade-och-valda/",
-    "fetched_at": "2026-10-19T03:40:12.456227Z",
+    "fetched_at": "2026-10-26T03:43:19.211548Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f0362b3ac77b341273dc189f6f78b74b0382201743e5eff780618b60976f7cad",
+    "content_sha256": "39012690f125e717ddc01cca41b3577e9ff8e8c2cfa3e7704e9ea7e6a3c7ac1d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -656,18 +656,277 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Allmänna val, nominerade och valda",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och inrikes/utrikes född. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T01"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och parti. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T02"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och ålder. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T03"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T04"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T05"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och medborgarskapsland. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T06"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T07"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T08"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T09"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun och kön. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T10"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T11"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T12"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och medborgarskapsland. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T13"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T14"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T15"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T16"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och inrikes/utrikes född. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T17"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och parti. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T18"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och ålder. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T19"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter reigoner och kön. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T20"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T22",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T22"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T23",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T23"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T24",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T24"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T25",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T25"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T26",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T26"
+        },
+        {
+          "text": "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T27",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0107T27"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och inrikes/utrikes född. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-20"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och parti. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun, kön och ålder. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "2017-01-30"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och medborgarskapsland. Antal och andelar. Valår 1991 - 2014",
+          "2017-01-30"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "2017-01-30"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i kommunfullmäktigval efter kommun och kön. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "2015-03-17"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och medborgarskapsland. Antal och andelar. Valår 1991 - 2014",
+          "2015-03-17"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "2015-03-17"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och inrikes/utrikes född. Antal och andelar. Valår 1991 - 2018",
+          "2019-06-18"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och parti. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter kön och ålder. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i regionfullmäktigval efter reigoner och kön. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och födelseregion. Antal och andelar. Valår 1991 - 2014",
+          "2015-03-17"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och inkomstintervall efter percentiler. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och utbildningsnivå. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och utländsk/svensk bakgrund. Antal och andelar. Valår 1991 - 2014",
+          "2015-03-17"
+        ],
+        [
+          "Nominerade, valda och ej valda kandidater i riksdagsval efter kön, parti och ålder. Antal och andelar. Valår 1991 - 2018",
+          "2019-03-28"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0803",
     "response_url": "https://www.scb.se/MI0803",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/",
-    "fetched_at": "2026-10-19T03:40:31.415824Z",
+    "fetched_at": "2026-10-26T03:43:37.396844Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c707301146ca8c3285791144e5facda0eb3c87f54048df2ff49c5843b92c60cc",
+    "content_sha256": "d49c198602fb9d518b206006f88620705d1e9c4d0d888517a1442372e9a4fc82",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -541,18 +541,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0803X",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0803X"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Markanvändningen i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Väglängder i km efter region och vägkategori. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaglangdKategori",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaglangdKategori"
+        },
+        {
+          "text": "Väglängder i km efter region och väghållare. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaglangdHallare",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaglangdHallare"
+        },
+        {
+          "text": "Markanvändningen i Sverige efter region och markanvändningsklass. Äldre serie som inte uppdateras. Vart 5:e år 2000 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Markanv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Markanv"
+        },
+        {
+          "text": "Markanvändningen i Sverige i bebyggd mark efter region och markanvändningsklass. Äldre serie som inte uppdateras. Vart 5:e år 2000 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvBebyggdMark",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MarkanvBebyggdMark"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Väglängder i km efter region och vägkategori. År 2010",
+          "2014-01-21"
+        ],
+        [
+          "Väglängder i km efter region och väghållare. År 2010",
+          "2014-01-21"
+        ],
+        [
+          "Markanvändningen i Sverige efter region och markanvändningsklass. Äldre serie som inte uppdateras. Vart 5:e år 2000 - 2005",
+          "2008-11-27"
+        ],
+        [
+          "Markanvändningen i Sverige i bebyggd mark efter region och markanvändningsklass. Äldre serie som inte uppdateras. Vart 5:e år 2000 - 2005",
+          "2008-11-27"
+        ]
+      ]
     },
     {
       "heading_path": [

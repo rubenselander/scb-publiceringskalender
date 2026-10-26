@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0103",
     "response_url": "https://www.scb.se/RV0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brott/",
-    "fetched_at": "2026-10-19T03:41:28.396533Z",
+    "fetched_at": "2026-10-26T03:44:30.319917Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3afe8150254119a70e42a5a54479b95136603e59ff118b88999515eb170e8148",
+    "content_sha256": "c6e822bd429a696bbe5a5293b5ce636b4282a4cfab3c6b1c884677187c62d69b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0103",
   "summary": "Statistiken visar de uppklarade brottens omfattning, struktur, andelen brott som klaras upp, regionala fördelning och utveckling över tid. Statistiken baseras på beslut som fattas av polisen och åklagarna. Vissa av dessa beslut definieras som brottsuppklarande.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-15",
+  "next_publication_date": "2027-04-15",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-15",
         "Statistiken visar de uppklarade brottens omfattning, struktur, andelen brott som klaras upp, regionala fördelning och utveckling över tid. Statistiken baseras på beslut som fattas av polisen och åklagarna. Vissa av dessa beslut definieras som brottsuppklarande."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0103&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0103&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

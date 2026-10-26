@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0401",
     "response_url": "https://www.scb.se/PR0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/",
-    "fetched_at": "2026-10-19T03:41:24.155841Z",
+    "fetched_at": "2026-10-26T03:44:26.192054Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5a98080b76f1e23ad337d1a03a628556947a37bf2c45ecd63c48f4069e087982",
+    "content_sha256": "a6cc87a55390d7b0291798d4fbd93b1f23d399aa092703c35fe07219f2037072",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -153,14 +153,19 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Hushållens faktiska konsumtion och bruttonationalprodukt volymindex per capita i PPS, 2022, 2023 och 2024 (EU27=100)",
+          "text": "Hushållens faktiska konsumtion och bruttonationalprodukt volymindex per capita i PPS, 2022, 2023 och 2024 (EU27=100) (Uppdateras ej efter 2024)",
           "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/hushallens-faktiska-konsumtion-och-bruttonationalprodukt-volymindex-per-capita-i-pps-2022-2023-och-2024-eu27100/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/hushallens-faktiska-konsumtion-och-bruttonationalprodukt-volymindex-per-capita-i-pps-2022-2023-och-2024-eu27100/"
         },
         {
-          "text": "Hushållens faktiska konsumtion, 2024",
+          "text": "Hushållens faktiska konsumtion, 2024 (Uppdateras ej efter 2024)",
           "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/hushallens-faktiska-konsumtion/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/hushallens-faktiska-konsumtion/"
+        },
+        {
+          "text": "Prisnivåindex för hushållens faktiska individuella konsumtion 2024 (Uppdateras ej efter 2024)",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion-2024/"
         }
       ],
       "table_headers": [
@@ -175,75 +180,17 @@
           "Datum"
         ],
         [
-          "Hushållens faktiska konsumtion och bruttonationalprodukt volymindex per capita i PPS, 2022, 2023 och 2024 (EU27=100)",
+          "Hushållens faktiska konsumtion och bruttonationalprodukt volymindex per capita i PPS, 2022, 2023 och 2024 (EU27=100) (Uppdateras ej efter 2024)",
           "Tabell",
           "2025-12-19"
         ],
         [
-          "Hushållens faktiska konsumtion, 2024",
+          "Hushållens faktiska konsumtion, 2024 (Uppdateras ej efter 2024)",
           "Diagram",
           "2025-12-19"
-        ]
-      ]
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Köpkraftspariteter (PPP)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Tabeller och diagram",
-          "level": 2,
-          "anchor": "_Tabellerochdiagram"
-        }
-      ],
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "Prisnivåindex för hushållens faktiska individuella konsumtion",
-          "href": "javascript:void(0)",
-          "url": "javascript:void(0)"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Köpkraftspariteter (PPP)",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Tabeller och diagram",
-          "level": 2,
-          "anchor": "_Tabellerochdiagram"
-        }
-      ],
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "Prisnivåindex för hushållens faktiska individuella konsumtion 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/kopkraftspariteter-ppp/pong/tabell-och-diagram/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion/prisnivaindex-for-hushallens-faktiska-individuella-konsumtion-2024/"
-        }
-      ],
-      "table_headers": [
-        "Namn",
-        "Typ",
-        "Datum"
-      ],
-      "table_rows": [
-        [
-          "Namn",
-          "Typ",
-          "Datum"
         ],
         [
-          "Prisnivåindex för hushållens faktiska individuella konsumtion 2024",
+          "Prisnivåindex för hushållens faktiska individuella konsumtion 2024 (Uppdateras ej efter 2024)",
           "Diagram",
           "2025-12-19"
         ]

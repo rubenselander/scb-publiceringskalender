@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0605",
     "response_url": "https://www.scb.se/MI0605",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skogsmark-for-naturvardsandamal/",
-    "fetched_at": "2026-10-19T03:40:30.536936Z",
+    "fetched_at": "2026-10-26T03:43:35.992006Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "be175b3c14de43d6fb7265dd03bb36e9355cf3c30fd0b214fd1c0bb2fb1ef92c",
+    "content_sha256": "f2973965f0cb94f7fc210639292794ae72796159200fc423dbfebdcf58c064ff",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0605",
   "summary": "Här redovisas en sammanhållen statistik för fem former av skogsmark som på olika sätt är reglerad eller avsatt för naturvårdsändamål - formellt skyddad skogsmark, ersatta arealer enligt skogsvårdslagen, frivilliga avsättningar, hänsynsytor och improduktiv skogsmark. Uppgifterna redovisas regionalt och fördelat på produktiv respektive total skogsmark. Statistiken tas fram i samarbete mellan SCB, Skogsstyrelsen, Naturvårdsverket och SLU Riksskogstaxeringen.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-07-01",
+  "next_publication_date": "2027-07-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-07-01",
         "Här redovisas en sammanhållen statistik för fem former av skogsmark som på olika sätt är reglerad eller avsatt för naturvårdsändamål - formellt skyddad skogsmark, ersatta arealer enligt skogsvårdslagen, frivilliga avsättningar, hänsynsytor och improduktiv skogsmark. Uppgifterna redovisas regionalt och fördelat på produktiv respektive total skogsmark. Statistiken tas fram i samarbete mellan SCB, Skogsstyrelsen, Naturvårdsverket och SLU Riksskogstaxeringen."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-07-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0605&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0605&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

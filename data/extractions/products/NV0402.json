@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0402",
     "response_url": "https://www.scb.se/NV0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/",
-    "fetched_at": "2026-10-19T03:41:01.664205Z",
+    "fetched_at": "2026-10-26T03:44:03.838551Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f28af2d2d805c07678d893d2e00586768d58cda419ba1a7c06f9ce733ec05cab",
+    "content_sha256": "935c05ff51b1be7f9517b97acf5091e2bfd53e7148364fface5dc29782214401",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -147,14 +147,12 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej (SNI 2007)"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej (SNI 2007)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
@@ -173,18 +171,133 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej (SNI 2002)"
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. År 2000 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010kedjAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010kedjAr"
+        },
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. Kvartal 2000K1 - 2017K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjKv"
+        },
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. Historiska tidsserier. Månad 1980M01 - 1999M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010kedjMHist",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010kedjMHist"
+        },
+        {
+          "text": "Lagerkorrigerad industriproduktionsindex (IPI), 2010=100, ej kalenderkorrigerad, efter näringsgren SNI2007. Kvartal 2008K1 - 2017K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPILagerkorrIndKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPILagerkorrIndKv"
+        }
       ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. År 2000 - 2016",
+          "2017-09-06"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. Kvartal 2000K1 - 2017K2",
+          "2017-10-05"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2010=100, efter näringsgren SNI2007. Historiska tidsserier. Månad 1980M01 - 1999M12",
+          "2014-01-22"
+        ],
+        [
+          "Lagerkorrigerad industriproduktionsindex (IPI), 2010=100, ej kalenderkorrigerad, efter näringsgren SNI2007. Kvartal 2008K1 - 2017K2",
+          "2017-09-06"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej (SNI 2002)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0402C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industriproduktionsindex (IPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. År 1990 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjAr"
+        },
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjKv"
+        },
+        {
+          "text": "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. Månad 1990M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2000kedjM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. År 1990 - 2008",
+          "2009-02-10"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "2009-02-10"
+        ],
+        [
+          "Industriproduktionsindex (IPI/PVI), kedjeindex, 2000=100, efter näringsgren SNI 2002. Månad 1990M01 - 2008M12",
+          "2009-02-10"
+        ]
+      ]
     },
     {
       "heading_path": [

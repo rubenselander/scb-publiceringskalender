@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM9906",
     "response_url": "https://www.scb.se/AM9906",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/ovrigt/regionala-matchningsindikatorer/",
-    "fetched_at": "2026-10-19T03:38:23.613670Z",
+    "fetched_at": "2026-10-26T03:41:34.162419Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2ea4f2543a469e4b11e812ac18ff06e95b4e39f9b724b2db87ae98a6db040d6f",
+    "content_sha256": "5b05c757b3220f0587875579d25bccd71347499a66988a9b9a5e6448cc3f5844",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -375,7 +375,7 @@
         ],
         [
           "Utbildningsflöden (U3). Åldersinträden och åldersutträden, inflyttare och utflyttare, samt examinerade och vidareutbildade 18–69 år efter region, utbildning och kön/ålder/födelseland (nattbefolkning). År 2019-2020 - 2023-2024",
-          "2026-06-24"
+          "2026-10-22"
         ]
       ]
     },
@@ -547,6 +547,121 @@
           "text": "Utbildningsflöden (U3, utan CKM). Åldersinträden och åldersutträden, inflyttare och utflyttare, samt examinerade och vidareutbildade 18–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2019–2024 2019-2020 - 2023-2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U3N1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U3N1"
+        },
+        {
+          "text": "Lediga jobb (E1) efter region och sektor. Uppdateras ej. Kvartal 2006K1 - 2024K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE1K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE1K"
+        },
+        {
+          "text": "Lediga jobb (E1) efter region och sektor. Uppdateras ej. År 2006 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE1Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE1Ar"
+        },
+        {
+          "text": "Aggregerad matchning (M1). Lediga jobb och arbetslösa efter region. Uppdateras ej. Kvartal 2006K1 - 2024K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM1K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM1K"
+        },
+        {
+          "text": "Aggregerad matchning (M1). Lediga jobb, arbetslösa och lediga jobb per arbetslös efter region. Uppdateras ej. År 2006 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM1Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM1Ar"
+        },
+        {
+          "text": "Matchad förvärvsgrad (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildningsgrupp och kön respektive ålder (nattbefolkning). Uppdateras ej. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndE3"
+        },
+        {
+          "text": "Matchning – olika grupper (M2). Andel anställda med matchning mellan utbildning och yrke, efter region, kön, ålder respektive födelselandsgrupp  (nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19M2N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19M2N"
+        },
+        {
+          "text": "Matchningsgrad (M2). Andel anställda med matchning mellan utbildning och yrke, efter region, kön, ålder respektive födelselandsgrupp (nattbefolkning). Uppdateras ej. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionIndM2"
+        },
+        {
+          "text": "Jobbinflöden (E2a). Nya förvärvsarbetande och jobbytare 20–64 år efter region, utbildning och kön respektive ålder (dagbefolkning). Uppdateras ej. År 2006-2021 2006-2007 - 2020-2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E2AN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E2AN"
+        },
+        {
+          "text": "Matchning – utbildning (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildning och kön/ålder/födelseland (nattbefolkning). Uppdateras ej. År 2015 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E3N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E3N"
+        },
+        {
+          "text": "Arbetsmarknadsställning (U1a) i befolkningen 20–64 år efter region och utbildningsnivå- och inriktning (nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1a"
+        },
+        {
+          "text": "Arbetsmarknadsställning (U1a) i befolkningen 20–64 år efter region och utbildningsnivå- och inriktning (nattbefolkning). Uppdateras ej. År 2006 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1aN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1aN"
+        },
+        {
+          "text": "Befolkningsstruktur (R1b). Folkmängd efter region, kön, ålder och  födelselandsgrupp. Uppdateras ej. År 2006 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19R1b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19R1b"
+        },
+        {
+          "text": "Arbetskraftsdeltagande (U1b) i befolkningen 20–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1b"
+        },
+        {
+          "text": "Arbetskraftsdeltagande (U1b) i befolkningen 20–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2006 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1bN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U1bN"
+        },
+        {
+          "text": "In- och utpendling (U2). Förvärvsarbetande 20–64 år som pendlar över regiongräns, efter region och utbildningsnivå- och inriktning  (dag-/nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U2"
+        },
+        {
+          "text": "In- och utpendling (U2). Förvärvsarbetande 20–64 år som pendlar över regiongräns, efter region och utbildningsnivå- och inriktning  (dag-/nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U2N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U2N"
+        },
+        {
+          "text": "Matchning – utbildning (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildning och kön/ålder/födelseland (nattbefolkning) . Uppdateras ej. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E3N1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E3N1"
+        },
+        {
+          "text": "Utbildningsflöden (U3). Åldersinträden och åldersutträden, inflyttare och utflyttare, samt examinerade och vidareutbildade 18–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2006-2021 2006-2007 - 2020-2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U3N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U3N"
+        },
+        {
+          "text": "Förväntade åldersavgångar (U4). Förvärvsarbetande 60–64 år efter region, utbildning och kön (dagbefolkning). Uppdateras ej. År 2006 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U4N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U4N"
+        },
+        {
+          "text": "Antagna som påbörjat studier på YH-utbildningar (U5a). Antal antagna som påbörjat studier inom Yrkeshögskolan efter region, utbildning och kön. Uppdateras ej. År 2018 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U5a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U5a"
+        },
+        {
+          "text": "Nybörjare på yrkesexamensprogram (U5b). Antal nybörjare på yrkesexamensprogram i högskolan efter region, utbildning och kön. Uppdateras ej. År 2011 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U5b",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19U5b"
+        },
+        {
+          "text": "Typ av matchning (E4) bland anställda 20–64 år efter region och utbildning (nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E4N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E4N"
+        },
+        {
+          "text": "Matchning – yrke (E5). Matchning mellan yrke och utbildning bland anställda 20–64 år efter region, yrke och kön resp. ålder (dagbefolkning). Uppdateras ej. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RegionInd19E5"
         }
       ],
       "table_headers": [
@@ -576,7 +691,99 @@
         ],
         [
           "Utbildningsflöden (U3, utan CKM). Åldersinträden och åldersutträden, inflyttare och utflyttare, samt examinerade och vidareutbildade 18–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2019–2024 2019-2020 - 2023-2024",
-          "2026-06-24"
+          "2026-10-22"
+        ],
+        [
+          "Lediga jobb (E1) efter region och sektor. Uppdateras ej. Kvartal 2006K1 - 2024K1",
+          "2024-05-28"
+        ],
+        [
+          "Lediga jobb (E1) efter region och sektor. Uppdateras ej. År 2006 - 2016",
+          "2017-02-28"
+        ],
+        [
+          "Aggregerad matchning (M1). Lediga jobb och arbetslösa efter region. Uppdateras ej. Kvartal 2006K1 - 2024K1",
+          "2024-05-28"
+        ],
+        [
+          "Aggregerad matchning (M1). Lediga jobb, arbetslösa och lediga jobb per arbetslös efter region. Uppdateras ej. År 2006 - 2016",
+          "2017-02-28"
+        ],
+        [
+          "Matchad förvärvsgrad (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildningsgrupp och kön respektive ålder (nattbefolkning). Uppdateras ej. År 2008 - 2013",
+          "2016-11-11"
+        ],
+        [
+          "Matchning – olika grupper (M2). Andel anställda med matchning mellan utbildning och yrke, efter region, kön, ålder respektive födelselandsgrupp  (nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Matchningsgrad (M2). Andel anställda med matchning mellan utbildning och yrke, efter region, kön, ålder respektive födelselandsgrupp (nattbefolkning). Uppdateras ej. År 2008 - 2013",
+          "2016-02-26"
+        ],
+        [
+          "Jobbinflöden (E2a). Nya förvärvsarbetande och jobbytare 20–64 år efter region, utbildning och kön respektive ålder (dagbefolkning). Uppdateras ej. År 2006-2021 2006-2007 - 2020-2021",
+          "2023-06-28"
+        ],
+        [
+          "Matchning – utbildning (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildning och kön/ålder/födelseland (nattbefolkning). Uppdateras ej. År 2015 - 2018",
+          "2020-06-25"
+        ],
+        [
+          "Arbetsmarknadsställning (U1a) i befolkningen 20–64 år efter region och utbildningsnivå- och inriktning (nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "2020-06-25"
+        ],
+        [
+          "Arbetsmarknadsställning (U1a) i befolkningen 20–64 år efter region och utbildningsnivå- och inriktning (nattbefolkning). Uppdateras ej. År 2006 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Befolkningsstruktur (R1b). Folkmängd efter region, kön, ålder och  födelselandsgrupp. Uppdateras ej. År 2006 - 2018",
+          "2020-06-25"
+        ],
+        [
+          "Arbetskraftsdeltagande (U1b) i befolkningen 20–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "2020-06-25"
+        ],
+        [
+          "Arbetskraftsdeltagande (U1b) i befolkningen 20–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2006 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "In- och utpendling (U2). Förvärvsarbetande 20–64 år som pendlar över regiongräns, efter region och utbildningsnivå- och inriktning  (dag-/nattbefolkning). Uppdateras ej.  År 2006 - 2018",
+          "2020-06-25"
+        ],
+        [
+          "In- och utpendling (U2). Förvärvsarbetande 20–64 år som pendlar över regiongräns, efter region och utbildningsnivå- och inriktning  (dag-/nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Matchning – utbildning (E3). Matchning mellan utbildning och yrke bland befolkningen 20–64 år efter region, utbildning och kön/ålder/födelseland (nattbefolkning) . Uppdateras ej. År 2015 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Utbildningsflöden (U3). Åldersinträden och åldersutträden, inflyttare och utflyttare, samt examinerade och vidareutbildade 18–64 år efter region, utbildning och kön (nattbefolkning). Uppdateras ej. År 2006-2021 2006-2007 - 2020-2021",
+          "2023-06-28"
+        ],
+        [
+          "Förväntade åldersavgångar (U4). Förvärvsarbetande 60–64 år efter region, utbildning och kön (dagbefolkning). Uppdateras ej. År 2006 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Antagna som påbörjat studier på YH-utbildningar (U5a). Antal antagna som påbörjat studier inom Yrkeshögskolan efter region, utbildning och kön. Uppdateras ej. År 2018 - 2022",
+          "2023-06-28"
+        ],
+        [
+          "Nybörjare på yrkesexamensprogram (U5b). Antal nybörjare på yrkesexamensprogram i högskolan efter region, utbildning och kön. Uppdateras ej. År 2011 - 2022",
+          "2023-06-28"
+        ],
+        [
+          "Typ av matchning (E4) bland anställda 20–64 år efter region och utbildning (nattbefolkning). Uppdateras ej. År 2015 - 2021",
+          "2023-06-28"
+        ],
+        [
+          "Matchning – yrke (E5). Matchning mellan yrke och utbildning bland anställda 20–64 år efter region, yrke och kön resp. ålder (dagbefolkning). Uppdateras ej. År 2015 - 2021",
+          "2023-06-28"
         ]
       ]
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0402",
     "response_url": "https://www.scb.se/UF0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/aterbetalning-av-studiestod/",
-    "fetched_at": "2026-10-19T03:42:43.969815Z",
+    "fetched_at": "2026-10-26T03:45:47.313898Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2b812923c1f6f5b5d6d963578a66c569e7db52e58c9433b609662b977afc3947",
+    "content_sha256": "26c935ad3032fd580578b6fc743737f85ba1af2c4ccbf907924ac837e4f0047c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0402",
   "summary": "Statistik om studieskulder och inbetalning av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Här finns uppgifter för många år tillbaka, vissa ända från 2009. Äldre statistik (från 1965) finns i pdf-format.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-10",
+  "next_publication_date": "2027-02-10",
   "responsible_agency": {
     "label": "Centrala studiestödsnämnden (CSN)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-10",
         "Statistik om studieskulder och inbetalning av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Här finns uppgifter för många år tillbaka, vissa ända från 2009. Äldre statistik (från 1965) finns i pdf-format."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0402&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0402&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

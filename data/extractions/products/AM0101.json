@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0101",
     "response_url": "https://www.scb.se/AM0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/",
-    "fetched_at": "2026-10-19T03:38:07.019631Z",
+    "fetched_at": "2026-10-26T03:41:18.417893Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9f0286f28ad937f2f9c4f8b6f57bca9067a11b59aeb59a94447048a01f7556d6",
+    "content_sha256": "a14510398cc22940f54622531d6efd91f22f5099b4bc3099479231635d81e09c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -638,18 +638,88 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0101C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0101C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik, löner för privat sektor (KLP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2002 och rörliga tillägg (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjanstPrivat",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjanstPrivat"
+        },
+        {
+          "text": "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2002 och övertidstillägg (uppdateras ej). Månad 1996M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArbPrivat",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArbPrivat"
+        },
+        {
+          "text": "Antal arbetare inom industrin efter näringsgren SNI92 (uppdateras ej). Månad 1992M01 - 2000M10",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntIndustriarbetare",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntIndustriarbetare"
+        },
+        {
+          "text": "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter provision och näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 2000K3",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjansteman",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjansteman"
+        },
+        {
+          "text": "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 2000K3",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArbetare",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArbetare"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2002 och rörliga tillägg (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2010-03-01"
+        ],
+        [
+          "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2002 och övertidstillägg (uppdateras ej). Månad 1996M01 - 2008M12",
+          "2010-03-01"
+        ],
+        [
+          "Antal arbetare inom industrin efter näringsgren SNI92 (uppdateras ej). Månad 1992M01 - 2000M10",
+          "2000-12-29"
+        ],
+        [
+          "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter provision och näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 2000K3",
+          "2000-12-29"
+        ],
+        [
+          "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI92 (uppdateras ej). Kvartal 1994K1 - 2000K3",
+          "2000-12-29"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0116",
     "response_url": "https://www.scb.se/NV0116",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/",
-    "fetched_at": "2026-10-19T03:40:56.966735Z",
+    "fetched_at": "2026-10-26T03:44:00.221822Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dee7536f371a4cb3af4ff38aa7da7d385e1f393b16c0018efb9d869d76fad965",
+    "content_sha256": "66f4ca73b8747ba8296dbb9ecc4fc713a54625cad7da870a3bbc61e718a34613",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -2178,18 +2178,970 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0116Z",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0116Z"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "It-användning i företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Använder CRM-system efter användningsområde och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSNI"
+        },
+        {
+          "text": "Använder affärssystem (ERP) efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSNI"
+        },
+        {
+          "text": "Använder Internet efter ändamål och storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnvSTL"
+        },
+        {
+          "text": "Har egen personal som arbetar med programvaruutveckling efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSNI"
+        },
+        {
+          "text": "Anslutningar till Internet efter typ av anslutning (enligt tidigare indelning) och efter näringsgren SNI 2002. Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnslutaltSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnslutaltSNI"
+        },
+        {
+          "text": "Anslutningar till Internet efter typ av anslutning (enligt tidigare indelning) och efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnslutaltSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetAnslutaltSTL"
+        },
+        {
+          "text": "Anslutningar till Internet efter typ av anslutning och efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSNI"
+        },
+        {
+          "text": "Anslutningar till Internet efter typ av anslutning och efter näringsgren SNI 2007. Andel företag. År 2009 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSNI07"
+        },
+        {
+          "text": "Anslutningar till Internet efter typ av anslutning och efter storleksklass (3 grupper). Andel företag. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetAnslutSTL"
+        },
+        {
+          "text": "Utsatts för datorvirus under de senaste 12 månaderna vilket resulterat i förlorad information eller arbetstid efter näringsgren SNI 2002. Andel företag. År 2003 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorVirusSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorVirusSNI"
+        },
+        {
+          "text": "Utsatts för datorvirus under de senaste 12 månaderna vilket resulterat i förlorad information eller arbetstid efter storleksklass (6 grupper). Andel företag. År 2003 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorVirusSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorVirusSTL"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte efter ändamål och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSNI"
+        },
+        {
+          "text": "",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSNI"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte efter ändamål och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSNI07"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte efter ändamål och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEAndamalSTL"
+        },
+        {
+          "text": "Användning av programvaror inom företag efter system och region, storleksklass eller näringsgren. Andel företag med 10 eller fler anställda. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab02"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSNI"
+        },
+        {
+          "text": "Företaget utför dataanalys efter typ av utförare och region, storleksklass eller näringsgren. Andel företag med 10 eller fler anställda. År 2023 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab04"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och näringsgren SNI 2007. Andel företag. År 2009 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSNI07"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och storleksklass (3 grupper). Andel företag. År 2008 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISInkopSTL"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSNI"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och näringsgren SNI 2007. Andel företag. År 2009 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSNI07"
+        },
+        {
+          "text": "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och storleksklass (3 grupper). Andel företag. År 2008 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISKundSTL"
+        },
+        {
+          "text": "Andel anställda, i företag (med 10 eller fler anställda) som tillhandahålls bärbara enheter med mobil internetanslutning efter näringsgren SNI 2007. År 2012 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EmpmdpctSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EmpmdpctSNI07"
+        },
+        {
+          "text": "Andel anställda, i företag (med 10 eller fler anställda) som tillhandahålls bärbara enheter med mobil internetanslutning efter storleksklass. År 2012 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EmpmdpctSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EmpmdpctSTL"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som använder IT-lösningar som verktyg för att minska företagets energiförbrukning efter metod och näringsgren SNI 2007. År 2012 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ItlosningSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ItlosningSNI07"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som använder IT-lösningar som verktyg för att minska företagets energiförbrukning efter metod och storleksklass. År 2012 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ItlosningSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ItlosningSTL"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter metod och näringsgren SNI 2007. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscmetodSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscmetodSNI07"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter metod och storleksklass. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscmetodSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscmetodSTL"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter näringsgren SNI 2007. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscSNI07"
+        },
+        {
+          "text": "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter storleksklass. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SiscSTL"
+        },
+        {
+          "text": "Använder affärssystem (ERP) efter näringsgren SNI 2007. Andel företag. År 2009 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSNI07"
+        },
+        {
+          "text": "Använder affärssystem (ERP) efter storleksklass (3 grupper). Andel företag. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AERPSTL"
+        },
+        {
+          "text": "Använder CRM-system efter användningsområde och näringsgren SNI 2007. Andel företag. År 2009 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSNI07"
+        },
+        {
+          "text": "Använder CRM-system efter användningsområde och storleksklass (3 grupper). Andel företag. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACRMSTL"
+        },
+        {
+          "text": "Använder datorer efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorAnvSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorAnvSNI"
+        },
+        {
+          "text": "Använder datorer efter näringsgren SNI 2007. Andel företag. År 2009 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADatorAnvSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADatorAnvSNI07"
+        },
+        {
+          "text": "Använder datorer efter storleksklass (3 grupper). Andel företag. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADatorAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADatorAnvSTL"
+        },
+        {
+          "text": "Begränsande eller förhindrande faktorer beträffande webbförsäljning efter typ av begränsning och näringsgren SNI 2007. Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BegransSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BegransSNI07"
+        },
+        {
+          "text": "Begränsande eller förhindrande faktorer beträffande webbförsäljning efter typ av begränsning och storleksklass (3 grupper). Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BegransSTRL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BegransSTRL"
+        },
+        {
+          "text": "Distansarbete efter näringsgren SNI 2007. Andel företag. År 2009 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSNI07"
+        },
+        {
+          "text": "Distansarbete efter storleksklass (3 grupper). Andel företag. År 2009 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADistansArbSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADistansArbSTL"
+        },
+        {
+          "text": "Elektronisk handel efter aktivitet och näringsgren SNI 2007. Andel företag.  År 2011 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AE11HandelSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AE11HandelSNI07"
+        },
+        {
+          "text": "Elektronisk handel efter aktivitet och storleksklass (3 grupper). Andel företag.  År 2011 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AE11HandelSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AE11HandelSTL"
+        },
+        {
+          "text": "Har egen personal som arbetar med programvaruutveckling efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSNI07"
+        },
+        {
+          "text": "Har egen personal som arbetar med programvaruutveckling efter storleksklass (3 grupper). År 2008 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEgenPersSTL"
+        },
+        {
+          "text": "Har hemsida/webbplats efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSNI07"
+        },
+        {
+          "text": "Har hemsida/webbplats efter storleksklass (3 grupper). Andel företag. År 2008 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AHemsidaSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AHemsidaSTL"
+        },
+        {
+          "text": "Skickar respektive tar emot e-fakturor som kan processas automatiskt av mottagare efter näringsgren SNI 2007 och typ av tjänster. Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EFakturaSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EFakturaSNI07"
+        },
+        {
+          "text": "Skickar respektive tar emot e-fakturor som kan processas automatiskt av mottagare efter storleksklass (3 grupper) och typ av tjänster. Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EFakturaSTRL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EFakturaSTRL"
+        },
+        {
+          "text": "Sociala medier efter näringsgren SNI 2007 och typ av användning. Andel företag. År 2013 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvSmSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvSmSNI07"
+        },
+        {
+          "text": "Sociala medier efter näringsgren SNI 2007 och ändamål med användning. Andel företag. År 2013 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AndSmSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AndSmSNI07"
+        },
+        {
+          "text": "Sociala medier efter storleksklass (3 grupper) och typ av användning. Andel företag. År 2013 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvSmSTRL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvSmSTRL"
+        },
+        {
+          "text": "Sociala medier efter storleksklass (3 grupper) och ändamål med användning. Andel företag. År 2013 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AndSmSTRL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AndSmSTRL"
+        },
+        {
+          "text": "Tillgång till Internet efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetTillgaSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetTillgaSNI07"
+        },
+        {
+          "text": "Tillgång till Internet efter storleksklass (3 grupper). Andel företag. År 2008 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetTillgangSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetTillgangSTL"
+        },
+        {
+          "text": "Tillgängliga tjänster på företagens hemsida/webbplats efter näringsgren SNI 2007 och typ av tjänster. Andel företag. År 2013 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjanstTillgangSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjanstTillgangSNI07"
+        },
+        {
+          "text": "Tillgängliga tjänster på företagens hemsida/webbplats efter storleksklass (3 grupper) och typ av tjänster. Andel företag. År 2013 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjanstTillgangSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjanstTillgangSTL"
+        },
+        {
+          "text": "Tillhandahåller anställda med bärbara enheter med mobil internetanslutning efter näringsgren SNI 2007. Andel företag. År 2012 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PmdSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PmdSNI07"
+        },
+        {
+          "text": "Tillhandahåller anställda med bärbara enheter med mobil internetanslutning efter storleksklass (3 grupper). Andel företag. År 2012 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PmdSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PmdSTL"
+        },
+        {
+          "text": "Använder datorer efter storleksklass (6 klasser). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DatorAnvSTL"
+        },
+        {
+          "text": "Använder digital signatur efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSNI"
+        },
+        {
+          "text": "Använder digital signatur efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSNI07"
+        },
+        {
+          "text": "Använder digital signatur efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ADigiSignSTL"
+        },
+        {
+          "text": "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (2 typer) och näringsgren SNI 2007. Andel företag. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AASISCSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AASISCSNI07"
+        },
+        {
+          "text": "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (2 typer) och storleksklass (3 grupper). Andel företag. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AASISCSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AASISCSTL"
+        },
+        {
+          "text": "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (4 typer) och näringsgren SNI 2007. Andel företag. År 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSNI07"
+        },
+        {
+          "text": "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (4 typer) och storleksklass (3 grupper). Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSTL"
+        },
+        {
+          "text": "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ASISCSNI"
+        },
+        {
+          "text": "Använder olika typer av format vid automatiserat informationsutbyte efter format och näringsgren SNI 2002. Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEFormatSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEFormatSNI"
+        },
+        {
+          "text": "Använder olika typer av format vid automatiserat informationsutbyte efter format och storleksklass (3 grupper). Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEFormatSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AADEFormatSTL"
+        },
+        {
+          "text": "Använder operativsystem med öppen källkod efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSNI"
+        },
+        {
+          "text": "Använder operativsystem med öppen källkod efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSNI07"
+        },
+        {
+          "text": "Använder operativsystem med öppen källkod efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AOpenSourceSTL"
+        },
+        {
+          "text": "Distansarbete efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSNI"
+        },
+        {
+          "text": "Distansarbete efter storleksklass (6 grupper). Andel företag. År 2003 - 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DistansArbSTL"
+        },
+        {
+          "text": "Elektronisk handel efter aktivitet och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSNI"
+        },
+        {
+          "text": "Elektronisk handel efter aktivitet och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSNI07"
+        },
+        {
+          "text": "Elektronisk handel efter aktivitet och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AEHandelSTL"
+        },
+        {
+          "text": "Erbjuder tjänster på hemsidan efter typ av tjänst och näringsgren SNI 2002. Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AWebErbjuderSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AWebErbjuderSNI"
+        },
+        {
+          "text": "Erbjuder tjänster på hemsidan efter typ av tjänst och storleksklass (3 grupper). Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AWebErbjuderSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AWebErbjuderSTL"
+        },
+        {
+          "text": "Har formell policy för användning av sociala medier efter näringsgren SNI 2007. Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PolSmSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PolSmSNI07"
+        },
+        {
+          "text": "Har formell policy för användning av sociala medier efter storleksklass (3 grupper). Andel företag. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PolSmSTRL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PolSmSTRL"
+        },
+        {
+          "text": "Har hemsida/webbplats efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSNI"
+        },
+        {
+          "text": "Har hemsida/webbplats efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HemsidaSTL"
+        },
+        {
+          "text": "Internethandel efter aktivitet och näringsgren SNI 2002. Andel företag. År 2003 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternethandelSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternethandelSNI"
+        },
+        {
+          "text": "Internethandel efter aktivitet och storleksklass (6 grupper). Andel företag. År 2003 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternethandelSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternethandelSTL"
+        },
+        {
+          "text": "IT-säkerhet efter typ av säkerhetsanordning och näringsgren SNI 2002. Andel företag. År 2003 - 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITSakerhetSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITSakerhetSNI"
+        },
+        {
+          "text": "IT-säkerhet efter typ av säkerhetsanordning och storleksklass (6 grupper). Andel företag. År 2003 - 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITSakerhetSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITSakerhetSTL"
+        },
+        {
+          "text": "Kontakter med myndigheter via Internet efter ändamål och näringsgren SNI 2002. Andel företag. År 2005 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetMyndAnvSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetMyndAnvSNI"
+        },
+        {
+          "text": "Kontakter med myndigheter via Internet efter ändamål och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetMyndAnSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetMyndAnSNI07"
+        },
+        {
+          "text": "Kontakter med myndigheter via Internet efter ändamål och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetMyndAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AInternetMyndAnvSTL"
+        },
+        {
+          "text": "Kontakter med myndigheter via Internet efter ändamål och storleksklass (6 grupper). Andel företag. År 2005 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetMyndAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetMyndAnvSTL"
+        },
+        {
+          "text": "Tillgång till Internet efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetTillgangSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetTillgangSNI"
+        },
+        {
+          "text": "Tillgång till Internet efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetTillgangSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InternetTillgangSTL"
+        },
+        {
+          "text": "Tillgång till intranät, extranät och lokala nätverk efter näringsgren SNI 2002. Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NatverksAnvSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NatverksAnvSNI"
+        },
+        {
+          "text": "Tillgång till intranät, extranät och lokala nätverk efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSNI07"
+        },
+        {
+          "text": "Tillgång till intranät, extranät och lokala nätverk efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ANatverksAnvSTL"
+        },
+        {
+          "text": "Tillgång till intranät, extranät och lokala nätverk efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NatverksAnvSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NatverksAnvSTL"
+        },
+        {
+          "text": "Tillgång till personalapplikation för t.ex. semesteransökan, lönebesked etc. efter näringsgren SNI 2002. Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/APersAppSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/APersAppSNI"
+        },
+        {
+          "text": "Tillgång till personalapplikation för t.ex. semesteransökan, lönebesked etc. efter storleksklass (3 grupper). Andel företag. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/APersAppSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/APersAppSTL"
+        },
+        {
+          "text": "Uppdatering av IT-säkerhetsanordningar under de senaste tre månaderna efter näringsgren SNI 2002. Andel företag. År 2003 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UppdatSakerhetSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UppdatSakerhetSNI"
+        },
+        {
+          "text": "Uppdatering av IT-säkerhetsanordningar under de senaste tre månaderna efter storleksklass (6 grupper). Andel företag. År 2003 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UppdatSakerhetSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UppdatSakerhetSTL"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Använder CRM-system efter användningsområde och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder affärssystem (ERP) efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder Internet efter ändamål och storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Har egen personal som arbetar med programvaruutveckling efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Anslutningar till Internet efter typ av anslutning (enligt tidigare indelning) och efter näringsgren SNI 2002. Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Anslutningar till Internet efter typ av anslutning (enligt tidigare indelning) och efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Anslutningar till Internet efter typ av anslutning och efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Anslutningar till Internet efter typ av anslutning och efter näringsgren SNI 2007. Andel företag. År 2009 - 2013",
+          "2013-10-29"
+        ],
+        [
+          "Anslutningar till Internet efter typ av anslutning och efter storleksklass (3 grupper). Andel företag. År 2008 - 2013",
+          "2013-10-29"
+        ],
+        [
+          "Utsatts för datorvirus under de senaste 12 månaderna vilket resulterat i förlorad information eller arbetstid efter näringsgren SNI 2002. Andel företag. År 2003 - 2005",
+          "2005-12-20"
+        ],
+        [
+          "Utsatts för datorvirus under de senaste 12 månaderna vilket resulterat i förlorad information eller arbetstid efter storleksklass (6 grupper). Andel företag. År 2003 - 2005",
+          "2005-12-20"
+        ],
+        [
+          "Använder automatiserat informationsutbyte efter ändamål och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Använder automatiserat informationsutbyte efter ändamål och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder automatiserat informationsutbyte efter ändamål och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Användning av programvaror inom företag efter system och region, storleksklass eller näringsgren. Andel företag med 10 eller fler anställda. År 2023 - 2025",
+          "2025-11-06"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Företaget utför dataanalys efter typ av utförare och region, storleksklass eller näringsgren. Andel företag med 10 eller fler anställda. År 2023 - 2025",
+          "2025-11-06"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och näringsgren SNI 2007. Andel företag. År 2009 - 2012",
+          "2012-10-30"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid inköp efter typ av information och storleksklass (3 grupper). Andel företag. År 2008 - 2012",
+          "2012-10-30"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och näringsgren SNI 2007. Andel företag. År 2009 - 2012",
+          "2012-10-30"
+        ],
+        [
+          "Använder automatiserat informationsutbyte inom företaget vid kundbeställningar efter typ av information och storleksklass (3 grupper). Andel företag. År 2008 - 2012",
+          "2012-10-30"
+        ],
+        [
+          "Andel anställda, i företag (med 10 eller fler anställda) som tillhandahålls bärbara enheter med mobil internetanslutning efter näringsgren SNI 2007. År 2012 - 2013",
+          "2014-01-16"
+        ],
+        [
+          "Andel anställda, i företag (med 10 eller fler anställda) som tillhandahålls bärbara enheter med mobil internetanslutning efter storleksklass. År 2012 - 2013",
+          "2014-01-16"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som använder IT-lösningar som verktyg för att minska företagets energiförbrukning efter metod och näringsgren SNI 2007. År 2012 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som använder IT-lösningar som verktyg för att minska företagets energiförbrukning efter metod och storleksklass. År 2012 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter metod och näringsgren SNI 2007. År 2012",
+          "2013-01-16"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter metod och storleksklass. År 2012",
+          "2013-01-16"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter näringsgren SNI 2007. År 2012",
+          "2013-01-16"
+        ],
+        [
+          "Andel företag med 10 eller fler anställda som delar information elektroniskt med kunder eller leverantörer efter storleksklass. År 2012",
+          "2013-01-16"
+        ],
+        [
+          "Använder affärssystem (ERP) efter näringsgren SNI 2007. Andel företag. År 2009 - 2014",
+          "2014-12-03"
+        ],
+        [
+          "Använder affärssystem (ERP) efter storleksklass (3 grupper). Andel företag. År 2008 - 2014",
+          "2014-12-03"
+        ],
+        [
+          "Använder CRM-system efter användningsområde och näringsgren SNI 2007. Andel företag. År 2009 - 2014",
+          "2014-12-03"
+        ],
+        [
+          "Använder CRM-system efter användningsområde och storleksklass (3 grupper). Andel företag. År 2008 - 2014",
+          "2014-12-03"
+        ],
+        [
+          "Använder datorer efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder datorer efter näringsgren SNI 2007. Andel företag. År 2009 - 2013",
+          "2013-10-29"
+        ],
+        [
+          "Använder datorer efter storleksklass (3 grupper). Andel företag. År 2008 - 2013",
+          "2013-10-29"
+        ],
+        [
+          "Begränsande eller förhindrande faktorer beträffande webbförsäljning efter typ av begränsning och näringsgren SNI 2007. Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Begränsande eller förhindrande faktorer beträffande webbförsäljning efter typ av begränsning och storleksklass (3 grupper). Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Distansarbete efter näringsgren SNI 2007. Andel företag. År 2009 - 2015",
+          "2015-11-25"
+        ],
+        [
+          "Distansarbete efter storleksklass (3 grupper). Andel företag. År 2009 - 2015",
+          "2015-11-25"
+        ],
+        [
+          "Elektronisk handel efter aktivitet och näringsgren SNI 2007. Andel företag.  År 2011 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Elektronisk handel efter aktivitet och storleksklass (3 grupper). Andel företag.  År 2011 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Har egen personal som arbetar med programvaruutveckling efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Har egen personal som arbetar med programvaruutveckling efter storleksklass (3 grupper). År 2008 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Har hemsida/webbplats efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Har hemsida/webbplats efter storleksklass (3 grupper). Andel företag. År 2008 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Skickar respektive tar emot e-fakturor som kan processas automatiskt av mottagare efter näringsgren SNI 2007 och typ av tjänster. Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Skickar respektive tar emot e-fakturor som kan processas automatiskt av mottagare efter storleksklass (3 grupper) och typ av tjänster. Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Sociala medier efter näringsgren SNI 2007 och typ av användning. Andel företag. År 2013 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Sociala medier efter näringsgren SNI 2007 och ändamål med användning. Andel företag. År 2013 - 2015",
+          "2015-11-25"
+        ],
+        [
+          "Sociala medier efter storleksklass (3 grupper) och typ av användning. Andel företag. År 2013 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Sociala medier efter storleksklass (3 grupper) och ändamål med användning. Andel företag. År 2013 - 2015",
+          "2015-11-25"
+        ],
+        [
+          "Tillgång till Internet efter näringsgren SNI 2007. Andel företag. År 2009 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Tillgång till Internet efter storleksklass (3 grupper). Andel företag. År 2008 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Tillgängliga tjänster på företagens hemsida/webbplats efter näringsgren SNI 2007 och typ av tjänster. Andel företag. År 2013 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Tillgängliga tjänster på företagens hemsida/webbplats efter storleksklass (3 grupper) och typ av tjänster. Andel företag. År 2013 - 2016",
+          "2016-11-24"
+        ],
+        [
+          "Tillhandahåller anställda med bärbara enheter med mobil internetanslutning efter näringsgren SNI 2007. Andel företag. År 2012 - 2013",
+          "2014-01-16"
+        ],
+        [
+          "Tillhandahåller anställda med bärbara enheter med mobil internetanslutning efter storleksklass (3 grupper). Andel företag. År 2012 - 2013",
+          "2014-01-16"
+        ],
+        [
+          "Använder datorer efter storleksklass (6 klasser). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Använder digital signatur efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder digital signatur efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder digital signatur efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (2 typer) och näringsgren SNI 2007. Andel företag. År 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (2 typer) och storleksklass (3 grupper). Andel företag. År 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (4 typer) och näringsgren SNI 2007. Andel företag. År 2009",
+          "2010-01-19"
+        ],
+        [
+          "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt (4 typer) och storleksklass (3 grupper). Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder elektroniskt informationsutbyte avseende lager och leveranser efter typ av affärskontakt och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder olika typer av format vid automatiserat informationsutbyte efter format och näringsgren SNI 2002. Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Använder olika typer av format vid automatiserat informationsutbyte efter format och storleksklass (3 grupper). Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Använder operativsystem med öppen källkod efter näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Använder operativsystem med öppen källkod efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Använder operativsystem med öppen källkod efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Distansarbete efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Distansarbete efter storleksklass (6 grupper). Andel företag. År 2003 - 2006",
+          "2007-01-15"
+        ],
+        [
+          "Elektronisk handel efter aktivitet och näringsgren SNI 2002. Andel företag. År 2008 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Elektronisk handel efter aktivitet och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Elektronisk handel efter aktivitet och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Erbjuder tjänster på hemsidan efter typ av tjänst och näringsgren SNI 2002. Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Erbjuder tjänster på hemsidan efter typ av tjänst och storleksklass (3 grupper). Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Har formell policy för användning av sociala medier efter näringsgren SNI 2007. Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Har formell policy för användning av sociala medier efter storleksklass (3 grupper). Andel företag. År 2013",
+          "2014-01-16"
+        ],
+        [
+          "Har hemsida/webbplats efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Har hemsida/webbplats efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Internethandel efter aktivitet och näringsgren SNI 2002. Andel företag. År 2003 - 2007",
+          "2007-12-17"
+        ],
+        [
+          "Internethandel efter aktivitet och storleksklass (6 grupper). Andel företag. År 2003 - 2007",
+          "2007-12-17"
+        ],
+        [
+          "IT-säkerhet efter typ av säkerhetsanordning och näringsgren SNI 2002. Andel företag. År 2003 - 2006",
+          "2007-01-15"
+        ],
+        [
+          "IT-säkerhet efter typ av säkerhetsanordning och storleksklass (6 grupper). Andel företag. År 2003 - 2006",
+          "2007-01-15"
+        ],
+        [
+          "Kontakter med myndigheter via Internet efter ändamål och näringsgren SNI 2002. Andel företag. År 2005 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Kontakter med myndigheter via Internet efter ändamål och näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Kontakter med myndigheter via Internet efter ändamål och storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Kontakter med myndigheter via Internet efter ändamål och storleksklass (6 grupper). Andel företag. År 2005 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Tillgång till Internet efter näringsgren SNI 2002. Andel företag. År 2003 - 2009",
+          "2009-11-02"
+        ],
+        [
+          "Tillgång till Internet efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Tillgång till intranät, extranät och lokala nätverk efter näringsgren SNI 2002. Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Tillgång till intranät, extranät och lokala nätverk efter näringsgren SNI 2007. Andel företag. År 2009 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Tillgång till intranät, extranät och lokala nätverk efter storleksklass (3 grupper). Andel företag. År 2008 - 2010",
+          "2010-10-22"
+        ],
+        [
+          "Tillgång till intranät, extranät och lokala nätverk efter storleksklass (6 grupper). Andel företag. År 2003 - 2008",
+          "2008-12-03"
+        ],
+        [
+          "Tillgång till personalapplikation för t.ex. semesteransökan, lönebesked etc. efter näringsgren SNI 2002. Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Tillgång till personalapplikation för t.ex. semesteransökan, lönebesked etc. efter storleksklass (3 grupper). Andel företag. År 2008",
+          "2008-12-17"
+        ],
+        [
+          "Uppdatering av IT-säkerhetsanordningar under de senaste tre månaderna efter näringsgren SNI 2002. Andel företag. År 2003 - 2005",
+          "2005-12-20"
+        ],
+        [
+          "Uppdatering av IT-säkerhetsanordningar under de senaste tre månaderna efter storleksklass (6 grupper). Andel företag. År 2003 - 2005",
+          "2005-12-20"
+        ]
+      ]
     },
     {
       "heading_path": [

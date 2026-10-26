@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0106",
     "response_url": "https://www.scb.se/AM0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/",
-    "fetched_at": "2026-10-19T03:38:10.223270Z",
+    "fetched_at": "2026-10-26T03:41:20.885931Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "97d021e0eaaac2ede1f89758160690fa13d94f0bc8dc4ea09b6844b12d44cec2",
+    "content_sha256": "fcd279494fc5ec15c3c467b1548589e95469d73bbbf4cd9fae83dde25a39bec7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -366,18 +366,178 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0106D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0106D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönestrukturstatistik, kommuner",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Sysselsatta inom kommuner efter månadslöneintervall, kön och ålder. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun6g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun6g"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter region, tjänstgöringsomfattning och kön. År 2000 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun13g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun13g"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter verksamhetsområde, anställningsform och kön.  År 2000 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun11g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun11g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom kommuner efter yrke SSYK och kön. År 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PrimKommunal1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PrimKommunal1"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter verksamhetsområde, överenskommen sysselsättningsgrad och kön.  År 2012 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun11gNy",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun11gNy"
+        },
+        {
+          "text": "Sysselsatta inom statlig-, primärkommunal-, kyrkokommunal-, landstings- samt övrig sektor efter sektor och kön. År 1992 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun16g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun16g"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter verksamhetsområde, tjänstgöringsomfattning och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun12g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun12g"
+        },
+        {
+          "text": "Anställda, nyanställda och avgångna inom kommuner efter tjänstgöringsomfattning, ålder och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun15g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun15g"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun7g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun7g"
+        },
+        {
+          "text": "Sysselsatta inom kommuner efter region, verksamhetsområde och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun14g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun14g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom kommuner efter län, yrke SSYK och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun1g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun1g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom kommuner efter region (NUTS2), yrke SSYK och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun4g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun4g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom kommuner efter yrke SSYK, ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun3g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun3g"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m. inom kommuner efter yrke SSYK och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun2g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun2g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom kommuner efter verksamhetsområde, anställningsform och kön. År 2000 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun9g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kommun9g"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Sysselsatta inom kommuner efter månadslöneintervall, kön och ålder. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Sysselsatta inom kommuner efter region, tjänstgöringsomfattning och kön. År 2000 - 2003",
+          "2004-05-14"
+        ],
+        [
+          "Sysselsatta inom kommuner efter verksamhetsområde, anställningsform och kön.  År 2000 - 2011",
+          "2012-05-22"
+        ],
+        [
+          "Genomsnittlig månadslön inom kommuner efter yrke SSYK och kön. År 1999",
+          "2000-10-20"
+        ],
+        [
+          "Sysselsatta inom kommuner efter verksamhetsområde, överenskommen sysselsättningsgrad och kön.  År 2012 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom statlig-, primärkommunal-, kyrkokommunal-, landstings- samt övrig sektor efter sektor och kön. År 1992 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom kommuner efter verksamhetsområde, tjänstgöringsomfattning och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Anställda, nyanställda och avgångna inom kommuner efter tjänstgöringsomfattning, ålder och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom kommuner efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Sysselsatta inom kommuner efter region, verksamhetsområde och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön inom kommuner efter län, yrke SSYK och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom kommuner efter region (NUTS2), yrke SSYK och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom kommuner efter yrke SSYK, ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m. inom kommuner efter yrke SSYK och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön inom kommuner efter verksamhetsområde, anställningsform och kön. År 2000 - 2011",
+          "2012-05-22"
+        ]
+      ]
     },
     {
       "heading_path": [

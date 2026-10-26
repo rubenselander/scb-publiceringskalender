@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0902",
     "response_url": "https://www.scb.se/MI0902",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/",
-    "fetched_at": "2026-10-19T03:40:37.056999Z",
+    "fetched_at": "2026-10-26T03:43:42.219753Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6d82511e0ce9edba71741b47312aa9fc08d2decaf4de2993e603292b453cb810",
+    "content_sha256": "cef7109cd8fd03da6174c4b0c1469763a28ed2c2704a6cc46eec199ed1841ab4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -562,18 +562,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0902B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0902B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Vattenuttag och vattenanvändning i Sverige",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Vattenanvändning efter kommun och användargrupp 1995",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenanvandK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenanvandK"
+        },
+        {
+          "text": "Industrins vattenutsläpp efter region och typ av utsläpp (avgränsad enligt SNI 2007). Uppdateras ej. År 2005 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenUtslappSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenUtslappSNI2007"
+        },
+        {
+          "text": "Industrins vattenutsläpp efter region och typ av utsläpp (avgränsad enligt SNI92 och SNI 2002). Uppdateras ej. År 2000 - 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenutslappInd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VattenutslappInd"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Vattenanvändning efter kommun och användargrupp 1995",
+          "2000-06-29"
+        ],
+        [
+          "Industrins vattenutsläpp efter region och typ av utsläpp (avgränsad enligt SNI 2007). Uppdateras ej. År 2005 - 2010",
+          "2011-11-08"
+        ],
+        [
+          "Industrins vattenutsläpp efter region och typ av utsläpp (avgränsad enligt SNI92 och SNI 2002). Uppdateras ej. År 2000 - 2005",
+          "2007-02-27"
+        ]
+      ]
     },
     {
       "heading_path": [

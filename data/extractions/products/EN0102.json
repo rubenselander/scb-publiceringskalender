@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0102",
     "response_url": "https://www.scb.se/EN0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus/",
-    "fetched_at": "2026-10-19T03:38:33.382572Z",
+    "fetched_at": "2026-10-26T03:41:44.320879Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b68ec9fc9c0729c758623c422c129206c26cbaadaac17e15e3250bfe01e56318",
+    "content_sha256": "9502039720a202008aa7935f81d8f834f4336c362c11d2601105d7842ada62ae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0102",
   "summary": "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i permanentbebodda småhus.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2027-06-10",
+  "next_publication_date": "2027-06-10",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2027-06-10",
         "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i permanentbebodda småhus."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2027-06-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0102&period=Forward1Year"
         }

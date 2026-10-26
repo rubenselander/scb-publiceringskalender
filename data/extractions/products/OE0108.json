@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0108",
     "response_url": "https://www.scb.se/OE0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/offentligt-agda-foretag/",
-    "fetched_at": "2026-10-19T03:41:13.636725Z",
+    "fetched_at": "2026-10-26T03:44:15.693511Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "aaf6b5dd92a662c1ac430d91aba2d42cae7fe3421ed23873b466ac6075a6a950",
+    "content_sha256": "5daa20cf66ed35d7ea4d486dcde2a20c4edeb2ead74cebadc3441647707afc8c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -366,18 +366,88 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0108K",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0108K"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Offentligt ägda företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kommunägda företag samt ekonomiska mått efter bransch. År 1994 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomFtg"
+        },
+        {
+          "text": "Offentligt ägda företag samt ekonomiska mått efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffEkoMott",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffEkoMott"
+        },
+        {
+          "text": "Resultaträkning för offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffResult",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffResult"
+        },
+        {
+          "text": "Skulder och eget kapital i offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffSkulder",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffSkulder"
+        },
+        {
+          "text": "Tillgångar i offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffTillg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OffTillg"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Kommunägda företag samt ekonomiska mått efter bransch. År 1994 - 2007",
+          "2008-12-01"
+        ],
+        [
+          "Offentligt ägda företag samt ekonomiska mått efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "2024-04-22"
+        ],
+        [
+          "Resultaträkning för offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "2015-12-03"
+        ],
+        [
+          "Skulder och eget kapital i offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "2015-12-03"
+        ],
+        [
+          "Tillgångar i offentligt ägda företag efter ägarkategori och näringsgren SNI 2007. År 2008 - 2014",
+          "2015-12-03"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0815",
     "response_url": "https://www.scb.se/MI0815",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/",
-    "fetched_at": "2026-10-19T03:40:36.161399Z",
+    "fetched_at": "2026-10-26T03:43:41.319431Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3cbc17921d5aa69f3015db9315a896b8d9daf61fb09cffa687f612fc2725f90a",
+    "content_sha256": "9edae7231c0801293d9f76216ca7cf3bcb45a7a0d2621544e32a071b07af62a9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -294,18 +294,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0815B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0815B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Verksamhetsområden och handelsområden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Befolkningens avstånd till handelsområden efter region. Vart femte år 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0804T04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0804T04"
+        },
+        {
+          "text": "Uppdateras ej: Handelsområden (anställda, arbetsställen, areal) 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Handelsomraden",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Handelsomraden"
+        },
+        {
+          "text": "Arbetsplatsområden utanför tätort (förvärvsarbetande, arbetsställen och areal). Uppdateras ej. Vart femte år 2005 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Arbetsplatsomraden",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Arbetsplatsomraden"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Befolkningens avstånd till handelsområden efter region. Vart femte år 2015",
+          "2023-12-19"
+        ],
+        [
+          "Uppdateras ej: Handelsområden (anställda, arbetsställen, areal) 2010",
+          "2011-02-23"
+        ],
+        [
+          "Arbetsplatsområden utanför tätort (förvärvsarbetande, arbetsställen och areal). Uppdateras ej. Vart femte år 2005 - 2010",
+          "2013-10-25"
+        ]
+      ]
     },
     {
       "heading_path": [

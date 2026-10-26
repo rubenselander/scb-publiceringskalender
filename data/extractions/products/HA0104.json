@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0104",
     "response_url": "https://www.scb.se/HA0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/",
-    "fetched_at": "2026-10-19T03:38:59.366976Z",
+    "fetched_at": "2026-10-26T03:42:08.753075Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d730179f317cd740c55ec22e1c4b3eaed95a51e231ad06355c4555dda3073161",
+    "content_sha256": "40ef6237b3e97029ceb0775b45c430aef56f96568f9e0490877fc49fa1e9e14a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -156,14 +156,12 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej (SNI 2007)"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej (SNI 2007)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
@@ -182,18 +180,115 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej (SNI 2002)"
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2010=100, efter näringsgren SNI 2007. År 2000 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjAr07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjAr07"
+        },
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2010=100, efter näringsgren SNI 2007. Kvartal 2000K1 - 2017K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjK07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjK07"
+        }
       ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2010=100, efter näringsgren SNI 2007. År 2000 - 2016",
+          "2017-05-05"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2010=100, efter näringsgren SNI 2007. Kvartal 2000K1 - 2017K2",
+          "2017-09-06"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej (SNI 2002)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0104C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. År 2005 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjAr"
+        },
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. Kvartal 2005K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjK"
+        },
+        {
+          "text": "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. Månad 2005M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. År 2005 - 2008",
+          "2009-02-17"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. Kvartal 2005K1 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Tjänsteproduktionsindex (TjPI), 2005=100, efter näringsgren SNI 2002. Månad 2005M01 - 2008M12",
+          "2009-02-17"
+        ]
+      ]
     },
     {
       "heading_path": [

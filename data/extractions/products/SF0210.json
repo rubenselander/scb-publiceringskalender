@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0210",
     "response_url": "https://www.scb.se/SF0210",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/bilstod/",
-    "fetched_at": "2026-10-19T03:41:46.852004Z",
+    "fetched_at": "2026-10-26T03:44:50.674413Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "26fba4726c8e53587631ffbfb0105b7085006e5c91faca7aa6d5b97688e97e6f",
+    "content_sha256": "1ea4789fb3f30582966674492dcda39069c7b3b5d4de6cf55ccad8a862ddeb19",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0210",
   "summary": "Statistiken visar antal personer med beviljat bilstöd fördelat på ålder och bidragsgrupp.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-18",
+  "next_publication_date": "2027-01-18",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-18",
         "Statistiken visar antal personer med beviljat bilstöd fördelat på ålder och bidragsgrupp."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0210&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0210&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

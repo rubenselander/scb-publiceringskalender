@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0501",
     "response_url": "https://www.scb.se/AM0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/",
-    "fetched_at": "2026-10-19T03:38:19.158093Z",
+    "fetched_at": "2026-10-26T03:41:29.861751Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5ebe501e3f65c63e638b0bf236bc97f52b16167ac1f8b617a8822f8dbcd3632f",
+    "content_sha256": "1f8501d9ed5191ff38dc3644a040b25c15ec0cae39067a1e215caaf7030a10a6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -237,18 +237,214 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0501B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0501B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsmiljöundersökningen",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och näringsgren SNI 2007. År 2009 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSNI2007"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och sektor. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsmiljoSektor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsmiljoSektor"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren SNI 2007.  År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNSNI2007"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och utbildning. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoUtbild",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoUtbild"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och ålder. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoAlder",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoAlder"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och inkomst. År 2015 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoInkomst",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoInkomst"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke SSYK2012. År 2017 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk3"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke och kön. År 2019-2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk3Kon",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk3Kon"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren och kön. År 2019-2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNSNI2007Kon",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNSNI2007Kon"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och anställningsform. År 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoAnstalld",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoAnstalld"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och graden av arbete hemifrån. År 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoHemarb",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoHemarb"
+        },
+        {
+          "text": "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och näringsgren SNI 2002 (SNI92). År 1997 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSNI"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter näringsgren SNI 2007. År 2009 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSNI2007"
+        },
+        {
+          "text": "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och yrke SSYK. År 1997 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssYrk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssYrk"
+        },
+        {
+          "text": "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och socioekonomisk indelning SEI. År 1997 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSEI2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSyssSEI2"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter yrke SSYK.  År 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNYrk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoNYrk"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke SSYK. År 1997 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoYrk2"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren SNI 2002 (SNI92). År 1997 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSNI2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSNI2"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön, ålder och socioekonomisk indelning SEI. År 1997 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSEI2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbmiljoSEI2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och näringsgren SNI 2007. År 2009 - 2011",
+          "2012-08-14"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och sektor. År 2015 - 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren SNI 2007.  År 2015 - 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och utbildning. År 2015 - 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och ålder. År 2015 - 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och inkomst. År 2015 - 2021",
+          "2023-03-17"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke SSYK2012. År 2017 - 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke och kön. År 2019-2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren och kön. År 2019-2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och anställningsform. År 2021",
+          "2022-12-07"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön och graden av arbete hemifrån. År 2021",
+          "2022-12-07"
+        ],
+        [
+          "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och näringsgren SNI 2002 (SNI92). År 1997 - 2007",
+          "2008-06-23"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter näringsgren SNI 2007. År 2009 - 2015",
+          "2016-12-22"
+        ],
+        [
+          "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och yrke SSYK. År 1997 - 2011",
+          "2012-08-14"
+        ],
+        [
+          "Antal sysselsatta enligt arbetsmiljöundersökningen efter kön och socioekonomisk indelning SEI. År 1997 - 2011",
+          "2012-08-14"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter yrke SSYK.  År 2015",
+          "2017-09-04"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för ett urval arbetsmiljöfrågor efter yrke SSYK. År 1997 - 2015",
+          "2017-02-06"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter näringsgren SNI 2002 (SNI92). År 1997 - 2007",
+          "2017-09-04"
+        ],
+        [
+          "Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön, ålder och socioekonomisk indelning SEI. År 1997 - 2013",
+          "2014-08-28"
+        ]
+      ]
     },
     {
       "heading_path": [

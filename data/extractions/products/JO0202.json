@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0202",
     "response_url": "https://www.scb.se/JO0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbruksekonomiska-undersokningen/",
-    "fetched_at": "2026-10-19T03:39:28.893780Z",
+    "fetched_at": "2026-10-26T03:42:36.520947Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6dd7c50ba4bdf1a9b28fb0e2a4bc412c9fafbc2e660c287b7bd45389a17caccd",
+    "content_sha256": "1ea0efdbcb8eb1de19efc537de77bfb8bc737f8fd6da44682e24bf8c89154158",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -213,18 +213,124 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JO0202A",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JO0202A"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Jordbruksekonomiska undersökningen",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Intäkter och kostnader i jord- och skogsbruket efter typgrupp/storleksklass och intäkts-/kostnadsslag. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IntakterKostnader",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IntakterKostnader"
+        },
+        {
+          "text": "Balansräkning för jord- och skogsbruk efter typgrupp/storleksklass och typ av tillgång/skuld. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Balanser",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Balanser"
+        },
+        {
+          "text": "Investeringar i jord- och skogsbruket efter typgrupp/storleksklass och investeringsposter. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Investeringar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Investeringar"
+        },
+        {
+          "text": "Kalkylerade nuvärden i jord- och skogsbruket efter typgrupp/storleksklass och värdeposter. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nuvarden",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nuvarden"
+        },
+        {
+          "text": "Kontantöverskott i jord- och skogsbruk efter typgrupp/storleksklass och delkomponenter. År 1997 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KontantoverskottJEU",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KontantoverskottJEU"
+        },
+        {
+          "text": "Direktstöd till jordbruket efter typgrupp/storleksklass och stödtyp. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Direktstod",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Direktstod"
+        },
+        {
+          "text": "Arbetsförbrukning efter typgrupp/storleksklass och personalkategori. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsforbrukningA",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsforbrukningA"
+        },
+        {
+          "text": "Arbetsförbrukning efter typgrupp/storleksklass, arbetsslag och personalkategori. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsforbrukningC",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbetsforbrukningC"
+        },
+        {
+          "text": "Skördeavkastning efter typgrupp/storleksklass och gröda. År 1996 - 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skordeavkastning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Skordeavkastning"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Intäkter och kostnader i jord- och skogsbruket efter typgrupp/storleksklass och intäkts-/kostnadsslag. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Balansräkning för jord- och skogsbruk efter typgrupp/storleksklass och typ av tillgång/skuld. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Investeringar i jord- och skogsbruket efter typgrupp/storleksklass och investeringsposter. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Kalkylerade nuvärden i jord- och skogsbruket efter typgrupp/storleksklass och värdeposter. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Kontantöverskott i jord- och skogsbruk efter typgrupp/storleksklass och delkomponenter. År 1997 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Direktstöd till jordbruket efter typgrupp/storleksklass och stödtyp. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Arbetsförbrukning efter typgrupp/storleksklass och personalkategori. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Arbetsförbrukning efter typgrupp/storleksklass, arbetsslag och personalkategori. År 1996 - 2001",
+          "2005-01-19"
+        ],
+        [
+          "Skördeavkastning efter typgrupp/storleksklass och gröda. År 1996 - 2001",
+          "2005-01-19"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0502",
     "response_url": "https://www.scb.se/PR0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/",
-    "fetched_at": "2026-10-19T03:41:25.398115Z",
+    "fetched_at": "2026-10-26T03:44:27.183857Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dbcf7329a43f08e5843d39fb5197f772927ea7b615a417a8e9334a10bc572733",
+    "content_sha256": "a326b6bbb834a3eb84d3839f7666f034a4fba81282c9044fc65a01e20e093635",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -394,18 +394,88 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som ej uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som ej uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0502X",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0502X"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Byggkostnadsindex (BKI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2015=100, efter kostnadsslag (Eurostat) (uppdateras ej). Kvartal 1990K1 - 2023K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIEUKvNy",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIEUKvNy"
+        },
+        {
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). Kvartal 2004K1 - 2015K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg04Kv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg04Kv"
+        },
+        {
+          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). Månad 2004M01 - 2015M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM2004",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM2004"
+        },
+        {
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). År 2004 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg04Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg04Ar"
+        },
+        {
+          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). År 2004 - 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBO04Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBO04Ar"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2015=100, efter kostnadsslag (Eurostat) (uppdateras ej). Kvartal 1990K1 - 2023K4",
+          "2024-02-15"
+        ],
+        [
+          "Byggkostnadsindex för bostäder inkl. löneglidning, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). Kvartal 2004K1 - 2015K4",
+          "2016-02-15"
+        ],
+        [
+          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). Månad 2004M01 - 2015M12",
+          "2016-01-15"
+        ],
+        [
+          "Byggkostnadsindex för bostäder inkl. löneglidning, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). År 2004 - 2015",
+          "2016-02-15"
+        ],
+        [
+          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2004=100, efter hustyp och kostnadsslag (uppdateras ej). År 2004 - 2015",
+          "2016-01-15"
+        ]
+      ]
     },
     {
       "heading_path": [

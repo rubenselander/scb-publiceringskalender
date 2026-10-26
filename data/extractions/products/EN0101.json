@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0101",
     "response_url": "https://www.scb.se/EN0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-flerbostadshus/",
-    "fetched_at": "2026-10-19T03:38:32.863113Z",
+    "fetched_at": "2026-10-26T03:41:43.681748Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "feccc647cff6e48f34e6607306b422f4dac1036849130b4090e0a4ce35ecc14f",
+    "content_sha256": "4cb197dc27c4bfdd5d8788c51f8ae0473353b17d3b74c8a68ca5f77961a9a0ca",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0101",
   "summary": "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i flerbostadshus.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-10",
+  "next_publication_date": "2027-06-10",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-10",
         "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i flerbostadshus."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0101&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

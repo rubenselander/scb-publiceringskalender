@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0108",
     "response_url": "https://www.scb.se/LE0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/",
-    "fetched_at": "2026-10-19T03:40:06.277815Z",
+    "fetched_at": "2026-10-26T03:43:13.742438Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0c91e2e4919b581feb3fbc777d5a5428437ddf532576243051fffde4ab819f5e",
+    "content_sha256": "77c13c81bda4b07fd520d05688f863eef369cc8694e6f4f7ecff5f417a414f54",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -1239,18 +1239,628 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108O",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108O"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Befolkningens it-användning (BITA)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Användning av internet efter användningsområde, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T16"
+        },
+        {
+          "text": "Genomsnittlig användning av internet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T13"
+        },
+        {
+          "text": "Ordnat semesterboende av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T17"
+        },
+        {
+          "text": "Aktiviteter på arbetet som utförs minst en gång i veckan efter kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T33",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T33"
+        },
+        {
+          "text": "Senast användning av internet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T12"
+        },
+        {
+          "text": "Tillgång till internet i hemmet efter typ av uppkoppling, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T11"
+        },
+        {
+          "text": "Anledning till att inte ha tillgång till internet i hemmet efter kön och redovisningsgrupp. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T41",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T41"
+        },
+        {
+          "text": "Ordnat biltransport av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T18"
+        },
+        {
+          "text": "Tillgång till internet i hemmet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T10"
+        },
+        {
+          "text": "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27N"
+        },
+        {
+          "text": "Skaffat betalt arbete av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T19"
+        },
+        {
+          "text": "Anledning till att inte ha lämnat uppgifter via någon myndighets webbplats eller app efter kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T21",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T21"
+        },
+        {
+          "text": "Anledning till att inte använda internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T53",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T53"
+        },
+        {
+          "text": "Anledning till att man inte beställt/köpt varor/tjänster via internet. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T45",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T45"
+        },
+        {
+          "text": "Hanterat och skyddat personuppgifter på internet efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T51",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T51"
+        },
+        {
+          "text": "Användning av datorer och internet på arbetsplatsen efter typ av utrustning, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T31",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T31"
+        },
+        {
+          "text": "Hyrt semesterboende via internet för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T50",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T50"
+        },
+        {
+          "text": "Aktiviteter relaterade till datorer, mobila enheter och programvara. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T42",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T42"
+        },
+        {
+          "text": "Säkerhet och förtroende vid användning av internet efter kön och redovisningsgrupp.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T29N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T29N"
+        },
+        {
+          "text": "Användning av myndigheters webbsidor eller appar efter användningsområde, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T20"
+        },
+        {
+          "text": "Användning av internet på enheter/system hemma efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T54",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T54"
+        },
+        {
+          "text": "Användning av internet och datoriserad utrustning vid arbete hemifrån/på extern plats efter kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T38",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T38"
+        },
+        {
+          "text": "Användning av mobiltelefon och dess appar efter kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T30",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T30"
+        },
+        {
+          "text": "Arbetat hemifrån efter genomsnittligt antal gånger, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T37",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T37"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter antal gånger, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T25",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T25"
+        },
+        {
+          "text": "Användning av internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T52",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T52"
+        },
+        {
+          "text": "Arbetat på extern plats genomsnittligt antal gånger efter kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T32",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T32"
+        },
+        {
+          "text": "Begränsat eller låtit bli att utföra olika aktiviteter på internet av säkerhetsskäl. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T47",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T47"
+        },
+        {
+          "text": "Erfarenheter av nyinförd programvara eller it-utrustning i arbetet efter kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T34",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T34"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24N"
+        },
+        {
+          "text": "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T27"
+        },
+        {
+          "text": "Förändring av arbete pga. användning av datoriserad utrustning efter tendens, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T36",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T36"
+        },
+        {
+          "text": "Hur ofta använder personer i åldern 16-74 år Internet.  År 2003 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T03"
+        },
+        {
+          "text": "Utbildningsaktiviteter på internet efter typ av bekostnad, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T39",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T39"
+        },
+        {
+          "text": "Hur ofta använder personer i åldern 16-74 år Internet. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T03OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T03OLD"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter tidsperiod, kön och redovisningsgrupp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T22",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T22"
+        },
+        {
+          "text": "Hur ofta använder personer i åldern 16-74 år persondatorer.  År 2003 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T01"
+        },
+        {
+          "text": "Hur ofta använder personer i åldern 16-74 år persondatorer. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T01OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T01OLD"
+        },
+        {
+          "text": "It-kompetens på arbetsplatsen efter behov, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T35",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T35"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23N"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T23"
+        },
+        {
+          "text": "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T24"
+        },
+        {
+          "text": "Legitimering vid användning av internet efter legitimeringssätt, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T28",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T28"
+        },
+        {
+          "text": "Nedladdade eller streamade produkter man köpt/beställt via internet. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43"
+        },
+        {
+          "text": "Köpte transporttjänst via internet för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T49",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T49"
+        },
+        {
+          "text": "Problem som uppstått när man köpt/beställt varor/tjänster via internet. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T44",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T44"
+        },
+        {
+          "text": "Säkerhet och förtroende vid användning av internet efter kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T29",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T29"
+        },
+        {
+          "text": "Nedladdade eller streamade produkter man köpt/beställt via internet.  År 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T43N"
+        },
+        {
+          "text": "Säkerhetskopiering av filer på extern lagringsenhet eller till molntjänst för privata ändamål. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T48",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T48"
+        },
+        {
+          "text": "Säkerhetsrelaterade problem vid användning av internet. År 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T46",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T46"
+        },
+        {
+          "text": "Tillgång till internet efter typ av utrustning, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T14"
+        },
+        {
+          "text": "Tillgång till internet utanför hemmet och arbetet efter typ av utrustning, kön och redovisningsgrupp. År 2018 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T15"
+        },
+        {
+          "text": "Tillgång till IT-utrustning och Internet i hemmet för personer i åldern 16-74 år.  År 2003 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T08"
+        },
+        {
+          "text": "Tillgång till IT-utrustning och Internet i hemmet för personer i åldern 16-74 år. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T08OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T08OLD"
+        },
+        {
+          "text": "Tillgång till mobilt Internet i och utanför hemmet för personer i åldern 16-74 år.  År 2006 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T09"
+        },
+        {
+          "text": "Tillgång till mobilt Internet i och utanför hemmet för personer i åldern 16-74 år. År 2006 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T09OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T09OLD"
+        },
+        {
+          "text": "Utbildningsaktiviteter efter typ av it-område, kön och redovisningsgrupp. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T40",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T40"
+        },
+        {
+          "text": "Vad gör personer i åldern 16-74 år på Internet.  År 2003 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T05",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T05"
+        },
+        {
+          "text": "Vad gör personer i åldern 16-74 år på Internet. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T05OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T05OLD"
+        },
+        {
+          "text": "Vad gör personer i åldern 16-74 år vid kontakt med myndigheter via Internet.  År 2008 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T07"
+        },
+        {
+          "text": "Vad gör personer i åldern 16-74 år vid kontakt med myndigheter via Internet. År 2008 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T07OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T07OLD"
+        },
+        {
+          "text": "Vad köper eller beställer personer i åldern 16-74 år på Internet.  År 2003 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T06"
+        },
+        {
+          "text": "Vad köper eller beställer personer i åldern 16-74 år på Internet. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T06OLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T06OLD"
+        },
+        {
+          "text": "Var använder personer i åldern 16-74 år Internet. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T04",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T04"
+        },
+        {
+          "text": "Var använder personer i åldern 16-74 år persondatorer. År 2003 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0108T02"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Användning av internet efter användningsområde, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Genomsnittlig användning av internet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Ordnat semesterboende av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Aktiviteter på arbetet som utförs minst en gång i veckan efter kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Senast användning av internet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Tillgång till internet i hemmet efter typ av uppkoppling, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Anledning till att inte ha tillgång till internet i hemmet efter kön och redovisningsgrupp. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Ordnat biltransport av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Tillgång till internet i hemmet efter kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp.  År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Skaffat betalt arbete av privatpersoner via webbplatser eller appar efter kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Anledning till att inte ha lämnat uppgifter via någon myndighets webbplats eller app efter kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Anledning till att inte använda internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Anledning till att man inte beställt/köpt varor/tjänster via internet. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Hanterat och skyddat personuppgifter på internet efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Användning av datorer och internet på arbetsplatsen efter typ av utrustning, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Hyrt semesterboende via internet för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Aktiviteter relaterade till datorer, mobila enheter och programvara. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Säkerhet och förtroende vid användning av internet efter kön och redovisningsgrupp.  År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Användning av myndigheters webbsidor eller appar efter användningsområde, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Användning av internet på enheter/system hemma efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Användning av internet och datoriserad utrustning vid arbete hemifrån/på extern plats efter kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Användning av mobiltelefon och dess appar efter kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Arbetat hemifrån efter genomsnittligt antal gånger, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter antal gånger, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Användning av internetanslutna enheter eller system för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Arbetat på extern plats genomsnittligt antal gånger efter kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Begränsat eller låtit bli att utföra olika aktiviteter på internet av säkerhetsskäl. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Erfarenheter av nyinförd programvara eller it-utrustning i arbetet efter kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp.  År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Finansiella aktiviteter via internet efter aktivitet, kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Förändring av arbete pga. användning av datoriserad utrustning efter tendens, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Hur ofta använder personer i åldern 16-74 år Internet.  År 2003 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Utbildningsaktiviteter på internet efter typ av bekostnad, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Hur ofta använder personer i åldern 16-74 år Internet. År 2003 - 2011",
+          "2011-12-20"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter tidsperiod, kön och redovisningsgrupp. År 2018 - 2020",
+          "2020-11-18"
+        ],
+        [
+          "Hur ofta använder personer i åldern 16-74 år persondatorer.  År 2003 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Hur ofta använder personer i åldern 16-74 år persondatorer. År 2003 - 2011",
+          "2011-12-20"
+        ],
+        [
+          "It-kompetens på arbetsplatsen efter behov, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp.  År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter typ av vara/tjänst, kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Köpt/beställt varor/tjänster via internet efter geografiskt område, kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Legitimering vid användning av internet efter legitimeringssätt, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Nedladdade eller streamade produkter man köpt/beställt via internet. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Köpte transporttjänst via internet för privat bruk efter kön och redovisningsgrupp. År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Problem som uppstått när man köpt/beställt varor/tjänster via internet. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Säkerhet och förtroende vid användning av internet efter kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Nedladdade eller streamade produkter man köpt/beställt via internet.  År 2020",
+          "2020-11-18"
+        ],
+        [
+          "Säkerhetskopiering av filer på extern lagringsenhet eller till molntjänst för privata ändamål. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Säkerhetsrelaterade problem vid användning av internet. År 2019",
+          "2019-11-22"
+        ],
+        [
+          "Tillgång till internet efter typ av utrustning, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Tillgång till internet utanför hemmet och arbetet efter typ av utrustning, kön och redovisningsgrupp. År 2018 - 2019",
+          "2019-11-22"
+        ],
+        [
+          "Tillgång till IT-utrustning och Internet i hemmet för personer i åldern 16-74 år.  År 2003 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Tillgång till IT-utrustning och Internet i hemmet för personer i åldern 16-74 år. År 2003 - 2011",
+          "2011-10-26"
+        ],
+        [
+          "Tillgång till mobilt Internet i och utanför hemmet för personer i åldern 16-74 år.  År 2006 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Tillgång till mobilt Internet i och utanför hemmet för personer i åldern 16-74 år. År 2006 - 2011",
+          "2011-10-26"
+        ],
+        [
+          "Utbildningsaktiviteter efter typ av it-område, kön och redovisningsgrupp. År 2018",
+          "2018-11-28"
+        ],
+        [
+          "Vad gör personer i åldern 16-74 år på Internet.  År 2003 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Vad gör personer i åldern 16-74 år på Internet. År 2003 - 2011",
+          "2012-01-17"
+        ],
+        [
+          "Vad gör personer i åldern 16-74 år vid kontakt med myndigheter via Internet.  År 2008 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Vad gör personer i åldern 16-74 år vid kontakt med myndigheter via Internet. År 2008 - 2011",
+          "2011-10-26"
+        ],
+        [
+          "Vad köper eller beställer personer i åldern 16-74 år på Internet.  År 2003 - 2017",
+          "2017-12-01"
+        ],
+        [
+          "Vad köper eller beställer personer i åldern 16-74 år på Internet. År 2003 - 2011",
+          "2011-10-26"
+        ],
+        [
+          "Var använder personer i åldern 16-74 år Internet. År 2003 - 2011",
+          "2011-10-26"
+        ],
+        [
+          "Var använder personer i åldern 16-74 år persondatorer. År 2003 - 2011",
+          "2011-10-26"
+        ]
+      ]
     },
     {
       "heading_path": [

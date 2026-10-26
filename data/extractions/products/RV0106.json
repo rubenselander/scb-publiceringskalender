@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0106",
     "response_url": "https://www.scb.se/RV0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/handlagda-brottsmisstankar/",
-    "fetched_at": "2026-10-19T03:41:29.810093Z",
+    "fetched_at": "2026-10-26T03:44:32.220119Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ff32c082f64dd97d3e83ab5827e88056324ec09c58b382b5fa83cbce76f14219",
+    "content_sha256": "a3bde91eacd30e659c49ba09e1e847b6c9cf1872f73e96a1ce4e7d5c397da82d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0106",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-29",
+  "next_publication_date": "2027-04-29",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,9 +43,15 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad"
+        "Nästa publicering: 2027-04-29"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0106&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0106&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

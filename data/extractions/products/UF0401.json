@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0401",
     "response_url": "https://www.scb.se/UF0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/utbetalning-av-studiestod/",
-    "fetched_at": "2026-10-19T03:42:43.455701Z",
+    "fetched_at": "2026-10-26T03:45:46.707222Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "18dcd94e679e18e695aeeb68c8f12a97a23c9d6e770e7e7b084272e09cacd143",
+    "content_sha256": "2cab1ef07ab7f791ba49cade7399e192e07d5f2afbc2949b207930ab77bae87a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0401",
   "summary": "Statistik om utbetalning av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Här finns uppgifter för många år tillbaka, vissa ända från 2001. Äldre statistik (från 1965) finns i pdf-format.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-03",
+  "next_publication_date": "2027-02-03",
   "responsible_agency": {
     "label": "Centrala studiestödsnämnden (CSN)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-03",
         "Statistik om utbetalning av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Här finns uppgifter för många år tillbaka, vissa ända från 2001. Äldre statistik (från 1965) finns i pdf-format."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-03",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0401&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

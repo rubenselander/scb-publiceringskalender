@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0103",
     "response_url": "https://www.scb.se/AM0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/",
-    "fetched_at": "2026-10-19T03:38:08.821272Z",
+    "fetched_at": "2026-10-26T03:41:19.390560Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "194c9d1326e119b1aad82d78537bd7b29aecd886cf4e9c76e1b8a15b8fc00edd",
+    "content_sha256": "a53fcaf30c38d408355bc711ca355bb58579165f722b903ede60d4d72c3c81df",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -581,18 +581,178 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Arbetare: Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Arbetare: Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0103E",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0103E"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönestrukturstatistik, privat sektor (SLP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter region, yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1a"
+        },
+        {
+          "text": "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2a"
+        },
+        {
+          "text": "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter yrkesgrupp (SSYK), ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3a"
+        },
+        {
+          "text": "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter utbildningsinriktning (SUN96) och kön. År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP7a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP7a"
+        },
+        {
+          "text": "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter näringsgren SNI 2002, utbildningsnivå (SUN96) och kön. År 2000 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8a"
+        },
+        {
+          "text": "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2aSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2aSSYK4"
+        },
+        {
+          "text": "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter näringsgren SNI92, utbildningsnivå SUN 2000 och kön. År 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8a2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8a2"
+        },
+        {
+          "text": "Genomsnittlig timlön, arbetare, privat sektor (SLP), uppdelad på löneelement efter näringsgren SNI 2002, arbetstidsart och kön. År 2000 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9a"
+        },
+        {
+          "text": "Genomsnittlig timlön och konfidensintervall, arbetare privat sektor (SLP) efter näringsgren SNI 2002, arbetstidsart och kön. År 2000 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9aKI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9aKI"
+        },
+        {
+          "text": "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter region, yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1aSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1aSSYK4"
+        },
+        {
+          "text": "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter yrke (4-siffrig SSYK), ålder och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3aSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3aSSYK4"
+        },
+        {
+          "text": "Genomsnittlig timlön (inkl förändringstal från 2000), arbetare privat sektor (SLP) efter näringsgren och kön. År 1992 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP10a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP10a"
+        },
+        {
+          "text": "Anställda arbetare inom privat sektor (SLP) efter timlöneintervall (total timlön), ålder och kön. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP5a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP5a"
+        },
+        {
+          "text": "Anställda arbetare inom privat sektor (SLP) efter timlöneintervall (total timlön), yrkesområde (SSYK) och kön. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP6a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP6a"
+        },
+        {
+          "text": "Anställda arbetare inom privat sektor (SLP) efter yrke SSYK och kön. År 1996 - 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLPtabell2a",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLPtabell2a"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter region, yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter yrkesgrupp (SSYK), ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter utbildningsinriktning (SUN96) och kön. År 2000",
+          "2001-08-20"
+        ],
+        [
+          "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter näringsgren SNI 2002, utbildningsnivå (SUN96) och kön. År 2000 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön, lönespridning m.m., arbetare privat sektor (SLP) efter näringsgren SNI92, utbildningsnivå SUN 2000 och kön. År 2001",
+          "2002-05-30"
+        ],
+        [
+          "Genomsnittlig timlön, arbetare, privat sektor (SLP), uppdelad på löneelement efter näringsgren SNI 2002, arbetstidsart och kön. År 2000 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Genomsnittlig timlön och konfidensintervall, arbetare privat sektor (SLP) efter näringsgren SNI 2002, arbetstidsart och kön. År 2000 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter region, yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön, arbetare  privat sektor (SLP) efter yrke (4-siffrig SSYK), ålder och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig timlön (inkl förändringstal från 2000), arbetare privat sektor (SLP) efter näringsgren och kön. År 1992 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Anställda arbetare inom privat sektor (SLP) efter timlöneintervall (total timlön), ålder och kön. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Anställda arbetare inom privat sektor (SLP) efter timlöneintervall (total timlön), yrkesområde (SSYK) och kön. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Anställda arbetare inom privat sektor (SLP) efter yrke SSYK och kön. År 1996 - 1999",
+          "2001-04-02"
+        ]
+      ]
     },
     {
       "heading_path": [
@@ -850,18 +1010,178 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Tjänstemän: Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Tjänstemän: Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0103J",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0103J"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönestrukturstatistik, privat sektor (SLP)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter region, yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m., tjänstemän inom privat sektor (SLP) efter yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter yrkesgrupp (SSYK), ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m., tjänstemän inom privat sektor (SLP) efter yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2tSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP2tSSYK4"
+        },
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter region, yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1tSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP1tSSYK4"
+        },
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter yrke (4-siffrig SSYK), ålder och kön. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3tSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP3tSSYK4"
+        },
+        {
+          "text": "Anställda tjänstemän inom privat sektor (SLP) efter månadslöneintervall (total månadslön), yrkesområde (SSYK) och kön. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP6t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP6t"
+        },
+        {
+          "text": "Anställda tjänstemän inom privat sektor (SLP) efter månadslöneintervall (total månadslön), ålder och kön. År 2000 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP5t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP5t"
+        },
+        {
+          "text": "Anställda tjänstemän inom privat sektor (SLP) efter yrke SSYK och kön. År 1996 - 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLPtabell2t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLPtabell2t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter näringsgren SNI 2002, utbildningsnivå (SUN96) och kön. År 2000 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter näringsgren, utbildningsnivå SUN 2000 och kön. År 2001",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8t2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP8t2"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter utbildningsinriktning (SUN96) och kön. År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP7t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP7t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter näringsgren SNI 2002, anställningsform, yrkesområden (SSYK) och kön. År 2000 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9t"
+        },
+        {
+          "text": "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter näringsgren SNI 2007, anställningsform, yrkesområden (SSYK) och kön. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9t07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP9t07"
+        },
+        {
+          "text": "Genomsnittlig total månadslön (inkl förändringstal från 2000), heltidsanställda tjänstemän privat sektor (SLP) efter näringsgren  och kön. År 1993 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP10t",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SLP10t"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter region, yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m., tjänstemän inom privat sektor (SLP) efter yrkesgrupp (SSYK) och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter yrkesgrupp (SSYK), ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m., tjänstemän inom privat sektor (SLP) efter yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter region, yrke (4-siffrig SSYK) och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter yrke (4-siffrig SSYK), ålder och kön. År 2007 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Anställda tjänstemän inom privat sektor (SLP) efter månadslöneintervall (total månadslön), yrkesområde (SSYK) och kön. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Anställda tjänstemän inom privat sektor (SLP) efter månadslöneintervall (total månadslön), ålder och kön. År 2000 - 2011",
+          "2013-05-21"
+        ],
+        [
+          "Anställda tjänstemän inom privat sektor (SLP) efter yrke SSYK och kön. År 1996 - 1999",
+          "2001-04-02"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter näringsgren SNI 2002, utbildningsnivå (SUN96) och kön. År 2000 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter näringsgren, utbildningsnivå SUN 2000 och kön. År 2001",
+          "2002-05-30"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m., tjänstemän privat sektor (SLP) efter utbildningsinriktning (SUN96) och kön. År 2000",
+          "2001-08-20"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter näringsgren SNI 2002, anställningsform, yrkesområden (SSYK) och kön. År 2000 - 2007",
+          "2008-05-22"
+        ],
+        [
+          "Genomsnittlig månadslön, tjänstemän privat sektor (SLP) efter näringsgren SNI 2007, anställningsform, yrkesområden (SSYK) och kön. År 2008 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig total månadslön (inkl förändringstal från 2000), heltidsanställda tjänstemän privat sektor (SLP) efter näringsgren  och kön. År 1993 - 2007",
+          "2008-05-22"
+        ]
+      ]
     },
     {
       "heading_path": [

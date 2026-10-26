@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0805",
     "response_url": "https://www.scb.se/MI0805",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/gronytor-i-och-omkring-tatorter/",
-    "fetched_at": "2026-10-19T03:40:32.179051Z",
+    "fetched_at": "2026-10-26T03:43:38.173297Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "63597f4bfb7ddf955fc3155435cc45a84a3387098345a28167bd31e083b52770",
+    "content_sha256": "a82d7e07b7f3b37fe532cbeb5c56adf2696877633783220f7642a065bd02b132",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -486,18 +486,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0805C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0805C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Grönytor i och omkring tätorter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel av tätortsbefolkningen med grönområden inom 300 meter från bostaden efter tätort. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GronOmrTatortAndel",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GronOmrTatortAndel"
+        },
+        {
+          "text": "Grönområden inom tätort inklusive områden inom tre kilometer från tätortsgräns efter tätort. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GronOmrTatortHa",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GronOmrTatortHa"
+        },
+        {
+          "text": "Huvudklasser av markanvändning/marktäcke inom tätortsgräns efter tätort. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HuvudKlassMarkAnv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HuvudKlassMarkAnv"
+        },
+        {
+          "text": "Tätortsbefolkning (tätorter med mer än 30 000 invånare) med vatten inom 300 meter från bostad efter tätort. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TatortVatten300M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TatortVatten300M"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Andel av tätortsbefolkningen med grönområden inom 300 meter från bostaden efter tätort. År 2005",
+          "2010-09-15"
+        ],
+        [
+          "Grönområden inom tätort inklusive områden inom tre kilometer från tätortsgräns efter tätort. År 2005",
+          "2010-09-15"
+        ],
+        [
+          "Huvudklasser av markanvändning/marktäcke inom tätortsgräns efter tätort. År 2005",
+          "2010-09-15"
+        ],
+        [
+          "Tätortsbefolkning (tätorter med mer än 30 000 invånare) med vatten inom 300 meter från bostad efter tätort. År 2010",
+          "2015-05-28"
+        ]
+      ]
     },
     {
       "heading_path": [

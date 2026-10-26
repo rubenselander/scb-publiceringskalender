@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0117",
     "response_url": "https://www.scb.se/NV0117",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/",
-    "fetched_at": "2026-10-19T03:40:57.506837Z",
+    "fetched_at": "2026-10-26T03:44:00.787936Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c9bd74b36955c8d2c49bad9be9c4edb568bfd3abb3f59712da880381b85092d2",
+    "content_sha256": "45976d4b4f290da2c8e2528c5c044d4a08415d77c612e529199222010a104eb2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0117",
   "summary": "Statistiken omfattar till stor del ekonomiska uppgifter inom det civila samhället, vilket innefattar bland annat ideella föreningar, stiftelser och registrerade trossamfund.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-22",
-  "next_publication_date": "2026-10-22",
+  "next_publication_text": "Nästa publicering: 2027-05-27",
+  "next_publication_date": "2027-05-27",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-22",
+        "Nästa publicering: 2027-05-27",
         "Statistiken omfattar till stor del ekonomiska uppgifter inom det civila samhället, vilket innefattar bland annat ideella föreningar, stiftelser och registrerade trossamfund."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-22",
+          "text": "Nästa publicering: 2027-05-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0117&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0117&period=Forward1Year"
         }
@@ -63,14 +63,14 @@
         }
       ],
       "paragraphs": [
-        "2026-05-28",
-        "Antalet sysselsatta inom det civila samhället uppgick till cirka 204 000 år 2024, en ökning med drygt 1 procent jämfört med år 2023. Av det totala antalet sysselsatta i Sverige stod det civila samhället för cirka 4 procent av sysselsättningen. Flest sysselsatta fanns inom åldersgruppen 35–54 år."
+        "2026-10-22",
+        "Den totala produktionen inom det civila samhället uppgick till 332,6 miljarder kronor år 2024 varav betalningar från offentlig sektor utgjorde 43,4 miljarder kronor. Förädlingsvärdet uppgick till 193,6 miljarder kronor vilket resulterade i ett bidrag på 3,4 procent till Sveriges BNP, en ökning med 0,1 procentenheter jämfört med 2023."
       ],
       "links": [
         {
-          "text": "Kvinnor stod för 61 procent av det totala antalet sysselsatta i civila samhället 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-20242/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-20242/"
+          "text": "Snabbare tillväxttakt i det civila samhället 2024",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-2024/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -150,17 +150,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt institutionell sektor, löpande priser, mnkr. År 2012 - 2023",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamSEKT",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamSEKT"
-        },
-        {
-          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt ICNPO, löpande priser, mnkr. År 2012 - 2023",
+          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt ICNPO, löpande priser, mnkr. År 2012 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamICNPO1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamICNPO1"
         },
         {
-          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället exklusive dotterbolag, enligt ICNPO, löpande priser, mnkr. År 2012 - 2023",
+          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt institutionell sektor, löpande priser, mnkr. År 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamSEKT",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamSEKT"
+        },
+        {
+          "text": "Inkomster, utgifter och sparande (ENS2010), civila samhället exklusive dotterbolag, enligt ICNPO, löpande priser, mnkr. År 2012 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamICNPO2",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CivSamICNPO2"
         }
@@ -175,16 +175,16 @@
           "Datum"
         ],
         [
-          "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt institutionell sektor, löpande priser, mnkr. År 2012 - 2023",
-          "2025-10-23"
+          "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt ICNPO, löpande priser, mnkr. År 2012 - 2024",
+          "2026-10-22"
         ],
         [
-          "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt ICNPO, löpande priser, mnkr. År 2012 - 2023",
-          "2025-10-23"
+          "Inkomster, utgifter och sparande (ENS2010), civila samhället, enligt institutionell sektor, löpande priser, mnkr. År 2012 - 2024",
+          "2026-10-22"
         ],
         [
-          "Inkomster, utgifter och sparande (ENS2010), civila samhället exklusive dotterbolag, enligt ICNPO, löpande priser, mnkr. År 2012 - 2023",
-          "2025-10-23"
+          "Inkomster, utgifter och sparande (ENS2010), civila samhället exklusive dotterbolag, enligt ICNPO, löpande priser, mnkr. År 2012 - 2024",
+          "2026-10-22"
         ]
       ]
     },
@@ -363,6 +363,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Satelliträkenskaper för det civila samhället 2024",
+          "href": "/publikation/60049",
+          "url": "https://www.scb.se/publikation/60049"
+        },
+        {
           "text": "Det civila samhället 2024 (korrigerad 2026-08-14)",
           "href": "/publikation/60046",
           "url": "https://www.scb.se/publikation/60046"
@@ -453,6 +458,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Satelliträkenskaper för det civila samhället 2024",
+          "",
+          "2026-10-22"
         ],
         [
           "Det civila samhället 2024 (korrigerad 2026-08-14)",

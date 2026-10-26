@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1302",
     "response_url": "https://www.scb.se/MI1302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/",
-    "fetched_at": "2026-10-19T03:40:43.519408Z",
+    "fetched_at": "2026-10-26T03:43:47.993299Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a817a45b696235a6b71bb8c067e48b58a74f71329bdf3813b07a61f067798c9e",
+    "content_sha256": "0dd7cfad4534d1dc2845bbde7e064508a4afc044ed9da7515c0d2dba55ffb405",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi1302",
   "summary": "Miljöskydd är aktiviteter som har som mål att behandla eller förebygga utsläpp. Kopplat till detta finns kostnader inom områdena luft, vatten, avfall, skydd av mark och grundvatten, buller, biologisk mångfald, skydd mot strålning, forskning och utveckling och övrigt miljöskydd (information och utbildning).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-07",
+  "next_publication_date": "2027-10-07",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-07",
         "Miljöskydd är aktiviteter som har som mål att behandla eller förebygga utsläpp. Kopplat till detta finns kostnader inom områdena luft, vatten, avfall, skydd av mark och grundvatten, buller, biologisk mångfald, skydd mot strålning, forskning och utveckling och övrigt miljöskydd (information och utbildning)."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1302&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1302&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

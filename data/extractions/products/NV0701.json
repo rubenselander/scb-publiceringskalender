@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0701",
     "response_url": "https://www.scb.se/NV0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-kapacitetsutnyttjande/",
-    "fetched_at": "2026-10-19T03:41:03.090073Z",
+    "fetched_at": "2026-10-26T03:44:05.125487Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "79bf3e9254c1718cb9982eaecb0ad5d70f8456801d45fefbd56dc88e74eff086",
+    "content_sha256": "38ffe8b827963452a2ce86f24ab83277cf50298bd0932d3136e8755a844cccfb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -300,18 +300,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0701S",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0701S"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Industrins kapacitetsutnyttjande",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI 2007 (aggregat). Kvartal 1990K1 - 2023K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnSNI07Kv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnSNI07Kv"
+        },
+        {
+          "text": "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI2007 (aggregat). Historiska serier. Kvartal 1980K1 - 1989K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnSNI07KvHis",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnSNI07KvHis"
+        },
+        {
+          "text": "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI92 (aggregat). Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnFaktKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndKaputnFaktKv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI 2007 (aggregat). Kvartal 1990K1 - 2023K1",
+          "2023-05-19"
+        ],
+        [
+          "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI2007 (aggregat). Historiska serier. Kvartal 1980K1 - 1989K4",
+          "2011-02-15"
+        ],
+        [
+          "Industrins kapacitetsutnyttjande, faktisk utnyttjandegrad efter näringsgren SNI92 (aggregat). Kvartal 1990K1 - 2008K4",
+          "2009-02-13"
+        ]
+      ]
     },
     {
       "heading_path": [

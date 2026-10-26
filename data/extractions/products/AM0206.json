@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0206",
     "response_url": "https://www.scb.se/AM0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lonesummor-arbetsgivaravgifter-och-preliminar-a-skatt-laps/",
-    "fetched_at": "2026-10-19T03:38:14.321086Z",
+    "fetched_at": "2026-10-26T03:41:25.443327Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2cdd4f973f78100f51afb5102c065b987b64ddfc30c76af4476a305ff55b97d3",
+    "content_sha256": "370d14f06610b361ee751542a9deadd09960f3dc2a5e9f7b51036cc334338941",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -221,18 +221,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0206C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0206C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt (LAPS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) efter sektor (uppdateras ej). Kvartal 2005K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSSektorKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSSektorKv"
+        },
+        {
+          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2007, grov indelning (uppdateras ej). Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKvGr07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKvGr07"
+        },
+        {
+          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2007 (uppdateras ej). Kvartal 2013K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKvSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKvSNI2007"
+        },
+        {
+          "text": "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2002. Kvartal 2000K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LAPSKv"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) efter sektor (uppdateras ej). Kvartal 2005K1 - 2015K1",
+          "2015-05-22"
+        ],
+        [
+          "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2007, grov indelning (uppdateras ej). Kvartal 2009K1 - 2015K1",
+          "2015-05-22"
+        ],
+        [
+          "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2007 (uppdateras ej). Kvartal 2013K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Lönesummor, arbetsgivaravgifter och preliminär A-skatt från skattedeklarationerna (LAPS) inom privat sektor efter näringsgren SNI 2002. Kvartal 2000K1 - 2008K4",
+          "2009-03-02"
+        ]
+      ]
     },
     {
       "heading_path": [

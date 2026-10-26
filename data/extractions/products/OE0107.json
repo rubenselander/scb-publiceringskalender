@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0107",
     "response_url": "https://www.scb.se/OE0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/rakenskapssammandrag-for-kommuner-och-regioner/",
-    "fetched_at": "2026-10-19T03:41:13.048966Z",
+    "fetched_at": "2026-10-26T03:44:15.132271Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "efefb655df534b32cd9baa10ac1fefcb1116ee179903486e9e95e18d7cfb97a0",
+    "content_sha256": "fe9a88a2e65a4dcec48b062cebf517f5bf3a685b4203b955aac5705d9d1ff0c4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0107",
   "summary": "Statistiken innehåller både uppgifter från resultat- och balansräkningar, och verksamhetsindelad statistik för kommuner och regioner. Uppgifterna kommer från kommunernas och regionernas bokslut.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-02",
+  "next_publication_date": "2027-03-02",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-02",
         "Statistiken innehåller både uppgifter från resultat- och balansräkningar, och verksamhetsindelad statistik för kommuner och regioner. Uppgifterna kommer från kommunernas och regionernas bokslut."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-02",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0107&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0107&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -3650,18 +3656,340 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0107G",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OE0107G"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Räkenskapssammandrag för kommuner och regioner",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Resultaträkning för kommuner efter region och resultaträkningsposter. År 1998 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKn",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKn"
+        },
+        {
+          "text": "Resultaträkning för kommunkoncernen efter region och resultaträkningsposter. År 1998 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKcr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKcr"
+        },
+        {
+          "text": "Balansräkning för kommuner efter region och balansräkningsposter. År 1998 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKn",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKn"
+        },
+        {
+          "text": "Balansräkning för kommunkoncerner efter region och balansräkningsposter. År 1998 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKcr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKcr"
+        },
+        {
+          "text": "Borgensförbindelser och övriga ansvarsförbindelser för kommuner efter region och borgensposter. År 1998 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BorgensforbKn",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BorgensforbKn"
+        },
+        {
+          "text": "Skatteintäkter, utjämningssystem och generella bidrag samt finansiella poster. År 2011 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SkatteIntKn",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SkatteIntKn"
+        },
+        {
+          "text": "Ansvarsförbindelser för regioner efter ansvarsposter. År 2012 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnsvarsforbL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnsvarsforbL"
+        },
+        {
+          "text": "Resultaträkning för regioner efter resultaträkningsposter. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultLTing",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultLTing"
+        },
+        {
+          "text": "Resultaträkning för regionkoncernen efter region och resultaträkningsposter. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKcrLTing",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ResultKcrLTing"
+        },
+        {
+          "text": "Balansräkning för regioner efter balansräkningsposter. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKnLTing",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKnLTing"
+        },
+        {
+          "text": "Balansräkning för regionkoncernen efter balansräkningsposter. År 1999 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKcrLTing",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BalansKcrLTing"
+        },
+        {
+          "text": "Finansiella nyckeltal för kommuner efter region och finansiella nyckeltal. År 1998 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FinNyckeltalKn",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FinNyckeltalKn"
+        },
+        {
+          "text": "Finansiella nyckeltal för kommunkoncern efter region och finansiella nyckeltal. År 1998 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FinNyckeltalKcr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FinNyckeltalKcr"
+        },
+        {
+          "text": "Kommunens köp av verksamhet som andel av kommunens kostnad för verksamheten efter region och verksamhetsområde. År 1998 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VerksKoep",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VerksKoep"
+        },
+        {
+          "text": "Kostnad och nettokostnad för kommunens driftverksamhet efter region och verksamhetsområden. År 1998 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnKomverksKrinv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnKomverksKrinv"
+        },
+        {
+          "text": "Kostnad för kommunernas äldre- och funktionshinderomsorg. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AldFunktTkr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AldFunktTkr"
+        },
+        {
+          "text": "Nyckeltal för kommunernas förskoleklass, grundskola och obl. särskola efter kommun. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FskolKlass",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FskolKlass"
+        },
+        {
+          "text": "Nyckeltal för kommunernas förskoleverksamhet och skolbarnomsorg efter kommun. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FSkolVerk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FSkolVerk"
+        },
+        {
+          "text": "Nyckeltal för kommunernas gymnasie och gymnasiesärskola efter kommun. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GymnSkols",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GymnSkols"
+        },
+        {
+          "text": "Nyckeltal för kommunernas individ- och familjeomsorg.  År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndFamNycR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndFamNycR"
+        },
+        {
+          "text": "Nyckeltal för kommunernas komvux, särvux och sfi efter kommun. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Komvux",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Komvux"
+        },
+        {
+          "text": "Nyckeltal för kommunernas omsorg om äldre och personer med funktionsnedsättning.  År 2011 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NycAldFunktR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NycAldFunktR"
+        },
+        {
+          "text": "Nyckeltal för kommunernas äldre- och funktionshinderomsorg. År 2008 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AldFunktNyc",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AldFunktNyc"
+        },
+        {
+          "text": "Kostnad för kommunernas omsorg om äldre och personer med funktionsnedsättning (äldre år uppdateras ej). År 2011 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TkrAldFunktROLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TkrAldFunktROLD"
+        },
+        {
+          "text": "Kostnader för kommunernas förskoleklass, grundskola och obl. särskola efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FskolKlassnyOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FskolKlassnyOLD"
+        },
+        {
+          "text": "Kostnader för kommunernas förskoleverksamhet och skolbarnomsorg efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FSkolVerknyOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FSkolVerknyOLD"
+        },
+        {
+          "text": "Investeringar för regioner efter verksamhetsområde. År 2007 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvestLands",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvestLands"
+        },
+        {
+          "text": "Kostnader för kommunernas gymnasie och gymnasiesärskola efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GymnSkolsnyOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GymnSkolsnyOLD"
+        },
+        {
+          "text": "Kostnader för kommunernas komvux, särvux och sfi efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomvuxnyOLD",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KomvuxnyOLD"
+        },
+        {
+          "text": "Nettokostnad för regionernas verksamhet efter verksamhetsområden. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnLTingverkKrinv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnLTingverkKrinv"
+        },
+        {
+          "text": "Köp av verksamhet som andel av regionernas kostnad för verksamheten efter verksamhetsområde. År 2007 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VerksLTingKop",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VerksLTingKop"
+        },
+        {
+          "text": "Kostnader för hälso- o sjukvård, delområdesvisa uppgifter efter region. År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostHsjukv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostHsjukv"
+        },
+        {
+          "text": "Kostnad för kommunernas individ- och familjeomsorg (äldre år uppdateras ej). År 2008 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndFamTkrROLD2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndFamTkrROLD2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Resultaträkning för kommuner efter region och resultaträkningsposter. År 1998 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Resultaträkning för kommunkoncernen efter region och resultaträkningsposter. År 1998 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Balansräkning för kommuner efter region och balansräkningsposter. År 1998 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Balansräkning för kommunkoncerner efter region och balansräkningsposter. År 1998 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Borgensförbindelser och övriga ansvarsförbindelser för kommuner efter region och borgensposter. År 1998 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Skatteintäkter, utjämningssystem och generella bidrag samt finansiella poster. År 2011 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Ansvarsförbindelser för regioner efter ansvarsposter. År 2012 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Resultaträkning för regioner efter resultaträkningsposter. År 1999 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Resultaträkning för regionkoncernen efter region och resultaträkningsposter. År 1999 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Balansräkning för regioner efter balansräkningsposter. År 1999 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Balansräkning för regionkoncernen efter balansräkningsposter. År 1999 - 2024",
+          "2025-08-29"
+        ],
+        [
+          "Finansiella nyckeltal för kommuner efter region och finansiella nyckeltal. År 1998 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Finansiella nyckeltal för kommunkoncern efter region och finansiella nyckeltal. År 1998 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Kommunens köp av verksamhet som andel av kommunens kostnad för verksamheten efter region och verksamhetsområde. År 1998 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Kostnad och nettokostnad för kommunens driftverksamhet efter region och verksamhetsområden. År 1998 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Kostnad för kommunernas äldre- och funktionshinderomsorg. År 2008 - 2010",
+          "2011-06-30"
+        ],
+        [
+          "Nyckeltal för kommunernas förskoleklass, grundskola och obl. särskola efter kommun. År 2000 - 2013",
+          "2014-10-16"
+        ],
+        [
+          "Nyckeltal för kommunernas förskoleverksamhet och skolbarnomsorg efter kommun. År 2000 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Nyckeltal för kommunernas gymnasie och gymnasiesärskola efter kommun. År 2000 - 2013",
+          "2014-10-16"
+        ],
+        [
+          "Nyckeltal för kommunernas individ- och familjeomsorg.  År 2008 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Nyckeltal för kommunernas komvux, särvux och sfi efter kommun. År 2000 - 2013",
+          "2014-11-10"
+        ],
+        [
+          "Nyckeltal för kommunernas omsorg om äldre och personer med funktionsnedsättning.  År 2011 - 2013",
+          "2014-08-28"
+        ],
+        [
+          "Nyckeltal för kommunernas äldre- och funktionshinderomsorg. År 2008 - 2010",
+          "2011-06-30"
+        ],
+        [
+          "Kostnad för kommunernas omsorg om äldre och personer med funktionsnedsättning (äldre år uppdateras ej). År 2011 - 2013",
+          "2016-05-31"
+        ],
+        [
+          "Kostnader för kommunernas förskoleklass, grundskola och obl. särskola efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "2024-08-29"
+        ],
+        [
+          "Kostnader för kommunernas förskoleverksamhet och skolbarnomsorg efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "2016-05-31"
+        ],
+        [
+          "Investeringar för regioner efter verksamhetsområde. År 2007 - 2022",
+          "2024-05-14"
+        ],
+        [
+          "Kostnader för kommunernas gymnasie och gymnasiesärskola efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "2024-08-29"
+        ],
+        [
+          "Kostnader för kommunernas komvux, särvux och sfi efter region (äldre år uppdateras ej). År 2000 - 2013",
+          "2024-08-29"
+        ],
+        [
+          "Nettokostnad för regionernas verksamhet efter verksamhetsområden. År 2007 - 2013",
+          "2014-09-15"
+        ],
+        [
+          "Köp av verksamhet som andel av regionernas kostnad för verksamheten efter verksamhetsområde. År 2007 - 2013",
+          "2014-09-15"
+        ],
+        [
+          "Kostnader för hälso- o sjukvård, delområdesvisa uppgifter efter region. År 2008 - 2013",
+          "2014-09-15"
+        ],
+        [
+          "Kostnad för kommunernas individ- och familjeomsorg (äldre år uppdateras ej). År 2008 - 2013",
+          "2016-06-03"
+        ]
+      ]
     },
     {
       "heading_path": [

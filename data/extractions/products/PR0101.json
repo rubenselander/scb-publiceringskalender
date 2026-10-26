@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0101",
     "response_url": "https://www.scb.se/PR0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/",
-    "fetched_at": "2026-10-19T03:41:22.708704Z",
+    "fetched_at": "2026-10-26T03:44:24.898725Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9caefe4fe7de70f9901dc6b28c9a185dbb77a7604de3a5c6519db9537ed9c607",
+    "content_sha256": "47ad3de81175fc58e3c0b47d830bb4b7551ab9813f66afb8dea6b193f110e7cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -1237,18 +1237,151 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som ej uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som ej uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0101F",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0101F"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konsumentprisindex (KPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Konsumentprisindex (KPI) totalt, fastställda tal, 1980=100 (uppdateras ej efter 2005M12). Månad 1980M01 - 2005M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFastM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFastM"
+        },
+        {
+          "text": "Konsumentprisindex (KPI) totalt, skuggindextal, 1980=100 (uppdateras ej efter 2022M11). Månad 1980M01 - 2022M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPISkuggM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPISkuggM"
+        },
+        {
+          "text": "Nettoprisindex (NPI), 1980=100. Månad 1980M01 - 2013M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIM"
+        },
+        {
+          "text": "Nettoprisindex (NPI) årsmedeltal, 1980=100. År 1980 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIAr"
+        },
+        {
+          "text": "Nettoprisindex (NPI), månadsförändring. Månad 1980M01 - 2013M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIFFMP",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPIFFMP"
+        },
+        {
+          "text": "Nettoprisindex (NPI), 12-månadersförändring (enligt gammal metod, uppdateras ej efter 2004M12), 1980=100. Månad 1980M01 - 2004M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPI12M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NPI12M"
+        },
+        {
+          "text": "Underliggande inflation, tolvmånaderstal enligt KPIX. Månad 1980M01 - 2015M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIX12M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIX12M"
+        },
+        {
+          "text": "Underliggande inflation, tolvmånaderstal enligt UNDINHX. Månad 1980M01 - 2007M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHX12MNy",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHX12MNy"
+        },
+        {
+          "text": "Underliggande inflation, 1-månadsförändring enligt KPIX. Månad 1980M01 - 2015M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIXFM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIXFM"
+        },
+        {
+          "text": "Underliggande inflation, 1-månadsförändring enligt UNDINHX. Månad 1980M01 - 2007M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHXFM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHXFM"
+        },
+        {
+          "text": "Underliggande inflation, tolvmånaderstal enligt UND1X (enligt gammal metod, uppdateras ej efter 2004M12). Månad 1980M01 - 2004M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UND1X12M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UND1X12M"
+        },
+        {
+          "text": "Underliggande inflation, tolvmånaderstal enligt UNDINHX (enligt gammal metod, uppdateras ej efter 2004M12). Månad 1980M01 - 2004M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHX12M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UNDINHX12M"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Konsumentprisindex (KPI) totalt, fastställda tal, 1980=100 (uppdateras ej efter 2005M12). Månad 1980M01 - 2005M12",
+          "2006-01-12"
+        ],
+        [
+          "Konsumentprisindex (KPI) totalt, skuggindextal, 1980=100 (uppdateras ej efter 2022M11). Månad 1980M01 - 2022M11",
+          "2022-12-14"
+        ],
+        [
+          "Nettoprisindex (NPI), 1980=100. Månad 1980M01 - 2013M12",
+          "2014-01-14"
+        ],
+        [
+          "Nettoprisindex (NPI) årsmedeltal, 1980=100. År 1980 - 2013",
+          "2014-01-14"
+        ],
+        [
+          "Nettoprisindex (NPI), månadsförändring. Månad 1980M01 - 2013M12",
+          "2014-01-14"
+        ],
+        [
+          "Nettoprisindex (NPI), 12-månadersförändring (enligt gammal metod, uppdateras ej efter 2004M12), 1980=100. Månad 1980M01 - 2004M12",
+          "2005-01-13"
+        ],
+        [
+          "Underliggande inflation, tolvmånaderstal enligt KPIX. Månad 1980M01 - 2015M12",
+          "2016-01-14"
+        ],
+        [
+          "Underliggande inflation, tolvmånaderstal enligt UNDINHX. Månad 1980M01 - 2007M09",
+          "2007-10-11"
+        ],
+        [
+          "Underliggande inflation, 1-månadsförändring enligt KPIX. Månad 1980M01 - 2015M12",
+          "2016-01-14"
+        ],
+        [
+          "Underliggande inflation, 1-månadsförändring enligt UNDINHX. Månad 1980M01 - 2007M09",
+          "2007-10-11"
+        ],
+        [
+          "Underliggande inflation, tolvmånaderstal enligt UND1X (enligt gammal metod, uppdateras ej efter 2004M12). Månad 1980M01 - 2004M12",
+          "2005-01-13"
+        ],
+        [
+          "Underliggande inflation, tolvmånaderstal enligt UNDINHX (enligt gammal metod, uppdateras ej efter 2004M12). Månad 1980M01 - 2004M12",
+          "2005-01-13"
+        ]
+      ]
     },
     {
       "heading_path": [

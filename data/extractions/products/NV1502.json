@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1502",
     "response_url": "https://www.scb.se/NV1502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/utlandska-foretag/",
-    "fetched_at": "2026-10-19T03:41:08.788982Z",
+    "fetched_at": "2026-10-26T03:44:11.062925Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bfeb5eb711b743409f8613ddff691351e60924e187e83959de1c10b70ee41f25",
+    "content_sha256": "838c482a0954fca01aeffd4c9fe680157a638afead5b7d69b62fae6cc5f6ca5f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1502",
   "summary": "Statistiken visar omfattningen och förändringen i det utländska ägandet av företag, filialer och arbetsställen i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-31",
+  "next_publication_date": "2027-08-31",
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-31",
         "Statistiken visar omfattningen och förändringen i det utländska ägandet av företag, filialer och arbetsställen i Sverige."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1502&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1502&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

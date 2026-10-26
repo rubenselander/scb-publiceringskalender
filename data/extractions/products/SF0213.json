@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0213",
     "response_url": "https://www.scb.se/SF0213",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/statligt-tandvardsstod/",
-    "fetched_at": "2026-10-19T03:41:48.453313Z",
+    "fetched_at": "2026-10-26T03:44:52.129716Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4218295b6d48bfb8886bf0d70a8b9a9550f71d55cfc3c46105e9321b3c274f52",
+    "content_sha256": "aca27cd082992ec6c6eed644e0fb978e5bd04d3528f2c9bba68e1f24276e8847",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0213",
   "summary": "Statistiken avser att beskriva användningen av tandvårdsstödet och produktionen av tandvård (utförda åtgärder inom stödet).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-23",
-  "next_publication_date": "2026-10-23",
+  "next_publication_text": "Nästa publicering: 2026-11-23",
+  "next_publication_date": "2026-11-23",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-23",
+        "Nästa publicering: 2026-11-23",
         "Statistiken avser att beskriva användningen av tandvårdsstödet och produktionen av tandvård (utförda åtgärder inom stödet)."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-23",
+          "text": "Nästa publicering: 2026-11-23",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0213&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0213&period=Forward1Year"
         }

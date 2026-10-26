@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0201",
     "response_url": "https://www.scb.se/SF0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/dagersattning-sjukformaner/",
-    "fetched_at": "2026-10-19T03:41:42.034984Z",
+    "fetched_at": "2026-10-26T03:44:45.559266Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d47052e0b74e5c2bc6e226dee2a617841ecf5b00a48e95f8c3b21e0648c7807f",
+    "content_sha256": "63e6ec54636ea02da921709f1bd78fd47b67078c50914307b3ac9b984661d4f4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0201",
   "summary": "Statistiken visar för sjukpenning och rehabiliteringspenning utbetalningarnas omfattning i kronor och antal dagar under referensperioden och för närståendepenning redovisas antal vårdare och vårdade samt antal dagar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-19",
+  "next_publication_date": "2027-01-19",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-19",
         "Statistiken visar för sjukpenning och rehabiliteringspenning utbetalningarnas omfattning i kronor och antal dagar under referensperioden och för närståendepenning redovisas antal vårdare och vårdade samt antal dagar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-19",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

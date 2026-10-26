@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0201",
     "response_url": "https://www.scb.se/AM0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/kortperiodisk-sysselsattningsstatistik-ks/",
-    "fetched_at": "2026-10-19T03:38:13.768097Z",
+    "fetched_at": "2026-10-26T03:41:24.855880Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1dbed3bd076995fa8e0d48eba621c6abb2148fb1b418c4a1b2befdf2c99148cb",
+    "content_sha256": "d6f213ea5f3e751ecc55d162859a11bae0437177f3e8da8d4b543a4c2a6c2107",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -423,18 +423,133 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0201D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0201D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kortperiodisk sysselsättningsstatistik (KS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal anställda inom privat sektor (KS), index 2000K1=100, efter näringsgren SNI2007. Kvartal 2000K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2007Kv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2007Kv"
+        },
+        {
+          "text": "Antal anställda, privat sektor (KSP) efter näringsgren SNI2002. Kvartal 1993K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSPAnstallda",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSPAnstallda"
+        },
+        {
+          "text": "Antal anställda (KS) efter region och sektor.  Kvartal 2004K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstallda",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstallda"
+        },
+        {
+          "text": "Antal anställda inom privat sektor (KS) efter näringsgren SNI2002. Kvartal 2004K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2002Kv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2002Kv"
+        },
+        {
+          "text": "Antal anställda inom privat sektor (KS) efter näringsgren SNI2002. Månad 2004M01 - 2005M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2002M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSAnstSNI2002M"
+        },
+        {
+          "text": "Andel sjukfrånvarande inom privat sektor (KS) efter näringsgren SNI 2007.  Kvartal 2008K2 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukSNI2007"
+        },
+        {
+          "text": "Andel sjukfrånvarande inom privat sektor (KS) efter näringsgren SNI2002. Kvartal 2004K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukSNI2002",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukSNI2002"
+        },
+        {
+          "text": "Andel sjukfrånvarande (KS) efter kön och sektor.  Kvartal 2004K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSfranvaroSekt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSfranvaroSekt"
+        },
+        {
+          "text": "Sjukfrånvarande, totalt (KS) efter region. Kvartal 2004K1 - 2006K3",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukLan",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSsjukLan"
+        },
+        {
+          "text": "Sjukfrånvaro inom privat sektor (KSP) efter näringsgren SNI2002. Kvartal 1995K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSPSjukfranvaro",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KSPSjukfranvaro"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal anställda inom privat sektor (KS), index 2000K1=100, efter näringsgren SNI2007. Kvartal 2000K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Antal anställda, privat sektor (KSP) efter näringsgren SNI2002. Kvartal 1993K1 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Antal anställda (KS) efter region och sektor.  Kvartal 2004K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Antal anställda inom privat sektor (KS) efter näringsgren SNI2002. Kvartal 2004K1 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Antal anställda inom privat sektor (KS) efter näringsgren SNI2002. Månad 2004M01 - 2005M12",
+          "2006-02-14"
+        ],
+        [
+          "Andel sjukfrånvarande inom privat sektor (KS) efter näringsgren SNI 2007.  Kvartal 2008K2 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Andel sjukfrånvarande inom privat sektor (KS) efter näringsgren SNI2002. Kvartal 2004K1 - 2008K4",
+          "2009-04-21"
+        ],
+        [
+          "Andel sjukfrånvarande (KS) efter kön och sektor.  Kvartal 2004K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Sjukfrånvarande, totalt (KS) efter region. Kvartal 2004K1 - 2006K3",
+          "2006-11-14"
+        ],
+        [
+          "Sjukfrånvaro inom privat sektor (KSP) efter näringsgren SNI2002. Kvartal 1995K1 - 2008K4",
+          "2009-04-21"
+        ]
+      ]
     },
     {
       "heading_path": [

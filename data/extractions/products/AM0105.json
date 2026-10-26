@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0105",
     "response_url": "https://www.scb.se/AM0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/",
-    "fetched_at": "2026-10-19T03:38:09.793586Z",
+    "fetched_at": "2026-10-26T03:41:20.420204Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "85eabf891f02c5671bb21a8d4ce214b1ef12a5fe3dc3dd1a3cf93cff561b8478",
+    "content_sha256": "3f1a15d839bfa6e9998fdc5d8a15e2155d25638956d09c94d959ae7c279624ad",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -339,18 +339,178 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0105D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0105D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönestrukturstatistik, regioner",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Genomsnittlig månadslön inom landstingskommunal sektor efter landsting, yrke SSYK och kön. År 2000 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting1g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting1g"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m. inom  landstingskommunal sektor efter yrke SSYK och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting2g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting2g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter region (NUTS1, 2008), yrke SSYK och kön. År 2009 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting4n",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting4n"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter yrke SSYK, ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting3g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting3g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter region (NUTS2), yrke SSYK och kön. År 2000 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting4g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting4g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom landstingskommunal sektor efter yrke SSYK och kön. År 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LandstingsKommunal1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LandstingsKommunal1"
+        },
+        {
+          "text": "Genomsnittlig grundlön inom landstingskommunal sektor efter yrke SSYK, kön och ålder. År 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LandstingsKommunal10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LandstingsKommunal10"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter månadslöneintervall, kön och ålder. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting6g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting6g"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting7g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting7g"
+        },
+        {
+          "text": "Sysselsatta inom landstings-, primärkommunal-, kyrkokommunal-, statlig- samt övrig sektor efter sektor och kön. År 1992 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting16g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting16g"
+        },
+        {
+          "text": "Anställda, nyanställda och avgångna inom landstingskommunal sektor efter anställningsform, tjänstgöringsomfattning, ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting15g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting15g"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter verksamhetsområde, överenskommen sysselsättningsgrad och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting11g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting11g"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter verksamhetsområde, tjänstgöringsomfattning och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting12g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting12g"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter landsting, verksamhetsområde och kön.  År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting13g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting13g"
+        },
+        {
+          "text": "Sysselsatta inom landstingskommunal sektor efter landsting, tjänstgöringsomfattning och kön.   År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting14g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Landsting14g"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Genomsnittlig månadslön inom landstingskommunal sektor efter landsting, yrke SSYK och kön. År 2000 - 2008",
+          "2009-05-26"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m. inom  landstingskommunal sektor efter yrke SSYK och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter region (NUTS1, 2008), yrke SSYK och kön. År 2009 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter yrke SSYK, ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom landstingskommunal sektor efter region (NUTS2), yrke SSYK och kön. År 2000 - 2008",
+          "2009-05-26"
+        ],
+        [
+          "Genomsnittlig månadslön inom landstingskommunal sektor efter yrke SSYK och kön. År 1999",
+          "2000-10-20"
+        ],
+        [
+          "Genomsnittlig grundlön inom landstingskommunal sektor efter yrke SSYK, kön och ålder. År 1999",
+          "2009-05-26"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter månadslöneintervall, kön och ålder. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2010",
+          "2011-05-24"
+        ],
+        [
+          "Sysselsatta inom landstings-, primärkommunal-, kyrkokommunal-, statlig- samt övrig sektor efter sektor och kön. År 1992 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Anställda, nyanställda och avgångna inom landstingskommunal sektor efter anställningsform, tjänstgöringsomfattning, ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter verksamhetsområde, överenskommen sysselsättningsgrad och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter verksamhetsområde, tjänstgöringsomfattning och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter landsting, verksamhetsområde och kön.  År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom landstingskommunal sektor efter landsting, tjänstgöringsomfattning och kön.   År 2000 - 2013",
+          "2014-05-21"
+        ]
+      ]
     },
     {
       "heading_path": [

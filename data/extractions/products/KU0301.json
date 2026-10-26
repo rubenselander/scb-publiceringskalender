@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/KU0301",
     "response_url": "https://www.scb.se/KU0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/kultur-bibliotek-och-fritid/kulturens-verksamheter/museer/",
-    "fetched_at": "2026-10-19T03:40:00.305051Z",
+    "fetched_at": "2026-10-26T03:43:08.984558Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7dda7cbe4caf25deb9c09d7839b3bf0aba054022cb9c428332a4023ffda7021e",
+    "content_sha256": "5b5a7b8b1a74f1e112cc076bc4c26d416e589fc5c241fcc263ef748c14e50324",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/ku0301",
   "summary": "Statistiken innehåller uppgifter om museers organisation, personal, ekonomi, samlingar och verksamhet. Undersökningen är årligen återkommande.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-17",
+  "next_publication_date": "2027-06-17",
   "responsible_agency": {
     "label": "Myndigheten för kulturanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-17",
         "Statistiken innehåller uppgifter om museers organisation, personal, ekonomi, samlingar och verksamhet. Undersökningen är årligen återkommande."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=KU0301&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=KU0301&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

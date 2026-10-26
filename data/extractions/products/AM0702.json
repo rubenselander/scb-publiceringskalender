@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0702",
     "response_url": "https://www.scb.se/AM0702",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/",
-    "fetched_at": "2026-10-19T03:38:21.852361Z",
+    "fetched_at": "2026-10-26T03:41:32.480833Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bc7492ad6c14299cafc0132035df376fd9e2e47bf6d64fc2aa0f2dd1d17101b8",
+    "content_sha256": "536742a30f1e109e3fbcd3b1649b34fc2c0d57bb342205a3da88d376343e2528",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -26,9 +26,10 @@
   "responsible_agency": null,
   "notices": [
     "Statistiken publiceras i tre delar:",
-    "Lediga jobb : antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november.",
-    "Rekryteringserfarenheter och rekryteringsbehov : rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
-    "Rekryteringserfarenheter och rekryteringsbehov per yrke : rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget."
+    "antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november.",
+    "rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
+    "rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget.",
+    "Övergången från den tidigare undersökningen Konjunkturstatistik över vakanser (KV) till LOR medförde ett brott i tidsserien över lediga jobb. SCB har kvartalsvis publicerat en skattning över tidsseriebrottets storlek i anslutning till statistiken, se Information om tidsseriebrott . I samband med publiceringen av statistik för första kvartalet 2027 revideras skattningen av tidsseriebrottets storlek en sista gång. För mer information, se Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR ."
   ],
   "tags": [],
   "sections": [
@@ -63,12 +64,81 @@
         }
       ],
       "paragraphs": [
-        "Statistiken publiceras i tre delar:",
-        "Lediga jobb : antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november.",
-        "Rekryteringserfarenheter och rekryteringsbehov : rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november.",
-        "Rekryteringserfarenheter och rekryteringsbehov per yrke : rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget."
+        "Statistiken publiceras i tre delar:"
       ],
       "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Lediga jobb:",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "antal lediga jobb, med och utan annons, med omgående tillträde samt exklusive vikariat. Publicering i februari, maj, augusti och november."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Rekryteringserfarenheter och rekryteringsbehov:",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "rekryteringsaktivitet, rekryteringsproblem, åtgärder vid rekryteringsproblem, om arbetsgivarna lyckats rekrytera eller inte, konsekvenser av att inte lyckas rekrytera och anställningsplaner. Publicering i maj och november."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lediga jobb och rekryteringsbehov",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Rekryteringserfarenheter och rekryteringsbehov per yrke:",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "rekryteringsaktivitet och rekryteringserfarenhet för ett urval av yrkesgrupper, samt antal personer som arbetsgivarna saknar inom olika yrken. Publicering i mars i nuläget.",
+        "Övergången från den tidigare undersökningen Konjunkturstatistik över vakanser (KV) till LOR medförde ett brott i tidsserien över lediga jobb. SCB har kvartalsvis publicerat en skattning över tidsseriebrottets storlek i anslutning till statistiken, se Information om tidsseriebrott . I samband med publiceringen av statistik för första kvartalet 2027 revideras skattningen av tidsseriebrottets storlek en sista gång. För mer information, se Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR ."
+      ],
+      "links": [
+        {
+          "text": "Information om tidsseriebrott",
+          "href": "/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf",
+          "url": "https://www.scb.se/contentassets/02b7a5279b2947638230be9a0ccb0927/information-om-tidsseriebrott.pdf"
+        },
+        {
+          "text": "Lediga jobb och vakanser: Jämförbarhet över tid mellan KV och LOR",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/lediga-jobb-och-rekryteringsbehov/produktrelaterat/fordjupad-information/lediga-jobb-och-vakanser/"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

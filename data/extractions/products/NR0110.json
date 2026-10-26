@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0110",
     "response_url": "https://www.scb.se/NR0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/utgifter-for-det-sociala-skyddet-i-sverige-och-europa-samt-utgifternas-finansiering-esspros/",
-    "fetched_at": "2026-10-19T03:40:50.613715Z",
+    "fetched_at": "2026-10-26T03:43:54.930301Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5eab0a4dbff19b87b2799d9efe7881ebdd0d1fc8e3a74f8d3aad6fa39aeb20df",
+    "content_sha256": "0631d72ed15451b8cb97790693f5644620c5508e3cd9668b4e3b3164f67fb5cf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nr0110",
   "summary": "Statistiken visar bland annat totala utgifter för det sociala skyddet samt totala inkomster för dess finansiering. Totala utgifter, totala inkomster och utgifter per funktion visas även i förhållande till BNP. Jämförelser med länder i Europa finns också.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-31",
+  "next_publication_date": "2027-03-31",
   "responsible_agency": null,
   "notices": [
     "Data har korrigerats avseende utgifter för kontantförmåner inom funktionen Ålderdom och därmed har även de totala utgifterna korrigerats."
@@ -38,10 +38,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-31",
         "Statistiken visar bland annat totala utgifter för det sociala skyddet samt totala inkomster för dess finansiering. Totala utgifter, totala inkomster och utgifter per funktion visas även i förhållande till BNP. Jämförelser med länder i Europa finns också."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR0110&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR0110&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

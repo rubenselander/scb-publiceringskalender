@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0213",
     "response_url": "https://www.scb.se/UF0213",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/forskning-vid-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-19T03:42:39.101776Z",
+    "fetched_at": "2026-10-26T03:45:42.145356Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c3989341c701a7bc13b5319b229e3cf139781aa5c5d294c9eb09ca3d35dc959a",
+    "content_sha256": "6e97f54545c7de056a3b3af2e70bd8a3d13718ff253cf352757154d359654fa1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0213",
   "summary": "Statistiken  belyser den forskning som bedrivs inom högskolan utifrån flera perspektiv. Däribland forskningsoutput i form av vetenskapliga publikationer, forskares mobilitet och internationell rekrytering av forskare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-20",
-  "next_publication_date": "2026-10-20",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-20",
+        "Nästa publicering: Ingen planerad",
         "Statistiken  belyser den forskning som bedrivs inom högskolan utifrån flera perspektiv. Däribland forskningsoutput i form av vetenskapliga publikationer, forskares mobilitet och internationell rekrytering av forskare."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-20",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0213&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0213&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

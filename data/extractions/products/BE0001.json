@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0001",
     "response_url": "https://www.scb.se/BE0001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/",
-    "fetched_at": "2026-10-19T03:38:24.648661Z",
+    "fetched_at": "2026-10-26T03:41:35.170159Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5bf734e60a400f720bf7a0ca4311d1dd27458d96763109e7980d0aad09348caf",
+    "content_sha256": "05778b013949ac549272a4fa03d3121cad22df91feb4be7705f661fdc1bb7b01",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -783,14 +783,12 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Nyfödda – Äldre tabeller som inte längre uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Nyfödda – Äldre tabeller som inte längre uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
@@ -809,18 +807,169 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Hela befolkningen – Äldre tabeller som inte längre uppdateras"
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Nyfödda, de 10 och 100 vanligaste tilltalsnamnen efter namngivningsår. År 1998 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T05AR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T05AR"
+        },
+        {
+          "text": "Nyfödda, tilltalsnamn efter namngivningsår och kön. År 1998 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001Nyfodda",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001Nyfodda"
+        }
       ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Nyfödda, de 10 och 100 vanligaste tilltalsnamnen efter namngivningsår. År 1998 - 2022",
+          "2023-01-31"
+        ],
+        [
+          "Nyfödda, tilltalsnamn efter namngivningsår och kön. År 1998 - 2022",
+          "2023-01-31"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Namnstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Hela befolkningen – Äldre tabeller som inte längre uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001G",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001G"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Namnstatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Tilltalsnamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1999 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T06AR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T06AR"
+        },
+        {
+          "text": "Tilltalsnamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001TNamn10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001TNamn10"
+        },
+        {
+          "text": "Tilltalsnamn, de 100 vanligaste för folkbokförda kvinnor och män den 31 december 2021 Födelseår 1922 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T100",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T100"
+        },
+        {
+          "text": "Tilltalsnamn efter medelålder bland folkbokförda 31 december respektive år. År 2005 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T08AR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T08AR"
+        },
+        {
+          "text": "Förnamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1980 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T07AR",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T07AR"
+        },
+        {
+          "text": "Förnamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001FNamn10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001FNamn10"
+        },
+        {
+          "text": "Förnamn, de 100 vanligaste för folkbokförda kvinnor och män den 31 december 2021. Födelseår 1922 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001F100",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001F100"
+        },
+        {
+          "text": "Efternamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1980 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T03Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001T03Ar"
+        },
+        {
+          "text": "Efternamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001ENamn10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BE0001ENamn10"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Tilltalsnamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1999 - 2021",
+          "2022-03-11"
+        ],
+        [
+          "Tilltalsnamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "2021-03-01"
+        ],
+        [
+          "Tilltalsnamn, de 100 vanligaste för folkbokförda kvinnor och män den 31 december 2021 Födelseår 1922 - 2021",
+          "2022-03-11"
+        ],
+        [
+          "Tilltalsnamn efter medelålder bland folkbokförda 31 december respektive år. År 2005 - 2020",
+          "2021-03-01"
+        ],
+        [
+          "Förnamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1980 - 2021",
+          "2022-03-11"
+        ],
+        [
+          "Förnamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "2021-03-01"
+        ],
+        [
+          "Förnamn, de 100 vanligaste för folkbokförda kvinnor och män den 31 december 2021. Födelseår 1922 - 2021",
+          "2022-03-11"
+        ],
+        [
+          "Efternamn, de 10 och 100 vanligaste bland folkbokförda 31 december respektive år. År 1980 - 2021",
+          "2022-03-11"
+        ],
+        [
+          "Efternamn med minst 10 bärare bland folkbokförda 31 december respektive år. År 1999 - 2020",
+          "2021-03-01"
+        ]
+      ]
     },
     {
       "heading_path": [

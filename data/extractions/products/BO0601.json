@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0601",
     "response_url": "https://www.scb.se/BO0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetstaxeringar/",
-    "fetched_at": "2026-10-19T03:38:31.188485Z",
+    "fetched_at": "2026-10-26T03:41:41.990424Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e5c35f4d581198e8e992a60a7f928eee869e85618d210838d563e6b1ba6d8954",
+    "content_sha256": "5eb70723872ec456e1d350a1660c6a42a315b15348233bd4f275816ce703b10f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -401,12 +401,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Taxeringsenheter med uppgift om areal (typkod 200 - 299) och areal efter region och typkod. År 2003 - 2024",
+          "text": "Taxeringsenheter med uppgift om areal (typkod 200–299) och areal efter region och typkod. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntSma",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntSma"
         },
         {
-          "text": "Taxeringsenheter (typkod 200 - 299), totalt taxeringsvärde och areal efter region, typkod och ägarkategori. År 2003 - 2024",
+          "text": "Taxeringsenheter (typkod 200–299), totalt taxeringsvärde och areal efter region, typkod och ägarkategori. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvArealSma",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvArealSma"
         },
@@ -416,7 +416,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntSma220"
         },
         {
-          "text": "Taxeringsenheter (typkod 210 - 212), genomsnittliga markvärden och arealer efter region, typkod och strandzonsklass. År 2003 - 2024",
+          "text": "Taxeringsenheter (typkod 210–212), genomsnittliga markvärden och arealer efter region, typkod och strandzonsklass. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvStrandM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvStrandM"
         },
@@ -426,22 +426,22 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvStrandB"
         },
         {
-          "text": "Taxeringsenheter (typkod 200 - 212) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
+          "text": "Taxeringsenheter (typkod 200–212) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKlSmaM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKlSmaM"
         },
         {
-          "text": "Taxeringsenheter (typkod 213 - 230) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
+          "text": "Taxeringsenheter (typkod 213–230) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKlSmaB",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKlSmaB"
         },
         {
-          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 200 - 299) ägda av fysiska personer och totalt taxeringsvärde för ägd andel efter typkod, taxeringsvärdeklass, kön och ägarens ålder. År 2003 - 2024",
+          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 200–299) ägda av fysiska personer och totalt taxeringsvärde för ägd andel efter typkod, taxeringsvärdeklass, kön och ägarens ålder. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKonAlderSma2",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKonAlderSma2"
         },
         {
-          "text": "Värderingsenheter (typkod 220 - 230), genomsnittliga areor och byggnadsvärden efter region, typkod och värdeårsklass. År 2003 - 2024",
+          "text": "Värderingsenheter (typkod 220–230), genomsnittliga areor och byggnadsvärden efter region, typkod och värdeårsklass. År 2003 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AlderKlByggvYtaSma",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AlderKlByggvYtaSma"
         }
@@ -456,11 +456,11 @@
           "Datum"
         ],
         [
-          "Taxeringsenheter med uppgift om areal (typkod 200 - 299) och areal efter region och typkod. År 2003 - 2024",
+          "Taxeringsenheter med uppgift om areal (typkod 200–299) och areal efter region och typkod. År 2003 - 2024",
           "2025-02-27"
         ],
         [
-          "Taxeringsenheter (typkod 200 - 299), totalt taxeringsvärde och areal efter region, typkod och ägarkategori. År 2003 - 2024",
+          "Taxeringsenheter (typkod 200–299), totalt taxeringsvärde och areal efter region, typkod och ägarkategori. År 2003 - 2024",
           "2025-02-27"
         ],
         [
@@ -468,7 +468,7 @@
           "2025-02-27"
         ],
         [
-          "Taxeringsenheter (typkod 210 - 212), genomsnittliga markvärden och arealer efter region, typkod och strandzonsklass. År 2003 - 2024",
+          "Taxeringsenheter (typkod 210–212), genomsnittliga markvärden och arealer efter region, typkod och strandzonsklass. År 2003 - 2024",
           "2025-02-27"
         ],
         [
@@ -476,19 +476,19 @@
           "2025-02-27"
         ],
         [
-          "Taxeringsenheter (typkod 200 - 212) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
+          "Taxeringsenheter (typkod 200–212) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
           "2025-02-27"
         ],
         [
-          "Taxeringsenheter (typkod 213 - 230) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
+          "Taxeringsenheter (typkod 213–230) efter region, typkod och taxeringsvärdeklass. År 2003 - 2024",
           "2025-02-27"
         ],
         [
-          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 200 - 299) ägda av fysiska personer och totalt taxeringsvärde för ägd andel efter typkod, taxeringsvärdeklass, kön och ägarens ålder. År 2003 - 2024",
+          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 200–299) ägda av fysiska personer och totalt taxeringsvärde för ägd andel efter typkod, taxeringsvärdeklass, kön och ägarens ålder. År 2003 - 2024",
           "2025-02-27"
         ],
         [
-          "Värderingsenheter (typkod 220 - 230), genomsnittliga areor och byggnadsvärden efter region, typkod och värdeårsklass. År 2003 - 2024",
+          "Värderingsenheter (typkod 220–230), genomsnittliga areor och byggnadsvärden efter region, typkod och värdeårsklass. År 2003 - 2024",
           "2025-02-27"
         ]
       ]
@@ -533,17 +533,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Taxeringsenheter med uppgift om areal (typkod 300 - 890) och areal efter län och typkod. År 2000 - 2025",
+          "text": "Taxeringsenheter med uppgift om areal (typkod 300–890) och areal efter län och typkod. År 2000 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAnt",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAnt"
         },
         {
-          "text": "Taxeringsenheter (typkod 300 - 799), totalt taxerings-/basvärde och areal efter län, typkod och ägarkategori. År 2000 - 2025",
+          "text": "Taxeringsenheter (typkod 300–799), totalt taxerings-/basvärde och areal efter län, typkod och ägarkategori. År 2000 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAreal",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAreal"
         },
         {
-          "text": "Taxeringsenheter (typkod 300 - 799) efter län, typkod och taxerings-/basvärdeklass. År 2000 - 2025",
+          "text": "Taxeringsenheter (typkod 300–799) efter län, typkod och taxerings-/basvärdeklass. År 2000 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntBasvKl",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntBasvKl"
         },
@@ -563,15 +563,15 @@
           "Datum"
         ],
         [
-          "Taxeringsenheter med uppgift om areal (typkod 300 - 890) och areal efter län och typkod. År 2000 - 2025",
+          "Taxeringsenheter med uppgift om areal (typkod 300–890) och areal efter län och typkod. År 2000 - 2025",
           "2026-02-19"
         ],
         [
-          "Taxeringsenheter (typkod 300 - 799), totalt taxerings-/basvärde och areal efter län, typkod och ägarkategori. År 2000 - 2025",
+          "Taxeringsenheter (typkod 300–799), totalt taxerings-/basvärde och areal efter län, typkod och ägarkategori. År 2000 - 2025",
           "2026-02-19"
         ],
         [
-          "Taxeringsenheter (typkod 300 - 799) efter län, typkod och taxerings-/basvärdeklass. År 2000 - 2025",
+          "Taxeringsenheter (typkod 300–799) efter län, typkod och taxerings-/basvärdeklass. År 2000 - 2025",
           "2026-02-19"
         ],
         [
@@ -734,7 +734,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Taxeringsenheter med uppgift om areal (typkod 100 - 199) och areal efter län och typkod. År 1998 - 2023",
+          "text": "Taxeringsenheter med uppgift om areal (typkod 100–199) och areal efter län och typkod. År 1998 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntLant",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntLant"
         },
@@ -744,7 +744,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealAntSkatteFLant"
         },
         {
-          "text": "Taxeringsenheter (typkod 100-122,199) efter län, typkod och taxeringsvärdeklass. År 1998 - 2023",
+          "text": "Taxeringsenheter (typkod 100–122,199) efter län, typkod och taxeringsvärdeklass. År 1998 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKLLant",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvKLLant"
         },
@@ -829,7 +829,7 @@
           "Datum"
         ],
         [
-          "Taxeringsenheter med uppgift om areal (typkod 100 - 199) och areal efter län och typkod. År 1998 - 2023",
+          "Taxeringsenheter med uppgift om areal (typkod 100–199) och areal efter län och typkod. År 1998 - 2023",
           "2024-02-28"
         ],
         [
@@ -837,7 +837,7 @@
           "2024-02-28"
         ],
         [
-          "Taxeringsenheter (typkod 100-122,199) efter län, typkod och taxeringsvärdeklass. År 1998 - 2023",
+          "Taxeringsenheter (typkod 100–122,199) efter län, typkod och taxeringsvärdeklass. År 1998 - 2023",
           "2024-02-28"
         ],
         [
@@ -911,18 +911,340 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0601G",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0601G"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fastighetstaxeringar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Taxeringsenheter (typkod 110,113,120,122) och genomsnittligt totalt taxeringsvärde efter län och andelsklass för jordbruks- och ekonomibyggnadsvärde. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GenomsnJordbVAndLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GenomsnJordbVAndLant"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,113,120,122) och genomsnittligt totalt taxeringsvärde efter län och skogsbruksandelsklass. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GenomsnSkogsVAndLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GenomsnSkogsVAndLant"
+        },
+        {
+          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 110,113,120,122) ägda av fysiska personer efter ägd andel i procent, ägarens kön och ålder. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarAndProKonAldLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarAndProKonAldLant"
+        },
+        {
+          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med skogsareal (typkod 110,113,120,122) ägda av fysiska personer efter skogsarealklass, ägarens kön och ålder. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarSkogKLKonAldLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarSkogKLKonAldLant"
+        },
+        {
+          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med skogsareal (typkod 110,113,120,122) ägda av fysiska personer efter län och ägarens kön. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgareUtboKonAldLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgareUtboKonAldLant"
+        },
+        {
+          "text": "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med åkerareal (typkod 110,113,120,122) ägda av fysiska personer efter åkerarealklass, ägarens kön och ålder. År 1998 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarAkerKLKonAldLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AgarAkerKLKonAldLant"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,120,121), totalt basvärde år 1998, totalt taxeringsvärde år 2005 samt vägd och ovägd förändring efter län och typkod. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvBasvAndrLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvBasvAndrLant"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2004, totalt taxeringsvärde år 2005 samt vägd och ovägd förändring efter län och typkod. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2007, totalt taxeringsvärde år 2008 samt vägd och ovägd förändring efter län och typkod. År 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant08",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant08"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2010, totalt taxeringsvärde år 2011 samt vägd och ovägd förändring efter län och typkod. År 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant11"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 110,120,121,122), totalt taxeringsvärde år 2013, totalt taxeringsvärde år 2014 samt vägd och ovägd förändring efter län och typkod. År 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrLant14"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2002, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2005, totalt taxeringsvärde år 2006 samt vägd och ovägd förändring efter region och typkod. År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark06"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2008, totalt taxeringsvärde år 2009 samt vägd och ovägd förändring efter region och typkod. År 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark09"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2011, totalt taxeringsvärde år 2012 samt vägd och ovägd förändring efter region och typkod. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark12"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210), totalt taxeringsvärde år 2014, totalt taxeringsvärde år 2015 samt vägd och ovägd förändring efter region och typkod. År 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark15N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark15N"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 210), totalt taxeringsvärde år 2017, totalt taxeringsvärde år 2018 samt vägd och ovägd förändring efter region och typkod. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrMark18"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220–223), totalt basvärde år 1996, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvBasvAndrBygg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvBasvAndrBygg"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2002, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2005, totalt taxeringsvärde år 2006 samt vägd och ovägd förändring efter region och typkod. År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg06",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg06"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2008, totalt taxeringsvärde år 2009 samt vägd och ovägd förändring efter region och typkod. År 2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg09",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg09"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2011, totalt taxeringsvärde år 2012 samt vägd och ovägd förändring efter region och typkod. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg12"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220, 223, 225, 230), totalt taxeringsvärde år 2014, totalt taxeringsvärde år 2015 samt vägd och ovägd förändring efter region och typkod. År 2015",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg15N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg15N"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 220, 223, 225, 230), totalt taxeringsvärde år 2017, totalt taxeringsvärde år 2018 samt vägd och ovägd förändring efter region och typkod. År 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntTaxvAndrBygg18"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320,321,325), totalt basvärde år 1994, totalt basvärde år 2000 samt vägd och ovägd förändring efter län och typkod. År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Basv94Basv00AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Basv94Basv00AndrHyr"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320, 321, 325), totalt basvärde år 2000, totalt taxeringsvärde år 2004 samt vägd och ovägd förändring efter län och typkod. År 2004",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Basv00Taxv04AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Basv00Taxv04AndrHyr"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320, 321, 325), totalt taxeringsvärde år 2006, totalt taxeringsvärde år 2007 samt vägd och ovägd förändring efter län och typkod. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv06Taxv07AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv06Taxv07AndrHyr"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320, 321, 325), totalt taxeringsvärde år 2009, totalt taxeringsvärde år 2010 samt vägd och ovägd förändring efter län och typkod. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv09Taxv10AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv09Taxv10AndrHyr"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320, 321, 325, 520), totalt taxeringsvärde år 2012, totalt taxeringsvärde år 2013 samt vägd och ovägd förändring efter län och typkod. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv12Taxv13AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv12Taxv13AndrHyr"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 320, 321, 325, 520), totalt taxeringsvärde år 2015, totalt taxeringsvärde år 2016 samt vägd och ovägd förändring efter län och typkod. År 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv15Taxv16AndrHyr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv15Taxv16AndrHyr"
+        },
+        {
+          "text": "Fastighetstaxering för hyreshusenheter. Taxeringsenheter, bostads- och lokalvärden efter region och typkod. År 2006 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresBostLokVarde",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresBostLokVarde"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 420–433), totalt taxeringsvärde år 2006, totalt taxeringsvärde år 2007 samt vägd och ovägd förändring efter län. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv06Taxv07AndrInd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv06Taxv07AndrInd"
+        },
+        {
+          "text": "Taxeringsenheter (typkod 420–433), totalt taxeringsvärde år 2012, totalt taxeringsvärde år 2013 samt vägd och ovägd förändring efter län. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv12Taxv13AndrInd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Taxv12Taxv13AndrInd"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,113,120,122) och genomsnittligt totalt taxeringsvärde efter län och andelsklass för jordbruks- och ekonomibyggnadsvärde. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,113,120,122) och genomsnittligt totalt taxeringsvärde efter län och skogsbruksandelsklass. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter (typkod 110,113,120,122) ägda av fysiska personer efter ägd andel i procent, ägarens kön och ålder. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med skogsareal (typkod 110,113,120,122) ägda av fysiska personer efter skogsarealklass, ägarens kön och ålder. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med skogsareal (typkod 110,113,120,122) ägda av fysiska personer efter län och ägarens kön. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Ägare/ägarandelar (med ägarandel minst 1procent) till taxeringsenheter med åkerareal (typkod 110,113,120,122) ägda av fysiska personer efter åkerarealklass, ägarens kön och ålder. År 1998 - 2014",
+          "2015-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,120,121), totalt basvärde år 1998, totalt taxeringsvärde år 2005 samt vägd och ovägd förändring efter län och typkod. År 2005",
+          "2006-06-13"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2004, totalt taxeringsvärde år 2005 samt vägd och ovägd förändring efter län och typkod. År 2005",
+          "2006-06-13"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2007, totalt taxeringsvärde år 2008 samt vägd och ovägd förändring efter län och typkod. År 2008",
+          "2012-02-27"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,120,121), totalt taxeringsvärde år 2010, totalt taxeringsvärde år 2011 samt vägd och ovägd förändring efter län och typkod. År 2011",
+          "2012-02-27"
+        ],
+        [
+          "Taxeringsenheter (typkod 110,120,121,122), totalt taxeringsvärde år 2013, totalt taxeringsvärde år 2014 samt vägd och ovägd förändring efter län och typkod. År 2014",
+          "2015-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2002, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "2004-05-18"
+        ],
+        [
+          "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2005, totalt taxeringsvärde år 2006 samt vägd och ovägd förändring efter region och typkod. År 2006",
+          "2007-03-28"
+        ],
+        [
+          "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2008, totalt taxeringsvärde år 2009 samt vägd och ovägd förändring efter region och typkod. År 2009",
+          "2010-03-31"
+        ],
+        [
+          "Taxeringsenheter (typkod 210–212), totalt taxeringsvärde år 2011, totalt taxeringsvärde år 2012 samt vägd och ovägd förändring efter region och typkod. År 2012",
+          "2013-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 210), totalt taxeringsvärde år 2014, totalt taxeringsvärde år 2015 samt vägd och ovägd förändring efter region och typkod. År 2015",
+          "2016-02-26"
+        ],
+        [
+          "Taxeringsenheter (typkod 210), totalt taxeringsvärde år 2017, totalt taxeringsvärde år 2018 samt vägd och ovägd förändring efter region och typkod. År 2018",
+          "2019-02-22"
+        ],
+        [
+          "Taxeringsenheter (typkod 220–223), totalt basvärde år 1996, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "2004-05-18"
+        ],
+        [
+          "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2002, totalt taxeringsvärde år 2003 samt vägd och ovägd förändring efter region och typkod. År 2003",
+          "2004-05-18"
+        ],
+        [
+          "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2005, totalt taxeringsvärde år 2006 samt vägd och ovägd förändring efter region och typkod. År 2006",
+          "2007-03-28"
+        ],
+        [
+          "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2008, totalt taxeringsvärde år 2009 samt vägd och ovägd förändring efter region och typkod. År 2009",
+          "2010-03-31"
+        ],
+        [
+          "Taxeringsenheter (typkod 220–223), totalt taxeringsvärde år 2011, totalt taxeringsvärde år 2012 samt vägd och ovägd förändring efter region och typkod. År 2012",
+          "2013-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 220, 223, 225, 230), totalt taxeringsvärde år 2014, totalt taxeringsvärde år 2015 samt vägd och ovägd förändring efter region och typkod. År 2015",
+          "2016-02-26"
+        ],
+        [
+          "Taxeringsenheter (typkod 220, 223, 225, 230), totalt taxeringsvärde år 2017, totalt taxeringsvärde år 2018 samt vägd och ovägd förändring efter region och typkod. År 2018",
+          "2019-02-22"
+        ],
+        [
+          "Taxeringsenheter (typkod 320,321,325), totalt basvärde år 1994, totalt basvärde år 2000 samt vägd och ovägd förändring efter län och typkod. År 2000",
+          "2005-03-04"
+        ],
+        [
+          "Taxeringsenheter (typkod 320, 321, 325), totalt basvärde år 2000, totalt taxeringsvärde år 2004 samt vägd och ovägd förändring efter län och typkod. År 2004",
+          "2005-03-04"
+        ],
+        [
+          "Taxeringsenheter (typkod 320, 321, 325), totalt taxeringsvärde år 2006, totalt taxeringsvärde år 2007 samt vägd och ovägd förändring efter län och typkod. År 2007",
+          "2008-04-18"
+        ],
+        [
+          "Taxeringsenheter (typkod 320, 321, 325), totalt taxeringsvärde år 2009, totalt taxeringsvärde år 2010 samt vägd och ovägd förändring efter län och typkod. År 2010",
+          "2011-03-24"
+        ],
+        [
+          "Taxeringsenheter (typkod 320, 321, 325, 520), totalt taxeringsvärde år 2012, totalt taxeringsvärde år 2013 samt vägd och ovägd förändring efter län och typkod. År 2013",
+          "2014-02-25"
+        ],
+        [
+          "Taxeringsenheter (typkod 320, 321, 325, 520), totalt taxeringsvärde år 2015, totalt taxeringsvärde år 2016 samt vägd och ovägd förändring efter län och typkod. År 2016",
+          "2017-05-16"
+        ],
+        [
+          "Fastighetstaxering för hyreshusenheter. Taxeringsenheter, bostads- och lokalvärden efter region och typkod. År 2006 - 2018",
+          "2018-12-13"
+        ],
+        [
+          "Taxeringsenheter (typkod 420–433), totalt taxeringsvärde år 2006, totalt taxeringsvärde år 2007 samt vägd och ovägd förändring efter län. År 2007",
+          "2008-04-18"
+        ],
+        [
+          "Taxeringsenheter (typkod 420–433), totalt taxeringsvärde år 2012, totalt taxeringsvärde år 2013 samt vägd och ovägd förändring efter län. År 2013",
+          "2014-02-25"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0124",
     "response_url": "https://www.scb.se/EN0124",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/produktion-av-biogas-och-rotrester/",
-    "fetched_at": "2026-10-19T03:38:44.752368Z",
+    "fetched_at": "2026-10-26T03:41:54.693350Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e11ddf358a77f32e46d937353287f1422e2530d3b40be3ac7364bd8cc48a3998",
+    "content_sha256": "552311638238ad4ffe940b169ecf71de3088770f27274fb55c0f299a7ba1cb5c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0124",
   "summary": "Syftet med undersökningen är att ge beslutsfattare, branschorganisationer, forskare, journalister, kommuner och allmänhet information om årlig produktion av biogas och dess användning. Statistiken används bland annat som underlag för Sveriges samlade rapportering av förnybar energi till EU och som underlag i olika statliga utredningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-01",
+  "next_publication_date": "2027-10-01",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-01",
         "Syftet med undersökningen är att ge beslutsfattare, branschorganisationer, forskare, journalister, kommuner och allmänhet information om årlig produktion av biogas och dess användning. Statistiken används bland annat som underlag för Sveriges samlade rapportering av förnybar energi till EU och som underlag i olika statliga utredningar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0124&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0124&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

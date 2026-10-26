@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0404",
     "response_url": "https://www.scb.se/UF0404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/studiestod/nyttjande-av-studiestod/",
-    "fetched_at": "2026-10-19T03:42:44.527983Z",
+    "fetched_at": "2026-10-26T03:45:47.843922Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "14099c87d4f4e53c557e55bcdfa696dc66724f98f49fc148f0d0ccf09bd336a1",
+    "content_sha256": "652fa120811797d02fd80f49d802b70519283626fed0cf74ccbf5085b41dac93",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0404",
   "summary": "Statistik om nyttjande av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Uppgifter om andelen som använder studiestöd finns från och med andra kalenderhalvåret 2010.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-18",
+  "next_publication_date": "2027-08-18",
   "responsible_agency": {
     "label": "Centrala studiestödsnämnden (CSN)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-18",
         "Statistik om nyttjande av studiestöd publiceras i en databas på CSN:s (Centrala studiestödsnämnden) webbplats. Uppgifter om andelen som använder studiestöd finns från och med andra kalenderhalvåret 2010."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0404&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0404&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

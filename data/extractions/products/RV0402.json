@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0402",
     "response_url": "https://www.scb.se/RV0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard---fangelse-och-hakte/",
-    "fetched_at": "2026-10-19T03:41:34.781297Z",
+    "fetched_at": "2026-10-26T03:44:37.522665Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "eac058ecfad43bb5bb9f724d5caa0e10a62ec848f08f713c904faee838384fb2",
+    "content_sha256": "5ccbea3a02816ebaec5f99df5d5182e1e498cde003ca75c48c438ad8a227a4d1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0402",
   "summary": "Statistiken visar personer dömda till fängelse som avtjänar sin påföljd i anstalt. Statistiken visar också antal häktade personer, permissioner och avvikelser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-16",
+  "next_publication_date": "2027-09-16",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-16",
         "Statistiken visar personer dömda till fängelse som avtjänar sin påföljd i anstalt. Statistiken visar också antal häktade personer, permissioner och avvikelser."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0402&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0402&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

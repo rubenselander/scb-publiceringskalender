@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0503",
     "response_url": "https://www.scb.se/MI0503",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/forsalda-kvantiteter-av-bekampningsmedel/",
-    "fetched_at": "2026-10-19T03:40:27.119187Z",
+    "fetched_at": "2026-10-26T03:43:33.217229Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "28d9c71ab76d64058dbaf70c0d98233683d272003539587158f664a6b0cb6e18",
+    "content_sha256": "d6527f179b218bc6ea4d2f47924ef4db9924fc161f1d11990608869ae15a5a01",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0503",
   "summary": "Statistiken visar bland annat såld mängd bekämpningsmedel efter olika användarkategorier och typ av medel.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-24",
+  "next_publication_date": "2027-06-24",
   "responsible_agency": {
     "label": "Kemikalieinspektionen (KemI)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-24",
         "Statistiken visar bland annat såld mängd bekämpningsmedel efter olika användarkategorier och typ av medel."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-24",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0503&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0503&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

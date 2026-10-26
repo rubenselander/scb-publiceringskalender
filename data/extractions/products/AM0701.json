@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0701",
     "response_url": "https://www.scb.se/AM0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/konjunkturstatistik-over-vakanser-kv/",
-    "fetched_at": "2026-10-19T03:38:21.379638Z",
+    "fetched_at": "2026-10-26T03:41:31.929985Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6eac54b4151320e8ebf9f12f0f7583dec97eba59da021d45ab6a528e6a9ab7c0",
+    "content_sha256": "7a8f3950b8e3355c885677f453163c222a6ae242b72e2a138d412bbc63f53bb3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -390,18 +390,178 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0701D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0701D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik över vakanser (KV)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekTid07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekTid07"
+        },
+        {
+          "text": "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region och näringsgren SNI2002, urvalsundersökning. Kvartal 2003K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakgrRegBr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakgrRegBr"
+        },
+        {
+          "text": "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region och näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakgrRegBr07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakgrRegBr07"
+        },
+        {
+          "text": "Rekryterings- och vakansgrad, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekochVakansgrad07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekochVakansgrad07"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedigajobbVakans07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedigajobbVakans07"
+        },
+        {
+          "text": "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2002K2 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLJVAKgrreg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLJVAKgrreg"
+        },
+        {
+          "text": "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2003K3 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekReg"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter region och näringsgren SNI2002, urvalsundersökning. Kvartal 2001K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakRegBr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakRegBr"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter region och näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakRegBr07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakRegBr07"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2001K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLJVAKreg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLJVAKreg"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter antal anställda, urvalsundersökning. Kvartal 2001K1 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakStor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedVakStor"
+        },
+        {
+          "text": "Rekryterings- och vakansgrad, privat sektor (KV) efter antal anställda, urvalsundersökning. Kvartal 2002K2 - 2015K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakStor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekVakStor"
+        },
+        {
+          "text": "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2003K3 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekTid",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekTid"
+        },
+        {
+          "text": "Lediga jobb och vakanser, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2001K2 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedigajobbVakanser",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVLedigajobbVakanser"
+        },
+        {
+          "text": "Rekryterings- och vakansgrad, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2001K2 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekochVakansgrad",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KVRekochVakansgrad"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region och näringsgren SNI2002, urvalsundersökning. Kvartal 2003K1 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region och näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryterings- och vakansgrad, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryteringsgrad och vakansgrad, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2002K2 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2003K3 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter region och näringsgren SNI2002, urvalsundersökning. Kvartal 2001K1 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter region och näringsgren SNI 2007, urvalsundersökning. Kvartal 2009K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter region NUTS2, urvalsundersökning. Kvartal 2001K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter antal anställda, urvalsundersökning. Kvartal 2001K1 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryterings- och vakansgrad, privat sektor (KV) efter antal anställda, urvalsundersökning. Kvartal 2002K2 - 2015K1",
+          "2015-05-21"
+        ],
+        [
+          "Rekryteringstid, genomsnittlig i månader, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2003K3 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Lediga jobb och vakanser, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2001K2 - 2008K4",
+          "2009-02-17"
+        ],
+        [
+          "Rekryterings- och vakansgrad, privat sektor (KV) efter näringsgren SNI2002, urvalsundersökning. Kvartal 2001K2 - 2008K4",
+          "2009-02-17"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0214",
     "response_url": "https://www.scb.se/SF0214",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/beslut-om-sjukpenning/",
-    "fetched_at": "2026-10-19T03:41:48.972806Z",
+    "fetched_at": "2026-10-26T03:44:52.716070Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "80721ebfcc8b0772e91153debac64a60186833efd6a605749abb1c16ee7ab2d8",
+    "content_sha256": "4a25861ced5c26b287ecf1b967a192b8fb0c2ab7b679c4039a4b7471b5ba017b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0214",
   "summary": "Statistiken visar utvecklingen av de beslut Försäkringskassan fattar om sjukpenning, vid första ansökan om sjukpenning liksom senare i ett sjukfall. Statistiken visar också anledningar till att sjukfall avslutas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-12",
+  "next_publication_date": "2027-01-12",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-12",
         "Statistiken visar utvecklingen av de beslut Försäkringskassan fattar om sjukpenning, vid första ansökan om sjukpenning liksom senare i ett sjukfall. Statistiken visar också anledningar till att sjukfall avslutas."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-12",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0214&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0214&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0307",
     "response_url": "https://www.scb.se/MI0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/",
-    "fetched_at": "2026-10-19T03:40:21.414228Z",
+    "fetched_at": "2026-10-26T03:43:27.027400Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a1599a45cdd0b98a75f1b35a7edcd084f669fabeec2e83f824aa31e404d6272b",
+    "content_sha256": "346611abf915d38177e89758e06b82a80a842c6df1485a514279c471b2b8d36f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0307",
   "summary": "Förpackningsstatistiken redovisar återvinningsgraden för förpackningar som uppkommer i Sverige varje år. Förpackningar används för att skydda och presentera en vara och kan till exempel tillverkas av papper, plast, metall, trä eller glas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-12-04",
-  "next_publication_date": "2026-12-04",
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": {
     "label": "Naturvårdsverket",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-12-04",
+        "Nästa publicering: 2026-11-12",
         "Förpackningsstatistiken redovisar återvinningsgraden för förpackningar som uppkommer i Sverige varje år. Förpackningar används för att skydda och presentera en vara och kan till exempel tillverkas av papper, plast, metall, trä eller glas."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-12-04",
+          "text": "Nästa publicering: 2026-11-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0307&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0307&period=Forward1Year"
         }

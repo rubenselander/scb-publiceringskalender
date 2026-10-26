@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0124",
     "response_url": "https://www.scb.se/NV0124",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/ekonomisk-statistik-pa-kvartal/",
-    "fetched_at": "2026-10-19T03:41:00.478598Z",
+    "fetched_at": "2026-10-26T03:44:03.345556Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d1b7d3affdf02c4eb8f9ef192e78404e27c7da4c750e7dd01297bb2db42fec82",
+    "content_sha256": "d790424f4d5182a9dc9521ab9fdfc70756080076768039aab7400f9f50d4688d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -459,18 +459,205 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0124X",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0124X"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Ekonomisk statistik på kvartal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Investeringsenkäten, planerade investeringar och utfall. År 2009 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatNV0801",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatNV0801"
+        },
+        {
+          "text": "Investeringar i löpande priser efter näringsgren SNI2002 och investeringsobjekt. År 1990 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvLopAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvLopAr"
+        },
+        {
+          "text": "Investeringar efter näringsgren SNI2002 och investeringsobjekt. Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvKv"
+        },
+        {
+          "text": "Investeringar efter enkättillfälle, näringsgren SNI2002 och investeringsobjekt. Kvartal + prognosår 1990K1 - 2008K5",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvKv5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvKv5"
+        },
+        {
+          "text": "Investeringar i 2000 års priser efter näringsgren SNI2002 och investeringsobjekt. År 1993 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastAr2000",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastAr2000"
+        },
+        {
+          "text": "Investeringar i 1991 års priser efter näringsgren SNI92 och investeringsobjekt. År 1990 - 1999",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastAr"
+        },
+        {
+          "text": "Investeringar i löpande priser efter investeringsobjekt och näringsgren SNI69. År 1972 - 1995",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvLopSni69Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvLopSni69Ar"
+        },
+        {
+          "text": "Investeringar i löpande priser efter investeringsobjekt, näringsgren SNI69 och enkättillfälle. År 1979 - 1995",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvSni69Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvSni69Ar"
+        },
+        {
+          "text": "Investeringar i 1985 års priser efter investeringsobjekt och näringsgren SNI69. År 1980 - 1993",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastSni69Ar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndInvFastSni69Ar"
+        },
+        {
+          "text": "Verkställda investeringar, helår, efter näringsgren SNI 2007 och investeringsobjekt. 2008 års prisnivå. År 2008 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvArFP",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvArFP"
+        },
+        {
+          "text": "Planerade samt verkställda investeringar, helår, efter näringsgren SNI2007 och investeringsobjekt. År 2007 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvArProgUtf",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvArProgUtf"
+        },
+        {
+          "text": "Planerade samt verkställda investeringar per kvartal, efter näringsgren SNI2007 och investeringsobjekt.  Kvartal 2008K1 - 2022K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvKvProgUtfN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InvKvProgUtfN"
+        },
+        {
+          "text": "Industrins totala lager inom totala industrin (B+C), förändring från föregående kvartal, procent. Kvartal 2013K4 - 2021K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatNV0602",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatNV0602"
+        },
+        {
+          "text": "Volymförändringar i industrins lager efter lagertyp och näringsgren SNI2007.  Kvartal 2008K1 - 2021K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLagerSNI07Kv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLagerSNI07Kv"
+        },
+        {
+          "text": "Industrins lagerstockar vid kvartalsskiften efter lagertyp och näringsgren SNI92. Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLagerKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IndLagerKv"
+        },
+        {
+          "text": "Handelns lagerutveckling efter näringsgren SNI 2007. Kvartal 2002K1 - 2021K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLager07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLager07"
+        },
+        {
+          "text": "Volymförändringar i handelns lager efter näringsgren SNI 2007. Kvartal 2013K1 - 2021K1",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLagerVolym",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLagerVolym"
+        },
+        {
+          "text": "Handelns lagerutveckling efter näringsgren SNI 2002. Kvartal 2002K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLager",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HandelsLager"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Investeringsenkäten, planerade investeringar och utfall. År 2009 - 2019",
+          "2019-03-01"
+        ],
+        [
+          "Investeringar i löpande priser efter näringsgren SNI2002 och investeringsobjekt. År 1990 - 2008",
+          "2013-11-21"
+        ],
+        [
+          "Investeringar efter näringsgren SNI2002 och investeringsobjekt. Kvartal 1990K1 - 2008K4",
+          "2009-03-09"
+        ],
+        [
+          "Investeringar efter enkättillfälle, näringsgren SNI2002 och investeringsobjekt. Kvartal + prognosår 1990K1 - 2008K5",
+          "2009-03-09"
+        ],
+        [
+          "Investeringar i 2000 års priser efter näringsgren SNI2002 och investeringsobjekt. År 1993 - 2008",
+          "2013-05-22"
+        ],
+        [
+          "Investeringar i 1991 års priser efter näringsgren SNI92 och investeringsobjekt. År 1990 - 1999",
+          "2000-07-17"
+        ],
+        [
+          "Investeringar i löpande priser efter investeringsobjekt och näringsgren SNI69. År 1972 - 1995",
+          "2009-05-05"
+        ],
+        [
+          "Investeringar i löpande priser efter investeringsobjekt, näringsgren SNI69 och enkättillfälle. År 1979 - 1995",
+          "2009-05-05"
+        ],
+        [
+          "Investeringar i 1985 års priser efter investeringsobjekt och näringsgren SNI69. År 1980 - 1993",
+          "2009-05-05"
+        ],
+        [
+          "Verkställda investeringar, helår, efter näringsgren SNI 2007 och investeringsobjekt. 2008 års prisnivå. År 2008 - 2018",
+          "2019-05-27"
+        ],
+        [
+          "Planerade samt verkställda investeringar, helår, efter näringsgren SNI2007 och investeringsobjekt. År 2007 - 2023",
+          "2023-03-03"
+        ],
+        [
+          "Planerade samt verkställda investeringar per kvartal, efter näringsgren SNI2007 och investeringsobjekt.  Kvartal 2008K1 - 2022K4",
+          "2023-03-03"
+        ],
+        [
+          "Industrins totala lager inom totala industrin (B+C), förändring från föregående kvartal, procent. Kvartal 2013K4 - 2021K1",
+          "2021-05-19"
+        ],
+        [
+          "Volymförändringar i industrins lager efter lagertyp och näringsgren SNI2007.  Kvartal 2008K1 - 2021K1",
+          "2021-05-19"
+        ],
+        [
+          "Industrins lagerstockar vid kvartalsskiften efter lagertyp och näringsgren SNI92. Kvartal 1990K1 - 2008K4",
+          "2009-02-13"
+        ],
+        [
+          "Handelns lagerutveckling efter näringsgren SNI 2007. Kvartal 2002K1 - 2021K1",
+          "2021-05-19"
+        ],
+        [
+          "Volymförändringar i handelns lager efter näringsgren SNI 2007. Kvartal 2013K1 - 2021K1",
+          "2021-05-19"
+        ],
+        [
+          "Handelns lagerutveckling efter näringsgren SNI 2002. Kvartal 2002K1 - 2008K4",
+          "2009-02-20"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0301",
     "response_url": "https://www.scb.se/BO0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/intakts-och-kostnadsundersokning-for-flerbostadshus-iku/",
-    "fetched_at": "2026-10-19T03:38:28.678071Z",
+    "fetched_at": "2026-10-26T03:41:39.305745Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5d934f4fc30644544c31d93157cf93c1c9bf23050c03af82bc9048cc3ad1d4a8",
+    "content_sha256": "d611da1ce3d2d44f90f1a89a5a7961352ae3909c3a289f03e76afb3b220ab361",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -249,18 +249,214 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0301J",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0301J"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Intäkts- och kostnadsundersökning för flerbostadshus (IKU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Intäkter och kostnader för flerbostadshus efter region, fastighetsägarkategori och intäkts-/kostnadsslag. (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUIoKTot",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUIoKTot"
+        },
+        {
+          "text": "Intäkter och kostnader för flerbostadshus efter region, nybyggår/värdeår, årsintervall, fastighetsägarkategori och intäkts-/kostnadsslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUIoKReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUIoKReg"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus (IKU), bostadsrättsföreningar, efter region, färdigställandeår samt intäkts- och kostnadsslag. (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfIntFar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfIntFar"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus (IKU), bostadsrättsföreningar, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfIntVar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfIntVar"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus (IKU), kommunägda bostadsföretag, efter region, lägenhetsantal samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUKommIntStorl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUKommIntStorl"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus (IKU), privatägda, efter region, färdigställandeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivIntFar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivIntFar"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus (IKU), privatägda, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivIntVar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivIntVar"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus utan lokaler (IKU), privatägda, efter region, färdigställandeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivUlokIntFar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivUlokIntFar"
+        },
+        {
+          "text": "Intäkter och kostnader i flerbostadshus utan lokaler (IKU), privatägda, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivUlokIntVar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivUlokIntVar"
+        },
+        {
+          "text": "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), bostadsrättsföreningar, efter region och färdigställandeår.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfTaxSkuldFar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUBrfTaxSkuldFar"
+        },
+        {
+          "text": "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), kommunägda bostadsföretag, efter region och lägenhetsantal.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUKommTaxSkuldStorl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUKommTaxSkuldStorl"
+        },
+        {
+          "text": "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), privatägda, efter region och färdigställandeår. (Urvalsundersökning, se fotnoter.)  År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivTaxSkuldFar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUPrivTaxSkuldFar"
+        },
+        {
+          "text": "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter för flerbostadshus efter region, fastighetsägarkategori och kontoslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUTaxSkuldTot",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUTaxSkuldTot"
+        },
+        {
+          "text": "Taxeringsvärden, låneskulder, räntor, räntebidrag samt ombyggnadsutgifter för flerbostadshus efter region, värdeår, fastighetsägarkategori och kontoslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUTaxSkuldReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUTaxSkuldReg"
+        },
+        {
+          "text": "Ytor och antal för bostadslägenheter och lokaler i flerbostadshus efter region och fastighetsägarkategori.  (Urvalsundersökning, se fotnoter.) År 2003 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntTotN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntTotN"
+        },
+        {
+          "text": "Ytor och antal för bostadslägenheter och lokaler i flerbostadshus efter region, nybyggår/värdeår, årsintervall och fastighetsägarkategori. (Urvalsundersökning, se fotnoter.) År 2003 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntRegN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntRegN"
+        },
+        {
+          "text": "Ytor och antal för lägenheter, lokaler, garage och bilplatser i flerbostadshus efter region, fastighetsägarkategori och lägenhetstyp.  (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntTot",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntTot"
+        },
+        {
+          "text": "Ytor och antal för lägenheter, lokaler, garage och bilplatser i flerbostadshus efter region, nybyggår/värdeår, årsintervall, fastighetsägarkategori och lägenhetstyp. (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtaAntReg"
+        },
+        {
+          "text": "Ytor och antal lägenheter i IKU efter region, ägarkategori och typ av lägenhet.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtorAntal",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IKUYtorAntal"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Intäkter och kostnader för flerbostadshus efter region, fastighetsägarkategori och intäkts-/kostnadsslag. (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Intäkter och kostnader för flerbostadshus efter region, nybyggår/värdeår, årsintervall, fastighetsägarkategori och intäkts-/kostnadsslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus (IKU), bostadsrättsföreningar, efter region, färdigställandeår samt intäkts- och kostnadsslag. (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus (IKU), bostadsrättsföreningar, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus (IKU), kommunägda bostadsföretag, efter region, lägenhetsantal samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus (IKU), privatägda, efter region, färdigställandeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus (IKU), privatägda, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus utan lokaler (IKU), privatägda, efter region, färdigställandeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Intäkter och kostnader i flerbostadshus utan lokaler (IKU), privatägda, efter region, värdeår samt intäkts- och kostnadsslag.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), bostadsrättsföreningar, efter region och färdigställandeår.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), kommunägda bostadsföretag, efter region och lägenhetsantal.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter (IKU), privatägda, efter region och färdigställandeår. (Urvalsundersökning, se fotnoter.)  År 1999 - 2000",
+          "2001-12-21"
+        ],
+        [
+          "Taxeringsvärden, låneskulder, räntor, räntebidrag och ombyggnadsutgifter för flerbostadshus efter region, fastighetsägarkategori och kontoslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Taxeringsvärden, låneskulder, räntor, räntebidrag samt ombyggnadsutgifter för flerbostadshus efter region, värdeår, fastighetsägarkategori och kontoslag. (Urvalsundersökning, se fotnoter.)  År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Ytor och antal för bostadslägenheter och lokaler i flerbostadshus efter region och fastighetsägarkategori.  (Urvalsundersökning, se fotnoter.) År 2003 - 2012",
+          "2015-12-07"
+        ],
+        [
+          "Ytor och antal för bostadslägenheter och lokaler i flerbostadshus efter region, nybyggår/värdeår, årsintervall och fastighetsägarkategori. (Urvalsundersökning, se fotnoter.) År 2003 - 2012",
+          "2015-12-07"
+        ],
+        [
+          "Ytor och antal för lägenheter, lokaler, garage och bilplatser i flerbostadshus efter region, fastighetsägarkategori och lägenhetstyp.  (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Ytor och antal för lägenheter, lokaler, garage och bilplatser i flerbostadshus efter region, nybyggår/värdeår, årsintervall, fastighetsägarkategori och lägenhetstyp. (Urvalsundersökning, se fotnoter.) År 2001 - 2002",
+          "2003-12-22"
+        ],
+        [
+          "Ytor och antal lägenheter i IKU efter region, ägarkategori och typ av lägenhet.  (Urvalsundersökning, se fotnoter.) År 1999 - 2000",
+          "2001-12-21"
+        ]
+      ]
     },
     {
       "heading_path": [

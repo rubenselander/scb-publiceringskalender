@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0201",
     "response_url": "https://www.scb.se/ME0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/",
-    "fetched_at": "2026-10-19T03:40:17.467073Z",
+    "fetched_at": "2026-10-26T03:43:23.532022Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "810255a5172175c4f22056bb476e3ca501a94f7746d37ec719c2710d828ee7bf",
+    "content_sha256": "245c065266c49252a821d77999dba4e8066c976521d304e4d4a9483747cf80a5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -2180,18 +2180,196 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0201X",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ME0201X"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Partisympatiundersökningen (PSU)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Partisympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati111",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati111"
+        },
+        {
+          "text": "Partisympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati112",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati112"
+        },
+        {
+          "text": "Partisympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati131",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Partisympati131"
+        },
+        {
+          "text": "Röstningssympati (parti man skulle rösta på) (PSU)  efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati17"
+        },
+        {
+          "text": "Röstningssympati nu (parti man skulle rösta på) (PSU) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati190",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati190"
+        },
+        {
+          "text": "Röstningssympati nu (parti man skulle rösta på) (PSU) efter röstningssympati i förra PSU. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati200",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Rostningssympati200"
+        },
+        {
+          "text": "Näst bästa parti (PSU) efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.) Mätmånad 2003M05 - 2019M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nastbastaparti19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Nastbastaparti19"
+        },
+        {
+          "text": "Valdeltagandeplaner (PSU) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Valdeltplan18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Valdeltplan18"
+        },
+        {
+          "text": "Eurosympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati091",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati091"
+        },
+        {
+          "text": "Eurosympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati092",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati092"
+        },
+        {
+          "text": "Eurosympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati111",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Eurosympati111"
+        },
+        {
+          "text": "EU-sympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati091",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati091"
+        },
+        {
+          "text": "EU-sympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati092",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati092"
+        },
+        {
+          "text": "EU-sympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati111",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EUsympati111"
+        },
+        {
+          "text": "Nato-sympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2022M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati092",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati092"
+        },
+        {
+          "text": "Nato-sympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning). Mätmånad 2022M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati091",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati091"
+        },
+        {
+          "text": "Nato-sympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2022M05 - 2025M05",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati111",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NATOsympati111"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Partisympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Partisympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Partisympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Röstningssympati (parti man skulle rösta på) (PSU)  efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "2019-12-10"
+        ],
+        [
+          "Röstningssympati nu (parti man skulle rösta på) (PSU) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "2019-12-10"
+        ],
+        [
+          "Röstningssympati nu (parti man skulle rösta på) (PSU) efter röstningssympati i förra PSU. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "2019-12-10"
+        ],
+        [
+          "Näst bästa parti (PSU) efter partisympati (bästa parti). (Urvalsundersökning, se fotnoter.) Mätmånad 2003M05 - 2019M11",
+          "2019-12-10"
+        ],
+        [
+          "Valdeltagandeplaner (PSU) efter partival i förra riksdagsvalet. (Urvalsundersökning, se fotnoter.)  Mätmånad 2001M05 - 2019M11",
+          "2019-12-10"
+        ],
+        [
+          "Eurosympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Eurosympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Eurosympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "EU-sympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "EU-sympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "EU-sympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2006M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Nato-sympati efter kön och socioekonomisk indelning (SEI) bland sysselsatta (urvalsundersökning).  Mätmånad 2022M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Nato-sympati efter kön och socioekonomisk indelning (SEI) i väljarkåren (urvalsundersökning). Mätmånad 2022M05 - 2025M05",
+          "2025-06-11"
+        ],
+        [
+          "Nato-sympati efter sektor bland sysselsatta (urvalsundersökning). Mätmånad 2022M05 - 2025M05",
+          "2025-06-11"
+        ]
+      ]
     },
     {
       "heading_path": [

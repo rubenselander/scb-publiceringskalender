@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0103",
     "response_url": "https://www.scb.se/HA0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/livsmedelsforsaljning-fordelad-pa-varugrupper/",
-    "fetched_at": "2026-10-19T03:38:58.955144Z",
+    "fetched_at": "2026-10-26T03:42:08.354180Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6520754d8ff286271b047a733066f8fd35d89e9778b99032fa8a49ebc0be0a7a",
+    "content_sha256": "41dc7b2765fe361cad19026b5a27061790ccb63c937ae458c1b03d734fff7531",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -251,18 +251,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras längre"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras längre",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0103B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0103B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Livsmedelsförsäljning fördelad på varugrupper",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Försäljning (inkl. moms) av ekologiska livsmedel och alkoholfria drycker inom handeln efter varugrupp (enligt COICOP). År 2016 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EkoLivsN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EkoLivsN"
+        },
+        {
+          "text": "Försäljning (inkl. moms) av livsmedel och drycker inom handeln efter varugrupp (enligt COICOP). År 2016 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LivsN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LivsN"
+        },
+        {
+          "text": "Försäljning (inkl. moms) av livsmedel och drycker inom handeln efter varugrupp (enligt COICOP) (uppdateras ej). År 2000 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Livs",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Livs"
+        },
+        {
+          "text": "Försäljning (inkl. moms) av ekologiska livsmedel och alkoholfria drycker inom handeln efter varugrupp (enligt COICOP) (uppdateras ej). År 2004 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EkoLivs",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EkoLivs"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Försäljning (inkl. moms) av ekologiska livsmedel och alkoholfria drycker inom handeln efter varugrupp (enligt COICOP). År 2016 - 2023",
+          "2024-09-27"
+        ],
+        [
+          "Försäljning (inkl. moms) av livsmedel och drycker inom handeln efter varugrupp (enligt COICOP). År 2016 - 2023",
+          "2024-09-27"
+        ],
+        [
+          "Försäljning (inkl. moms) av livsmedel och drycker inom handeln efter varugrupp (enligt COICOP) (uppdateras ej). År 2000 - 2020",
+          "2021-09-30"
+        ],
+        [
+          "Försäljning (inkl. moms) av ekologiska livsmedel och alkoholfria drycker inom handeln efter varugrupp (enligt COICOP) (uppdateras ej). År 2004 - 2020",
+          "2022-09-29"
+        ]
+      ]
     },
     {
       "heading_path": [

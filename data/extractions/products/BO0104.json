@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0104",
     "response_url": "https://www.scb.se/BO0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/bostadsbestand/",
-    "fetched_at": "2026-10-19T03:38:27.627182Z",
+    "fetched_at": "2026-10-26T03:41:38.275218Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8e514f384a344814a1b0802f4d985282cbce8768808fc7907db34a934a3cb42f",
+    "content_sha256": "f97e0f5df3b3c2b22ea6d97d15aaefe1af43865415f0dbbbd1bac6372161e873",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/bo0104",
   "summary": "Statistiken visar antal lägenheter i bostadsbeståndet. I Statistikdatabasen redovisas bostadsbeståndet efter hustyp, byggnadsperiod, ägarkategori, upplåtelseform och storlek (bostadsarea). Den regionala indelningen av statistiken är på riks-, läns- och kommunnivå. Andra regionala nivåer kan tas ut på uppdragsbasis.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-19",
+  "next_publication_date": "2027-03-19",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-19",
         "Statistiken visar antal lägenheter i bostadsbeståndet. I Statistikdatabasen redovisas bostadsbeståndet efter hustyp, byggnadsperiod, ägarkategori, upplåtelseform och storlek (bostadsarea). Den regionala indelningen av statistiken är på riks-, läns- och kommunnivå. Andra regionala nivåer kan tas ut på uppdragsbasis."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-19",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0104&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0104&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

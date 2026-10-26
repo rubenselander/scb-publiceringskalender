@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0303",
     "response_url": "https://www.scb.se/BO0303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/outhyrda-bostadslagenheter-i-flerbostadshus/",
-    "fetched_at": "2026-10-19T03:38:29.135674Z",
+    "fetched_at": "2026-10-26T03:41:39.970058Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ed1ee275d84df51cea5d546af45c1fc542bf6cd63e7765df479ab47de447672b",
+    "content_sha256": "13bf44540c754678fdae80cbf0e44f7d591bb824a4533cd2c3da26b28167c4ce",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -303,18 +303,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras, 2001-2002"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras, 2001-2002",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0303Z",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0303Z"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Outhyrda bostadslägenheter i flerbostadshus",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Lediga lägenheter i flerbostadshus efter region, ägarkategori och färdigställandeår. År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllm",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllm"
+        },
+        {
+          "text": "Outhyrda lägenheter 1 mars i flerbostadshus efter ägarkategori, orsak till outhyrd lägenhet och färdigställandeår. År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmLedOrsak",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmLedOrsak"
+        },
+        {
+          "text": "Lediga lägenheter i flerbostadshus efter region, ägarkategori och lägenhetstyp. År 2001 - 2002",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmLghTyp",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OuthPrivAllmLghTyp"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Lediga lägenheter i flerbostadshus efter region, ägarkategori och färdigställandeår. År 2001 - 2002",
+          "2008-01-07"
+        ],
+        [
+          "Outhyrda lägenheter 1 mars i flerbostadshus efter ägarkategori, orsak till outhyrd lägenhet och färdigställandeår. År 2001 - 2002",
+          "2008-01-07"
+        ],
+        [
+          "Lediga lägenheter i flerbostadshus efter region, ägarkategori och lägenhetstyp. År 2001 - 2002",
+          "2007-04-26"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0315",
     "response_url": "https://www.scb.se/UF0315",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/innovation/innovation-i-foretagssektorn/",
-    "fetched_at": "2026-10-19T03:42:42.076492Z",
+    "fetched_at": "2026-10-26T03:45:45.258191Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4cb7a9c6beca74e7d7951ba5694eb2c27aa2f20ec121a3f87713ceab8408017f",
+    "content_sha256": "4e1bf6161cb1b52f71eb4129180ae4fab017d3971c483da17725fec1887523a9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -349,18 +349,682 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Företagens innovationsverksamhet: äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Företagens innovationsverksamhet: äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315E",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315E"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Innovation i företagssektorn",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Företagens omsättning och innovationsutgifter avseende produkt- eller processinnovationer, mnkr efter näringsgren SNI 2007 och storleksklass. År 2008 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BCISUtgSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BCISUtgSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag efter näringsgren SNI 2007 och storleksklass . År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACISAntalSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACISAntalSNIStrl"
+        },
+        {
+          "text": "Metoder för att bibehålla eller öka konkurrenskraften för produkt- och/eller processinnovationer efter grad av betydelse, näringsgren SNI 2007 och storleksklass. Antal företag. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T10"
+        },
+        {
+          "text": "Antal och andel innovativa företag efter koncerntillhörighet, näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GCISkoncernSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/GCISkoncernSNIStrl"
+        },
+        {
+          "text": "Informationskällor för företagens innovationsverksamhet avseende produkt- och/eller processinnovationer efter näringsgren SNI 2007, storleksklass. Andelar i procent. Del 1. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T11"
+        },
+        {
+          "text": "Produktinnovativa företags andel av omsättning efter varor/tjänsters innovations-/nyhetsvärde efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008      - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CCISOmsandSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CCISOmsandSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag med innovationssamarbete med olika typer av partner efter näringsgren SNI 2007 och storleksklass. Del 2. År 2010-2012 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DCISAntalsamSNIStrl2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DCISAntalsamSNIStrl2"
+        },
+        {
+          "text": "Företagens mest värdefulla partner i innovationssamarbete efter näringsgren SNI 2007 och storleksklass. År 2008-2010 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T18",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T18"
+        },
+        {
+          "text": "Antal innovativa företag med innovationssamarbete med olika typer av partner efter näringsgren SNI 2007 och storleksklass. Del 1. År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DCISAntalsamSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DCISAntalsamSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag med innovationssamarbete i olika delar av världen efter näringsgren SNI 2007 och storleksklass.  År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ECISsamInternSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ECISsamInternSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag med innovationssamarbete i olika delar av världen efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ECISsamInternNIStrlN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ECISsamInternNIStrlN"
+        },
+        {
+          "text": "Företagens innovationssamarbete privat sektor efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CoopPrvSNIStr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CoopPrvSNIStr"
+        },
+        {
+          "text": "Företagens innovationssamarbete offentlig sektor och icke-vinstdrivande aktörer efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CoopPublSNIStr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CoopPublSNIStr"
+        },
+        {
+          "text": "Omsättning från produktinnovationer som var först i världen efter näringsgren SNI 2007 och storleksklass. År 2010-2012 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T15"
+        },
+        {
+          "text": "Informationskällor för företagens innovationsverksamhet avseende produkt- och/eller processinnovationer efter näringsgren SNI 2007, storleksklass. Andelar i procent. Del 2. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T112",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T112"
+        },
+        {
+          "text": "Antal företag med olika typer av produktinnovationer efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NCISprodSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NCISprodSNIStrl"
+        },
+        {
+          "text": "Antal företag med olika typer av processinnovationer efter näringsgren SNI 2007 och storleksklass . År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OCISprocSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OCISprocSNIStrl"
+        },
+        {
+          "text": "Företagens strategier för att uppnå mål och strategiernas grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T12"
+        },
+        {
+          "text": "Företagens innovations- och FoU-utgifter, mnkr efter näringsgren SNI 2007 och storleksklass. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BCISUtgSNIStrlN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BCISUtgSNIStrlN"
+        },
+        {
+          "text": "Företagens mål och målens grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T13",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T13"
+        },
+        {
+          "text": "Antal företag med olika typer av organisatoriska innovationer efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PCISorgSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PCISorgSNIStrl"
+        },
+        {
+          "text": "Antal företag med olika typer av innovationer inom marknadsföring efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/QCISmarkSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/QCISmarkSNIStrl"
+        },
+        {
+          "text": "Företagens hinder för att uppnå mål och hindrens grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T14"
+        },
+        {
+          "text": "Företagens syfte med innovationer inom marknadsföring efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008 - 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ICISSyftemarkSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ICISSyftemarkSNIStrl"
+        },
+        {
+          "text": "Företagens syfte med organisatoriska innovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008 - 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JCISSyfteprodSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/JCISSyfteprodSNIStrl"
+        },
+        {
+          "text": "Antal företag med produktinnovationer, innovationens nyhetsinslag efter näringsgren SNI 2007 och storleksklass. År 2008-2010 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TCISNyhetsinsSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TCISNyhetsinsSNIStrl"
+        },
+        {
+          "text": "Företagens finansiering av innovationsverksamhet efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SCISFinansSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SCISFinansSNIStrl"
+        },
+        {
+          "text": "Vem utvecklar företagens produktinnovationer efter näringsgren SNI 2007, typ av innovation och storleksklass. Andelar i procent. År 2008-2010 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YCISandelutvSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YCISandelutvSNIStrl"
+        },
+        {
+          "text": "Antal företag med hinder av stor betydelse som försvårar verksamhet avseende produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Del 1. År 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UCISHinder1SNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UCISHinder1SNIStrl"
+        },
+        {
+          "text": "Vem utvecklar företagens processinnovationer efter näringsgren och storleksklass. Andelar av processinnovativa i procent. År 2008-2010 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZCISandelutvSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ZCISandelutvSNIStrl"
+        },
+        {
+          "text": "Antal företag med olika typer av innovationsaktivitet efter näringsgren SNI 2007 och storleksklass.  År 2008-2010 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T03",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T03"
+        },
+        {
+          "text": "Antal företag, metoder för att stimulera nya ideer eller kreativitet efter näringsgren SNI 2007, resultat och storleksklass. År 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T01",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T01"
+        },
+        {
+          "text": "Antal företag med stöd för innovationsverksamhet efter näringsgren SNI 2007 och storleksklass.  År 2010-2012 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T16",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T16"
+        },
+        {
+          "text": "Företagens syfte med produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T02",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T02"
+        },
+        {
+          "text": "Antal företag med hinder av stor betydelse som försvårar verksamhet avseende produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Del 2. År 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VCISHinder2SNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VCISHinder2SNIStrl"
+        },
+        {
+          "text": "Antal företag med upphandlingskontrakt för att leverera varor eller tjänster till offentliga organisationer efter näringsgren SNI 2007, storleksklass. År 2010-2012 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T172",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T172"
+        },
+        {
+          "text": "Antal företag med innovationsaktiviteter som del av upphandling till offentliga organisationer efter näringsgren SNI 2007, storleksklass. År 2010-2012 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T17",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T17"
+        },
+        {
+          "text": "Antal företag, kompetensområden efter näringsgren SNI 2007, personalkategori och storleksklass. År 2008-2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/XCISKompSNIAnst",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/XCISKompSNIAnst"
+        },
+        {
+          "text": "Vem utvecklar företagens innovationer efter företagens näringsgren, SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FCISandelutvSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FCISandelutvSNIStrl"
+        },
+        {
+          "text": "Immateriella rättigheter och licensiering efter näringsgren och storleksklass.  År 2012-2014 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T19",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T19"
+        },
+        {
+          "text": "Anledningar till att inte bedriva innovationsverksamhet fördelad på olika variabler. År 2012-2014 - 2014-2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T20",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T20"
+        },
+        {
+          "text": "Företagens syfte med produkt- eller processinnovationer efter näringsgren SNI 2007 och  storleksklass. Andelar i procent. År 2006-2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HCISSyfteprodSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HCISSyfteprodSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACISAntalSNIStrlN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ACISAntalSNIStrlN"
+        },
+        {
+          "text": "Gynnsamma effekter på miljö av företagens innovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCISEnvEffektSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LCISEnvEffektSNIStrl"
+        },
+        {
+          "text": "Antal företag med olika typer av processinnovationer efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OCISprocSNIStrlN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OCISprocSNIStrlN"
+        },
+        {
+          "text": "Orsak till introduktion av företagens miljöinnovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MCISEnvSyfteSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MCISEnvSyfteSNIStrl"
+        },
+        {
+          "text": "Antal företag med olika typer av innovationsaktivitet efter näringsgren SNI 2007 och  storleksklass. År 2006-2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RCISaktivSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/RCISaktivSNIStrl"
+        },
+        {
+          "text": "Antal företag med stöd för innovationsverksamhet efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T16N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T16N"
+        },
+        {
+          "text": "Företagens omsättning efter varor och tjänsters innovations-/nyhetsvärde efter bransch.  År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoOmsSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoOmsSNI"
+        },
+        {
+          "text": "Immateriella rättigheter och licensiering efter näringsgren och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T19N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T19N"
+        },
+        {
+          "text": "Företagens omsättning efter varor och tjänsters innovations-/nyhetsvärde i vissa branschgrupper efter storleksklass.  År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoOmsSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoOmsSNIStrl"
+        },
+        {
+          "text": "Företag med innovationssamarbete bland innovativa företag efter bransch. Andelar i procent. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTotSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTotSNI"
+        },
+        {
+          "text": "Företagens strategier för att stärka sina ekonomiska resultat efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrSNIStrl"
+        },
+        {
+          "text": "Antal företag med samskapade eller användaranpassade produkter efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ConcSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ConcSNIStrl"
+        },
+        {
+          "text": "Företag med innovationssamarbete bland innovativa företag i vissa branschgrupper efter storleksklass. Andelar i procent. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTotSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTotSNIStrl"
+        },
+        {
+          "text": "Företag med innovationssamarbete efter bransch och typ av samarbetspartner. Andelar i procent. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTypSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTypSNI"
+        },
+        {
+          "text": "Företagens användare av samskapade eller användaranpassade produkter efter näringsgren SNI 2007 och storleksklass. År 2016-2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ConcUsrSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ConcUsrSNIStrl"
+        },
+        {
+          "text": "Plattformar för att inhämta kunskap efter näringsgren SNI 2007 och storleksklass. År 2016-2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CKnoSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/CKnoSNIStrl"
+        },
+        {
+          "text": "Företag med innovationssamarbete i vissa branschgrupper efter storleksklass och typ av samarbetspartner. Andelar i procent. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTypSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoSamTypSNIStrl"
+        },
+        {
+          "text": "Vem utvecklar företagens produktinnovationer efter näringsgren och storleksklass. Andelar av produktinnovativa i procent. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YCISandelutvSNIStrlN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YCISandelutvSNIStrlN"
+        },
+        {
+          "text": "Antal och andel innovativa företag efter bransch. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotSNI"
+        },
+        {
+          "text": "Antal och andel innovativa företag i vissa branschgrupper efter storleksklass. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotSNIStrl"
+        },
+        {
+          "text": "Företagens totala innovationsutgifter i vissa branschgrupper efter storleksklass.  År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotUtgSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTotUtgSNIStrl"
+        },
+        {
+          "text": "Antal innovativa företag med olika typ av innovationsverksamhet efter bransch. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTypSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTypSNI"
+        },
+        {
+          "text": "Antal innovativa företag med olika typ av innovationsverksamhet i vissa branschgrupper efter storleksklass. År 2004-2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTypSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTypSNIStrl"
+        },
+        {
+          "text": "Företagens innovationsutgifter i vissa branschgrupper efter storleksklass och typ av utgift.  År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTyputgSNIStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgInnoTyputgSNIStrl"
+        },
+        {
+          "text": "Hindrande faktorer för innovationsverksamhet efter betydelse, näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T20N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315T20N"
+        },
+        {
+          "text": "Företagens innovationer med miljöfördelar efter grad av betydelse, näringsgren SNI2007 och storleksklass. År 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315MiljoFordel",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315MiljoFordel"
+        },
+        {
+          "text": "Konsekvenser av klimatförändring för företagen efter grad av betydelse, näringsgren 2007 och storleksklass. År 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315CLIM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315CLIM"
+        },
+        {
+          "text": "Faktorer för att driva företagens beslut att introducera innovationer med miljöfördelar efter grad av betydelse, närinsggren SNI 2007 och storleksklass. År 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315Faktor",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315Faktor"
+        },
+        {
+          "text": "Förutsättningar som företagen mötte efter näringsgren SNI 2007 och storleksklass. År 2018-2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315COND",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UF0315COND"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Företagens omsättning och innovationsutgifter avseende produkt- eller processinnovationer, mnkr efter näringsgren SNI 2007 och storleksklass. År 2008 - 2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal innovativa företag efter näringsgren SNI 2007 och storleksklass . År 2006-2008 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Metoder för att bibehålla eller öka konkurrenskraften för produkt- och/eller processinnovationer efter grad av betydelse, näringsgren SNI 2007 och storleksklass. Antal företag. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Antal och andel innovativa företag efter koncerntillhörighet, näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008 - 2020",
+          "2022-06-09"
+        ],
+        [
+          "Informationskällor för företagens innovationsverksamhet avseende produkt- och/eller processinnovationer efter näringsgren SNI 2007, storleksklass. Andelar i procent. Del 1. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Produktinnovativa företags andel av omsättning efter varor/tjänsters innovations-/nyhetsvärde efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008      - 2020",
+          "2022-11-24"
+        ],
+        [
+          "Antal innovativa företag med innovationssamarbete med olika typer av partner efter näringsgren SNI 2007 och storleksklass. Del 2. År 2010-2012 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Företagens mest värdefulla partner i innovationssamarbete efter näringsgren SNI 2007 och storleksklass. År 2008-2010 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Antal innovativa företag med innovationssamarbete med olika typer av partner efter näringsgren SNI 2007 och storleksklass. Del 1. År 2006-2008 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Antal innovativa företag med innovationssamarbete i olika delar av världen efter näringsgren SNI 2007 och storleksklass.  År 2006-2008 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal innovativa företag med innovationssamarbete i olika delar av världen efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Företagens innovationssamarbete privat sektor efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Företagens innovationssamarbete offentlig sektor och icke-vinstdrivande aktörer efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Omsättning från produktinnovationer som var först i världen efter näringsgren SNI 2007 och storleksklass. År 2010-2012 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Informationskällor för företagens innovationsverksamhet avseende produkt- och/eller processinnovationer efter näringsgren SNI 2007, storleksklass. Andelar i procent. Del 2. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Antal företag med olika typer av produktinnovationer efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Antal företag med olika typer av processinnovationer efter näringsgren SNI 2007 och storleksklass . År 2006-2008 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Företagens strategier för att uppnå mål och strategiernas grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Företagens innovations- och FoU-utgifter, mnkr efter näringsgren SNI 2007 och storleksklass. År 2018 - 2020",
+          "2022-11-24"
+        ],
+        [
+          "Företagens mål och målens grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Antal företag med olika typer av organisatoriska innovationer efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal företag med olika typer av innovationer inom marknadsföring efter näringsgren SNI 2007 och storleksklass. År 2006-2008 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Företagens hinder för att uppnå mål och hindrens grad av betydelse efter näringsgren SNI 2007, storleksklass och verksamhet. År 2010-2012",
+          "2014-02-12"
+        ],
+        [
+          "Företagens syfte med innovationer inom marknadsföring efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008 - 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Företagens syfte med organisatoriska innovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008 - 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Antal företag med produktinnovationer, innovationens nyhetsinslag efter näringsgren SNI 2007 och storleksklass. År 2008-2010 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Företagens finansiering av innovationsverksamhet efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2010",
+          "2011-12-08"
+        ],
+        [
+          "Vem utvecklar företagens produktinnovationer efter näringsgren SNI 2007, typ av innovation och storleksklass. Andelar i procent. År 2008-2010 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal företag med hinder av stor betydelse som försvårar verksamhet avseende produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Del 1. År 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Vem utvecklar företagens processinnovationer efter näringsgren och storleksklass. Andelar av processinnovativa i procent. År 2008-2010 - 2018-2020",
+          "2022-06-22"
+        ],
+        [
+          "Antal företag med olika typer av innovationsaktivitet efter näringsgren SNI 2007 och storleksklass.  År 2008-2010 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal företag, metoder för att stimulera nya ideer eller kreativitet efter näringsgren SNI 2007, resultat och storleksklass. År 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Antal företag med stöd för innovationsverksamhet efter näringsgren SNI 2007 och storleksklass.  År 2010-2012 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Företagens syfte med produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Antal företag med hinder av stor betydelse som försvårar verksamhet avseende produkt- eller processinnovationer efter näringsgren SNI 2007 och storleksklass. Del 2. År 2008-2010",
+          "2013-12-18"
+        ],
+        [
+          "Antal företag med upphandlingskontrakt för att leverera varor eller tjänster till offentliga organisationer efter näringsgren SNI 2007, storleksklass. År 2010-2012 - 2014-2016",
+          "2017-12-14"
+        ],
+        [
+          "Antal företag med innovationsaktiviteter som del av upphandling till offentliga organisationer efter näringsgren SNI 2007, storleksklass. År 2010-2012 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Antal företag, kompetensområden efter näringsgren SNI 2007, personalkategori och storleksklass. År 2008-2010",
+          "2011-12-08"
+        ],
+        [
+          "Vem utvecklar företagens innovationer efter företagens näringsgren, SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "2011-12-02"
+        ],
+        [
+          "Immateriella rättigheter och licensiering efter näringsgren och storleksklass.  År 2012-2014 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Anledningar till att inte bedriva innovationsverksamhet fördelad på olika variabler. År 2012-2014 - 2014-2016",
+          "2018-07-31"
+        ],
+        [
+          "Företagens syfte med produkt- eller processinnovationer efter näringsgren SNI 2007 och  storleksklass. Andelar i procent. År 2006-2008",
+          "2011-12-02"
+        ],
+        [
+          "Antal innovativa företag efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Gynnsamma effekter på miljö av företagens innovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "2011-12-02"
+        ],
+        [
+          "Antal företag med olika typer av processinnovationer efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Orsak till introduktion av företagens miljöinnovationer efter näringsgren SNI 2007 och storleksklass. Andelar i procent. År 2006-2008",
+          "2011-12-02"
+        ],
+        [
+          "Antal företag med olika typer av innovationsaktivitet efter näringsgren SNI 2007 och  storleksklass. År 2006-2008",
+          "2011-12-02"
+        ],
+        [
+          "Antal företag med stöd för innovationsverksamhet efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Företagens omsättning efter varor och tjänsters innovations-/nyhetsvärde efter bransch.  År 2006",
+          "2008-10-24"
+        ],
+        [
+          "Immateriella rättigheter och licensiering efter näringsgren och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-08-22"
+        ],
+        [
+          "Företagens omsättning efter varor och tjänsters innovations-/nyhetsvärde i vissa branschgrupper efter storleksklass.  År 2006",
+          "2008-10-24"
+        ],
+        [
+          "Företag med innovationssamarbete bland innovativa företag efter bransch. Andelar i procent. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Företagens strategier för att stärka sina ekonomiska resultat efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Antal företag med samskapade eller användaranpassade produkter efter näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Företag med innovationssamarbete bland innovativa företag i vissa branschgrupper efter storleksklass. Andelar i procent. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Företag med innovationssamarbete efter bransch och typ av samarbetspartner. Andelar i procent. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Företagens användare av samskapade eller användaranpassade produkter efter näringsgren SNI 2007 och storleksklass. År 2016-2018",
+          "2022-06-09"
+        ],
+        [
+          "Plattformar för att inhämta kunskap efter näringsgren SNI 2007 och storleksklass. År 2016-2018",
+          "2022-06-09"
+        ],
+        [
+          "Företag med innovationssamarbete i vissa branschgrupper efter storleksklass och typ av samarbetspartner. Andelar i procent. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Vem utvecklar företagens produktinnovationer efter näringsgren och storleksklass. Andelar av produktinnovativa i procent. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Antal och andel innovativa företag efter bransch. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Antal och andel innovativa företag i vissa branschgrupper efter storleksklass. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Företagens totala innovationsutgifter i vissa branschgrupper efter storleksklass.  År 2006",
+          "2008-10-24"
+        ],
+        [
+          "Antal innovativa företag med olika typ av innovationsverksamhet efter bransch. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Antal innovativa företag med olika typ av innovationsverksamhet i vissa branschgrupper efter storleksklass. År 2004-2006",
+          "2011-12-02"
+        ],
+        [
+          "Företagens innovationsutgifter i vissa branschgrupper efter storleksklass och typ av utgift.  År 2006",
+          "2008-10-24"
+        ],
+        [
+          "Hindrande faktorer för innovationsverksamhet efter betydelse, näringsgren SNI 2007 och storleksklass. År 2016-2018 - 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Företagens innovationer med miljöfördelar efter grad av betydelse, näringsgren SNI2007 och storleksklass. År 2018-2020",
+          "2024-11-27"
+        ],
+        [
+          "Konsekvenser av klimatförändring för företagen efter grad av betydelse, näringsgren 2007 och storleksklass. År 2018-2020",
+          "2022-06-09"
+        ],
+        [
+          "Faktorer för att driva företagens beslut att introducera innovationer med miljöfördelar efter grad av betydelse, närinsggren SNI 2007 och storleksklass. År 2018-2020",
+          "2024-11-27"
+        ],
+        [
+          "Förutsättningar som företagen mötte efter näringsgren SNI 2007 och storleksklass. År 2018-2020",
+          "2022-06-09"
+        ]
+      ]
     },
     {
       "heading_path": [

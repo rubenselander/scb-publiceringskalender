@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1504",
     "response_url": "https://www.scb.se/NV1504",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/forskning-och-utveckling-i-internationella-foretag/",
-    "fetched_at": "2026-10-19T03:41:09.639747Z",
+    "fetched_at": "2026-10-26T03:44:11.921066Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7b885937dbe965e9cabf8d84b7fd72984ca56c2aea1cb571b1c668b47ae3f498",
+    "content_sha256": "823f6bc86c9ac53b01674b912b46d7458e9ce737267de8368dbce49b13bc9745",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1504",
   "summary": "Statistiken belyser omfattningen och förändringen av den forskning och utveckling (FoU) som bedrivs i Sverige och utomlands av de 20–30 största svenskägda koncernerna. Statistiken belyser även samtliga internationella företags FoU i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-14",
+  "next_publication_date": "2027-10-14",
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-14",
         "Statistiken belyser omfattningen och förändringen av den forskning och utveckling (FoU) som bedrivs i Sverige och utomlands av de 20–30 största svenskägda koncernerna. Statistiken belyser även samtliga internationella företags FoU i Sverige."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1504&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1504&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

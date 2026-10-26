@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0104",
     "response_url": "https://www.scb.se/RV0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/utredning-och-lagforing-av-brott/misstankta-personer/",
-    "fetched_at": "2026-10-19T03:41:28.974958Z",
+    "fetched_at": "2026-10-26T03:44:30.878165Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "143a3754c728200098f80a6dc1cdf89d5a607ee9c8ddad989046b548909667f4",
+    "content_sha256": "8b6817fecaa752150518263ccd6ce3429a2df284d32eff6c3beb3e360ee0efd5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0104",
   "summary": "Statistiken visar skäligen misstänkta personer fördelat på ålder, kön och regionalt för olika brottstyper. Dessutom redovisas hur många brott som de misstänkta personerna deltagit i (brottsdeltagande).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-29",
+  "next_publication_date": "2027-04-29",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-29",
         "Statistiken visar skäligen misstänkta personer fördelat på ålder, kön och regionalt för olika brottstyper. Dessutom redovisas hur många brott som de misstänkta personerna deltagit i (brottsdeltagande)."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0104&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0104&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

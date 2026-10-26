@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0107",
     "response_url": "https://www.scb.se/RV0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/konstaterade-fall-av-anmalt-dodligt-vald/",
-    "fetched_at": "2026-10-19T03:41:30.366794Z",
+    "fetched_at": "2026-10-26T03:44:32.708085Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4a083c221f3589a703d195f85829fdae5ccaaf6d00c43f2dd8b1108bc38f95c6",
+    "content_sha256": "a362c88cf697006a3e614aa3b8334f8c40530fd196b161035660ffbcea6f7d53",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0107",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-31",
+  "next_publication_date": "2027-03-31",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,9 +43,15 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad"
+        "Nästa publicering: 2027-03-31"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0107&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0107&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0132",
     "response_url": "https://www.scb.se/UF0132",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-betyg-arskurs-6/",
-    "fetched_at": "2026-10-19T03:42:27.792057Z",
+    "fetched_at": "2026-10-26T03:45:30.843890Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bb9d28595fbacee6f61e07109f244e11164152fe58c0e23ef4573d44d478a832",
+    "content_sha256": "0cf4dc0a6422fd4c60b0f7b83052a1a7e7a4aed882950c448b97f77cb5c8cd77",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0132",
   "summary": "Statistiken visar elevernas betyg per ämne, andel som uppnått kunskapskraven och genomsnittlig betygspoäng med mera uppdelat på bland annat huvudmannatyp, kön och föräldrarnas och elevernas bakgrund.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-21",
-  "next_publication_date": "2026-10-21",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-21",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar elevernas betyg per ämne, andel som uppnått kunskapskraven och genomsnittlig betygspoäng med mera uppdelat på bland annat huvudmannatyp, kön och föräldrarnas och elevernas bakgrund."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-21",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0132&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0132&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

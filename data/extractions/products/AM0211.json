@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0211",
     "response_url": "https://www.scb.se/AM0211",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/",
-    "fetched_at": "2026-10-19T03:38:16.943096Z",
+    "fetched_at": "2026-10-26T03:41:27.886678Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3dc5d23b2609ca1b87004c04f197ac6d80e5d8ec58954f3b67780cd9875b8eb4",
+    "content_sha256": "48454307daf2607aacf5018c194e0d512f8eecee19f5c852ddc7032a8d68b04c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -720,18 +720,52 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0211M",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0211M"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Anställningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007). Månad 2020M01 - 2025M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbTidSektorNaring",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbTidSektorNaring"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007). Månad 2020M01 - 2025M08",
+          "2025-10-30"
+        ]
+      ]
     },
     {
       "heading_path": [

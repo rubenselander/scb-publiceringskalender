@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0401",
     "response_url": "https://www.scb.se/BE0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/befolkningsframskrivningar/",
-    "fetched_at": "2026-10-19T03:38:25.601633Z",
+    "fetched_at": "2026-10-26T03:41:36.116916Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f461a1071bf4f29f22d679b2e85030bf659d8d39906b5fe287895ee50d522590",
+    "content_sha256": "6a76fd5172d87bfd5e2b0d458d48d044af4c700eef5e138078207be89399f4c6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/be0401",
   "summary": "Varje år görs en befolkningsprognos för Sverige fördelad på ålder,  kön och födelselandsgrupp. Vart tredje år görs en mer omfattande analys av den framtida befolkningsutvecklingen där ett huvudalternativ och alternativa framskrivningar tas fram. För mellanliggande år görs uppföljningar och revideringar. Utöver officiell statistik tas regionala befolkningsframskrivningar fram vart tredje år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-28",
+  "next_publication_date": "2027-04-28",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-28",
         "Varje år görs en befolkningsprognos för Sverige fördelad på ålder,  kön och födelselandsgrupp. Vart tredje år görs en mer omfattande analys av den framtida befolkningsutvecklingen där ett huvudalternativ och alternativa framskrivningar tas fram. För mellanliggande år görs uppföljningar och revideringar. Utöver officiell statistik tas regionala befolkningsframskrivningar fram vart tredje år."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BE0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BE0401&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

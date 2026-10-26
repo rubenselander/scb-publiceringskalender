@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0404",
     "response_url": "https://www.scb.se/BO0404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/",
-    "fetched_at": "2026-10-19T03:38:29.681977Z",
+    "fetched_at": "2026-10-26T03:41:40.406411Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "94d6b9525147928e019ce279fc4d985f4f5195f32cb41e447db31057d969f7cd",
+    "content_sha256": "7b4174a293d5cf412752045bbae2dcd05616b89cbded6028c68a6b921ba4ef51",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -347,9 +347,34 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Hyror i nybyggda hus (hyresrätt) efter region, byggherre och lägenhetstyp. År 2014 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattBygghLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattBygghLgh"
+        },
+        {
           "text": "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter region. År 2014 - 2020",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthReg",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthReg"
+        },
+        {
+          "text": "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter lägenhetstyp. År 2014 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HyresrattOuthLgh"
+        },
+        {
+          "text": "Avgifter och insatser i nybyggda hus (bostadsrätt) efter region och lägenhetstyp. År 2014 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattRegLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattRegLgh"
+        },
+        {
+          "text": "Osålda lägenheter i nybyggda hus (bostadsrätt) efter region. År 2014 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattOsaldaReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattOsaldaReg"
+        },
+        {
+          "text": "Osålda lägenheter i nybyggda hus (bostadsrätt) efter lägenhetstyp. År 2014 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattOsaldaLgh",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoRattOsaldaLgh"
         }
       ],
       "table_headers": [
@@ -362,7 +387,27 @@
           "Datum"
         ],
         [
+          "Hyror i nybyggda hus (hyresrätt) efter region, byggherre och lägenhetstyp. År 2014 - 2022",
+          "2023-10-04"
+        ],
+        [
           "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter region. År 2014 - 2020",
+          "2021-10-01"
+        ],
+        [
+          "Outhyrda lägenheter i nybyggda hus (hyresrätt) efter lägenhetstyp. År 2014 - 2020",
+          "2021-10-01"
+        ],
+        [
+          "Avgifter och insatser i nybyggda hus (bostadsrätt) efter region och lägenhetstyp. År 2014 - 2022",
+          "2023-10-04"
+        ],
+        [
+          "Osålda lägenheter i nybyggda hus (bostadsrätt) efter region. År 2014 - 2020",
+          "2021-10-01"
+        ],
+        [
+          "Osålda lägenheter i nybyggda hus (bostadsrätt) efter lägenhetstyp. År 2014 - 2020",
           "2021-10-01"
         ]
       ]
@@ -380,18 +425,88 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Hyresrätter och bostadsrätter. Uppdateras ej. År 1997-2013"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Hyresrätter och bostadsrätter. Uppdateras ej. År 1997-2013",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0404C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0404C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avgifter/hyror för nybyggda lägenheter",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Bostadshyror i nybyggda hus efter region, hustyp, byggherre, upplåtelseform och lägenhetstyp. År 1997 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod1"
+        },
+        {
+          "text": "Outhyrda/osålda lägenheter i nybyggda hus efter region, hustyp, byggherre, upplåtelseform och lägenhetstyp. År 1997 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod3"
+        },
+        {
+          "text": "Bostadshyror i nybyggda hus efter byggherre och sanerings- eller exploateringsområde. År 1997 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod2"
+        },
+        {
+          "text": "Outhyrda/osålda lägenheter i nybyggda hus efter sanerings- eller  exploateringsområde. År 1997 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod4"
+        },
+        {
+          "text": "Kategoribostäder i nybyggda hus efter lägenhetstyp och boendeform. År 1997 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BoHyraNyprod5"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Bostadshyror i nybyggda hus efter region, hustyp, byggherre, upplåtelseform och lägenhetstyp. År 1997 - 2013",
+          "2014-10-01"
+        ],
+        [
+          "Outhyrda/osålda lägenheter i nybyggda hus efter region, hustyp, byggherre, upplåtelseform och lägenhetstyp. År 1997 - 2013",
+          "2014-10-01"
+        ],
+        [
+          "Bostadshyror i nybyggda hus efter byggherre och sanerings- eller exploateringsområde. År 1997 - 2007",
+          "2008-09-17"
+        ],
+        [
+          "Outhyrda/osålda lägenheter i nybyggda hus efter sanerings- eller  exploateringsområde. År 1997 - 2007",
+          "2008-09-17"
+        ],
+        [
+          "Kategoribostäder i nybyggda hus efter lägenhetstyp och boendeform. År 1997 - 2007",
+          "2008-09-17"
+        ]
+      ]
     },
     {
       "heading_path": [

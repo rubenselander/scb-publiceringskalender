@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0110",
     "response_url": "https://www.scb.se/SF0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/graviditetspenning/",
-    "fetched_at": "2026-10-19T03:41:41.035351Z",
+    "fetched_at": "2026-10-26T03:44:44.446756Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ebfd9348559efead0614c31377343bd9d9b0e8a520ed2aa6bce3025ec3be13e0",
+    "content_sha256": "6715a6166b329abc15fda8d5c26ed697d9e152b73d10eb761795442c15d4a466",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0110",
   "summary": "Statistiken visar antal mottagare, antal nettodagar samt utbetalt belopp, fördelat på ålder, omfattning och län.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-13",
+  "next_publication_date": "2027-01-13",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-13",
         "Statistiken visar antal mottagare, antal nettodagar samt utbetalt belopp, fördelat på ålder, omfattning och län."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-13",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0110&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0110&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

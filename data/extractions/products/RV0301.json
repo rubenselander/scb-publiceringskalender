@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0301",
     "response_url": "https://www.scb.se/RV0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/domstolarnas-verksamhet/domstolsstatistik/",
-    "fetched_at": "2026-10-19T03:41:33.513881Z",
+    "fetched_at": "2026-10-26T03:44:36.308209Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "aa10814423aa042884fadc7d5cbf8e3ee20e313df29a14837f5c54a61b7c1354",
+    "content_sha256": "f1d556b8332b0f1968af21a34256878ea8a06bb0b84074747bcba5903f6235ed",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0301",
   "summary": "Statistiken visar bland annat inkomna och avgjorda mål, konkurser och domstolsärenden och avgjorda tvistemål avseende familjerätt, men även handläggningsordning, handläggningstid och överklagande- och ändringsfrekvens.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-22",
+  "next_publication_date": "2027-02-22",
   "responsible_agency": {
     "label": "Domstolsverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-22",
         "Statistiken visar bland annat inkomna och avgjorda mål, konkurser och domstolsärenden och avgjorda tvistemål avseende familjerätt, men även handläggningsordning, handläggningstid och överklagande- och ändringsfrekvens."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-22",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0301&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0301&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1301",
     "response_url": "https://www.scb.se/MI1301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/",
-    "fetched_at": "2026-10-19T03:40:42.967301Z",
+    "fetched_at": "2026-10-26T03:43:47.404466Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bae01bc491669b9e03bc525651f822c08a9e127fd77d1cecf41e83e2b8198010",
+    "content_sha256": "2aac5b06d293a12638bd937754a47e10bdec3ff4e5697355c5800c87f23c8f30",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,10 +21,12 @@
   "short_address": "https://www.scb.se/mi1301",
   "summary": "Miljöräkenskaper beskriver samband mellan miljö och ekonomi. Det utgår från branscher, hushåll och offentliga myndigheter. De områden som hittills ingår är utsläpp till luft och vatten, avfall, energianvändning, materialflöden, kemikalier, miljöskyddskostnader, miljöföretag, miljöskatter och miljösubventioner samt naturresurser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-22",
-  "next_publication_date": "2026-10-22",
+  "next_publication_text": "Nästa publicering: 2026-11-19",
+  "next_publication_date": "2026-11-19",
   "responsible_agency": null,
-  "notices": [],
+  "notices": [
+    "Statistik om Miljöskyddskostnader"
+  ],
   "tags": [],
   "sections": [
     {
@@ -36,14 +38,35 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-22",
+        "Nästa publicering: 2026-11-19",
         "Miljöräkenskaper beskriver samband mellan miljö och ekonomi. Det utgår från branscher, hushåll och offentliga myndigheter. De områden som hittills ingår är utsläpp till luft och vatten, avfall, energianvändning, materialflöden, kemikalier, miljöskyddskostnader, miljöföretag, miljöskatter och miljösubventioner samt naturresurser."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-22",
+          "text": "Nästa publicering: 2026-11-19",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1301&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Miljöräkenskaper",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Statistik om Miljöskyddskostnader"
+      ],
+      "links": [
+        {
+          "text": "Statistik om Miljöskyddskostnader",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljoskyddskostnader/"
         }
       ],
       "table_headers": [],
@@ -110,8 +133,8 @@
       ],
       "paragraphs": [
         "Förändring av produktionsutsläpp",
-        "0,6 %",
-        "Referenstid: kvartal 1 2026 jämfört med samma period föregående år"
+        "-1,5 %",
+        "Referenstid: kvartal 2 2026 jämfört med samma period föregående år"
       ],
       "links": [],
       "table_headers": [],
@@ -199,14 +222,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-15",
-        "Växthusgasutsläpp från svensk konsumtion uppgick år 2024 till 79 miljoner ton koldioxidekvivalenter, vilket motsvarar en ökning med 5 procent jämfört med år 2023. Utsläppsökningen beror främst på ökade utsläpp från hushållens konsumtion, där utsläpp från transporter bidrog mest till ökningen."
+        "2026-10-22",
+        "Utsläppen av växthusgaser från den svenska ekonomin uppgick till 12,7 miljoner ton under det andra kvartalet 2026. Det innebär en minskning med 1,5 procent jämfört med motsvarande kvartal 2025. Under samma period ökade BNP i fasta priser med 3,8 procent, vilket innebär att utsläppsintensiteten minskade med 5,1 procent."
       ],
       "links": [
         {
-          "text": "Växthusgasutsläppen från svensk konsumtion ökade 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/statistiknyhet/miljopaverkan-fran-konsumtion-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/statistiknyhet/miljopaverkan-fran-konsumtion-2024/"
+          "text": "Växthusgasutsläppen från Sveriges ekonomi minskade under andra kvartalet 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/statistiknyhet/utslapp-till-luft-andra-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/statistiknyhet/utslapp-till-luft-andra-kvartalet-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -970,9 +993,9 @@
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/utslapp-till-luft/utslappsintensitet-utslapp-av-vaxthusgaser-per-brp-per-lan2/"
         },
         {
-          "text": "Utsläpp och intensiteter per kvartal, 2008kv1–2026kv1",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/utslapp-till-luft/utslapp-och-intensiteter-per-kvartal-2008kv12026kv1/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/utslapp-till-luft/utslapp-och-intensiteter-per-kvartal-2008kv12026kv1/"
+          "text": "Utsläpp och intensiteter per kvartal, 2008kv1–2026kv2",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/utslapp-till-luft/utslapp-och-intensiteter-per-kvartal-2008kv12026kv2/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/utslapp-till-luft/utslapp-och-intensiteter-per-kvartal-2008kv12026kv2/"
         },
         {
           "text": "Utsläpp och intensiteter 2008–2024, detaljerad",
@@ -1022,9 +1045,9 @@
           "2025-02-11"
         ],
         [
-          "Utsläpp och intensiteter per kvartal, 2008kv1–2026kv1",
+          "Utsläpp och intensiteter per kvartal, 2008kv1–2026kv2",
           "Excel-fil",
-          "2026-08-27"
+          "2026-10-22"
         ],
         [
           "Utsläpp och intensiteter 2008–2024, detaljerad",
@@ -1415,7 +1438,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoUtslappAmneSNI"
         },
         {
-          "text": "Utsläpp till luft redovisat efter näringsgren SNI 2007 och ämne. Kvartal 2008K1 - 2026K1",
+          "text": "Utsläpp till luft redovisat efter näringsgren SNI 2007 och ämne. Kvartal 2008K1 - 2026K2",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoUtslappAmneSNIK",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MiljoUtslappAmneSNIK"
         },
@@ -1458,8 +1481,8 @@
           "2010-12-30"
         ],
         [
-          "Utsläpp till luft redovisat efter näringsgren SNI 2007 och ämne. Kvartal 2008K1 - 2026K1",
-          "2026-08-27"
+          "Utsläpp till luft redovisat efter näringsgren SNI 2007 och ämne. Kvartal 2008K1 - 2026K2",
+          "2026-10-22"
         ],
         [
           "Utsläpp till luft efter region (kommun) och ämne. År 2008 - 2022",
@@ -1952,7 +1975,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTMI1301E"
         },
         {
-          "text": "Förändring av produktionsutsläpp. Kvartal 2022K3 - 2026K1",
+          "text": "Förändring av produktionsutsläpp. Kvartal 2022K3 - 2026K2",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTMI1301A",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTMI1301A"
         },
@@ -1990,8 +2013,8 @@
           "2026-10-15"
         ],
         [
-          "Förändring av produktionsutsläpp. Kvartal 2022K3 - 2026K1",
-          "2026-08-27"
+          "Förändring av produktionsutsläpp. Kvartal 2022K3 - 2026K2",
+          "2026-10-22"
         ],
         [
           "Inhemsk materialkonsumtion per capita. År 2020 - 2024",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "started_at": "2026-10-19T03:38:03.427087+00:00",
+  "started_at": "2026-10-26T03:41:15.163612+00:00",
   "sources": {
     "products": {
       "source": "products",
@@ -2450,13 +2450,13 @@
     },
     "official_products": {
       "source": "official_products",
-      "complete": true,
-      "discovery_complete": true,
+      "complete": false,
+      "discovery_complete": false,
       "discovered_count": 1,
       "records": {
         "index": {
-          "status": "fresh",
-          "error": null
+          "status": "retained",
+          "error": "Official product workbook headers changed"
         }
       },
       "warnings": []

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0403",
     "response_url": "https://www.scb.se/RV0403",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/kriminalvard/kriminalvard---frivard/",
-    "fetched_at": "2026-10-19T03:41:35.575509Z",
+    "fetched_at": "2026-10-26T03:44:38.123055Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a5357377a4037256083d2c0cc3a041e88541d3e6112abd96ece30a73b2740fc",
+    "content_sha256": "e48ea9de95bd815fd937033f139b640ea230460cbfe8fe58d5ea6a7b64f9d8ca",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0403",
   "summary": "Statistiken visar personer som avtjänar en verkställighet inom kriminalvårdens frivårdsverksamhet, såsom fängelsepåföljd avtjänad genom intensivövervakning med elektronisk kontroll (fotboja) och personer med påbörjad skyddstillsyn, villkorlig dom med samhällstjänst, ungdomsövervakning samt personer som är villkorligt frigivna från anstalt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-16",
+  "next_publication_date": "2027-09-16",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-16",
         "Statistiken visar personer som avtjänar en verkställighet inom kriminalvårdens frivårdsverksamhet, såsom fängelsepåföljd avtjänad genom intensivövervakning med elektronisk kontroll (fotboja) och personer med påbörjad skyddstillsyn, villkorlig dom med samhällstjänst, ungdomsövervakning samt personer som är villkorligt frigivna från anstalt."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0403&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0403&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

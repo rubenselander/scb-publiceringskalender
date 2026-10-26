@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0101",
     "response_url": "https://www.scb.se/HA0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/omsattning-inom-tjanstesektorn/",
-    "fetched_at": "2026-10-19T03:38:58.314475Z",
+    "fetched_at": "2026-10-26T03:42:07.907325Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "219698d0cba9b225eed80bfeb2f717714d1f5235204150f1e997b5a191063107",
+    "content_sha256": "6a1f370fb16e0c31b175d793ac3e3225809f61fc2452b2ece3780cbb3aecdada",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -384,14 +384,12 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller uppdateras ej (SNI 2007)"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller uppdateras ej (SNI 2007)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0101C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0101C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
@@ -410,18 +408,151 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej (SNI 2002)"
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. År 2000 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterAr07X",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterAr07X"
+        },
+        {
+          "text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Kvartal 2000K1 - 2017K2",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterKv07X",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterKv07X"
+        },
+        {
+          "text": "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2007, 2015=100. År 1991 - 2018",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DetOmsAr07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DetOmsAr07"
+        }
       ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. År 2000 - 2016",
+          "2017-05-19"
+        ],
+        [
+          "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Kvartal 2000K1 - 2017K2",
+          "2017-09-06"
+        ],
+        [
+          "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2007, 2015=100. År 1991 - 2018",
+          "2019-03-28"
+        ]
+      ]
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Omsättning inom tjänstesektorn",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej (SNI 2002)",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0101D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HA0101D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Omsättning inom tjänstesektorn",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2002. Månad 1990M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Detoms",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Detoms"
+        },
+        {
+          "text": "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2002. År 1990 - 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DetOmsAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DetOmsAr"
+        },
+        {
+          "text": "Omsättningsutveckling inom motorhandel, hotell- och restaurang och annan tjänsteverksamhet efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Divtjanster",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Divtjanster"
+        },
+        {
+          "text": "Omsättningsutveckling inom motorhandel, hotell- och restaurang och annan tjänsteverksamhet efter näringsgren SNI 2002. År 1990 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterAr"
+        },
+        {
+          "text": "Omsättningsutveckling för partihandel och vissa företagstjänster efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PartihFtgtj",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PartihFtgtj"
+        },
+        {
+          "text": "Omsättningsutveckling för partihandel och vissa företagstjänster efter näringsgren SNI 2002. År 1990 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PartihFtgtjAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PartihFtgtjAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2002. Månad 1990M01 - 2008M12",
+          "2012-12-28"
+        ],
+        [
+          "Detaljhandelns omsättningsutveckling efter näringsgren SNI 2002. År 1990 - 2007",
+          "2009-01-28"
+        ],
+        [
+          "Omsättningsutveckling inom motorhandel, hotell- och restaurang och annan tjänsteverksamhet efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "2009-02-19"
+        ],
+        [
+          "Omsättningsutveckling inom motorhandel, hotell- och restaurang och annan tjänsteverksamhet efter näringsgren SNI 2002. År 1990 - 2008",
+          "2009-02-19"
+        ],
+        [
+          "Omsättningsutveckling för partihandel och vissa företagstjänster efter näringsgren SNI 2002. Kvartal 1990K1 - 2008K4",
+          "2009-02-19"
+        ],
+        [
+          "Omsättningsutveckling för partihandel och vissa företagstjänster efter näringsgren SNI 2002. År 1990 - 2008",
+          "2009-02-19"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0104",
     "response_url": "https://www.scb.se/AM0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-statlig-sektor/",
-    "fetched_at": "2026-10-19T03:38:09.304141Z",
+    "fetched_at": "2026-10-26T03:41:19.918668Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "413b30beeb0e96877053f9b46d1b991257f6703074caea4cd17a3262bd03441c",
+    "content_sha256": "6f7f14dc858bd432816c433387b0734e7bb805810b238243723545ef1233b31f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -339,18 +339,160 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0104D",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0104D"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Lönestrukturstatistik, statlig sektor",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Anställda, nyanställda och avgångna inom statlig sektor efter anställningsform, tjänstgöringsomfattning, ålder och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig13g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig13g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom statlig sektor efter län, yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig1g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig1g"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m. inom statlig sektor efter yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig2g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig2g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom statlig sektor efter yrkesgrupp SSYK, ålder och kön. Uppdateras ej. År 2000 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig3g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig3g"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom statlig sektor efter region (NUTS2), yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig4g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig4g"
+        },
+        {
+          "text": "Sysselsatta inom statlig sektor efter region, tjänstgöringsomfattning och kön. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig10g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig10g"
+        },
+        {
+          "text": "Sysselsatta inom statlig sektor efter månadslöneintervall, kön och ålder. År 2000 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig6g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig6g"
+        },
+        {
+          "text": "Sysselsatta inom statlig sektor efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig7g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig7g"
+        },
+        {
+          "text": "Genomsnittlig månadslön inom statlig sektor efter län, yrke SSYK och kön. År 2004 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig1gSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig1gSSYK4"
+        },
+        {
+          "text": "Sysselsatta inom offentlig sektor (statlig-, landstings-, primärkommunal-, kyrkokommunal- samt övrig sektor) efter sektor och kön. År 1992 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig12g",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig12g"
+        },
+        {
+          "text": "Genomsnittlig månadslön, lönespridning m.m. inom statlig sektor efter yrke SSYK och kön. År 2004 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig2gSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig2gSSYK4"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom statlig sektor efter yrke SSYK, ålder och kön.  År 2004 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig3gSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig3gSSYK4"
+        },
+        {
+          "text": "Genomsnittlig månadslön och grundlön inom statlig sektor efter region (NUTS2), yrke SSYK och kön. År 2004 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig4gSSYK4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Statlig4gSSYK4"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Anställda, nyanställda och avgångna inom statlig sektor efter anställningsform, tjänstgöringsomfattning, ålder och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön inom statlig sektor efter län, yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "2004-05-13"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m. inom statlig sektor efter yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "2004-05-13"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom statlig sektor efter yrkesgrupp SSYK, ålder och kön. Uppdateras ej. År 2000 - 2003",
+          "2004-05-13"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom statlig sektor efter region (NUTS2), yrkesgrupp SSYK och kön. Uppdateras ej. År 2000 - 2003",
+          "2004-05-13"
+        ],
+        [
+          "Sysselsatta inom statlig sektor efter region, tjänstgöringsomfattning och kön. År 2000 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom statlig sektor efter månadslöneintervall, kön och ålder. År 2000 - 2011",
+          "2012-05-22"
+        ],
+        [
+          "Sysselsatta inom statlig sektor efter månadslöneintervall, yrkesområde SSYK och kön. År 2000 - 2011",
+          "2012-05-22"
+        ],
+        [
+          "Genomsnittlig månadslön inom statlig sektor efter län, yrke SSYK och kön. År 2004 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Sysselsatta inom offentlig sektor (statlig-, landstings-, primärkommunal-, kyrkokommunal- samt övrig sektor) efter sektor och kön. År 1992 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön, lönespridning m.m. inom statlig sektor efter yrke SSYK och kön. År 2004 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom statlig sektor efter yrke SSYK, ålder och kön.  År 2004 - 2013",
+          "2014-05-21"
+        ],
+        [
+          "Genomsnittlig månadslön och grundlön inom statlig sektor efter region (NUTS2), yrke SSYK och kön. År 2004 - 2013",
+          "2014-05-21"
+        ]
+      ]
     },
     {
       "heading_path": [

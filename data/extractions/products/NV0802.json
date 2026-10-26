@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0802",
     "response_url": "https://www.scb.se/NV0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/foretagens-utgifter-for-it/",
-    "fetched_at": "2026-10-19T03:41:04.549902Z",
+    "fetched_at": "2026-10-26T03:44:06.668480Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4ad13771e3cf558a36b90a11b418dad7ed23aa173aa0229512338683310b3d3e",
+    "content_sha256": "049a17e81eb0724c0b7706a7c4a3dfd7fa3168632ee02231cc3ac2f777e0c469",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -573,18 +573,232 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802Z",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802Z"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Företagens utgifter för IT",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och bransch. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasSNI"
+        },
+        {
+          "text": "Utgifter (exkl. leasing) för IT-inköp efter varutyp. År 2018 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01T",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01T"
+        },
+        {
+          "text": "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och näringsgren SNI 07. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasSNI07"
+        },
+        {
+          "text": "Utgifter (exkl. leasing) för IT-inköp efter varutyp och näringsgren SNI 2007. År 2009 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01SNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01SNI"
+        },
+        {
+          "text": "Utgifter för köp av it-tjänster, fördelning efter typ och näringsgren  År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UKIT",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UKIT"
+        },
+        {
+          "text": "Utgifter för leasing av IT-utrustning efter typ av leasing och näringsgren SNI 2007. År 2009 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T02SNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T02SNI"
+        },
+        {
+          "text": "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och storleksklass. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasStrl"
+        },
+        {
+          "text": "Utgifter (exkl. leasing) för IT-inköp efter varutyp och storleksklass. År 2009 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01Strl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T01Strl"
+        },
+        {
+          "text": "Utgifter för köp av it-tjänster, fördelning efter typ och storleksklass  År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UKITStorl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UKITStorl"
+        },
+        {
+          "text": "Utgifter för leasing av IT-utrustning efter typ av leasing och storleksklass. År 2009 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T02Strl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802T02Strl"
+        },
+        {
+          "text": "Kostnader för hyra och leasing av hårdvara inkl.  service efter hårdvarutyp och storleksklass. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasStrl07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgLeasStrl07"
+        },
+        {
+          "text": "Utgifter för IT-inköp (endast hårdvara) efter storleksklass. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg2Strl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg2Strl"
+        },
+        {
+          "text": "Utgifter för IT-inköp (endast hårdvara) efter näringsgren SNI 07. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg2SNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg2SNI07"
+        },
+        {
+          "text": "Utgifter för IT-inköp (hård- och mjukvara) efter varutyp och bransch. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtgifterSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtgifterSNI"
+        },
+        {
+          "text": "Utgifter för IT-inköp (hård- och mjukvara) efter varutyp och storleksklass. År 2007",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtgifterStrl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtgifterStrl"
+        },
+        {
+          "text": "Utgifter för IT-inköp efter varutyp och näringsgren SNI 07. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg1SNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg1SNI07"
+        },
+        {
+          "text": "Utgifter för IT-inköp efter varutyp och storleksklass. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg1Strl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITInvFtgUtg1Strl"
+        },
+        {
+          "text": "Utgifter och investeringar i reklam och marknadsföring, fördelning efter typ och näringsgren.  År 2014 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UROM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802UROM"
+        },
+        {
+          "text": "Utgifter och investeringar i reklam och marknadsföring, fördelning efter typ och storleksklass  År 2014 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802ROMSTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802ROMSTL"
+        },
+        {
+          "text": "Andel av reklam och marknadsföring med effekter > 1 år, fördelning efter näringsgren  År 2014 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802AROMME",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802AROMME"
+        },
+        {
+          "text": "Andel av reklam och marknadsföring med effekter > 1 år, Fördelning efter storleksklass  År 2014 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802AROMMESTL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NV0802AROMMESTL"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och bransch. År 2007",
+          "2008-10-09"
+        ],
+        [
+          "Utgifter (exkl. leasing) för IT-inköp efter varutyp. År 2018 - 2020",
+          "2021-10-07"
+        ],
+        [
+          "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och näringsgren SNI 07. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter (exkl. leasing) för IT-inköp efter varutyp och näringsgren SNI 2007. År 2009 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Utgifter för köp av it-tjänster, fördelning efter typ och näringsgren  År 2014 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Utgifter för leasing av IT-utrustning efter typ av leasing och näringsgren SNI 2007. År 2009 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Kostnader för hyra och leasing av hårdvara inkl. service efter hårdvarutyp och storleksklass. År 2007",
+          "2008-10-09"
+        ],
+        [
+          "Utgifter (exkl. leasing) för IT-inköp efter varutyp och storleksklass. År 2009 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Utgifter för köp av it-tjänster, fördelning efter typ och storleksklass  År 2014 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Utgifter för leasing av IT-utrustning efter typ av leasing och storleksklass. År 2009 - 2017",
+          "2018-10-19"
+        ],
+        [
+          "Kostnader för hyra och leasing av hårdvara inkl.  service efter hårdvarutyp och storleksklass. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp (endast hårdvara) efter storleksklass. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp (endast hårdvara) efter näringsgren SNI 07. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp (hård- och mjukvara) efter varutyp och bransch. År 2007",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp (hård- och mjukvara) efter varutyp och storleksklass. År 2007",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp efter varutyp och näringsgren SNI 07. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter för IT-inköp efter varutyp och storleksklass. År 2007 - 2008",
+          "2009-10-14"
+        ],
+        [
+          "Utgifter och investeringar i reklam och marknadsföring, fördelning efter typ och näringsgren.  År 2014 - 2016",
+          "2017-10-19"
+        ],
+        [
+          "Utgifter och investeringar i reklam och marknadsföring, fördelning efter typ och storleksklass  År 2014 - 2016",
+          "2017-10-19"
+        ],
+        [
+          "Andel av reklam och marknadsföring med effekter > 1 år, fördelning efter näringsgren  År 2014 - 2016",
+          "2017-10-19"
+        ],
+        [
+          "Andel av reklam och marknadsföring med effekter > 1 år, Fördelning efter storleksklass  År 2014 - 2016",
+          "2017-10-19"
+        ]
+      ]
     },
     {
       "heading_path": [

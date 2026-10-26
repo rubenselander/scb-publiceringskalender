@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0806",
     "response_url": "https://www.scb.se/MI0806",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/fritidshusomraden/",
-    "fetched_at": "2026-10-19T03:40:32.698112Z",
+    "fetched_at": "2026-10-26T03:43:38.622288Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e0b695d6c859c6f5a171609a0937d7e673ed37c9b644cf068ec26d68aee30a23",
+    "content_sha256": "990b737edef42cc037edb6689a3c5d7a81bb4df4677abdfcb05e77b160bcde4f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -255,18 +255,61 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0806B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0806B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Fritidshusområden",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Antal fritidshusområden och landareal efter region. Vart femte år 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FritidshusomrOmrReg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FritidshusomrOmrReg"
+        },
+        {
+          "text": "Byggnader och landareal i fritidshusområden efter fritidshusområde. Vart femte år 2000 - 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FritidshusomrOmrLand",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FritidshusomrOmrLand"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Antal fritidshusområden och landareal efter region. Vart femte år 2000 - 2010",
+          "2022-11-24"
+        ],
+        [
+          "Byggnader och landareal i fritidshusområden efter fritidshusområde. Vart femte år 2000 - 2010",
+          "2022-11-24"
+        ]
+      ]
     },
     {
       "heading_path": [

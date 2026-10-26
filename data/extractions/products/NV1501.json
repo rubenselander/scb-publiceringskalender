@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1501",
     "response_url": "https://www.scb.se/NV1501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/internationella-foretag/svenska-koncerner-med-dotterbolag-i-utlandet/",
-    "fetched_at": "2026-10-19T03:41:08.247996Z",
+    "fetched_at": "2026-10-26T03:44:10.502746Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "35bd5b0e2da42dc7f97ddd058287abc55d7c2faf173c2f3b34a3f6922a0941e1",
+    "content_sha256": "ea20843cd810cf45a32eb4183bb52cbae8c79a25f93ecce4f479e9647a59935a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1501",
   "summary": "Statistiken omfattar svenskägda koncerner i Sverige som har minst ett dotterbolag i utlandet. Uppgifter som redovisas är antal koncerner, omsättning samt antal anställda efter bransch och etableringsland.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-14",
+  "next_publication_date": "2027-09-14",
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-14",
         "Statistiken omfattar svenskägda koncerner i Sverige som har minst ett dotterbolag i utlandet. Uppgifter som redovisas är antal koncerner, omsättning samt antal anställda efter bransch och etableringsland."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1501&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

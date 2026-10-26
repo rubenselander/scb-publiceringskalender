@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0305",
     "response_url": "https://www.scb.se/MI0305",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-uppkommet-och-behandlat/",
-    "fetched_at": "2026-10-19T03:40:20.662796Z",
+    "fetched_at": "2026-10-26T03:43:26.536739Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1dbba57f6df810f6ff54f763ce7f129cdad7e8ab2d6f223750d5610e71774e59",
+    "content_sha256": "05dfb9bbfbd4395002f619781d8bc57b62754bbdaadc9e7eb8d890c531d532a6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -217,18 +217,61 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller med tidigare definition av avfall och indelning av olika branscher- uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller med tidigare definition av avfall och indelning av olika branscher- uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305A",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305A"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, uppkommet och behandlat",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Uppkommet avfall efter näringsgren SNI 2007 samt hushåll och avfallsslag (uppdateras ej). Vartannat år 2004 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305T11",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305T11"
+        },
+        {
+          "text": "Behandlat avfall efter typ av behandling och avfallsslag (uppdateras ej). Vartannat år 2004 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305T12",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0305T12"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Uppkommet avfall efter näringsgren SNI 2007 samt hushåll och avfallsslag (uppdateras ej). Vartannat år 2004 - 2008",
+          "2015-12-18"
+        ],
+        [
+          "Behandlat avfall efter typ av behandling och avfallsslag (uppdateras ej). Vartannat år 2004 - 2008",
+          "2015-12-18"
+        ]
+      ]
     },
     {
       "heading_path": [

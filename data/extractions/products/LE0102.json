@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0102",
     "response_url": "https://www.scb.se/LE0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/",
-    "fetched_at": "2026-10-19T03:40:03.650279Z",
+    "fetched_at": "2026-10-26T03:43:11.907234Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ab2beac35a35f5a53a739c7452c8dcd6ff907baa464b247b1901991eeff8b286",
+    "content_sha256": "99202e8c08ba8d87a4e51a393fa6194a9aa431d9b27570e8e6b509ac0b517042",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0102",
   "summary": "Statistiken handlar om barns familjer, separationer mellan föräldrar, gemensam och ensam vårdnad, geografiskt avstånd mellan barn och föräldrar, barn med svensk/utländsk bakgrund och adoptioner. Det finns också uppgifter om barns boende, föräldrars förvärvsarbete och ekonomiska förhållanden.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2026-11-12",
         "Statistiken handlar om barns familjer, separationer mellan föräldrar, gemensam och ensam vårdnad, geografiskt avstånd mellan barn och föräldrar, barn med svensk/utländsk bakgrund och adoptioner. Det finns också uppgifter om barns boende, föräldrars förvärvsarbete och ekonomiska förhållanden."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-12",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0102&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0102&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -144,17 +150,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Familjer med hemmaboende barn och unga 0-21 år efter antal barn. År 2014 - 2025",
+          "text": "Familjer med hemmaboende barn och unga 0–21 år efter antal barn. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T20",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T20"
         },
         {
-          "text": "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp och antal barn i familjen. År 2023 - 2025",
+          "text": "Familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder, familjetyp och antal barn i familjen. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T19N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T19N23"
         },
         {
-          "text": "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder och familjetyp. År 2023 - 2025",
+          "text": "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder och familjetyp. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T21N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T21N23"
         }
@@ -169,15 +175,15 @@
           "Datum"
         ],
         [
-          "Familjer med hemmaboende barn och unga 0-21 år efter antal barn. År 2014 - 2025",
+          "Familjer med hemmaboende barn och unga 0–21 år efter antal barn. År 2014 - 2025",
           "2026-06-25"
         ],
         [
-          "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp och antal barn i familjen. År 2023 - 2025",
+          "Familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder, familjetyp och antal barn i familjen. År 2023 - 2025",
           "2026-06-25"
         ],
         [
-          "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder och familjetyp. År 2023 - 2025",
+          "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder och familjetyp. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -222,12 +228,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Familjetyp för hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2025",
+          "text": "Familjetyp för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T17",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T17"
         },
         {
-          "text": "Familjetyp för hemmaboende barn och unga 0-21 år efter region, kön, ålder och familjetyp. År 2023 - 2025",
+          "text": "Familjetyp för hemmaboende barn och unga 0–21 år efter region, kön, ålder och familjetyp. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T18N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T18N23"
         }
@@ -242,11 +248,11 @@
           "Datum"
         ],
         [
-          "Familjetyp för hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2025",
+          "Familjetyp för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2025",
           "2026-06-25"
         ],
         [
-          "Familjetyp för hemmaboende barn och unga 0-21 år efter region, kön, ålder och familjetyp. År 2023 - 2025",
+          "Familjetyp för hemmaboende barn och unga 0–21 år efter region, kön, ålder och familjetyp. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -291,12 +297,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Helsyskon, halvsyskon och styvsyskon bland hemmaboende barn och unga 0-21 år efter kön, ålder och familjetyp. År 2014 - 2025",
+          "text": "Helsyskon, halvsyskon och styvsyskon bland hemmaboende barn och unga 0–21 år efter kön, ålder och familjetyp. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T22",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T22"
         },
         {
-          "text": "Antal hemmaboende syskon bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och utländsk/svensk bakgrund. År 2014 - 2025",
+          "text": "Antal hemmaboende syskon bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och utländsk/svensk bakgrund. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T23"
         }
@@ -311,11 +317,11 @@
           "Datum"
         ],
         [
-          "Helsyskon, halvsyskon och styvsyskon bland hemmaboende barn och unga 0-21 år efter kön, ålder och familjetyp. År 2014 - 2025",
+          "Helsyskon, halvsyskon och styvsyskon bland hemmaboende barn och unga 0–21 år efter kön, ålder och familjetyp. År 2014 - 2025",
           "2026-06-25"
         ],
         [
-          "Antal hemmaboende syskon bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och utländsk/svensk bakgrund. År 2014 - 2025",
+          "Antal hemmaboende syskon bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och utländsk/svensk bakgrund. År 2014 - 2025",
           "2026-06-25"
         ]
       ]
@@ -360,7 +366,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Unga 16-21 år som har flyttat hemifrån efter kön, ålder och familjetyp. År 2014 - 2025",
+          "text": "Unga 16–21 år som har flyttat hemifrån efter kön, ålder och familjetyp. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T29",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T29"
         }
@@ -375,7 +381,7 @@
           "Datum"
         ],
         [
-          "Unga 16-21 år som har flyttat hemifrån efter kön, ålder och familjetyp. År 2014 - 2025",
+          "Unga 16–21 år som har flyttat hemifrån efter kön, ålder och familjetyp. År 2014 - 2025",
           "2026-06-25"
         ]
       ]
@@ -420,22 +426,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal adoptioner av barn 0-17 år efter kön och födelseland. År 2000 - 2025",
+          "text": "Antal adoptioner av barn 0–17 år efter kön och födelseland. År 2000 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnAdoption2N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnAdoption2N"
         },
         {
-          "text": "Adopterade barn och unga 0-21 år efter kön, ålder och födelseland.  År 2000 - 2025",
+          "text": "Adopterade barn och unga 0–21 år efter kön, ålder och födelseland.  År 2000 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnAdoptionN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnAdoptionN"
         },
         {
-          "text": "Adopterade barn och unga 0-21 år efter kön, ålder och typ av adoption. År 2014 - 2025",
+          "text": "Adopterade barn och unga 0–21 år efter kön, ålder och typ av adoption. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T26",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T26"
         },
         {
-          "text": "Antal adoptioner av barn och unga 0-17 år efter kön och typ av adoption. År 2014 - 2025",
+          "text": "Antal adoptioner av barn och unga 0–17 år efter kön och typ av adoption. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T27",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T27"
         }
@@ -450,19 +456,19 @@
           "Datum"
         ],
         [
-          "Antal adoptioner av barn 0-17 år efter kön och födelseland. År 2000 - 2025",
+          "Antal adoptioner av barn 0–17 år efter kön och födelseland. År 2000 - 2025",
           "2026-06-25"
         ],
         [
-          "Adopterade barn och unga 0-21 år efter kön, ålder och födelseland.  År 2000 - 2025",
+          "Adopterade barn och unga 0–21 år efter kön, ålder och födelseland.  År 2000 - 2025",
           "2026-06-25"
         ],
         [
-          "Adopterade barn och unga 0-21 år efter kön, ålder och typ av adoption. År 2014 - 2025",
+          "Adopterade barn och unga 0–21 år efter kön, ålder och typ av adoption. År 2014 - 2025",
           "2026-06-25"
         ],
         [
-          "Antal adoptioner av barn och unga 0-17 år efter kön och typ av adoption. År 2014 - 2025",
+          "Antal adoptioner av barn och unga 0–17 år efter kön och typ av adoption. År 2014 - 2025",
           "2026-06-25"
         ]
       ]
@@ -507,17 +513,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter kön, ålder och familjetyp. År 2015 - 2025",
+          "text": "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter kön, ålder och familjetyp. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T30",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T30"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2015 - 2025",
+          "text": "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T31",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T31"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter region, kön och ålder. År 2023 - 2025",
+          "text": "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter region, kön och ålder. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T32N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T32N23"
         }
@@ -532,15 +538,15 @@
           "Datum"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter kön, ålder och familjetyp. År 2015 - 2025",
+          "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter kön, ålder och familjetyp. År 2015 - 2025",
           "2026-06-25"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2015 - 2025",
+          "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter kön, ålder, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2015 - 2025",
           "2026-06-25"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år vars föräldrar separerat under året efter region, kön och ålder. År 2023 - 2025",
+          "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter region, kön och ålder. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -585,7 +591,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0-21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder. År 2023 - 2025",
+          "text": "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0–21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T33N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T33N23"
         }
@@ -600,7 +606,7 @@
           "Datum"
         ],
         [
-          "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0-21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder. År 2023 - 2025",
+          "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0–21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -645,7 +651,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal vårdnadshavare för hemmaboende barn 0-17 år efter kön, vårdnadshavare och familjetyp. År 2014 - 2025",
+          "text": "Antal vårdnadshavare för hemmaboende barn 0–17 år efter kön, vårdnadshavare och familjetyp. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T28",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T28"
         }
@@ -660,7 +666,7 @@
           "Datum"
         ],
         [
-          "Antal vårdnadshavare för hemmaboende barn 0-17 år efter kön, vårdnadshavare och familjetyp. År 2014 - 2025",
+          "Antal vårdnadshavare för hemmaboende barn 0–17 år efter kön, vårdnadshavare och familjetyp. År 2014 - 2025",
           "2026-06-25"
         ]
       ]
@@ -705,12 +711,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Barn och unga 0-21 år med svensk och utländsk bakgrund efter kön och ålder. År 2002 - 2025",
+          "text": "Barn och unga 0–21 år med svensk och utländsk bakgrund efter kön och ålder. År 2002 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T15",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T15"
         },
         {
-          "text": "Barn och unga 0-21 år med svensk och utländsk bakgrund efter region, kön och ålder. År 2023 - 2025",
+          "text": "Barn och unga 0–21 år med svensk och utländsk bakgrund efter region, kön och ålder. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T16N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T16N23"
         }
@@ -725,11 +731,11 @@
           "Datum"
         ],
         [
-          "Barn och unga 0-21 år med svensk och utländsk bakgrund efter kön och ålder. År 2002 - 2025",
+          "Barn och unga 0–21 år med svensk och utländsk bakgrund efter kön och ålder. År 2002 - 2025",
           "2026-06-25"
         ],
         [
-          "Barn och unga 0-21 år med svensk och utländsk bakgrund efter region, kön och ålder. År 2023 - 2025",
+          "Barn och unga 0–21 år med svensk och utländsk bakgrund efter region, kön och ålder. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -774,12 +780,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Boendeform och genomsnittlig bostadsarea per person för hemmaboende barn och unga 0-21 år efter kön, ålder, boendeform, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2014 - 2025",
+          "text": "Boendeform och genomsnittlig bostadsarea per person för hemmaboende barn och unga 0–21 år efter kön, ålder, boendeform, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T34",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T34"
         },
         {
-          "text": "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0-21 år efter region, kön, ålder och boendeform. År 2023 - 2025",
+          "text": "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0–21 år efter region, kön, ålder och boendeform. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T35N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T35N23"
         }
@@ -794,11 +800,11 @@
           "Datum"
         ],
         [
-          "Boendeform och genomsnittlig bostadsarea per person för hemmaboende barn och unga 0-21 år efter kön, ålder, boendeform, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2014 - 2025",
+          "Boendeform och genomsnittlig bostadsarea per person för hemmaboende barn och unga 0–21 år efter kön, ålder, boendeform, familjetyp, utländsk/svensk bakgrund och föräldrarnas inkomstnivå. År 2014 - 2025",
           "2026-06-25"
         ],
         [
-          "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0-21 år efter region, kön, ålder och boendeform. År 2023 - 2025",
+          "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0–21 år efter region, kön, ålder och boendeform. År 2023 - 2025",
           "2026-06-25"
         ]
       ]
@@ -843,62 +849,62 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L1"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L2",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L2"
         },
         {
-          "text": "Inkomststandard bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "text": "Inkomststandard bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L4",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L4"
         },
         {
-          "text": "Inkomststandard bland hemmaboende barn och unga 0-21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "text": "Inkomststandard bland hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L5",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L5"
         },
         {
-          "text": "Inkomststandard (median) bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2024",
+          "text": "Inkomststandard (median) bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L7",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L7"
         },
         {
-          "text": "Inkomststandard (median) bland hemmaboende barn och unga 0-21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "text": "Inkomststandard (median) bland hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L8",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L8"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "text": "Hemmaboende barn och unga 0–21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L9",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L9"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "text": "Hemmaboende barn och unga 0–21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L10",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L10"
         },
         {
-          "text": "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0-21 år efter kön, ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "text": "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L11",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L11"
         },
         {
-          "text": "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0-21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "text": "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L12",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L12"
         },
         {
-          "text": "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten.  År 2022 - 2024",
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten.  År 2022 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L3N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L3N23"
         },
         {
-          "text": "Inkomststandard bland hemmaboende barn och unga 0-21 år efter region, kön och ålder.  År 2022 - 2024",
+          "text": "Inkomststandard bland hemmaboende barn och unga 0–21 år efter region, kön och ålder.  År 2022 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L6N23",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L6N23"
         }
@@ -913,51 +919,51 @@
           "Datum"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Inkomststandard bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "Inkomststandard bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Inkomststandard bland hemmaboende barn och unga 0-21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "Inkomststandard bland hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Inkomststandard (median) bland hemmaboende barn och unga 0-21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2024",
+          "Inkomststandard (median) bland hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Inkomststandard (median) bland hemmaboende barn och unga 0-21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "Inkomststandard (median) bland hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "Hemmaboende barn och unga 0–21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "Hemmaboende barn och unga 0–21 år i familjer som fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0-21 år efter kön, ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
+          "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0-21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
+          "Familjestödets andel av den disponibla inkomsten bland hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2024",
           "2026-03-24"
         ],
         [
-          "Hemmaboende barn och unga 0-21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten.  År 2022 - 2024",
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten.  År 2022 - 2024",
           "2026-03-24"
         ],
         [
-          "Inkomststandard bland hemmaboende barn och unga 0-21 år efter region, kön och ålder.  År 2022 - 2024",
+          "Inkomststandard bland hemmaboende barn och unga 0–21 år efter region, kön och ålder.  År 2022 - 2024",
           "2026-03-24"
         ]
       ]
@@ -1002,22 +1008,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och barnets ålder.  År 2021 - 2024",
+          "text": "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och barnets ålder.  År 2021 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn01N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn01N"
         },
         {
-          "text": "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och familjetyp.  År 2021 - 2024",
+          "text": "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och familjetyp.  År 2021 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn02N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn02N"
         },
         {
-          "text": "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och utbildningsnivå.  År 2021 - 2024",
+          "text": "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och utbildningsnivå.  År 2021 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn04N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn04N"
         },
         {
-          "text": "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och födelseland.  År 2021 - 2024",
+          "text": "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och födelseland.  År 2021 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn05N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SyssattAntalBarn05N"
         }
@@ -1032,19 +1038,19 @@
           "Datum"
         ],
         [
-          "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och barnets ålder.  År 2021 - 2024",
+          "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och barnets ålder.  År 2021 - 2024",
           "2026-06-25"
         ],
         [
-          "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och familjetyp.  År 2021 - 2024",
+          "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och familjetyp.  År 2021 - 2024",
           "2026-06-25"
         ],
         [
-          "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och utbildningsnivå.  År 2021 - 2024",
+          "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och utbildningsnivå.  År 2021 - 2024",
           "2026-06-25"
         ],
         [
-          "Antal och andel hemmaboende barn och unga 0-17 år efter föräldrarnas sysselsättning och födelseland.  År 2021 - 2024",
+          "Antal och andel hemmaboende barn och unga 0–17 år efter föräldrarnas sysselsättning och födelseland.  År 2021 - 2024",
           "2026-06-25"
         ]
       ]
@@ -1089,12 +1095,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Barn och unga 0-21 år vars föräldrar avlidit under året efter kön, ålder och förälder som avlidit. År 2015 - 2025",
+          "text": "Barn och unga 0–21 år vars föräldrar avlidit under året efter kön, ålder och förälder som avlidit. År 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T36",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T36"
         },
         {
-          "text": "Barn och unga 0-21 år vars föräldrar avlidit under barnets liv efter kön, ålder och förälder som avlidit. År 2014 - 2025",
+          "text": "Barn och unga 0–21 år vars föräldrar avlidit under barnets liv efter kön, ålder och förälder som avlidit. År 2014 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T37",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T37"
         }
@@ -1109,11 +1115,11 @@
           "Datum"
         ],
         [
-          "Barn och unga 0-21 år vars föräldrar avlidit under året efter kön, ålder och förälder som avlidit. År 2015 - 2025",
+          "Barn och unga 0–21 år vars föräldrar avlidit under året efter kön, ålder och förälder som avlidit. År 2015 - 2025",
           "2026-06-25"
         ],
         [
-          "Barn och unga 0-21 år vars föräldrar avlidit under barnets liv efter kön, ålder och förälder som avlidit. År 2014 - 2025",
+          "Barn och unga 0–21 år vars föräldrar avlidit under barnets liv efter kön, ålder och förälder som avlidit. År 2014 - 2025",
           "2026-06-25"
         ]
       ]
@@ -1131,18 +1137,583 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102X",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102X"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Barn- och familjestatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter region, kön och ålder.  År 2015 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T32N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T32N"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T1",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T1"
+        },
+        {
+          "text": "Familjetyp för hemmaboende barn och unga 0–21 år efter region, kön, ålder och familjetyp.  År 2014 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T18N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T18N"
+        },
+        {
+          "text": "Familjer med hemmaboende barn och ungdomar 0-21 år samt genomsnittligt antal barn per familj efter barnens ålder, familjetyp och moderns/faderns födelseland (Sverige/utomlands). År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Barnfam",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Barnfam"
+        },
+        {
+          "text": "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0–21 år efter region, kön, ålder och boendeform.  År 2014 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T35N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T35N"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T2"
+        },
+        {
+          "text": "Familjer med hemmaboende barn och ungdomar 0-21 år efter barnens ålder, familjetyp och föräldrarnas ålder. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Barnfamalder",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Barnfamalder"
+        },
+        {
+          "text": "Familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder, familjetyp och antal barn i familjen.  År 2014 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T19N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T19N"
+        },
+        {
+          "text": "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder och familjetyp.  År 2014 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T21N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T21N"
+        },
+        {
+          "text": "Barn och unga 0–21 år med svensk och utländsk bakgrund efter region, kön och ålder.  År 2002 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T16N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T16N"
+        },
+        {
+          "text": "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0–21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder.  År 2014 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T33N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T33N"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T3N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T3N"
+        },
+        {
+          "text": "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp (sammanboende eller ensamstående föräldrar) och antal barn i familjen. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Familj1K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Familj1K"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4N"
+        },
+        {
+          "text": "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp (sammanboende eller ensamstående föräldrar) och genomsnittligt antal barn i familjen. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Familj2K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Familj2K"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter region, kön och ålder. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T6NN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T6NN"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder2"
+        },
+        {
+          "text": "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T7N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T7N"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år i kärnfamiljer och andra familjer efter kön, ålder och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnFamilj2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnFamilj2"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter region, kön och ålder. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T6N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T6N"
+        },
+        {
+          "text": "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8N"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter region, kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder5K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder5K"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T9",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T9"
+        },
+        {
+          "text": "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T7",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T7"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter region, kön, ålder, familjetyp (bor med biologiska föräldrar och styvföräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder4K",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder4K"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10"
+        },
+        {
+          "text": "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), utländsk/svensk bakgrund och moderns ålder. År 2005",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder3"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), hemmaboende syskon och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Syskon3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Syskon3"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, hemmaboende syskon och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Syskon7",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Syskon7"
+        },
+        {
+          "text": "Familjestödets andel av den disponibla inkomsten för hemmaboende barn och unga 0–21 år efter kön,ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T11N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T11N"
+        },
+        {
+          "text": "Ungdomar 16-21 år som har flyttat hemifrån efter kön, ålder, familjetyp (sammanboende eller ensamstående), med/utan barn och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboUngdom",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboUngdom"
+        },
+        {
+          "text": "Familjestödets andel av den disponibla inkomsten för hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T12N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T12N"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter kön, ålder, familjetyp (kärnfamiljer/ombildade familjer) och föräldrarnas sammanboendeform. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Separation",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Separation"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter region, kön, ålder och föräldrarnas sammanboendeform. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationK"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter kön, ålder, familjetyp (kärnfamiljer/ombildade familjer), föräldrarnas sammanboendeform och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationSvUtl",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationSvUtl"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten. År 2014 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L3",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L3"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 1-17 år som lever skilda från en av sina biologiska föräldrar efter kön, ålder, avstånd, familjetyp och utländsk/svensk bakgrund hos frånlevande förälder . År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationAvstand",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SeparationAvstand"
+        },
+        {
+          "text": "Gemensam eller ensam vårdnad för hemmaboende barn och ungdomar 1-17 år efter kön, ålder, vårdnadshavare, familjetyp (föräldrarnas civilstånd/föräldraskap) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vardnad",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vardnad"
+        },
+        {
+          "text": "Hemmaboende/ej hemmaboende barn och ungdomar 0-21 år efter kön, ålder och utländsk/svensk bakgrund. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnOversikt",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnOversikt"
+        },
+        {
+          "text": "Inkomststandard bland hemmaboende barn och unga 0–21 år efter region, kön och ålder. År 2014 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L6",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102L6"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, barnens ålder, barnens födelseland (Sverige/utomlands) och moderns födelseland. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnBefFodland",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnBefFodland"
+        },
+        {
+          "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, barnens ålder, barnens födelseland (Sverige/utomlands) och faderns födelseland. År 2000 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnBefFodlandF",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnBefFodlandF"
+        },
+        {
+          "text": "Barnfamiljernas inkomststandard, antal och andel hemmaboende barn 0-17 år efter inkomststandard. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStd"
+        },
+        {
+          "text": "Barnfamiljernas inkomststandard (median) för hemmaboende barn 0-17 år efter befolkningsgrupper. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStdMedian",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStdMedian"
+        },
+        {
+          "text": "Barnfamiljernas inkomststandard (median) för hemmaboende barn 0-17 år efter kommungrupp. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStdMedianSKL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InkStdMedianSKL"
+        },
+        {
+          "text": "Familjens disponibla inkomst per konsumtionsenhet i tkr. Barn i familjer med hemmaboende barn 0-17 år efter befolkningsgrupper. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInk"
+        },
+        {
+          "text": "Familjens disponibla inkomst per konsumtionsenhet i tkr. Barn i familjer med hemmaboende barn 0-17 år efter kommungrupp. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkSKL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkSKL"
+        },
+        {
+          "text": "Familjestödets andel av den disponibla inkomsten. Barn i familjer med hemmaboende barn 0-17 år efter typ av bidrag och befolkningsgrupper. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkB",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkB"
+        },
+        {
+          "text": "Familjestödets andel av den disponibla inkomsten. Barn i familjer med hemmaboende barn 0-17 år efter typ av bidrag och kommungrupp. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkBSKL",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DispInkBSKL"
+        },
+        {
+          "text": "Familjer som erhållit ekonomiskt bistånd någon gång under året, andel familjer med hemmaboende barn 0-17 år. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SocB",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SocB"
+        },
+        {
+          "text": "Hemmaboende barn 13-17 år med egna arbetsinkomster efter region, kön, ålder och inkomstklass. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbInk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbInk"
+        },
+        {
+          "text": "Hemmaboende barn 13-17 år med egna arbetsinkomster. Medianvärde i kr efter region, kön och ålder. År 1995 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbInkMd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbInkMd"
+        },
+        {
+          "text": "Barn och ungdomar 0-21 år vars biologiska föräldrar avlidit under året efter kön, ålder och boendeform. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnForAvlid",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnForAvlid"
+        },
+        {
+          "text": "Barn och ungdomar 0-21 år vars biologiska föräldrar avlidit under barnets liv efter region, kön och ålder. År 2007 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnForAvlid2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BarnForAvlid2"
+        },
+        {
+          "text": "Boende bland barn och ungdomar med separerade föräldrar efter kön och ålder. År 2006",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Boendeform2",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Boendeform2"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år vars föräldrar separerat under året efter region, kön och ålder.  År 2015 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Familjetyp för hemmaboende barn och unga 0–21 år efter region, kön, ålder och familjetyp.  År 2014 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Familjer med hemmaboende barn och ungdomar 0-21 år samt genomsnittligt antal barn per familj efter barnens ålder, familjetyp och moderns/faderns födelseland (Sverige/utomlands). År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Boendeform och genomsnittlig bostadsarea för hemmaboende barn och unga 0–21 år efter region, kön, ålder och boendeform.  År 2014 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter kön, ålder, andel av medianinkomsten, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Familjer med hemmaboende barn och ungdomar 0-21 år efter barnens ålder, familjetyp och föräldrarnas ålder. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder, familjetyp och antal barn i familjen.  År 2014 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Antal familjer och genomsnittligt antal barn per familj för familjer med hemmaboende barn och unga 0–21 år efter region, barnens ålder och familjetyp.  År 2014 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Barn och unga 0–21 år med svensk och utländsk bakgrund efter region, kön och ålder.  År 2002 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Geografiskt avstånd till frånlevande förälder för hemmaboende barn och unga 0–21 år som lever skilda från en av sina biologiska föräldrar efter region, kön, ålder och avstånd till frånlevande förälder.  År 2014 - 2023",
+          "2024-06-20"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg respektive hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp (sammanboende eller ensamstående föräldrar) och antal barn i familjen. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Familjer med hemmaboende barn och unga 0-21 år efter region, barnens ålder, familjetyp (sammanboende eller ensamstående föräldrar) och genomsnittligt antal barn i familjen. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. Uppdateras ej. År 2014 - 2017",
+          "2019-03-13"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
+          "2019-03-13"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter region, kön och ålder. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år i kärnfamiljer och andra familjer efter kön, ålder och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter region, kön och ålder. Uppdateras ej. År 2014 - 2017",
+          "2019-03-13"
+        ],
+        [
+          "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter region, kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal syskon. Uppdateras ej. År 2014 - 2017",
+          "2019-03-13"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter region, kön, ålder, familjetyp (bor med biologiska föräldrar och styvföräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
+        ],
+        [
+          "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
+          "2019-03-13"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), utländsk/svensk bakgrund och moderns ålder. År 2005",
+          "2007-08-10"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), hemmaboende syskon och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, hemmaboende syskon och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Familjestödets andel av den disponibla inkomsten för hemmaboende barn och unga 0–21 år efter kön,ålder, typ av bidrag, familjetyp och antal hemmaboende syskon. År 2014 - 2019",
+          "2021-12-20"
+        ],
+        [
+          "Ungdomar 16-21 år som har flyttat hemifrån efter kön, ålder, familjetyp (sammanboende eller ensamstående), med/utan barn och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Familjestödets andel av den disponibla inkomsten för hemmaboende barn och unga 0–21 år efter kön, ålder, typ av bidrag, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-12-20"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter kön, ålder, familjetyp (kärnfamiljer/ombildade familjer) och föräldrarnas sammanboendeform. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter region, kön, ålder och föräldrarnas sammanboendeform. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år vars föräldrar separerat efter kön, ålder, familjetyp (kärnfamiljer/ombildade familjer), föräldrarnas sammanboendeform och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år som bor i familjer med låg resp. hög inkomst i förhållande till medianen efter region, kön, ålder och andel av medianinkomsten. År 2014 - 2022",
+          "2024-03-22"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 1-17 år som lever skilda från en av sina biologiska föräldrar efter kön, ålder, avstånd, familjetyp och utländsk/svensk bakgrund hos frånlevande förälder . År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Gemensam eller ensam vårdnad för hemmaboende barn och ungdomar 1-17 år efter kön, ålder, vårdnadshavare, familjetyp (föräldrarnas civilstånd/föräldraskap) och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende/ej hemmaboende barn och ungdomar 0-21 år efter kön, ålder och utländsk/svensk bakgrund. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Inkomststandard bland hemmaboende barn och unga 0–21 år efter region, kön och ålder. År 2014 - 2022",
+          "2024-03-22"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter kön, barnens ålder, barnens födelseland (Sverige/utomlands) och moderns födelseland. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn och ungdomar 0-21 år efter kön, barnens ålder, barnens födelseland (Sverige/utomlands) och faderns födelseland. År 2000 - 2014",
+          "2015-10-01"
+        ],
+        [
+          "Barnfamiljernas inkomststandard, antal och andel hemmaboende barn 0-17 år efter inkomststandard. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Barnfamiljernas inkomststandard (median) för hemmaboende barn 0-17 år efter befolkningsgrupper. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Barnfamiljernas inkomststandard (median) för hemmaboende barn 0-17 år efter kommungrupp. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Familjens disponibla inkomst per konsumtionsenhet i tkr. Barn i familjer med hemmaboende barn 0-17 år efter befolkningsgrupper. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Familjens disponibla inkomst per konsumtionsenhet i tkr. Barn i familjer med hemmaboende barn 0-17 år efter kommungrupp. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Familjestödets andel av den disponibla inkomsten. Barn i familjer med hemmaboende barn 0-17 år efter typ av bidrag och befolkningsgrupper. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Familjestödets andel av den disponibla inkomsten. Barn i familjer med hemmaboende barn 0-17 år efter typ av bidrag och kommungrupp. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Familjer som erhållit ekonomiskt bistånd någon gång under året, andel familjer med hemmaboende barn 0-17 år. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn 13-17 år med egna arbetsinkomster efter region, kön, ålder och inkomstklass. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Hemmaboende barn 13-17 år med egna arbetsinkomster. Medianvärde i kr efter region, kön och ålder. År 1995 - 2013",
+          "2015-10-01"
+        ],
+        [
+          "Barn och ungdomar 0-21 år vars biologiska föräldrar avlidit under året efter kön, ålder och boendeform. År 2007 - 2008",
+          "2009-10-05"
+        ],
+        [
+          "Barn och ungdomar 0-21 år vars biologiska föräldrar avlidit under barnets liv efter region, kön och ålder. År 2007 - 2008",
+          "2009-10-05"
+        ],
+        [
+          "Boende bland barn och ungdomar med separerade föräldrar efter kön och ålder. År 2006",
+          "2008-12-04"
+        ]
+      ]
     },
     {
       "heading_path": [

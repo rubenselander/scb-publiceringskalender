@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0108",
     "response_url": "https://www.scb.se/RV0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/politikernas-trygghetsundersokning/",
-    "fetched_at": "2026-10-19T03:41:30.882906Z",
+    "fetched_at": "2026-10-26T03:44:33.284087Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f6429e3a73f7e09f25620d1c5719e32cd066724a43ccd219a6d05bd8ec357299",
+    "content_sha256": "6709ce25e35767e2413df59317e86ff697139940608e7a56f46fb828f7596c84",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0108",
   "summary": "Statistiken visar förtroendevalda i kommun- och landstingsfullmäktige och i riksdagens utsatthet för hot, trakasserier, våld, skadegörelse och stöld från 2012. Observera att det är statistiken från och med 2019 som ingår i Sveriges officiella statistik. Resultaten från de tidigare mättillfällena är dock producerade utifrån samma kvalitetskrav.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-18",
+  "next_publication_date": "2027-11-18",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-18",
         "Statistiken visar förtroendevalda i kommun- och landstingsfullmäktige och i riksdagens utsatthet för hot, trakasserier, våld, skadegörelse och stöld från 2012. Observera att det är statistiken från och med 2019 som ingår i Sveriges officiella statistik. Resultaten från de tidigare mättillfällena är dock producerade utifrån samma kvalitetskrav."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0108&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0108&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0208",
     "response_url": "https://www.scb.se/SF0208",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/handikappersattning/",
-    "fetched_at": "2026-10-19T03:41:45.809682Z",
+    "fetched_at": "2026-10-26T03:44:49.615576Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d14de5e21805be06a3b844cba970144f699b6e0dfd376f27a38835d583fd4199",
+    "content_sha256": "56ae5f0e90c4e321e0331423a897a98014b401aae6f48117b445f635546d6477",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0208",
   "summary": "Statistiken visar antal mottagare och utbetalt månadsbelopp fördelat på ålder, län och ersättningsnivå.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-19",
-  "next_publication_date": "2026-10-19",
+  "next_publication_text": "Nästa publicering: 2026-11-19",
+  "next_publication_date": "2026-11-19",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-19",
+        "Nästa publicering: 2026-11-19",
         "Statistiken visar antal mottagare och utbetalt månadsbelopp fördelat på ålder, län och ersättningsnivå."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-19",
+          "text": "Nästa publicering: 2026-11-19",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0208&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0208&period=Forward1Year"
         }

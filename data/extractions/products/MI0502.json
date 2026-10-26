@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0502",
     "response_url": "https://www.scb.se/MI0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/forsaljning-och-anvandning-av-kemikalier/vaxtskyddsmedel-i-jord--och-tradgardsbruket--anvandning-i-grodor/",
-    "fetched_at": "2026-10-19T03:40:26.507921Z",
+    "fetched_at": "2026-10-26T03:43:32.602369Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a880eda128d4850b106b0912e8982d40d8cca96af9c0a70c870714303a868728",
+    "content_sha256": "3582150f2ab2eae850689e4aaeee2594645c90c0b178ad7dc168237a533c810d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0502",
   "summary": "Syftet med undersökningen är att kontinuerligt ge regional och differentierad statistik över bekämpningsmedelsanvändningen, liksom att följa förändringar i denna över tiden. Undersökningen ger även väsentlig information för uppföljning av politiskt uppsatta miljömål.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-30",
+  "next_publication_date": "2027-11-30",
   "responsible_agency": {
     "label": "Kemikalieinspektionen (KemI)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-30",
         "Syftet med undersökningen är att kontinuerligt ge regional och differentierad statistik över bekämpningsmedelsanvändningen, liksom att följa förändringar i denna över tiden. Undersökningen ger även väsentlig information för uppföljning av politiskt uppsatta miljömål."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-30",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0502&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0502&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

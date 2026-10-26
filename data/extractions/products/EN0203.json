@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0203",
     "response_url": "https://www.scb.se/EN0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/",
-    "fetched_at": "2026-10-19T03:38:46.492073Z",
+    "fetched_at": "2026-10-26T03:41:55.924754Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3b0b046bb02a534a6f4167afe82acdf32bc2e0229d90bb9546c6d85159f2e752",
+    "content_sha256": "63137738c5ce13feaff1574221533e29d82e0af9ae09f435b13990971c2d8565",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -162,18 +162,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som ej uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som ej uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0203O",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0203O"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Kommunal och regional energistatistik",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp.  År 2005 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrElOv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrElOv"
+        },
+        {
+          "text": "Fjärrvärmeproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp.  År 2005 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrFjOv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ProdbrFjOv"
+        },
+        {
+          "text": "Slutanvändning (MWh), efter län och kommun, förbrukarkategori samt bränsletyp.  År 2005 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SlutAnvSektorOv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SlutAnvSektorOv"
+        },
+        {
+          "text": "Energidata (MWh) efter län och kommun, kategori samt energityp.  År 1990 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EnergiKommKat",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EnergiKommKat"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Elproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp.  År 2005 - 2008",
+          "2015-06-25"
+        ],
+        [
+          "Fjärrvärmeproduktion och bränsleanvändning (MWh), efter län och kommun, produktionssätt samt bränsletyp.  År 2005 - 2008",
+          "2015-06-25"
+        ],
+        [
+          "Slutanvändning (MWh), efter län och kommun, förbrukarkategori samt bränsletyp.  År 2005 - 2008",
+          "2015-06-25"
+        ],
+        [
+          "Energidata (MWh) efter län och kommun, kategori samt energityp.  År 1990 - 2008",
+          "2011-06-23"
+        ]
+      ]
     },
     {
       "heading_path": [

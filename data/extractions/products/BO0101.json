@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0101",
     "response_url": "https://www.scb.se/BO0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/byggande-och-ombyggnad/bygglov-nybyggnad-och-ombyggnad/",
-    "fetched_at": "2026-10-19T03:38:26.826483Z",
+    "fetched_at": "2026-10-26T03:41:37.477636Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "04798423713fccb495b2680b7aab4f38a891a447c0875108aaa91938d8ece5c5",
+    "content_sha256": "21ac84142ffc9a2bbbce486622bf4f47f91637027193601db45faee7282cc8df",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -799,18 +799,133 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0101E",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BO0101E"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Bygglov, nybyggnad och ombyggnad",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Färdigställda lägenheter i nybyggda hus efter region, lägenhetstyp och hustyp. Uppdateras ej. År 1975 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetNyAr"
+        },
+        {
+          "text": "Lägenheter i ombyggda flerbostadshus, påbörjade och färdigställda,  efter region. Preliminära uppgifter. Uppdateras ej. Kvartal 1989K1 - 2006K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbEjUppdKv",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbEjUppdKv"
+        },
+        {
+          "text": "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och upplåtelseform. År 2009 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghTillOmbUpplatAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LghTillOmbUpplatAr"
+        },
+        {
+          "text": "Ombyggd bostadsarea i flerbostadshus efter region, ägarkategori och byggnadsperiod. År 1989 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpAr"
+        },
+        {
+          "text": "Ombyggda lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod och lägenhetstyp. År 1989 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpLtAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpLtAr"
+        },
+        {
+          "text": "Ombyggda lägenheter i flerbostadshus i riket efter ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. Uppdateras ej. År 1989 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbStodtypAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbStodtypAr"
+        },
+        {
+          "text": "Ombyggda lägenheter i flerbostadshus med statligt stöd efter region och upplåtelseform. Uppdateras ej. År 1989 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbUpplatAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbUpplatAr"
+        },
+        {
+          "text": "Ombyggda lägenheter i flerbostadshus med statligt stöd i riket efter åtgärd, byggnadsperiod och ägarkategori. Uppdateras ej. År 1989 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpAtAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAkBpAtAr"
+        },
+        {
+          "text": "Ombyggnad av flerbostadshus, tillskott av lägenheter, i riket efter åtgärd, ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. År 1989 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAtgardAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetOmbAtgardAr"
+        },
+        {
+          "text": "Rivning av lägenheter i flerbostadshus efter region och kvalitetsgrupp. Uppdateras ej. År 1989 - 2011",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetRivKvalAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LagenhetRivKvalAr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Färdigställda lägenheter i nybyggda hus efter region, lägenhetstyp och hustyp. Uppdateras ej. År 1975 - 2024",
+          "2025-08-25"
+        ],
+        [
+          "Lägenheter i ombyggda flerbostadshus, påbörjade och färdigställda,  efter region. Preliminära uppgifter. Uppdateras ej. Kvartal 1989K1 - 2006K4",
+          "2014-04-30"
+        ],
+        [
+          "Nettoförändring av lägenheter i ombyggda flerbostadshus efter region och upplåtelseform. År 2009 - 2016",
+          "2017-05-04"
+        ],
+        [
+          "Ombyggd bostadsarea i flerbostadshus efter region, ägarkategori och byggnadsperiod. År 1989 - 2016",
+          "2017-05-04"
+        ],
+        [
+          "Ombyggda lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod och lägenhetstyp. År 1989 - 2016",
+          "2017-05-04"
+        ],
+        [
+          "Ombyggda lägenheter i flerbostadshus i riket efter ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. Uppdateras ej. År 1989 - 2008",
+          "2009-04-02"
+        ],
+        [
+          "Ombyggda lägenheter i flerbostadshus med statligt stöd efter region och upplåtelseform. Uppdateras ej. År 1989 - 2008",
+          "2009-04-02"
+        ],
+        [
+          "Ombyggda lägenheter i flerbostadshus med statligt stöd i riket efter åtgärd, byggnadsperiod och ägarkategori. Uppdateras ej. År 1989 - 2008",
+          "2009-04-02"
+        ],
+        [
+          "Ombyggnad av flerbostadshus, tillskott av lägenheter, i riket efter åtgärd, ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. År 1989 - 2016",
+          "2017-05-04"
+        ],
+        [
+          "Rivning av lägenheter i flerbostadshus efter region och kvalitetsgrupp. Uppdateras ej. År 1989 - 2011",
+          "2012-04-12"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0603",
     "response_url": "https://www.scb.se/MI0603",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/skyddad-natur/",
-    "fetched_at": "2026-10-19T03:40:29.777495Z",
+    "fetched_at": "2026-10-26T03:43:35.211077Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "02863ebd8ad69db15594e0b6fc2b98ee252250c3c233022da0e39da72ab1ec98",
+    "content_sha256": "e8db0b10792d06c748588a991dda0498265c260b84cc5dd7fb3b9c3b9c097ac1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0603",
   "summary": "Statistiken beskriver formellt skyddad natur i Sverige. Ett skyddat område är ett geografiskt definierat område som är permanent utpekat, reglerat och förvaltat för att uppnå specifika syften och bevarandemål. Här ingår bland annat nationalparker, naturreservat och biotopskyddsområden.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-28",
+  "next_publication_date": "2027-05-28",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-28",
         "Statistiken beskriver formellt skyddad natur i Sverige. Ett skyddat område är ett geografiskt definierat område som är permanent utpekat, reglerat och förvaltat för att uppnå specifika syften och bevarandemål. Här ingår bland annat nationalparker, naturreservat och biotopskyddsområden."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0603&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0603&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -647,18 +653,133 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0603R",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0603R"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Skyddad natur",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Skyddad natur i och omkring tätorter med fler än 10 000 invånare. Uppdateras ej. År 2012 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SkyddadnaturTatort",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SkyddadnaturTatort"
+        },
+        {
+          "text": "Förvaltare av skyddad natur efter region. År 2015 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Forvaltare",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Forvaltare"
+        },
+        {
+          "text": "Fridlysta djur- och växtarter, antal per art. År 2015 - 2023",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DjuroVaxtart",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DjuroVaxtart"
+        },
+        {
+          "text": "Beslut om bildande av skyddade områden, antal efter region. År 2007 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeslutSkyddadnatur",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BeslutSkyddadnatur"
+        },
+        {
+          "text": "Skog i skyddade områden, antal per storleksklass. Uppdateras ej. År 2015 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StorleksfordSkyddOmr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StorleksfordSkyddOmr"
+        },
+        {
+          "text": "Kostnader för skyddad natur efter region. År 1993 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnadSkydd",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnadSkydd"
+        },
+        {
+          "text": "Skyddad natur ovanför gränsen för fjällnära skog, andel i procent per naturtyp. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NaturSkyddFjallSkog",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NaturSkyddFjallSkog"
+        },
+        {
+          "text": "Kostnader för skyddad natur efter region.  År 2015 - 2024",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnadSkyddN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KostnadSkyddN"
+        },
+        {
+          "text": "Vattenskyddsområden efter region. År 2015 - 2022",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vattenskyddsomr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Vattenskyddsomr"
+        },
+        {
+          "text": "Skyddade områden efter naturtyp. Uppdateras ej. År 2014 - 2017",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NaturTypSkyddOmr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NaturTypSkyddOmr"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Skyddad natur i och omkring tätorter med fler än 10 000 invånare. Uppdateras ej. År 2012 - 2017",
+          "2018-05-23"
+        ],
+        [
+          "Förvaltare av skyddad natur efter region. År 2015 - 2019",
+          "2020-05-27"
+        ],
+        [
+          "Fridlysta djur- och växtarter, antal per art. År 2015 - 2023",
+          "2024-05-23"
+        ],
+        [
+          "Beslut om bildande av skyddade områden, antal efter region. År 2007 - 2019",
+          "2020-05-27"
+        ],
+        [
+          "Skog i skyddade områden, antal per storleksklass. Uppdateras ej. År 2015 - 2017",
+          "2018-05-23"
+        ],
+        [
+          "Kostnader för skyddad natur efter region. År 1993 - 2019",
+          "2020-05-27"
+        ],
+        [
+          "Skyddad natur ovanför gränsen för fjällnära skog, andel i procent per naturtyp. Uppdateras ej. År 2014 - 2017",
+          "2018-05-23"
+        ],
+        [
+          "Kostnader för skyddad natur efter region.  År 2015 - 2024",
+          "2025-05-23"
+        ],
+        [
+          "Vattenskyddsområden efter region. År 2015 - 2022",
+          "2023-05-24"
+        ],
+        [
+          "Skyddade områden efter naturtyp. Uppdateras ej. År 2014 - 2017",
+          "2018-05-23"
+        ]
+      ]
     },
     {
       "heading_path": [

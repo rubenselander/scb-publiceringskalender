@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0301",
     "response_url": "https://www.scb.se/EN0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/elpriser-och-elavtal/",
-    "fetched_at": "2026-10-19T03:38:46.977591Z",
+    "fetched_at": "2026-10-26T03:41:56.415542Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5259fc84b94ecd147aaecb67eae537da770b615d7049164cf46ebde28c210fd0",
+    "content_sha256": "10092a81997e63ce1e76b424b60318c9c1991c257c72da06bea3fac03c95d96e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0301",
   "summary": "Statistiken visar bland annat nivå och utveckling för elhandels- och elnätspriser, fördelning av avtal på olika avtalstyper och i vilken utsträckning elavtal omförhandlas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-23",
-  "next_publication_date": "2026-10-23",
+  "next_publication_text": "Nästa publicering: 2026-11-24",
+  "next_publication_date": "2026-11-24",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -47,12 +47,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-23",
+        "Nästa publicering: 2026-11-24",
         "Statistiken visar bland annat nivå och utveckling för elhandels- och elnätspriser, fördelning av avtal på olika avtalstyper och i vilken utsträckning elavtal omförhandlas."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-23",
+          "text": "Nästa publicering: 2026-11-24",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0301&period=Forward1Year"
         }
@@ -287,12 +287,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M08",
+          "text": "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElAvtalstyp",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElAvtalstyp"
         },
         {
-          "text": "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M08",
+          "text": "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElhandelpris",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElhandelpris"
         },
@@ -302,7 +302,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDArElnatspris"
         },
         {
-          "text": "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M07",
+          "text": "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElVolymer",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElVolymer"
         },
@@ -317,7 +317,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDHalvarElIckehus"
         },
         {
-          "text": "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M07",
+          "text": "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmf",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmf"
         }
@@ -332,20 +332,20 @@
           "Datum"
         ],
         [
-          "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M08",
-          "2026-09-23"
+          "Fördelning av elavtal efter elområde och avtalstyp. Månad 2013M04 - 2026M09",
+          "2026-10-23"
         ],
         [
-          "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M08",
-          "2026-09-23"
+          "Elhandelspriser på elenergi (öre/kWh exkl. elskatt, moms och nätavgift) efter avtalstyp, elområde och kundkategori. Månad 2013M04 - 2026M09",
+          "2026-10-23"
         ],
         [
           "Elnätspriser (öre/kWh exkl. skatter) per den 1:a januari. År 1996 - 2026",
           "2026-05-22"
         ],
         [
-          "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M07",
-          "2026-09-23"
+          "Fördelning av levererade volymer efter elområde och avtalstyp. Månad 2025M01 - 2026M08",
+          "2026-10-23"
         ],
         [
           "Priser på el för hushåll efter förbrukarkategori. Halvår 2014H2 - 2026H1",
@@ -356,8 +356,8 @@
           "2026-09-28"
         ],
         [
-          "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M07",
-          "2026-09-23"
+          "Omförhandlade elavtal i antal efter elområde och kundkategori. Månad 2023M01 - 2026M08",
+          "2026-10-23"
         ]
       ]
     },
@@ -374,18 +374,52 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller, uppdateras ej"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller, uppdateras ej",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0301B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0301B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Elpriser och elavtal",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Omförhandlade elavtal efter elområde och kundkategori. Månad 2013M04 - 2023M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmforhand",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SSDManadElOmforhand"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Omförhandlade elavtal efter elområde och kundkategori. Månad 2013M04 - 2023M12",
+          "2024-01-23"
+        ]
+      ]
     },
     {
       "heading_path": [

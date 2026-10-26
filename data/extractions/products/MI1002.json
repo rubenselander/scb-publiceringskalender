@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1002",
     "response_url": "https://www.scb.se/MI1002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/forsaljning-av-mineralgodsel-for-jord--och-tradgardsbruk/",
-    "fetched_at": "2026-10-19T03:40:39.061000Z",
+    "fetched_at": "2026-10-26T03:43:44.120293Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "20f18cd46185ad67e81919947daf1cd14e87932e37fe05bd36d68186fb0a4e1c",
+    "content_sha256": "be9d33a9a9098d5a3e6354128ed5fcd4bfaa651db3dd088d2e850b69879d5583",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi1002",
   "summary": "Statistiken visar den regionala försäljningen av kväve, fosfor, kalium och svavel i mineralgödselmedel till jord- och trädgårdsbruket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-29",
+  "next_publication_date": "2027-04-29",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-29",
         "Statistiken visar den regionala försäljningen av kväve, fosfor, kalium och svavel i mineralgödselmedel till jord- och trädgårdsbruket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1002&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1002&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

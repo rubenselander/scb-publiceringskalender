@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0301",
     "response_url": "https://www.scb.se/PR0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
-    "fetched_at": "2026-10-19T03:41:23.479317Z",
+    "fetched_at": "2026-10-26T03:44:25.435605Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "03ac5f0f9f5bd80b0012cbf4f1b70d267198c046f3612ae45fe31fa391d302cc",
+    "content_sha256": "5ecb984fa9ca18c15b2fe43c424bc3da74451793ceed10d86ceef9e8aebc0072",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -924,18 +924,79 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0301Ö",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PR0301Ö"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Prisindex i producent- och importled (PPI)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). Månad 1990M01 - 2021M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2015M",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2015M"
+        },
+        {
+          "text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). År 1990 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2015A",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2015A"
+        },
+        {
+          "text": "Producentprisindex för tjänster (TPI) efter produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). Kvartal 1995K1 - 2021K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2015Kv15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2015Kv15"
+        },
+        {
+          "text": "Producentprisindex för tjänster (TPI) efter produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). År 1995 - 2021",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2015Ar15",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2015Ar15"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). Månad 1990M01 - 2021M12",
+          "2022-01-26"
+        ],
+        [
+          "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). År 1990 - 2021",
+          "2022-01-26"
+        ],
+        [
+          "Producentprisindex för tjänster (TPI) efter produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). Kvartal 1995K1 - 2021K4",
+          "2022-02-04"
+        ],
+        [
+          "Producentprisindex för tjänster (TPI) efter produktgrupp SPIN 2015, 2015=100 (Uppdateras ej). År 1995 - 2021",
+          "2022-02-04"
+        ]
+      ]
     },
     {
       "heading_path": [

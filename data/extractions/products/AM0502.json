@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0502",
     "response_url": "https://www.scb.se/AM0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/",
-    "fetched_at": "2026-10-19T03:38:19.709955Z",
+    "fetched_at": "2026-10-26T03:41:30.366069Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f200c6b9cd40450912144dd736489a04b5db84caace65b2bfa142ad2d0135f9a",
+    "content_sha256": "d5705d174845debdae8bf2ac2963e6d86971df70237e52416bb797d9c8a56e13",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -228,18 +228,115 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0502C",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0502C"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Arbetsorsakade besvär",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och yrke SSYK. År 1997 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarYRK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarYRK"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och näringsgren SNI 2007. År 2010 - 2016",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSNI07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSNI07"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön, socioekonomisk indelning SEI och ålder. År 1997 - 2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSEI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSEI"
+        },
+        {
+          "text": "Antal sysselsatta enl. besvärsundersökningen efter kön och näringsgren SNI 2007. År 2010 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSNI2007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSNI2007"
+        },
+        {
+          "text": "Antal sysselsatta enl. besvärsundersökningen efter kön och yrke SSYK. År 1997 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssYRK",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssYRK"
+        },
+        {
+          "text": "Antal sysselsatta enl. besvärsundersökningen efter kön, socioekonomisk indelning SEI och ålder. År 1997 - 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSEI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSEI"
+        },
+        {
+          "text": "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och näringsgren SNI92. År 1997 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakBesvarSNI"
+        },
+        {
+          "text": "Antal sysselsatta enl. besvärsundersökningen efter kön och näringsgren SNI92. År 1997 - 2008",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSNI",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbOrsakSyssSNI"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och yrke SSYK. År 1997 - 2016",
+          "2016-10-05"
+        ],
+        [
+          "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och näringsgren SNI 2007. År 2010 - 2016",
+          "2016-10-05"
+        ],
+        [
+          "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön, socioekonomisk indelning SEI och ålder. År 1997 - 2014",
+          "2014-10-01"
+        ],
+        [
+          "Antal sysselsatta enl. besvärsundersökningen efter kön och näringsgren SNI 2007. År 2010 - 2012",
+          "2012-10-31"
+        ],
+        [
+          "Antal sysselsatta enl. besvärsundersökningen efter kön och yrke SSYK. År 1997 - 2012",
+          "2012-10-31"
+        ],
+        [
+          "Antal sysselsatta enl. besvärsundersökningen efter kön, socioekonomisk indelning SEI och ålder. År 1997 - 2012",
+          "2012-10-31"
+        ],
+        [
+          "Andel av de sysselsatta enl. besvärsundersökningen för vald besvärsfråga efter kön och näringsgren SNI92. År 1997 - 2008",
+          "2012-10-31"
+        ],
+        [
+          "Antal sysselsatta enl. besvärsundersökningen efter kön och näringsgren SNI92. År 1997 - 2008",
+          "2008-09-26"
+        ]
+      ]
     },
     {
       "heading_path": [

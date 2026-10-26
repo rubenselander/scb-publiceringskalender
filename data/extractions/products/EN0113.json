@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0113",
     "response_url": "https://www.scb.se/EN0113",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/industrins-energianvandning/",
-    "fetched_at": "2026-10-19T03:38:38.789922Z",
+    "fetched_at": "2026-10-26T03:41:49.054018Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "972825c51fb5d82beab27172efa738cecacf855b7bced488b29d17055092995c",
+    "content_sha256": "0bbaebfc2c9a3f49c28684ee8860336df1ac7f6db021e4fa0a17dc1a9db79386",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0113",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-07",
+  "next_publication_date": "2027-10-07",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,9 +43,15 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad"
+        "Nästa publicering: 2027-10-07"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0113&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0113&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

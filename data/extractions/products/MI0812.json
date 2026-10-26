@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0812",
     "response_url": "https://www.scb.se/MI0812",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/strandnara-markanvandning/",
-    "fetched_at": "2026-10-19T03:40:35.035643Z",
+    "fetched_at": "2026-10-26T03:43:40.524627Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "050f843879a1a7b52622f651b6f50f448bb978dca7b605fd541075fdd75e1bac",
+    "content_sha256": "acce31b774ce365ea88ecdd9145e839c181dc4715e7683a1cfc1b8872cd86647",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -336,18 +336,295 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0812T",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0812T"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Strandnära markanvändning",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Areal och antal byggnader inom 100 m från strandlinjen för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand100",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand100"
+        },
+        {
+          "text": "Areal och antal byggnader inom 100 m från strandlinjen för de tre största sjöarna efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand100B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand100B"
+        },
+        {
+          "text": "Areal och antal byggnader inom 300 m från strandlinjen för de tre största sjöarna efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand300B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand300B"
+        },
+        {
+          "text": "Areal och antal byggnader inom 100 m från fastlandskustlinjen efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust100",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust100"
+        },
+        {
+          "text": "Areal och antal byggnader inom 100 m från fastlandskustlinjen efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust100B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust100B"
+        },
+        {
+          "text": "Areal och antal byggnader inom 300 m från fastlandskustlinjen efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust300",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust300"
+        },
+        {
+          "text": "Areal och antal byggnader inom 300 m från strandlinjen för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand300",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealStrand300"
+        },
+        {
+          "text": "Areal och antal byggnader inom 300 m från fastlandskustlinjen efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust300B",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArealKust300B"
+        },
+        {
+          "text": "Bebodda öar efter region. År 2000 - 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarBebodda",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarBebodda"
+        },
+        {
+          "text": "Bebyggelse på öar efter region. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BebyggelseOar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BebyggelseOar"
+        },
+        {
+          "text": "Bebyggelse inom 5 km från  kustlinjen efter region, byggnadstyp och glesbygd/tätort.  År 1992",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustbebyggelse5km",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustbebyggelse5km"
+        },
+        {
+          "text": "Bebyggelsepåverkad (byggnad ligger inom 100 m) fastlandskustlinje efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustlinje",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustlinje"
+        },
+        {
+          "text": "Bebyggelsepåverkad (byggnad ligger inom 100 m) fastlandskustlinje efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustlinjeB",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustlinjeB"
+        },
+        {
+          "text": "Bebyggelsepåverkad (byggnad ligger inom 100 m) strandlinje för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Strandlinje",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Strandlinje"
+        },
+        {
+          "text": "Bebyggelsepåverkad (byggnad ligger inom 100 m) strandlinje för de tre största sjöarna efter kommun. År 2010",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandlinjeB",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandlinjeB"
+        },
+        {
+          "text": "Nytillkommen bebyggelsepåverkad kust- och strandlinje efter region. År 2010-2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NytillBePavKustoStr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NytillBePavKustoStr"
+        },
+        {
+          "text": "Bebyggelsetäthet och landareal utanför tätort inom/utom kustnära områden enl. 4 kap Miljöbalken efter region. År 2004",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustbebyggelse4Kap",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Kustbebyggelse4Kap"
+        },
+        {
+          "text": "Befolkning på öar efter region (uppdateras ej). År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarBefolkning",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarBefolkning"
+        },
+        {
+          "text": "Kust- och strandlängd efter region och kust-/strandform (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustStrand",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustStrand"
+        },
+        {
+          "text": "Kust- och strandlängd efter region och strandtyp. År 2012",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustStrand2012",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KustStrand2012"
+        },
+        {
+          "text": "Strandnära befolkning efter region och strandtyp. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefStrandnara",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BefStrandnara"
+        },
+        {
+          "text": "Strandnära byggande efter region och typ av bebyggelse. Årsintervall 2010-2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNaraNyaBygg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNaraNyaBygg"
+        },
+        {
+          "text": "Strandnära byggande utanför tätort, efter region och typ av bebyggelse. År 2010-2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNByggUTat",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNByggUTat"
+        },
+        {
+          "text": "Strandnära byggande utanför tätort, minst 75 meter från annan byggnad, efter region och typ av bebyggelse År 2010-2014",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNByggUTat75",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandNByggUTat75"
+        },
+        {
+          "text": "Strandnära byggande efter region och typ av bebyggelse (uppdateras ej). Årsintervall 2001-2005, 2006-2009 2001-2005 - 2006-2009",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandnaraByggande",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StrandnaraByggande"
+        },
+        {
+          "text": "Antal öar i Sverige efter region och storleksklass. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarStorleksklass",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarStorleksklass"
+        },
+        {
+          "text": "Öar i Sverige. Antal, areal och omkrets efter region. År 2013",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarArealOmk",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OarArealOmk"
+        },
+        {
+          "text": "Öar i hav, insjöar och vattendrag efter region (uppdateras ej). År 2000",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Oar",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Oar"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Areal och antal byggnader inom 100 m från strandlinjen för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "2002-03-13"
+        ],
+        [
+          "Areal och antal byggnader inom 100 m från strandlinjen för de tre största sjöarna efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Areal och antal byggnader inom 300 m från strandlinjen för de tre största sjöarna efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Areal och antal byggnader inom 100 m från fastlandskustlinjen efter kommun (uppdateras ej). År 2000",
+          "2002-03-13"
+        ],
+        [
+          "Areal och antal byggnader inom 100 m från fastlandskustlinjen efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Areal och antal byggnader inom 300 m från fastlandskustlinjen efter kommun (uppdateras ej). År 2000",
+          "2002-03-13"
+        ],
+        [
+          "Areal och antal byggnader inom 300 m från strandlinjen för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "2002-03-13"
+        ],
+        [
+          "Areal och antal byggnader inom 300 m från fastlandskustlinjen efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Bebodda öar efter region. År 2000 - 2013",
+          "2014-12-08"
+        ],
+        [
+          "Bebyggelse på öar efter region. År 2013",
+          "2015-01-23"
+        ],
+        [
+          "Bebyggelse inom 5 km från  kustlinjen efter region, byggnadstyp och glesbygd/tätort.  År 1992",
+          "2000-12-29"
+        ],
+        [
+          "Bebyggelsepåverkad (byggnad ligger inom 100 m) fastlandskustlinje efter kommun (uppdateras ej). År 2000",
+          "2002-03-06"
+        ],
+        [
+          "Bebyggelsepåverkad (byggnad ligger inom 100 m) fastlandskustlinje efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Bebyggelsepåverkad (byggnad ligger inom 100 m) strandlinje för de tre största sjöarna efter kommun (uppdateras ej). År 2000",
+          "2002-03-06"
+        ],
+        [
+          "Bebyggelsepåverkad (byggnad ligger inom 100 m) strandlinje för de tre största sjöarna efter kommun. År 2010",
+          "2011-10-19"
+        ],
+        [
+          "Nytillkommen bebyggelsepåverkad kust- och strandlinje efter region. År 2010-2014",
+          "2015-11-11"
+        ],
+        [
+          "Bebyggelsetäthet och landareal utanför tätort inom/utom kustnära områden enl. 4 kap Miljöbalken efter region. År 2004",
+          "2005-11-30"
+        ],
+        [
+          "Befolkning på öar efter region (uppdateras ej). År 2013",
+          "2015-01-23"
+        ],
+        [
+          "Kust- och strandlängd efter region och kust-/strandform (uppdateras ej). År 2000",
+          "2002-08-01"
+        ],
+        [
+          "Kust- och strandlängd efter region och strandtyp. År 2012",
+          "2013-06-27"
+        ],
+        [
+          "Strandnära befolkning efter region och strandtyp. År 2013",
+          "2014-06-17"
+        ],
+        [
+          "Strandnära byggande efter region och typ av bebyggelse. Årsintervall 2010-2014",
+          "2015-11-11"
+        ],
+        [
+          "Strandnära byggande utanför tätort, efter region och typ av bebyggelse. År 2010-2014",
+          "2015-11-11"
+        ],
+        [
+          "Strandnära byggande utanför tätort, minst 75 meter från annan byggnad, efter region och typ av bebyggelse År 2010-2014",
+          "2015-11-11"
+        ],
+        [
+          "Strandnära byggande efter region och typ av bebyggelse (uppdateras ej). Årsintervall 2001-2005, 2006-2009 2001-2005 - 2006-2009",
+          "2011-03-31"
+        ],
+        [
+          "Antal öar i Sverige efter region och storleksklass. År 2013",
+          "2015-01-23"
+        ],
+        [
+          "Öar i Sverige. Antal, areal och omkrets efter region. År 2013",
+          "2015-01-23"
+        ],
+        [
+          "Öar i hav, insjöar och vattendrag efter region (uppdateras ej). År 2000",
+          "2002-08-01"
+        ]
+      ]
     },
     {
       "heading_path": [

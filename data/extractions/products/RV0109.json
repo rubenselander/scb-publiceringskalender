@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0109",
     "response_url": "https://www.scb.se/RV0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/otrygghet-och-utsatthet-for-brott-i-befolkningen/nationella-trygghetsundersokningen/",
-    "fetched_at": "2026-10-19T03:41:31.360020Z",
+    "fetched_at": "2026-10-26T03:44:33.918319Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c17bf1c43bd302ae6f8357a50dc360cb610e58f0da2bcba73fb778708ada206b",
+    "content_sha256": "806478ad3857b2b5d00bf1afcc5558b63c6ea491e27e070c1e83fff935b8eaf1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0109",
   "summary": "Nationella trygghetsundersökningen (NTU) är en årligen återkommande nationell brottsoffer- och trygghetsundersökning.Statistiken ger en bild av självrapporterad utsatthet för brott, otrygghet och oro för brott, förtroende för rättsväsendet och erfarenheter av kontakter med rättsväsendet. Observera att det är statistiken från och med 2019 som ingår i Sveriges officiella statistik. Resultaten från de tidigare mättillfällena är dock producerade utifrån samma kvalitetskrav.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-12",
+  "next_publication_date": "2027-10-12",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-12",
         "Nationella trygghetsundersökningen (NTU) är en årligen återkommande nationell brottsoffer- och trygghetsundersökning.Statistiken ger en bild av självrapporterad utsatthet för brott, otrygghet och oro för brott, förtroende för rättsväsendet och erfarenheter av kontakter med rättsväsendet. Observera att det är statistiken från och med 2019 som ingår i Sveriges officiella statistik. Resultaten från de tidigare mättillfällena är dock producerade utifrån samma kvalitetskrav."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-12",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0109&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0109&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

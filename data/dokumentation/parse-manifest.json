@@ -1,15 +1,16 @@
 {
-  "as_of": "2026-10-20",
-  "documents": 10060,
+  "as_of": "2026-10-27",
+  "documents": 10063,
   "products": 616,
-  "review_candidates": 1100,
+  "review_candidates": 1103,
   "source_counts": {
     "scb": 8428,
-    "siris": 850,
+    "siris": 853,
     "sam": 782
   },
   "fetch_complete": false,
   "failures": [
+    "sam/forsakringskassan",
     "sam/mfof",
     "sam/statskontoret"
   ]

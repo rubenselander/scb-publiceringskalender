@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0114",
     "response_url": "https://www.scb.se/JO0114",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-vaxtodling/",
-    "fetched_at": "2026-10-26T03:42:32.733384Z",
+    "fetched_at": "2026-11-02T03:29:04.876023Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "83c5e0037e9bea5705c19361767621e63fa5704b96cf3c8b69f316061c358fd9",
+    "content_sha256": "7393a6e910389e03d6cbe030e6aa3449ad073bff2ff1d41b48eb9d13d49cb94c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0114",
   "summary": "Statistiken visar arealer jordbruksmark som brukas med ekologiska produktionsmetoder fördelat på åkermark, betesmark samt grupper av grödor. I statistiken redovisas även antal berörda företag. Både arealer och antal företag redovisas per län och för riket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-11",
+  "next_publication_date": "2027-05-11",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-11",
         "Statistiken visar arealer jordbruksmark som brukas med ekologiska produktionsmetoder fördelat på åkermark, betesmark samt grupper av grödor. I statistiken redovisas även antal berörda företag. Både arealer och antal företag redovisas per län och för riket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0114&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0114&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

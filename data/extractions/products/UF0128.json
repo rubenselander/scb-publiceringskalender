@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0128",
     "response_url": "https://www.scb.se/UF0128",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/nationella-prov-gymnasieskolan-resultat/",
-    "fetched_at": "2026-10-26T03:45:28.610357Z",
+    "fetched_at": "2026-11-02T03:32:08.276119Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b85d6322afac201ad5669a2efbfb3bd0eac46d8fc349f0af45384729c854915b",
+    "content_sha256": "6aa6222f465457390134579269845468f853990bee38b80dcd6aab476306e2af",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0128",
   "summary": "Statistiken visar uppnått genomsnittligt provbetyg, fördelat per höst- och vårtermin, kön, program, svensk/utländsk bakgrund och utbildningsnivå hos elevernas föräldrar samt även procentuell fördelning per uppnått provbetyg.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-15",
+  "next_publication_date": "2027-04-15",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-15",
         "Statistiken visar uppnått genomsnittligt provbetyg, fördelat per höst- och vårtermin, kön, program, svensk/utländsk bakgrund och utbildningsnivå hos elevernas föräldrar samt även procentuell fördelning per uppnått provbetyg."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0128&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0128&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

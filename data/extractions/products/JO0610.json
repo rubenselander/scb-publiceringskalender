@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0610",
     "response_url": "https://www.scb.se/JO0610",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/tradgardsodlingens-produktion/",
-    "fetched_at": "2026-10-26T03:42:50.356897Z",
+    "fetched_at": "2026-11-02T03:29:21.895676Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "839febb4b370cbfa9c1bfbb1a538fe2ffba5489e8e7a46f52ec86e9e7e47035f",
+    "content_sha256": "1a708936802674723f14a6e59a49e0daa3df61838122b08d50c0b09e8f05eed6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0610",
   "summary": "Statistiken beskriver den svenska yrkesmässiga produktionen av trädgårdsväxter på friland och i växthus i form av arealer eller växthusytor och producerade mängder per gröda. Uppgifterna redovisas för samtliga grödor vart tredje år och årligen för de areal- och ytmässigt största ätliga grödorna.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-27",
+  "next_publication_date": "2027-05-27",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-27",
         "Statistiken beskriver den svenska yrkesmässiga produktionen av trädgårdsväxter på friland och i växthus i form av arealer eller växthusytor och producerade mängder per gröda. Uppgifterna redovisas för samtliga grödor vart tredje år och årligen för de areal- och ytmässigt största ätliga grödorna."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0610&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0610&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

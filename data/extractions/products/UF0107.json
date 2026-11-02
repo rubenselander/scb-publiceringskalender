@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0107",
     "response_url": "https://www.scb.se/UF0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kostnader-for-forskola-fritidshem-skola-och-vuxenutbildning/",
-    "fetched_at": "2026-10-26T03:45:19.219574Z",
+    "fetched_at": "2026-11-02T03:31:59.504212Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8756ff9c9e9ad5ba888b39ef1a1df66383844f63756d94a73d1bbb030c102bd8",
+    "content_sha256": "902fc4379bd620b860ecf1030c30ef5fb483eb14dbbfd940f3727eea34e3e138",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0107",
   "summary": "Statistiken visar kostnad totalt och kostnad per elev, kostnad för undervisning totalt och per elev, kostnad totalt exklusive lokaler med mera.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-05",
+  "next_publication_date": "2027-10-05",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-05",
         "Statistiken visar kostnad totalt och kostnad per elev, kostnad för undervisning totalt och per elev, kostnad totalt exklusive lokaler med mera."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-05",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0107&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0107&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0110",
     "response_url": "https://www.scb.se/UF0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/kommunal-vuxenutbildning-som-anpassad-utbildning/",
-    "fetched_at": "2026-10-26T03:45:20.701865Z",
+    "fetched_at": "2026-11-02T03:32:00.708613Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "abf33d81b27ef4ee6bb274774444dbaa8439abf545c440603211d66fd32c5df0",
+    "content_sha256": "2c4bdb02ecd0295bf02902f19185665bb4af9542158db492bd44c181f0bddf96",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0110",
   "summary": "Statistiken visar bland annat antal elever och kursdeltagare i utbildning och studieresultat totalt och för de vanligaste kurserna uppdelat på huvudman, studienivå, kön, ålder med mera.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-10",
+  "next_publication_date": "2027-06-10",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-10",
         "Statistiken visar bland annat antal elever och kursdeltagare i utbildning och studieresultat totalt och för de vanligaste kurserna uppdelat på huvudman, studienivå, kön, ålder med mera."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0110&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0110&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

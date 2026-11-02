@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0122",
     "response_url": "https://www.scb.se/UF0122",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/specialskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:25.307617Z",
+    "fetched_at": "2026-11-02T03:32:05.428154Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4d8a92ccd66e164005c7fe7991c320fe3c1bf75768414ffdf882d7d43b7de460",
+    "content_sha256": "42343e85a63be1c9479b0c765c7d80c31e59c3d6cc85b3104e0c34583ad61ea6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0122",
   "summary": "Statistiken visar antal elever med uppdelning på kön, ålder, årskurs, hemkommun och boendeform. Statistiken innehåller också uppgifter om antal elever som deltar i modersmålsundervisning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-24",
+  "next_publication_date": "2027-03-24",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-24",
         "Statistiken visar antal elever med uppdelning på kön, ålder, årskurs, hemkommun och boendeform. Statistiken innehåller också uppgifter om antal elever som deltar i modersmålsundervisning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-24",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0122&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0122&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0202",
     "response_url": "https://www.scb.se/UF0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/personal-vid-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-26T03:45:36.476103Z",
+    "fetched_at": "2026-11-02T03:32:16.681016Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b1fe107e22e31922f56fae2dbc5b2b87af687324cdd29bd4f7b67b0d9bf36f70",
+    "content_sha256": "774e7e5b098d1e99565d22513ec9272845adb9da34d08812a3dd53fb223c90bc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0202",
   "summary": "Statistiken visar antal anställda vid universitet och högskolor indelade efter anställningskategori, forskningsområde, forskningsämnesgrupp, ålder, kön, utbildningsnivå och anställningsform.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-29",
+  "next_publication_date": "2027-04-29",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-29",
         "Statistiken visar antal anställda vid universitet och högskolor indelade efter anställningskategori, forskningsområde, forskningsämnesgrupp, ålder, kön, utbildningsnivå och anställningsform."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0202&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0202&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

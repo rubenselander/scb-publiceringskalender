@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0803",
     "response_url": "https://www.scb.se/JO0803",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/virkesforrad-och-tradbiomassa/",
-    "fetched_at": "2026-10-26T03:42:52.551543Z",
+    "fetched_at": "2026-11-02T03:29:23.970418Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "410305fba473fb67f8e9c70356aac589fe711e53cb88b6bfb5928faf8c3f3cc7",
+    "content_sha256": "747f98df5309ae7118eb9b0da1202ba05158ec17dfdc877fbc53f747c3bb4dcb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0803",
   "summary": "Statistiken visar bland annat virkesförrådet fördelat på trädslag och diameterklasser och volym död ved.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Sveriges lantbruksuniversitet (SLU)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar bland annat virkesförrådet fördelat på trädslag och diameterklasser och volym död ved."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0803&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0803&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

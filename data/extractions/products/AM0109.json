@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0109",
     "response_url": "https://www.scb.se/AM0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-regioner-klr/",
-    "fetched_at": "2026-10-26T03:41:21.916410Z",
+    "fetched_at": "2026-11-02T03:27:50.829410Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d1b51e52ad3c9e8dd07411c254d8a502fdc96461607faa500aa2eafd24c79171",
+    "content_sha256": "01a4c3803545fcf8a6cdf673eba5342c05c6110cdf8e9ca246a827d8a5f7fe53",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0109",
   "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i regioner. Motsvarande lönestatistik finns även för privat och statlig sektor samt kommuner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-30",
         "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i regioner. Motsvarande lönestatistik finns även för privat och statlig sektor samt kommuner."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0109&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0109&period=Forward1Year"
         }
@@ -117,12 +117,12 @@
         [
           "Genomsnittlig månadslön för månadsavlönade i regioner",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Antal arbetade timmar för anställda i regioner",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -166,7 +166,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Genomsnittlig månadslön inom regioner (KLR). Månad 1999M01 - 2026M07",
+          "text": "Genomsnittlig månadslön inom regioner (KLR). Månad 1999M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLLtabell4",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLLtabell4"
         }
@@ -181,8 +181,8 @@
           "Datum"
         ],
         [
-          "Genomsnittlig månadslön inom regioner (KLR). Månad 1999M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig månadslön inom regioner (KLR). Månad 1999M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },

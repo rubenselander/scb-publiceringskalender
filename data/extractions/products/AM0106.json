@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0106",
     "response_url": "https://www.scb.se/AM0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/",
-    "fetched_at": "2026-10-26T03:41:20.885931Z",
+    "fetched_at": "2026-11-02T03:27:49.871538Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fcd279494fc5ec15c3c467b1548589e95469d73bbbf4cd9fae83dde25a39bec7",
+    "content_sha256": "41cd15449d755dff3f129460c43c2edbb870b4b8c24c1f0217c3a36acee41253",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -17,12 +17,12 @@
   },
   "product_code": "AM0106",
   "product_code_source": "calendar",
-  "title": "Lönestrukturstatistik, kommuner",
+  "title": "Lönestrukturstatistik för kommuner",
   "short_address": "https://www.scb.se/am0106",
   "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning för anställda inom kommuner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för statlig och privat sektor samt regioner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-11",
+  "next_publication_date": "2027-05-11",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -37,23 +37,29 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-11",
         "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning för anställda inom kommuner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för statlig och privat sektor samt regioner."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0106&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0106&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         }
@@ -74,7 +80,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -173,7 +179,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -197,7 +203,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -296,7 +302,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -320,7 +326,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -356,7 +362,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -380,7 +386,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -542,7 +548,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -581,7 +587,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -605,7 +611,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -625,7 +631,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -649,7 +655,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -854,7 +860,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -1059,7 +1065,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -1093,7 +1099,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         },
@@ -1117,7 +1123,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, kommuner",
+          "text": "Lönestrukturstatistik för kommuner",
           "level": 1,
           "anchor": "h1"
         }

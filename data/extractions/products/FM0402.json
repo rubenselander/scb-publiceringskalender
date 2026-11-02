@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0402",
     "response_url": "https://www.scb.se/FM0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/finansiella-foretag-arsbokslut/",
-    "fetched_at": "2026-10-26T03:42:04.861528Z",
+    "fetched_at": "2026-11-02T03:28:35.475970Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "89549755a086841c6e52613cb49449d9445000dd3743c3ad02b3076370ddf989",
+    "content_sha256": "9e0d5ff0483d737750783f667d6ecaeb4470c61edeae5c0a637f876829f96215",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0402",
   "summary": "Bokslutsstatistiken visar bland annat lönsamhet och finansiell ställning hos banker, kreditmarknadsföretag och värdepappersbolag. Försäkringsföretag ingår ej.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-27",
+  "next_publication_date": "2027-05-27",
   "responsible_agency": {
     "label": "Finansinspektionen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-27",
         "Bokslutsstatistiken visar bland annat lönsamhet och finansiell ställning hos banker, kreditmarknadsföretag och värdepappersbolag. Försäkringsföretag ingår ej."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0402&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0402&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0301",
     "response_url": "https://www.scb.se/UF0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/",
-    "fetched_at": "2026-10-26T03:45:43.393093Z",
+    "fetched_at": "2026-11-02T03:32:24.123945Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a77789ec1432be18a874d09275e18fcfca8e245bd2779a7646b5e472184e75b7",
+    "content_sha256": "cb48d376a00dd24c89730add2f12f9ec3b4300805bc9d2d368b749e95721823a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0301",
   "summary": "Statistiken belyser ekonomiska och personella satsningar på forskning och utveckling (FoU). Den ger en översiktlig bild av FoU-verksamheten i Sverige, hur den fördelar sig mellan olika sektorer och regionalt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2027-06-24",
+  "next_publication_date": "2027-06-24",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2027-06-24",
         "Statistiken belyser ekonomiska och personella satsningar på forskning och utveckling (FoU). Den ger en översiktlig bild av FoU-verksamheten i Sverige, hur den fördelar sig mellan olika sektorer och regionalt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2027-06-24",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0301&period=Forward1Year"
         }
@@ -64,9 +64,9 @@
       ],
       "paragraphs": [
         "Utgifter för egen FoU",
-        "227 513",
+        "240 799",
         "miljoner kronor",
-        "Referenstid:  2024"
+        "Referenstid:  2025"
       ],
       "links": [],
       "table_headers": [],
@@ -87,9 +87,9 @@
       ],
       "paragraphs": [
         "Personal i egen FoU",
-        "105 898",
+        "111 366",
         "helårspersoner",
-        "Referenstid:  2024"
+        "Referenstid:  2025"
       ],
       "links": [],
       "table_headers": [],
@@ -110,9 +110,9 @@
       ],
       "paragraphs": [
         "Forskare i egen FoU",
-        "93 574",
+        "98 695",
         "helårspersoner",
-        "Referenstid:  2024"
+        "Referenstid:  2025"
       ],
       "links": [],
       "table_headers": [],
@@ -132,14 +132,14 @@
         }
       ],
       "paragraphs": [
-        "2026-06-25",
-        "Enligt preliminära uppgifter uppgick Sveriges totala utgifter för egen forskning och utveckling (FoU) till 233,7 miljarder kronor år 2025 och FoU-personalen till 108 852 helårspersoner. FoU-intensiteten, det vill säga FoU-utgifter som andel av BNP, beräknas till 3,51 procent."
+        "2026-10-29",
+        "Sveriges totala utgifter för egen forskning och utveckling (FoU) ökade till 241 miljarder kronor år 2025. Även den interna FoU-personalen ökade till 111 366 helårspersoner. Utgifterna som andel av BNP steg till 3,62 procent, vilket är den näst högsta nivån i SCB:s data. Företagssektorn var den största utföraren och stod för 74 procent av FoU-utgifterna, följt av universitets- och högskolesektorn på 21 procent."
       ],
       "links": [
         {
-          "text": "FoU-utgifterna ökar svagt medan FoU-intensiteten är oförändrad 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/statistiknyhet/forskning-och-utveckling-i-sverige-2025---preliminar-statistik/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/statistiknyhet/forskning-och-utveckling-i-sverige-2025---preliminar-statistik/"
+          "text": "Näringslivet bidrog mest till ökningen av FoU-utgifterna i Sverige 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/statistiknyhet/forskning-och-utveckling-i-sverige-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/statistiknyhet/forskning-och-utveckling-i-sverige-2025/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -219,14 +219,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utgifter för egen FoU per helårsperson efter sektor, 2018-2024",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-per-helarsperson-efter-sektor-2018-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-per-helarsperson-efter-sektor-2018-2024/"
+          "text": "Utgifter för egen FoU per helårsperson efter sektor, 2018-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-per-helarsperson-efter-sektor-2018-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-per-helarsperson-efter-sektor-2018-2025/"
         },
         {
-          "text": "Utgifter för egen FoU efter sektor och typ av FoU, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-och-typ-av-fou-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-och-typ-av-fou-2023/"
+          "text": "Utgifter för egen FoU efter sektor och typ av FoU, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-och-typ-av-fou-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-och-typ-av-fou-2025/"
         },
         {
           "text": "Utgifter för FoU inom energi efter sektor, 2023",
@@ -234,14 +234,14 @@
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-fou-inom-energi-efter-sektor-2023/"
         },
         {
-          "text": "FoU-personal efter sektor och yrke, 2018-2024",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/fou-personal-efter-sektor-och-yrke-2018-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/fou-personal-efter-sektor-och-yrke-2018-2023/"
+          "text": "FoU-personal efter sektor och yrke, 2018-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/fou-personal-efter-sektor-och-yrke-2018-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/fou-personal-efter-sektor-och-yrke-2018-2025/"
         },
         {
-          "text": "Utgifter för egen FoU efter sektor samt FoU-intensitet (höger axel), 2007-2024",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-samt-fou-intensitet-hoger-axel-2007-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-samt-fou-intensitet-hoger-axel-2007-2024/"
+          "text": "Utgifter för egen FoU efter sektor samt FoU-intensitet (höger axel), 2007-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-samt-fou-intensitet-hoger-axel-2007-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/fou-i-sverige/utgifter-for-egen-fou-efter-sektor-samt-fou-intensitet-hoger-axel-2007-2025/"
         }
       ],
       "table_headers": [
@@ -256,14 +256,14 @@
           "Datum"
         ],
         [
-          "Utgifter för egen FoU per helårsperson efter sektor, 2018-2024",
+          "Utgifter för egen FoU per helårsperson efter sektor, 2018-2025",
           "Diagram",
-          "2025-10-30"
+          "2026-10-29"
         ],
         [
-          "Utgifter för egen FoU efter sektor och typ av FoU, 2023",
+          "Utgifter för egen FoU efter sektor och typ av FoU, 2025",
           "Diagram",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
           "Utgifter för FoU inom energi efter sektor, 2023",
@@ -271,14 +271,14 @@
           "2024-10-31"
         ],
         [
-          "FoU-personal efter sektor och yrke, 2018-2024",
+          "FoU-personal efter sektor och yrke, 2018-2025",
           "Diagram",
-          "2025-10-30"
+          "2026-10-29"
         ],
         [
-          "Utgifter för egen FoU efter sektor samt FoU-intensitet (höger axel), 2007-2024",
+          "Utgifter för egen FoU efter sektor samt FoU-intensitet (höger axel), 2007-2025",
           "Diagram",
-          "2025-10-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -322,29 +322,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utgifter för egen FoU, 1997-2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-1997-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-1997-2023/"
+          "text": "Utgifter för egen FoU, 1997-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-1997-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-1997-2025/"
         },
         {
-          "text": "Mikroföretagens utgifter för egen FoU efter typ av utgift, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-utgifter-for-egen-fou-efter-typ-av-utgift-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-utgifter-for-egen-fou-efter-typ-av-utgift-2023/"
-        },
-        {
-          "text": "Mikroföretagens utgifter för egen FoU efter bransch, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-utgifter-for-egen-fou-efter-bransch-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-utgifter-for-egen-fou-efter-bransch-2023/"
-        },
-        {
-          "text": "Personal i egen FoU, 1999-2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/personal-i-egen-fou-1999-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/personal-i-egen-fou-1999-2023/"
-        },
-        {
-          "text": "Mikroföretagens totala personalresurser inom FoU-verksamhet, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-totala-personalresurser-inom-fou-verksamhet-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-totala-personalresurser-inom-fou-verksamhet-2023/"
+          "text": "Personal i egen FoU, 1999-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/personal-i-egen-fou-1999-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/personal-i-egen-fou-1999-2025/"
         },
         {
           "text": "Mikroföretagens FoU 2023, samtliga resultat",
@@ -352,14 +337,14 @@
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/mikroforetagens-fou-2023-samtliga-resultat/"
         },
         {
-          "text": "Andel av företagssektorns utgifter för egen FoU 2023, för de tio, tjugo och femtio största utförarna",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/andel-av-foretagssektorns-utgifter-for-egen-fou-2023-for-de-tio-tjugo-och-femtio-storsta-utforarna/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/andel-av-foretagssektorns-utgifter-for-egen-fou-2023-for-de-tio-tjugo-och-femtio-storsta-utforarna/"
+          "text": "Andel av företagssektorns utgifter för egen FoU 2025, för de tio, tjugo och femtio största utförarna",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/andel-av-foretagssektorns-utgifter-for-egen-fou-2025-for-de-tio-tjugo-och-femtio-storsta-utforarna/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/andel-av-foretagssektorns-utgifter-for-egen-fou-2025-for-de-tio-tjugo-och-femtio-storsta-utforarna/"
         },
         {
-          "text": "Utgifter för egen FoU inom energi efter bransch och energiområde, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-inom-energi-efter-bransch-och-energiomrade-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-inom-energi-efter-bransch-och-energiomrade-2023/"
+          "text": "Utgifter för egen FoU inom energi efter bransch och energiområde, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-inom-energi-efter-bransch-och-energiomrade-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-foretagssektorn/utgifter-for-egen-fou-inom-energi-efter-bransch-och-energiomrade-2025/"
         }
       ],
       "table_headers": [
@@ -374,29 +359,14 @@
           "Datum"
         ],
         [
-          "Utgifter för egen FoU, 1997-2023",
+          "Utgifter för egen FoU, 1997-2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
-          "Mikroföretagens utgifter för egen FoU efter typ av utgift, 2023",
+          "Personal i egen FoU, 1999-2025",
           "Tabell",
-          "2024-10-31"
-        ],
-        [
-          "Mikroföretagens utgifter för egen FoU efter bransch, 2023",
-          "Tabell",
-          "2024-10-31"
-        ],
-        [
-          "Personal i egen FoU, 1999-2023",
-          "Tabell",
-          "2024-10-31"
-        ],
-        [
-          "Mikroföretagens totala personalresurser inom FoU-verksamhet, 2023",
-          "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
           "Mikroföretagens FoU 2023, samtliga resultat",
@@ -404,14 +374,14 @@
           "2024-10-31"
         ],
         [
-          "Andel av företagssektorns utgifter för egen FoU 2023, för de tio, tjugo och femtio största utförarna",
+          "Andel av företagssektorns utgifter för egen FoU 2025, för de tio, tjugo och femtio största utförarna",
           "Diagram",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
-          "Utgifter för egen FoU inom energi efter bransch och energiområde, 2023",
+          "Utgifter för egen FoU inom energi efter bransch och energiområde, 2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ]
       ]
     },
@@ -455,9 +425,9 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utgifter för egen FoU efter socio-ekonomiska ändamål, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-efter-socio-ekonomiska-andamal-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-efter-socio-ekonomiska-andamal-2023/"
+          "text": "Utgifter för egen FoU efter socio-ekonomiska ändamål, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-efter-socio-ekonomiska-andamal-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-efter-socio-ekonomiska-andamal-2025/"
         },
         {
           "text": "Utgifter för utlagd FoU efter delsektor och mottagare, 2023",
@@ -468,6 +438,16 @@
           "text": "Utgifter och anställd personal inom egen FoU efter region, 2021 och 2023",
           "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-och-anstalld-personal-inom-egen-fou-efter-region-2021-och-2023/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-och-anstalld-personal-inom-egen-fou-efter-region-2021-och-2023/"
+        },
+        {
+          "text": "Utgifter för egen FoU, 2007-2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-2007-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-2007-2025/"
+        },
+        {
+          "text": "Utgifter för egen FoU och FoU-personal efter delsektor, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-och-fou-personal-efter-delsektor-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-i-offentlig-sektor/utgifter-for-egen-fou-och-fou-personal-efter-delsektor-2025/"
         },
         {
           "text": "Utgifter för egen FoU efter forskningsämnesområde, 2023",
@@ -487,9 +467,9 @@
           "Datum"
         ],
         [
-          "Utgifter för egen FoU efter socio-ekonomiska ändamål, 2023",
+          "Utgifter för egen FoU efter socio-ekonomiska ändamål, 2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
           "Utgifter för utlagd FoU efter delsektor och mottagare, 2023",
@@ -500,6 +480,16 @@
           "Utgifter och anställd personal inom egen FoU efter region, 2021 och 2023",
           "Tabell",
           "2024-10-31"
+        ],
+        [
+          "Utgifter för egen FoU, 2007-2025",
+          "Tabell",
+          "2026-10-29"
+        ],
+        [
+          "Utgifter för egen FoU och FoU-personal efter delsektor, 2025",
+          "Tabell",
+          "2026-10-29"
         ],
         [
           "Utgifter för egen FoU efter forskningsämnesområde, 2023",
@@ -548,19 +538,19 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utgifter för egen FoU efter typ av FoU och forskningsämnesområde, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-efter-typ-av-fou-och-forskningsamnesomrade-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-efter-typ-av-fou-och-forskningsamnesomrade-2023/"
+          "text": "Utgifter för egen FoU efter typ av FoU och forskningsämnesområde, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-efter-typ-av-fou-och-forskningsamnesomrade-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-efter-typ-av-fou-och-forskningsamnesomrade-2025/"
         },
         {
-          "text": "Personal inom egen FoU-verksamhet efter typ av personal och forskningsämnesområde, 2023",
+          "text": "Personal inom egen FoU-verksamhet efter typ av personal och forskningsämnesområde, 2025",
           "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/personal-inom-egen-fou-verksamhet-efter-typ-av-personal-och-forskningsamnesomrade-2023/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/personal-inom-egen-fou-verksamhet-efter-typ-av-personal-och-forskningsamnesomrade-2023/"
         },
         {
-          "text": "Utgifter för egen FoU och FoU-personal per forskningsämnesområde, 2023",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-och-fou-personal-per-forskningsamnesomrade-2023/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-och-fou-personal-per-forskningsamnesomrade-2023/"
+          "text": "Utgifter för egen FoU och FoU-personal per forskningsämnesområde, 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-och-fou-personal-per-forskningsamnesomrade-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/pong/tabell-och-diagram/forskning-och-utveckling-inom-universitets--och-hogskolesektorn/utgifter-for-egen-fou-och-fou-personal-per-forskningsamnesomrade-2025/"
         }
       ],
       "table_headers": [
@@ -575,19 +565,19 @@
           "Datum"
         ],
         [
-          "Utgifter för egen FoU efter typ av FoU och forskningsämnesområde, 2023",
+          "Utgifter för egen FoU efter typ av FoU och forskningsämnesområde, 2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
-          "Personal inom egen FoU-verksamhet efter typ av personal och forskningsämnesområde, 2023",
+          "Personal inom egen FoU-verksamhet efter typ av personal och forskningsämnesområde, 2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ],
         [
-          "Utgifter för egen FoU och FoU-personal per forskningsämnesområde, 2023",
+          "Utgifter för egen FoU och FoU-personal per forskningsämnesområde, 2025",
           "Tabell",
-          "2024-10-31"
+          "2026-10-29"
         ]
       ]
     },
@@ -631,37 +621,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Totala utgifter för egen FoU efter sektor och typ av utgift, mnkr. År 2007 - 2024",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvutg",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvutg"
-        },
-        {
-          "text": "Totala utgifter för egen FoU efter sektor och region, mnkr. Vartannat år 2007 - 2023",
+          "text": "Totala utgifter för egen FoU efter sektor och region, mnkr. Vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvreg",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvreg"
         },
         {
-          "text": "Totala utgifter för egen FoU efter sektor och finansieringskälla, mnkr. Vartannat år 2007 - 2023",
+          "text": "Totala utgifter för egen FoU efter sektor och typ av utgift, mnkr. År 2007 - 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvutg",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvutg"
+        },
+        {
+          "text": "Totala utgifter för egen FoU efter sektor och finansieringskälla, mnkr. Vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvfin",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvfin"
         },
         {
-          "text": "Totala utgifter för utlagd FoU efter sektor och mottagare, mnkr. Vartannat år 2007 - 2023",
+          "text": "Totala utgifter för utlagd FoU efter sektor och mottagare, mnkr. Vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuMotsv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuMotsv"
         },
         {
-          "text": "Total personal i egen FoU efter sektor, kön, yrke och typ av personal. År 2007 - 2024",
+          "text": "Total personal i egen FoU efter sektor, kön, yrke och typ av personal. År 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpSvanst",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpSvanst"
         },
         {
-          "text": "Intern personal i egen FoU efter sektor, yrke och region. Vartannat år 2007 - 2023",
+          "text": "Intern personal i egen FoU efter sektor, yrke och region. Vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpSvreg",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpSvreg"
         },
         {
-          "text": "Totala utgifter för egen FoU efter sektor och typ av FoU, mnkr. Vartannat år 2021 - 2023",
+          "text": "Totala utgifter för egen FoU efter sektor och typ av FoU, mnkr. Vartannat år 2021 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvfou",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuSvfou"
         }
@@ -676,32 +666,32 @@
           "Datum"
         ],
         [
-          "Totala utgifter för egen FoU efter sektor och typ av utgift, mnkr. År 2007 - 2024",
-          "2025-10-30"
+          "Totala utgifter för egen FoU efter sektor och region, mnkr. Vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Totala utgifter för egen FoU efter sektor och region, mnkr. Vartannat år 2007 - 2023",
-          "2025-09-11"
+          "Totala utgifter för egen FoU efter sektor och typ av utgift, mnkr. År 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Totala utgifter för egen FoU efter sektor och finansieringskälla, mnkr. Vartannat år 2007 - 2023",
-          "2025-09-11"
+          "Totala utgifter för egen FoU efter sektor och finansieringskälla, mnkr. Vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Totala utgifter för utlagd FoU efter sektor och mottagare, mnkr. Vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Totala utgifter för utlagd FoU efter sektor och mottagare, mnkr. Vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Total personal i egen FoU efter sektor, kön, yrke och typ av personal. År 2007 - 2024",
-          "2025-10-30"
+          "Total personal i egen FoU efter sektor, kön, yrke och typ av personal. År 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern personal i egen FoU efter sektor, yrke och region. Vartannat år 2007 - 2023",
-          "2025-09-11"
+          "Intern personal i egen FoU efter sektor, yrke och region. Vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Totala utgifter för egen FoU efter sektor och typ av FoU, mnkr. Vartannat år 2021 - 2023",
-          "2025-09-11"
+          "Totala utgifter för egen FoU efter sektor och typ av FoU, mnkr. Vartannat år 2021 - 2025",
+          "2026-10-29"
         ]
       ]
     },
@@ -780,12 +770,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgmot"
         },
         {
-          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och yrke. Antal personer och antal heltidsekvivalenter, vartannat år 2007 - 2023",
+          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och yrke. Antal personer och antal helårspersoner, vartannat år 2007 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgyrke",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgyrke"
         },
         {
-          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och storleksklass. Antal personer och antal heltidsekvivalenter, vartannat år 2007 - 2023",
+          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och storleksklass. Antal personer och antal helårspersoner, vartannat år 2007 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgstrl",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgstrl"
         },
@@ -793,6 +783,51 @@
           "text": "Intern FoU-personal i företagssektorn med forskarexamen efter kön och näringsgren SNI 2007. Antal personer, vartannat år 2007 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgutb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgutb"
+        },
+        {
+          "text": "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av utgift. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgutgSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgutgSNI2025"
+        },
+        {
+          "text": "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och finansieringskälla. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgfinSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgfinSNI2025"
+        },
+        {
+          "text": "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av FoU. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgfouSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgfouSNI2025"
+        },
+        {
+          "text": "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och storleksklass. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgstrlSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgstrlSNI2025"
+        },
+        {
+          "text": "Företagssektorns utgifter för utlagd FoU efter näringsgren SNI 2025 och mottagare. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgmotSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgmotSNI2025"
+        },
+        {
+          "text": "Företagssektorns totala utgifter för egen FoU efter produktgrupp CPA 2.2. Mnkr. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgpgCPA",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFtgpgCPA"
+        },
+        {
+          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och yrke. Antal personer och antal helårspersoner. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgyrkeSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgyrkeSNI2025"
+        },
+        {
+          "text": "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och storleksklass. Antal personer och antal helårspersoner. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgstrlSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgstrlSNI2025"
+        },
+        {
+          "text": "Intern FoU-personal i företagssektorn med forskarexamen efter kön och näringsgren SNI 2025. Antal personer. Vartannat år 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgutbSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpFtgutbSNI2025"
         }
       ],
       "table_headers": [
@@ -833,16 +868,52 @@
           "2024-10-31"
         ],
         [
-          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och yrke. Antal personer och antal heltidsekvivalenter, vartannat år 2007 - 2023",
+          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och yrke. Antal personer och antal helårspersoner, vartannat år 2007 - 2023",
           "2025-09-11"
         ],
         [
-          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och storleksklass. Antal personer och antal heltidsekvivalenter, vartannat år 2007 - 2023",
+          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2007 och storleksklass. Antal personer och antal helårspersoner, vartannat år 2007 - 2023",
           "2025-09-11"
         ],
         [
           "Intern FoU-personal i företagssektorn med forskarexamen efter kön och näringsgren SNI 2007. Antal personer, vartannat år 2007 - 2023",
           "2024-10-31"
+        ],
+        [
+          "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av utgift. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och finansieringskälla. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av FoU. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och storleksklass. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Företagssektorns utgifter för utlagd FoU efter näringsgren SNI 2025 och mottagare. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Företagssektorns totala utgifter för egen FoU efter produktgrupp CPA 2.2. Mnkr. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och yrke. Antal personer och antal helårspersoner. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och storleksklass. Antal personer och antal helårspersoner. Vartannat år 2025",
+          "2026-10-29"
+        ],
+        [
+          "Intern FoU-personal i företagssektorn med forskarexamen efter kön och näringsgren SNI 2025. Antal personer. Vartannat år 2025",
+          "2026-10-29"
         ]
       ]
     },
@@ -886,52 +957,52 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Offentliga sektorns utgifter för egen FoU efter region och typ av utgift. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för egen FoU efter region och typ av utgift. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffutg",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffutg"
         },
         {
-          "text": "Offentliga sektorns utgifter för egen FoU efter region och typ av FoU. Mnkr, vartannat år 2013 - 2023",
+          "text": "Offentliga sektorns utgifter för egen FoU efter region och typ av FoU. Mnkr, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffou",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffou"
         },
         {
-          "text": "Offentliga sektorns utgifter för egen FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för egen FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffNabs",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffNabs"
         },
         {
-          "text": "Offentliga sektorns utgifter för egen FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för egen FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffin",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOffin"
         },
         {
-          "text": "Offentliga sektorns utgifter för egen FoU efter region och forskningsämnesområde. Mnkr, vartannat år 2015 - 2023",
+          "text": "Offentliga sektorns utgifter för egen FoU efter region och forskningsämnesområde. Mnkr, vartannat år 2015 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOfford",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuOfford"
         },
         {
-          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och mottagare. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och mottagare. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuMotoff",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuMotoff"
         },
         {
-          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFinoff",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuFinoff"
         },
         {
-          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2023",
+          "text": "Offentliga sektorns utgifter för utlagd FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuNabsoff",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUuNabsoff"
         },
         {
-          "text": "Intern FoU-personal i offentliga sektorn med forskarexamen efter kön och region. Antal personer, vartannat år 2007 - 2023",
+          "text": "Intern FoU-personal i offentliga sektorn med forskarexamen efter kön och region. Antal personer, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpOffutb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpOffutb"
         },
         {
-          "text": "Intern FoU-personal i offentliga sektorn efter kön, region, yrke och forskningsämnesområde. Antal personer, vartannat år 2007 - 2023",
+          "text": "Intern FoU-personal i offentliga sektorn efter kön, region, yrke och forskningsämnesområde. Antal personer, vartannat år 2007 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpOfford",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpOfford"
         }
@@ -946,44 +1017,44 @@
           "Datum"
         ],
         [
-          "Offentliga sektorns utgifter för egen FoU efter region och typ av utgift. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för egen FoU efter region och typ av utgift. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för egen FoU efter region och typ av FoU. Mnkr, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för egen FoU efter region och typ av FoU. Mnkr, vartannat år 2013 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för egen FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för egen FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för egen FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för egen FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för egen FoU efter region och forskningsämnesområde. Mnkr, vartannat år 2015 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för egen FoU efter region och forskningsämnesområde. Mnkr, vartannat år 2015 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för utlagd FoU efter region och mottagare. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för utlagd FoU efter region och mottagare. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för utlagd FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för utlagd FoU efter region och finansieringskälla. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Offentliga sektorns utgifter för utlagd FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Offentliga sektorns utgifter för utlagd FoU efter region och socio-ekonomiskt ändamål NABS 2007. Mnkr, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i offentliga sektorn med forskarexamen efter kön och region. Antal personer, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i offentliga sektorn med forskarexamen efter kön och region. Antal personer, vartannat år 2007 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i offentliga sektorn efter kön, region, yrke och forskningsämnesområde. Antal personer, vartannat år 2007 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i offentliga sektorn efter kön, region, yrke och forskningsämnesområde. Antal personer, vartannat år 2007 - 2025",
+          "2026-10-29"
         ]
       ]
     },
@@ -1027,47 +1098,47 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Universitets- och högskolesektorns utgifter för egen FoU efter lärosäte, typ av utgift och forskningsämnesområde. Mnkr, vartannat år 1993 - 2023",
+          "text": "Universitets- och högskolesektorns utgifter för egen FoU efter lärosäte, typ av utgift och forskningsämnesområde. Mnkr, vartannat år 1993 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHUtgLaroAmne",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHUtgLaroAmne"
         },
         {
-          "text": "Universitets- och högskolesektorns utgifter för egen FoU efter forskningsämnesgrupp, lärosäte, typ av utgift och finansieringskälla. Mnkr, Vartannat år 2011 - 2023",
+          "text": "Universitets- och högskolesektorns utgifter för egen FoU efter forskningsämnesgrupp, lärosäte, typ av utgift och finansieringskälla. Mnkr, Vartannat år 2011 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHUtgLaroAmneFina",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHUtgLaroAmneFina"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn. Antal personer och antal heltidsekvivalenter, vartannat år 2005 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn. Antal personer och antal helårspersoner, vartannat år 2005 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHindAntFoU",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHindAntFoU"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön och lärosäte. Antal personer, antal heltidsanställda och antal heltidsekvivalenter, vartannat år 2005 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön och lärosäte. Antal personer, antal heltidsanställda och antal helårspersoner, vartannat år 2005 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHIndAnstHelArsvb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UoHIndAnstHelArsvb"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, region och forskningsämnesområde. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, region och forskningsämnesområde. Antal helårspersoner, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHreg",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHreg"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och forskningsämnesområde. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och forskningsämnesområde. Antal helårspersoner, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHford",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHford"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori, forskningsämnesområde och arbetsuppgift. Antal heltidsekvivalenter och andel av total arbetstid, vartannat år 2013 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori, forskningsämnesområde och arbetsuppgift. Antal helårspersoner och andel av total arbetstid, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHarb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHarb"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, anställningskategori och tjänsteomfattning. Antal timmar, vartannat år 2013 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, anställningskategori och tjänsteomfattning. Antal timmar, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHomf",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHomf"
         },
         {
-          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och utbildningsnivå. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
+          "text": "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och utbildningsnivå. Antal helårspersoner, vartannat år 2013 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHutb",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FoUpUoHutb"
         }
@@ -1082,40 +1153,40 @@
           "Datum"
         ],
         [
-          "Universitets- och högskolesektorns utgifter för egen FoU efter lärosäte, typ av utgift och forskningsämnesområde. Mnkr, vartannat år 1993 - 2023",
-          "2024-10-31"
+          "Universitets- och högskolesektorns utgifter för egen FoU efter lärosäte, typ av utgift och forskningsämnesområde. Mnkr, vartannat år 1993 - 2025",
+          "2026-10-29"
         ],
         [
-          "Universitets- och högskolesektorns utgifter för egen FoU efter forskningsämnesgrupp, lärosäte, typ av utgift och finansieringskälla. Mnkr, Vartannat år 2011 - 2023",
-          "2024-10-31"
+          "Universitets- och högskolesektorns utgifter för egen FoU efter forskningsämnesgrupp, lärosäte, typ av utgift och finansieringskälla. Mnkr, Vartannat år 2011 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn. Antal personer och antal heltidsekvivalenter, vartannat år 2005 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn. Antal personer och antal helårspersoner, vartannat år 2005 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön och lärosäte. Antal personer, antal heltidsanställda och antal heltidsekvivalenter, vartannat år 2005 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön och lärosäte. Antal personer, antal heltidsanställda och antal helårspersoner, vartannat år 2005 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön, region och forskningsämnesområde. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön, region och forskningsämnesområde. Antal helårspersoner, vartannat år 2013 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och forskningsämnesområde. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och forskningsämnesområde. Antal helårspersoner, vartannat år 2013 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori, forskningsämnesområde och arbetsuppgift. Antal heltidsekvivalenter och andel av total arbetstid, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori, forskningsämnesområde och arbetsuppgift. Antal helårspersoner och andel av total arbetstid, vartannat år 2013 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön, anställningskategori och tjänsteomfattning. Antal timmar, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön, anställningskategori och tjänsteomfattning. Antal timmar, vartannat år 2013 - 2025",
+          "2026-10-29"
         ],
         [
-          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och utbildningsnivå. Antal heltidsekvivalenter, vartannat år 2013 - 2023",
-          "2024-10-31"
+          "Intern FoU-personal i universitets- och högskolesektorn efter kön, lärosäte, anställningskategori och utbildningsnivå. Antal helårspersoner, vartannat år 2013 - 2025",
+          "2026-10-29"
         ]
       ]
     },
@@ -2386,6 +2457,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -2403,6 +2475,11 @@
         "1999 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_kd_2025_20261029.pdf",
+          "url": "https://www.scb.se/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_kd_2025_20261029.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_kd_2024.pdf",
@@ -2501,6 +2578,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -2515,6 +2593,11 @@
         "2007 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_staf_2025_20261029.pdf",
+          "url": "https://www.scb.se/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_staf_2025_20261029.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/8e4fb961de804d73886e0eb98a2b9085/uf0301_staf_2024.pdf",

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0204",
     "response_url": "https://www.scb.se/JO0204",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-ekonomi/jordbrukarhushallens-inkomster/",
-    "fetched_at": "2026-10-26T03:42:37.281534Z",
+    "fetched_at": "2026-11-02T03:29:08.844293Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "74b652039e33df6f7657a350625d1cfe57b23603e255aab202c56202860955cc",
+    "content_sha256": "a7cee35f7359bb26e9e74bb5193c00f3b86f9baf8b454b8b000362cd7dbaf08d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0204",
   "summary": "Statistiken visar bland annat inkomst efter transfereringar uppdelat på inkomstkomponenter och typ av hushåll och taxerade förvärvsinkomster efter antal hektar åker, driftsinriktning och brukarens ålder.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-17",
+  "next_publication_date": "2027-06-17",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-17",
         "Statistiken visar bland annat inkomst efter transfereringar uppdelat på inkomstkomponenter och typ av hushåll och taxerade förvärvsinkomster efter antal hektar åker, driftsinriktning och brukarens ålder."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0204&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0204&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

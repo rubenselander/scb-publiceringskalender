@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0203",
     "response_url": "https://www.scb.se/EN0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/kommunal-och-regional-energistatistik/",
-    "fetched_at": "2026-10-26T03:41:55.924754Z",
+    "fetched_at": "2026-11-02T03:28:25.751323Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "63137738c5ce13feaff1574221533e29d82e0af9ae09f435b13990971c2d8565",
+    "content_sha256": "5f06c34134cd20e0b9d45fe479db0d0c996aabec6fcd30238178aaf4ac1191ab",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0203",
   "summary": "Statistiken visar el- och fjärrvärmeproduktion, använda bränslen och slutlig energianvändning i län och kommuner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-25",
+  "next_publication_date": "2027-02-25",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-25",
         "Statistiken visar el- och fjärrvärmeproduktion, använda bränslen och slutlig energianvändning i län och kommuner."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0203&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0203&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

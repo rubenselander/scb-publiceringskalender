@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1201",
     "response_url": "https://www.scb.se/TK1201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/fardtjanst-och-riksfardtjanst/",
-    "fetched_at": "2026-10-26T03:45:13.211515Z",
+    "fetched_at": "2026-11-02T03:31:53.500322Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9e244a46d27721e2376cb94f14d6d2f3f80fe842128b3d837cb9ff49411636ee",
+    "content_sha256": "d21eb8ecdaccd804704cb5b88ad8f8d386c007b519a5ae4aa059e46c3958e1d7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk1201",
   "summary": "Statistiken visar kommunernas verksamhet med färdtjänst och riksfärdtjänst; antal resor, antal beviljade och nyttjade tillstånd samt med vilken ekonomi verksamheten bedrivs.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-18",
+  "next_publication_date": "2027-06-18",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-18",
         "Statistiken visar kommunernas verksamhet med färdtjänst och riksfärdtjänst; antal resor, antal beviljade och nyttjade tillstånd samt med vilken ekonomi verksamheten bedrivs."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK1201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK1201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

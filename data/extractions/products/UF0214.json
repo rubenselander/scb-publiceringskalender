@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0214",
     "response_url": "https://www.scb.se/UF0214",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/etablering-pa-arbetsmarknaden-efter-hogskolestudier-pa-grundniva-och-avancerad-niva/",
-    "fetched_at": "2026-10-26T03:45:42.948709Z",
+    "fetched_at": "2026-11-02T03:32:23.718009Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2a7e58d509aa86d5a701380cb182d2cae551ecd1153aaae512e3cf3ee4b11b6e",
+    "content_sha256": "d193025d748cc379f23c14d887bd59491c5b7dc79d2c999ec4c98dd5412e2def",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0214",
   "summary": "Statistiken visar etableringen på arbetsmarknaden för examinerade studenter på grundnivå och avancerad nivå. Uppföljningen görs 1–1,5 år efter examen. Statistiken redovisas bland annat efter examen, lärosäte och kön.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar etableringen på arbetsmarknaden för examinerade studenter på grundnivå och avancerad nivå. Uppföljningen görs 1–1,5 år efter examen. Statistiken redovisas bland annat efter examen, lärosäte och kön."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0214&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0214&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

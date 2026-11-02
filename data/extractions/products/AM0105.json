@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0105",
     "response_url": "https://www.scb.se/AM0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/",
-    "fetched_at": "2026-10-26T03:41:20.420204Z",
+    "fetched_at": "2026-11-02T03:27:49.322719Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3f1a15d839bfa6e9998fdc5d8a15e2155d25638956d09c94d959ae7c279624ad",
+    "content_sha256": "3a083027d4608ed0193f8d2b6eed3a0016858fd84738865cd574e1d50f2a87dc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -17,12 +17,12 @@
   },
   "product_code": "AM0105",
   "product_code_source": "calendar",
-  "title": "Lönestrukturstatistik, regioner",
+  "title": "Lönestrukturstatistik för regioner",
   "short_address": "https://www.scb.se/am0105",
   "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom regioner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik finns även för kommuner, statlig samt privat sektor.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-11",
+  "next_publication_date": "2027-05-11",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -37,23 +37,29 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-11",
         "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom regioner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik finns även för kommuner, statlig samt privat sektor."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0105&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         }
@@ -74,7 +80,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -173,7 +179,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -197,7 +203,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -269,7 +275,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -293,7 +299,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -329,7 +335,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -353,7 +359,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -515,7 +521,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -554,7 +560,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -578,7 +584,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -598,7 +604,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -622,7 +628,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -809,7 +815,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -966,7 +972,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -1000,7 +1006,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         },
@@ -1023,7 +1029,7 @@
     {
       "heading_path": [
         {
-          "text": "Lönestrukturstatistik, regioner",
+          "text": "Lönestrukturstatistik för regioner",
           "level": 1,
           "anchor": "h1"
         }

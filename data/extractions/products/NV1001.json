@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1001",
     "response_url": "https://www.scb.se/NV1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/foretagens-demografi/",
-    "fetched_at": "2026-10-26T03:44:07.260861Z",
+    "fetched_at": "2026-11-02T03:30:42.909743Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7680f7fc31be913fa06015940c3925f4a4542246521f2403ff4389c45c574035",
+    "content_sha256": "e52af3afe7627ec679df2ca29b51e4b05c845c1ac6f4b8cef867845808ced82f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1001",
   "summary": "Syftet med statistiken är att beskriva Sveriges företagspopulation. Statistiken innehåller bland annat antalet nyetablerade, nedlagda och aktiva företag.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: Ingen planerad",
         "Syftet med statistiken är att beskriva Sveriges företagspopulation. Statistiken innehåller bland annat antalet nyetablerade, nedlagda och aktiva företag."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-10-29",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1001&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1001&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

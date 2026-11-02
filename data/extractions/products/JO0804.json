@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0804",
     "response_url": "https://www.scb.se/JO0804",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arlig-tillvaxt/",
-    "fetched_at": "2026-10-26T03:42:53.014686Z",
+    "fetched_at": "2026-11-02T03:29:24.605042Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "775fb4cae5aa078e87d077bcabe070ee4b1240302fc7345a8d63455cc34334a4",
+    "content_sha256": "7f04260655c4d14a92af66177374ca6e8c4f321a0e8b6e31918d4903e471eda3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0804",
   "summary": "Statistiken visar bland annat genomsnittlig tillväxt per trädslag.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Sveriges lantbruksuniversitet (SLU)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar bland annat genomsnittlig tillväxt per trädslag."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0804&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0804&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

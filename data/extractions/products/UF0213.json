@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0213",
     "response_url": "https://www.scb.se/UF0213",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/forskning-vid-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-26T03:45:42.145356Z",
+    "fetched_at": "2026-11-02T03:32:23.068119Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6e97f54545c7de056a3b3af2e70bd8a3d13718ff253cf352757154d359654fa1",
+    "content_sha256": "e9a83618b74872735c293680b6c5ca3331487c2b33d01113a3915b845f8f2e7d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0213",
   "summary": "Statistiken  belyser den forskning som bedrivs inom högskolan utifrån flera perspektiv. Däribland forskningsoutput i form av vetenskapliga publikationer, forskares mobilitet och internationell rekrytering av forskare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-21",
+  "next_publication_date": "2027-05-21",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-21",
         "Statistiken  belyser den forskning som bedrivs inom högskolan utifrån flera perspektiv. Däribland forskningsoutput i form av vetenskapliga publikationer, forskares mobilitet och internationell rekrytering av forskare."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-21",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0213&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0213&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

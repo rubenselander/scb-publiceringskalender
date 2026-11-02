@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FH0201",
     "response_url": "https://www.scb.se/FH0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/barnvaccinationer/",
-    "fetched_at": "2026-10-26T03:42:00.889795Z",
+    "fetched_at": "2026-11-02T03:28:30.973401Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8e9861efa9ef0185711a1b110085f767f6a66f5c763bb6c07c820d2d69baa1d2",
+    "content_sha256": "9bd908dee7096384d6a0bdf11bffe9b8016fa401455abd09ba5c47407683194b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fh0201",
   "summary": "Barnvaccinationer baserat på Nationella vaccinationsregistret (NVR) används för uppföljning av vaccinationstäckning för alla vaccinationer som ingår i det allmänna vaccinationsprogrammet för barn. Statistik utifrån underlag från NVR har tagits fram sedan statistikåret 2021 (och ingår i Sveriges officiella statistik sedan statistikåret 2022). Syftet med statistiken är att ge en årlig redovisning av vaccinationstäckningen och dess utveckling över tid avseende de sjukdomar som omfattas av barnvaccinationsprogrammet. Statistiken ger även en överblick över vaccinationstäckningen på nationell, regional och kommunal nivå.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-14",
+  "next_publication_date": "2027-04-14",
   "responsible_agency": {
     "label": "Folkhälsomyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-14",
         "Barnvaccinationer baserat på Nationella vaccinationsregistret (NVR) används för uppföljning av vaccinationstäckning för alla vaccinationer som ingår i det allmänna vaccinationsprogrammet för barn. Statistik utifrån underlag från NVR har tagits fram sedan statistikåret 2021 (och ingår i Sveriges officiella statistik sedan statistikåret 2022). Syftet med statistiken är att ge en årlig redovisning av vaccinationstäckningen och dess utveckling över tid avseende de sjukdomar som omfattas av barnvaccinationsprogrammet. Statistiken ger även en överblick över vaccinationstäckningen på nationell, regional och kommunal nivå."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FH0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FH0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1104",
     "response_url": "https://www.scb.se/JO1104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/fritidsfiske/",
-    "fetched_at": "2026-10-26T03:42:58.592602Z",
+    "fetched_at": "2026-11-02T03:29:29.225007Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bd4b9fe0870c9b3c948ee0bc9722a8871c124a19be49611a91b6ccba9c0acd9e",
+    "content_sha256": "f282c8d9f6d0cc7dfe5d05c68f72195ae6cc56f5a486b3769771ea021e0ca143",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1104",
   "summary": "Statistiken beskriver bland annat antal fritidsfiskare, antal fiskedagar och fångster uppdelat på fiske i kust och hav respektive i sjöar och vattendrag samt den ekonomiska omfattningen av fritidsfisket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-23",
+  "next_publication_date": "2027-06-23",
   "responsible_agency": {
     "label": "Havs- och vattenmyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-23",
         "Statistiken beskriver bland annat antal fritidsfiskare, antal fiskedagar och fångster uppdelat på fiske i kust och hav respektive i sjöar och vattendrag samt den ekonomiska omfattningen av fritidsfisket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1104&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1104&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1002",
     "response_url": "https://www.scb.se/JO1002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutvecklingen-i-jordbruket/markpriser/",
-    "fetched_at": "2026-10-26T03:42:56.436891Z",
+    "fetched_at": "2026-11-02T03:29:27.157149Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a9c40d7a2f7e1fe46c34aeaedbcf77029b55448dc37d8ca0291e2005e10dcb58",
+    "content_sha256": "e87cf4b74a4196c49f70ab6b85cb0fbd5bd5eb891ea9a4874a88172af7dc75cf",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1002",
   "summary": "Statistiken visar bland annat genomsnittliga priser på jordbruksmark och åkermark samt antal försäljningar och försåld areal per riksområde (NUTS II) och produktionsområde.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-19",
+  "next_publication_date": "2027-08-19",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-19",
         "Statistiken visar bland annat genomsnittliga priser på jordbruksmark och åkermark samt antal försäljningar och försåld areal per riksområde (NUTS II) och produktionsområde."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-19",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1002&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1002&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0701",
     "response_url": "https://www.scb.se/TK0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/brev--och-paketdistribution/postverksamhet/",
-    "fetched_at": "2026-10-26T03:45:07.280993Z",
+    "fetched_at": "2026-11-02T03:31:47.785493Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a4950a5e1687f5d017808e7b4b76f9ae2ade9b49070a0877c673549b76d70575",
+    "content_sha256": "cab8d7acebe6e25b25aa3ae4de79a37a3df2bc47d86a329aa83139b61e2a65a7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0701",
   "summary": "Statistiken visar tjänsteutbud, volymuppgifter, intäkter och kostnader i verksamhetens olika delar, sysselsättning, investeringar samt import och export.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-08",
+  "next_publication_date": "2027-09-08",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-08",
         "Statistiken visar tjänsteutbud, volymuppgifter, intäkter och kostnader i verksamhetens olika delar, sysselsättning, investeringar samt import och export."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0701&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0701&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

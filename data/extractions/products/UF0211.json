@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0211",
     "response_url": "https://www.scb.se/UF0211",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/svensk-och-utlandskbakgrund-for-studenter-och-doktorander-pa-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-26T03:45:40.876151Z",
+    "fetched_at": "2026-11-02T03:32:21.922193Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c1f52e916442836a36ad83527d93f0b2e29427b5da2c3dbdbb3b8f4f3701027d",
+    "content_sha256": "485069e97880a75e592f35c64c034f4e50b982fcb758fb946f8b8079ac454911",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0211",
   "summary": "Statistiken visar hur många personer med svensk respektive utländsk bakgrund som påbörjar högskolestudier i Sverige. Svensk och utländsk bakgrund redovisas för studenter och högskolenybörjare på grundnivå och avancerad nivå samt för nybörjare på forskarnivå och aktiva doktorander.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-07",
+  "next_publication_date": "2027-04-07",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-07",
         "Statistiken visar hur många personer med svensk respektive utländsk bakgrund som påbörjar högskolestudier i Sverige. Svensk och utländsk bakgrund redovisas för studenter och högskolenybörjare på grundnivå och avancerad nivå samt för nybörjare på forskarnivå och aktiva doktorander."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0211&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0211&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

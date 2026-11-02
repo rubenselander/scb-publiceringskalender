@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0139",
     "response_url": "https://www.scb.se/UF0139",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/etablering-pa-arbetsmarknaden-och-fortsatta-studier-efter-gymnasieskolan/",
-    "fetched_at": "2026-10-26T03:45:34.506080Z",
+    "fetched_at": "2026-11-02T03:32:14.579413Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a76f423b9140cfc6722a472ddbab5c44debb4a6c1b4830b9937a303a3243c9f8",
+    "content_sha256": "25446bad9054543441821db326b78297519a6f05fb4ed36f72a4cc115de8f4a7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0139",
   "summary": "Statistiken visar kvinnors och mäns etablering på arbetsmarknaden eller fortsatta studier efter avslutad utbildning. \nDet centrala mått som används är etableringsstatus, vilket tas fram av SCB baserat på flera register om sysselsättning och utbildning. \nStatistiken omfattar etableringsstatus 1, 3 och 5 år efter avslutad utbildning och redovisas per gymnasieprogram samt för olika bakgrundsfaktorer.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-07",
+  "next_publication_date": "2027-10-07",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-07",
         "Statistiken visar kvinnors och mäns etablering på arbetsmarknaden eller fortsatta studier efter avslutad utbildning. \nDet centrala mått som används är etableringsstatus, vilket tas fram av SCB baserat på flera register om sysselsättning och utbildning. \nStatistiken omfattar etableringsstatus 1, 3 och 5 år efter avslutad utbildning och redovisas per gymnasieprogram samt för olika bakgrundsfaktorer."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0139&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0139&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

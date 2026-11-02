@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0130",
     "response_url": "https://www.scb.se/UF0130",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/forskola-barn-och-personal-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:29.768358Z",
+    "fetched_at": "2026-11-02T03:32:09.782491Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "adf1b743619be4d0499893edc929b177be3cd0a50edd3b675303e90ea8cefd57",
+    "content_sha256": "2606dea14dcf1e90422c65e47ec91aa7bac4d1bc46dc7a59cc6b2d947ecf2cb5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0130",
   "summary": "Statistiken visar barngruppernas storlek, personaltäthet, personalens utbildningsnivå och kostnader.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-14",
+  "next_publication_date": "2027-04-14",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-14",
         "Statistiken visar barngruppernas storlek, personaltäthet, personalens utbildningsnivå och kostnader."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0130&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0130&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

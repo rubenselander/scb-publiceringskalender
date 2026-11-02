@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0115",
     "response_url": "https://www.scb.se/JO0115",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/ekologisk-djurhallning/",
-    "fetched_at": "2026-10-26T03:42:33.246712Z",
+    "fetched_at": "2026-11-02T03:29:05.413033Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9e5ae81b294e2d8ffbf0efa5010784e49433af758338a364f00423303308df70",
+    "content_sha256": "e89c017bd4fc15841811a4c6973147211213e9a94ada00d782d1dc7eef293765",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0115",
   "summary": "Statistiken visar antal djur som är omställda till ekologisk produktion per djurslag. Statistiken visar även antalet berörda företag. Både antal djur och antal företag redovisas för riket samt per län, produktionsområden och storleksgrupp.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-10",
+  "next_publication_date": "2027-06-10",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-10",
         "Statistiken visar antal djur som är omställda till ekologisk produktion per djurslag. Statistiken visar även antalet berörda företag. Både antal djur och antal företag redovisas för riket samt per län, produktionsområden och storleksgrupp."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0115&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0115&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

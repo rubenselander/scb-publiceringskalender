@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0112",
     "response_url": "https://www.scb.se/EN0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energistatistik-for-smahus-flerbostadshus-och-lokaler/",
-    "fetched_at": "2026-10-26T03:41:48.544349Z",
+    "fetched_at": "2026-11-02T03:28:18.306433Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0a40b2725e7ff8b4b90d0b601d8750d353df4e0f9d66f0cc7b77edfec0c13f96",
+    "content_sha256": "e6a5df5580df84f91736ea80c10cee5af6513c27ee6c2904ec0dc6e53f5f00eb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0112",
   "summary": "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i småhus, flerbostadshus och lokaler.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-19",
+  "next_publication_date": "2026-11-19",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-19",
         "Statistiken visar uppvärmningssätt, energianvändning och uppvärmd area i småhus, flerbostadshus och lokaler."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-19",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0112&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0112&period=Forward1Year"
         }

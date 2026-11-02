@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0123",
     "response_url": "https://www.scb.se/EN0123",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/natanslutna-solcellsanlaggningar/",
-    "fetched_at": "2026-10-26T03:41:54.240331Z",
+    "fetched_at": "2026-11-02T03:28:23.726878Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6f96381a53ef94d384e88ead445b39c2cc218937d01414644b00b18fd1a827fd",
+    "content_sha256": "3af00f8bdd172786e93333a17e91f9408bf72be513bf55aad3db01276afc931d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0123",
   "summary": "Statistiken visar nätanslutna solcellsanläggningar i elnätet fördelat på effektklasser på nationell och regional nivå.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-01",
+  "next_publication_date": "2027-04-01",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-01",
         "Statistiken visar nätanslutna solcellsanläggningar i elnätet fördelat på effektklasser på nationell och regional nivå."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0123&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0123&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

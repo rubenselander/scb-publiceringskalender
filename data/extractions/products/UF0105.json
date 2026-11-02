@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0105",
     "response_url": "https://www.scb.se/UF0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-sokande-och-antagna/",
-    "fetched_at": "2026-10-26T03:45:17.759591Z",
+    "fetched_at": "2026-11-02T03:31:57.814435Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0006dd9e6336f762fe6f9295b3d728be499cd4d8de0297ff748aae5aab6d565a",
+    "content_sha256": "74d1446cf7617e3f447e27b7098b057e446ba75373db34fe1425f9980cef20da",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0105",
   "summary": "Statistiken visar elevernas förstahandsval, behörighet och antagning till gymnasieskolan per program samt efter kön, svensk/utländsk bakgrund och föräldrars utbildningsnivå.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-11",
+  "next_publication_date": "2027-03-11",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-11",
         "Statistiken visar elevernas förstahandsval, behörighet och antagning till gymnasieskolan per program samt efter kön, svensk/utländsk bakgrund och föräldrars utbildningsnivå."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0105&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

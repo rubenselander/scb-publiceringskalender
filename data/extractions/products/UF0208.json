@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0208",
     "response_url": "https://www.scb.se/UF0208",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/genomstromning-och-resultat-i-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
-    "fetched_at": "2026-10-26T03:45:38.953069Z",
+    "fetched_at": "2026-11-02T03:32:19.981126Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "34fd6469f4b6852df973a0c640410718e3eb3ae1581123a5246b1243ead0430c",
+    "content_sha256": "537d9ca854d02a04ac567cc787832639cd9fa499d121343de13e517946c2009f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0208",
   "summary": "Statistiken visar bland annat examensfrekvens och prestationsgrad på grundnivå och avancerad nivå samt antalet helårsstudenter per kön, ålder, program/kurs, lärosäte och svenska/inresande studenter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-28",
+  "next_publication_date": "2027-01-28",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-28",
         "Statistiken visar bland annat examensfrekvens och prestationsgrad på grundnivå och avancerad nivå samt antalet helårsstudenter per kön, ålder, program/kurs, lärosäte och svenska/inresande studenter."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0208&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0208&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1101",
     "response_url": "https://www.scb.se/TK1101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/transportmonster/resvanor-i-sverige/",
-    "fetched_at": "2026-10-26T03:45:12.083291Z",
+    "fetched_at": "2026-11-02T03:31:52.187261Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b1806c208567c075747b3bebe676732af5f11f2f049cd2736f59f65f458c1b30",
+    "content_sha256": "a26da635a9ebfcf2552fc28f8288e280564ebc8b9c8767c59ed620185f130635",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk1101",
   "summary": "Statistiken visar det dagliga resande utanför det egna hemmet, vid vilka tidpunkter resorna görs, vilka färdsätt som används och vad som är syftet/ärendet för resan. Alla resor inom Sverige kartläggs liksom resor till och från utlandet.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-28",
+  "next_publication_date": "2027-05-28",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-28",
         "Statistiken visar det dagliga resande utanför det egna hemmet, vid vilka tidpunkter resorna görs, vilka färdsätt som används och vad som är syftet/ärendet för resan. Alla resor inom Sverige kartläggs liksom resor till och från utlandet."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK1101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK1101&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0502",
     "response_url": "https://www.scb.se/AM0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsorsakade-besvar/",
-    "fetched_at": "2026-10-26T03:41:30.366069Z",
+    "fetched_at": "2026-11-02T03:27:59.024688Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d5705d174845debdae8bf2ac2963e6d86971df70237e52416bb797d9c8a56e13",
+    "content_sha256": "03fb9ccef9a5cfabd66e84cb87af99a36f436cdbe6ff944d22d09119ffe7e4bc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0502",
   "summary": "Statistiken visar besvär som människor kopplar till sitt arbete, var i kroppen besvären finns och vad i arbetet som kan ha orsakat dem. Undersökningen är en tilläggsundersökning till Arbetskraftsundersökningarna (AKU).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-04",
+  "next_publication_date": "2027-11-04",
   "responsible_agency": {
     "label": "Arbetsmiljöverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-04",
         "Statistiken visar besvär som människor kopplar till sitt arbete, var i kroppen besvären finns och vad i arbetet som kan ha orsakat dem. Undersökningen är en tilläggsundersökning till Arbetskraftsundersökningarna (AKU)."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-04",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0502&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0502&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0112",
     "response_url": "https://www.scb.se/JO0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/dranering-av-jordbruksmark/",
-    "fetched_at": "2026-10-26T03:42:31.531455Z",
+    "fetched_at": "2026-11-02T03:29:03.793377Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "14a6184d590d34995c0d0ad74358548be4d396f3bed316e3a518e035af001010",
+    "content_sha256": "d0b5f551a63be86f1ec60f0053afafff4469e3b2f091370da113c130ebdebf5c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0112",
   "summary": "Statistiken visar bland annat areal dränerad och systemtäckdikad åkermark och areal åkermark med behov av ny- och omtäckdikning per län, produktionsområde och driftsinriktning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-15",
+  "next_publication_date": "2027-03-15",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-15",
         "Statistiken visar bland annat areal dränerad och systemtäckdikad åkermark och areal åkermark med behov av ny- och omtäckdikning per län, produktionsområde och driftsinriktning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0112&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0112&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

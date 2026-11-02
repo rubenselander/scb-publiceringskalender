@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0110",
     "response_url": "https://www.scb.se/AM0110",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/",
-    "fetched_at": "2026-10-26T03:41:22.387775Z",
+    "fetched_at": "2026-11-02T03:27:51.329586Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "aab3410786e53d3f13276f845323ae73fb7d7867f0f8d9a99ad2942b48dedd46",
+    "content_sha256": "3b7ba7349dabc39eb34e6740b563461cfebcc841c6f989d1433aede4104c8bac",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0110",
   "summary": "Lönestrukturstatistiken för hela ekonomin har till syfte att årligen ge en översiktlig och jämförbar lönestatistik för hela arbetsmarknaden.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-31",
+  "next_publication_date": "2027-05-31",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-31",
         "Lönestrukturstatistiken för hela ekonomin har till syfte att årligen ge en översiktlig och jämförbar lönestatistik för hela arbetsmarknaden."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0110&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0110&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

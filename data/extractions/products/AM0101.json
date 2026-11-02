@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0101",
     "response_url": "https://www.scb.se/AM0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-privat-sektor-klp/",
-    "fetched_at": "2026-10-26T03:41:18.417893Z",
+    "fetched_at": "2026-11-02T03:27:46.638258Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a14510398cc22940f54622531d6efd91f22f5099b4bc3099479231635d81e09c",
+    "content_sha256": "707d0ae5f4749059ba52b28429b684a5a9d5e0446e2f25c7db98f5bbbaaf99c5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0101",
   "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i privat sektor. Motsvarande lönestatistik finns även för statlig sektor, kommuner och regioner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-30",
         "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i privat sektor. Motsvarande lönestatistik finns även för statlig sektor, kommuner och regioner."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0101&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0101&period=Forward1Year"
         }
@@ -92,9 +92,9 @@
       ],
       "paragraphs": [
         "Månadslön för tjänstemän privat sektor",
-        "53 220",
+        "52 890",
         "kronor",
-        "Referenstid: juli 2026"
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -114,7 +114,7 @@
         }
       ],
       "paragraphs": [
-        "2,9 %",
+        "2,8 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -135,7 +135,7 @@
         }
       ],
       "paragraphs": [
-        "-0,4 %",
+        "-0,6 %",
         "jämfört med föregående period"
       ],
       "links": [],
@@ -157,9 +157,9 @@
       ],
       "paragraphs": [
         "Timlön för arbetare privat sektor",
-        "209,10",
+        "203,40",
         "kronor",
-        "Referenstid: juli 2026"
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -179,7 +179,7 @@
         }
       ],
       "paragraphs": [
-        "2,1 %",
+        "2,6 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -200,7 +200,7 @@
         }
       ],
       "paragraphs": [
-        "-1,6 %",
+        "-2,7 %",
         "jämfört med föregående period"
       ],
       "links": [],
@@ -276,17 +276,17 @@
         [
           "Genomsnittlig timlön för arbetare inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig timlön exkl. övertidstillägg för arbetare inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig timlön inkl. övertidstillägg för arbetare inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -359,17 +359,17 @@
         [
           "Genomsnittlig månadslön för tjänstemän inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig månadslön exkl. rörliga tillägg för tjänstemän inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig månadslön inkl. rörliga tillägg för tjänstemän inom privat sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -432,7 +432,7 @@
         [
           "Löneutvecklingen inom den privata sektorn för arbetare och tjänstemän",
           "Diagram",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -476,7 +476,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2007 och övertidstillägg. Månad 2008M01 - 2026M07",
+          "text": "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2007 och övertidstillägg. Månad 2008M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArb07Privat",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonArb07Privat"
         }
@@ -491,8 +491,8 @@
           "Datum"
         ],
         [
-          "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2007 och övertidstillägg. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig timlön för arbetare, privat sektor (KLP) efter näringsgren SNI2007 och övertidstillägg. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -536,12 +536,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal och förändringstal: löner för tjänstemän, privat sektor 2026M07",
+          "text": "Nyckeltal och förändringstal: löner för tjänstemän, privat sektor 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0101T",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0101T"
         },
         {
-          "text": "Nyckeltal och förändringstal: löner för arbetare, privat sektor 2026M07",
+          "text": "Nyckeltal och förändringstal: löner för arbetare, privat sektor 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0101A",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0101A"
         }
@@ -556,12 +556,12 @@
           "Datum"
         ],
         [
-          "Nyckeltal och förändringstal: löner för tjänstemän, privat sektor 2026M07",
-          "2026-09-30"
+          "Nyckeltal och förändringstal: löner för tjänstemän, privat sektor 2026M08",
+          "2026-10-29"
         ],
         [
-          "Nyckeltal och förändringstal: löner för arbetare, privat sektor 2026M07",
-          "2026-09-30"
+          "Nyckeltal och förändringstal: löner för arbetare, privat sektor 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -605,7 +605,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2007 och rörliga tillägg. Månad 2008M01 - 2026M07",
+          "text": "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2007 och rörliga tillägg. Månad 2008M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjanst07Privat",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonTjanst07Privat"
         }
@@ -620,8 +620,8 @@
           "Datum"
         ],
         [
-          "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2007 och rörliga tillägg. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig månadslön för tjänstemän, privat sektor (KLP) efter näringsgren SNI2007 och rörliga tillägg. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },

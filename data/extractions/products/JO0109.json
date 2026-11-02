@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0109",
     "response_url": "https://www.scb.se/JO0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/heltidsjordbruket-i-sverige/",
-    "fetched_at": "2026-10-26T03:42:29.881074Z",
+    "fetched_at": "2026-11-02T03:29:02.005825Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fc69e3442ffe78f7bc481b1f9a26f1ccbfe0c512e8269630c17fbcbd32a06e86",
+    "content_sha256": "b0c8a088760ecca2513b2f5d55f1fc08eea06bf868c32e533f21fe22953f6462",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0109",
   "summary": "Statistiken visar bland annat areal åker- och betesmark på heltidsjordbruk och antal heltidsjordbruk efter brukningsform per län och produktionsområde.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Statistiken visar bland annat areal åker- och betesmark på heltidsjordbruk och antal heltidsjordbruk efter brukningsform per län och produktionsområde."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0109&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0109&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

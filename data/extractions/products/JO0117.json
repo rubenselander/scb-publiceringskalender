@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0117",
     "response_url": "https://www.scb.se/JO0117",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/tradgardsodlingens-struktur/",
-    "fetched_at": "2026-10-26T03:42:34.552387Z",
+    "fetched_at": "2026-11-02T03:29:06.410049Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "750ea77f494f8a2f16b847a12f3624b9f6d8fc6cff8744441d51c1130426fdbb",
+    "content_sha256": "53a59c16e6c19b580577d092fa6f355d444b02f8b349d0cd258f485ff580ea2e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0117",
   "summary": "Statistiken beskriver strukturella aspekter av den svenska yrkesmässiga odlingen av trädgårdsväxter. Bland annat redovisar vi arealer, växthusytor, antal företag, sysselsättning, driftsledarnas åldersfördelning samt utbredningen av annan jordbruksverksamhet i de trädgårdsodlande företagen.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-24",
+  "next_publication_date": "2027-06-24",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-24",
         "Statistiken beskriver strukturella aspekter av den svenska yrkesmässiga odlingen av trädgårdsväxter. Bland annat redovisar vi arealer, växthusytor, antal företag, sysselsättning, driftsledarnas åldersfördelning samt utbredningen av annan jordbruksverksamhet i de trädgårdsodlande företagen."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-24",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0117&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0117&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

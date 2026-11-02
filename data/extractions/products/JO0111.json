@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0111",
     "response_url": "https://www.scb.se/JO0111",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/notkreatur-i-december/",
-    "fetched_at": "2026-10-26T03:42:30.990396Z",
+    "fetched_at": "2026-11-02T03:29:03.224360Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b0f8ef58f629579c7612db489d1fa7bcbb349dcc1e477b71414267b4cb5e6dae",
+    "content_sha256": "5271746a9148512a8a80cef6c5434acca4180cde7d2b155a90a48d2c1ef0c964",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0111",
   "summary": "Statistiken visar bland annat antal nötkreatur per djurslag i Sverige och antal företag som äger nötkreatur i december varje år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-15",
+  "next_publication_date": "2027-02-15",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-15",
         "Statistiken visar bland annat antal nötkreatur per djurslag i Sverige och antal företag som äger nötkreatur i december varje år."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0111&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0111&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

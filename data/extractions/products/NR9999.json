@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR9999",
     "response_url": "https://www.scb.se/NR9999",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/",
-    "fetched_at": "2026-10-26T03:43:55.824270Z",
+    "fetched_at": "2026-11-02T03:30:30.487087Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "38b53fc2321e7fd3298c9c8dc71ba856f465911ad2a4d60c7d2f8e46580f4778",
+    "content_sha256": "26d713cdd4f059ec789f0408ceae187d0ec0e293400df1e83f3d32c70dd39144",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nr9999",
   "summary": "Här publiceras statistik som har anknytning till nationalräkenskaperna, såsom den månadsvisa BNP-indikatorn, nationalförmögenheten, hushållsfördelningsräkenskaper och multifaktorproduktiviteten.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": null,
   "notices": [
     "För närvarande är ingen uppdatering av statistiken över multifaktorproduktivitet planerad."
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-12-10",
         "Här publiceras statistik som har anknytning till nationalräkenskaperna, såsom den månadsvisa BNP-indikatorn, nationalförmögenheten, hushållsfördelningsräkenskaper och multifaktorproduktiviteten."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR9999&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR9999&period=Forward1Year"
         }
@@ -85,14 +85,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-09",
-        "Sveriges BNP ökade med 1,1 procent i augusti, säsongrensat och jämfört med föregående månad enligt BNP-indikatorns preliminära sammanställning. Kalenderkorrigerad BNP var 3,5 procent högre än i motsvarande månad föregående år."
+        "2026-10-29",
+        "Sveriges BNP minskade med 0,7 procent i september, säsongrensat och jämfört med föregående månad enligt BNP-indikatorns preliminära sammanställning. För det tredje kvartalet som helhet var BNP 0,4 procent högre än i föregående kvartal. Kalenderkorrigerad BNP för september var 2,1 procent högre än i motsvarande månad föregående år medan BNP för kvartalet som helhet var 2,8 procent högre än i tredje kvartalet 2025."
       ],
       "links": [
         {
-          "text": "Högre BNP i augusti",
-          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-augusti-2026/"
+          "text": "Lägre BNP i september",
+          "href": "/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/ovrigt/nationalrakenskaper-ovrigt/pong/statistiknyhet/nationalrakenskaper-ovrigt-bnp-indikator-manad-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -191,7 +191,7 @@
         [
           "BNP-indikator månad, tidsserier och revideringshistorik",
           "Excel-fil",
-          "2026-10-09"
+          "2026-10-29"
         ]
       ]
     },
@@ -361,7 +361,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M08",
+          "text": "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR9999ENS2010BNPIndN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR9999ENS2010BNPIndN"
         }
@@ -376,8 +376,8 @@
           "Datum"
         ],
         [
-          "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M08",
-          "2026-10-09"
+          "Nationalräkenskaper, BNP-indikator (ENS2010). 2011=100 Månad 2000M01 - 2026M09",
+          "2026-10-29"
         ]
       ]
     },

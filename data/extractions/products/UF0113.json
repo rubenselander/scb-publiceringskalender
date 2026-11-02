@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0113",
     "response_url": "https://www.scb.se/UF0113",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/pedagogisk-personal-lararregistret/",
-    "fetched_at": "2026-10-26T03:45:21.727659Z",
+    "fetched_at": "2026-11-02T03:32:01.561540Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4c115690bdae48fa53a97b5d583c3dceffc944d1b581d4893db8340b06326a7a",
+    "content_sha256": "c35f4f00a2fe5d960bee46c8e9b3d284d9ac66aeef04097f19dcaf3ad12028cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0113",
   "summary": "Statistiken visar antal lärare, andel lärare med pedagogisk/specialpedagogisk högskoleexamen och antal elever per lärare och studie- och yrkesvägledare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-08",
+  "next_publication_date": "2027-04-08",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-08",
         "Statistiken visar antal lärare, andel lärare med pedagogisk/specialpedagogisk högskoleexamen och antal elever per lärare och studie- och yrkesvägledare."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0113&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0113&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FD9901",
     "response_url": "https://www.scb.se/FD9901",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/ovrigt/artificiell-intelligens-i-sverige/",
-    "fetched_at": "2026-10-26T03:41:59.811957Z",
+    "fetched_at": "2026-11-02T03:28:29.854612Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d7151296ab19a6dc869e217ad62d7fb98f8d69a5d7d070b34f5619db0994ecbd",
+    "content_sha256": "ef00cf1025247c120ad785684e1450818a18fd1e239a30a55c9f2c9866c2977d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fd9901",
   "summary": "Statistiken belyser användningen av artificiell intelligens (AI) i Sverige, både bland individer och i företag, i syfte att ge en tydlig och övergripande bild av hur AI används och utvecklas i samhället. Även teman som forskning och innovation kopplat till AI utforskas i statistiken.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-20",
+  "next_publication_date": "2027-05-20",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-20",
         "Statistiken belyser användningen av artificiell intelligens (AI) i Sverige, både bland individer och i företag, i syfte att ge en tydlig och övergripande bild av hur AI används och utvecklas i samhället. Även teman som forskning och innovation kopplat till AI utforskas i statistiken."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-20",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FD9901&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FD9901&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

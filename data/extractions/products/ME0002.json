@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0002",
     "response_url": "https://www.scb.se/ME0002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/amnesovergripande-statistik/undersokningen-om-den-lokala-demokratin-i-kommuner-och-regioner/",
-    "fetched_at": "2026-10-26T03:43:16.531611Z",
+    "fetched_at": "2026-11-02T03:29:46.906452Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "917886f5428df8e3031d49a54efc8008949180196d48fa844ce6171bd192b1d1",
+    "content_sha256": "bc2c730cad8fd6bfe2f6369474bb5f16733d154e1f6d0a13d86301e68928b255",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -24,7 +24,9 @@
   "next_publication_text": "Nästa publicering: Ingen planerad",
   "next_publication_date": null,
   "responsible_agency": null,
-  "notices": [],
+  "notices": [
+    "Korrigering 2026-10-26: I Statistikdatabasen har uppgifter om politiskt styre för Liberalerna och Kristdemokraterna sammanblandats avseende mandatperioderna 2018–2022 och 2022–2026. Detta har korrigerats."
+  ],
   "tags": [],
   "sections": [
     {
@@ -38,6 +40,21 @@
       "paragraphs": [
         "Nästa publicering: Ingen planerad",
         "Statistiken visar bland annat styrande majoritet, nämndorganisation, partistöd och samverkansmöjligheter och används för att visa den lokala demokratins utveckling och funktionssätt."
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Undersökningen om den lokala demokratin i kommuner och regioner",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Korrigering 2026-10-26: I Statistikdatabasen har uppgifter om politiskt styre för Liberalerna och Kristdemokraterna sammanblandats avseende mandatperioderna 2018–2022 och 2022–2026. Detta har korrigerats."
       ],
       "links": [],
       "table_headers": [],

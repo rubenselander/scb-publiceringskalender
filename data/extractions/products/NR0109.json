@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0109",
     "response_url": "https://www.scb.se/NR0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/",
-    "fetched_at": "2026-10-26T03:43:54.408927Z",
+    "fetched_at": "2026-11-02T03:30:28.651805Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6163118ea668de6e998aac32412d8c4482a923bd6edc85f12b6ad359af1fb052",
+    "content_sha256": "c5311866171021a8d9bf67bb19a24f581f8b17a386408f1b13f16041b4567eb5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nr0109",
   "summary": "Statistiken visar bland annat hälso- och sjukvårdsutgifter efter ändamål, finansiär, och producentgrupp totalt och i relation till BNP. Senaste publicerade året är att betraktas som preliminärt. Samtliga värden är i löpande priser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-31",
+  "next_publication_date": "2027-03-31",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-31",
         "Statistiken visar bland annat hälso- och sjukvårdsutgifter efter ändamål, finansiär, och producentgrupp totalt och i relation till BNP. Senaste publicerade året är att betraktas som preliminärt. Samtliga värden är i löpande priser."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR0109&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR0109&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

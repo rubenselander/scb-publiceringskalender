@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0806",
     "response_url": "https://www.scb.se/JO0806",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/skogsskador/",
-    "fetched_at": "2026-10-26T03:42:55.174801Z",
+    "fetched_at": "2026-11-02T03:29:25.947720Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6f85e4284e9154c7bea0c9299a8792c515f5942510f5d04b74e3ce0ed0553569",
+    "content_sha256": "043e0b45fa5c945f29a28b51a675e8b31e1330af80c6717397450f1b814bedf2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0806",
   "summary": "Statistiken visar omfattning av skador på skog, t.ex. kronutglesning, älgbetning samt ett antal enskilda vanligen förekommande skadetyper.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Sveriges lantbruksuniversitet (SLU)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar omfattning av skador på skog, t.ex. kronutglesning, älgbetning samt ett antal enskilda vanligen förekommande skadetyper."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0806&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0806&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

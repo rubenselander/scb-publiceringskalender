@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0301",
     "response_url": "https://www.scb.se/PR0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
-    "fetched_at": "2026-10-26T03:44:25.435605Z",
+    "fetched_at": "2026-11-02T03:31:02.285753Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5ecb984fa9ca18c15b2fe43c424bc3da74451793ceed10d86ceef9e8aebc0072",
+    "content_sha256": "0654768b6e2c57fae834b7b454e174e27a489989c25a37cd6b3fdfe1a614f13d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0301",
   "summary": "Prisindex i producent- och importled (PPI) visar den genomsnittliga prisutvecklingen i producent- och importledet, totalt och för olika marknader (HMPI, EXPI, IMPI, PPI, ITPI och TPI) och produktgrupper. Priset som mäts är det pris som svenska producenter erhåller när de säljer sin produkt, respektive det pris som köparen betalar då produkterna kommer in i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-26",
-  "next_publication_date": "2026-10-26",
+  "next_publication_text": "Nästa publicering: 2026-11-06",
+  "next_publication_date": "2026-11-06",
   "responsible_agency": null,
   "notices": [
     "PPI byter klassifikation"
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-26",
+        "Nästa publicering: 2026-11-06",
         "Prisindex i producent- och importled (PPI) visar den genomsnittliga prisutvecklingen i producent- och importledet, totalt och för olika marknader (HMPI, EXPI, IMPI, PPI, ITPI och TPI) och produktgrupper. Priset som mäts är det pris som svenska producenter erhåller när de säljer sin produkt, respektive det pris som köparen betalar då produkterna kommer in i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-26",
+          "text": "Nästa publicering: 2026-11-06",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0301&period=Forward1Year"
         }
@@ -87,9 +87,9 @@
       ],
       "paragraphs": [
         "Producentprisindex",
-        "140,8",
+        "145,6",
         "Index 2020=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -109,7 +109,7 @@
         }
       ],
       "paragraphs": [
-        "6,8 %",
+        "11,2 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -131,9 +131,9 @@
       ],
       "paragraphs": [
         "Importprisindex",
-        "147,8",
+        "154,5",
         "Index 2020=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -153,7 +153,7 @@
         }
       ],
       "paragraphs": [
-        "9,5 %",
+        "15,5 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -175,9 +175,9 @@
       ],
       "paragraphs": [
         "Exportprisindex",
-        "140,8",
+        "145,8",
         "Index 2020=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -197,7 +197,7 @@
         }
       ],
       "paragraphs": [
-        "6,8 %",
+        "12,4 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -219,9 +219,9 @@
       ],
       "paragraphs": [
         "Hemmamarknadsprisindex",
-        "141,2",
+        "145,8",
         "Index 2020=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -241,7 +241,7 @@
         }
       ],
       "paragraphs": [
-        "7,0 %",
+        "10,2 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -263,9 +263,9 @@
       ],
       "paragraphs": [
         "Prisindex för inhemsk tillgång",
-        "144,5",
+        "150,2",
         "Index 2020=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -285,7 +285,7 @@
         }
       ],
       "paragraphs": [
-        "8,2 %",
+        "12,9 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -350,14 +350,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-25",
-        "Producentprisindex steg med 0,9 procent i augusti jämfört med juli 2026. På importmarknaden steg priserna med 0,5 procent och på hemmamarknaden steg de med 1,5 procent. På exportmarknaden steg priserna med 0,5 procent. Jämfört med augusti 2025 ökade producentprisindex med 6,8 procent (6,4 procent i juli)."
+        "2026-10-26",
+        "Producentprisindex steg med 3,4 procent i september jämfört med augusti 2026. På exportmarknaden steg priserna med 3,6 procent och på importmarknaden steg de med 4,5 procent. På hemmamarknaden steg priserna med 3,3 procent. Jämfört med september 2025 ökade producentprisindex med 11,2 procent (6,8 procent i augusti)."
       ],
       "links": [
         {
-          "text": "Producentpriserna ökade på samtliga marknader i augusti 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-augusti-2026/"
+          "text": "Producentpriserna ökade på samtliga marknader i september 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -452,17 +452,17 @@
         [
           "Prisindex i producent- och importled, årstakt",
           "Diagram",
-          "2026-09-25"
+          "2026-10-26"
         ],
         [
           "Prisindex i producent- och importled, index och förändringstal",
           "Tabell",
-          "2026-09-25"
+          "2026-10-26"
         ],
         [
           "ITPI, Dieselolja",
           "Tabell",
-          "2026-09-25"
+          "2026-10-26"
         ],
         [
           "Producentprisindex för tjänster, årsförändring",
@@ -516,7 +516,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 1990M01 - 2026M08",
+          "text": "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 1990M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2020M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2020M"
         },
@@ -531,7 +531,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPIvikt"
         },
         {
-          "text": "Förändringstal producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 2023M01 - 2026M08",
+          "text": "Förändringstal producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 2023M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2020ArManFor",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PPI2020ArManFor"
         }
@@ -546,8 +546,8 @@
           "Datum"
         ],
         [
-          "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 1990M01 - 2026M08",
-          "2026-09-25"
+          "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 1990M01 - 2026M09",
+          "2026-10-26"
         ],
         [
           "Producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. År 1990 - 2025",
@@ -558,8 +558,8 @@
           "2026-02-25"
         ],
         [
-          "Förändringstal producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 2023M01 - 2026M08",
-          "2026-09-25"
+          "Förändringstal producentprisindex efter marknad och produktgrupp SPIN 2015, 2020=100. Månad 2023M01 - 2026M09",
+          "2026-10-26"
         ]
       ]
     },
@@ -822,7 +822,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Prisindex i producent- och importled (PPI), förändring från föregående period. Månad 2014M01 - 2026M08",
+          "text": "Prisindex i producent- och importled (PPI), förändring från föregående period. Månad 2014M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatPR0301",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatPR0301"
         }
@@ -837,8 +837,8 @@
           "Datum"
         ],
         [
-          "Prisindex i producent- och importled (PPI), förändring från föregående period. Månad 2014M01 - 2026M08",
-          "2026-09-25"
+          "Prisindex i producent- och importled (PPI), förändring från föregående period. Månad 2014M01 - 2026M09",
+          "2026-10-26"
         ]
       ]
     },
@@ -882,7 +882,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Indextal och förändringstal för Prisindex i producent- och importled (PPI) 2018M01 - 2026M08",
+          "text": "Indextal och förändringstal för Prisindex i producent- och importled (PPI) 2018M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTPR0301PPI",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTPR0301PPI"
         },
@@ -902,8 +902,8 @@
           "Datum"
         ],
         [
-          "Indextal och förändringstal för Prisindex i producent- och importled (PPI) 2018M01 - 2026M08",
-          "2026-09-25"
+          "Indextal och förändringstal för Prisindex i producent- och importled (PPI) 2018M01 - 2026M09",
+          "2026-10-26"
         ],
         [
           "Indextal och förändringstal för Tjänsteprisindex 2018K1 - 2026K2",

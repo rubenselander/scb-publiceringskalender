@@ -9,10 +9,10 @@
     "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/",
     "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/",
-    "fetched_at": "2026-10-26T03:46:14.341301Z",
+    "fetched_at": "2026-11-02T03:32:58.481945Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "32f03edf0561a83d7794f99e7914c3f916fa62c968e8a1b3d8c83f129d8f2cb5",
+    "content_sha256": "6bad76966cccf5d6993414fd69477878e3003fc808e6c9735e459f8c3a151d48",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -821,18 +821,6 @@
           "product_code": null,
           "product_code_source": "unknown",
           "summary": "Statistiken visar skogsägare och brukningsenheter. Statistiken bygger på lantbruksenheter ur fastighetstaxeringen och grunden till uppgifterna bygger därmed på de uppgifter som fastighetsägarna själva lämnar i sin fastighetsdeklaration. Den areal som redovisas i statistiken avser därför deklarerad produktiv skogsmark.",
-          "responsible_agency_text": "Statistikansvarig myndighet: Skogsstyrelsen",
-          "tags_text": null
-        },
-        {
-          "link": {
-            "text": "Skogsentrepenörer",
-            "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/skogentrepenorer/",
-            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/skogentrepenorer/"
-          },
-          "product_code": null,
-          "product_code_source": "unknown",
-          "summary": "Statistiken visar antalet företag som är verksamma som skogsentreprenörer i Sverige och deras ekonomiska förhållanden.",
           "responsible_agency_text": "Statistikansvarig myndighet: Skogsstyrelsen",
           "tags_text": null
         }

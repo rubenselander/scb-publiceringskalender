@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0204",
     "response_url": "https://www.scb.se/UF0204",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/doktorander-och-examina-i-hogskoleutbildning-pa-forskarniva/",
-    "fetched_at": "2026-10-26T03:45:37.149406Z",
+    "fetched_at": "2026-11-02T03:32:17.841517Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d58d5c26d78e162d6be22696e1ceaed64fbf36ba208d4dc4c11a88170362cf71",
+    "content_sha256": "a90a61e0445724f6c407dbf281a282de6ffac30427479b83c1aeefe396295e4f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0204",
   "summary": "Statistiken visar förändringar av nybörjare, doktorander och examina vad gäller antal, kön, ålder, studiefinansiering, studietid med mera inom olika forskningsämnesområden och universitet/högskolor.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-15",
+  "next_publication_date": "2027-04-15",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-15",
         "Statistiken visar förändringar av nybörjare, doktorander och examina vad gäller antal, kön, ålder, studiefinansiering, studietid med mera inom olika forskningsämnesområden och universitet/högskolor."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0204&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0204&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

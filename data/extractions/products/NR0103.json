@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NR0103",
     "response_url": "https://www.scb.se/NR0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/",
-    "fetched_at": "2026-10-26T03:43:52.708238Z",
+    "fetched_at": "2026-11-02T03:30:26.468741Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e971c9a4f2ff113fc4f840a8a6487f7f9e9c50fb02dc6318dba0b46bc6b40a81",
+    "content_sha256": "cd7f1e1418701b7e69b62f1c9bf6ac5275a0c2e7cdbd4db1a4725865565a85cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nr0103",
   "summary": "Nationalräkenskaperna (NR) är ett kontosystem som sammanfattar och beskriver vårt lands ekonomiska aktiviteter och utveckling. I nationalräkenskaperna beräknas bland annat bruttonationalprodukten (BNP), reala sektorräkenskaper och finansräkenskaper.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
   "responsible_agency": null,
   "notices": [
     "2026-10-09: Ett fel har korrigerats i tabellen Input-outputtabeller (bransch*bransch) 2021-2024 som publicerades den 25:e september och som berör branschfördelningen för 2024.",
@@ -41,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-27",
         "Nationalräkenskaperna (NR) är ett kontosystem som sammanfattar och beskriver vårt lands ekonomiska aktiviteter och utveckling. I nationalräkenskaperna beräknas bland annat bruttonationalprodukten (BNP), reala sektorräkenskaper och finansräkenskaper."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NR0103&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NR0103&period=Forward1Year"
         }
@@ -1426,7 +1426,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR0103ENS10SnabbStat"
         },
         {
-          "text": "Nationalräkenskaper, BNP-indikator (ENS2010), volymförändring . Kvartal 2016K1 - 2026K2",
+          "text": "Nationalräkenskaper, BNP-indikator (ENS2010), volymförändring . Kvartal 2016K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR0103ENS2010BNPInd",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NR0103ENS2010BNPInd"
         },
@@ -1455,8 +1455,8 @@
           "2026-08-28"
         ],
         [
-          "Nationalräkenskaper, BNP-indikator (ENS2010), volymförändring . Kvartal 2016K1 - 2026K2",
-          "2026-07-29"
+          "Nationalräkenskaper, BNP-indikator (ENS2010), volymförändring . Kvartal 2016K1 - 2026K3",
+          "2026-10-29"
         ],
         [
           "BNP per capita (ENS2010). År 1980 - 2024",

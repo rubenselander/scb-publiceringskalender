@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0602",
     "response_url": "https://www.scb.se/AM0602",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsskador/arbetsskador/",
-    "fetched_at": "2026-10-26T03:41:31.400155Z",
+    "fetched_at": "2026-11-02T03:28:00.048582Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "47ac82a0d6cd4d657bdeb87d17bf1f4b0cb16f8111d5e43039933afd2d416ba8",
+    "content_sha256": "2c13072861da2f9cf88ed6028a579c74cd6f469bf68a9a0b00b27dc495b8a08c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0602",
   "summary": "Statistiken bygger på de arbetsskadeanmälningar som görs till Försäkringskassan. Arbetsskadeanmälan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-09",
+  "next_publication_date": "2027-06-09",
   "responsible_agency": {
     "label": "Arbetsmiljöverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-09",
         "Statistiken bygger på de arbetsskadeanmälningar som görs till Försäkringskassan. Arbetsskadeanmälan ger bland annat uppgifter om den skadade och arbetsgivaren samt skadans omfattning och orsaker."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-09",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0602&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0602&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

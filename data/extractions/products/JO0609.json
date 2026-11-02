@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0609",
     "response_url": "https://www.scb.se/JO0609",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/ekologisk-animalieproduktion/",
-    "fetched_at": "2026-10-26T03:42:49.884545Z",
+    "fetched_at": "2026-11-02T03:29:21.387129Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4ff2ab78d160d6827059620d02577817ae12835cfb2ca357c5317e69aca2aa37",
+    "content_sha256": "78066886e8c7a0e202057e920d3f7c87788f71ebd6771cde5d8dd7776e79974e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0609",
   "summary": "Statistiken visar storleken på den ekologiska produktionen av kött, mjölk och ägg.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-28",
+  "next_publication_date": "2027-06-28",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-28",
         "Statistiken visar storleken på den ekologiska produktionen av kött, mjölk och ägg."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0609&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0609&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

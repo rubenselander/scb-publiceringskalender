@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0201",
     "response_url": "https://www.scb.se/HA0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/",
-    "fetched_at": "2026-10-26T03:42:09.450622Z",
+    "fetched_at": "2026-11-02T03:28:40.837341Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "99263269980dde625329c8fe38c316312675ace82f52200931ddef063040ffcf",
+    "content_sha256": "0ce7db6f0a853459c12002bce7b8f9d8e7f5035ae33f09726830e6605dbb599e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,11 +21,11 @@
   "short_address": "https://www.scb.se/ha0201",
   "summary": "Statistiken visar Sveriges utrikeshandel med varor fördelat efter länder och olika typer av varuindelningar. Kombinerade nomenklaturen (KN) ger mest detaljerad nivå med cirka 9 400  varugrupper. SITC och SPIN är mer översiktliga varuindelningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
   "responsible_agency": null,
   "notices": [
-    "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på produktsidan för Utrikeshandel, övrigt: www.scb.se/NV2001 . Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på denna sida är de underlag som används under tröskeln. Mer information finns på sidan Utrikeshandel, övrigt."
+    "På produktsidan för Utrikeshandel, övrigt: www.scb.se/NV2001 publicerades den 30 september 2026 två nya tabeller avseende export respektive import av varor. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på denna sida är de underlag som används under tröskeln. Den 27 oktober publicerades även en analys kopplat till dessa tabeller som beskriver utfallen mellan de två metoder som använts under tröskeln. På samma sida publicerades den 21 oktober även en statistiknyhet och en ny tabell gällande faktureringsvaluta (TIC). Denna statistik visar Sveriges varuhandel med länder utanför EU fördelad efter faktureringsvaluta."
   ],
   "tags": [],
   "sections": [
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2026-11-27",
         "Statistiken visar Sveriges utrikeshandel med varor fördelat efter länder och olika typer av varuindelningar. Kombinerade nomenklaturen (KN) ger mest detaljerad nivå med cirka 9 400  varugrupper. SITC och SPIN är mer översiktliga varuindelningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2026-11-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=HA0201&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HA0201&period=Forward1Year"
         }
@@ -65,7 +65,7 @@
         }
       ],
       "paragraphs": [
-        "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på produktsidan för Utrikeshandel, övrigt: www.scb.se/NV2001 . Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på denna sida är de underlag som används under tröskeln. Mer information finns på sidan Utrikeshandel, övrigt."
+        "På produktsidan för Utrikeshandel, övrigt: www.scb.se/NV2001 publicerades den 30 september 2026 två nya tabeller avseende export respektive import av varor. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på denna sida är de underlag som används under tröskeln. Den 27 oktober publicerades även en analys kopplat till dessa tabeller som beskriver utfallen mellan de två metoder som använts under tröskeln. På samma sida publicerades den 21 oktober även en statistiknyhet och en ny tabell gällande faktureringsvaluta (TIC). Denna statistik visar Sveriges varuhandel med länder utanför EU fördelad efter faktureringsvaluta."
       ],
       "links": [
         {
@@ -92,9 +92,9 @@
       ],
       "paragraphs": [
         "Handelsnetto",
-        "-11,9",
+        "4,1",
         "miljarder kronor",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -115,9 +115,9 @@
       ],
       "paragraphs": [
         "Import av varor",
-        "171,8",
+        "202,3",
         "miljarder kronor",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -137,7 +137,7 @@
         }
       ],
       "paragraphs": [
-        "12,0 %",
+        "18,7 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -159,9 +159,9 @@
       ],
       "paragraphs": [
         "Export av varor",
-        "159,9",
+        "206,4",
         "miljarder kronor",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -181,7 +181,7 @@
         }
       ],
       "paragraphs": [
-        "10,5 %",
+        "18,7 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -202,14 +202,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-28",
-        "Under juli ökade varuexporten med 5 procent i värde medan den minskade med 1 procent i volym jämfört med motsvarande månad förra året. Under samma period ökade varuimporten med 6 procent i värde medan den minskade med 1 procent i volym."
+        "2026-10-27",
+        "Under augusti ökade varuexporten med 11 procent i värde och med 3 procent i volym jämfört med motsvarande månad förra året. Under samma period ökade varuimporten med 12 procent i värde och med 4 procent i volym."
       ],
       "links": [
         {
-          "text": "Svagare varuhandel i juli jämfört med juni",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/pong/statistiknyhet/export-och-import-av-varor-juli-2026-i-lopande-och-fasta-priser/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/pong/statistiknyhet/export-och-import-av-varor-juli-2026-i-lopande-och-fasta-priser/"
+          "text": "Ökad varuhandel jämfört med föregående år",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/pong/statistiknyhet/export-och-import-av-varor-augusti-2026-i-lopande-och-fasta-priser/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-med-varor/pong/statistiknyhet/export-och-import-av-varor-augusti-2026-i-lopande-och-fasta-priser/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -364,87 +364,87 @@
         [
           "Export, import och handelsnetto",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export och import fördelade på världsdelar",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export och import av varor fördelade på länder",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export för viktiga varuområden enligt SITC",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import för viktiga varuområden enligt SITC",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export till våra 30 största handelspartner",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import från våra 30 största handelspartner",
           "Tabell",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export för stora varugrupper enligt SPIN (1)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export för stora varugrupper enligt SPIN (2)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import för stora varugrupper enligt SPIN (1)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import för stora varugrupper enligt SPIN (2)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export till stora handelspartner (1)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export till stora handelspartner (2)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Export till stora handelspartner (3)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import från stora handelspartner (1)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import från stora handelspartner (2)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Import från stora handelspartner (3)",
           "Diagram",
-          "2026-09-28"
+          "2026-10-27"
         ]
       ]
     },
@@ -493,7 +493,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImportExportSnabbAr"
         },
         {
-          "text": "Total varuimport, varuexport och handelsnetto. Månad 1975M01 - 2026M08",
+          "text": "Total varuimport, varuexport och handelsnetto. Månad 1975M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImportExportSnabbM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImportExportSnabbM"
         },
@@ -503,12 +503,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpLandTotAr"
         },
         {
-          "text": "Varuimport och varuexport. Totala värden efter handelspartner, bortfallsjusterat. Månad 1998M01 - 2026M07",
+          "text": "Varuimport och varuexport. Totala värden efter handelspartner, bortfallsjusterat. Månad 1998M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpLandTotMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpLandTotMan"
         },
         {
-          "text": "Total varuimport, varuexport och handelsnetto, trend. Månad 1990M01 - 2026M08",
+          "text": "Total varuimport, varuexport och handelsnetto, trend. Månad 1990M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImportExportSnabbSRM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImportExportSnabbSRM"
         }
@@ -524,23 +524,23 @@
         ],
         [
           "Total varuimport, varuexport och handelsnetto. År 1975 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Total varuimport, varuexport och handelsnetto. Månad 1975M01 - 2026M08",
-          "2026-09-28"
+          "Total varuimport, varuexport och handelsnetto. Månad 1975M01 - 2026M09",
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport. Totala värden efter handelspartner, bortfallsjusterat. År 1998 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport. Totala värden efter handelspartner, bortfallsjusterat. Månad 1998M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport. Totala värden efter handelspartner, bortfallsjusterat. Månad 1998M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Total varuimport, varuexport och handelsnetto, trend. Månad 1990M01 - 2026M08",
-          "2026-09-28"
+          "Total varuimport, varuexport och handelsnetto, trend. Månad 1990M01 - 2026M09",
+          "2026-10-27"
         ]
       ]
     },
@@ -599,12 +599,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSITCTotAr"
         },
         {
-          "text": "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. Månad 2015M01 - 2026M07",
+          "text": "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. Månad 2015M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotM"
         },
         {
-          "text": "Varuimport och varuexport efter varugrupp SITC rev3/rev4, bortfallsjusterat, sekretessrensad. Månad 1998M01 - 2026M07",
+          "text": "Varuimport och varuexport efter varugrupp SITC rev3/rev4, bortfallsjusterat, sekretessrensad. Månad 1998M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSITCTotMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSITCTotMan"
         },
@@ -614,12 +614,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpSITC4Ar"
         },
         {
-          "text": "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad.  Månad 1995M01 - 2026M07",
+          "text": "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad.  Månad 1995M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpSITC4M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OImpExpSITC4M"
         },
         {
-          "text": "Varuimport och varuexport efter varugrupp SITC rev4, säsongsrensad. Volymindex 2015=100. Månad 2015M01 - 2026M07",
+          "text": "Varuimport och varuexport efter varugrupp SITC rev4, säsongsrensad. Volymindex 2015=100. Månad 2015M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15Sasong",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15Sasong"
         }
@@ -635,35 +635,35 @@
         ],
         [
           "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. År 2015 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. Kvartal 2015K1 - 2026K2",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter varugrupp SITC rev3/rev4, bortfallsjusterat, sekretessrensad. År 1998 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. Månad 2015M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100. Månad 2015M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter varugrupp SITC rev3/rev4, bortfallsjusterat, sekretessrensad. Månad 1998M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter varugrupp SITC rev3/rev4, bortfallsjusterat, sekretessrensad. Månad 1998M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad.  År 1995 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad.  Månad 1995M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter handelspartner och varugrupp SITC rev3/rev4, ej bortfallsjusterat, sekretessrensad.  Månad 1995M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter varugrupp SITC rev4, säsongsrensad. Volymindex 2015=100. Månad 2015M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter varugrupp SITC rev4, säsongsrensad. Volymindex 2015=100. Månad 2015M01 - 2026M08",
+          "2026-10-27"
         ]
       ]
     },
@@ -712,14 +712,14 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexTotAr"
         },
         {
-          "text": "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100, äldre serie. År 2010 - 2020",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotAr",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotAr"
-        },
-        {
           "text": "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2000=100. (Uppdateras ej). Kvartal 1995K1 - 2017K4",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexTotKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexTotKv"
+        },
+        {
+          "text": "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100, äldre serie. År 2010 - 2020",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotAr",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndex15TotAr"
         },
         {
           "text": "Varuimport och varuexport efter varugrupp SITC rev3 och handelspartner, total.  År 1977-1994 1977 - 1994",
@@ -756,12 +756,12 @@
           "2018-02-27"
         ],
         [
-          "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100, äldre serie. År 2010 - 2020",
-          "2021-02-26"
-        ],
-        [
           "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2000=100. (Uppdateras ej). Kvartal 1995K1 - 2017K4",
           "2018-02-27"
+        ],
+        [
+          "Varuimport och varuexport efter varugrupp SITC rev4. Volymindex 2015=100, äldre serie. År 2010 - 2020",
+          "2021-02-26"
         ],
         [
           "Varuimport och varuexport efter varugrupp SITC rev3 och handelspartner, total.  År 1977-1994 1977 - 1994",
@@ -826,7 +826,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015TotAr"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN2015, bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M07",
+          "text": "Varuimport och varuexport efter produktgrupp SPIN2015, bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015TotM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015TotM"
         },
@@ -836,7 +836,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015Ar"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN2015 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M07",
+          "text": "Varuimport och varuexport efter produktgrupp SPIN2015 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2015M"
         },
@@ -851,7 +851,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TKvNn"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. Månad 2015M01 - 2026M07",
+          "text": "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. Månad 2015M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TM"
         }
@@ -867,31 +867,31 @@
         ],
         [
           "Varuimport och varuexport efter produktgrupp SPIN2015, bortfallsjusterat, sekretessrensad. År 2010 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN2015, bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter produktgrupp SPIN2015, bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter produktgrupp SPIN2015 och handelspartner, ej bortfallsjusterat, sekretessrensad. År 2010 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN2015 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter produktgrupp SPIN2015 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2010M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. År 2015 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. Kvartal 2015K1 - 2026K2",
-          "2026-09-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. Månad 2015M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100. Månad 2015M01 - 2026M08",
+          "2026-10-27"
         ]
       ]
     },
@@ -970,14 +970,14 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TArN"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN 2002 och handelspartner, ej bortfallsjusterat. Månad 1999M01-2008M12 1999M01 - 2008M12",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNI99Man",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNI99Man"
-        },
-        {
           "text": "Varuimport och varuexport efter produktgrupp SPIN2007, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2018M12",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2007TotM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2007TotM"
+        },
+        {
+          "text": "Varuimport och varuexport efter produktgrupp SPIN 2002 och handelspartner, ej bortfallsjusterat. Månad 1999M01-2008M12 1999M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNI99Man",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNI99Man"
         },
         {
           "text": "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. År 1995-1998 1995 - 1998",
@@ -990,9 +990,9 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2007Ar"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. Månad 1995M01-1999M08 1995M01 - 1999M08",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNIMan",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNIMan"
+          "text": "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100, äldre serie. Kvartal 2010K1 - 2020K4",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TKvN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TKvN"
         },
         {
           "text": "Varuimport och varuexport efter produktgrupp SPIN2007 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2018M12",
@@ -1000,12 +1000,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpSPIN2007M"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100, äldre serie. Kvartal 2010K1 - 2020K4",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TKvN",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndSPIN15TKvN"
+          "text": "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. Månad 1995M01-1999M08 1995M01 - 1999M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNIMan",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpPSNIMan"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp SPIN 2002. Volymindex 2000=100. År 1995 - 2008",
+          "text": "Varuimport och varuexport efter produktgrupp SPIN 2002. Volymindex 2000=100. (Uppdateras ej). År 1995 - 2008",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexSPINTotAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexSPINTotAr"
         },
@@ -1058,12 +1058,12 @@
           "2021-02-26"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN 2002 och handelspartner, ej bortfallsjusterat. Månad 1999M01-2008M12 1999M01 - 2008M12",
-          "2010-02-23"
-        ],
-        [
           "Varuimport och varuexport efter produktgrupp SPIN2007, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2018M12",
           "2019-10-28"
+        ],
+        [
+          "Varuimport och varuexport efter produktgrupp SPIN 2002 och handelspartner, ej bortfallsjusterat. Månad 1999M01-2008M12 1999M01 - 2008M12",
+          "2010-02-23"
         ],
         [
           "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. År 1995-1998 1995 - 1998",
@@ -1074,19 +1074,19 @@
           "2019-10-28"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. Månad 1995M01-1999M08 1995M01 - 1999M08",
-          "2000-01-25"
+          "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100, äldre serie. Kvartal 2010K1 - 2020K4",
+          "2021-02-26"
         ],
         [
           "Varuimport och varuexport efter produktgrupp SPIN2007 och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2018M12",
           "2019-10-28"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN 2015. Volymindex 2015=100, äldre serie. Kvartal 2010K1 - 2020K4",
-          "2021-02-26"
+          "Varuimport och varuexport efter produktgrupp Prod-SNI97 och handelspartner, ej bortfallsjusterat. Månad 1995M01-1999M08 1995M01 - 1999M08",
+          "2000-01-25"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp SPIN 2002. Volymindex 2000=100. År 1995 - 2008",
+          "Varuimport och varuexport efter produktgrupp SPIN 2002. Volymindex 2000=100. (Uppdateras ej). År 1995 - 2008",
           "2010-03-04"
         ],
         [
@@ -1144,7 +1144,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpExtraKNAr"
         },
         {
-          "text": "Total varuexport till länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M08",
+          "text": "Total varuexport till länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpExtraKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpExtraKNMan"
         },
@@ -1154,7 +1154,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExtraKNAr"
         },
         {
-          "text": "Total varuimport från länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M08",
+          "text": "Total varuimport från länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExtraKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExtraKNMan"
         },
@@ -1164,7 +1164,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpKNTotAr"
         },
         {
-          "text": "Varuimport och varuexport efter varugrupp KN 2,4,6-nivå, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2026M07",
+          "text": "Varuimport och varuexport efter varugrupp KN 2,4,6-nivå, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpKNTotMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpKNTotMan"
         },
@@ -1174,7 +1174,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpTotalKNAr"
         },
         {
-          "text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M07",
+          "text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpTotalKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ExpTotalKNMan"
         },
@@ -1184,7 +1184,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpTotalKNAr"
         },
         {
-          "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M07",
+          "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpTotalKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpTotalKNMan"
         }
@@ -1200,43 +1200,43 @@
         ],
         [
           "Total varuexport till länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. År 1995 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Total varuexport till länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M08",
-          "2026-09-28"
+          "Total varuexport till länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M09",
+          "2026-10-27"
         ],
         [
           "Total varuimport från länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. År 1995 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Total varuimport från länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M08",
-          "2026-09-28"
+          "Total varuimport från länder utanför EU efter varugrupp KN 2,4,6,8-nivå och handelspartner, ej bortfallsjusterat, sekretessrensad. Månad 1995M01 - 2026M09",
+          "2026-10-27"
         ],
         [
           "Varuimport och varuexport efter varugrupp KN 2,4,6-nivå, bortfallsjusterat, sekretessrensad. År 2000 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport och varuexport efter varugrupp KN 2,4,6-nivå, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport och varuexport efter varugrupp KN 2,4,6-nivå, bortfallsjusterat, sekretessrensad. Månad 2000M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Varuexport till samtliga länder efter varugrupp KN 2, 4, 6, 8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. År 1995 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M07",
-          "2026-09-28"
+          "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. År 1995 - 2025",
-          "2026-05-28"
+          "2026-10-27"
         ],
         [
-          "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M07",
-          "2026-09-28"
+          "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, ej bortfallsjusterat. Månad 1995M01 - 2026M08",
+          "2026-10-27"
         ]
       ]
     },
@@ -1285,12 +1285,12 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201V"
         },
         {
-          "text": "Total varuimport och varuexport efter statnr HS och handelspartner. År 1988-1994 1988 - 1994",
+          "text": "Total varuimport och varuexport efter statnr HS och handelspartner. (Uppdateras ej). År 1988-1994 1988 - 1994",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpHSAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpHSAr"
         },
         {
-          "text": "Varuimport och varuexport efter produktgrupp MIG. Volymindex 2000=100. År 1995 - 2008",
+          "text": "Varuimport och varuexport efter produktgrupp MIG. Volymindex 2000=100. (Uppdateras ej). År 1995 - 2008",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexMIGTotAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ImpExpIndexMIGTotAr"
         },
@@ -1314,11 +1314,11 @@
           "2021-02-26"
         ],
         [
-          "Total varuimport och varuexport efter statnr HS och handelspartner. År 1988-1994 1988 - 1994",
+          "Total varuimport och varuexport efter statnr HS och handelspartner. (Uppdateras ej). År 1988-1994 1988 - 1994",
           "2000-01-24"
         ],
         [
-          "Varuimport och varuexport efter produktgrupp MIG. Volymindex 2000=100. År 1995 - 2008",
+          "Varuimport och varuexport efter produktgrupp MIG. Volymindex 2000=100. (Uppdateras ej). År 1995 - 2008",
           "2010-03-04"
         ],
         [
@@ -1367,14 +1367,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Varuexport, varuimport och handelsnetto. Månad 2014M03 - 2026M08",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201H",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201H"
-        },
-        {
-          "text": "Varuexportens och varuimportens volym- och värdeutveckling, procentuell förändring. Månad 2015M01 - 2026M07",
+          "text": "Varuexportens och varuimportens volym- och värdeutveckling, procentuell förändring. Månad 2015M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201VMN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201VMN"
+        },
+        {
+          "text": "Varuexport, varuimport och handelsnetto. Månad 2014M03 - 2026M09",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201H",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatHA0201H"
         }
       ],
       "table_headers": [
@@ -1387,12 +1387,12 @@
           "Datum"
         ],
         [
-          "Varuexport, varuimport och handelsnetto. Månad 2014M03 - 2026M08",
-          "2026-09-28"
+          "Varuexportens och varuimportens volym- och värdeutveckling, procentuell förändring. Månad 2015M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Varuexportens och varuimportens volym- och värdeutveckling, procentuell förändring. Månad 2015M01 - 2026M07",
-          "2026-09-28"
+          "Varuexport, varuimport och handelsnetto. Månad 2014M03 - 2026M09",
+          "2026-10-27"
         ]
       ]
     },
@@ -1436,7 +1436,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal för utrikeshandel med varor 2016M10 - 2026M08",
+          "text": "Nyckeltal för utrikeshandel med varor 2016M10 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTHA0201",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTHA0201"
         }
@@ -1451,8 +1451,8 @@
           "Datum"
         ],
         [
-          "Nyckeltal för utrikeshandel med varor 2016M10 - 2026M08",
-          "2026-09-28"
+          "Nyckeltal för utrikeshandel med varor 2016M10 - 2026M09",
+          "2026-10-27"
         ]
       ]
     },

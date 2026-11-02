@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0105",
     "response_url": "https://www.scb.se/JO0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-driftsinriktning/",
-    "fetched_at": "2026-10-26T03:42:27.765993Z",
+    "fetched_at": "2026-11-02T03:28:59.702501Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "303b12bd6cccd5132262475d99505416a389b7caa73b5c9756ef14ab668d6637",
+    "content_sha256": "803c81dad653f537806e9a39fc58a420d2d0bcc3f060289c9523b0375f767e5c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0105",
   "summary": "Statistiken visar bland annat antal företag och arbetsbehov efter driftsinriktning per län och produktionsområde.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-25",
+  "next_publication_date": "2027-02-25",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-25",
         "Statistiken visar bland annat antal företag och arbetsbehov efter driftsinriktning per län och produktionsområde."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0105&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

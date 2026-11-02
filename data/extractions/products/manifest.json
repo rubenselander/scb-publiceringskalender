@@ -897,8 +897,8 @@
       "error": null
     },
     "JO2101": {
-      "status": "fresh",
-      "error": null
+      "status": "retained",
+      "error": "GET https://www.scb.se/JO2101: HTTP 404, 11530 bytes"
     },
     "JO9999": {
       "status": "failed",

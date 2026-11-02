@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0124",
     "response_url": "https://www.scb.se/UF0124",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/fritidshem-elever-och-personal-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:26.549655Z",
+    "fetched_at": "2026-11-02T03:32:06.298499Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "68ef56fe55bed582f9d23f44016fa63412710a5173d2c036acd4d02d850edefe",
+    "content_sha256": "d2fa9ab1bb7566461ea7d177926ee559caf598eb427738469dc24daf3d6f5960",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0124",
   "summary": "Statistiken visar bland annat antal fritidshem, gruppstorlek, personaltäthet och personalens utbildning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-01",
+  "next_publication_date": "2027-04-01",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-01",
         "Statistiken visar bland annat antal fritidshem, gruppstorlek, personaltäthet och personalens utbildning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0124&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0124&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

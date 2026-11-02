@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0601",
     "response_url": "https://www.scb.se/TK0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/bantrafik/",
-    "fetched_at": "2026-10-26T03:45:04.307220Z",
+    "fetched_at": "2026-11-02T03:31:45.546192Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b5bd3b5c9f88b525eb87f853a3445c90357875ec545082b7b4d465edbeafe808",
+    "content_sha256": "2ebc48132bb43e6cd383a363380f0766c559dd6e5b5497a0b48a4bc0c61d197e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0601",
   "summary": "Statistiken beskriver utvecklingen för järnvägar, spårvägar och tunnelbana.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-17",
+  "next_publication_date": "2027-06-17",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-17",
         "Statistiken beskriver utvecklingen för järnvägar, spårvägar och tunnelbana."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0601&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0601&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

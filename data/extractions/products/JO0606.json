@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0606",
     "response_url": "https://www.scb.se/JO0606",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-slattervall/",
-    "fetched_at": "2026-10-26T03:42:48.467234Z",
+    "fetched_at": "2026-11-02T03:29:19.659830Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "352ebf1d172becc187b6c036a0f56414916e83967508dbf0ce2ca592678f756e",
+    "content_sha256": "1147926f4bc05fe77ead8827bab10db596a2c0671d9dce29a2b08759e5fcc3b3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0606",
   "summary": "Statistiken visar bland annat hektarskörd, areal och totalskörd per län,  produktionsområde och riket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-15",
+  "next_publication_date": "2027-04-15",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -48,10 +48,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-15",
         "Statistiken visar bland annat hektarskörd, areal och totalskörd per län,  produktionsområde och riket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0606&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0606&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

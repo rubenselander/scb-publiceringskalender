@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0210",
     "response_url": "https://www.scb.se/UF0210",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/ekonomisk-statistik-for-universitet-och-hogskolor/",
-    "fetched_at": "2026-10-26T03:45:40.215362Z",
+    "fetched_at": "2026-11-02T03:32:21.294275Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "66ae52d7bd06e81ff229f44e5f8dcbcdb100c60ac91545f8de1edceb6d2a9c33",
+    "content_sha256": "bfc247711b591f6c1608d8642c3b3964f2f48ab24576127c7b37c20ef34cd026",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0210",
   "summary": "Statistiken visar insatta ekonomiska resurser för högskolans verksamhet och beskriver universitetens och högskolornas ekonomi.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-15",
+  "next_publication_date": "2027-04-15",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-15",
         "Statistiken visar insatta ekonomiska resurser för högskolans verksamhet och beskriver universitetens och högskolornas ekonomi."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0210&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0210&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

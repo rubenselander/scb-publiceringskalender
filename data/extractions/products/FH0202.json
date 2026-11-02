@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FH0202",
     "response_url": "https://www.scb.se/FH0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/smittskydd/anmalningspliktiga-smittsamma-sjukdomar/",
-    "fetched_at": "2026-10-26T03:42:01.358100Z",
+    "fetched_at": "2026-11-02T03:28:31.488522Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "fbadfc132c6f5a4d4be450908b6a022d381071790178b9778bbf1d0c5fd61bcc",
+    "content_sha256": "ce676bfda265fa7cecd5b0476cf63aa4b7163688131f0454fbe257c9d75223a5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fh0202",
   "summary": "Statistiken redogör för det epidemiologiska läget i Sverige gällande anmälningspliktiga smittsamma sjukdomar. Syftet med statistiken är att öka förståelsen för och ge en överblick över sjukdomarnas omfattning, dess riskgrupper, geografiska spridning och variationer över tid.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": {
     "label": "Folkhälsomyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Statistiken redogör för det epidemiologiska läget i Sverige gällande anmälningspliktiga smittsamma sjukdomar. Syftet med statistiken är att öka förståelsen för och ge en överblick över sjukdomarnas omfattning, dess riskgrupper, geografiska spridning och variationer över tid."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FH0202&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FH0202&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0105",
     "response_url": "https://www.scb.se/EN0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/arlig-energistatistik-el-gas-och-fjarrvarme/",
-    "fetched_at": "2026-10-26T03:41:45.384022Z",
+    "fetched_at": "2026-11-02T03:28:15.223842Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "79a57de9d918845402b040c97cb19474afbfd8e17a0208baa9fd0d1116435a0d",
+    "content_sha256": "60abacc2c30325579d7b799624d27194ed2c5b5865dceb39a0f7b4c1c0215d7c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0105",
   "summary": "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-07",
+  "next_publication_date": "2027-10-07",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-07",
         "Statistiken visar bland annat tillförsel och användning av el fördelat på produktionsslag och typ av användning, bränsleförbrukning för elproduktion efter produktionsslag och bränsletyp samt elanvändningen efter användningsområde (bransch)."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0105&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

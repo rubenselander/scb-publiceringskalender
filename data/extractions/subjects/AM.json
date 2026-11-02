@@ -9,10 +9,10 @@
     "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
     "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/",
-    "fetched_at": "2026-10-26T03:46:11.435939Z",
+    "fetched_at": "2026-11-02T03:32:55.365215Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "469fe6ac5b0180a15f9773c1f1ce2771e80f6216c7832cf849881739252f900a",
+    "content_sha256": "b9bfc2e966a0c19866a92fe689281f06a16651e457544e90a68db9ea3686d374",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -261,6 +261,30 @@
         },
         {
           "link": {
+            "text": "Lönestrukturstatistik för kommuner",
+            "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning för anställda inom kommuner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för statlig och privat sektor samt regioner.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+          "tags_text": "Lön, Yrke"
+        },
+        {
+          "link": {
+            "text": "Lönestrukturstatistik för regioner",
+            "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/",
+            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/"
+          },
+          "product_code": null,
+          "product_code_source": "unknown",
+          "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom regioner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik finns även för kommuner, statlig samt privat sektor.",
+          "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
+          "tags_text": "Lön, Yrke"
+        },
+        {
+          "link": {
             "text": "Lönestrukturstatistik, hela ekonomin",
             "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/",
             "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/"
@@ -273,18 +297,6 @@
         },
         {
           "link": {
-            "text": "Lönestrukturstatistik, kommuner",
-            "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/",
-            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-kommuner/"
-          },
-          "product_code": null,
-          "product_code_source": "unknown",
-          "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning för anställda inom kommuner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik redovisas även för statlig och privat sektor samt regioner.",
-          "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
-          "tags_text": "Lön, Yrke"
-        },
-        {
-          "link": {
             "text": "Lönestrukturstatistik, privat sektor (SLP)",
             "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/",
             "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/"
@@ -292,18 +304,6 @@
           "product_code": null,
           "product_code_source": "unknown",
           "summary": "Statistiken visar lönenivå, lönestruktur och löneutveckling inom privat sektor. Statistiken redovisas per kön, ålder, region, näringsgren, yrke och utbildning uppdelad på arbetare respektive tjänstemän. Motsvarande lönestatistik redovisas även för offentlig sektor.",
-          "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
-          "tags_text": "Lön, Yrke"
-        },
-        {
-          "link": {
-            "text": "Lönestrukturstatistik, regioner",
-            "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/",
-            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-regioner/"
-          },
-          "product_code": null,
-          "product_code_source": "unknown",
-          "summary": "Statistiken visar lönenivå, lönestruktur, löneutveckling och sysselsättning inom regioner per kön, ålder, region, näringsgren, yrke, utbildning och tjänstgöringens omfattning. Motsvarande lönestatistik finns även för kommuner, statlig samt privat sektor.",
           "responsible_agency_text": "Statistikansvarig myndighet: Medlingsinstitutet",
           "tags_text": "Lön, Yrke"
         },

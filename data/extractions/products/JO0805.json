@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0805",
     "response_url": "https://www.scb.se/JO0805",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/vegetations--och-standortsforhallanden/",
-    "fetched_at": "2026-10-26T03:42:53.623121Z",
+    "fetched_at": "2026-11-02T03:29:25.120608Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0cf3c52cd2449c4f6a5ad0e8c49439aa2cf8e7ab7ff82c5321b88b772d24b47a",
+    "content_sha256": "fa4a5f79e0b066794d3f026620040b9ae33d408ff5576019522f40cbe28f6bf9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0805",
   "summary": "Statistiken visar bland annat produktiv skogsmarksareal fördelad på boniteter inom ägargrupper samt uppgifter om fält- och bottenskiktsvegetation samt bär.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Sveriges lantbruksuniversitet (SLU)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar bland annat produktiv skogsmarksareal fördelad på boniteter inom ägargrupper samt uppgifter om fält- och bottenskiktsvegetation samt bär."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0805&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0805&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

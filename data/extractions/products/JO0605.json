@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0605",
     "response_url": "https://www.scb.se/JO0605",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skordeprognos-for-spannmal-och-oljevaxter/",
-    "fetched_at": "2026-10-26T03:42:48.000378Z",
+    "fetched_at": "2026-11-02T03:29:19.121480Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e52ef69524d243ed7282ee86375624f4ac85ec74caf15c15eb66793bb213b7f1",
+    "content_sha256": "7e5cb28e5cf71a07070cecfca68138a73f948ab20df50f12432781b390953e87",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0605",
   "summary": "Statistiken visar prognoser för hektarskörd, areal och total skörd för vete, råg, korn och havre för riket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-10",
+  "next_publication_date": "2027-08-10",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-10",
         "Statistiken visar prognoser för hektarskörd, areal och total skörd för vete, råg, korn och havre för riket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-10",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0605&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0605&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

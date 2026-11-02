@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1901",
     "response_url": "https://www.scb.se/JO1901",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/allman-jordbruksstatistik/",
-    "fetched_at": "2026-10-26T03:43:04.162922Z",
+    "fetched_at": "2026-11-02T03:29:33.995200Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f6c5b4c1be227f8a561298b1094c549115a206c008aba66d91bbe960c919ab3c",
+    "content_sha256": "8c0201a745c26c64f2d92bf4d18c3844150a54790cd2fc6b0282f1b228094290",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1901",
   "summary": "Den jordbruksstatistiska sammanställningen är kunskapskällan för dig som vill följa utvecklingen inom jordbruks- och livsmedelsområdet.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-29",
+  "next_publication_date": "2027-06-29",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-29",
         "Den jordbruksstatistiska sammanställningen är kunskapskällan för dig som vill följa utvecklingen inom jordbruks- och livsmedelsområdet."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1901&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1901&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

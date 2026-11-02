@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0401",
     "response_url": "https://www.scb.se/JO0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/sysselsattning-i-jordbruket/sysselsattning-i-jordbruket/",
-    "fetched_at": "2026-10-26T03:42:44.147623Z",
+    "fetched_at": "2026-11-02T03:29:15.468082Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1db38cafb95163dd4d3ec75273db64830aca90cd14a1bb3e6e57bc7ec2b141fe",
+    "content_sha256": "01b28f9a42844195f5fc9b6e7754ce75ada07bc85a9c1c4119b57aef0aedf1cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0401",
   "summary": "Statistiken visar kön, ålder och antal arbetstimmar i jordbruket för företagaren och dennes maka/make, övriga familjemedlemmar och andra stadigvarande eller tillfälligt sysselsatta.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar kön, ålder och antal arbetstimmar i jordbruket för företagaren och dennes maka/make, övriga familjemedlemmar och andra stadigvarande eller tillfälligt sysselsatta."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0401&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

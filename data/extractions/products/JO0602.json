@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0602",
     "response_url": "https://www.scb.se/JO0602",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/normskordar/",
-    "fetched_at": "2026-10-26T03:42:46.051395Z",
+    "fetched_at": "2026-11-02T03:29:17.386690Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3737e755b4adf57347c51ee1b06ffcaf109663672ce0bcd814f7d3134c11b8bb",
+    "content_sha256": "d0f1b97baaf0715cf2899e0b50d425e03140c21fbbffe864ea2bea9f82bcfe58",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0602",
   "summary": "Statistiken visar den skörd som man kan förvänta sig av olika grödor under normala väderförhållanden per skördeområde, län, produktionsområde och riket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-02",
+  "next_publication_date": "2027-06-02",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -46,10 +46,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-02",
         "Statistiken visar den skörd som man kan förvänta sig av olika grödor under normala väderförhållanden per skördeområde, län, produktionsområde och riket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-02",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0602&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0602&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

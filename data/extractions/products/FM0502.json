@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0502",
     "response_url": "https://www.scb.se/FM0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/forsakring/forsakringsforetagens-arsredogorelse/",
-    "fetched_at": "2026-10-26T03:42:06.496735Z",
+    "fetched_at": "2026-11-02T03:28:37.319192Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "82eec8308d8f0f1efb07cc92c0e13d3c422f0c9da61a45917787b4a99f2d9489",
+    "content_sha256": "55764ea6b229b57c77031d82565842529a59da160f0c64f6387fdf6ef028883f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0502",
   "summary": "Statistiken visar resultat- och balansräkning per år samt resultatanalys, det vill säga resultatet uppdelat efter försäkringsgren, för de försäkringsföretag och tjänstepensionsföretag som står under Finansinspektionens tillsyn.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-27",
+  "next_publication_date": "2027-08-27",
   "responsible_agency": {
     "label": "Finansinspektionen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-27",
         "Statistiken visar resultat- och balansräkning per år samt resultatanalys, det vill säga resultatet uppdelat efter försäkringsgren, för de försäkringsföretag och tjänstepensionsföretag som står under Finansinspektionens tillsyn."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0502&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0502&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

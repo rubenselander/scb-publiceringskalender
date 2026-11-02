@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0115",
     "response_url": "https://www.scb.se/UF0115",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/svensk-utbildning-i-utlandet-elever-larare-och-utbildningsresultat/",
-    "fetched_at": "2026-10-26T03:45:22.711391Z",
+    "fetched_at": "2026-11-02T03:32:02.526058Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "67bbacddb6168cb86f6ffef259012ca10b791f76031f36bb5968739e0869f889",
+    "content_sha256": "3cdeee520bdaac0d8045b9c1d605d82a1347893cedbef942671d11339865133f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0115",
   "summary": "Statistiken visar lärare, elever, resultat och kostnader i svenska utlandsskolor inom förskoleklass, grundskola och gymnasieskola, distansundervisning och kompletterande svensk utbildning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-06",
+  "next_publication_date": "2027-10-06",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-06",
         "Statistiken visar lärare, elever, resultat och kostnader i svenska utlandsskolor inom förskoleklass, grundskola och gymnasieskola, distansundervisning och kompletterande svensk utbildning."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-06",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0115&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0115&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

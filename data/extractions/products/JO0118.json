@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0118",
     "response_url": "https://www.scb.se/JO0118",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/tradgardsodlingens-vaxthus/",
-    "fetched_at": "2026-10-26T03:42:35.518144Z",
+    "fetched_at": "2026-11-02T03:29:06.894670Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3356a113ed092af8b28afc5d5190c394b6c7428404c3dfc42dc3841bb6bd4f45",
+    "content_sha256": "9a6bd154385e5bd9f8550af85a883f31a6b288863d374eb3da812d0107b31d17",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0118",
   "summary": "Statistiken beskriver fysiska och odlingsmässiga aspekter av den svenska yrkesmässiga trädgårdsodlingens växthus som växthusytor, växthusens ålder, energianvändning, inventarier och användning av bekämpningsmedel.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-26",
+  "next_publication_date": "2027-08-26",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-26",
         "Statistiken beskriver fysiska och odlingsmässiga aspekter av den svenska yrkesmässiga trädgårdsodlingens växthus som växthusytor, växthusens ålder, energianvändning, inventarier och användning av bekämpningsmedel."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0118&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0118&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

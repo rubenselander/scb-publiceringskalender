@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0901",
     "response_url": "https://www.scb.se/TK0901",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/elektronisk-kommunikation/televerksamhet/",
-    "fetched_at": "2026-10-26T03:45:09.299712Z",
+    "fetched_at": "2026-11-02T03:31:49.689224Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3d1daa4778ecc865e3bd45a422ffd117281828eb8475f53b31443f36c2cd9e51",
+    "content_sha256": "8ad0035578ed3fe992c935c4fb3a937d12fd2d1320a15aca6f939ccb7eb59196",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0901",
   "summary": "Statistiken beskriver operatörer, tjänster, volymer, servicenivåer, användning med mera för telemarknaden och dess utveckling som underlag för att analysera problem, åtgärder och dess effekter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-01",
+  "next_publication_date": "2027-09-01",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-01",
         "Statistiken beskriver operatörer, tjänster, volymer, servicenivåer, användning med mera för telemarknaden och dess utveckling som underlag för att analysera problem, åtgärder och dess effekter."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0901&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0901&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

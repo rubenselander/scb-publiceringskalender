@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1203",
     "response_url": "https://www.scb.se/TK1203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/kollektivtrafik-och-samhallsbetalda-resor/regional-linjetrafik/",
-    "fetched_at": "2026-10-26T03:45:14.760478Z",
+    "fetched_at": "2026-11-02T03:31:54.624534Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a396a35bc489ecd634be214d8f922e632f49bafeb7ce528177d89b00c67a32a5",
+    "content_sha256": "7fea82afc8766c1a98d01dfdae4fcfa75d7a06812b4f39e362791e8810fd29ed",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk1203",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-24",
+  "next_publication_date": "2027-06-24",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,9 +43,15 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad"
+        "Nästa publicering: 2027-06-24"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-24",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK1203&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK1203&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

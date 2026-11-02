@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0302",
     "response_url": "https://www.scb.se/EN0302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/prisutvecklingen-inom-energiomradet/gaspriser-och-gasavtal/",
-    "fetched_at": "2026-10-26T03:41:57.112529Z",
+    "fetched_at": "2026-11-02T03:28:26.893726Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "973dd9b09bfbf8af697ea20a73218e5892de294bb177738641292e84b5f699f6",
+    "content_sha256": "93fe28cef9e66ef226ca1ef42c202d7b735cd9c3a5c87b8cab13fdf2a5b3f16d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0302",
   "summary": "Statistiken visar vad hushåll och industrier i genomsnitt betalar per kalenderhalvår och förbrukarkategori för naturgas, inklusive nätdistribution, avgifter och skatter. Statistiken publiceras två gånger per år. Från och med år 2007 är priserna beräknade som genomsnittliga priser per halvår. Vidare redovisas byten av naturgasleverantör årsvis.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-31",
+  "next_publication_date": "2027-03-31",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -47,10 +47,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-31",
         "Statistiken visar vad hushåll och industrier i genomsnitt betalar per kalenderhalvår och förbrukarkategori för naturgas, inklusive nätdistribution, avgifter och skatter. Statistiken publiceras två gånger per år. Från och med år 2007 är priserna beräknade som genomsnittliga priser per halvår. Vidare redovisas byten av naturgasleverantör årsvis."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0302&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0302&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

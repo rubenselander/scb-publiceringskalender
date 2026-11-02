@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0210",
     "response_url": "https://www.scb.se/AM0210",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/",
-    "fetched_at": "2026-10-26T03:41:27.427540Z",
+    "fetched_at": "2026-11-02T03:27:55.701306Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f9802477eac017bfd8023acb5dce6b31cd0e020a97c8042ed548ab29a496f55f",
+    "content_sha256": "820084ac6be685a93b350e3cafa980c79e2d97ea04be3856e25f588a6cbc44e5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0210",
   "summary": "BAS, Befolkningens arbetsmarknadsstatus är en statistikprodukt som med hjälp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet är att beskriva arbetsmarknadsläget samt utvecklingen över tid. Statistiken redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen i åldern 15–74 år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": null,
   "notices": [
     "BAS beskriver befolkningen utifrån sex arbetsmarknadsstatusar (sysselsatt, arbetslös, studerande, pensionär, sjuk och övrig). Det är möjligt att med hjälp av statistiken belysa såväl hela befolkningen som mindre grupper, till exempel för detaljerade åldersgrupper på kommunnivå.",
@@ -39,12 +39,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2026-11-30",
         "BAS, Befolkningens arbetsmarknadsstatus är en statistikprodukt som med hjälp av administrativa data beskriver utbudet av arbetskraft i Sverige. Syftet är att beskriva arbetsmarknadsläget samt utvecklingen över tid. Statistiken redovisar bland annat antalet sysselsatta, arbetslösa och personer utanför arbetskraften för den folkbokförda befolkningen i åldern 15–74 år."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0210&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0210&period=Forward1Year"
         }
@@ -94,8 +94,8 @@
       ],
       "paragraphs": [
         "Antal sysselsatta, 15-74 år",
-        "5 508 391",
-        "Referenstid: juli 2026"
+        "5 467 704",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -115,7 +115,7 @@
         }
       ],
       "paragraphs": [
-        "0,7 %",
+        "0,8 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -137,8 +137,8 @@
       ],
       "paragraphs": [
         "Sysselsättningsgrad, 20-65 år",
-        "81,9 %",
-        "Referenstid: juli 2026"
+        "81,6 %",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -158,7 +158,7 @@
         }
       ],
       "paragraphs": [
-        "0,3 %-enheter",
+        "0,4 %-enheter",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -180,8 +180,8 @@
       ],
       "paragraphs": [
         "Arbetslöshet, 20-65 år",
-        "5,0 %",
-        "Referenstid: juli 2026"
+        "5,2 %",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -222,14 +222,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-29",
-        "Antalet sysselsatta i åldern 15 till 74 år ökade med 0,7 procent i juli jämfört med motsvarande månad förra året. Under samma period minskade arbetslösheten till 5,0 procent för personer 20 till 65 år."
+        "2026-10-27",
+        "Antalet sysselsatta i åldern 15 till 74 år ökade med 0,8 procent i augusti jämfört med motsvarande månad förra året. Under samma period minskade arbetslösheten till 5,2 procent för personer 20 till 65 år."
       ],
       "links": [
         {
-          "text": "Sysselsättningen fortsätter att öka i juli 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-juli-2026/"
+          "text": "12 månader med ökat antal sysselsatta i augusti 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/befolkningens-arbetsmarknadsstatus/pong/statistiknyhet/befolkningens-arbetsmarknadsstatus-augusti-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -309,7 +309,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusM"
         },
@@ -324,22 +324,22 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusAr"
         },
         {
-          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFoT1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFoT1"
         },
         {
-          "text": "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFAT12",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatFAT12"
         },
         {
-          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatHuv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatHuv"
         },
         {
-          "text": "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M07",
+          "text": "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusUtbM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStatusUtbM"
         }
@@ -354,8 +354,8 @@
           "Datum"
         ],
         [
-          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Arbetsmarknadsstatus efter region, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
@@ -366,20 +366,20 @@
           "2026-05-29"
         ],
         [
-          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Arbetsmarknadsstatus efter region, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Arbetsmarknadsstatus efter region, huvudsaklig inkomstkälla, arbetsrelaterad inkomstnivå, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M07",
-          "2026-09-29"
+          "Arbetsmarknadsstatus efter region, kön, ålder, utbildningsnivå och födelseregion. Preliminär statistik. Månad  2020M01 - 2026M08",
+          "2026-10-27"
         ]
       ]
     },
@@ -615,7 +615,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNMNN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNMNN"
         },
@@ -630,7 +630,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbStDoNArNN"
         },
         {
-          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningM"
         },
@@ -645,7 +645,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YrkStallningAr"
         },
         {
-          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
+          "text": "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SektorSyssM"
         },
@@ -670,8 +670,8 @@
           "Datum"
         ],
         [
-          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Sysselsatta 15–74 år efter region, kön, näringsgren (SNI 2007) och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
@@ -682,8 +682,8 @@
           "2026-06-12"
         ],
         [
-          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Sysselsatta 15–74 år efter region, yrkesställning, kön, ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
@@ -694,8 +694,8 @@
           "2026-05-29"
         ],
         [
-          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M07",
-          "2026-09-29"
+          "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Månad 2020M01 - 2026M08",
+          "2026-10-27"
         ],
         [
           "Sysselsatta 15–74 år efter region, sektor, kön,  ålder och födelseregion. Preliminär statistik. Kvartal 2020K1 - 2026K2",
@@ -1098,12 +1098,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M07",
+          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210A",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210A"
         },
         {
-          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M07",
+          "text": "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210C",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0210C"
         }
@@ -1118,12 +1118,12 @@
           "Datum"
         ],
         [
-          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M07",
-          "2026-09-29"
+          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Antal sysselsatta efter region. Preliminär statistik.  Månad 2021M01 - 2026M08",
+          "2026-10-27"
         ],
         [
-          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M07",
-          "2026-09-29"
+          "Nyckeltal från Befolkningens arbetsmarknadsstatus (BAS). Sysselsättningsgrad och arbetslöshet efter region. Preliminär statistik.  Månad 2024M01 - 2026M08",
+          "2026-10-27"
         ]
       ]
     },

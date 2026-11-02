@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0808",
     "response_url": "https://www.scb.se/TK0808",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/sjofart/svenska-och-utlandska-fartyg-i-svensk-regi/",
-    "fetched_at": "2026-10-26T03:45:08.381085Z",
+    "fetched_at": "2026-11-02T03:31:48.831019Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b88b2b2d715e15c949410538e478c6d49bfce15ed1f64bc66cfc33311d7c4578",
+    "content_sha256": "e5377200d4e355c809b53c9c807500465e63c18eaeeab86181b96e37b9adb174",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0808",
   "summary": "Statistiken beskriver hur den svenska flottan av handelsfartyg och andra större fartyg utvecklas och hur fartygen används.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-05",
+  "next_publication_date": "2027-05-05",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-05",
         "Statistiken beskriver hur den svenska flottan av handelsfartyg och andra större fartyg utvecklas och hur fartygen används."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-05",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0808&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0808&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

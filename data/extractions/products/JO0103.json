@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0103",
     "response_url": "https://www.scb.se/JO0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/lantbrukets-djur/",
-    "fetched_at": "2026-10-26T03:42:26.725635Z",
+    "fetched_at": "2026-11-02T03:28:58.731053Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "72ca581cd3aca076d5dddb11627d8fef96cd678032d6d949435046164f949e3d",
+    "content_sha256": "aaee3ea5fa19e4e56dfa129a48985e9c5400f93cfe60c67b7699db8f85ce6f57",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0103",
   "summary": "Statistiken visar bland annat antal nötkreatur, mjölkkor, får, svin och höns, kycklingar och kalkoner per län och produktionsområde. Även antal företag per djurslag, län och produktionsområde redovisas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-28",
+  "next_publication_date": "2027-01-28",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-28",
         "Statistiken visar bland annat antal nötkreatur, mjölkkor, får, svin och höns, kycklingar och kalkoner per län och produktionsområde. Även antal företag per djurslag, län och produktionsområde redovisas."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0103&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0103&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

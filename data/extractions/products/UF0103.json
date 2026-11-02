@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0103",
     "response_url": "https://www.scb.se/UF0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/gymnasieskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:16.548558Z",
+    "fetched_at": "2026-11-02T03:31:56.668607Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0a2bb2ef442d3aaa8c454e0db9d1cc81432825161d4686a2455b72df040b39f0",
+    "content_sha256": "baa7fe563eb16206a607fa945eca33a244bb7b1888e9688341b4729df5f87000",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0103",
   "summary": "Statistiken visar antal elever per program och inriktning i gymnasieskolan  efter kön, årskurs, huvudman, svensk/utländsk bakgrund och föräldrars utbildningsnivå. Studieflöden och programbyten redovisas också.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2027-03-11",
+  "next_publication_date": "2027-03-11",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2027-03-11",
         "Statistiken visar antal elever per program och inriktning i gymnasieskolan  efter kön, årskurs, huvudman, svensk/utländsk bakgrund och föräldrars utbildningsnivå. Studieflöden och programbyten redovisas också."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2027-03-11",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0103&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0103&period=Forward1Year"
         }

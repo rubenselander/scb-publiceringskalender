@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV2001",
     "response_url": "https://www.scb.se/NV2001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/utrikeshandel/utrikeshandel-ovrigt/",
-    "fetched_at": "2026-10-26T03:44:13.502219Z",
+    "fetched_at": "2026-11-02T03:30:50.343584Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "447a5611bc46be6afec7da4429a277fe759923345dcbd07d5815294bea3f6082",
+    "content_sha256": "d6a5ffdc2921bbc25257d4f77e5081e507a4f3160a0c8a9e0c5fbbce2dbdbd5b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,14 +21,15 @@
   "short_address": "https://www.scb.se/nv2001",
   "summary": "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
   "responsible_agency": null,
   "notices": [
     "TIC (Trade in goods by invoicing currency) visar Sveriges varuhandel med länder utanför EU, fördelad på faktureringsvalutor. Uppgifterna som används i TIC hämtas från de import- och exportdeklarationer som företagen lämnar till Tullverket. Statistiken publicerades för första gången den 21 oktober 2026, både i tabellform och som en statistiknyhet. Dessa finns att ta del av längre ner på sidan.  Statistiken kommer framöver att publiceras en gång per år under våren.",
     "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på denna sida. Tabellerna finns under avsnittet Tabeller i Statistikdatabasen längre ner. Tabellerna, som är under utveckling, innehåller data fr.o.m. januari 2026. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på produktsidan för Utrikeshandel med varor är de underlag som används under tröskeln. I den nya importtabellen används data från det mikrodatautbyte av införseldata (MDE) som sker mellan medlemsländerna. Genom att använda MDE-data under tröskeln kan fördelningen av handeln på varukoder och länder under tröskeln fördelas bättre än i nuvarande metod. I den nya exporttabellen används istället data från VIES (VAT Information Exchange System) under tröskeln för en bättre landfördelning jämfört med dagens metod. Tanken är att de nya tabellerna ska publiceras med data för hela år 2026 och att de sedan, om inget oförutsett inträffar, ska ersätta de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabellerna fr.o.m. publiceringen av 2027 års data. Ansatsen görs i ett första steg i ett kvalitetshöjande syfte. På längre sikt är tanken att uppgiftslämnarbördan för införselföretagen ska kunna minska genom att tröskelvärdet för införsel höjs samtidigt som MDE-data används i större utsträckning.",
-    "STEC (Service Trade by Enterprise Characteristics) och TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat:",
-    "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat International trade in goods by enterprise characteristic - Statistics Explained - Eurostat",
+    "Analys MDE-VIES under tröskeln (pdf)",
+    "STEC (Service Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med tjänster med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat: Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat",
+    "TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med varor med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat: International trade in goods by enterprise characteristics - Statistics Explained - Eurostat",
     "Utrikeshandel med varor Utrikeshandel med tjänster"
   ],
   "tags": [],
@@ -42,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2026-11-27",
         "Statistiken som visas här är ett komplement till det som publiceras löpande om Sveriges utrikeshandel med varor och tjänster. Syftet är att ge en fördjupad bild av de underlag som tas fram och löpande publiceras om utrikeshandeln."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2026-11-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV2001&period=Forward1Year"
         }
@@ -89,9 +90,16 @@
         }
       ],
       "paragraphs": [
-        "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på denna sida. Tabellerna finns under avsnittet Tabeller i Statistikdatabasen längre ner. Tabellerna, som är under utveckling, innehåller data fr.o.m. januari 2026. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på produktsidan för Utrikeshandel med varor är de underlag som används under tröskeln. I den nya importtabellen används data från det mikrodatautbyte av införseldata (MDE) som sker mellan medlemsländerna. Genom att använda MDE-data under tröskeln kan fördelningen av handeln på varukoder och länder under tröskeln fördelas bättre än i nuvarande metod. I den nya exporttabellen används istället data från VIES (VAT Information Exchange System) under tröskeln för en bättre landfördelning jämfört med dagens metod. Tanken är att de nya tabellerna ska publiceras med data för hela år 2026 och att de sedan, om inget oförutsett inträffar, ska ersätta de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabellerna fr.o.m. publiceringen av 2027 års data. Ansatsen görs i ett första steg i ett kvalitetshöjande syfte. På längre sikt är tanken att uppgiftslämnarbördan för införselföretagen ska kunna minska genom att tröskelvärdet för införsel höjs samtidigt som MDE-data används i större utsträckning."
+        "Med start fr.o.m. den 30 september 2026 publiceras två nya tabeller avseende export respektive import av varor på denna sida. Tabellerna finns under avsnittet Tabeller i Statistikdatabasen längre ner. Tabellerna, som är under utveckling, innehåller data fr.o.m. januari 2026. Det som skiljer dessa tabeller från de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabeller som publiceras månadsvis på produktsidan för Utrikeshandel med varor är de underlag som används under tröskeln. I den nya importtabellen används data från det mikrodatautbyte av införseldata (MDE) som sker mellan medlemsländerna. Genom att använda MDE-data under tröskeln kan fördelningen av handeln på varukoder och länder under tröskeln fördelas bättre än i nuvarande metod. I den nya exporttabellen används istället data från VIES (VAT Information Exchange System) under tröskeln för en bättre landfördelning jämfört med dagens metod. Tanken är att de nya tabellerna ska publiceras med data för hela år 2026 och att de sedan, om inget oförutsett inträffar, ska ersätta de ordinarie bortfallsjusterade (och sekretessrensade) export- och importtabellerna fr.o.m. publiceringen av 2027 års data. Ansatsen görs i ett första steg i ett kvalitetshöjande syfte. På längre sikt är tanken att uppgiftslämnarbördan för införselföretagen ska kunna minska genom att tröskelvärdet för införsel höjs samtidigt som MDE-data används i större utsträckning.",
+        "Analys MDE-VIES under tröskeln (pdf)"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Analys MDE-VIES under tröskeln (pdf)",
+          "href": "/contentassets/b42687f289e141afa743fa00bf3ffdf6/analys_mde-vies_under_troskeln.pdf",
+          "url": "https://www.scb.se/contentassets/b42687f289e141afa743fa00bf3ffdf6/analys_mde-vies_under_troskeln.pdf"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -103,25 +111,45 @@
           "anchor": "h1"
         },
         {
-          "text": "STEC och TEC",
+          "text": "STEC",
           "level": 3,
           "anchor": null
         }
       ],
       "paragraphs": [
-        "STEC (Service Trade by Enterprise Characteristics) och TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat:",
-        "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat International trade in goods by enterprise characteristic - Statistics Explained - Eurostat"
+        "STEC (Service Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med tjänster med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat: Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat"
       ],
       "links": [
         {
           "text": "Services trade by enterprise characteristics - STEC - Statistics Explained - Eurostat",
           "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Services_trade_by_enterprise_characteristics_-_STEC",
           "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Services_trade_by_enterprise_characteristics_-_STEC"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Utrikeshandel, övrigt",
+          "level": 1,
+          "anchor": "h1"
         },
         {
-          "text": "International trade in goods by enterprise characteristic - Statistics Explained - Eurostat",
-          "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristic#Trade_by_enterprise_ownership",
-          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristic#Trade_by_enterprise_ownership"
+          "text": "TEC",
+          "level": 3,
+          "anchor": null
+        }
+      ],
+      "paragraphs": [
+        "TEC (Trade by Enterprise Characteristics) kopplar samman statistik om utrikeshandel med varor med information om företagens egenskaper. Statistiken bygger på data som EU- och EFTA-länderna rapporterar till Eurostat. Läs mer hos Eurostat: International trade in goods by enterprise characteristics - Statistics Explained - Eurostat"
+      ],
+      "links": [
+        {
+          "text": "International trade in goods by enterprise characteristics - Statistics Explained - Eurostat",
+          "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristics",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_enterprise_characteristics"
         }
       ],
       "table_headers": [],
@@ -233,12 +261,12 @@
         }
       ],
       "paragraphs": [
-        "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M07",
-        "2026-09-30"
+        "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M08",
+        "2026-10-27"
       ],
       "links": [
         {
-          "text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M07",
+          "text": "Varuexport till samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha VIES. Månad 2026M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEExpTotalKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEExpTotalKNMan"
         }
@@ -260,12 +288,12 @@
         }
       ],
       "paragraphs": [
-        "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M07",
-        "2026-09-30"
+        "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M08",
+        "2026-10-27"
       ],
       "links": [
         {
-          "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M07",
+          "text": "Varuimport från samtliga länder efter varugrupp KN 2,4,6,8-nivå och handelspartner, sekretessrensad, bortfallsjusterat under tröskeln mha MDE. Månad 2026M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MDEImpTotalKNMan"
         }

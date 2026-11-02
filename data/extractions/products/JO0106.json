@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0106",
     "response_url": "https://www.scb.se/JO0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/foretag-och-foretagare-i-jordbruket/",
-    "fetched_at": "2026-10-26T03:42:28.273067Z",
+    "fetched_at": "2026-11-02T03:29:00.156387Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f14fd4852e6a75b50f7c8025f2c7810ad3778248da4970a8127837371c3ca5c2",
+    "content_sha256": "7c4f6709874fb07ce0e34ec887c02a569538138010306a80b96dfdc52f59db4b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0106",
   "summary": "Statistiken visar bland annat antal företag med åkermark och med jordbruksmark och areal åkermark och jordbruksmark efter brukningsform och företagskategori per län och produktionsområde.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-11",
+  "next_publication_date": "2027-03-11",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-11",
         "Statistiken visar bland annat antal företag med åkermark och med jordbruksmark och areal åkermark och jordbruksmark efter brukningsform och företagskategori per län och produktionsområde."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0106&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0106&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0211",
     "response_url": "https://www.scb.se/AM0211",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/",
-    "fetched_at": "2026-10-26T03:41:27.886678Z",
+    "fetched_at": "2026-11-02T03:27:56.233676Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "48454307daf2607aacf5018c194e0d512f8eecee19f5c852ddc7032a8d68b04c",
+    "content_sha256": "daa52d21284b91223088ad48c184e4a60868f64f110e93cb7a6cd09c919aa43b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0211",
   "summary": "Statistiken visar nivåer och förändring av de anställningar som finns på arbetsmarknaden samt sjukfrånvaro under sjuklöneperioden. Anställningar baseras på arbetsgivardeklarationer (AGI) från Skatteverket, medan sjukfrånvarostatistiken samlas in från ett urval av arbetsgivare. Statistiken används bland annat för prognoser, analyser och beslutsfattande.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-27",
+  "next_publication_date": "2026-11-27",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-27",
         "Statistiken visar nivåer och förändring av de anställningar som finns på arbetsmarknaden samt sjukfrånvaro under sjuklöneperioden. Anställningar baseras på arbetsgivardeklarationer (AGI) från Skatteverket, medan sjukfrånvarostatistiken samlas in från ett urval av arbetsgivare. Statistiken används bland annat för prognoser, analyser och beslutsfattande."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0211&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0211&period=Forward1Year"
         }
@@ -64,8 +64,8 @@
       ],
       "paragraphs": [
         "Pågående anställningar",
-        "5 702 725",
-        "Referenstid: juli 2026"
+        "5 601 809",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -85,7 +85,7 @@
         }
       ],
       "paragraphs": [
-        "1,1 %",
+        "1,3 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -107,8 +107,8 @@
       ],
       "paragraphs": [
         "Arbetad tid, tusentals timmar",
-        "583 767",
-        "Referenstid: juli 2026"
+        "535 828",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -128,7 +128,7 @@
         }
       ],
       "paragraphs": [
-        "4,5 %",
+        "0,3 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -150,8 +150,8 @@
       ],
       "paragraphs": [
         "Andel sjukfrånvaro",
-        "1,1 %",
-        "Referenstid: juli 2026"
+        "1,5 %",
+        "Referenstid: augusti 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -171,7 +171,7 @@
         }
       ],
       "paragraphs": [
-        "0,0 %-enheter",
+        "-0,1 %-enheter",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -192,14 +192,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-30",
-        "Antalet pågående anställningar ökade med 1,1 procent jämfört med juli föregående år. Under samma period har antalet arbetade timmar ökat med 4,5 procent och uppgick till 584 miljoner timmar. Andel sjukfrånvaro var 1,1 procent. Den totala lönesumman för juli var 212 miljarder kronor."
+        "2026-10-29",
+        "Antalet pågående anställningar ökade med 1,3 procent jämfört med augusti föregående år. Under samma period har antalet arbetade timmar ökat med 0,3 procent och uppgick till 536 miljoner timmar. Andel sjukfrånvaro minskade med 0,1 procentenheter till 1,5 procent. Den totala lönesumman för augusti var 211 miljarder kronor."
       ],
       "links": [
         {
-          "text": "Antalet anställningar ökade i juli",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/pong/statistiknyhet/anstallningar-anst-juli-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/pong/statistiknyhet/anstallningar-anst-juli-2026/"
+          "text": "Ökning av antalet anställningar i augusti",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/pong/statistiknyhet/anstallningar-anst-augusti-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/efterfragan-pa-arbetskraft/anstallningar/pong/statistiknyhet/anstallningar-anst-augusti-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -279,37 +279,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal pågående anställningar efter anställningstid, kön och sektor. Månad 2015M04 - 2026M07",
+          "text": "Antal pågående anställningar efter anställningstid, kön och sektor. Månad 2015M04 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PagaendeAnstAnstTid",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PagaendeAnstAnstTid"
         },
         {
-          "text": "Antal pågående anställningar efter anställningstid, sektor och näringsgren (SNI 2007). Månad 2015M04 - 2026M07",
+          "text": "Antal pågående anställningar efter anställningstid, sektor och näringsgren (SNI 2007). Månad 2015M04 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaring",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaring"
         },
         {
-          "text": "Antal pågående anställningar efter kön, region och sektor. Månad 2020M01 - 2026M07",
+          "text": "Antal pågående anställningar efter kön, region och sektor. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstRegion",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstRegion"
         },
         {
-          "text": "Antal pågående anställningar i näringslivet efter region och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
+          "text": "Antal pågående anställningar i näringslivet efter region och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaringsliv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaringsliv"
         },
         {
-          "text": "Antal pågående anställningar i näringslivet efter anställningstid och näringsgren (SNI 2007). Månad 2015M04 - 2026M07",
+          "text": "Antal pågående anställningar i näringslivet efter anställningstid och näringsgren (SNI 2007). Månad 2015M04 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaringsgN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstNaringsgN"
         },
         {
-          "text": "Antal pågående anställningar efter kön, sektor och näringsgren SNI2007. Månad 2020M01 - 2026M07",
+          "text": "Antal pågående anställningar efter kön, sektor och näringsgren SNI2007. Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstKSN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstKSN"
         },
         {
-          "text": "Antal pågående anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
+          "text": "Antal pågående anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstKN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntPagAnstKN"
         }
@@ -324,32 +324,32 @@
           "Datum"
         ],
         [
-          "Antal pågående anställningar efter anställningstid, kön och sektor. Månad 2015M04 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar efter anställningstid, kön och sektor. Månad 2015M04 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar efter anställningstid, sektor och näringsgren (SNI 2007). Månad 2015M04 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar efter anställningstid, sektor och näringsgren (SNI 2007). Månad 2015M04 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar efter kön, region och sektor. Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar efter kön, region och sektor. Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar i näringslivet efter region och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar i näringslivet efter region och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar i näringslivet efter anställningstid och näringsgren (SNI 2007). Månad 2015M04 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar i näringslivet efter anställningstid och näringsgren (SNI 2007). Månad 2015M04 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar efter kön, sektor och näringsgren SNI2007. Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar efter kön, sektor och näringsgren SNI2007. Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Antal pågående anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Antal pågående anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -393,17 +393,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Sjukfrånvaro under sjuklöneperioden efter sektor och kön.  Månad 2024M01 - 2026M07",
+          "text": "Sjukfrånvaro under sjuklöneperioden efter sektor och kön.  Månad 2024M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrSektKonN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrSektKonN"
         },
         {
-          "text": "Sjukfrånvaro under sjuklöneperioden i näringslivet efter näringsgren (SNI 2007) och kön. Månad 2024M01 - 2026M07",
+          "text": "Sjukfrånvaro under sjuklöneperioden i näringslivet efter näringsgren (SNI 2007) och kön. Månad 2024M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrNaringN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrNaringN"
         },
         {
-          "text": "Sjukfrånvaro under sjuklöneperioden i offentlig förvaltning efter näringsgren (SNI 2007) och kön.  Månad 2024M01 - 2026M07",
+          "text": "Sjukfrånvaro under sjuklöneperioden i offentlig förvaltning efter näringsgren (SNI 2007) och kön.  Månad 2024M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrOffentlNKN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AntErsdgrOffentlNKN"
         }
@@ -418,16 +418,16 @@
           "Datum"
         ],
         [
-          "Sjukfrånvaro under sjuklöneperioden efter sektor och kön.  Månad 2024M01 - 2026M07",
-          "2026-09-30"
+          "Sjukfrånvaro under sjuklöneperioden efter sektor och kön.  Månad 2024M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Sjukfrånvaro under sjuklöneperioden i näringslivet efter näringsgren (SNI 2007) och kön. Månad 2024M01 - 2026M07",
-          "2026-09-30"
+          "Sjukfrånvaro under sjuklöneperioden i näringslivet efter näringsgren (SNI 2007) och kön. Månad 2024M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Sjukfrånvaro under sjuklöneperioden i offentlig förvaltning efter näringsgren (SNI 2007) och kön.  Månad 2024M01 - 2026M07",
-          "2026-09-30"
+          "Sjukfrånvaro under sjuklöneperioden i offentlig förvaltning efter näringsgren (SNI 2007) och kön.  Månad 2024M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -471,7 +471,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007).  Månad 2020M01 - 2026M07",
+          "text": "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007).  Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbTidSektorNaringN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ArbTidSektorNaringN"
         }
@@ -486,8 +486,8 @@
           "Datum"
         ],
         [
-          "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007).  Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Arbetad tid för pågående anställningar efter sektor och näringsgren (SNI 2007).  Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -531,17 +531,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Flöde i anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
+          "text": "Flöde i anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstKonNaring",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstKonNaring"
         },
         {
-          "text": "Flöde i anställningar i näringslivet efter storleksklass och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
+          "text": "Flöde i anställningar i näringslivet efter storleksklass och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstStorlNaring",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstStorlNaring"
         },
         {
-          "text": "Flöde i anställningar efter kön, sektor och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
+          "text": "Flöde i anställningar efter kön, sektor och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstSektNarKon",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FlodeAnstSektNarKon"
         }
@@ -556,16 +556,16 @@
           "Datum"
         ],
         [
-          "Flöde i anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Flöde i anställningar i näringslivet efter kön och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Flöde i anställningar i näringslivet efter storleksklass och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Flöde i anställningar i näringslivet efter storleksklass och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Flöde i anställningar efter kön, sektor och näringsgren (SNI 2007). Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Flöde i anställningar efter kön, sektor och näringsgren (SNI 2007). Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -609,12 +609,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt efter region och sektor.  Månad 2020M01 - 2026M07",
+          "text": "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt efter region och sektor.  Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonForArbSkattSektor",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonForArbSkattSektor"
         },
         {
-          "text": "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt i näringslivet efter region och näringsgren (SNI 2007).  Månad 2020M01 - 2026M07",
+          "text": "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt i näringslivet efter region och näringsgren (SNI 2007).  Månad 2020M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonForArbSkattNaring",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LonForArbSkattNaring"
         }
@@ -629,12 +629,12 @@
           "Datum"
         ],
         [
-          "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt efter region och sektor.  Månad 2020M01 - 2026M07",
-          "2026-10-14"
+          "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt efter region och sektor.  Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt i näringslivet efter region och näringsgren (SNI 2007).  Månad 2020M01 - 2026M07",
-          "2026-09-30"
+          "Lönesummor, förmåner, arbetsgivaravgifter och preliminär A-skatt i näringslivet efter region och näringsgren (SNI 2007).  Månad 2020M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -678,12 +678,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal från Anställningar. Antal pågående anställningar och arbetad tid. Månad 2015M04 - 2026M07",
+          "text": "Nyckeltal från Anställningar. Antal pågående anställningar och arbetad tid. Månad 2015M04 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0211A",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0211A"
         },
         {
-          "text": "Nyckeltal från Anställningar. Andel sjukfrånvaro. Månad 2024M01 - 2026M07",
+          "text": "Nyckeltal från Anställningar. Andel sjukfrånvaro. Månad 2024M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0211B",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTAM0211B"
         }
@@ -698,12 +698,12 @@
           "Datum"
         ],
         [
-          "Nyckeltal från Anställningar. Antal pågående anställningar och arbetad tid. Månad 2015M04 - 2026M07",
-          "2026-09-30"
+          "Nyckeltal från Anställningar. Antal pågående anställningar och arbetad tid. Månad 2015M04 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Nyckeltal från Anställningar. Andel sjukfrånvaro. Månad 2024M01 - 2026M07",
-          "2026-09-30"
+          "Nyckeltal från Anställningar. Andel sjukfrånvaro. Månad 2024M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },

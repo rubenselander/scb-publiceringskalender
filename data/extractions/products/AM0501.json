@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0501",
     "response_url": "https://www.scb.se/AM0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetsmiljo/arbetsmiljoundersokningen/",
-    "fetched_at": "2026-10-26T03:41:29.861751Z",
+    "fetched_at": "2026-11-02T03:27:58.595122Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1f8501d9ed5191ff38dc3644a040b25c15ec0cae39067a1e215caaf7030a10a6",
+    "content_sha256": "4f2b9eee7a9574a0648f64d6f40713df6157228ed040b9d24d785d72d86e5e19",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0501",
   "summary": "Statistiken visar de fysiska och psykosociala arbetsmiljöförhållanden bland sysselsatta i befolkningen. Resultatet redovisas bland annat per yrke, näringsgren, inkomst, utbildning, region, ålder och kön.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-14",
+  "next_publication_date": "2027-04-14",
   "responsible_agency": {
     "label": "Arbetsmiljöverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-14",
         "Statistiken visar de fysiska och psykosociala arbetsmiljöförhållanden bland sysselsatta i befolkningen. Resultatet redovisas bland annat per yrke, näringsgren, inkomst, utbildning, region, ålder och kön."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0501&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

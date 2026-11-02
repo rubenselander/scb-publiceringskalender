@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0401",
     "response_url": "https://www.scb.se/FM0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/finansiella-foretag-utom-forsakring/banker-och-kreditmarknadsforetag-tillgangar-och-skulder/",
-    "fetched_at": "2026-10-26T03:42:04.422675Z",
+    "fetched_at": "2026-11-02T03:28:34.658934Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bea00b6df48a7f35d2c30d095ca7da98d1792f8fab8735c3cc21d4dd0a12fbd7",
+    "content_sha256": "5aadaa2d77f8030514d8be36288cff499e146507d502b5f0248a478f6b4ec619",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0401",
   "summary": "Statistiken är en snabbstatistik och visar till exempel in- och utlåning till och från olika sektorer. Statistiken visar de svenska monetära finansinstitutens, MFI (inklusive utländska filialer) tillgångar och skulder fördelade på olika motparter och typer av finansobjekt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-27",
-  "next_publication_date": "2026-10-27",
+  "next_publication_text": "Nästa publicering: 2026-11-26",
+  "next_publication_date": "2026-11-26",
   "responsible_agency": {
     "label": "Finansinspektionen",
     "link": {
@@ -45,12 +45,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-27",
+        "Nästa publicering: 2026-11-26",
         "Statistiken är en snabbstatistik och visar till exempel in- och utlåning till och från olika sektorer. Statistiken visar de svenska monetära finansinstitutens, MFI (inklusive utländska filialer) tillgångar och skulder fördelade på olika motparter och typer av finansobjekt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-27",
+          "text": "Nästa publicering: 2026-11-26",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0401&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0401&period=Forward1Year"
         }
@@ -134,7 +134,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Monetära finansinstitutens tillgångar och skulder efter institut, kontopost och valuta.  Månad 1998M01 - 2026M08",
+          "text": "Monetära finansinstitutens tillgångar och skulder efter institut, kontopost och valuta.  Månad 1998M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MFIM1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MFIM1"
         }
@@ -149,8 +149,8 @@
           "Datum"
         ],
         [
-          "Monetära finansinstitutens tillgångar och skulder efter institut, kontopost och valuta.  Månad 1998M01 - 2026M08",
-          "2026-09-25"
+          "Monetära finansinstitutens tillgångar och skulder efter institut, kontopost och valuta.  Månad 1998M01 - 2026M09",
+          "2026-10-27"
         ]
       ]
     },

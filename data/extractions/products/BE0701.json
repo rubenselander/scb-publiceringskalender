@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BE0701",
     "response_url": "https://www.scb.se/BE0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/",
-    "fetched_at": "2026-10-26T03:41:36.546845Z",
+    "fetched_at": "2026-11-02T03:28:05.471954Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "79ae61c73cd2e264b3d5e5e53d6b408e0d73f3fc732d27393b54868a3f13f716",
+    "content_sha256": "eca4763ba2071515a3f29d00cdb806f471f5436ad3ccd394243f957a2afb58c6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/be0701",
   "summary": "I statistiken analyseras demografiska händelser som barnafödande, dödsfall och migration för olika grupper i samhället. Dessutom studeras bland annat parbildning och separationer. Analyserna ger också underlag för de antaganden som ligger till grund för de årliga befolkningsframskrivningarna.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-28",
-  "next_publication_date": "2026-10-28",
+  "next_publication_text": "Nästa publicering: 2027-06-03",
+  "next_publication_date": "2027-06-03",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-28",
+        "Nästa publicering: 2027-06-03",
         "I statistiken analyseras demografiska händelser som barnafödande, dödsfall och migration för olika grupper i samhället. Dessutom studeras bland annat parbildning och separationer. Analyserna ger också underlag för de antaganden som ligger till grund för de årliga befolkningsframskrivningarna."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-28",
+          "text": "Nästa publicering: 2027-06-03",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=BE0701&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BE0701&period=Forward1Year"
         }
@@ -63,14 +63,14 @@
         }
       ],
       "paragraphs": [
-        "2026-05-27",
-        "Den senaste femårsperioden, 2021–2025, var medellivslängden 85,1 år för kvinnor och 81,8 år för män. Jämfört med perioden 2016–2020 har den ökat med 0,8 år för kvinnor och 1,0 år för män. Stockholms län har ersatt Hallands län som det län med högst medellivslängd vid födelsen för både kvinnor och män."
+        "2026-10-28",
+        "I en ny rapport från SCB redovisas vilka som år 2025 var svenska medborgare av de utländska medborgare som invandrade till Sverige i början av 2010-talet. Flyktingar och deras anhöriga har blivit svenska medborgare i störst utsträckning, medan EU/EES-medborgare har blivit det i minst utsträckning."
       ],
       "links": [
         {
-          "text": "Stockholm högst livslängd bland länen för första gången",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/pong/statistiknyhet/livslangden-i-sverige-2021-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/pong/statistiknyhet/livslangden-i-sverige-2021-2025/"
+          "text": "Åtta av tio har blivit svenska medborgare",
+          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/pong/statistiknyhet/svenskt-medborgarskap/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/befolkningens-sammansattning-och-utveckling/demografisk-analys/pong/statistiknyhet/svenskt-medborgarskap/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",

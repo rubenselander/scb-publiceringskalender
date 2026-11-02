@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1302",
     "response_url": "https://www.scb.se/JO1302",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/djurhalsa/djurhalsa/",
-    "fetched_at": "2026-10-26T03:43:00.612364Z",
+    "fetched_at": "2026-11-02T03:29:30.785504Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "5bccd46fa4e5bfd94e78a2c7ed587c44e98ab4268d967cb7738b88062bafa712",
+    "content_sha256": "d2d93cc2798e8e012b9f4908e6fb53a5f8900c94079765938de5b489efd9d941",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1302",
   "summary": "Statistiken visar bland annat antal kalvar som dör inom en månad, sjukdomar hos mjölkkor och kolikfall hos häst. Djurhälsa definieras som individens, gruppens och besättningens frihet från sjukdomar, skador och andra lidanden.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-12",
+  "next_publication_date": "2027-10-12",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-12",
         "Statistiken visar bland annat antal kalvar som dör inom en månad, sjukdomar hos mjölkkor och kolikfall hos häst. Djurhälsa definieras som individens, gruppens och besättningens frihet från sjukdomar, skador och andra lidanden."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-12",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1302&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1302&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

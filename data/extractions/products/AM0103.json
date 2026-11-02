@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0103",
     "response_url": "https://www.scb.se/AM0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-privat-sektor-slp/",
-    "fetched_at": "2026-10-26T03:41:19.390560Z",
+    "fetched_at": "2026-11-02T03:27:47.995352Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a53fcaf30c38d408355bc711ca355bb58579165f722b903ede60d4d72c3c81df",
+    "content_sha256": "cba5254faf8802b52674bf79dd57cb931fbe435fa47de82ee416157b2204b3cd",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0103",
   "summary": "Statistiken visar lönenivå, lönestruktur och löneutveckling inom privat sektor. Statistiken redovisas per kön, ålder, region, näringsgren, yrke och utbildning uppdelad på arbetare respektive tjänstemän. Motsvarande lönestatistik redovisas även för offentlig sektor.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-11",
+  "next_publication_date": "2027-05-11",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-11",
         "Statistiken visar lönenivå, lönestruktur och löneutveckling inom privat sektor. Statistiken redovisas per kön, ålder, region, näringsgren, yrke och utbildning uppdelad på arbetare respektive tjänstemän. Motsvarande lönestatistik redovisas även för offentlig sektor."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0103&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0103&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

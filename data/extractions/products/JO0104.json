@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0104",
     "response_url": "https://www.scb.se/JO0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksmarkens-anvandning/",
-    "fetched_at": "2026-10-26T03:42:27.182282Z",
+    "fetched_at": "2026-11-02T03:28:59.198361Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "aabf46fa93668bdc444e6354fe4029e7771ad56f4a57304dded91a3e83f283f4",
+    "content_sha256": "91f2cf4d3abe3c006c11805468c9e5b592dd43bae55263bf36d2abbff556a106",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0104",
   "summary": "Statistiken visar areal åkermark fördelat på bland annat spannmål, baljväxter, grönfoder och vall, potatis, sockerbetor och oljeväxter samt areal betesmark. Arealerna är fördelade per län, produktionsområde samt storleksgrupp åkermark och storleksgrupp jordbruksmark. Även antal företag med odling för respektive indelning redovisas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-04",
+  "next_publication_date": "2027-02-04",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-04",
         "Statistiken visar areal åkermark fördelat på bland annat spannmål, baljväxter, grönfoder och vall, potatis, sockerbetor och oljeväxter samt areal betesmark. Arealerna är fördelade per län, produktionsområde samt storleksgrupp åkermark och storleksgrupp jordbruksmark. Även antal företag med odling för respektive indelning redovisas."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-04",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0104&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0104&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

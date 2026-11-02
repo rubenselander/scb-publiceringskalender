@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0138",
     "response_url": "https://www.scb.se/UF0138",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/anpassade-gymnasieskolan-elever-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:33.809457Z",
+    "fetched_at": "2026-11-02T03:32:14.052937Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ceb8813591a03d29a9f228297c900d98b7b70ebca15f59ea4cad95694f5c93fa",
+    "content_sha256": "f0866c854cfbaa8c324c4b6cf2bc5359df2d10adde446f75ea52bafa6c0848fb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0138",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-11",
+  "next_publication_date": "2027-03-11",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,9 +43,15 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad"
+        "Nästa publicering: 2027-03-11"
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0138&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0138&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

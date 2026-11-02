@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0106",
     "response_url": "https://www.scb.se/LE0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-barns-levnadsforhallanden/",
-    "fetched_at": "2026-10-26T03:43:13.310067Z",
+    "fetched_at": "2026-11-02T03:29:43.357668Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d363d67c09c812f97b0c2b5b4711f353b1cc5fd011d0949a4ed011fadc3b6674",
+    "content_sha256": "6f7ac69edc3c43af771c497a86d88bbf47dce8cbfa66dc06f6c52325572e6209",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0106",
   "summary": "Statistiken beskriver levnadsförhållanden för barn 12–18 år i Sverige. Barnen har svarat på frågor om ekonomi, fritid, hushållssysslor, hälsa, relationer med föräldrar, skolan samt trygghet.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-08",
+  "next_publication_date": "2027-04-08",
   "responsible_agency": null,
   "notices": [
     "Från och med 2023 genomförs Barn-ULF som en fristående undersökning med eget urval, vilken kommer genomföras vart tredje år. I samband med omläggningen har insamlingsmetoden ändrats från telefonintervjuer till webbenkät vilket medför tidsseriebrott för vissa indikatorer.  I och med detta är rekommendationen att undvika jämförelser med tidigare år.",
@@ -39,10 +39,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-08",
         "Statistiken beskriver levnadsförhållanden för barn 12–18 år i Sverige. Barnen har svarat på frågor om ekonomi, fritid, hushållssysslor, hälsa, relationer med föräldrar, skolan samt trygghet."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0106&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0106&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

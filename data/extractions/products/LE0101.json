@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0101",
     "response_url": "https://www.scb.se/LE0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/undersokningarna-av-levnadsforhallanden-ulf-silc/",
-    "fetched_at": "2026-10-26T03:43:11.445914Z",
+    "fetched_at": "2026-11-02T03:29:41.124434Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3a2fb67970c67b7f90f2598e43f90a0fa6d384f6540cd869f3c6f49cc1ba9046",
+    "content_sha256": "d51972c7926a7f537f287dc968324ab061674d7b4e4c19cafdf65b13ebfee324",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0101",
   "summary": "Statistiken beskriver levnadsförhållanden för Sveriges befolkning 16 år och äldre inom ett antal områden: hälsa, ekonomi, boende, sysselsättning, välbefinnande och tillit, fritid, sociala relationer, medborgerliga aktiviteter, trygghet och arbetsmiljö. Statistiken används bland annat till jämförelser mellan grupper, jämförelser över tid och vid internationella jämförelser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-05",
+  "next_publication_date": "2027-02-05",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-05",
         "Statistiken beskriver levnadsförhållanden för Sveriges befolkning 16 år och äldre inom ett antal områden: hälsa, ekonomi, boende, sysselsättning, välbefinnande och tillit, fritid, sociala relationer, medborgerliga aktiviteter, trygghet och arbetsmiljö. Statistiken används bland annat till jämförelser mellan grupper, jämförelser över tid och vid internationella jämförelser."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-05",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0101&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

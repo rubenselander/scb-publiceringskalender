@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0112",
     "response_url": "https://www.scb.se/OE0112",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/finansiarer-och-utforare-inom-varden-skolan-och-omsorgen/",
-    "fetched_at": "2026-10-26T03:44:17.144516Z",
+    "fetched_at": "2026-11-02T03:30:54.074104Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b505c521ba35ac92d87513d9f7459f4c9c653ef4028d4f2bdf4ee9fdc08bcbd9",
+    "content_sha256": "d41e18711f32d8df6f5790fc57b29f535b212fae14463317eae844f3ee57b926",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0112",
   "summary": "Statistiken är en samlad redogörelse om finansiärer och utförare inom vård, skola och omsorg, verksamheter som också bedrivs av andra än offentliga utförare, även om det finansiella ansvaret ligger kvar hos det offentliga.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-16",
+  "next_publication_date": "2027-06-16",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-16",
         "Statistiken är en samlad redogörelse om finansiärer och utförare inom vård, skola och omsorg, verksamheter som också bedrivs av andra än offentliga utförare, även om det finansiella ansvaret ligger kvar hos det offentliga."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-16",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0112&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0112&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0301",
     "response_url": "https://www.scb.se/AM0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/",
-    "fetched_at": "2026-10-26T03:41:28.341491Z",
+    "fetched_at": "2026-11-02T03:27:56.764212Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "752378bfe8d77025808e9620091ea34a979b4d158866874b7d364b64f8cf8051",
+    "content_sha256": "6567d970c3d5a3472f579214ac2e673f8652b583b3f0b62f91e6681f2316a144",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0301",
   "summary": "AKI mäter och beskriver utvecklingen av den totala arbetskostnaden för arbetare och tjänstemän för olika branscher inom privat sektor månadsvis. Arbetskostnaden består av lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. Indextalen används för att göra prisjusteringar enligt avtal mellan företag, för att bedöma det nationella ekonomiska läget och för indexreglering av avtal.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-30",
         "AKI mäter och beskriver utvecklingen av den totala arbetskostnaden för arbetare och tjänstemän för olika branscher inom privat sektor månadsvis. Arbetskostnaden består av lön inklusive rörliga lönetillägg, förmåner, sjuklön och arbetsgivaravgifter. Indextalen används för att göra prisjusteringar enligt avtal mellan företag, för att bedöma det nationella ekonomiska läget och för indexreglering av avtal."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0301&period=Forward1Year"
         }
@@ -90,14 +90,14 @@
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/tidsserie-aki-for-tjansteman-definitiva-siffror2/"
         },
         {
-          "text": "Arbetskostnader för arbetare under juli 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-arbetare-under-juli-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-arbetare-under-juli-2025/"
+          "text": "Arbetskostnader för arbetare under augusti 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-arbetare-under-augusti-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-arbetare-under-augusti-2025/"
         },
         {
-          "text": "Arbetskostnader för tjänstemän under juli 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-tjansteman-under-juli-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-tjansteman-under-juli-2025/"
+          "text": "Arbetskostnader för tjänstemän under augusti 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-tjansteman-under-augusti-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/arbetskostnadsindex-for-arbetare-och-tjansteman-inom-privat-sektor-aki/pong/tabell-och-diagram/arbetskostnader-for-tjansteman-under-augusti-2025/"
         },
         {
           "text": "Tidsserie löneindex (LÖI) för arbetare preliminära siffror",
@@ -134,57 +134,57 @@
         [
           "Arbetskostnadsindex och dess förändringstakt",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie AKI för arbetare preliminära siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie AKI för arbetare definitiva siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie AKI för tjänstemän preliminära siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie AKI för tjänstemän definitiva siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
-          "Arbetskostnader för arbetare under juli 2025",
+          "Arbetskostnader för arbetare under augusti 2025",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
-          "Arbetskostnader för tjänstemän under juli 2025",
+          "Arbetskostnader för tjänstemän under augusti 2025",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie löneindex (LÖI) för arbetare preliminära siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie löneindex (LÖI) för arbetare definitiva siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie löneindex (LÖI) för tjänstemän preliminära siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Tidsserie löneindex (LÖI) för tjänstemän definitiva siffror",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -228,12 +228,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetskostnadsindex för tjänstemän, privat sektor (AKI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
+          "text": "Arbetskostnadsindex för tjänstemän, privat sektor (AKI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKITM07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKITM07"
         },
         {
-          "text": "Arbetskostnadsindex för arbetare, privat sektor (AKI) efter näringsgren enligt SNI 2007. Månad 2008M01 - 2026M07",
+          "text": "Arbetskostnadsindex för arbetare, privat sektor (AKI) efter näringsgren enligt SNI 2007. Månad 2008M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIAM07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKIAM07"
         }
@@ -248,12 +248,12 @@
           "Datum"
         ],
         [
-          "Arbetskostnadsindex för tjänstemän, privat sektor (AKI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Arbetskostnadsindex för tjänstemän, privat sektor (AKI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Arbetskostnadsindex för arbetare, privat sektor (AKI) efter näringsgren enligt SNI 2007. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Arbetskostnadsindex för arbetare, privat sektor (AKI) efter näringsgren enligt SNI 2007. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -297,14 +297,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Löneindex för tjänstemän, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK07",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK07"
-        },
-        {
-          "text": "Löneindex för arbetare, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
+          "text": "Löneindex för arbetare, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIAK07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOIAK07"
+        },
+        {
+          "text": "Löneindex för tjänstemän, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK07",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LOITK07"
         }
       ],
       "table_headers": [
@@ -317,12 +317,12 @@
           "Datum"
         ],
         [
-          "Löneindex för tjänstemän, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Löneindex för arbetare, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Löneindex för arbetare, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M07",
-          "2026-09-30"
+          "Löneindex för tjänstemän, privat sektor (LÖI) efter näringsgren SNI 2007. Månad 2008M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -498,7 +498,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetskostnadsindex (AKI), förändring från motsvarande månad föregående år. Månad 2009M01 - 2026M07",
+          "text": "Arbetskostnadsindex (AKI), förändring från motsvarande månad föregående år. Månad 2009M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatAM0301",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatAM0301"
         }
@@ -513,8 +513,8 @@
           "Datum"
         ],
         [
-          "Arbetskostnadsindex (AKI), förändring från motsvarande månad föregående år. Månad 2009M01 - 2026M07",
-          "2026-09-30"
+          "Arbetskostnadsindex (AKI), förändring från motsvarande månad föregående år. Månad 2009M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0101",
     "response_url": "https://www.scb.se/UF0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/grundskolan-slutbetyg/",
-    "fetched_at": "2026-10-26T03:45:15.516085Z",
+    "fetched_at": "2026-11-02T03:31:55.358038Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2ef69a3e01c73e1d53dc765fde78c4c5e8fdec4357bc7385feb94234d73816ef",
+    "content_sha256": "9a1c6908a8cdbf94ef74b83ec8d85a21c0390cd821e3232e3af7eeb926e0057e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0101",
   "summary": "Statistiken visar elevernas betyg per ämne, genomsnittlig betygspoäng, genomsnittligt meritvärde, andel som uppnått kunskapskraven, andel behöriga till gymnasieskolan redovisat bland annat på huvudmannatyp, kön och föräldrarnas och elevernas bakgrund.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-09-23",
+  "next_publication_date": "2027-09-23",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-09-23",
         "Statistiken visar elevernas betyg per ämne, genomsnittlig betygspoäng, genomsnittligt meritvärde, andel som uppnått kunskapskraven, andel behöriga till gymnasieskolan redovisat bland annat på huvudmannatyp, kön och föräldrarnas och elevernas bakgrund."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-09-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0101&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0101&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

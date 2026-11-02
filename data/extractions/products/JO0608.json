@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0608",
     "response_url": "https://www.scb.se/JO0608",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-for-ekologisk-och-konventionell-odling/",
-    "fetched_at": "2026-10-26T03:42:49.288112Z",
+    "fetched_at": "2026-11-02T03:29:20.680252Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "874c7ea806eecc6b25c32d16677b36beac917fd9ab52a49fbdff90cf1385bb30",
+    "content_sha256": "a2268cfb881e345363e4723627fa79ca57fc09d3aa5358a3649b5a0233ce37f8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0608",
   "summary": "Statistiken visar bland annat hektarskörd, areal och totalskörd för vete, råg, korn, havre och matpotatis i ekologisk och konventionell odling per län och produktionsområde.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-23",
+  "next_publication_date": "2027-06-23",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-23",
         "Statistiken visar bland annat hektarskörd, areal och totalskörd för vete, råg, korn, havre och matpotatis i ekologisk och konventionell odling per län och produktionsområde."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-23",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0608&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0608&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

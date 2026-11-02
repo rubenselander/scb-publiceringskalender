@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0802",
     "response_url": "https://www.scb.se/JO0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogarnas-tillstand-och-forandring/arealforhallanden/",
-    "fetched_at": "2026-10-26T03:42:51.997474Z",
+    "fetched_at": "2026-11-02T03:29:23.444332Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "924ce5ae0a6e298558f611ce5d7a9a4d4768b483fb073d6dea99b436dec58f06",
+    "content_sha256": "cc80535250123c5c57931fd8902b777a9784ac0fd9b4fc174559f69ab4fcbd17",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0802",
   "summary": "Statistiken visar bland annat landareal och skogsmark per län fördelad på ägoslag enligt skogsvårdslagen, produktiv skogsmarksareal per län fördelad på åldersklasser respektive huggningsklasser och areal äldre skog.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": {
     "label": "Sveriges lantbruksuniversitet (SLU)",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar bland annat landareal och skogsmark per län fördelad på ägoslag enligt skogsvårdslagen, produktiv skogsmarksareal per län fördelad på åldersklasser respektive huggningsklasser och areal äldre skog."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0802&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0802&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

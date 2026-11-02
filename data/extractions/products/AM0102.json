@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0102",
     "response_url": "https://www.scb.se/AM0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-statlig-sektor-kls/",
-    "fetched_at": "2026-10-26T03:41:18.937521Z",
+    "fetched_at": "2026-11-02T03:27:47.528737Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2994dcee9590931c3932be7da0a9267f93f93465ff80bbb33070f44813eb3462",
+    "content_sha256": "9de0fadf4fb6833d4657e8872e34330f0de0f93d22657a814eae2f508e7fe786",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0102",
   "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i statlig sektor. Motsvarande lönestatistik finns även för privat sektor, kommuner och regioner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-30",
         "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i statlig sektor. Motsvarande lönestatistik finns även för privat sektor, kommuner och regioner."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0102&period=Forward1Year"
         }
@@ -122,17 +122,17 @@
         [
           "Antal sysselsatta fördelat på myndighet, statlig sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig månadslön, efter ålder och kön, statlig sektor",
           "Diagram",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Genomsnittlig månadslön, statlig sektor",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -176,12 +176,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2010M01 - 2026M07",
+          "text": "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2010M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStabell14LpMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStabell14LpMan"
         },
         {
-          "text": "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2010M01 - 2026M07",
+          "text": "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2010M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab352007LpMan",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab352007LpMan"
         }
@@ -196,12 +196,12 @@
           "Datum"
         ],
         [
-          "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2010M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2010M01 - 2026M08",
+          "2026-10-29"
         ],
         [
-          "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2010M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig månadslön för månadsavlönade samt antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2010M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },
@@ -218,18 +218,70 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0102B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AM0102B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Konjunkturstatistik, löner för statlig sektor (KLS)",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI92, kön och hel-/deltid. Månad 2000M01 - 2008M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab35",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab35"
+        },
+        {
+          "text": "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2000M01 - 2011M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStabell14",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStabell14"
+        },
+        {
+          "text": "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2009M01 - 2011M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab352007",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLStab352007"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI92, kön och hel-/deltid. Månad 2000M01 - 2008M12",
+          "2010-03-01"
+        ],
+        [
+          "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter myndighet, kön och hel-/deltid. Månad 2000M01 - 2011M12",
+          "2013-03-01"
+        ],
+        [
+          "Genomsnittlig månadslön och antal sysselsatta inom statlig sektor (KLS) efter näringsgren SNI2007, kön och hel-/deltid. Månad 2009M01 - 2011M12",
+          "2013-03-01"
+        ]
+      ]
     },
     {
       "heading_path": [

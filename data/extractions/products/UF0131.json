@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0131",
     "response_url": "https://www.scb.se/UF0131",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/skolvasende-och-barnomsorg/annan-pedagogisk-verksamhet-barn-och-personal-per-15-oktober/",
-    "fetched_at": "2026-10-26T03:45:30.244081Z",
+    "fetched_at": "2026-11-02T03:32:10.377416Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6170facfb9f5651610602b8f20f2199fbd6e50543fb50f7225cbfa9d71222364",
+    "content_sha256": "0d9d43440ff09e70cf36989e90b0c67d21b8c7d82aad46cf3215a84350b96d5f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0131",
   "summary": "Statistiken visar verksamhet, personal och i förekommande fall inskrivna barn inom pedagogisk omsorg, öppen förskola, öppen fritidsverksamhet och omsorg under tid då förskola eller fritidshem inte erbjuds.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-14",
+  "next_publication_date": "2027-04-14",
   "responsible_agency": {
     "label": "Skolverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-14",
         "Statistiken visar verksamhet, personal och i förekommande fall inskrivna barn inom pedagogisk omsorg, öppen förskola, öppen fritidsverksamhet och omsorg under tid då förskola eller fritidshem inte erbjuds."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-14",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0131&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0131&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

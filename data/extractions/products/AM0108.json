@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0108",
     "response_url": "https://www.scb.se/AM0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/konjunkturstatistik-loner-for-kommuner-klk/",
-    "fetched_at": "2026-10-26T03:41:21.426953Z",
+    "fetched_at": "2026-11-02T03:27:50.375023Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c1d5ac7c617d01c891183787ba1cf2c9d1cd9c2034561f2953676718fe39703a",
+    "content_sha256": "c9abd27170bda5d76dfa1b7398a9b17803fcd0e8c274e90af6f5581688f5fa27",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0108",
   "summary": "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i kommuner. Motsvarande lönestatistik finns även för privat och statlig sektor samt regioner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-10-29",
-  "next_publication_date": "2026-10-29",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": {
     "label": "Medlingsinstitutet",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-10-29",
+        "Nästa publicering: 2026-11-30",
         "Statistiken visar månadsvis utvecklingen av löner och sysselsättning i kommuner. Motsvarande lönestatistik finns även för privat och statlig sektor samt regioner."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-10-29",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0108&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0108&period=Forward1Year"
         }
@@ -117,12 +117,12 @@
         [
           "Genomsnittlig månadslön för månadsavlönade i kommuner",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ],
         [
           "Antal arbetade timmar för anställda i kommuner",
           "Tabell",
-          "2026-09-30"
+          "2026-10-29"
         ]
       ]
     },
@@ -166,7 +166,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Genomsnittlig månadslön inom kommuner (KLK). Månad 1999M01 - 2026M07",
+          "text": "Genomsnittlig månadslön inom kommuner (KLK). Månad 1999M01 - 2026M08",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLKtabell4",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KLKtabell4"
         }
@@ -181,8 +181,8 @@
           "Datum"
         ],
         [
-          "Genomsnittlig månadslön inom kommuner (KLK). Månad 1999M01 - 2026M07",
-          "2026-09-30"
+          "Genomsnittlig månadslön inom kommuner (KLK). Månad 1999M01 - 2026M08",
+          "2026-10-29"
         ]
       ]
     },

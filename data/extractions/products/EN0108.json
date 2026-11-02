@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0108",
     "response_url": "https://www.scb.se/EN0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/",
-    "fetched_at": "2026-10-26T03:41:47.044799Z",
+    "fetched_at": "2026-11-02T03:28:16.693113Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e8078d364fe54733de189985548b9746369151fbc53f6eeaebcf5a25ac3adcbe",
+    "content_sha256": "6c7af522efef5d40782d8a78d59feab758a0da4522ffe7827662c053dcb10c57",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -343,18 +343,61 @@
           "anchor": "_TabelleriStatistikdatabasen"
         }
       ],
-      "paragraphs": [
-        "Äldre tabeller som inte uppdateras"
-      ],
+      "paragraphs": [],
       "links": [
         {
           "text": "Äldre tabeller som inte uppdateras",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0108B",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EN0108B"
+          "href": "Javascript:void(0)",
+          "url": "Javascript:void(0)"
         }
       ],
       "table_headers": [],
       "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Månatlig elstatistik och byten av elleverantör",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI92. Månad 1990M01 - 2009M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbrM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbrM"
+        },
+        {
+          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI69. Månad 1974M01 - 1989M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForM",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForM"
+        }
+      ],
+      "table_headers": [
+        "Namn",
+        "Datum"
+      ],
+      "table_rows": [
+        [
+          "Namn",
+          "Datum"
+        ],
+        [
+          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI92. Månad 1990M01 - 2009M12",
+          "2013-10-09"
+        ],
+        [
+          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI69. Månad 1974M01 - 1989M12",
+          "2002-10-14"
+        ]
+      ]
     },
     {
       "heading_path": [

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0116",
     "response_url": "https://www.scb.se/NV0116",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/",
-    "fetched_at": "2026-11-02T03:30:35.158540Z",
+    "fetched_at": "2026-11-09T03:32:13.682338Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9ab8c5710915f2ffed0a642ed1a8497e7e9f8d11d0074128b779c0b6b14d6fde",
+    "content_sha256": "fe1cd3a5cf96de8005234bd5523053611a95c05a51c1b9f4a97cb16762b77561",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0116",
   "summary": "Statistiken visar tillgång till och användning av informationsteknik bland företag i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-05",
-  "next_publication_date": "2026-11-05",
+  "next_publication_text": "Nästa publicering: 2027-11-04",
+  "next_publication_date": "2027-11-04",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-05",
+        "Nästa publicering: 2027-11-04",
         "Statistiken visar tillgång till och användning av informationsteknik bland företag i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-05",
+          "text": "Nästa publicering: 2027-11-04",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0116&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0116&period=Forward1Year"
         }
@@ -64,9 +64,9 @@
       ],
       "paragraphs": [
         "Tillgång till internet via fast bredband",
-        "91 %",
+        "88 %",
         "Totalt 10 eller fler anställda",
-        "Referenstid:  2025"
+        "Referenstid:  2026"
       ],
       "links": [],
       "table_headers": [],
@@ -86,76 +86,7 @@
         }
       ],
       "paragraphs": [
-        "Tog emot beställningar via egen webbplats/app",
-        "30 %",
-        "Totalt 10 eller fler anställda",
-        "Referenstid:  2024"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "It-användning i företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Nyckeltal för Sverige",
-          "level": 2,
-          "anchor": "_Nyckeltal"
-        }
-      ],
-      "paragraphs": [
-        "Tog emot beställningar via EDI",
-        "11 %",
-        "Totalt 10 eller fler anställda",
-        "Referenstid:  2024"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "It-användning i företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Nyckeltal för Sverige",
-          "level": 2,
-          "anchor": "_Nyckeltal"
-        }
-      ],
-      "paragraphs": [
-        "Köper molntjänster",
-        "72 %",
-        "Totalt 10 eller fler anställda",
-        "Referenstid:  2025"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "It-användning i företag",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Nyckeltal för Sverige",
-          "level": 2,
-          "anchor": "_Nyckeltal"
-        }
-      ],
-      "paragraphs": [
-        "Användning av AI-teknologier",
+        "E-handelsförsäljning via webb eller EDI",
         "35 %",
         "Totalt 10 eller fler anställda",
         "Referenstid:  2025"
@@ -178,10 +109,79 @@
         }
       ],
       "paragraphs": [
-        "Har egen personal som utför dataanalys",
-        "34 %",
+        "Användning av AI-teknologier",
+        "49 %",
         "Totalt 10 eller fler anställda",
-        "Referenstid:  2025"
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "It-användning i företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Har egen personal som utför dataanalys",
+        "33 %",
+        "Totalt 10 eller fler anställda",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "It-användning i företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Har anställda it-specialister",
+        "20 %",
+        "Totalt 10 eller fler anställda",
+        "Referenstid:  2026"
+      ],
+      "links": [],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "It-användning i företag",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
+          "text": "Nyckeltal för Sverige",
+          "level": 2,
+          "anchor": "_Nyckeltal"
+        }
+      ],
+      "paragraphs": [
+        "Köper molntjänster",
+        "77 %",
+        "Totalt 10 eller fler anställda",
+        "Referenstid:  2026"
       ],
       "links": [],
       "table_headers": [],
@@ -201,14 +201,14 @@
         }
       ],
       "paragraphs": [
-        "2025-11-06",
-        "Under 2025 ökade användningen av artificiell intelligens (AI-teknologi) jämfört med 2024 visar ny statistik från undersökningen It-användning i företag. Även andelen företag som utförde dataanalys ökade, medan andelen företag som bedrev e-handelsförsäljning förblev oförändrad."
+        "2026-11-05",
+        "Under 2026 använde 49 procent av företagen med minst 10 anställda artificiell intelligens (AI). Det visade ny statistik från undersökningen It-användning i företag. Resultaten visade också att dataanalys, molntjänster och e-handel fortsatt är viktiga delar av företagens digitalisering."
       ],
       "links": [
         {
-          "text": "Stor ökning av AI-användningen bland företag 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/statistiknyhet/it-anvandning-i-foretag-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/statistiknyhet/it-anvandning-i-foretag-2025/"
+          "text": "Nästan vartannat företag använde AI under 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/statistiknyhet/it-anvandning-i-foretag-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/statistiknyhet/it-anvandning-i-foretag-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -312,12 +312,12 @@
         [
           "Andel företag som använder AI-tekniker för någon av följande ändamål",
           "Diagram",
-          "2025-11-06"
+          "2026-11-05"
         ],
         [
           "Andel företag som använder någon av följande AI-tekniker",
           "Diagram",
-          "2025-11-06"
+          "2026-11-05"
         ]
       ]
     },
@@ -380,7 +380,7 @@
         [
           "Andel företag vars anställda analyserar data, efter typ av data",
           "Diagram",
-          "2025-11-06"
+          "2026-11-05"
         ]
       ]
     },
@@ -427,11 +427,6 @@
           "text": "Företagens andel av omsättning från e-handel",
           "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/e-handel/foretagens-andel-av-omsattning-fran-e-handel/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/e-handel/foretagens-andel-av-omsattning-fran-e-handel/"
-        },
-        {
-          "text": "Andel företag som bedriver webbförsäljning via egen webbplats, app eller e-handelsplattform 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/e-handel/andel-foretag-som-bedriver-webbforsaljning-via-egen-webbplats-app-eller-e-handelsplattform-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/e-handel/andel-foretag-som-bedriver-webbforsaljning-via-egen-webbplats-app-eller-e-handelsplattform-2024/"
         }
       ],
       "table_headers": [
@@ -448,12 +443,7 @@
         [
           "Företagens andel av omsättning från e-handel",
           "Diagram",
-          "2025-11-06"
-        ],
-        [
-          "Andel företag som bedriver webbförsäljning via egen webbplats, app eller e-handelsplattform 2024",
-          "Tabell",
-          "2025-11-06"
+          "2026-11-05"
         ]
       ]
     },
@@ -497,14 +487,9 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "It-säkerhetsincident som ledde till konsekvenser efter typ av konsekvens",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/it-sakerhetsincident-som-ledde-till-konsekvenser-efter-typ-av-konsekvens/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/it-sakerhetsincident-som-ledde-till-konsekvenser-efter-typ-av-konsekvens/"
-        },
-        {
-          "text": "Andel företag som har anställda it-specilister 2022 och 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/andel-foretag-som-har-anstallda-it-specilister-2022-och-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/andel-foretag-som-har-anstallda-it-specilister-2022-och-2024/"
+          "text": "Andel företag som har anställda it-specilister",
+          "href": "/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/andel-foretag-som-har-anstallda-it-specilister/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/it-anvandning-i-foretag/pong/tabell-och-diagram/it-specialister-och-it-sakerhet/andel-foretag-som-har-anstallda-it-specilister/"
         }
       ],
       "table_headers": [
@@ -519,14 +504,9 @@
           "Datum"
         ],
         [
-          "It-säkerhetsincident som ledde till konsekvenser efter typ av konsekvens",
+          "Andel företag som har anställda it-specilister",
           "Diagram",
-          "2024-11-21"
-        ],
-        [
-          "Andel företag som har anställda it-specilister 2022 och 2024",
-          "Diagram",
-          "2024-11-21"
+          "2026-11-05"
         ]
       ]
     },
@@ -598,6 +578,26 @@
           "text": "Användning av AI-tekniker efter typ av teknik. Andel företag.  År 2021 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknikerTypN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknikerTypN"
+        },
+        {
+          "text": "Användning av AI-tekniker efter typ av teknik fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknikerTypSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknikerTypSNI2025"
+        },
+        {
+          "text": "Användning av AI-teknik efter ändamål fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTab01SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTab01SNI2025"
+        },
+        {
+          "text": "Övervägt att använda AI-teknik och anledning att avstå efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknAvstattSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknAvstattSNI2025"
+        },
+        {
+          "text": "Användning av AI-teknik efter sätt att förvärva och modifiera fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknForvSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AiTeknForvSNI2025"
         }
       ],
       "table_headers": [
@@ -632,6 +632,22 @@
         [
           "Användning av AI-tekniker efter typ av teknik. Andel företag.  År 2021 - 2025",
           "2026-05-05"
+        ],
+        [
+          "Användning av AI-tekniker efter typ av teknik fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av AI-teknik efter ändamål fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Övervägt att använda AI-teknik och anledning att avstå efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av AI-teknik efter sätt att förvärva och modifiera fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -811,6 +827,11 @@
           "text": "Köp av molntjänster efter typ av tjänst. Andel företag. År 2021 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KopMolnTjanst",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KopMolnTjanst"
+        },
+        {
+          "text": "Köp av molntjänster efter typ av tjänst fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KopMolnTjanstSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KopMolnTjanstSNI2025"
         }
       ],
       "table_headers": [
@@ -833,6 +854,10 @@
         [
           "Köp av molntjänster efter typ av tjänst. Andel företag. År 2021 - 2025",
           "2025-11-06"
+        ],
+        [
+          "Köp av molntjänster efter typ av tjänst fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -997,6 +1022,21 @@
           "text": "Hade någon it-säkerhetsincident som ledde till konsekvenser efter typ av konsekvens och redovisningsgrupp. Andel företag.  År 2021 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvITsakerhetNT3",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvITsakerhetNT3"
+        },
+        {
+          "text": "Åtgärder kopplade it-säkerhet efter typ av åtgärd fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvITsakerhetSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvITsakerhetSNI2025"
+        },
+        {
+          "text": "Information till anställda om ansvar för it-säkerhet efter sätt att informera fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InfoDelningSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/InfoDelningSNI2025"
+        },
+        {
+          "text": "Förekomst av it-säkerhetsincident efter typ av konsekvens fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITsakerhetIncSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITsakerhetIncSNI2025"
         }
       ],
       "table_headers": [
@@ -1043,6 +1083,18 @@
         [
           "Hade någon it-säkerhetsincident som ledde till konsekvenser efter typ av konsekvens och redovisningsgrupp. Andel företag.  År 2021 - 2023",
           "2024-11-21"
+        ],
+        [
+          "Åtgärder kopplade it-säkerhet efter typ av åtgärd fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Information till anställda om ansvar för it-säkerhet efter sätt att informera fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Förekomst av it-säkerhetsincident efter typ av konsekvens fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -1300,6 +1352,26 @@
           "text": "Företag som utför dataanalys efter typ av utförare och region, storleksklass eller näringsgren. År 2023 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab04N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElektroAffarTab04N"
+        },
+        {
+          "text": "Användning av programvaror efter typ av programvara fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab02SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab02SNI2025"
+        },
+        {
+          "text": "Elektronisk datadelning med leverantörer eller kunder efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab03SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab03SNI2025"
+        },
+        {
+          "text": "Utför dataanalys efter typ av utförare fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab04SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab04SNI2025"
+        },
+        {
+          "text": "Dataanalys utförtd av egna anställda efter typ av datakälla fördelat på region, storleksklass eller näringsgren. Andel av företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab05SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElAffTab05SNI2025"
         }
       ],
       "table_headers": [
@@ -1358,6 +1430,22 @@
         [
           "Företag som utför dataanalys efter typ av utförare och region, storleksklass eller näringsgren. År 2023 - 2025",
           "2025-11-26"
+        ],
+        [
+          "Användning av programvaror efter typ av programvara fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Elektronisk datadelning med leverantörer eller kunder efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Utför dataanalys efter typ av utförare fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Dataanalys utförtd av egna anställda efter typ av datakälla fördelat på region, storleksklass eller näringsgren. Andel av företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -1527,6 +1615,21 @@
           "text": "Användning av fast internetanslutning med en hastighet som är normalt sett tillräcklig för företagets behov efter redovisningsgrupp. Andel företag.  År 2020 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvHastighetN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnvHastighetN"
+        },
+        {
+          "text": "Användning av datorer anslutna till internet efter region, storleksklass eller näringsgren. Andel anställda. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnstInternetSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AnstInternetSNI2025"
+        },
+        {
+          "text": "Användning av fast internetanslutning efter hastighet fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgAnslutningSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgAnslutningSNI2025"
+        },
+        {
+          "text": "Användning av fast internetanslutning efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgTillgInterSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgTillgInterSNI2025"
         }
       ],
       "table_headers": [
@@ -1577,6 +1680,18 @@
         [
           "Användning av fast internetanslutning med en hastighet som är normalt sett tillräcklig för företagets behov efter redovisningsgrupp. Andel företag.  År 2020 - 2024",
           "2024-11-21"
+        ],
+        [
+          "Användning av datorer anslutna till internet efter region, storleksklass eller näringsgren. Andel anställda. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av fast internetanslutning efter hastighet fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av fast internetanslutning efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -1803,6 +1918,16 @@
           "text": "Användning av sociala medier efter ändamål och redovisningsgrupp. Andel företag. År 2015 - 2019",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SMAndamal",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SMAndamal"
+        },
+        {
+          "text": "Har webbsida efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetagWebbSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ForetagWebbSNI2025"
+        },
+        {
+          "text": "Användning av sociala medier efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SMPLSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SMPLSNI2025"
         }
       ],
       "table_headers": [
@@ -1829,6 +1954,14 @@
         [
           "Användning av sociala medier efter ändamål och redovisningsgrupp. Andel företag. År 2015 - 2019",
           "2019-11-20"
+        ],
+        [
+          "Har webbsida efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av sociala medier efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -1900,6 +2033,26 @@
           "text": "Svårigheter som företag upplevde i rekrytering av it-specialister efter redovisningsgrupp. Andel företag.  År 2019 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SvarRekryITN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SvarRekryITN"
+        },
+        {
+          "text": "Rekrytering av it-specialister efter utfall fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecRekrSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecRekrSNI2025"
+        },
+        {
+          "text": "Rekryteringssvårigheter av it-specialister efter typ av svårighet fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SvarRekryITSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SvarRekryITSNI2025"
+        },
+        {
+          "text": "Har anställda it-specialister efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecPerskatSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecPerskatSNI2025"
+        },
+        {
+          "text": "It-relaterad utbildning till anställda efter it-specialister och övrig personal fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecMalgrSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITspecMalgrSNI2025"
         }
       ],
       "table_headers": [
@@ -1934,6 +2087,22 @@
         [
           "Svårigheter som företag upplevde i rekrytering av it-specialister efter redovisningsgrupp. Andel företag.  År 2019 - 2023",
           "2024-11-21"
+        ],
+        [
+          "Rekrytering av it-specialister efter utfall fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Rekryteringssvårigheter av it-specialister efter typ av svårighet fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Har anställda it-specialister efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "It-relaterad utbildning till anställda efter it-specialister och övrig personal fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -2010,6 +2179,16 @@
           "text": "Omsättning från e-handel efter geografiskt område och redovisningsgrupp. Andel av företagens totala omsättning. År 2020 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsatEHandel",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/OmsatEHandel"
+        },
+        {
+          "text": "Omsättning från e-handel efter typ av försäljning och geografiskt område fördelat på region, storleksklass eller näringsgren. Andel av företagens totala omsättning. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgOmsEHandelSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgOmsEHandelSNI2025"
+        },
+        {
+          "text": "E-handel efter typ av försäljning och geografiskt område fördelat på region, storleksklass eller näringsgren. Andel företag. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgEHandelSNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FtgEHandelSNI2025"
         }
       ],
       "table_headers": [
@@ -2048,6 +2227,14 @@
         [
           "Omsättning från e-handel efter geografiskt område och redovisningsgrupp. Andel av företagens totala omsättning. År 2020 - 2021",
           "2022-11-24"
+        ],
+        [
+          "Omsättning från e-handel efter typ av försäljning och geografiskt område fördelat på region, storleksklass eller näringsgren. Andel av företagens totala omsättning. År 2025",
+          "2026-11-05"
+        ],
+        [
+          "E-handel efter typ av försäljning och geografiskt område fördelat på region, storleksklass eller näringsgren. Andel företag. År 2025",
+          "2026-11-05"
         ]
       ]
     },
@@ -2124,6 +2311,16 @@
           "text": "Företag som använder IT-system eller IT-lösningar för att minska miljöpåverkan samt övervakar eller kvantifierar deras effekt efter redovisningsgrupp. År 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo04",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo04"
+        },
+        {
+          "text": "Hantering av it-utrustning som inte längre används efter typ av hantering fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo03SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo03SNI2025"
+        },
+        {
+          "text": "Användning av it-system för att minska energi och materialförbrukning samt uppföljning av effekter efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo04SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ITMiljo04SNI2025"
         }
       ],
       "table_headers": [
@@ -2162,6 +2359,14 @@
         [
           "Företag som använder IT-system eller IT-lösningar för att minska miljöpåverkan samt övervakar eller kvantifierar deras effekt efter redovisningsgrupp. År 2025",
           "2026-03-10"
+        ],
+        [
+          "Hantering av it-utrustning som inte längre används efter typ av hantering fördelat på region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
+        ],
+        [
+          "Användning av it-system för att minska energi och materialförbrukning samt uppföljning av effekter efter region, storleksklass eller näringsgren. Andel företag. År 2026",
+          "2026-11-05"
         ]
       ]
     },
@@ -3299,6 +3504,7 @@
         }
       ],
       "paragraphs": [
+        "2026 (pdf)",
         "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
@@ -3324,6 +3530,11 @@
         "2003 (pdf)"
       ],
       "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/9cfc4627e5954d109ab39dda9df1ba69/kd-2026-nv0116.pdf",
+          "url": "https://www.scb.se/contentassets/9cfc4627e5954d109ab39dda9df1ba69/kd-2026-nv0116.pdf"
+        },
         {
           "text": "2025 (pdf)",
           "href": "/contentassets/9cfc4627e5954d109ab39dda9df1ba69/nv0116_kd_2025.pdf",
@@ -3462,6 +3673,7 @@
         }
       ],
       "paragraphs": [
+        "2026 (pdf)",
         "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
@@ -3482,6 +3694,11 @@
         "2008 (pdf)"
       ],
       "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/9cfc4627e5954d109ab39dda9df1ba69/nv0116_staf_2026_261105.pdf",
+          "url": "https://www.scb.se/contentassets/9cfc4627e5954d109ab39dda9df1ba69/nv0116_staf_2026_261105.pdf"
+        },
         {
           "text": "2025 (pdf)",
           "href": "/contentassets/9cfc4627e5954d109ab39dda9df1ba69/nv0116_staf_2025.pdf",

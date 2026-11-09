@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0501",
     "response_url": "https://www.scb.se/BO0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/fastigheter/fastighetspriser-och-lagfarter/",
-    "fetched_at": "2026-11-02T03:28:11.519855Z",
+    "fetched_at": "2026-11-09T03:29:25.982960Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b5b7e1df36ab7ec6406b621a81e034e2883479d268c76460876e6d387e2ab354",
+    "content_sha256": "9855a39590bc9d72ad987a35d5f4a8d596958c85d6ff90c5e76f4437f6306c68",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/bo0501",
   "summary": "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-05",
-  "next_publication_date": "2026-11-05",
+  "next_publication_text": "Nästa publicering: 2026-12-03",
+  "next_publication_date": "2026-12-03",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-05",
+        "Nästa publicering: 2026-12-03",
         "Statistiken visar prisnivå, prisutveckling och omsättning på fastighetsmarknaden för beviljade överlåtelser som gjorts via inskrivning av lagfart eller inskrivning av tomträttsinnehav. Statistiken är heltäckande för hela fastighetsmarknaden. Inom undersökningen redovisas även heltäckande statistik över försäljning av bostadsrätter."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-05",
+          "text": "Nästa publicering: 2026-12-03",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0501&period=Forward1Year"
         }
@@ -250,7 +250,7 @@
         [
           "Småhusbarometern – Fastighetsprisstatistik per månad, hela landet",
           "Diagram",
-          "2026-10-08"
+          "2026-11-05"
         ]
       ]
     },
@@ -396,7 +396,7 @@
         [
           "Småhusbarometern",
           "Tabell",
-          "2026-10-08"
+          "2026-11-05"
         ]
       ]
     },
@@ -649,7 +649,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisIFRegionAr"
         },
         {
-          "text": "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M09",
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT1M"
         },
@@ -659,7 +659,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FastprisLBRegJordAr"
         },
         {
-          "text": "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M09",
+          "text": "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SmahusT2M"
         },
@@ -732,16 +732,16 @@
           "2026-06-05"
         ],
         [
-          "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M09",
-          "2026-10-08"
+          "Fastighetsprisstatistik för småhus (småhusbarometern). Månad 1997M01 - 2026M10",
+          "2026-11-05"
         ],
         [
           "Försålda lantbruk efter region (län, riket) och andel jordbruksvärde. År 1999 - 2025",
           "2026-06-05"
         ],
         [
-          "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M09",
-          "2026-10-08"
+          "Fastighetsprisstatistik för småhus (småhusbarometern), där månad avser en tremånadersperiod, se fotnot, efter region. Månad 1997M04 - 2026M10",
+          "2026-11-05"
         ],
         [
           "Försålda lantbruk efter region (län, riket) och andel skogsbruksvärde. År 1999 - 2025",
@@ -1070,7 +1070,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M09",
+          "text": "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatBO0501"
         }
@@ -1085,8 +1085,8 @@
           "Datum"
         ],
         [
-          "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M09",
-          "2026-10-08"
+          "Småhusbarometern, förändring från föregående period och motsvarande period föregående år. Månad 2013M10 - 2026M10",
+          "2026-11-05"
         ]
       ]
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1403",
     "response_url": "https://www.scb.se/JO1403",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/miljohansyn-vid-foryngringsavverkning/",
-    "fetched_at": "2026-11-02T03:29:31.867511Z",
+    "fetched_at": "2026-11-09T03:31:05.972306Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "08be9c5081f3bef51b6b2367430129971b4051909512cfe805d5952d04fbc420",
+    "content_sha256": "426528f379c0bece9525b3e6570ce7541408c3995a6b3c62dc628bc5aa5c4c67",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1403",
   "summary": "Syftet med statistiken är bland annat att följa upp vilken miljöhänsyn som tagits i samband med föryngringsavverkning. Hänsynstagande vid föryngringsavverkning är centralt i den svenska skogspolitiken.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-02",
+  "next_publication_date": "2027-03-02",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-02",
         "Syftet med statistiken är bland annat att följa upp vilken miljöhänsyn som tagits i samband med föryngringsavverkning. Hänsynstagande vid föryngringsavverkning är centralt i den svenska skogspolitiken."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-02",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1403&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1403&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

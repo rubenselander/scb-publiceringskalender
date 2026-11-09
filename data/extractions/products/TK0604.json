@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0604",
     "response_url": "https://www.scb.se/TK0604",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/bantrafik/punktlighet-pa-jarnvag/",
-    "fetched_at": "2026-11-02T03:31:47.186967Z",
+    "fetched_at": "2026-11-09T03:33:25.852404Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1a0d108adfa2ea69bc7ed669acdb14835cc65504f16bf83be3f2ec088113a72d",
+    "content_sha256": "52ce644ff9aad90fcb0b61b95a2ea0ea50bac7b8256a0ea8f02d54fbe052b440",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0604",
   "summary": "Statistiken beskriver utvecklingen av punktligheten och tillförlitligheten i persontransporterna på järnväg i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-29",
+  "next_publication_date": "2027-01-29",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-29",
         "Statistiken beskriver utvecklingen av punktligheten och tillförlitligheten i persontransporterna på järnväg i Sverige."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0604&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0604&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

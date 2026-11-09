@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0515",
     "response_url": "https://www.scb.se/UF0515",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/",
-    "fetched_at": "2026-11-02T03:32:36.105905Z",
+    "fetched_at": "2026-11-09T03:34:19.446493Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "875dc5f9e60ce5609fe5536c5bdb9a01e2ecee440ad7d52ff0479c051a041421",
+    "content_sha256": "0297311972d53243b0b32b0e469be09616342c81219f2f351469c803b553e8c8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0515",
   "summary": "Trender och Prognoser presenterar långsiktiga framskrivningar över tillgång och efterfrågan på arbetskraft för olika utbildningsgrupper. Framskrivningarna görs för hela riket och för Sveriges 21 län.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2026-11-11",
+  "next_publication_date": "2026-11-11",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2026-11-11",
         "Trender och Prognoser presenterar långsiktiga framskrivningar över tillgång och efterfrågan på arbetskraft för olika utbildningsgrupper. Framskrivningarna görs för hela riket och för Sveriges 21 län."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2026-11-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0515&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0515&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

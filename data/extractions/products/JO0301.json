@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0301",
     "response_url": "https://www.scb.se/JO0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/atgarder-i-skogsbruket/",
-    "fetched_at": "2026-11-02T03:29:10.006169Z",
+    "fetched_at": "2026-11-09T03:30:38.661216Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8fca9275aa1338ad7a04c4fe27266721bb15cd86012209053a4474d1b951be32",
+    "content_sha256": "233a0f6c4461516e128912a447fce54c2fb985016ca370b6a77d02925e4c82b4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0301",
   "summary": "Undersökningens syfte är att beskriva utförda skogsbruksåtgärder samt omfattningen av det skogsarbete som bedrivs i svenskt skogsbruk på produktiv skogsmarksareal.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-29",
+  "next_publication_date": "2027-06-29",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-29",
         "Undersökningens syfte är att beskriva utförda skogsbruksåtgärder samt omfattningen av det skogsarbete som bedrivs i svenskt skogsbruk på produktiv skogsmarksareal."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0301&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0301&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0303",
     "response_url": "https://www.scb.se/JO0303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/rundvirkespriser/",
-    "fetched_at": "2026-11-02T03:29:10.474885Z",
+    "fetched_at": "2026-11-09T03:30:39.281869Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9696c47c12e408c07db0a37c7bbe8d71580768a012263d32889d4ace1fea7e1e",
+    "content_sha256": "b66d0fb76b6d455714ec2fda1b116b3719022975522796653ba7a29c6b525620",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0303",
   "summary": "Statistiken visar priser på leveransvirke per kvartal.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-03",
-  "next_publication_date": "2026-11-03",
+  "next_publication_text": "Nästa publicering: 2027-02-16",
+  "next_publication_date": "2027-02-16",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-03",
+        "Nästa publicering: 2027-02-16",
         "Statistiken visar priser på leveransvirke per kvartal."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-03",
+          "text": "Nästa publicering: 2027-02-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0303&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0303&period=Forward1Year"
         }

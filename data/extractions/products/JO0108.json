@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0108",
     "response_url": "https://www.scb.se/JO0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-struktur/jordbruksforetagens-kombinationsverksamhet/",
-    "fetched_at": "2026-11-02T03:29:01.374579Z",
+    "fetched_at": "2026-11-09T03:30:27.238644Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9c036da15147303e111ce14595192def0a595dfb095590468750dc8ba68430a6",
+    "content_sha256": "eb8d3769c4fcdb418c6ec8bbb65edaa79f64a7091e7d7cfdbac7ee913ef7d7ed",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0108",
   "summary": "Statistiken visar antal företag med kombinationsverksamhet efter driftsinriktning och omsättning.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2027-02-26",
-  "next_publication_date": "2027-02-26",
+  "next_publication_text": "Nästa publicering: 2027-05-25",
+  "next_publication_date": "2027-05-25",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2027-02-26",
+        "Nästa publicering: 2027-05-25",
         "Statistiken visar antal företag med kombinationsverksamhet efter driftsinriktning och omsättning."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2027-02-26",
+          "text": "Nästa publicering: 2027-05-25",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0108&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0108&period=Forward1Year"
         }

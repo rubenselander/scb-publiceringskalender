@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0201",
     "response_url": "https://www.scb.se/HE0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-utgifter-hut/",
-    "fetched_at": "2026-11-02T03:28:47.420306Z",
+    "fetched_at": "2026-11-09T03:30:08.180402Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a86c2a7ba39d123738d71c7d928f1cb36b903d0949b9f1b026c8caa99c891fd2",
+    "content_sha256": "2cf4d01673b5bdca6b5bc841da30587dc4c76356efc05e774e0e0c4bf490fc09",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/he0201",
   "summary": "Statistiken visar utgifter för olika hushållsgrupper och hur utgifterna fördelas mellan olika varor och tjänster. En av statistikens viktigaste uppgifter är att upptäcka och uppmärksamma grupper som är utsatta i ett eller annat avseende. Undersökningen har gjorts sedan 1958. Undersökningen genomförs år 2026 och därefter vart femte år från och med 2030.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-07",
+  "next_publication_date": "2027-06-07",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-07",
         "Statistiken visar utgifter för olika hushållsgrupper och hur utgifterna fördelas mellan olika varor och tjänster. En av statistikens viktigaste uppgifter är att upptäcka och uppmärksamma grupper som är utsatta i ett eller annat avseende. Undersökningen har gjorts sedan 1958. Undersökningen genomförs år 2026 och därefter vart femte år från och med 2030."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-07",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -911,22 +917,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utgifter för hushåll (0-79 år) (HUT) efter disponibel inkomst och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
+          "text": "Utgifter för hushåll (0–79 år) (HUT) efter disponibel inkomst och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift5",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift5"
         },
         {
-          "text": "Utgifter för hushåll (0-79 år) (HUT) efter hushållstyp och utgiftsslag. (Urvalsundersökning, se fotnoter.)  År 2003 - 2012",
+          "text": "Utgifter för hushåll (0–79 år) (HUT) efter hushållstyp och utgiftsslag. (Urvalsundersökning, se fotnoter.)  År 2003 - 2012",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift1"
         },
         {
-          "text": "Utgifter för hushåll (0-79 år) (HUT) efter kommungrupp och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
+          "text": "Utgifter för hushåll (0–79 år) (HUT) efter kommungrupp och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift6",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift6"
         },
         {
-          "text": "Utgifter för hushåll (0-79 år) (HUT) efter antal barn och utgiftsslag. (Urvalsundersökning,se fotnoter.)  År 2003 - 2009",
+          "text": "Utgifter för hushåll (0–79 år) (HUT) efter antal barn och utgiftsslag. (Urvalsundersökning,se fotnoter.)  År 2003 - 2009",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift2",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HUTutgift2"
         }
@@ -941,19 +947,19 @@
           "Datum"
         ],
         [
-          "Utgifter för hushåll (0-79 år) (HUT) efter disponibel inkomst och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
+          "Utgifter för hushåll (0–79 år) (HUT) efter disponibel inkomst och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
           "2010-12-08"
         ],
         [
-          "Utgifter för hushåll (0-79 år) (HUT) efter hushållstyp och utgiftsslag. (Urvalsundersökning, se fotnoter.)  År 2003 - 2012",
+          "Utgifter för hushåll (0–79 år) (HUT) efter hushållstyp och utgiftsslag. (Urvalsundersökning, se fotnoter.)  År 2003 - 2012",
           "2013-12-17"
         ],
         [
-          "Utgifter för hushåll (0-79 år) (HUT) efter kommungrupp och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
+          "Utgifter för hushåll (0–79 år) (HUT) efter kommungrupp och utgiftsslag. (Urvalsundersökning.)  År 2006 - 2009",
           "2010-12-08"
         ],
         [
-          "Utgifter för hushåll (0-79 år) (HUT) efter antal barn och utgiftsslag. (Urvalsundersökning,se fotnoter.)  År 2003 - 2009",
+          "Utgifter för hushåll (0–79 år) (HUT) efter antal barn och utgiftsslag. (Urvalsundersökning,se fotnoter.)  År 2003 - 2009",
           "2010-12-08"
         ]
       ]
@@ -1254,7 +1260,9 @@
         "Beskrivning av Hushållens utgifter (HUT)",
         "COICOP-koder 2003–2012 (pdf)",
         "Beskrivning av innehållet i utgiftsgrupperna 2003–2012 (xlsx)",
-        "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?"
+        "Hushållens konsumtion och Hushållens utgifter – Vad är skillnaden?",
+        "Den nya designen av undersökningen Hushållens utgifter 2021 (pdf)",
+        "Så här hittar du äldre rapporter om hushållens utgifter (pdf)"
       ],
       "links": [],
       "table_headers": [],

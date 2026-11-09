@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0401",
     "response_url": "https://www.scb.se/AM0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/",
-    "fetched_at": "2026-11-02T03:27:57.791700Z",
+    "fetched_at": "2026-11-09T03:29:10.534229Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "919270eb4d582ebd33cb679bfeffff516ae9b73e367a7c06db7e42f7b65335bd",
+    "content_sha256": "d5080d88c4caa67ccb04c3b6f80fdde06fc83afbf9e3093331c2157e3271f2b2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0401",
   "summary": "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-03",
-  "next_publication_date": "2026-11-03",
+  "next_publication_text": "Nästa publicering: 2026-11-20",
+  "next_publication_date": "2026-11-20",
   "responsible_agency": null,
   "notices": [
     "Arbetskraftsundersökningarna, tidigare definitioner",
@@ -39,12 +39,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-03",
+        "Nästa publicering: 2026-11-20",
         "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-03",
+          "text": "Nästa publicering: 2026-11-20",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year"
         }
@@ -313,14 +313,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-16",
-        "I september 2026 var 5 292 000 sysselsatta, icke säsongrensat. Antalet arbetade timmar var i genomsnitt 175,4 miljoner timmar per vecka. Antalet arbetslösa var 466 000 vilket motsvarar ett arbetslöshetstal på 8,1 procent. Säsongrensade och utjämnade data visar på en ökning av både antalet och andelen sysselsatta. Det säsongrensade och utjämnade arbetslöshetstalet uppgick till 8,7 procent."
+        "2026-11-03",
+        "Under tredje kvartalet 2026 ökade antalet sysselsatta personer med 74 000 och uppgick till 5 398 000, icke säsongrensat. Antalet arbetade timmar var i genomsnitt 139,2 miljoner per vecka. Antalet arbetslösa var 479 000, vilket motsvarar ett arbetslöshetstal på 8,1 procent. Säsongrensade och utjämnade data visar på en ökning av både antalet och andelen sysselsatta. Det säsongrensade och utjämnade arbetslöshetstalet uppgick till 8,7 procent."
       ],
       "links": [
         {
-          "text": "Små förändringar på arbetsmarknaden i september",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-september-2026/"
+          "text": "Fortsatt positiv utveckling av sysselsättningen under tredje kvartalet 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-tredje-kvartalet-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-tredje-kvartalet-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",

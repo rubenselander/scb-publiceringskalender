@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0902",
     "response_url": "https://www.scb.se/MI0902",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/vattenuttag-och-vattenanvandning-i-sverige/",
-    "fetched_at": "2026-11-02T03:30:13.482790Z",
+    "fetched_at": "2026-11-09T03:31:52.903626Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d42b80ec8967a2a339207708cd04f1e75deb0eb1d14bbd41c37a382c5afda5c5",
+    "content_sha256": "02f09e073c7ddaccf29b2a80fc0c17b78c057227358fb77ef39719247051dc84",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0902",
   "summary": "Statistiken ger en samlad bild av hur vattenanvändningen ser ut i samhället, till exempel hur mycket grundvatten, ytvatten och havsvatten som tas ut och hur mycket vatten som används av hushåll, industri, jordbruk och övriga användare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Statistiken ger en samlad bild av hur vattenanvändningen ser ut i samhället, till exempel hur mycket grundvatten, ytvatten och havsvatten som tas ut och hur mycket vatten som används av hushåll, industri, jordbruk och övriga användare."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0902&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0902&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

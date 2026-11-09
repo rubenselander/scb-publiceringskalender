@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0312",
     "response_url": "https://www.scb.se/JO0312",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/bruttoavverkning/",
-    "fetched_at": "2026-11-02T03:29:13.957440Z",
+    "fetched_at": "2026-11-09T03:30:43.301621Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "bf3fbcc35498dbc206d5945f567942f2d007d45c345c1e36e8e7d5380bba32c3",
+    "content_sha256": "094b635c90a7b1243e490066a167f1a00aeec4f4666bbe44e341bea0b91ae89d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0312",
   "summary": "Statistiken visar avverkad volym och areal.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Statistiken visar avverkad volym och areal."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0312&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0312&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

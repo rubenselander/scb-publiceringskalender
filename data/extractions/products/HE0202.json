@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0202",
     "response_url": "https://www.scb.se/HE0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-boendeutgifter/",
-    "fetched_at": "2026-11-02T03:28:47.882408Z",
+    "fetched_at": "2026-11-09T03:30:08.778474Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0ca2986f2f44cd1cadcf3dcd1c200f6c92ea83568c37585abd7e5d2a93febfb8",
+    "content_sha256": "b9f156188c1e400b2b5d5820910198ff3230eb7f3b0ffdb3cbaf3e8c8cb90c0a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/he0202",
   "summary": "Statistiken visar hushållens boendeutgifter i olika upplåtelseformer. Boendeutgiften sätts också i relation till hushållets inkomst. Statistik om boendeutgifter tillhörde tidigare undersökningen Hushållens ekonomi (HEK) men från 2015 finns undersökningen Hushållens boendeutgifter. Undersökningen genomförs vartannat år 2024-2030 och därefter med 2-3 års mellanrum.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-27",
+  "next_publication_date": "2027-05-27",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-27",
         "Statistiken visar hushållens boendeutgifter i olika upplåtelseformer. Boendeutgiften sätts också i relation till hushållets inkomst. Statistik om boendeutgifter tillhörde tidigare undersökningen Hushållens ekonomi (HEK) men från 2015 finns undersökningen Hushållens boendeutgifter. Undersökningen genomförs vartannat år 2024-2030 och därefter med 2-3 års mellanrum."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0202&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0202&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

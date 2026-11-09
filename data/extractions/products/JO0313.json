@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0313",
     "response_url": "https://www.scb.se/JO0313",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/produktion-i-skogsbruket/levererade-skogsplantor/",
-    "fetched_at": "2026-11-02T03:29:14.487636Z",
+    "fetched_at": "2026-11-09T03:30:43.861358Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b707c0484a2417ef0a7a54d70d3d9adbe4806e132e18d99b2c9c8e2855973947",
+    "content_sha256": "27b7b648e78952fa7d1b221bd151938056889a9e5e6b04b2f04cc5b7ad70abae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0313",
   "summary": "Statistiken visar levererade skogsplantor för användning i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-20",
+  "next_publication_date": "2027-04-20",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-20",
         "Statistiken visar levererade skogsplantor för användning i Sverige."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-20",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0313&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0313&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

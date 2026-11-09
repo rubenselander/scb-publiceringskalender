@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0802",
     "response_url": "https://www.scb.se/MI0802",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/land-och-vattenarealer/",
-    "fetched_at": "2026-11-02T03:30:07.010216Z",
+    "fetched_at": "2026-11-09T03:31:46.582257Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "73a8b4ea93ad71ef0073b9bd8a60c4e34451710e8c060b0164a0f61e506c6351",
+    "content_sha256": "feb4db7988040f7d23a00ebfb226fed8df8c0aef39df7f9f6c1d8f17b8796db6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0802",
   "summary": "Statistiken visar land- och vattenarealer för DeSO, RegSO, kommuner, län och riket. Vattenarealerna är uppdelade på inlandsvatten (sjöar och vattendrag), de fyra stora sjöarna (Vänern, Vättern, Mälaren och Hjälmaren) och havsvatten ut till territorialgränsen.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-29",
+  "next_publication_date": "2027-01-29",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-29",
         "Statistiken visar land- och vattenarealer för DeSO, RegSO, kommuner, län och riket. Vattenarealerna är uppdelade på inlandsvatten (sjöar och vattendrag), de fyra stora sjöarna (Vänern, Vättern, Mälaren och Hjälmaren) och havsvatten ut till territorialgränsen."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0802&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0802&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK0501",
     "response_url": "https://www.scb.se/TK0501",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/luftfart/luftfart/",
-    "fetched_at": "2026-11-02T03:31:45.056917Z",
+    "fetched_at": "2026-11-09T03:33:23.230081Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0f712c199d3376b948be456eabdadcaad408283f9759ca99437cdc12ba60b500",
+    "content_sha256": "7486fe7e3c2bed26219957cc2c55518f9dd6ec94bbdc6dc8a6e8b8853ea1f617",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk0501",
   "summary": "Statistiken beskriver utvecklingen i den svenska luftfartssektorn utifrån trafik och transporter, infrastruktur, luftfartyg samt olyckshändelser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-22",
+  "next_publication_date": "2027-04-22",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-22",
         "Statistiken beskriver utvecklingen i den svenska luftfartssektorn utifrån trafik och transporter, infrastruktur, luftfartyg samt olyckshändelser."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-22",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK0501&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK0501&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

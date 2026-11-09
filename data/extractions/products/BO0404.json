@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/BO0404",
     "response_url": "https://www.scb.se/BO0404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bostader-och-boende/avgifter-hyror-for-nybyggda-lagenheter/",
-    "fetched_at": "2026-11-02T03:28:10.476049Z",
+    "fetched_at": "2026-11-09T03:29:24.822314Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0687ee23ccd8bff731e9adbe6880071ec40275451f745207dafcb4f56943534d",
+    "content_sha256": "4f649cf1a09385e069eb839c9a065ac17c7c8f31a75f6a271c47b89f71f95a1b",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/bo0404",
   "summary": "Statistiken visar hyror/avgifter och insatser för olika lägenhetstyper inom nyproduktionen i olika delar av landet, fördelat på lägenhetstyper och upplåtelseformer per region.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-01",
+  "next_publication_date": "2027-10-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-01",
         "Statistiken visar hyror/avgifter och insatser för olika lägenhetstyper inom nyproduktionen i olika delar av landet, fördelat på lägenhetstyper och upplåtelseformer per region."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=BO0404&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=BO0404&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

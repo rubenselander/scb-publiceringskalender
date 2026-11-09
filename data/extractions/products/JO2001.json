@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO2001",
     "response_url": "https://www.scb.se/JO2001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/prisutveckling-i-skogsbruket/priser-pa-skogsmark/",
-    "fetched_at": "2026-11-02T03:29:34.483730Z",
+    "fetched_at": "2026-11-09T03:31:09.501498Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7ac37775ca95cb6e5477e20ccea867259edc3a2a439083715f3edc631ded3b36",
+    "content_sha256": "18db72bef2a5a13ff9fe50fe1c2f33a932083820132c15b40d1cfa7517e9c652",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo2001",
   "summary": "Statistiken visar genomsnittligt pris på produktiv skogsmark (utan avverkningsrestriktioner) samt antal köp som ligger till grund för priset och medelareal för dessa per län och fyra landsdelar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-08-31",
+  "next_publication_date": "2027-08-31",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-08-31",
         "Statistiken visar genomsnittligt pris på produktiv skogsmark (utan avverkningsrestriktioner) samt antal köp som ligger till grund för priset och medelareal för dessa per län och fyra landsdelar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-08-31",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO2001&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO2001&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

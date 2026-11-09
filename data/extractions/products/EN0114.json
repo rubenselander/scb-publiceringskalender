@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0114",
     "response_url": "https://www.scb.se/EN0114",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandning-inom-byggsektorn/",
-    "fetched_at": "2026-11-02T03:28:19.360198Z",
+    "fetched_at": "2026-11-09T03:29:36.398753Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "05f23df6d05ff93b1913651684ac1a16622af39f79d44776387ab8a4c1a6a8ec",
+    "content_sha256": "b369a7f954aa93790982d661f4042d02c7c527ea57905a7931a90252527774cc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0114",
   "summary": "Energianvändningen i byggsektorn är en intermittent undersökning. Den genomfördes senast 2023 och avsåg 2022 års energianvändning. Tidigare undersökningsår är 2017, 2005 och 1986. De år undersökningen inte genomförs modellskattas resultaten. Statistiken publiceras numera på Energimyndighetens webbplats.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-17",
+  "next_publication_date": "2027-11-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-17",
         "Energianvändningen i byggsektorn är en intermittent undersökning. Den genomfördes senast 2023 och avsåg 2022 års energianvändning. Tidigare undersökningsår är 2017, 2005 och 1986. De år undersökningen inte genomförs modellskattas resultaten. Statistiken publiceras numera på Energimyndighetens webbplats."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0114&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0114&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

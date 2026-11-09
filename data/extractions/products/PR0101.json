@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0101",
     "response_url": "https://www.scb.se/PR0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/",
-    "fetched_at": "2026-11-02T03:31:01.755057Z",
+    "fetched_at": "2026-11-09T03:32:43.126939Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "be8eef01205277dae7bcb33fc7297dbe2bf633ba03d049fa42343db3ed0a6be8",
+    "content_sha256": "99f14f929d8a0a2ba574ddf089bbfc90437c764cd9541370452e30304ab0cffe",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0101",
   "summary": "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-05",
-  "next_publication_date": "2026-11-05",
+  "next_publication_text": "Nästa publicering: 2026-11-12",
+  "next_publication_date": "2026-11-12",
   "responsible_agency": null,
   "notices": [
     "KPI byter klassifikation och basår",
@@ -41,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-05",
+        "Nästa publicering: 2026-11-12",
         "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-05",
+          "text": "Nästa publicering: 2026-11-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year"
         }
@@ -174,14 +174,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-14",
-        "Inflationstakten enligt KPI var 1,1 procent i september 2026, vilket var en uppgång från 0,3 procent i augusti. Månadsförändringen från augusti till september var 0,9 procent enligt KPI. Inflationstakten enligt KPIF (Konsumentprisindex med fast ränta) var 1,5 procent i september, en uppgång från 0,7 procent i augusti."
+        "2026-11-05",
+        "Den preliminära inflationstakten enligt KPI för oktober 2026 var 0,9 procent, vilket var en nedgång från 1,1 procent i september. Månadsförändringen för KPI från september till oktober var 0,0 procent. Den ordinarie publiceringen för oktober sker den 12 november."
       ],
       "links": [
         {
-          "text": "Inflationstakten enligt KPI var 1,1 procent i september 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-september-2026/"
+          "text": "Snabb-KPI: Inflationstakten 0,9 procent i oktober 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -1021,22 +1021,22 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M09",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d"
-        },
-        {
-          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M09",
+          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI"
         },
         {
-          "text": "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M09",
+          "text": "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M10",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPI1d"
+        },
+        {
+          "text": "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIAvdelningar",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIAvdelningar"
         },
         {
-          "text": "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M09",
+          "text": "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIFSA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbKPIFSA"
         }
@@ -1051,20 +1051,20 @@
           "Datum"
         ],
         [
-          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M09",
-          "2026-10-07"
+          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M10",
+          "2026-11-05"
         ],
         [
-          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (två decimaler). Månad 2024M08 - 2026M09",
-          "2026-10-07"
+          "Snabb-KPI: preliminära förändringstal för KPI, KPIF och KPIF-XE (en decimal). Månad 2024M09 - 2026M10",
+          "2026-11-05"
         ],
         [
-          "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M09",
-          "2026-10-07"
+          "Snabb-KPI: Preliminära förändringstal, avdelningar (COICOP) enligt KPI. Månad 2026M01 - 2026M10",
+          "2026-11-05"
         ],
         [
-          "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M09",
-          "2026-10-07"
+          "Snabb-KPI: Preliminära förändringstal, analysgrupper KPIF. Månad 2026M01 - 2026M10",
+          "2026-11-05"
         ]
       ]
     },

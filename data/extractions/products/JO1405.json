@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1405",
     "response_url": "https://www.scb.se/JO1405",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-struktur/fastighets--och-agarstruktur-i-skogsbruk/",
-    "fetched_at": "2026-11-02T03:29:32.927337Z",
+    "fetched_at": "2026-11-09T03:31:07.382340Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "52adc7e6e13b56d4290ac957ce4d9f84f1d6f04574588f8339416cfabca56dd5",
+    "content_sha256": "a8fb795c2f64060118afc1b591631b574128b145e21e838ebdac1eb77dd8f2f0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1405",
   "summary": "Statistiken visar skogsägare och brukningsenheter. Statistiken bygger på lantbruksenheter ur fastighetstaxeringen och grunden till uppgifterna bygger därmed på de uppgifter som fastighetsägarna själva lämnar i sin fastighetsdeklaration. Den areal som redovisas i statistiken avser därför deklarerad produktiv skogsmark.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-25",
+  "next_publication_date": "2027-05-25",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-25",
         "Statistiken visar skogsägare och brukningsenheter. Statistiken bygger på lantbruksenheter ur fastighetstaxeringen och grunden till uppgifterna bygger därmed på de uppgifter som fastighetsägarna själva lämnar i sin fastighetsdeklaration. Den areal som redovisas i statistiken avser därför deklarerad produktiv skogsmark."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1405&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1405&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1001",
     "response_url": "https://www.scb.se/TK1001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/",
-    "fetched_at": "2026-11-02T03:31:50.180217Z",
+    "fetched_at": "2026-11-09T03:33:29.386195Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "88bcb43378d0a220c38ee275cc17ed48b2382d9db318119198c8c4015d59baf3",
+    "content_sha256": "b8411474837278d3480a9124292e1df082ecd80632229cfdf6857e1f16c4fa9e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk1001",
   "summary": "Statistiken beskriver den svenska fordonsparken. Det gäller beståndet av fordon, nyregistreringar, avregistreringar samt fördelningar på ägarkategori, tekniska egenskaper och regionalt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-03",
-  "next_publication_date": "2026-11-03",
+  "next_publication_text": "Nästa publicering: 2026-12-02",
+  "next_publication_date": "2026-12-02",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -46,12 +46,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-03",
+        "Nästa publicering: 2026-12-02",
         "Statistiken beskriver den svenska fordonsparken. Det gäller beståndet av fordon, nyregistreringar, avregistreringar samt fördelningar på ägarkategori, tekniska egenskaper och regionalt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-03",
+          "text": "Nästa publicering: 2026-12-02",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK1001&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK1001&period=Forward1Year"
         }
@@ -117,9 +117,9 @@
       ],
       "paragraphs": [
         "Nyregistrerade personbilar",
-        "29 850",
+        "25 828",
         "antal personbilar",
-        "Referenstid: september 2026"
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -139,7 +139,7 @@
         }
       ],
       "paragraphs": [
-        "14,1 %",
+        "2,5 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -223,9 +223,9 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Fordonsstatistik januari 2026 – september 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/pong/tabell-och-diagram/fordonsstatistik-januari-2026--september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/pong/tabell-och-diagram/fordonsstatistik-januari-2026--september-2026/"
+          "text": "Fordonsstatistik januari 2026 – oktober 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/pong/tabell-och-diagram/fordonsstatistik-januari-2026--oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/fordon/pong/tabell-och-diagram/fordonsstatistik-januari-2026--oktober-2026/"
         },
         {
           "text": "Fordon i län och kommun vid årsskiftet 2025",
@@ -260,9 +260,9 @@
           "Datum"
         ],
         [
-          "Fordonsstatistik januari 2026 – september 2026",
+          "Fordonsstatistik januari 2026 – oktober 2026",
           "Excel-fil",
-          "2026-10-02"
+          "2026-11-03"
         ],
         [
           "Fordon i län och kommun vid årsskiftet 2025",
@@ -326,12 +326,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyregistrerade personbilar efter län och kommun samt drivmedel. Månad 2006M01 - 2026M09",
+          "text": "Nyregistrerade personbilar efter län och kommun samt drivmedel. Månad 2006M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PersBilarDrivMedel",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PersBilarDrivMedel"
         },
         {
-          "text": "Fordon enligt bilregistret efter fordonsslag och bestånd. Månad 1975M01 - 2026M09",
+          "text": "Fordon enligt bilregistret efter fordonsslag och bestånd. Månad 1975M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Fordon",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Fordon"
         },
@@ -356,12 +356,12 @@
           "Datum"
         ],
         [
-          "Nyregistrerade personbilar efter län och kommun samt drivmedel. Månad 2006M01 - 2026M09",
-          "2026-10-02"
+          "Nyregistrerade personbilar efter län och kommun samt drivmedel. Månad 2006M01 - 2026M10",
+          "2026-11-03"
         ],
         [
-          "Fordon enligt bilregistret efter fordonsslag och bestånd. Månad 1975M01 - 2026M09",
-          "2026-10-02"
+          "Fordon enligt bilregistret efter fordonsslag och bestånd. Månad 1975M01 - 2026M10",
+          "2026-11-03"
         ],
         [
           "Fordon i trafik efter län och kommun samt fordonsslag. År 2002 - 2025",
@@ -413,7 +413,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyregistrering av bilar, Månad 2013M12 - 2026M09",
+          "text": "Nyregistrering av bilar, Månad 2013M12 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatTK1001",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SnabbStatTK1001"
         }
@@ -428,8 +428,8 @@
           "Datum"
         ],
         [
-          "Nyregistrering av bilar, Månad 2013M12 - 2026M09",
-          "2026-10-02"
+          "Nyregistrering av bilar, Månad 2013M12 - 2026M10",
+          "2026-11-03"
         ]
       ]
     },
@@ -473,7 +473,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Nyckeltal fordonsstatistik 2016M11 - 2026M09",
+          "text": "Nyckeltal fordonsstatistik 2016M11 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTTK1001A",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTTK1001A"
         }
@@ -488,8 +488,8 @@
           "Datum"
         ],
         [
-          "Nyckeltal fordonsstatistik 2016M11 - 2026M09",
-          "2026-10-02"
+          "Nyckeltal fordonsstatistik 2016M11 - 2026M10",
+          "2026-11-03"
         ]
       ]
     },

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "started_at": "2026-11-02T03:27:43.408880+00:00",
+  "started_at": "2026-11-09T03:28:54.160938+00:00",
   "sources": {
     "products": {
       "source": "products",
@@ -2476,29 +2476,33 @@
     },
     "changes": {
       "source": "changes",
-      "complete": true,
+      "complete": false,
       "discovery_complete": true,
-      "discovered_count": 5,
+      "discovered_count": 2,
       "records": {
         "009372b06c66785a07c85d4c0ed123c245fda861a9c08056dcc3b13bbbf129d0": {
-          "status": "fresh",
+          "status": "no_longer_listed",
           "error": null
         },
         "6396eee91d0c5ebddba83da984c43301ebc500d7b87f8ba98aecc93cb87316a0": {
-          "status": "fresh",
+          "status": "no_longer_listed",
           "error": null
         },
         "9205d99ae83272ffbbbdb9a1281bb8dbcef1cc6f58387cbc1cbbde27884ec601": {
-          "status": "fresh",
+          "status": "no_longer_listed",
           "error": null
         },
         "b30f86043e77f0c4c67dae9137f90292238cde5ad6526a193a0062995e9cdda0": {
-          "status": "fresh",
+          "status": "no_longer_listed",
           "error": null
         },
+        "fa27e017008cb7a0a99ea64f71d6123e19dde749636d9f98a3435024da941577": {
+          "status": "failed",
+          "error": "Unresolved report column headings on page 1"
+        },
         "index": {
-          "status": "fresh",
-          "error": null
+          "status": "retained",
+          "error": "Validation failed: Document explicitly reports incomplete coverage"
         }
       },
       "warnings": []

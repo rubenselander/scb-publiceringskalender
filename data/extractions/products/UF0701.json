@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0701",
     "response_url": "https://www.scb.se/UF0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/",
-    "fetched_at": "2026-11-02T03:32:47.944616Z",
+    "fetched_at": "2026-11-09T03:34:31.069493Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d9f62c142310049c51fe3476b52a8ea6c6b5c08bcabaf628293b182420697f59",
+    "content_sha256": "8f63a5e36ca7502fca808757e8cb71b0ec556a94e42f1d85c8667781bb4602d0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0701",
   "summary": "Här redovisas årlig statistik över yrkeshögskolans sökande, studerande och examinerade.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-06",
-  "next_publication_date": "2026-11-06",
+  "next_publication_text": "Nästa publicering: 2026-11-20",
+  "next_publication_date": "2026-11-20",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-06",
+        "Nästa publicering: 2026-11-20",
         "Här redovisas årlig statistik över yrkeshögskolans sökande, studerande och examinerade."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-06",
+          "text": "Nästa publicering: 2026-11-20",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0701&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0701&period=Forward1Year"
         }
@@ -95,14 +95,14 @@
         }
       ],
       "paragraphs": [
-        "2026-03-20",
-        "Över 104 600 sökte till yrkeshögskolans program 2025, vilket är på samma nivå som året innan. Behöriga sökande ökade från 77 000 till 77 900 samtidigt som antalet platser minskade från 34 700 till 33 400. Teknik och tillverkning hade flest antagna som påbörjade studier. Totalt minskade antagna som påbörjat studier med 4 procent."
+        "2026-11-06",
+        "SCB har följt upp en tidigare studie om faktorer som kan spela roll för om den studerande på ett yrkeshögskoleprogram tar examen eller inte. Liksom i den tidigare studien visar resultaten att studerande med höga betyg från gymnasieskolan tar examen i större utsträckning än personer med lägre gymnasiebetyg. Även utbildningsområde och studieform har betydelse för sannolikheten att ta examen."
       ],
       "links": [
         {
-          "text": "Fortsatt många som sökte till yrkeshögskolan 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/sokande-och-studerande-inom-yh-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/sokande-och-studerande-inom-yh-2025/"
+          "text": "Studerande inom yrkeshögskolan med höga gymnasiebetyg har större sannolikhet att ta examen",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examensgraden-inom-yrkeshogskolan-20212024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examensgraden-inom-yrkeshogskolan-20212024/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -870,6 +870,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Examensgraden inom yrkeshögskolan 2021–2024",
+          "href": "/publikation/64474",
+          "url": "https://www.scb.se/publikation/64474"
+        },
+        {
           "text": "Varför studera på ett yrkeshögskoleprogram?",
           "href": "/publikation/51416",
           "url": "https://www.scb.se/publikation/51416"
@@ -900,6 +905,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Examensgraden inom yrkeshögskolan 2021–2024",
+          "",
+          "2026-11-06"
         ],
         [
           "Varför studera på ett yrkeshögskoleprogram?",

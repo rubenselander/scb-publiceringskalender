@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0803",
     "response_url": "https://www.scb.se/MI0803",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/markanvandning/markanvandningen-i-sverige/",
-    "fetched_at": "2026-11-02T03:30:07.855886Z",
+    "fetched_at": "2026-11-09T03:31:47.151315Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e32e4b9dd84bad58b23636e353b5fcb4a5892bd291447bbd27223dbdd978c237",
+    "content_sha256": "29a5f19167fbe5ea166e063f7521c7df387d0a1bc5cdcd6d3806f35d8fbc1528",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0803",
   "summary": "Statistiken ger en samlad beskrivning av hur marken i Sverige utnyttjas för olika ändamål och hur markutnyttjandet har förändrats över tid. Bland annat redovisas uppgifter om hur stora arealer mark som används för jordbruk, skogsbruk samt bebyggelse och infrastruktur av olika slag.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Statistiken ger en samlad beskrivning av hur marken i Sverige utnyttjas för olika ändamål och hur markutnyttjandet har förändrats över tid. Bland annat redovisas uppgifter om hur stora arealer mark som används för jordbruk, skogsbruk samt bebyggelse och infrastruktur av olika slag."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0803&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0803&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

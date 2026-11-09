@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0815",
     "response_url": "https://www.scb.se/MI0815",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/boende-bebyggelse-och-mark/bebyggelseomraden/verksamhetsomraden-och-handelsomraden/",
-    "fetched_at": "2026-11-02T03:30:12.666753Z",
+    "fetched_at": "2026-11-09T03:31:51.881863Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "52262fe20f380eca4ca2040ee8ef3e6ce0fc7b180c42b07806be33194eafa8e0",
+    "content_sha256": "84d3d17d9b7ce0dd25bd9d2e18e8c71ecc195bed21cb14c96db78edcdfa582b7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0815",
   "summary": "Statistiken visar antal anställda, arbetsställen, branscher och arealer för verksamhetsområden och handelsområden. Exempel på verksamhetsområden är flygplatser, gruvor och täkter, områden med industri, företagsparker och logistik eller områden med högskolor, universitet och vårdinrättningar. SCB skapar geodata/kartor med verksamhetsområden och handelsområden, som finns som öppna data.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-01",
+  "next_publication_date": "2027-10-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-01",
         "Statistiken visar antal anställda, arbetsställen, branscher och arealer för verksamhetsområden och handelsområden. Exempel på verksamhetsområden är flygplatser, gruvor och täkter, områden med industri, företagsparker och logistik eller områden med högskolor, universitet och vårdinrättningar. SCB skapar geodata/kartor med verksamhetsområden och handelsområden, som finns som öppna data."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0815&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0815&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

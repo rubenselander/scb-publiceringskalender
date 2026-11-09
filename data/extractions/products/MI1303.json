@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1303",
     "response_url": "https://www.scb.se/MI1303",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/indikatorer-for-hallbar-utveckling/",
-    "fetched_at": "2026-11-02T03:30:22.294314Z",
+    "fetched_at": "2026-11-09T03:31:59.873294Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3f819ee2a3eac70dcb69b7ccdc3380df964c70a48e78d5ea9e0ddbb10aa6c52e",
+    "content_sha256": "db63650129bc0bdbb709736389d43dd3faa95966312502dd9526885407ea41cc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi1303",
   "summary": "Ett globalt system för indikatorer för hållbar utveckling tas fram i FN:s regi. EU och Sverige är aktiva i detta arbete. Här finns länkar till de rapporter som tagits fram sedan 2001.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-08",
+  "next_publication_date": "2027-06-08",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-08",
         "Ett globalt system för indikatorer för hållbar utveckling tas fram i FN:s regi. EU och Sverige är aktiva i detta arbete. Här finns länkar till de rapporter som tagits fram sedan 2001."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1303&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1303&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

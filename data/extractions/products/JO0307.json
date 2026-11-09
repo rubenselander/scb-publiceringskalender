@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0307",
     "response_url": "https://www.scb.se/JO0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogsbrukets-ekonomi/kostnader-och-intakter-i-det-storskaliga-skogsbruket/",
-    "fetched_at": "2026-11-02T03:29:12.108971Z",
+    "fetched_at": "2026-11-09T03:30:41.181296Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "57f64cd08edb2b639f90467afe4b9975dafc5eb48e3cf7826aa98d28573d5314",
+    "content_sha256": "4834c9a5f371518ad7fc733faa443b2a4ff83d11a64ba756ecd197f5eebac8f3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0307",
   "summary": "Statistiken visar olika kostnader inom det så kallade storskaliga skogsbruket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-17",
+  "next_publication_date": "2027-06-17",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-17",
         "Statistiken visar olika kostnader inom det så kallade storskaliga skogsbruket."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0307&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0307&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

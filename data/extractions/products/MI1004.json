@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1004",
     "response_url": "https://www.scb.se/MI1004",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vaxtnaring-och-odlingsatgarder/kvave--och-fosforbalanser-for-jordbruksmark/",
-    "fetched_at": "2026-11-02T03:30:18.346253Z",
+    "fetched_at": "2026-11-09T03:31:55.867229Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "799fe8ad4afe6e17f232101d027339d208d3623523b6dc6fc392e7a97302c5e3",
+    "content_sha256": "302597c9d4401fb84466b10bf3e2bb8a3ffa5bd50040d29a1c94df14188385ae",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi1004",
   "summary": "Statistikens visar till- och bortförsel av kväve och fosfor från jordbruksmark och jordbrukssektor regionalt och nationellt. Skillnaden mellan till- och bortförsel, överskott/underskott, ger ett mått på den totala växtnäringssituationen och risken för negativ miljöpåverkan på mark, vatten och luft.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-25",
+  "next_publication_date": "2027-11-25",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-25",
         "Statistikens visar till- och bortförsel av kväve och fosfor från jordbruksmark och jordbrukssektor regionalt och nationellt. Skillnaden mellan till- och bortförsel, överskott/underskott, ger ett mått på den totala växtnäringssituationen och risken för negativ miljöpåverkan på mark, vatten och luft."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1004&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1004&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

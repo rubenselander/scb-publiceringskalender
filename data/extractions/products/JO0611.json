@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0611",
     "response_url": "https://www.scb.se/JO0611",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/lagerhallning-av-spannmal-och-raps/",
-    "fetched_at": "2026-11-02T03:29:22.395540Z",
+    "fetched_at": "2026-11-09T03:30:53.440340Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "59be5fb05f5e53371a2f482edb7a5d50b737e36fdef4c01904aa95d57044e4c2",
+    "content_sha256": "40ed0c786e96a1af7d6a9d9bff984575038b09423884a41f1cb78da3110e8d23",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0611",
   "summary": "Statistiken visar lagerhållning av spannmål och höstraps på jordbruksföretag. Statistiken avser 30 juni, 30 september och 31 december. Lageruppgifterna för december är en prognos.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-03-25",
+  "next_publication_date": "2027-03-25",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-03-25",
         "Statistiken visar lagerhållning av spannmål och höstraps på jordbruksföretag. Statistiken avser 30 juni, 30 september och 31 december. Lageruppgifterna för december är en prognos."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-03-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0611&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0611&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

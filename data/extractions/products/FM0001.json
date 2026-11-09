@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0001",
     "response_url": "https://www.scb.se/FM0001",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/",
-    "fetched_at": "2026-11-02T03:28:31.938514Z",
+    "fetched_at": "2026-11-09T03:29:50.296415Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "876244f3df0216de1677433f5940303899a9416f450c2318bb6cac4047980a86",
+    "content_sha256": "ff40f649f45a417c933b3b04ee9790c188adfe40e42216d675ad4c846b5f19c4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0001",
   "summary": "Statistiken visar reala och finansiella transaktioner gentemot utlandet. Betalningsbalansen delas in i bytesbalansen, kapitalbalansen och den finansiella balansen. Utlandsställningen visar ett lands totala nettoskuldsättning.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-11-05",
-  "next_publication_date": "2026-11-05",
+  "next_publication_text": "Nästa publicering: 2026-12-04",
+  "next_publication_date": "2026-12-04",
   "responsible_agency": {
     "label": "Sveriges riksbank",
     "link": {
@@ -47,12 +47,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-05",
+        "Nästa publicering: 2026-12-04",
         "Statistiken visar reala och finansiella transaktioner gentemot utlandet. Betalningsbalansen delas in i bytesbalansen, kapitalbalansen och den finansiella balansen. Utlandsställningen visar ett lands totala nettoskuldsättning."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-05",
+          "text": "Nästa publicering: 2026-12-04",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0001&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0001&period=Forward1Year"
         }
@@ -205,14 +205,14 @@
         }
       ],
       "paragraphs": [
-        "2026-09-14",
-        "Under andra halvåret 2025 ökade det svenska innehavet i utländska portföljtillgångar och uppgick vid årets slut till 11 486 miljarder kronor, en ökning med 7,5 procent jämfört med juni 2025. Aktier stod för den största uppgången, följt av fonder. Även räntebärande värdepapper med lång löptid ökade, medan korta räntebärande värdepapper minskade under perioden."
+        "2026-11-05",
+        "Värdet av svenska direktinvesteringstillgångar i utlandet uppgick vid utgången av 2025 till 5 508 miljarder kronor, vilket motsvarar en minskning med 4 procent jämfört med föregående år. Minskningen kan främst härledas till kronans förstärkning under året. Under samma period ökade värdet av utländska direktinvesteringar i Sverige med 1 procent och uppgick till 4 710 miljarder kronor. Avkastningen på svenska direktinvesteringar i utlandet uppgick under 2025 till 532 miljarder kronor, en minskning med 2 procent jämfört med föregående år. Avkastningen på utländska direktinvesteringar i Sverige ökade däremot med 11 procent och uppgick till 368 miljarder kronor."
       ],
       "links": [
         {
-          "text": "Svenskarnas portföljtillgångar i utlandet ökade sista halvåret av 2025",
-          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-andra-halvaret-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-andra-halvaret-2025/"
+          "text": "Svenska direktinvesteringstillgångar minskar för första gången sedan 2017",
+          "href": "/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/betalningsbalans-och-utlandsstallning/betalningsbalans-och-utlandsstallning/betalningsbalansen-bop/pong/statistiknyhet/betalningsbalansen-2025/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -527,7 +527,7 @@
         ],
         [
           "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. Kvartal 1982K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Betalningsbalans. Finansiell balans. Transaktioner efter typ av investering och kontopost. År 1982 - 2025",
@@ -551,7 +551,7 @@
         ],
         [
           "Betalningsbalans. Transaktioner efter kontopost. Kvartal 1982K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Betalningsbalans. Transaktioner efter kontopost. År 1982 - 2025",
@@ -649,11 +649,11 @@
         ],
         [
           "Utlandsställning. Räntebärande skuld efter kontopost (fördelad efter sektor och löptid). Kvartal 1997K4 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. Kvartal 2006K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Utlandsställning. Tillgångar och skulder efter sektor och kontopost. År 1982 - 2025",
@@ -661,7 +661,7 @@
         ],
         [
           "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. Kvartal 2006K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Utlandsställning. Tillgångar och skulder efter valuta och kontopost. År 1982 - 2025",
@@ -769,7 +769,7 @@
         ],
         [
           "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. Kvartal 1998K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Portföljinvesteringar. Nettoflöden efter denomineringsvaluta och kontopost. År 1998 - 2025",
@@ -781,7 +781,7 @@
         ],
         [
           "Portföljinvesteringar. Utlandets innehav av svenska räntebärande värdepapper efter typ av innehav, sektor och löptid. Kvartal 2019K1 - 2026K2",
-          "2026-09-04"
+          "2026-09-18"
         ],
         [
           "Svenska portföljinvesteringar i utlandet efter land och värdepapper. Halvår 2002H2 - 2025H2",
@@ -845,12 +845,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2024",
+          "text": "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T10",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T10"
         },
         {
-          "text": "Direktinvesteringar. Avkastning efter land. År 2008 - 2024",
+          "text": "Direktinvesteringar. Avkastning efter land. År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T09",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T09"
         },
@@ -880,22 +880,22 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T04b"
         },
         {
-          "text": "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2024",
+          "text": "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T07"
         },
         {
-          "text": "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2024",
+          "text": "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T08",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T08"
         },
         {
-          "text": "Direktinvesteringar. Tillgångar efter land. År 2008 - 2024",
+          "text": "Direktinvesteringar. Tillgångar efter land. År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T06",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T06"
         },
         {
-          "text": "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2024",
+          "text": "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T11",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM0001T11"
         }
@@ -910,12 +910,12 @@
           "Datum"
         ],
         [
-          "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2024",
-          "2025-11-05"
+          "Direktinvesteringar. Avkastning efter bransch SNI 2007. År 2008 - 2025",
+          "2026-11-05"
         ],
         [
-          "Direktinvesteringar. Avkastning efter land. År 2008 - 2024",
-          "2025-11-05"
+          "Direktinvesteringar. Avkastning efter land. År 2008 - 2025",
+          "2026-11-05"
         ],
         [
           "Direktinvesteringar. Nettoflöde efter bransch SNI 2002. Uppdateras ej. År 1998 - 2007",
@@ -938,20 +938,20 @@
           "2026-09-04"
         ],
         [
-          "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2024",
-          "2025-11-05"
+          "Direktinvesteringar. Tillgångar efter bransch SNI 2007. År 2008 - 2025",
+          "2026-11-05"
         ],
         [
-          "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2024",
-          "2025-11-05"
+          "Direktinvesteringar. Tillgångar efter investeringspost. År 2008 - 2025",
+          "2026-11-05"
         ],
         [
-          "Direktinvesteringar. Tillgångar efter land. År 2008 - 2024",
-          "2025-11-05"
+          "Direktinvesteringar. Tillgångar efter land. År 2008 - 2025",
+          "2026-11-05"
         ],
         [
-          "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2024",
-          "2025-12-12"
+          "Utländska direktinvesteringstillgångar i Sverige. Tillgångar efter kontrollerande ägares land. År 2020 - 2025",
+          "2026-11-05"
         ]
       ]
     },

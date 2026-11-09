@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1102",
     "response_url": "https://www.scb.se/JO1102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/fiske/det-yrkesmassiga-fisket-i-sotvatten/",
-    "fetched_at": "2026-11-02T03:29:28.710466Z",
+    "fetched_at": "2026-11-09T03:31:01.825852Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7477ca7c9dc5dbd6d4866f8794f43993d2681d7c7b9a2e13dfd1417e0521ac20",
+    "content_sha256": "455ddbef916e20bd8c11df76ca29a7c063655c71c589c4d4ad5ac3056f747a97",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1102",
   "summary": "Statistiken visar fångstkvantiteter och fångstvärden uppdelat på Vänern, Vättern, Hjälmaren, Mälaren och övriga inlandsvatten.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-11",
+  "next_publication_date": "2027-06-11",
   "responsible_agency": {
     "label": "Havs- och vattenmyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-11",
         "Statistiken visar fångstkvantiteter och fångstvärden uppdelat på Vänern, Vättern, Hjälmaren, Mälaren och övriga inlandsvatten."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-11",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1102&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1102&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

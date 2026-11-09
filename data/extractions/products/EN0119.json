@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0119",
     "response_url": "https://www.scb.se/EN0119",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandningen-inom-jordbruket/",
-    "fetched_at": "2026-11-02T03:28:21.815544Z",
+    "fetched_at": "2026-11-09T03:29:38.932095Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0d9f0671e880532b67c8a65d58ba86c67947a4d0fa1fea4b36f79bc5e51a6e29",
+    "content_sha256": "692b4ed15a7ac9c98d81e1366c4b91b7e4f9ad0a67c05ceafa73b7aaf118cd1c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0119",
   "summary": "Sedan 2008 publiceras statistiken över energianvändning inom jordbruket på Energimyndighetens webbplats.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-11-17",
+  "next_publication_date": "2027-11-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-11-17",
         "Sedan 2008 publiceras statistiken över energianvändning inom jordbruket på Energimyndighetens webbplats."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-11-17",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0119&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0119&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

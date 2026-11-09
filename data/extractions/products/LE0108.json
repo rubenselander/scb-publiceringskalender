@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0108",
     "response_url": "https://www.scb.se/LE0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/det-digitala-samhallet/befolkningens-it-anvandning/",
-    "fetched_at": "2026-11-02T03:29:43.781049Z",
+    "fetched_at": "2026-11-09T03:31:22.092948Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "77c13c81bda4b07fd520d05688f863eef369cc8694e6f4f7ecff5f417a414f54",
+    "content_sha256": "efd9756472eecc0bdd878494b9255474708597f408ad65aaaa6b8f472afe41c7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0108",
   "summary": "Statistiken visar privatpersoners tillgång till och användning av it, som dator och internet i hemmet, till exempel utifrån ålder. Undersökningen är gemensam för EU-länderna vilket betyder att du på Eurostats webbplats kan göra jämförelser mellan Sverige och andra länder i EU.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-10-01",
+  "next_publication_date": "2027-10-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-10-01",
         "Statistiken visar privatpersoners tillgång till och användning av it, som dator och internet i hemmet, till exempel utifrån ålder. Undersökningen är gemensam för EU-länderna vilket betyder att du på Eurostats webbplats kan göra jämförelser mellan Sverige och andra länder i EU."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-10-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0108&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0108&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

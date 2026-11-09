@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0105",
     "response_url": "https://www.scb.se/HS0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/cancerincidens-i-sverige/",
-    "fetched_at": "2026-11-02T03:28:51.020611Z",
+    "fetched_at": "2026-11-09T03:30:13.011246Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ee689f7c4ef8f8f5fb2f5132ec71ccf6cca5001651fcf2ef9b6a3ba4367f54bd",
+    "content_sha256": "12088e043393e277174c8b3f143866009e36a4d4dc5dd8b30a6bbb90e82711b0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/hs0105",
   "summary": "Statistiken visar bland annat antal diagnostiserade tumörer och antal diagnostiserade tumörer per 100 000 invånare per år för olika typer av cancer fördelat på ålder och kön.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-05",
-  "next_publication_date": "2026-11-05",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Socialstyrelsen (SoS)",
     "link": {
@@ -43,16 +43,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-05",
+        "Nästa publicering: Ingen planerad",
         "Statistiken visar bland annat antal diagnostiserade tumörer och antal diagnostiserade tumörer per 100 000 invånare per år för olika typer av cancer fördelat på ålder och kön."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-11-05",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HS0105&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HS0105&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

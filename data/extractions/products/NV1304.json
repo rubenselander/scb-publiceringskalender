@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV1304",
     "response_url": "https://www.scb.se/NV1304",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-demografi/nystartade-foretag-ar/",
-    "fetched_at": "2026-11-02T03:30:45.000458Z",
+    "fetched_at": "2026-11-09T03:32:25.942584Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "dba339319d93f9e89c5610a920b5288fdae7c1378be1c85d0faa67da5564542d",
+    "content_sha256": "13bc167b13eafb240ee56cc5554fbfd6cb52690baf792833e44860656ddd821e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv1304",
   "summary": "Statistiken visar tillkomsten av företag med genuint nystartad verksamhet inom olika regioner och näringsgrenar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-07-08",
+  "next_publication_date": "2027-07-08",
   "responsible_agency": {
     "label": "Tillväxtanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-07-08",
         "Statistiken visar tillkomsten av företag med genuint nystartad verksamhet inom olika regioner och näringsgrenar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-07-08",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV1304&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV1304&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

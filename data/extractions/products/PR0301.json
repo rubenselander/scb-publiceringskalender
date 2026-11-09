@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0301",
     "response_url": "https://www.scb.se/PR0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/",
-    "fetched_at": "2026-11-02T03:31:02.285753Z",
+    "fetched_at": "2026-11-09T03:32:43.886522Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0654768b6e2c57fae834b7b454e174e27a489989c25a37cd6b3fdfe1a614f13d",
+    "content_sha256": "044e5f55311237213c61f90e5ef05168add4c3b6b3ee7da75d074ff5456f0fe8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0301",
   "summary": "Prisindex i producent- och importled (PPI) visar den genomsnittliga prisutvecklingen i producent- och importledet, totalt och för olika marknader (HMPI, EXPI, IMPI, PPI, ITPI och TPI) och produktgrupper. Priset som mäts är det pris som svenska producenter erhåller när de säljer sin produkt, respektive det pris som köparen betalar då produkterna kommer in i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-06",
-  "next_publication_date": "2026-11-06",
+  "next_publication_text": "Nästa publicering: 2026-11-25",
+  "next_publication_date": "2026-11-25",
   "responsible_agency": null,
   "notices": [
     "PPI byter klassifikation"
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-06",
+        "Nästa publicering: 2026-11-25",
         "Prisindex i producent- och importled (PPI) visar den genomsnittliga prisutvecklingen i producent- och importledet, totalt och för olika marknader (HMPI, EXPI, IMPI, PPI, ITPI och TPI) och produktgrupper. Priset som mäts är det pris som svenska producenter erhåller när de säljer sin produkt, respektive det pris som köparen betalar då produkterna kommer in i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-06",
+          "text": "Nästa publicering: 2026-11-25",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0301&period=Forward1Year"
         }
@@ -307,9 +307,9 @@
       ],
       "paragraphs": [
         "Tjänsteprisindex",
-        "123,2",
+        "124,6",
         "Index 2020=100",
-        "Referenstid: kvartal 2 2026"
+        "Referenstid: kvartal 3 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -329,7 +329,7 @@
         }
       ],
       "paragraphs": [
-        "2,9 %",
+        "3,9 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -350,14 +350,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-26",
-        "Producentprisindex steg med 3,4 procent i september jämfört med augusti 2026. På exportmarknaden steg priserna med 3,6 procent och på importmarknaden steg de med 4,5 procent. På hemmamarknaden steg priserna med 3,3 procent. Jämfört med september 2025 ökade producentprisindex med 11,2 procent (6,8 procent i augusti)."
+        "2026-11-06",
+        "Tjänsteprisindex steg med 1,1 procent i tredje kvartalet jämfört med andra kvartalet 2026. På exportmarknaden steg priserna med 2,4 procent och på importmarknaden steg de med 2,3 procent. På hemmamarknaden steg priserna med 1,0 procent. Jämfört med tredje kvartalet 2025 ökade tjänsteprisindex med 3,9 procent (2,9 procent i andra kvartalet)."
       ],
       "links": [
         {
-          "text": "Producentpriserna ökade på samtliga marknader i september 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/prisindex-i-producent--och-importled-september-2026/"
+          "text": "Tjänstepriserna steg på alla marknader under tredje kvartalet 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/tjansteprisindex-kvartal-3-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/prisindex-i-producent-och-importled-ppi/pong/statistiknyhet/tjansteprisindex-kvartal-3-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -467,12 +467,12 @@
         [
           "Producentprisindex för tjänster, årsförändring",
           "Tabell",
-          "2026-08-07"
+          "2026-11-06"
         ],
         [
           "Producentprisindex för tjänster, kvartalsförändring",
           "Tabell",
-          "2026-08-07"
+          "2026-11-06"
         ]
       ]
     },
@@ -603,7 +603,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Producentprisindex för tjänster (TPI) efter marknad och produktgrupp SPIN 2015, 2020=100. Kvartal 1996K1 - 2026K2",
+          "text": "Producentprisindex för tjänster (TPI) efter marknad och produktgrupp SPIN 2015, 2020=100. Kvartal 1996K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2020K",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TPI2020K"
         },
@@ -628,8 +628,8 @@
           "Datum"
         ],
         [
-          "Producentprisindex för tjänster (TPI) efter marknad och produktgrupp SPIN 2015, 2020=100. Kvartal 1996K1 - 2026K2",
-          "2026-08-07"
+          "Producentprisindex för tjänster (TPI) efter marknad och produktgrupp SPIN 2015, 2020=100. Kvartal 1996K1 - 2026K3",
+          "2026-11-06"
         ],
         [
           "Producentprisindex för tjänster (TPI) efter marknad och produktgrupp SPIN 2015, 2020=100. År 1996 - 2025",
@@ -887,7 +887,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTPR0301PPI"
         },
         {
-          "text": "Indextal och förändringstal för Tjänsteprisindex 2018K1 - 2026K2",
+          "text": "Indextal och förändringstal för Tjänsteprisindex 2018K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTPR0301TPI",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NTPR0301TPI"
         }
@@ -906,8 +906,8 @@
           "2026-10-26"
         ],
         [
-          "Indextal och förändringstal för Tjänsteprisindex 2018K1 - 2026K2",
-          "2026-08-07"
+          "Indextal och förändringstal för Tjänsteprisindex 2018K1 - 2026K3",
+          "2026-11-06"
         ]
       ]
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0107",
     "response_url": "https://www.scb.se/ME0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-nominerade-och-valda/",
-    "fetched_at": "2026-11-02T03:29:49.472277Z",
+    "fetched_at": "2026-11-09T03:31:29.610352Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7392bdcfff0f4c242e3139b4582315041f6c8f3060bd08c0903987697657b678",
+    "content_sha256": "f35aed6c033be581d20cef371d6a0635618fb4b4b5416ba18d773e28296136f9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/me0107",
   "summary": "Statistiken visar nominerade, valda och ej valda kandidater i val till riksdag, region- och kommunfullmäktige efter till exempel parti, kön, ålder, inkomst, utbildning, födelse- och medborgarskapsland.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-28",
+  "next_publication_date": "2027-01-28",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-28",
         "Statistiken visar nominerade, valda och ej valda kandidater i val till riksdag, region- och kommunfullmäktige efter till exempel parti, kön, ålder, inkomst, utbildning, födelse- och medborgarskapsland."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-28",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=ME0107&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=ME0107&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/KU0401",
     "response_url": "https://www.scb.se/KU0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/folkbildning/studieforbundsstatistik/",
-    "fetched_at": "2026-11-02T03:29:38.607984Z",
+    "fetched_at": "2026-11-09T03:31:14.699702Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2ae51560c5b59b5a4058b3bf955c8f4a1ed1d116130f7a11ee063e2db33e92a7",
+    "content_sha256": "b38d36653a526727f5fbb1ade543232ccaa2dbf93d7b00bc02503dd83867e431",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/ku0401",
   "summary": "År 2020 blev SCB ansvarig för studieförbundsstatistik. Här redovisas från och med 2021 officiell statistik över studieförbundens verksamhet och studiedeltagare i studiecirklar och annan folkbildningsverksamhet.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-30",
+  "next_publication_date": "2027-04-30",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-30",
         "År 2020 blev SCB ansvarig för studieförbundsstatistik. Här redovisas från och med 2021 officiell statistik över studieförbundens verksamhet och studiedeltagare i studiecirklar och annan folkbildningsverksamhet."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-30",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=KU0401&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=KU0401&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

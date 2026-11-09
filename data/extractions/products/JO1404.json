@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO1404",
     "response_url": "https://www.scb.se/JO1404",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/skogens-brukande-och-nyttjande-for-ekonomiska-sociala-och-miljomassiga-andamal/frivilliga-avsattningar-och-certifierad-areal/",
-    "fetched_at": "2026-11-02T03:29:32.405313Z",
+    "fetched_at": "2026-11-09T03:31:06.578465Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0c7b129b59b030b5f17512efb57277817b47c32a512472687f25c65e959c75ce",
+    "content_sha256": "9827d88a677ca7dd9a7f092f7fb50620605899606212d0c2995c56cb895fc617",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo1404",
   "summary": "Statistiken visar skogsmark där markägaren frivilligt och utan ersättning bestämt sig för att inte utföra åtgärder som kan skada naturvärden, kulturmiljöer eller sociala värden. Här redovisas också hur mycket av den produktiva skogsmarken som är certifierad i enlighet med PEFC eller FSC.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-18",
+  "next_publication_date": "2027-05-18",
   "responsible_agency": {
     "label": "Skogsstyrelsen",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-18",
         "Statistiken visar skogsmark där markägaren frivilligt och utan ersättning bestämt sig för att inte utföra åtgärder som kan skada naturvärden, kulturmiljöer eller sociala värden. Här redovisas också hur mycket av den produktiva skogsmarken som är certifierad i enlighet med PEFC eller FSC."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-18",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO1404&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO1404&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

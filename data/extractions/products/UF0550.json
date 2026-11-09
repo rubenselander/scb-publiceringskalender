@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0550",
     "response_url": "https://www.scb.se/UF0550",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/historisk-statistik-om-utbildning/",
-    "fetched_at": "2026-11-02T03:32:46.324811Z",
+    "fetched_at": "2026-11-09T03:34:29.386968Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c2b09188ebc678d00e597cac01df4de5f89bc040309d7ba3ec2bdce75c9ab119",
+    "content_sha256": "cd3d84eadfe250b1ac4c282ff3a28f61b675a42b48f6f5231d8bb2b94dded1cc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0550",
   "summary": "Här redovisas kontinuerligt långa tidsserier för de olika skolformerna i Sverige. Serierna kommer i vissa fall att sträcka sig ända tillbaka till 1800-talet och kan användas för att få en snabb överblick över det svenska utbildningsväsendet. Utöver de långa tidsserierna kommer även de reformer som genomförts redovisas samt artiklar inom området presenteras.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-03",
+  "next_publication_date": "2027-02-03",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-03",
         "Här redovisas kontinuerligt långa tidsserier för de olika skolformerna i Sverige. Serierna kommer i vissa fall att sträcka sig ända tillbaka till 1800-talet och kan användas för att få en snabb överblick över det svenska utbildningsväsendet. Utöver de långa tidsserierna kommer även de reformer som genomförts redovisas samt artiklar inom området presenteras."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-03",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0550&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0550&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -163,7 +169,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HistoriskTab5"
         },
         {
-          "text": "Svenska utlandsskolor, elever efter världsdel (uppdateras inte). År 1994 - 2019",
+          "text": "Svenska utlandsskolor, elever efter världsdel. År 1994 - 2019",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HistoriskTab6N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HistoriskTab6N"
         },
@@ -249,7 +255,7 @@
           "2023-10-13"
         ],
         [
-          "Svenska utlandsskolor, elever efter världsdel (uppdateras inte). År 1994 - 2019",
+          "Svenska utlandsskolor, elever efter världsdel. År 1994 - 2019",
           "2024-05-24"
         ],
         [
@@ -338,7 +344,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Examina i utbildning på grundnivå, avancerad nivå och forskarnivå vid universitet och högskolor. Läsår 1936/37 - 2024/25",
+          "text": "Examina i utbildning på grundnivå, avancerad nivå och forskarnivå vid universitet och högskolor efter kön. Läsår 1936/37 - 2024/25",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Historisk11bN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Historisk11bN"
         },
@@ -358,7 +364,7 @@
           "Datum"
         ],
         [
-          "Examina i utbildning på grundnivå, avancerad nivå och forskarnivå vid universitet och högskolor. Läsår 1936/37 - 2024/25",
+          "Examina i utbildning på grundnivå, avancerad nivå och forskarnivå vid universitet och högskolor efter kön. Läsår 1936/37 - 2024/25",
           "2026-01-28"
         ],
         [

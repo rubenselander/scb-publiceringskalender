@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0118",
     "response_url": "https://www.scb.se/EN0118",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/transportsektorns-energianvandning/",
-    "fetched_at": "2026-11-02T03:28:21.314192Z",
+    "fetched_at": "2026-11-09T03:29:38.387879Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0a620f40c6ea4b2fb15d0a89d91b417982665d026abd2f1d34815656ac024ac4",
+    "content_sha256": "486b7cb9eeae82d37a1fcb53207a816ccb4f5313ce4cb73deb325ab483cc43c7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0118",
   "summary": "Statistiken visar total energianvändning för inrikes transporter fördelat på trafikslag och för hela transportsektorn samt användning av bensin, diesel, etanol, biodiesel, fordonsgas, naturgas och biogas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-01-15",
+  "next_publication_date": "2027-01-15",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-01-15",
         "Statistiken visar total energianvändning för inrikes transporter fördelat på trafikslag och för hela transportsektorn samt användning av bensin, diesel, etanol, biodiesel, fordonsgas, naturgas och biogas."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-01-15",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0118&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0118&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0105",
     "response_url": "https://www.scb.se/ME0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valdeltagandeundersokningen/",
-    "fetched_at": "2026-11-02T03:29:48.370907Z",
+    "fetched_at": "2026-11-09T03:31:27.738563Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "cbfc0991f2627ebf8f998e9b09252ba207982b12d73c0ceede1273962c2e6410",
+    "content_sha256": "55812904580ca15c2098544814551f4f944d431e02477d8d690cd603ff33c2aa",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/me0105",
   "summary": "Statistiken visar valdeltagandet i olika grupper i samhället, bland annat uppdelat på län, kön, ålder, inkomst och civilstånd. Resultaten är ett komplement till röstsammanräkningen som visar valdeltagandet totalt sett och i olika regioner.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-25",
+  "next_publication_date": "2027-05-25",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-25",
         "Statistiken visar valdeltagandet i olika grupper i samhället, bland annat uppdelat på län, kön, ålder, inkomst och civilstånd. Resultaten är ett komplement till röstsammanräkningen som visar valdeltagandet totalt sett och i olika regioner."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-25",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=ME0105&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=ME0105&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

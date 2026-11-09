@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0203",
     "response_url": "https://www.scb.se/OE0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/statens-nettolanebehov/",
-    "fetched_at": "2026-11-02T03:30:56.309043Z",
+    "fetched_at": "2026-11-09T03:32:37.062785Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "8bf892c9c42224157e50836247442b3645fa1745ada32ce1b3d1cf1102ce57c7",
+    "content_sha256": "a9adfd9b61a17291331d1ba85656c0b469e116f92d0312da6a41fcb24bbc06a2",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0203",
   "summary": "Statistiken visar hur mycket staten behöver låna till följd av underskott i statsbudgeten.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-06",
-  "next_publication_date": "2026-11-06",
+  "next_publication_text": "Nästa publicering: 2026-12-07",
+  "next_publication_date": "2026-12-07",
   "responsible_agency": {
     "label": "Riksgälden",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-06",
+        "Nästa publicering: 2026-12-07",
         "Statistiken visar hur mycket staten behöver låna till följd av underskott i statsbudgeten."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-06",
+          "text": "Nästa publicering: 2026-12-07",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0203&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0203&period=Forward1Year"
         }

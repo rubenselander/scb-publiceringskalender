@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0601",
     "response_url": "https://www.scb.se/UF0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/folkbildning/folkhogskolestatistik/",
-    "fetched_at": "2026-11-02T03:32:47.179919Z",
+    "fetched_at": "2026-11-09T03:34:30.481552Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2b30892b34d88f4b361a5764cb3e8ebdd56fc3d94f4948db8f2e6f22d3a241d1",
+    "content_sha256": "b805093caefec15ace0d2e505c22c63741506fdbef18179b481fc72792a13966",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0601",
   "summary": "Årlig statistik över folkhögskolans deltagare redovisas efter kurstyp, kursinriktning, studieomfattning, utbildningsnivå, nationell bakgrund, kön, region och ålder. Här redovisas även årlig statistik över folkhögskolans pedagogiska personal och kostnader.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-02-04",
+  "next_publication_date": "2027-02-04",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-02-04",
         "Årlig statistik över folkhögskolans deltagare redovisas efter kurstyp, kursinriktning, studieomfattning, utbildningsnivå, nationell bakgrund, kön, region och ålder. Här redovisas även årlig statistik över folkhögskolans pedagogiska personal och kostnader."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-02-04",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0601&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0601&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

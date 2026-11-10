@@ -1,17 +1,16 @@
 {
-  "as_of": "2026-11-03",
-  "documents": 10067,
+  "as_of": "2026-11-10",
+  "documents": 10073,
   "products": 616,
-  "review_candidates": 1104,
+  "review_candidates": 1106,
   "source_counts": {
-    "scb": 8430,
+    "scb": 8434,
     "siris": 854,
-    "sam": 783
+    "sam": 785
   },
   "fetch_complete": false,
   "failures": [
     "sam/mfof",
-    "sam/skogsstyrelsen",
     "sam/statskontoret"
   ]
 }

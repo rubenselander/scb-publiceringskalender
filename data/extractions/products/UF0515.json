@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0515",
     "response_url": "https://www.scb.se/UF0515",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/",
-    "fetched_at": "2026-11-09T03:34:19.446493Z",
+    "fetched_at": "2026-11-16T03:37:27.864549Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "0297311972d53243b0b32b0e469be09616342c81219f2f351469c803b553e8c8",
+    "content_sha256": "29c814e48ecedb1f8ef09d905eaac22eb49e4ba556479a815b5b578f30f3a83a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0515",
   "summary": "Trender och Prognoser presenterar långsiktiga framskrivningar över tillgång och efterfrågan på arbetskraft för olika utbildningsgrupper. Framskrivningarna görs för hela riket och för Sveriges 21 län.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-11-11",
-  "next_publication_date": "2026-11-11",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,16 +36,10 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-11",
+        "Nästa publicering: Ingen planerad",
         "Trender och Prognoser presenterar långsiktiga framskrivningar över tillgång och efterfrågan på arbetskraft för olika utbildningsgrupper. Framskrivningarna görs för hela riket och för Sveriges 21 län."
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-11-11",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0515&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0515&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -105,14 +99,14 @@
         }
       ],
       "paragraphs": [
-        "2026-05-28",
-        "Nu finns de långsiktiga nationella framskrivningarna av 46 utbildningar samlade i en rapport och ett tabellpaket."
+        "2026-11-11",
+        "Nu finns en rapport som sammanfattar de 21 länsrapporterna i Regionala trender och prognoser 2025. Framskrivningarna visar bedömningar av arbetsmarknadsläget år 2040 för 45 utbildningsgrupper baserat på antaganden utifrån historiska trender."
       ],
       "links": [
         {
-          "text": "Regionala trender och prognoser 2025, nationella bedömningar år 2040",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/regionala-trender-och-prognoser-2025.-med-sikte-pa-ar-2040-nationella-bedomningar",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/regionala-trender-och-prognoser-2025.-med-sikte-pa-ar-2040-nationella-bedomningar"
+          "text": "Regionala trender och prognoser 2025. Sammanfattning av länsrapporterna",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/regionala-trender-och-prognoser-2025.-med-sikte-pa-ar-2040.-sammanfattning",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/analyser-och-prognoser-om-utbildning-och-arbetsmarknad/trender-och-prognoser-om-utbildning-och-arbetsmarknad/pong/statistiknyhet/regionala-trender-och-prognoser-2025.-med-sikte-pa-ar-2040.-sammanfattning"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -247,6 +241,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Regionala trender och prognoser 2025. Med sikte på år 2040. Sammanfattning",
+          "href": "/publikation/66124",
+          "url": "https://www.scb.se/publikation/66124"
+        },
+        {
           "text": "Regionala trender och prognoser 2025. Med sikte på år 2040, nationella bedömningar",
           "href": "/publikation/62985",
           "url": "https://www.scb.se/publikation/62985"
@@ -302,6 +301,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Regionala trender och prognoser 2025. Med sikte på år 2040. Sammanfattning",
+          "",
+          "2026-11-11"
         ],
         [
           "Regionala trender och prognoser 2025. Med sikte på år 2040, nationella bedömningar",

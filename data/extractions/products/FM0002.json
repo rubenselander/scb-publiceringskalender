@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0002",
     "response_url": "https://www.scb.se/FM0002",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/",
-    "fetched_at": "2026-11-09T03:29:50.850722Z",
+    "fetched_at": "2026-11-16T03:32:56.204700Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2998f56158afa83052d39120bd86b7191834ff45e645a65d0b8f92a5472f5809",
+    "content_sha256": "081fae4265ae06103633cd257e33edc187471e92fa94e45524f40b0052100fda",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm0002",
   "summary": "Statistiken innehåller uppgifter om krediter till svenska icke-finansiella företag från monetära finansinstitut (MFI) verksamma i Sverige. Uppgifterna omfattar utestående lånebelopp, räntesats, antal företag som är låntagare samt årlig tillväxttakt för utestående lånebelopp.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-11-11",
-  "next_publication_date": "2026-11-11",
+  "next_publication_text": "Nästa publicering: 2026-12-11",
+  "next_publication_date": "2026-12-11",
   "responsible_agency": {
     "label": "Sveriges riksbank",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-11",
+        "Nästa publicering: 2026-12-11",
         "Statistiken innehåller uppgifter om krediter till svenska icke-finansiella företag från monetära finansinstitut (MFI) verksamma i Sverige. Uppgifterna omfattar utestående lånebelopp, räntesats, antal företag som är låntagare samt årlig tillväxttakt för utestående lånebelopp."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-11",
+          "text": "Nästa publicering: 2026-12-11",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM0002&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM0002&period=Forward1Year"
         }
@@ -91,14 +91,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-12",
-        "Tillväxttakten för utlåning till stora företag ökade i augusti jämfört med juli och tillväxttakten ökade mer än för övriga företagsstorlekar. Samtliga företagsstorlekar exklusive bostadsrättsföreningar har nu haft en positiv tillväxttakt sen april 2025. Det är framför allt stora företag inom de större branscherna Handel, Fastighet – Kontor, Industri och övriga tjänster som drivit ökningen av tillväxttakten för stora företag i augusti jämfört med juli."
+        "2026-11-11",
+        "Utlåningsräntan var högre i sju av elva branscher i september jämfört med augusti. I tre av branscherna var räntan oförändrad och i en bransch var räntan lägre. Ett liknande mönster ses för utlåningsräntan per företagsstorlek där tre företagsstorlekar har högre ränta i september jämfört med augusti medans räntan var lägre i en företagsstorlek ."
       ],
       "links": [
         {
-          "text": "Ökad tillväxttakt för utlåning till stora företag",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/pong/statistiknyhet/kreditdatabas-krita-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/pong/statistiknyhet/kreditdatabas-krita-augusti-2026/"
+          "text": "Högre utlåningsränta i de flesta branscher",
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/pong/statistiknyhet/kreditdatabas-krita-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/krediter-till-foretag/kreditdatabas-krita/pong/statistiknyhet/kreditdatabas-krita-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -152,12 +152,12 @@
         }
       ],
       "paragraphs": [
-        "Monetära finansinstitutens (MFI), utlåning till icke-finansiella företag efter bransch och storleksklass. Månad 2019M07 - 2026M08",
-        "2026-10-12"
+        "Monetära finansinstitutens (MFI), utlåning till icke-finansiella företag efter bransch och storleksklass. Månad 2019M07 - 2026M09",
+        "2026-11-11"
       ],
       "links": [
         {
-          "text": "Monetära finansinstitutens (MFI), utlåning till icke-finansiella företag efter bransch och storleksklass. Månad 2019M07 - 2026M08",
+          "text": "Monetära finansinstitutens (MFI), utlåning till icke-finansiella företag efter bransch och storleksklass. Månad 2019M07 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KRITApubl1",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KRITApubl1"
         }

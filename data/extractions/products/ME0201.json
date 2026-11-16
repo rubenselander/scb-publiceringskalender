@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0201",
     "response_url": "https://www.scb.se/ME0201",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/partisympatier/partisympatiundersokningen-psu/",
-    "fetched_at": "2026-11-09T03:31:34.291826Z",
+    "fetched_at": "2026-11-16T03:34:29.530032Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f2b28028cf5ad34cbf8709fb5a033d7566982b7084143e94e8b55f6704211b1b",
+    "content_sha256": "d9b401beb3947e9928dbe4d464d6f6c0d4c6adaf5c806b1f3eb3388776a23cea",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/me0201",
   "summary": "Statistiken visar ”valresultatet om det vore riksdagsval idag” och nettoflöden mellan partier samt partisympatiernas fördelning efter bland annat kön, ålder, civilstånd, inkomst, region, sysselsättningsstatus, fackföreningstillhörighet, utbildningsnivå och utländsk/svensk bakgrund. Från och med 2023 genomförs Partisympatiundersökningen i maj varje år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-03",
+  "next_publication_date": "2027-06-03",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-03",
         "Statistiken visar ”valresultatet om det vore riksdagsval idag” och nettoflöden mellan partier samt partisympatiernas fördelning efter bland annat kön, ålder, civilstånd, inkomst, region, sysselsättningsstatus, fackföreningstillhörighet, utbildningsnivå och utländsk/svensk bakgrund. Från och med 2023 genomförs Partisympatiundersökningen i maj varje år."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-03",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=ME0201&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=ME0201&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

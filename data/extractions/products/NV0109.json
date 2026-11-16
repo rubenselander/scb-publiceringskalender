@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0109",
     "response_url": "https://www.scb.se/NV0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/foretagens-ekonomi/",
-    "fetched_at": "2026-11-09T03:32:12.806963Z",
+    "fetched_at": "2026-11-16T03:35:08.585961Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7ca55cdd5fbff0c9bc8bcfc2b8e6e2ac33e0b4a52a0c3d8f00b646cf4d372a03",
+    "content_sha256": "355ba5e2f7b467f2d0bea5d4e2a1799ee17bd4a6eb1e34e34e2b412a437e1691",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0109",
   "summary": "Statistiken innehåller företagsekonomiska uppgifter såsom antal företag och antal anställda, nettoomsättning, produktions- och förädlingsvärde, tillgångar, brutto- och nettoinvesteringar, intäkts- och kostnadsuppgifter och rörelseresultat.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-11",
-  "next_publication_date": "2026-11-11",
+  "next_publication_text": "Nästa publicering: 2026-11-18",
+  "next_publication_date": "2026-11-18",
   "responsible_agency": null,
   "notices": [
     "Nytt från referensår 2024 är att preliminära uppgifter för företagsenhet enligt EU-förordningen (nr 2019/2152) redovisas 10 månader efter referensårets slut. Vidare publiceras statistik för verksamhetsenheter 14 månader efter referensårets slut. Tabellerna har gjorts om för att fläta samma kvartals- och årsstatistiken. Antalet mått har utökats och nyckeltal har lagts till. Alla uppgifter publiceras i löpande priser. I publicering 17 månader efter referensårets slut revideras samtliga uppgifter samt ett antal mått fastprisberäknas.",
@@ -41,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-11",
+        "Nästa publicering: 2026-11-18",
         "Statistiken innehåller företagsekonomiska uppgifter såsom antal företag och antal anställda, nettoomsättning, produktions- och förädlingsvärde, tillgångar, brutto- och nettoinvesteringar, intäkts- och kostnadsuppgifter och rörelseresultat."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-11",
+          "text": "Nästa publicering: 2026-11-18",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0109&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0109&period=Forward1Year"
         }
@@ -612,6 +612,16 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Branschnyckeltal efter näringsgren SNI 2025 och storleksklass och kvartil. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNT01SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNT01SNI2025"
+        },
+        {
+          "text": "Regionala branschnyckeltal efter näringsgren SNI 2025 och storleksklass och kvartil. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNT04SNI2025",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNT04SNI2025"
+        },
+        {
           "text": "Branschnyckeltal efter näringsgren SNI 2007 och storleksklass och kvartil. År 2008 - 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNTT01",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BNTT01"
@@ -645,6 +655,14 @@
         [
           "Namn",
           "Datum"
+        ],
+        [
+          "Branschnyckeltal efter näringsgren SNI 2025 och storleksklass och kvartil. År 2025",
+          "2026-11-11"
+        ],
+        [
+          "Regionala branschnyckeltal efter näringsgren SNI 2025 och storleksklass och kvartil. År 2025",
+          "2026-11-11"
         ],
         [
           "Branschnyckeltal efter näringsgren SNI 2007 och storleksklass och kvartil. År 2008 - 2024",

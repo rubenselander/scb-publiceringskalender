@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0108",
     "response_url": "https://www.scb.se/EN0108",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/",
-    "fetched_at": "2026-11-09T03:29:33.203500Z",
+    "fetched_at": "2026-11-16T03:32:38.454627Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6c7af522efef5d40782d8a78d59feab758a0da4522ffe7827662c053dcb10c57",
+    "content_sha256": "c487c7600fd2db1f75b719edc8944408fdcfab0c89bf2778a34d7f5db5a9cec3",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0108",
   "summary": "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-12",
-  "next_publication_date": "2026-11-12",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-12",
+        "Nästa publicering: 2026-12-10",
         "Statistiken visar bland annat elanvändningen efter användningsområde, eltillförsel efter produktionsslag och byten av elleverantör efter kundkategori."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-12",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0108&period=Forward1Year"
         }
@@ -162,57 +162,57 @@
         [
           "Elförsörjning månadsvis",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Elförsörjning 2026",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Elförsörjning per elområde månadsvis",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Elproduktion efter produktionsslag månadsvis",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Elproduktion efter produktionsslag 2026",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Industrins elanvändning månadsvis",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Industrins elanvändning 2026",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Import och export av el 2026",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Import och export av el månadsvis",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Byten av elleverantör (elhandelsföretag)",
           "Tabell",
-          "2026-10-09"
+          "2026-11-12"
         ],
         [
           "Byten av elleverantör (elhandelsföretag) månadsvis",
           "Diagram",
-          "2026-10-09"
+          "2026-11-12"
         ]
       ]
     },
@@ -256,37 +256,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M08",
+          "text": "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/EltillfM"
         },
         {
-          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M08",
+          "text": "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElForbr07M"
         },
         {
-          "text": "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M08",
+          "text": "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElEO"
         },
         {
-          "text": "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M08",
+          "text": "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Elprod"
         },
         {
-          "text": "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M08",
+          "text": "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElimpexpM"
         },
         {
-          "text": "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M08",
+          "text": "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevbytAntalN"
         },
         {
-          "text": "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M08",
+          "text": "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/ElanvMN"
         }
@@ -301,32 +301,32 @@
           "Datum"
         ],
         [
-          "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M08",
-          "2026-10-09"
+          "Eltillförsel i Sverige efter produktionsslag. Månad 1974M01 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M08",
-          "2026-10-09"
+          "Elanvändning inom utvinning av mineral, tillverkningsindustri efter näringsgren SNI2007. Månad 2009M01 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M08",
-          "2026-10-09"
+          "Elproduktion och elanvändning efter elområde. Månad 2021M01 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M08",
-          "2026-10-09"
+          "Elproduktion efter produktionsslag. Månad 2017M01 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M08",
-          "2026-10-09"
+          "Bruttoöverföring av el till och från andra länder. Månad 2019M01 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M08",
-          "2026-10-09"
+          "Byten av elleverantör efter kundkategori.  Månad 2004M04 - 2026M09",
+          "2026-11-12"
         ],
         [
-          "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M08",
-          "2026-10-09"
+          "Elanvändning efter användningsområde.  Månad 1990M01 - 2026M09",
+          "2026-11-12"
         ]
       ]
     },

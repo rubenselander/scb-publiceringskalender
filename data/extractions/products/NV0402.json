@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0402",
     "response_url": "https://www.scb.se/NV0402",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industriproduktionsindex-ipi/",
-    "fetched_at": "2026-11-09T03:32:19.184834Z",
+    "fetched_at": "2026-11-16T03:35:13.836657Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d9ecd924f47430ab275eb0084eea1accf2cf4f0bf26ce291d2965b1623ad4bc5",
+    "content_sha256": "9473b4fbc3d0ee8990c6773181df32ff4baeab56ae965c3d9a5ebf53a4adddc1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0402",
   "summary": "Statistiken mäter månadsvis utvecklingen av den svenska industriproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-10",
-  "next_publication_date": "2026-11-10",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": null,
   "notices": [
     "Statistiknyheter publiceras ej längre för Industriproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
@@ -39,12 +39,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-10",
+        "Nästa publicering: 2026-12-10",
         "Statistiken mäter månadsvis utvecklingen av den svenska industriproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-10",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0402&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0402&period=Forward1Year"
         }
@@ -114,7 +114,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M08",
+          "text": "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/IPI2010KedjM"
         }
@@ -129,8 +129,8 @@
           "Datum"
         ],
         [
-          "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M08",
-          "2026-10-09"
+          "Industriproduktionsindex (IPI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2000M01 - 2026M09",
+          "2026-11-10"
         ]
       ]
     },

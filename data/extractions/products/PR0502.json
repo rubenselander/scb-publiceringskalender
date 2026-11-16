@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0502",
     "response_url": "https://www.scb.se/PR0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/",
-    "fetched_at": "2026-11-09T03:32:45.606110Z",
+    "fetched_at": "2026-11-16T03:35:43.855668Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a326b6bbb834a3eb84d3839f7666f034a4fba81282c9044fc65a01e20e093635",
+    "content_sha256": "ff00f71b64234189a3e624744cc62278bbc25dd5172d9b87545f772fd875ef0d",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -24,7 +24,9 @@
   "next_publication_text": "Nästa publicering: 2026-11-16",
   "next_publication_date": "2026-11-16",
   "responsible_agency": null,
-  "notices": [],
+  "notices": [
+    "BKI byter basår och övergår till kvartalsvis publicering"
+  ],
   "tags": [],
   "sections": [
     {
@@ -44,6 +46,27 @@
           "text": "Nästa publicering: 2026-11-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0502&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0502&period=Forward1Year"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Byggkostnadsindex (BKI)",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "BKI byter basår och övergår till kvartalsvis publicering"
+      ],
+      "links": [
+        {
+          "text": "BKI byter basår och övergår till kvartalsvis publicering",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/produktrelaterat/aktuellt/bki-byter-basar-och-overgar-till-kvartalsvis-publicering/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/produktrelaterat/aktuellt/bki-byter-basar-och-overgar-till-kvartalsvis-publicering/"
         }
       ],
       "table_headers": [],

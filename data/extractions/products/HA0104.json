@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0104",
     "response_url": "https://www.scb.se/HA0104",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/tjansteproduktionsindex/",
-    "fetched_at": "2026-11-09T03:29:58.145811Z",
+    "fetched_at": "2026-11-16T03:33:04.273934Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "40ef6237b3e97029ceb0775b45c430aef56f96568f9e0490877fc49fa1e9e14a",
+    "content_sha256": "7a1094f43e85c99a5662ad672c0c651fd2e44324e354084adb26f881c43393e7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/ha0104",
   "summary": "Statistiken avser att månadsvis mäta utvecklingen av den svenska tjänsteproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-10",
-  "next_publication_date": "2026-11-10",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": null,
   "notices": [
     "Statistiknyheter publiceras ej längre för Tjänsteproduktionsindex. Statistiken finns dock tillgänglig i Statistikdatabasen. För statistiknyheter gällande näringslivets produktion hänvisas till Produktionsvärdeindex.",
@@ -41,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-10",
+        "Nästa publicering: 2026-12-10",
         "Statistiken avser att månadsvis mäta utvecklingen av den svenska tjänsteproduktionen. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-10",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=HA0104&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HA0104&period=Forward1Year"
         }
@@ -123,7 +123,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M08",
+          "text": "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/TjPI2005kedjM07"
         }
@@ -138,8 +138,8 @@
           "Datum"
         ],
         [
-          "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M08",
-          "2026-10-09"
+          "Tjänsteproduktionsindex (TjPI), 2021=100, efter näringsgren SNI 2007. Månad 2000M01 - 2026M09",
+          "2026-11-10"
         ]
       ]
     },

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM0103",
     "response_url": "https://www.scb.se/FM0103",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/finansrakenskaper/finansrakenskaper-kvartal-och-ar/",
-    "fetched_at": "2026-11-09T03:29:51.631857Z",
+    "fetched_at": "2026-11-16T03:32:57.261804Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c807a6e8bc8eec99e39087560d0dc3a14f75b7df376b7c3837ca812e720aa296",
+    "content_sha256": "60bc98dadd0e791f8c6b2ea991bb89b835aaaeb2f78dc09bbf56446e4d05a87c",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -581,26 +581,6 @@
           "anchor": "h1"
         },
         {
-          "text": "Aktuellt",
-          "level": 2,
-          "anchor": "_Aktuellt"
-        }
-      ],
-      "paragraphs": [
-        "Vad kostar inflations- och räntechocken hushållen i kronor (pdf)"
-      ],
-      "links": [],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Finansräkenskaper, kvartal och år",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -944,7 +924,8 @@
       ],
       "paragraphs": [
         "Revideringspolicy",
-        "Nya källor för värdepapperstatistik"
+        "Nya källor för värdepapperstatistik",
+        "Olika mått på sparande (pdf)"
       ],
       "links": [],
       "table_headers": [],

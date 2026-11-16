@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0202",
     "response_url": "https://www.scb.se/SF0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/ohalsomatt/",
-    "fetched_at": "2026-11-09T03:33:04.259263Z",
+    "fetched_at": "2026-11-16T03:36:04.502149Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "2991c40538481ef10581af5bdb201883357cdfce32aac0989d2e838241abfbff",
+    "content_sha256": "e26ee4b4e68b2788b02f2860d504d98c7d0b52d4062d60c9f59f3c56fd6057b6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0202",
   "summary": "Statistiken inkluderar bland annat måtten ohälsotalet och sjuktalet. Syftet är att redovisa antal utbetalda dagar med ersättning vid nedsatt arbetsförmåga på grund av sjukdom per person (registrerad försäkrad) och år. Statistiken är fördelad på bland annat kön, ålder, län och kommun och förmån.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-10",
-  "next_publication_date": "2026-11-10",
+  "next_publication_text": "Nästa publicering: 2026-11-16",
+  "next_publication_date": "2026-11-16",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-10",
+        "Nästa publicering: 2026-11-16",
         "Statistiken inkluderar bland annat måtten ohälsotalet och sjuktalet. Syftet är att redovisa antal utbetalda dagar med ersättning vid nedsatt arbetsförmåga på grund av sjukdom per person (registrerad försäkrad) och år. Statistiken är fördelad på bland annat kön, ålder, län och kommun och förmån."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-10",
+          "text": "Nästa publicering: 2026-11-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0202&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0202&period=Forward1Year"
         }

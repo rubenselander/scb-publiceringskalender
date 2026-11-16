@@ -9,10 +9,10 @@
     "requested_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
     "response_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/",
-    "fetched_at": "2026-11-09T03:34:43.413716Z",
+    "fetched_at": "2026-11-16T03:37:53.575520Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "80701aaed9a3b82b9ebdbdec24eafea9faede8811cedb8da5f9d8e843f088e0c",
+    "content_sha256": "9c0f8cced6e3ab3d25ae2c2e2de8a4f033af4807e18eb8648f4833bbb446128e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -261,18 +261,6 @@
       "products": [
         {
           "link": {
-            "text": "Kust och hav – miljötillstånd miljögifter",
-            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/kust-och-hav-miljotillstand-miljogifter/",
-            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/kust-och-hav-miljotillstand-miljogifter/"
-          },
-          "product_code": null,
-          "product_code_source": "unknown",
-          "summary": "Statistiken uppdateras inte längre.",
-          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
-          "tags_text": null
-        },
-        {
-          "link": {
             "text": "Luft – miljötillstånd",
             "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/",
             "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/luft--miljotillstand/"
@@ -294,18 +282,6 @@
           "summary": "Miljötillståndet relaterat till hälsa omfattar statistik över exponering för kadmium hos kvinnor. Data består av kadmiumhalter i urin hos två olika åldersgrupper av kvinnor och samlas in från fyra olika städer i Sverige. Statistiken samlas in vart fjärde år och publiceras på Naturvårdsverkets webbplats. Vid varje publicering uppdateras även tidsserien där första mätningen genomfördes år 2002.",
           "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
           "tags_text": null
-        },
-        {
-          "link": {
-            "text": "Sötvatten – miljötillstånd miljögifter",
-            "href": "/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/",
-            "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljotillstand/sotvatten--miljotillstand-miljogifter/"
-          },
-          "product_code": null,
-          "product_code_source": "unknown",
-          "summary": "Naturvårdsverket sammanställer och rapporterar data om miljögifter i sötvatten i Sverige varje år. Denna statistik består av arsenik i grundvatten, bly i grundvatten , kadmium i grundvatten och zink i grundvatten och publiceras på Naturvårdsverkets webbplats.",
-          "responsible_agency_text": "Statistikansvarig myndighet: Naturvårdsverket",
-          "tags_text": "Sjöar, Vatten"
         }
       ]
     },

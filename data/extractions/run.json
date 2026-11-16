@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "started_at": "2026-11-09T03:28:54.160938+00:00",
+  "started_at": "2026-11-16T03:32:02.604408+00:00",
   "sources": {
     "products": {
       "source": "products",
@@ -1113,12 +1113,12 @@
           "error": null
         },
         "MI0405": {
-          "status": "fresh",
-          "error": null
+          "status": "retained",
+          "error": "GET https://www.scb.se/MI0405: HTTP 404, 11530 bytes"
         },
         "MI0406": {
-          "status": "fresh",
-          "error": null
+          "status": "retained",
+          "error": "GET https://www.scb.se/MI0406: HTTP 404, 11530 bytes"
         },
         "MI0501": {
           "status": "fresh",

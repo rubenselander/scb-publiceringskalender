@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SO0206",
     "response_url": "https://www.scb.se/SO0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialtjanst/familjeradgivning/kommunal-familjeradgivning/",
-    "fetched_at": "2026-11-09T03:33:17.278897Z",
+    "fetched_at": "2026-11-16T03:36:18.653879Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "1752b0fedbad38c3554976ca67a5809c024eb172f4b9060953625e9ada4f5d7e",
+    "content_sha256": "668b013ceb3aa7b358904578652092d4d42f5986740ae535674365cdbf434755",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/so0206",
   "summary": "Statistiken innehåller mängduppgifter om rådgivning som bedrivits eller bekostats av samtliga kommuner i Sverige. Syftet med statistiken är att visa omfattningen av den kommunala familjerådgivningen. År 2017 blir sista året Socialstyrelsen publicerar officiell statistik om kommunal familjerådgivning. Från och med 2018 publiceras den istället av Myndigheten för familjerätt och föräldraskapsstöd (MFoF).",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-06-01",
+  "next_publication_date": "2027-06-01",
   "responsible_agency": {
     "label": "Myndigheten för familjerätt och föräldraskapsstöd",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-06-01",
         "Statistiken innehåller mängduppgifter om rådgivning som bedrivits eller bekostats av samtliga kommuner i Sverige. Syftet med statistiken är att visa omfattningen av den kommunala familjerådgivningen. År 2017 blir sista året Socialstyrelsen publicerar officiell statistik om kommunal familjerådgivning. Från och med 2018 publiceras den istället av Myndigheten för familjerätt och föräldraskapsstöd (MFoF)."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-06-01",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=SO0206&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SO0206&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

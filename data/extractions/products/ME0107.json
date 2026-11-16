@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/ME0107",
     "response_url": "https://www.scb.se/ME0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-nominerade-och-valda/",
-    "fetched_at": "2026-11-09T03:31:29.610352Z",
+    "fetched_at": "2026-11-16T03:34:24.605706Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f35aed6c033be581d20cef371d6a0635618fb4b4b5416ba18d773e28296136f9",
+    "content_sha256": "cbd0d2337c4932d32aaf38f0b3a27cee9419b61e0755d7736f2fb17a855b8bda",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/me0107",
   "summary": "Statistiken visar nominerade, valda och ej valda kandidater i val till riksdag, region- och kommunfullmäktige efter till exempel parti, kön, ålder, inkomst, utbildning, födelse- och medborgarskapsland.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2027-01-28",
-  "next_publication_date": "2027-01-28",
+  "next_publication_text": "Nästa publicering: 2027-03-12",
+  "next_publication_date": "2027-03-12",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2027-01-28",
+        "Nästa publicering: 2027-03-12",
         "Statistiken visar nominerade, valda och ej valda kandidater i val till riksdag, region- och kommunfullmäktige efter till exempel parti, kön, ålder, inkomst, utbildning, födelse- och medborgarskapsland."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2027-01-28",
+          "text": "Nästa publicering: 2027-03-12",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=ME0107&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=ME0107&period=Forward1Year"
         }

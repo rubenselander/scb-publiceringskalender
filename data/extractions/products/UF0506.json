@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0506",
     "response_url": "https://www.scb.se/UF0506",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/befolkningens-utbildning/",
-    "fetched_at": "2026-11-09T03:34:15.374825Z",
+    "fetched_at": "2026-11-16T03:37:23.502008Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c802f9090f86ab4a7c8bdeebbaae6fe73469313ec74c23e291f5c396cb3a15b7",
+    "content_sha256": "bc7271024c14366d33397adfbdb779145b18e92c9302e5b1f69afb764b15d8ed",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0506",
   "summary": "Statistiken visar bland annat utbildningens nivå och inriktning efter kön, ålder och nationell bakgrund. För in- och utvandrare visas även utflyttningsland och invandringsår respektive inflyttningsland och utvandringsår.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-29",
+  "next_publication_date": "2027-04-29",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-29",
         "Statistiken visar bland annat utbildningens nivå och inriktning efter kön, ålder och nationell bakgrund. För in- och utvandrare visas även utflyttningsland och invandringsår respektive inflyttningsland och utvandringsår."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-29",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0506&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0506&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },
@@ -333,12 +339,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Befolkning 25-65 år efter region och utbildningsnivå. År 2024 - 2025",
+          "text": "Befolkning 25–65 år efter region och utbildningsnivå. År 2024 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefDesoRegsoN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefDesoRegsoN"
         },
         {
-          "text": "Befolkning 25-64 år (fr.o.m. 2023, 25–65 år) efter region och utbildningsnivå (uppdateras ej). År 2015 - 2023",
+          "text": "Befolkning 25–64 år (fr.o.m. 2023, 25–65 år) efter region och utbildningsnivå (uppdateras ej). År 2015 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefDesoRegso",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefDesoRegso"
         }
@@ -353,11 +359,11 @@
           "Datum"
         ],
         [
-          "Befolkning 25-65 år efter region och utbildningsnivå. År 2024 - 2025",
+          "Befolkning 25–65 år efter region och utbildningsnivå. År 2024 - 2025",
           "2026-04-27"
         ],
         [
-          "Befolkning 25-64 år (fr.o.m. 2023, 25–65 år) efter region och utbildningsnivå (uppdateras ej). År 2015 - 2023",
+          "Befolkning 25–64 år (fr.o.m. 2023, 25–65 år) efter region och utbildningsnivå (uppdateras ej). År 2015 - 2023",
           "2024-04-25"
         ]
       ]
@@ -402,57 +408,57 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Befolkning 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2020. År 2019 - 2025",
+          "text": "Befolkning 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2020. År 2019 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBefN"
         },
         {
-          "text": "Befolkning 16-74 år efter region, utbildningsnivå, ålder och kön. År 1985 - 2025",
+          "text": "Befolkning 16–74 år efter region, utbildningsnivå, ålder och kön. År 1985 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Utbildning",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Utbildning"
         },
         {
-          "text": "Befolkning 16-95+ år efter region, utbildningsnivå, ålder och kön.  År 2008 - 2025",
+          "text": "Befolkning 16–95+ år efter region, utbildningsnivå, ålder och kön.  År 2008 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbBefRegionR",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbBefRegionR"
         },
         {
-          "text": "Befolkning 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 2000 - 2018",
+          "text": "Befolkning 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 2000 - 2018",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBef",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNBef"
         },
         {
-          "text": "In- och utvandrare 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 1990 - 2021",
+          "text": "In- och utvandrare 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMig",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMig"
         },
         {
-          "text": "Invandrare 16-74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och utflyttningsland. Invandringsår 1987 - 2021",
+          "text": "Invandrare 16–74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och utflyttningsland. Invandringsår 1987 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbMigInvLand",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbMigInvLand"
         },
         {
-          "text": "Invandrare 16-74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Invandringsår 1990 - 2021",
+          "text": "Invandrare 16–74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Invandringsår 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGINUT",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGINUT"
         },
         {
-          "text": "Utvandrare 16-74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och inflyttningsland. Utvandringsår 1990 - 2021",
+          "text": "Utvandrare 16–74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och inflyttningsland. Utvandringsår 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbMigUtvLand",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbMigUtvLand"
         },
         {
-          "text": "Utvandrare 16-74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Utvandringsår 1990 - 2021",
+          "text": "Utvandrare 16–74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Utvandringsår 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMigUTIN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMigUTIN"
         },
         {
-          "text": "Invandrare 16-74 år efter kön, ålder, nationell bakgrund, tid utomlands, utbildningsnivå och utbildningsinriktning SUN 2000. Invandringsår 1990 - 2021",
+          "text": "Invandrare 16–74 år efter kön, ålder, nationell bakgrund, tid utomlands, utbildningsnivå och utbildningsinriktning SUN 2000. Invandringsår 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGINE",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGINE"
         },
         {
-          "text": "Utvandrare 16-74 år efter kön, ålder, nationell bakgrund, tid i Sverige, utbildningsnivå och utbildningsinriktning SUN 2000. Utvandringsår 1990 - 2021",
+          "text": "Utvandrare 16–74 år efter kön, ålder, nationell bakgrund, tid i Sverige, utbildningsnivå och utbildningsinriktning SUN 2000. Utvandringsår 1990 - 2021",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGUTE",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/UtbSUNMIGUTE"
         }
@@ -467,47 +473,47 @@
           "Datum"
         ],
         [
-          "Befolkning 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2020. År 2019 - 2025",
+          "Befolkning 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2020. År 2019 - 2025",
           "2026-04-27"
         ],
         [
-          "Befolkning 16-74 år efter region, utbildningsnivå, ålder och kön. År 1985 - 2025",
+          "Befolkning 16–74 år efter region, utbildningsnivå, ålder och kön. År 1985 - 2025",
           "2026-04-27"
         ],
         [
-          "Befolkning 16-95+ år efter region, utbildningsnivå, ålder och kön.  År 2008 - 2025",
+          "Befolkning 16–95+ år efter region, utbildningsnivå, ålder och kön.  År 2008 - 2025",
           "2026-04-27"
         ],
         [
-          "Befolkning 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 2000 - 2018",
+          "Befolkning 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 2000 - 2018",
           "2019-04-23"
         ],
         [
-          "In- och utvandrare 16-74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 1990 - 2021",
+          "In- och utvandrare 16–74 år efter kön, ålder, nationell bakgrund, utbildningsnivå och utbildningsinriktning SUN 2000. År 1990 - 2021",
           "2022-04-28"
         ],
         [
-          "Invandrare 16-74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och utflyttningsland. Invandringsår 1987 - 2021",
+          "Invandrare 16–74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och utflyttningsland. Invandringsår 1987 - 2021",
           "2022-04-28"
         ],
         [
-          "Invandrare 16-74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Invandringsår 1990 - 2021",
+          "Invandrare 16–74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Invandringsår 1990 - 2021",
           "2022-04-28"
         ],
         [
-          "Utvandrare 16-74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och inflyttningsland. Utvandringsår 1990 - 2021",
+          "Utvandrare 16–74 år efter kön, nationell bakgrund, utbildningsnivå, utbildningsinriktning och inflyttningsland. Utvandringsår 1990 - 2021",
           "2022-04-28"
         ],
         [
-          "Utvandrare 16-74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Utvandringsår 1990 - 2021",
+          "Utvandrare 16–74 år efter kön, ålder, nationell bakgrund, flyttningsmönster, utbildningsnivå och utbildningsinriktning. Utvandringsår 1990 - 2021",
           "2022-04-28"
         ],
         [
-          "Invandrare 16-74 år efter kön, ålder, nationell bakgrund, tid utomlands, utbildningsnivå och utbildningsinriktning SUN 2000. Invandringsår 1990 - 2021",
+          "Invandrare 16–74 år efter kön, ålder, nationell bakgrund, tid utomlands, utbildningsnivå och utbildningsinriktning SUN 2000. Invandringsår 1990 - 2021",
           "2022-04-28"
         ],
         [
-          "Utvandrare 16-74 år efter kön, ålder, nationell bakgrund, tid i Sverige, utbildningsnivå och utbildningsinriktning SUN 2000. Utvandringsår 1990 - 2021",
+          "Utvandrare 16–74 år efter kön, ålder, nationell bakgrund, tid i Sverige, utbildningsnivå och utbildningsinriktning SUN 2000. Utvandringsår 1990 - 2021",
           "2022-04-28"
         ]
       ]

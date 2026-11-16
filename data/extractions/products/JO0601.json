@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/JO0601",
     "response_url": "https://www.scb.se/JO0601",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/",
-    "fetched_at": "2026-11-09T03:30:46.788596Z",
+    "fetched_at": "2026-11-16T03:33:46.888014Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "e0d6e1ca98f93989788b94e990418ae0343184782066b2960f623076e62bc6b0",
+    "content_sha256": "4a35c6968bcd8003ce9e8c3eee510f0d9fc869fbebb5ba40674a6134d70d07e8",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/jo0601",
   "summary": "Statistiken visar bland annat hektarskörd, areal och totalskörd för vete, råg, korn och havre per län, produktionsområde och riket.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-13",
-  "next_publication_date": "2026-11-13",
+  "next_publication_text": "Nästa publicering: 2026-12-11",
+  "next_publication_date": "2026-12-11",
   "responsible_agency": {
     "label": "Jordbruksverket",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-13",
+        "Nästa publicering: 2026-12-11",
         "Statistiken visar bland annat hektarskörd, areal och totalskörd för vete, råg, korn och havre per län, produktionsområde och riket."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-13",
+          "text": "Nästa publicering: 2026-12-11",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=JO0601&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=JO0601&period=Forward1Year"
         }
@@ -119,14 +119,14 @@
         }
       ],
       "paragraphs": [
-        "2025-12-12",
-        "Årets totalskörd av spannmål beräknas till 6,4 miljoner ton, vilket tillsammans med skörden 1974 är den näst största som uppmätts i Sverige. Skörden är också 23 procent större än femårsgenomsnittet och höga avkastningsnivåer avspeglas i hela riket."
+        "2026-11-13",
+        "Årets totalskörd av spannmål beräknas till 5,8 miljoner ton. Det är 11 procent mindre än föregående års rekordskörd men samtidigt 8 procent mer än genomsnittet för de föregående fem åren. Efter den stränga vintern har det krävts mycket arbete för att så om stora ytor med höstsådda grödor. De vårsådda grödorna, exempelvis havre, gav sedan en bra skörd efter omväxlande väder i maj och framåt."
       ],
       "links": [
         {
-          "text": "Näst största spannmålsskörden någonsin",
-          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/pong/statistiknyhet/skord-av-spannmal-trindsad-och-oljevaxter-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/pong/statistiknyhet/skord-av-spannmal-trindsad-och-oljevaxter-2025/"
+          "text": "God skörd på riksnivå – men ett kämpigt år",
+          "href": "/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/pong/statistiknyhet/skord-av-spannmal-trindsad-och-oljevaxter-20252.-preliminar-statistik-for-riket",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/jord-och-skogsbruk-fiske/jordbrukets-produktion/skord-av-spannmal-trindsad-och-oljevaxter/pong/statistiknyhet/skord-av-spannmal-trindsad-och-oljevaxter-20252.-preliminar-statistik-for-riket"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -231,17 +231,17 @@
         [
           "Totalskördar av spannmål",
           "Diagram",
-          "2026-04-22"
+          "2026-11-13"
         ],
         [
           "Hektarskördar av vårkorn och havre",
           "Diagram",
-          "2026-04-22"
+          "2026-11-13"
         ],
         [
           "Hektarskördar av höstvete, vårvete och råg",
           "Diagram",
-          "2026-04-22"
+          "2026-11-13"
         ]
       ]
     },
@@ -553,6 +553,7 @@
         }
       ],
       "paragraphs": [
+        "2026 (pdf)",
         "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
@@ -582,6 +583,11 @@
         "1999 (pdf)"
       ],
       "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601-kd-261113.pdf",
+          "url": "https://www.scb.se/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601-kd-261113.pdf"
+        },
         {
           "text": "2025 (pdf)",
           "href": "/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601_kd_2025_260422.pdf",
@@ -793,6 +799,7 @@
         }
       ],
       "paragraphs": [
+        "2026 (pdf)",
         "2025 (pdf)",
         "2025 (pdf)",
         "2024 (pdf)",
@@ -808,6 +815,11 @@
         "2017 (pdf)"
       ],
       "links": [
+        {
+          "text": "2026 (pdf)",
+          "href": "/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601-staf-2026-261113.pdf",
+          "url": "https://www.scb.se/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601-staf-2026-261113.pdf"
+        },
         {
           "text": "2025 (pdf)",
           "href": "/contentassets/462f77b26e0d4febbbaab8b204d960f5/jo0601_staf_2025_260422.pdf",

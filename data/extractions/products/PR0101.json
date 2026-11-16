@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0101",
     "response_url": "https://www.scb.se/PR0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/",
-    "fetched_at": "2026-11-09T03:32:43.126939Z",
+    "fetched_at": "2026-11-16T03:35:41.387832Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "99f14f929d8a0a2ba574ddf089bbfc90437c764cd9541370452e30304ab0cffe",
+    "content_sha256": "f779a171f60c6c1a0970d67c3b4d4fc81431fe188c98b95d9fe1dd370abbfb27",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0101",
   "summary": "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-12",
-  "next_publication_date": "2026-11-12",
+  "next_publication_text": "Nästa publicering: 2026-12-04",
+  "next_publication_date": "2026-12-04",
   "responsible_agency": null,
   "notices": [
     "KPI byter klassifikation och basår",
@@ -41,12 +41,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-12",
+        "Nästa publicering: 2026-12-04",
         "Indexet mäter den genomsnittliga prisutvecklingen för hela den privata inhemska konsumtionen, de priser konsumenten faktiskt betalar. KPI är det vanliga måttet för kompensations- och inflationsberäkningar i Sverige."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-12",
+          "text": "Nästa publicering: 2026-12-04",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0101&period=Forward1Year"
         }
@@ -108,8 +108,8 @@
       ],
       "paragraphs": [
         "Inflationstakt enligt KPI",
-        "1,1 %",
-        "Referenstid: september 2026 jämfört med samma period föregående år"
+        "0,9 %",
+        "Referenstid: oktober 2026 jämfört med samma period föregående år"
       ],
       "links": [],
       "table_headers": [],
@@ -130,9 +130,9 @@
       ],
       "paragraphs": [
         "Konsumentprisindex (KPI)",
-        "125,94",
+        "125,97",
         "Index 2020=100",
-        "Referenstid: september 2026"
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -153,8 +153,8 @@
       ],
       "paragraphs": [
         "Inflationstakt enligt KPIF",
-        "1,5 %",
-        "Referenstid: september 2026 jämfört med samma period föregående år"
+        "1,1 %",
+        "Referenstid: oktober 2026 jämfört med samma period föregående år"
       ],
       "links": [],
       "table_headers": [],
@@ -174,14 +174,14 @@
         }
       ],
       "paragraphs": [
-        "2026-11-05",
-        "Den preliminära inflationstakten enligt KPI för oktober 2026 var 0,9 procent, vilket var en nedgång från 1,1 procent i september. Månadsförändringen för KPI från september till oktober var 0,0 procent. Den ordinarie publiceringen för oktober sker den 12 november."
+        "2026-11-12",
+        "Inflationstakten enligt KPI var 0,9 procent i oktober 2026, vilket var en nedgång från 1,1 procent i september. Månadsförändringen från september till oktober var 0,0 procent enligt KPI. Inflationstakten enligt KPIF (Konsumentprisindex med fast ränta) var 1,1 procent i oktober, en nedgång från 1,5 procent i september."
       ],
       "links": [
         {
-          "text": "Snabb-KPI: Inflationstakten 0,9 procent i oktober 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/"
+          "text": "Inflationstakten enligt KPI var 0,9 procent i oktober 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-oktober-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -261,7 +261,7 @@
         [
           "Konsumentprisindex (2020=100), fastställda tal",
           "Tabell",
-          "2026-10-14"
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex (1980=100), fastställda tal (Uppdateras ej efter 2025)",
@@ -349,7 +349,7 @@
         [
           "KPI, historiska tal, 1830–",
           "Tabell",
-          "2026-10-14"
+          "2026-11-12"
         ],
         [
           "Prisnivån i Sverige 1830–2025",
@@ -403,37 +403,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex (KPI), totalt, 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI), totalt, 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020M"
         },
         {
-          "text": "Konsumentprisindex (KPI) efter avdelningar (COICOP), 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI) efter avdelningar (COICOP), 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOP2M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOP2M"
         },
         {
-          "text": "Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOPM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOPM"
         },
         {
-          "text": "Konsumentprisindex (KPI), livsmedel och alkoholfria drycker, 2020=100. Månad 2026M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI), livsmedel och alkoholfria drycker, 2020=100. Månad 2026M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020EPG01M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020EPG01M"
         },
         {
-          "text": "Ombasade serier för fastställda KPI-tal. Månad 1980M01 - 2026M09",
+          "text": "Ombasade serier för fastställda KPI-tal. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020M1980",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020M1980"
         },
         {
-          "text": "Konsumentprisindex (KPI)/Levnadskostnadsindex utan direkta skatter och sociala förmåner, juli 1914=100. Månad 1914M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI)/Levnadskostnadsindex utan direkta skatter och sociala förmåner, juli 1914=100. Månad 1914M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPILevindexM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPILevindexM"
         },
         {
-          "text": "Konsumentprisindex (KPI), el och bränsle, 1980=100.  Månad 2026M01 - 2026M09",
+          "text": "Konsumentprisindex (KPI), el och bränsle, 1980=100.  Månad 2026M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI1980Bransle",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI1980Bransle"
         },
@@ -473,32 +473,32 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex (KPI), totalt, 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI), totalt, 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex (KPI) efter avdelningar (COICOP), 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI) efter avdelningar (COICOP), 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex (KPI), livsmedel och alkoholfria drycker, 2020=100. Månad 2026M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI), livsmedel och alkoholfria drycker, 2020=100. Månad 2026M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Ombasade serier för fastställda KPI-tal. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Ombasade serier för fastställda KPI-tal. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex (KPI)/Levnadskostnadsindex utan direkta skatter och sociala förmåner, juli 1914=100. Månad 1914M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI)/Levnadskostnadsindex utan direkta skatter och sociala förmåner, juli 1914=100. Månad 1914M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex (KPI), el och bränsle, 1980=100.  Månad 2026M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex (KPI), el och bränsle, 1980=100.  Månad 2026M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex (KPI)/Levnadskostnadsindex utan direkta skatter och sociala förmåner, juli 1914=100. År 1914 - 2025",
@@ -562,7 +562,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex med konstant skatt (KPI-KS), 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Konsumentprisindex med konstant skatt (KPI-KS), 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIKS2020",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIKS2020"
         },
@@ -587,8 +587,8 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex med konstant skatt (KPI-KS), 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med konstant skatt (KPI-KS), 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex med konstant skatt (KPI-KS), årsmedeltal, 1980=100. År 1980 - 2025",
@@ -640,17 +640,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex med fast ränta (KPIF), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Konsumentprisindex med fast ränta (KPIF), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020"
         },
         {
-          "text": "Konsumentprisindex med fast ränta (KPIF) efter avdelningar (COICOP), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Konsumentprisindex med fast ränta (KPIF) efter avdelningar (COICOP), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOP2M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOP2M"
         },
         {
-          "text": "Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOPM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOPM"
         },
@@ -670,16 +670,16 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex med fast ränta (KPIF), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med fast ränta (KPIF), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex med fast ränta (KPIF) efter avdelningar (COICOP), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med fast ränta (KPIF) efter avdelningar (COICOP), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex med fast ränta (KPIF), 1987=100 (uppdateras ej efter 2025M12). Månad 1987M01 - 2025M12",
@@ -727,7 +727,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex med fast ränta och konstant skatt (KPIF-KS), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Konsumentprisindex med fast ränta och konstant skatt (KPIF-KS), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFKS2020",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFKS2020"
         },
@@ -747,8 +747,8 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex med fast ränta och konstant skatt (KPIF-KS), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med fast ränta och konstant skatt (KPIF-KS), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex med fast ränta och konstant skatt (KPIF-KS), 1987=100 (uppdateras ej efter 2025M12). Månad 1987M01 - 2025M12",
@@ -796,7 +796,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex med fast ränta exklusive energi (KPIF-XE), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Konsumentprisindex med fast ränta exklusive energi (KPIF-XE), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFXE2020",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIFXE2020"
         },
@@ -816,8 +816,8 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex med fast ränta exklusive energi (KPIF-XE), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Konsumentprisindex med fast ränta exklusive energi (KPIF-XE), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Konsumentprisindex med fast ränta exklusive energi (KPIF-XE), 1987=100 (uppdateras ej efter 2025M12). Månad 1987M01 - 2025M12",
@@ -865,7 +865,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Harmoniserat konsumentprisindex (HIKP), 2025=100. Månad 1996M01 - 2026M09",
+          "text": "Harmoniserat konsumentprisindex (HIKP), 2025=100. Månad 1996M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HIKP2025",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HIKP2025"
         },
@@ -890,8 +890,8 @@
           "Datum"
         ],
         [
-          "Harmoniserat konsumentprisindex (HIKP), 2025=100. Månad 1996M01 - 2026M09",
-          "2026-10-14"
+          "Harmoniserat konsumentprisindex (HIKP), 2025=100. Månad 1996M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Harmoniserat konsumentprisindex, 2015=100. År 1996 - 2025",
@@ -943,7 +943,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Harmoniserat konsumentprisindex med konstant skatt (HIKP-KS), 2025=100. Månad 2002M12 - 2026M09",
+          "text": "Harmoniserat konsumentprisindex med konstant skatt (HIKP-KS), 2025=100. Månad 2002M12 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HIKPKS2025",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HIKPKS2025"
         },
@@ -968,8 +968,8 @@
           "Datum"
         ],
         [
-          "Harmoniserat konsumentprisindex med konstant skatt (HIKP-KS), 2025=100. Månad 2002M12 - 2026M09",
-          "2026-10-14"
+          "Harmoniserat konsumentprisindex med konstant skatt (HIKP-KS), 2025=100. Månad 2002M12 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Harmoniserat konsumentprisindex - KS, 2015=100. År 2003 - 2025",
@@ -1423,14 +1423,14 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken), 1980=100. Månad 1980M01 - 2025M12",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBBas1980",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBBas1980"
-        },
-        {
           "text": "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken). År 1980 - 2023",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBAr",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBAr"
+        },
+        {
+          "text": "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken), 1980=100. Månad 1980M01 - 2025M12",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBBas1980",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIRBBas1980"
         },
         {
           "text": "Underliggande inflation (Riksbanken), Index år till år. År 2003 - 2023",
@@ -1458,12 +1458,12 @@
           "Datum"
         ],
         [
-          "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken), 1980=100. Månad 1980M01 - 2025M12",
-          "2026-01-15"
-        ],
-        [
           "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken). År 1980 - 2023",
           "2025-02-18"
+        ],
+        [
+          "Konsumentprisindex efter varu-/tjänstegrupp (Riksbanken), 1980=100. Månad 1980M01 - 2025M12",
+          "2026-01-15"
         ],
         [
           "Underliggande inflation (Riksbanken), Index år till år. År 2003 - 2023",
@@ -1519,37 +1519,37 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Detaljerad tabell: Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Detaljerad tabell: Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOPMA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020COICOPMA"
         },
         {
-          "text": "Detaljerad tabell: Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Detaljerad tabell: Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOPMA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020COICOPMA"
         },
         {
-          "text": "Detaljerad tabell: KPI/KPIF, COICOP 04.2 del av boende (EPG), 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Detaljerad tabell: KPI/KPIF, COICOP 04.2 del av boende (EPG), 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020EPG04MA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020EPG04MA"
         },
         {
-          "text": "Detaljerad tabell: KPI specialaggregat för varor och tjänster, 2020=100. Månad 1980M01 - 2026M09",
+          "text": "Detaljerad tabell: KPI specialaggregat för varor och tjänster, 2020=100. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020SA1MA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPI2020SA1MA"
         },
         {
-          "text": "Detaljerad tabell: KPIF specialaggregat för varor och tjänster, 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Detaljerad tabell: KPIF specialaggregat för varor och tjänster, 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA1MA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA1MA"
         },
         {
-          "text": "Detaljerad tabell: KPIF analysgrupper, 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Detaljerad tabell: KPIF analysgrupper, 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA2MA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA2MA"
         },
         {
-          "text": "Detaljerad tabell: Konstanta skatter och räntor, 2020=100. Månad 1987M01 - 2026M09",
+          "text": "Detaljerad tabell: Konstanta skatter och räntor, 2020=100. Månad 1987M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA3MA",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KPIF2020SA3MA"
         },
@@ -1599,32 +1599,32 @@
           "Datum"
         ],
         [
-          "Detaljerad tabell: Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: Konsumentprisindex med fast ränta (KPIF) enligt COICOP (alla nivåer), 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: KPI/KPIF, COICOP 04.2 del av boende (EPG), 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: KPI/KPIF, COICOP 04.2 del av boende (EPG), 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: KPI specialaggregat för varor och tjänster, 2020=100. Månad 1980M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: KPI specialaggregat för varor och tjänster, 2020=100. Månad 1980M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: KPIF specialaggregat för varor och tjänster, 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: KPIF specialaggregat för varor och tjänster, 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: KPIF analysgrupper, 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: KPIF analysgrupper, 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
-          "Detaljerad tabell: Konstanta skatter och räntor, 2020=100. Månad 1987M01 - 2026M09",
-          "2026-10-14"
+          "Detaljerad tabell: Konstanta skatter och räntor, 2020=100. Månad 1987M01 - 2026M10",
+          "2026-11-12"
         ],
         [
           "Detaljerad tabell: Konsumentprisindex (KPI) enligt COICOP (alla nivåer), 2020=100. År 1980 - 2024",

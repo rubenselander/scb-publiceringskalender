@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0209",
     "response_url": "https://www.scb.se/SF0209",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/assistansersattning/",
-    "fetched_at": "2026-11-09T03:33:07.817253Z",
+    "fetched_at": "2026-11-16T03:36:08.709957Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ba668993af030491fcd759c8905293c1293dfa8607f638c71a1512e0966826aa",
+    "content_sha256": "3ade42bc3beeb442ab76804c45394d324520a4a8099546e12da2471222d834d0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0209",
   "summary": "Statistiken visar antal assistansberättigade och antalet beviljade timmar per vecka fördelat på ålder, personkrets, län och typ av anordnare.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-11",
-  "next_publication_date": "2026-11-11",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-11",
+        "Nästa publicering: 2026-12-10",
         "Statistiken visar antal assistansberättigade och antalet beviljade timmar per vecka fördelat på ålder, personkrets, län och typ av anordnare."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-11",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0209&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0209&period=Forward1Year"
         }

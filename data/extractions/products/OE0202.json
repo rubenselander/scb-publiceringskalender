@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0202",
     "response_url": "https://www.scb.se/OE0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/statlig-upplaning-och-statsskuld/den-svenska-statsskulden/",
-    "fetched_at": "2026-11-09T03:32:36.466878Z",
+    "fetched_at": "2026-11-16T03:35:34.282268Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "6ff825a4bce19c114c817b62ee62a84d677e90e78e399eea792d60e13f991f2f",
+    "content_sha256": "0c7a795d29c6c06949cb2771a10a1aef5b4383d18475c43ab3190db94619d2eb",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0202",
   "summary": "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-09",
-  "next_publication_date": "2026-11-09",
+  "next_publication_text": "Nästa publicering: 2026-12-07",
+  "next_publication_date": "2026-12-07",
   "responsible_agency": {
     "label": "Riksgälden",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-09",
+        "Nästa publicering: 2026-12-07",
         "Statistiken visar statsskuldens storlek, sammansättning och förändring över tid."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-09",
+          "text": "Nästa publicering: 2026-12-07",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0202&period=Forward1Year"
         }
@@ -138,7 +138,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M09",
+          "text": "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/StatsskuldNy"
         },
@@ -158,8 +158,8 @@
           "Datum"
         ],
         [
-          "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M09",
-          "2026-10-08"
+          "Statsskulden fördelad på marknader. Månad 1970M01 - 2026M10",
+          "2026-11-09"
         ],
         [
           "Statsskulden efter kontopost (uppdateras ej). Månad 1970M01 - 2024M09",

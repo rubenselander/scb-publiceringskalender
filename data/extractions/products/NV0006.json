@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0006",
     "response_url": "https://www.scb.se/NV0006",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/",
-    "fetched_at": "2026-11-09T03:32:09.658547Z",
+    "fetched_at": "2026-11-16T03:35:05.578972Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9bcc134a545cab9c1d849f2c3237d303b487c5b2c44ea84fa3a3f083cb877fbf",
+    "content_sha256": "1ef4ccceccae6f0e0ae3641290bd08bf2537c25f2ebf09115284eca462874557",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0006",
   "summary": "Statistiken mäter månadsvis utvecklingen av svensk handel, tjänste- och varuproduktion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-10",
-  "next_publication_date": "2026-11-10",
+  "next_publication_text": "Nästa publicering: 2026-12-10",
+  "next_publication_date": "2026-12-10",
   "responsible_agency": null,
   "notices": [
     "Publiceringen av lagerkorrigerat produktionsvärdeindex har upphört. Statistik med liknande innehåll finns tillgängligt i produkten Ekonomisk statistik på Kvartal (ESK), där den benämns som näringslivets förädlingsvärde. Produktionsvärdeindex påverkas inte, utan kommer publiceras som vanligt.",
@@ -40,12 +40,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-10",
+        "Nästa publicering: 2026-12-10",
         "Statistiken mäter månadsvis utvecklingen av svensk handel, tjänste- och varuproduktion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-10",
+          "text": "Nästa publicering: 2026-12-10",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0006&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0006&period=Forward1Year"
         }
@@ -101,9 +101,9 @@
       ],
       "paragraphs": [
         "Produktionsvärdeindex (säsongrensat)",
-        "110,4",
+        "109,7",
         "Index 2021=100",
-        "Referenstid: augusti 2026"
+        "Referenstid: september 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -123,7 +123,7 @@
         }
       ],
       "paragraphs": [
-        "3,8 %",
+        "1,1 %",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -144,7 +144,7 @@
         }
       ],
       "paragraphs": [
-        "0,5 %",
+        "-0,5 %",
         "jämfört med föregående period"
       ],
       "links": [],
@@ -165,14 +165,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-09",
-        "Produktionsvärdeindex för det totala näringslivet ökade med 0,5 procent i augusti 2026 jämfört med juli 2026 mätt i fasta priser, kalenderkorrigerade och säsongrensade tal. Jämfört med augusti 2025 ökade produktionen med 3,8 procent mätt i fasta priser och kalenderkorrigerade tal."
+        "2026-11-10",
+        "Produktionsvärdeindex för det totala näringslivet minskade med 0,5 procent i september 2026 jämfört med augusti 2026 mätt i fasta priser, kalenderkorrigerade och säsongrensade tal. Jämfört med september 2025 ökade produktionen med 1,1 procent mätt i fasta priser och kalenderkorrigerade tal."
       ],
       "links": [
         {
-          "text": "Ökad produktion inom näringslivet i augusti 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-augusti-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-augusti-2026/"
+          "text": "Minskad produktion inom näringslivet i september 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-september-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/produktionsvardeindex/pong/statistiknyhet/produktionsvardeindex-pvi-september-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -272,32 +272,32 @@
         [
           "Produktionsvärdeindex",
           "Diagram",
-          "2026-10-09"
+          "2026-11-10"
         ],
         [
           "Produktionsvärdeindex (tjänstesektorn) och tjänsteproduktionsindex",
           "Diagram",
-          "2026-10-09"
+          "2026-11-10"
         ],
         [
           "Produktionsvärdeindex (industrin) och industriproduktionsindex",
           "Diagram",
-          "2026-10-09"
+          "2026-11-10"
         ],
         [
           "Kalenderkorrigerade detaljerade förändringstal",
           "Tabell",
-          "2026-10-09"
+          "2026-11-10"
         ],
         [
           "Säsongrensade detaljerade förändringstal",
           "Tabell",
-          "2026-10-09"
+          "2026-11-10"
         ],
         [
           "Produktionsvärdeindex, säsongrensad och kalenderkorrigerad",
           "Diagram",
-          "2026-10-09"
+          "2026-11-10"
         ]
       ]
     },
@@ -341,7 +341,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M08",
+          "text": "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PVI2015FastM07",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/PVI2015FastM07"
         }
@@ -356,8 +356,8 @@
           "Datum"
         ],
         [
-          "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M08",
-          "2026-10-09"
+          "Produktionsvärdeindex (PVI), kedjeindex, 2021=100, efter näringsgren SNI2007. Månad 2010M01 - 2026M09",
+          "2026-11-10"
         ]
       ]
     },
@@ -534,8 +534,8 @@
       "links": [
         {
           "text": "2026 (pdf)",
-          "href": "/contentassets/7057d375d49c4b32a5d48cb2c7a39162/nv0006_kd_2026_v2_20260907_x.pdf",
-          "url": "https://www.scb.se/contentassets/7057d375d49c4b32a5d48cb2c7a39162/nv0006_kd_2026_v2_20260907_x.pdf"
+          "href": "/contentassets/7057d375d49c4b32a5d48cb2c7a39162/nv0006_kd_2026_v3_20261111.pdf",
+          "url": "https://www.scb.se/contentassets/7057d375d49c4b32a5d48cb2c7a39162/nv0006_kd_2026_v3_20261111.pdf"
         },
         {
           "text": "2025 (pdf)",

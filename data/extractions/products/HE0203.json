@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HE0203",
     "response_url": "https://www.scb.se/HE0203",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/",
-    "fetched_at": "2026-11-09T03:30:09.332121Z",
+    "fetched_at": "2026-11-16T03:33:12.825617Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "92cef8b1ac9235f93270026ddae4477770ffa62eb554394000dd9cfb1215a461",
+    "content_sha256": "cd255492f35156606d638dad1d377cea712b0f754d17493709418e1ae649ae77",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,10 +21,12 @@
   "short_address": "https://www.scb.se/he0203",
   "summary": "Statistiken visar hushållens konsumtion och används som underlag för analys av Sveriges ekonomi på kort och lång sikt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-11",
-  "next_publication_date": "2026-11-11",
+  "next_publication_text": "Nästa publicering: 2026-11-25",
+  "next_publication_date": "2026-11-25",
   "responsible_agency": null,
-  "notices": [],
+  "notices": [
+    "Fredag 13 november 2026 har statistiken om hushållens konsumtion som avser oktober korrigerats. Det berodde på att det saknades väderdata för 30/10 som påverkade beräkningen av bostadsdelen (COICOP 04 samt varaktighet 1132 och 1210) i hushållens konsumtion. Statistiknyhet och tabeller för månad, vecka och dag i Statistikdatabasen har publicerats om."
+  ],
   "tags": [],
   "sections": [
     {
@@ -36,16 +38,31 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-11",
+        "Nästa publicering: 2026-11-25",
         "Statistiken visar hushållens konsumtion och används som underlag för analys av Sveriges ekonomi på kort och lång sikt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-11",
+          "text": "Nästa publicering: 2026-11-25",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=HE0203&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HE0203&period=Forward1Year"
         }
       ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Hushållens konsumtion",
+          "level": 1,
+          "anchor": "h1"
+        }
+      ],
+      "paragraphs": [
+        "Fredag 13 november 2026 har statistiken om hushållens konsumtion som avser oktober korrigerats. Det berodde på att det saknades väderdata för 30/10 som påverkade beräkningen av bostadsdelen (COICOP 04 samt varaktighet 1132 och 1210) i hushållens konsumtion. Statistiknyhet och tabeller för månad, vecka och dag i Statistikdatabasen har publicerats om."
+      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },
@@ -64,9 +81,9 @@
       ],
       "paragraphs": [
         "Hushållens konsumtionsindikator",
-        "226 337",
+        "231 639",
         "miljoner kronor, löpande priser",
-        "Referenstid: september 2026"
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -87,9 +104,9 @@
       ],
       "paragraphs": [
         "Volymutveckling (säsongrensad)",
-        "3,5 %",
+        "4,3 %",
         "jämfört med samma månad föregående år",
-        "Referenstid: september 2026"
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -110,9 +127,9 @@
       ],
       "paragraphs": [
         "Volymutveckling (säsongrensad)",
-        "1,2 %",
+        "2,5 %",
         "jämfört med föregående månad",
-        "Referenstid: september 2026"
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -132,14 +149,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-28",
-        "Hushållens konsumtion ökade med 0,4 procent under vecka 39-42 jämfört med vecka 35-38. Jämfört med vecka 38-41 var hushållens konsumtion oförändrad (0,0 procent). Utvecklingstalen är fastprisberäknade, kalenderkorrigerade och säsongrensade."
+        "2026-11-11",
+        "Hushållens konsumtion ökade med 2,5 procent i oktober 2026 jämfört med september 2026. Jämfört med oktober 2025 ökade hushållens konsumtion med 4,3 procent. Enligt veckostatistiken ökade hushållens konsumtion med 0,5 procent vecka 41-44 jämfört med vecka 37-40. Utvecklingstalen är fastprisberäknade, kalenderkorrigerade och säsongrensade."
       ],
       "links": [
         {
-          "text": "Ökad hushållskonsumtion vecka 39-42 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtion-veckoindikator-till-och-med-vecka-42-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtion-veckoindikator-till-och-med-vecka-42-2026/"
+          "text": "Hushållens konsumtion ökade i oktober 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtionsindikator-oktober-2026-veckoindikator-till-och-med-vecka-44-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtionsindikator-oktober-2026-veckoindikator-till-och-med-vecka-44-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -219,32 +236,32 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Månad 2019M01 - 2026M09",
+          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Månad 2019M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopM"
         },
         {
-          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Vecka 2019V01 - 2026V42",
+          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Vecka 2019V01 - 2026V44",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopV",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopV"
         },
         {
-          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Dag 2019D0101 - 2026D1018",
+          "text": "Hushållens konsumtionsindikator efter ändamål COICOP. Dag 2019D0101 - 2026D1101",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopD",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndCoicopD"
         },
         {
-          "text": "Hushållens konsumtionsindikator efter varaktighet. Månad 2019M01 - 2026M09",
+          "text": "Hushållens konsumtionsindikator efter varaktighet. Månad 2019M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarM"
         },
         {
-          "text": "Hushållens konsumtionsindikator efter varaktighet. Vecka 2019V01 - 2026V42",
+          "text": "Hushållens konsumtionsindikator efter varaktighet. Vecka 2019V01 - 2026V44",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarV",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarV"
         },
         {
-          "text": "Hushållens konsumtionsindikator efter varaktighet. Dag 2019D0101 - 2026D1018",
+          "text": "Hushållens konsumtionsindikator efter varaktighet. Dag 2019D0101 - 2026D1101",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarD",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/HE0203KIndVarD"
         }
@@ -259,28 +276,28 @@
           "Datum"
         ],
         [
-          "Hushållens konsumtionsindikator efter ändamål COICOP. Månad 2019M01 - 2026M09",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter ändamål COICOP. Månad 2019M01 - 2026M10",
+          "2026-11-13"
         ],
         [
-          "Hushållens konsumtionsindikator efter ändamål COICOP. Vecka 2019V01 - 2026V42",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter ändamål COICOP. Vecka 2019V01 - 2026V44",
+          "2026-11-13"
         ],
         [
-          "Hushållens konsumtionsindikator efter ändamål COICOP. Dag 2019D0101 - 2026D1018",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter ändamål COICOP. Dag 2019D0101 - 2026D1101",
+          "2026-11-13"
         ],
         [
-          "Hushållens konsumtionsindikator efter varaktighet. Månad 2019M01 - 2026M09",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter varaktighet. Månad 2019M01 - 2026M10",
+          "2026-11-13"
         ],
         [
-          "Hushållens konsumtionsindikator efter varaktighet. Vecka 2019V01 - 2026V42",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter varaktighet. Vecka 2019V01 - 2026V44",
+          "2026-11-13"
         ],
         [
-          "Hushållens konsumtionsindikator efter varaktighet. Dag 2019D0101 - 2026D1018",
-          "2026-10-28"
+          "Hushållens konsumtionsindikator efter varaktighet. Dag 2019D0101 - 2026D1101",
+          "2026-11-13"
         ]
       ]
     },

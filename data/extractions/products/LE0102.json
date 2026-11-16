@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/LE0102",
     "response_url": "https://www.scb.se/LE0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/",
-    "fetched_at": "2026-11-09T03:31:19.265587Z",
+    "fetched_at": "2026-11-16T03:34:15.449835Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "99202e8c08ba8d87a4e51a393fa6194a9aa431d9b27570e8e6b509ac0b517042",
+    "content_sha256": "26746fc1534b82cbdc71e9552ea7d452822bea9a7fdf08477635820e0900f5c9",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/le0102",
   "summary": "Statistiken handlar om barns familjer, separationer mellan föräldrar, gemensam och ensam vårdnad, geografiskt avstånd mellan barn och föräldrar, barn med svensk/utländsk bakgrund och adoptioner. Det finns också uppgifter om barns boende, föräldrars förvärvsarbete och ekonomiska förhållanden.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-12",
-  "next_publication_date": "2026-11-12",
+  "next_publication_text": "Nästa publicering: 2027-04-01",
+  "next_publication_date": "2027-04-01",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-12",
+        "Nästa publicering: 2027-04-01",
         "Statistiken handlar om barns familjer, separationer mellan föräldrar, gemensam och ensam vårdnad, geografiskt avstånd mellan barn och föräldrar, barn med svensk/utländsk bakgrund och adoptioner. Det finns också uppgifter om barns boende, föräldrars förvärvsarbete och ekonomiska förhållanden."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-12",
+          "text": "Nästa publicering: 2027-04-01",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=LE0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=LE0102&period=Forward1Year"
         }
@@ -63,14 +63,14 @@
         }
       ],
       "paragraphs": [
-        "2026-06-25",
-        "I Sverige finns ca 1,2 miljoner familjer med barn under 18 år. Sju av tio är kärnfamiljer, två av tio är familjer med en ensamstående förälder och knappt en av tio är en ombildad familj. Det är vanligast att det finns ett eller två barn i familjen, det gäller mer än åtta av tio barnfamiljer."
+        "2026-11-12",
+        "Ekonomiska levnadsförhållanden för barn med insatser relaterat till funktionsnedsättning skiljer sig inte från ekonomiska levnadsförhållanden för övriga barn i så stor utsträckning. Däremot är ekonomiska skillnader större mellan barn som har minst en förälder med sådana insatser och barn till föräldrar som inte har sådana insatser. Resultaten bygger på en analys av statistik från 2019–2024 om barns ekonomiska levnadsförhållanden utifrån egna eller föräldrars insatser från samhället relaterade till funktionsnedsättning."
       ],
       "links": [
         {
-          "text": "Så ser Sveriges barnfamiljer ut",
-          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/pong/statistiknyhet/barn--och-familjestatistik-20242/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/pong/statistiknyhet/barn--och-familjestatistik-20242/"
+          "text": "Barn till föräldrar med insatser relaterat till funktionsnedsättning har sämre ekonomiska levnadsförhållanden",
+          "href": "/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/pong/statistiknyhet/ekonomiska-levnadsforhallanden-for-barn-med-funktionsnedsattning/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/levnadsforhallanden/barn-och-familjestatistik/pong/statistiknyhet/ekonomiska-levnadsforhallanden-for-barn-med-funktionsnedsattning/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -1239,14 +1239,14 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/Familj2K"
         },
         {
-          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N"
-        },
-        {
           "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. Uppdateras ej. År 2014 - 2017",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T4"
+        },
+        {
+          "text": "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T5N"
         },
         {
           "text": "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
@@ -1309,14 +1309,14 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/SamboformForalder4K"
         },
         {
-          "text": "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10"
-        },
-        {
           "text": "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T8"
+        },
+        {
+          "text": "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LE0102T10"
         },
         {
           "text": "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), utländsk/svensk bakgrund och moderns ålder. År 2005",
@@ -1534,12 +1534,12 @@
           "2015-10-01"
         ],
         [
-          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
-          "2021-03-23"
-        ],
-        [
           "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, familjetyp och antal hemmaboende syskon. Uppdateras ej. År 2014 - 2017",
           "2019-03-13"
+        ],
+        [
+          "Inkomststandard för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
         ],
         [
           "Hemmaboende barn och ungdomar 0-21 år efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar) och utländsk/svensk bakgrund. År 2000 - 2014",
@@ -1590,12 +1590,12 @@
           "2015-10-01"
         ],
         [
-          "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
-          "2021-03-23"
-        ],
-        [
           "Inkomststandard (median) för hemmaboende barn och unga 0–21 år efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. Uppdateras ej. År 2014 - 2017",
           "2019-03-13"
+        ],
+        [
+          "Hemmaboende barn och unga 0–21 år vars familjer fått ekonomiskt bistånd någon gång under året efter kön, ålder, bakgrund och föräldrarnas utbildningsnivå. År 2014 - 2019",
+          "2021-03-23"
         ],
         [
           "Hemmaboende barn och ungdomar 0-21 år som bor med biologiska föräldrar och styvförälder efter kön, ålder, familjetyp (sammanboende eller ensamstående föräldrar), utländsk/svensk bakgrund och moderns ålder. År 2005",
@@ -1731,6 +1731,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Ekonomiska levnadsförhållanden för barn med funktionsnedsättning",
+          "href": "/publikation/64831",
+          "url": "https://www.scb.se/publikation/64831"
+        },
+        {
           "text": "Levnadsförhållanden för barn med funktionsnedsättning",
           "href": "/publikation/54129",
           "url": "https://www.scb.se/publikation/54129"
@@ -1771,6 +1776,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Ekonomiska levnadsförhållanden för barn med funktionsnedsättning",
+          "",
+          "2026-11-12"
         ],
         [
           "Levnadsförhållanden för barn med funktionsnedsättning",

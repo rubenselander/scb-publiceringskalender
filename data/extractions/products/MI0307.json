@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI0307",
     "response_url": "https://www.scb.se/MI0307",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/",
-    "fetched_at": "2026-11-09T03:31:38.186912Z",
+    "fetched_at": "2026-11-16T03:34:33.812112Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "346611abf915d38177e89758e06b82a80a842c6df1485a514279c471b2b8d36f",
+    "content_sha256": "a8625abeecee9520ecf32fbf8b2c5c2d68bb069af123d479459cb9cc1f1d76d4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi0307",
   "summary": "Förpackningsstatistiken redovisar återvinningsgraden för förpackningar som uppkommer i Sverige varje år. Förpackningar används för att skydda och presentera en vara och kan till exempel tillverkas av papper, plast, metall, trä eller glas.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-12",
-  "next_publication_date": "2026-11-12",
+  "next_publication_text": "Nästa publicering: 2027-12-03",
+  "next_publication_date": "2027-12-03",
   "responsible_agency": {
     "label": "Naturvårdsverket",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-12",
+        "Nästa publicering: 2027-12-03",
         "Förpackningsstatistiken redovisar återvinningsgraden för förpackningar som uppkommer i Sverige varje år. Förpackningar används för att skydda och presentera en vara och kan till exempel tillverkas av papper, plast, metall, trä eller glas."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-12",
+          "text": "Nästa publicering: 2027-12-03",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI0307&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI0307&period=Forward1Year"
         }
@@ -93,9 +93,9 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Fem materialåtervinningsmål uppnåddes 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/pong/tabell-och-diagram/fem-materialatervinningsmal-uppnaddes-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/pong/tabell-och-diagram/fem-materialatervinningsmal-uppnaddes-2024/"
+          "text": "Fyra materialåtervinningsmål uppnåddes 2025 enligt inrapporterade uppgifter",
+          "href": "/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/pong/tabell-och-diagram/fyra-materialatervinningsmal-uppnaddes-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/avfall/avfall-forpackningar/pong/tabell-och-diagram/fyra-materialatervinningsmal-uppnaddes-2025/"
         }
       ],
       "table_headers": [
@@ -110,9 +110,9 @@
           "Datum"
         ],
         [
-          "Fem materialåtervinningsmål uppnåddes 2024",
+          "Fyra materialåtervinningsmål uppnåddes 2025 enligt inrapporterade uppgifter",
           "Diagram",
-          "2025-12-05"
+          "2026-11-12"
         ]
       ]
     },
@@ -205,6 +205,33 @@
           "anchor": "h1"
         },
         {
+          "text": "Tabeller i Statistikdatabasen",
+          "level": 2,
+          "anchor": "_TabelleriStatistikdatabasen"
+        }
+      ],
+      "paragraphs": [
+        "Total tillförd och återvunnen mängd förpackningar efter förpackningsslag.   År 2025",
+        "2026-11-12"
+      ],
+      "links": [
+        {
+          "text": "Total tillförd och återvunnen mängd förpackningar efter förpackningsslag.   År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0307T2NNN",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/MI0307T2NNN"
+        }
+      ],
+      "table_headers": [],
+      "table_rows": []
+    },
+    {
+      "heading_path": [
+        {
+          "text": "Avfall, förpackningar",
+          "level": 1,
+          "anchor": "h1"
+        },
+        {
           "text": "Dokumentation",
           "level": 2,
           "anchor": "_Dokumentation"
@@ -260,6 +287,7 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2024 (pdf)",
         "2023 (pdf)",
         "2022 (pdf)",
@@ -273,6 +301,11 @@
         "2014 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/bfe765e440e340069570cc3fc3f39952/mi0307_kd_2025_20261112.pdf",
+          "url": "https://www.scb.se/contentassets/bfe765e440e340069570cc3fc3f39952/mi0307_kd_2025_20261112.pdf"
+        },
         {
           "text": "2024 (pdf)",
           "href": "/contentassets/bfe765e440e340069570cc3fc3f39952/mi0307_kd_2024_v1_20251205.pdf",

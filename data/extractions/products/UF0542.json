@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0542",
     "response_url": "https://www.scb.se/UF0542",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/overgang-gymnasieskola--eftergymnasiala-utbildningar/",
-    "fetched_at": "2026-11-09T03:34:26.515210Z",
+    "fetched_at": "2026-11-16T03:37:35.556860Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "573fd7498b2d851ebaec62cf49e98d2a055f40f9a558de6d5227a19cf964cc99",
+    "content_sha256": "1781253c6bf05dcd32758d74b612305edacb68b9cb50ddcbe224cec739af5402",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0542",
   "summary": "Statistiken visar hur många och hur stor andel av dem som avslutar gymnasieskolan som väljer att studera vidare i eftergymnasiala utbildningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-05-26",
+  "next_publication_date": "2027-05-26",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,10 +36,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-05-26",
         "Statistiken visar hur många och hur stor andel av dem som avslutar gymnasieskolan som väljer att studera vidare i eftergymnasiala utbildningar."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-05-26",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0542&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0542&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

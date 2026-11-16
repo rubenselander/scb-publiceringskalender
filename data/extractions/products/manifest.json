@@ -1109,12 +1109,12 @@
       "error": null
     },
     "MI0405": {
-      "status": "fresh",
-      "error": null
+      "status": "retained",
+      "error": "GET https://www.scb.se/MI0405: HTTP 404, 11530 bytes"
     },
     "MI0406": {
-      "status": "fresh",
-      "error": null
+      "status": "retained",
+      "error": "GET https://www.scb.se/MI0406: HTTP 404, 11530 bytes"
     },
     "MI0501": {
       "status": "fresh",

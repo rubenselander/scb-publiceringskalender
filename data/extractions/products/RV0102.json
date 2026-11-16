@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/RV0102",
     "response_url": "https://www.scb.se/RV0102",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/rattsvasende/registrering-av-brott/anmalda-brott/",
-    "fetched_at": "2026-11-09T03:32:48.209149Z",
+    "fetched_at": "2026-11-16T03:35:46.704356Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "9490ba1bbb7b732267233d291bd09affbb71d40886e3cc2508da2a0490a5c687",
+    "content_sha256": "f23778b32391f643d2ff7f2456574e52a1f5f1ac62017b5be8dc9bddae098b05",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/rv0102",
   "summary": "Statistiken visar typ av brott som anmälts och registreras i riket, i län, i kommuner eller i stadsdelarna i Göteborg, Malmö och Stockholm.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-12",
-  "next_publication_date": "2026-11-12",
+  "next_publication_text": "Nästa publicering: 2026-12-17",
+  "next_publication_date": "2026-12-17",
   "responsible_agency": {
     "label": "Brottsförebyggande rådet (Brå)",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-12",
+        "Nästa publicering: 2026-12-17",
         "Statistiken visar typ av brott som anmälts och registreras i riket, i län, i kommuner eller i stadsdelarna i Göteborg, Malmö och Stockholm."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-12",
+          "text": "Nästa publicering: 2026-12-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=RV0102&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=RV0102&period=Forward1Year"
         }

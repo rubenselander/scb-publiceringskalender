@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0701",
     "response_url": "https://www.scb.se/UF0701",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/",
-    "fetched_at": "2026-11-16T03:37:41.228977Z",
+    "fetched_at": "2026-11-23T03:33:24.869396Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ba8b97e10322f44364757162656a4f4327b6a33b1ab983e2e52a287066844e38",
+    "content_sha256": "27733c15b0ccf498f690bf6f0bc57056e3f421225a28b17e07165fb259aaca63",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0701",
   "summary": "Här redovisas årlig statistik över yrkeshögskolans sökande, studerande och examinerade.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-20",
-  "next_publication_date": "2026-11-20",
+  "next_publication_text": "Nästa publicering: 2027-03-23",
+  "next_publication_date": "2027-03-23",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-20",
+        "Nästa publicering: 2027-03-23",
         "Här redovisas årlig statistik över yrkeshögskolans sökande, studerande och examinerade."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-20",
+          "text": "Nästa publicering: 2027-03-23",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0701&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0701&period=Forward1Year"
         }
@@ -95,14 +95,14 @@
         }
       ],
       "paragraphs": [
-        "2026-11-06",
-        "SCB har följt upp en tidigare studie om faktorer som kan spela roll för om den studerande på ett yrkeshögskoleprogram tar examen eller inte. Liksom i den tidigare studien visar resultaten att studerande med höga betyg från gymnasieskolan tar examen i större utsträckning än personer med lägre gymnasiebetyg. Även utbildningsområde och studieform har betydelse för sannolikheten att ta examen."
+        "2026-11-20",
+        "Samtidigt som antalet examinerade från yrkeshögskolan ökade 2025 minskade examensgraden något. Knappt 68 procent av de studerande avslutade sin utbildning med en examen. Männens examensgrad minskade med en procentenhet till 63 procent medan kvinnors examensgrad låg kvar på 72 procent."
       ],
       "links": [
         {
-          "text": "Studerande inom yrkeshögskolan med höga gymnasiebetyg har större sannolikhet att ta examen",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examensgraden-inom-yrkeshogskolan-20212024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examensgraden-inom-yrkeshogskolan-20212024/"
+          "text": "Fler examinerades från yrkeshögskolan 2025",
+          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examinerade-inom-yh-2025/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/statistiknyhet/examinerade-inom-yh-2025/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -350,69 +350,6 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Studerande och examinerade (program)",
-          "href": "javascript:void(0)",
-          "url": "javascript:void(0)"
-        }
-      ],
-      "table_headers": [],
-      "table_rows": []
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Yrkeshögskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Tabeller och diagram",
-          "level": 2,
-          "anchor": "_Tabellerochdiagram"
-        }
-      ],
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "Nyckeltal: Studerande och examinerade inom yrkeshögskolan 2007-2025",
-          "href": "/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/tabell-och-diagram/studerande-och-examinerade/nyckeltal-studerande-och-examinerade-inom-yrkeshogskolan-2007-2025/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/eftergymnasial-yrkesutbildning/yrkeshogskolan/pong/tabell-och-diagram/studerande-och-examinerade/nyckeltal-studerande-och-examinerade-inom-yrkeshogskolan-2007-2025/"
-        }
-      ],
-      "table_headers": [
-        "Namn",
-        "Typ",
-        "Datum"
-      ],
-      "table_rows": [
-        [
-          "Namn",
-          "Typ",
-          "Datum"
-        ],
-        [
-          "Nyckeltal: Studerande och examinerade inom yrkeshögskolan 2007-2025",
-          "Tabell",
-          "2026-03-20"
-        ]
-      ]
-    },
-    {
-      "heading_path": [
-        {
-          "text": "Yrkeshögskolan",
-          "level": 1,
-          "anchor": "h1"
-        },
-        {
-          "text": "Tabeller och diagram",
-          "level": 2,
-          "anchor": "_Tabellerochdiagram"
-        }
-      ],
-      "paragraphs": [],
-      "links": [
-        {
           "text": "Kurser (korta utbildningar)",
           "href": "javascript:void(0)",
           "url": "javascript:void(0)"
@@ -636,7 +573,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudT1gN"
         },
         {
-          "text": "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter kön, utbildningsinriktning, nationell bakgrund och studieform År 2016 - 2024",
+          "text": "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter kön, utbildningsinriktning, nationell bakgrund och studieform År 2016 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudT1hN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudT1hN"
         },
@@ -666,7 +603,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudTab1i"
         },
         {
-          "text": "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter detaljerad utbildningsinriktning. År 2020 - 2024",
+          "text": "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter detaljerad utbildningsinriktning. År 2020 - 2025",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudTab2c",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/YHStudTab2c"
         },
@@ -687,47 +624,47 @@
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön, utbildningsinriktning och ålder. År 2005 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön, utbildningsinriktning, studieregion, studietakt, studieform, utbildningslängd och  examenstyp. År 2005 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön, utbildningsinriktning, utbildningsnivå, gymnasiebakgrund och nationell bakgrund . År 2005 - 2025",
-          "2026-06-03"
+          "2026-11-20"
         ],
         [
-          "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter kön, utbildningsinriktning, nationell bakgrund och studieform År 2016 - 2024",
-          "2026-03-20"
+          "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter kön, utbildningsinriktning, nationell bakgrund och studieform År 2016 - 2025",
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön och detaljerad utbildningsinriktning. År 2012 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön och studiekommun. År 2005 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Medianålder för studerande och examinerade inom yrkeshögskolan efter kön, utbildningsinriktning och nationell bakgrund. År 2005 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Medianålder för studerande och examinerade inom yrkeshögskolan efter kön, studietakt, studieform och examenstyp. År 2005 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolans smala yrkesområden efter kön och utbildningsinriktning. År 2014 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ],
         [
-          "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter detaljerad utbildningsinriktning. År 2020 - 2024",
-          "2026-03-20"
+          "Examinerade, fullföljare och avhoppare inom yrkeshögskolan efter detaljerad utbildningsinriktning. År 2020 - 2025",
+          "2026-11-20"
         ],
         [
           "Studerande och examinerade inom yrkeshögskolan efter kön, utbildningsinriktning, studieregion (FA25), studietakt, studieform, utbildningslängd och examenstyp. År 2024 - 2025",
-          "2026-03-20"
+          "2026-11-20"
         ]
       ]
     },
@@ -1037,8 +974,8 @@
       "links": [
         {
           "text": "2025 (pdf)",
-          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_kd_2025_v1_260320.pdf",
-          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_kd_2025_v1_260320.pdf"
+          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_kd_2025_v1_251120.pdf",
+          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_kd_2025_v1_251120.pdf"
         },
         {
           "text": "2024 (pdf)",
@@ -1193,8 +1130,8 @@
       "links": [
         {
           "text": "2025 (pdf)",
-          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_staf_2025_v1_260320.pdf",
-          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_staf_2025_v1_260320.pdf"
+          "href": "/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_staf_2025_v1_261120.pdf",
+          "url": "https://www.scb.se/contentassets/7f0ba360765049ee8306358458d021ef/uf0701_staf_2025_v1_261120.pdf"
         },
         {
           "text": "2024 (pdf)",

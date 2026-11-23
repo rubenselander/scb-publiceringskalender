@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0107",
     "response_url": "https://www.scb.se/EN0107",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-bransle-gas-och-lagerstatistik/",
-    "fetched_at": "2026-11-16T03:32:37.904453Z",
+    "fetched_at": "2026-11-23T03:29:28.680063Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b4c53ff1fb87f5d6bc513f586d99a7892f46b69d7f4b409b084971f4ba849e08",
+    "content_sha256": "a4dba2a376be8bc6a8c0cd3fd76d2385bc258118bd3eca81c15bbcefe026fdde",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0107",
   "summary": "Månatlig bränsle-, gas- och lagerstatistik visar tillförsel och leveranser av råolja och petroleumprodukter samt flytande biodrivmedel som används i transportsektorn. Uppgifterna kan komma att ändras upp till 24 månader efter publicering.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2026-12-17",
+  "next_publication_date": "2026-12-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -45,12 +45,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2026-12-17",
         "Månatlig bränsle-, gas- och lagerstatistik visar tillförsel och leveranser av råolja och petroleumprodukter samt flytande biodrivmedel som används i transportsektorn. Uppgifterna kan komma att ändras upp till 24 månader efter publicering."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2026-12-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0107&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0107&period=Forward1Year"
         }
@@ -134,7 +134,7 @@
         [
           "Leveranser av bränslen till svensk marknad, månadsvis 2026",
           "Tabell",
-          "2026-10-16"
+          "2026-11-18"
         ]
       ]
     },
@@ -1104,12 +1104,12 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Bränsle-, gas- och lagerstatistik efter bränsleslag och varuflöde. Månad 2023M01 - 2026M08",
+          "text": "Bränsle-, gas- och lagerstatistik efter bränsleslag och varuflöde. Månad 2023M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaruflodBransle",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/VaruflodBransle"
         },
         {
-          "text": "Leveranser av bränslen till svenska marknaden efter varuslag. Månad 2023M01 - 2026M08",
+          "text": "Leveranser av bränslen till svenska marknaden efter varuslag. Månad 2023M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevBSvMark",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevBSvMark"
         },
@@ -1144,12 +1144,12 @@
           "Datum"
         ],
         [
-          "Bränsle-, gas- och lagerstatistik efter bränsleslag och varuflöde. Månad 2023M01 - 2026M08",
-          "2026-10-16"
+          "Bränsle-, gas- och lagerstatistik efter bränsleslag och varuflöde. Månad 2023M01 - 2026M09",
+          "2026-11-18"
         ],
         [
-          "Leveranser av bränslen till svenska marknaden efter varuslag. Månad 2023M01 - 2026M08",
-          "2026-10-16"
+          "Leveranser av bränslen till svenska marknaden efter varuslag. Månad 2023M01 - 2026M09",
+          "2026-11-18"
         ],
         [
           "Varuflöden per bränsleslag. Månad 2018M01 - 2022M12",

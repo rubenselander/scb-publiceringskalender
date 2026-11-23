@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/FM9998",
     "response_url": "https://www.scb.se/FM9998",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/",
-    "fetched_at": "2026-11-16T03:33:02.558732Z",
+    "fetched_at": "2026-11-23T03:29:46.542652Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a42a400d6bb3b236455267193763d34f4dc70e561e36d85b3a76a85ad5b0139d",
+    "content_sha256": "b3dbce69f7a69b8bf44f971c65dc506b0f3e0a9faf267f2173849f20935c6f7e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/fm9998",
   "summary": "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation.",
   "official_statistics_marker": null,
-  "next_publication_text": "Nästa publicering: 2026-11-17",
-  "next_publication_date": "2026-11-17",
+  "next_publication_text": "Nästa publicering: 2026-12-16",
+  "next_publication_date": "2026-12-16",
   "responsible_agency": {
     "label": "Sveriges riksbank",
     "link": {
@@ -46,12 +46,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-17",
+        "Nästa publicering: 2026-12-16",
         "Statistiken innehåller uppgifter om räntebärande värdepapper utgivna av emittenter med svenska organisationsnummer. Det kan exempelvis vara ett företag som ger ut ett certifikat eller en bank som ger ut en obligation."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-17",
+          "text": "Nästa publicering: 2026-12-16",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=FM9998&period=Forward1Year"
         }
@@ -110,14 +110,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-16",
-        "I slutet av september uppgick den sammanlagda svenska räntebärande värdepappersskulden till 9 680 miljarder kronor, vilket är en ökning med 45 miljarder kronor sedan augusti."
+        "2026-11-17",
+        "I slutet av oktober uppgick den sammanlagda svenska räntebärande värdepappersskulden till 9 725 miljarder kronor, vilket är en ökning med 37 miljarder kronor sedan september."
       ],
       "links": [
         {
           "text": "Ökad upplåning i räntebärande värdepapper",
-          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-september-2026/"
+          "href": "/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/emitterade-vardepapper/emitterade-vardepapper/pong/statistiknyhet/emitterade-vardepapper-oktober-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -236,19 +236,19 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M09",
+          "text": "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998Gron"
         },
         {
-          "text": "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M09",
-          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N",
-          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N"
-        },
-        {
-          "text": "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M09",
+          "text": "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T03N"
+        },
+        {
+          "text": "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M10",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FM9998T04N"
         }
       ],
       "table_headers": [
@@ -261,16 +261,16 @@
           "Datum"
         ],
         [
-          "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M09",
-          "2026-10-16"
+          "Utestående och emitterat belopp under månaden, gröna värdepapper. Månad 2022M01 - 2026M10",
+          "2026-11-17"
         ],
         [
-          "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M09",
-          "2026-10-16"
+          "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M10",
+          "2026-11-17"
         ],
         [
-          "Utestående och emitterat belopp under månaden samt räntekostnader. Månad 2013M03 - 2026M09",
-          "2026-10-16"
+          "Förfallostruktur, utestående emitterat belopp. Månad 2013M03 - 2026M10",
+          "2026-11-17"
         ]
       ]
     },

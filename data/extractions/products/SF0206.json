@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0206",
     "response_url": "https://www.scb.se/SF0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-vid-sjukdom-och-funktionsnedsattning/aktivitetsersattning-sjukersattning-och-bostadstillagg/",
-    "fetched_at": "2026-11-16T03:36:06.356835Z",
+    "fetched_at": "2026-11-23T03:32:16.740928Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "7979f7f4bf5ffdf965855808899cc428e0bf308592955ab4cf1102cbf52d0f76",
+    "content_sha256": "9f74e26cc9c4064113806140a6492d69973a1241975a5b5af83d7bd5fe1e758e",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0206",
   "summary": "Statistiken visar antal mottagare, antal nybeviljade mottagare och utbetalt belopp fördelat på kön, ålder, län, omfattning och beloppstyp (inkomstrelaterad ersättning, garantiersättning). Statistiken visas för sjukersättning och aktivitetsersättning samt sjuk- och aktivitetsersättning tillsammans.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-19",
-  "next_publication_date": "2026-11-19",
+  "next_publication_text": "Nästa publicering: 2026-12-21",
+  "next_publication_date": "2026-12-21",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-19",
+        "Nästa publicering: 2026-12-21",
         "Statistiken visar antal mottagare, antal nybeviljade mottagare och utbetalt belopp fördelat på kön, ålder, län, omfattning och beloppstyp (inkomstrelaterad ersättning, garantiersättning). Statistiken visas för sjukersättning och aktivitetsersättning samt sjuk- och aktivitetsersättning tillsammans."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-19",
+          "text": "Nästa publicering: 2026-12-21",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0206&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0206&period=Forward1Year"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0109",
     "response_url": "https://www.scb.se/NV0109",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/foretagens-ekonomi/",
-    "fetched_at": "2026-11-16T03:35:08.585961Z",
+    "fetched_at": "2026-11-23T03:31:35.797920Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "355ba5e2f7b467f2d0bea5d4e2a1799ee17bd4a6eb1e34e34e2b412a437e1691",
+    "content_sha256": "3037ee798b23bd56c09127e27c847ac77824f497e2bda751966f5d16338752ba",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,10 +21,11 @@
   "short_address": "https://www.scb.se/nv0109",
   "summary": "Statistiken innehåller företagsekonomiska uppgifter såsom antal företag och antal anställda, nettoomsättning, produktions- och förädlingsvärde, tillgångar, brutto- och nettoinvesteringar, intäkts- och kostnadsuppgifter och rörelseresultat.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2027-02-17",
+  "next_publication_date": "2027-02-17",
   "responsible_agency": null,
   "notices": [
+    "I samband med publiceringen av referensår 2025 övergår Företagens ekonomi och SCB:s Branschnyckeltal från SNI 2007 till SNI 2025 för redovisning av branscher. Bytet av branschklassifikation innebär att branschernas nivåer och utvecklingstal kan förändras, vilket medför tidsseriebrott i statistiken. För mer information se: Standard för svensk näringsgrensindelning (SNI) .",
     "Nytt från referensår 2024 är att preliminära uppgifter för företagsenhet enligt EU-förordningen (nr 2019/2152) redovisas 10 månader efter referensårets slut. Vidare publiceras statistik för verksamhetsenheter 14 månader efter referensårets slut. Tabellerna har gjorts om för att fläta samma kvartals- och årsstatistiken. Antalet mått har utökats och nyckeltal har lagts till. Alla uppgifter publiceras i löpande priser. I publicering 17 månader efter referensårets slut revideras samtliga uppgifter samt ett antal mått fastprisberäknas.",
     "Från referensår 2022 används nya statistiska enheter i statistiken. Fokus är på företagsenhet, verksamhetsenhet och lokal verksamhetsenhet. Företagsenheterna skapas genom profilering, vilka baseras på den svenska delen av en koncern, vilket ger en större skillnad mellan de redovisade uppgifterna (företagsenhet jämfört med verksamhetsenhet).",
     "Se Det ekonomisk-statistiska systemet (scb.se) för mer information.",
@@ -41,12 +42,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2027-02-17",
         "Statistiken innehåller företagsekonomiska uppgifter såsom antal företag och antal anställda, nettoomsättning, produktions- och förädlingsvärde, tillgångar, brutto- och nettoinvesteringar, intäkts- och kostnadsuppgifter och rörelseresultat."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2027-02-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0109&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0109&period=Forward1Year"
         }
@@ -63,12 +64,18 @@
         }
       ],
       "paragraphs": [
+        "I samband med publiceringen av referensår 2025 övergår Företagens ekonomi och SCB:s Branschnyckeltal från SNI 2007 till SNI 2025 för redovisning av branscher. Bytet av branschklassifikation innebär att branschernas nivåer och utvecklingstal kan förändras, vilket medför tidsseriebrott i statistiken. För mer information se: Standard för svensk näringsgrensindelning (SNI) .",
         "Nytt från referensår 2024 är att preliminära uppgifter för företagsenhet enligt EU-förordningen (nr 2019/2152) redovisas 10 månader efter referensårets slut. Vidare publiceras statistik för verksamhetsenheter 14 månader efter referensårets slut. Tabellerna har gjorts om för att fläta samma kvartals- och årsstatistiken. Antalet mått har utökats och nyckeltal har lagts till. Alla uppgifter publiceras i löpande priser. I publicering 17 månader efter referensårets slut revideras samtliga uppgifter samt ett antal mått fastprisberäknas.",
         "Från referensår 2022 används nya statistiska enheter i statistiken. Fokus är på företagsenhet, verksamhetsenhet och lokal verksamhetsenhet. Företagsenheterna skapas genom profilering, vilka baseras på den svenska delen av en koncern, vilket ger en större skillnad mellan de redovisade uppgifterna (företagsenhet jämfört med verksamhetsenhet).",
         "Se Det ekonomisk-statistiska systemet (scb.se) för mer information.",
         "SCB:s branschnyckeltal kommer fortsatt vara på juridisk enhet."
       ],
       "links": [
+        {
+          "text": "Standard för svensk näringsgrensindelning (SNI)",
+          "href": "/dokumentation/klassifikationer-och-standarder/standard-for-svensk-naringsgrensindelning-sni/",
+          "url": "https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-naringsgrensindelning-sni/"
+        },
         {
           "text": "Det ekonomisk-statistiska systemet (scb.se)",
           "href": "/dokumentation/det-ekonomisk-statistiska-systemet/",
@@ -519,6 +526,11 @@
           "text": "Preliminära basfakta för företag enligt EU-förordningen (nr 2019/2152) efter näringsgren SNI 2007. År 2024",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NSEBasfaktaFEngsPrel",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NSEBasfaktaFEngsPrel"
+        },
+        {
+          "text": "Preliminära basfakta för företag enligt EU-förordningen (nr 2019/2152) efter näringsgren SNI 2025. År 2025",
+          "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NSEBasFEngsPrelSNI25",
+          "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NSEBasFEngsPrelSNI25"
         }
       ],
       "table_headers": [
@@ -569,6 +581,10 @@
         [
           "Preliminära basfakta för företag enligt EU-förordningen (nr 2019/2152) efter näringsgren SNI 2007. År 2024",
           "2025-11-19"
+        ],
+        [
+          "Preliminära basfakta för företag enligt EU-förordningen (nr 2019/2152) efter näringsgren SNI 2025. År 2025",
+          "2026-11-18"
         ]
       ]
     },

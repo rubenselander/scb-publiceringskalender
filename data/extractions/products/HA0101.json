@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HA0101",
     "response_url": "https://www.scb.se/HA0101",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/omsattning-inom-tjanstesektorn/",
-    "fetched_at": "2026-11-16T03:33:03.288668Z",
+    "fetched_at": "2026-11-23T03:29:46.929931Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a7799bd77a12ce15ee2466f22a8efcc87ca3739eb1cf60f4ebb2dc66a0f6a045",
+    "content_sha256": "a3426c5e92c564b24527d3563c97c041b5c90d4fff3cafd6c79c81690917ef49",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/ha0101",
   "summary": "Statistiken är urvals- och registerbaserad och avser att månadsvis mäta omsättningsutvecklingen inom detaljhandeln och kvartalsvis för partihandel och andra tjänstenäringar. Inom undersökningen produceras också månadsvis statistik över hushållens konsumtion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-20",
-  "next_publication_date": "2026-11-20",
+  "next_publication_text": "Nästa publicering: 2026-11-30",
+  "next_publication_date": "2026-11-30",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-20",
+        "Nästa publicering: 2026-11-30",
         "Statistiken är urvals- och registerbaserad och avser att månadsvis mäta omsättningsutvecklingen inom detaljhandeln och kvartalsvis för partihandel och andra tjänstenäringar. Inom undersökningen produceras också månadsvis statistik över hushållens konsumtion. Undersökningen är samordnad med andra konjunkturbaserade undersökningar."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-20",
+          "text": "Nästa publicering: 2026-11-30",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=HA0101&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HA0101&period=Forward1Year"
         }
@@ -342,7 +342,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad 2000M01 - 2026M06",
+          "text": "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad 2000M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterM07X",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/DivtjansterM07X"
         },
@@ -362,8 +362,8 @@
           "Datum"
         ],
         [
-          "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad 2000M01 - 2026M06",
-          "2026-08-21"
+          "Omsättningsutveckling inom tjänstesektorn efter näringsgren SNI2007. Månad 2000M01 - 2026M09",
+          "2026-11-20"
         ],
         [
           "Detaljhandelns omsättning efter näringsgren SNI 2007, index 2021=100. Månad 1991M01 - 2026M09",

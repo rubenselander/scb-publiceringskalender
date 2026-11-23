@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/MI1301",
     "response_url": "https://www.scb.se/MI1301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/",
-    "fetched_at": "2026-11-16T03:34:55.404939Z",
+    "fetched_at": "2026-11-23T03:31:25.043600Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "c0397b1c0bf6b166a6d98b3671c24884fbf7d22abad9f4cbfe2ab7d519004694",
+    "content_sha256": "003a699c8cec00a0fdef027ff63adc29d3cdbdc7277f540989cddd2d513bb1dc",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/mi1301",
   "summary": "Miljöräkenskaper beskriver samband mellan miljö och ekonomi. Det utgår från branscher, hushåll och offentliga myndigheter. De områden som hittills ingår är utsläpp till luft och vatten, avfall, energianvändning, materialflöden, kemikalier, miljöskyddskostnader, miljöföretag, miljöskatter och miljösubventioner samt naturresurser.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-19",
-  "next_publication_date": "2026-11-19",
+  "next_publication_text": "Nästa publicering: 2027-01-27",
+  "next_publication_date": "2027-01-27",
   "responsible_agency": null,
   "notices": [
     "Statistik om Miljöskyddskostnader"
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-19",
+        "Nästa publicering: 2027-01-27",
         "Miljöräkenskaper beskriver samband mellan miljö och ekonomi. Det utgår från branscher, hushåll och offentliga myndigheter. De områden som hittills ingår är utsläpp till luft och vatten, avfall, energianvändning, materialflöden, kemikalier, miljöskyddskostnader, miljöföretag, miljöskatter och miljösubventioner samt naturresurser."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-19",
+          "text": "Nästa publicering: 2027-01-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=MI1301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=MI1301&period=Forward1Year"
         }
@@ -309,7 +309,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Miljöräkenskapernas analysverktyg (Publicerad 2026-05-11)",
+          "text": "Miljöräkenskapernas analysverktyg (Publicerad 2026-11-19)",
           "href": "/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/miljorakenskapernas-analysverktyg2/miljorakenskapernas-analysverktyg/",
           "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/miljoekonomi-och-hallbar-utveckling/miljorakenskaper/pong/tabell-och-diagram/miljorakenskapernas-analysverktyg2/miljorakenskapernas-analysverktyg/"
         }
@@ -326,9 +326,9 @@
           "Datum"
         ],
         [
-          "Miljöräkenskapernas analysverktyg (Publicerad 2026-05-11)",
+          "Miljöräkenskapernas analysverktyg (Publicerad 2026-11-19)",
           "Excel-fil",
-          "2026-05-11"
+          "2026-11-19"
         ]
       ]
     },

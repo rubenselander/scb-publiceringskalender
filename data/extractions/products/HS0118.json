@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/HS0118",
     "response_url": "https://www.scb.se/HS0118",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/halso--och-sjukvard/halsa-och-sjukdomar/statistik-om-stroke/",
-    "fetched_at": "2026-11-16T03:33:19.822718Z",
+    "fetched_at": "2026-11-23T03:30:00.743103Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "53e6f2b6234c38af95df98b9e5e1854f99b15351680028a231cda92258ff7d17",
+    "content_sha256": "354da7d05b6f4e24e4851ad8f34a0e11b61131544ab3c923bd5cc096a63e445a",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/hs0118",
   "summary": "",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-17",
-  "next_publication_date": "2026-11-17",
+  "next_publication_text": "Nästa publicering: Ingen planerad",
+  "next_publication_date": null,
   "responsible_agency": {
     "label": "Socialstyrelsen (SoS)",
     "link": {
@@ -43,15 +43,9 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-17"
+        "Nästa publicering: Ingen planerad"
       ],
-      "links": [
-        {
-          "text": "Nästa publicering: 2026-11-17",
-          "href": "/hitta-statistik/publiceringskalendern/?prodKod=HS0118&period=Forward1Year",
-          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=HS0118&period=Forward1Year"
-        }
-      ],
+      "links": [],
       "table_headers": [],
       "table_rows": []
     },

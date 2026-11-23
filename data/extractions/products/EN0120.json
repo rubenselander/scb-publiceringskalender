@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0120",
     "response_url": "https://www.scb.se/EN0120",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/leveranser-av-fordonsgas-och-vatgas/",
-    "fetched_at": "2026-11-16T03:32:44.960126Z",
+    "fetched_at": "2026-11-23T03:29:34.076870Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "786c4b12101988990926904949ab8ad09c6aaac13ec56a665ff3d847f6a76ad3",
+    "content_sha256": "5a3ed6d71445ef0390378480913023add35541ed8f92362eaa948d76bc68a88f",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0120",
   "summary": "Statistiken visar leveranser av fordonsgas och vätgas till tankställen per månad.\nVid publicering av helåret (i februari) redovisas även leveranser uppdelat per län efter typ av gas. Det redovisas då även antal tankställen.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2026-12-17",
+  "next_publication_date": "2026-12-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2026-12-17",
         "Statistiken visar leveranser av fordonsgas och vätgas till tankställen per månad.\nVid publicering av helåret (i februari) redovisas även leveranser uppdelat per län efter typ av gas. Det redovisas då även antal tankställen."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2026-12-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0120&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0120&period=Forward1Year"
         }
@@ -91,12 +91,12 @@
         }
       ],
       "paragraphs": [
-        "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M08",
-        "2026-10-16"
+        "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M09",
+        "2026-11-18"
       ],
       "links": [
         {
-          "text": "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M08",
+          "text": "Leveranser av fordonsgas (1 000 Nm3) efter typ av fordonsgas. Månad 2012M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFordonsgasM"
         }
@@ -118,12 +118,12 @@
         }
       ],
       "paragraphs": [
-        "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M08",
-        "2026-10-16"
+        "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M09",
+        "2026-11-18"
       ],
       "links": [
         {
-          "text": "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M08",
+          "text": "Leveranser av flytande fordonsgas (1 000 kg) efter typ av fordonsgas. Månad 2020M01 - 2026M09",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/LevFlytFordonsgasM"
         }

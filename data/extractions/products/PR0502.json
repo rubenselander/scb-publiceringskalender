@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/PR0502",
     "response_url": "https://www.scb.se/PR0502",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/",
-    "fetched_at": "2026-11-16T03:35:43.855668Z",
+    "fetched_at": "2026-11-23T03:32:00.272406Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ff00f71b64234189a3e624744cc62278bbc25dd5172d9b87545f772fd875ef0d",
+    "content_sha256": "2fc43f08fdab5a4577a3557986c8dd4ac171f9efaa95d2bbfcc642bb696105ee",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/pr0502",
   "summary": "Indexet mäter kostnadsförändringar för produktionsfaktorer i bostadsbyggande. Inräknat är material av olika slag, som utrustning, löner, transporter med mera. Indexet tar inte hänsyn till marknadssituationen utan baseras på mätningar av en mängd varor och löner. Indextal beräknas för flerbostadshus, gruppbyggda småhus och jordbruksbyggnader, både totalt och för viktigare kostnadsslag.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-16",
-  "next_publication_date": "2026-11-16",
+  "next_publication_text": "Nästa publicering: 2026-12-15",
+  "next_publication_date": "2026-12-15",
   "responsible_agency": null,
   "notices": [
     "BKI byter basår och övergår till kvartalsvis publicering"
@@ -38,12 +38,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-16",
+        "Nästa publicering: 2026-12-15",
         "Indexet mäter kostnadsförändringar för produktionsfaktorer i bostadsbyggande. Inräknat är material av olika slag, som utrustning, löner, transporter med mera. Indexet tar inte hänsyn till marknadssituationen utan baseras på mätningar av en mängd varor och löner. Indextal beräknas för flerbostadshus, gruppbyggda småhus och jordbruksbyggnader, både totalt och för viktigare kostnadsslag."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-16",
+          "text": "Nästa publicering: 2026-12-15",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=PR0502&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=PR0502&period=Forward1Year"
         }
@@ -86,14 +86,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-15",
-        "Byggkostnadsindex för flerbostadshus steg med 0,1 procent i september 2026 jämfört med augusti 2026 (steg 0,6 procent i augusti 2026). Jämfört med september 2025 steg Byggkostnadsindex med 3,9 procent (steg 3,5 procent i augusti 2026)."
+        "2026-11-16",
+        "Byggkostnadsindex för flerbostadshus steg med 0,6 procent i oktober 2026 jämfört med september 2026 (steg 0,1 procent i september 2026). Jämfört med oktober 2025 steg Byggkostnadsindex med 4,8 procent (steg 3,9 procent i september 2026)."
       ],
       "links": [
         {
-          "text": "I stort sett oförändrat Byggkostnadsindex i september 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/pong/statistiknyhet/byggkostnadsindex-for-byggnader-september-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/pong/statistiknyhet/byggkostnadsindex-for-byggnader-september-2026/"
+          "text": "Byggkostnadsindex steg med 0,6 procent i oktober 2026",
+          "href": "/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/pong/statistiknyhet/byggkostnadsindex-for-byggnader-oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/byggkostnadsindex-bki/pong/statistiknyhet/byggkostnadsindex-for-byggnader-oktober-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -188,17 +188,17 @@
         [
           "Byggkostnadsindex för flerbostadshus",
           "Tabell",
-          "2026-10-15"
+          "2026-11-16"
         ],
         [
           "Byggkostnadsindex för gruppbyggda småhus",
           "Tabell",
-          "2026-10-15"
+          "2026-11-16"
         ],
         [
           "Byggkostnadsindex och konsumentprisindex",
           "Diagram",
-          "2026-10-15"
+          "2026-11-16"
         ],
         [
           "Byggkostnadsutvecklingen 1910-2025. Index",
@@ -252,27 +252,27 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2015=100, efter hustyp och kostnadsslag. Månad 2015M01 - 2026M09",
+          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2015=100, efter hustyp och kostnadsslag. Månad 2015M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM2015",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM2015"
         },
         {
-          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 1968=100, efter hustyp och kostnadsslag.  Månad 1975M01 - 2026M09",
+          "text": "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 1968=100, efter hustyp och kostnadsslag.  Månad 1975M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIBOM"
         },
         {
-          "text": "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 2015=100, efter kostnadsslag. Månad 2015M01 - 2026M09",
+          "text": "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 2015=100, efter kostnadsslag. Månad 2015M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIJBM15",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIJBM15"
         },
         {
-          "text": "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 1980=100, efter kostnadsslag. Månad 1980M01 - 2026M09",
+          "text": "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 1980=100, efter kostnadsslag. Månad 1980M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIJBM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIJBM"
         },
         {
-          "text": "Byggkostnadsindex (BKI) för flerbostadshus exkl. moms, 1968=100 efter varuslag Månad 2000M01 - 2026M09",
+          "text": "Byggkostnadsindex (BKI) för flerbostadshus exkl. moms, 1968=100 efter varuslag Månad 2000M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BKIMAM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/BKIMAM"
         },
@@ -292,24 +292,24 @@
           "Datum"
         ],
         [
-          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2015=100, efter hustyp och kostnadsslag. Månad 2015M01 - 2026M09",
-          "2026-10-15"
+          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 2015=100, efter hustyp och kostnadsslag. Månad 2015M01 - 2026M10",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 1968=100, efter hustyp och kostnadsslag.  Månad 1975M01 - 2026M09",
-          "2026-10-15"
+          "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 1968=100, efter hustyp och kostnadsslag.  Månad 1975M01 - 2026M10",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 2015=100, efter kostnadsslag. Månad 2015M01 - 2026M09",
-          "2026-10-15"
+          "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 2015=100, efter kostnadsslag. Månad 2015M01 - 2026M10",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 1980=100, efter kostnadsslag. Månad 1980M01 - 2026M09",
-          "2026-10-15"
+          "Byggkostnadsindex för jordbruksbyggnader exkl. löneglidning och moms, 1980=100, efter kostnadsslag. Månad 1980M01 - 2026M10",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex (BKI) för flerbostadshus exkl. moms, 1968=100 efter varuslag Månad 2000M01 - 2026M09",
-          "2026-10-15"
+          "Byggkostnadsindex (BKI) för flerbostadshus exkl. moms, 1968=100 efter varuslag Månad 2000M01 - 2026M10",
+          "2026-11-16"
         ],
         [
           "Byggkostnadsindex för bostäder exkl. löneglidning och moms, 1968=100, efter hustyp och kostnadsslag. År 1975 - 2025",
@@ -357,17 +357,17 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 2015=100, efter hustyp och kostnadsslag. Kvartal 2015K1 - 2026K2",
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 2015=100, efter hustyp och kostnadsslag. Kvartal 2015K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg15KvN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLg15KvN"
         },
         {
-          "text": "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2021=100 (Eurostat). Kvartal 2000K1 - 2026K2",
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2021=100 (Eurostat). Kvartal 2000K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIEUKvN",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIEUKvN"
         },
         {
-          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 1968=100, efter hustyp och kostnadsslag. Kvartal 1975K1 - 2026K2",
+          "text": "Byggkostnadsindex för bostäder inkl. löneglidning, 1968=100, efter hustyp och kostnadsslag. Kvartal 1975K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLgKv",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/FPIInLgKv"
         },
@@ -387,16 +387,16 @@
           "Datum"
         ],
         [
-          "Byggkostnadsindex för bostäder inkl. löneglidning, 2015=100, efter hustyp och kostnadsslag. Kvartal 2015K1 - 2026K2",
-          "2026-09-15"
+          "Byggkostnadsindex för bostäder inkl. löneglidning, 2015=100, efter hustyp och kostnadsslag. Kvartal 2015K1 - 2026K3",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2021=100 (Eurostat). Kvartal 2000K1 - 2026K2",
-          "2026-09-15"
+          "Byggkostnadsindex för bostäder inkl. löneglidning exkl. moms, 2021=100 (Eurostat). Kvartal 2000K1 - 2026K3",
+          "2026-11-16"
         ],
         [
-          "Byggkostnadsindex för bostäder inkl. löneglidning, 1968=100, efter hustyp och kostnadsslag. Kvartal 1975K1 - 2026K2",
-          "2026-09-15"
+          "Byggkostnadsindex för bostäder inkl. löneglidning, 1968=100, efter hustyp och kostnadsslag. Kvartal 1975K1 - 2026K3",
+          "2026-11-16"
         ],
         [
           "Byggkostnadsindex för bostäder inkl. löneglidning, 1968=100, efter hustyp och kostnadsslag. År 1975 - 2025",

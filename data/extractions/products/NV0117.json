@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/NV0117",
     "response_url": "https://www.scb.se/NV0117",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/",
-    "fetched_at": "2026-11-16T03:35:09.948732Z",
+    "fetched_at": "2026-11-23T03:31:36.996836Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ce275f2a024900c85d31e466dd1112dc068dd0ed5e0c292886d67b45d39c86f0",
+    "content_sha256": "73b1fd5e60ae0833804fc3a00b26683b9b1d65de519d408b7fd4cce3e39370b7",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/nv0117",
   "summary": "Statistiken omfattar till stor del ekonomiska uppgifter inom det civila samhället, vilket innefattar bland annat ideella föreningar, stiftelser och registrerade trossamfund.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-19",
-  "next_publication_date": "2026-11-19",
+  "next_publication_text": "Nästa publicering: 2027-05-27",
+  "next_publication_date": "2027-05-27",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-19",
+        "Nästa publicering: 2027-05-27",
         "Statistiken omfattar till stor del ekonomiska uppgifter inom det civila samhället, vilket innefattar bland annat ideella föreningar, stiftelser och registrerade trossamfund."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-19",
+          "text": "Nästa publicering: 2027-05-27",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=NV0117&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=NV0117&period=Forward1Year"
         }
@@ -63,14 +63,14 @@
         }
       ],
       "paragraphs": [
-        "2026-10-22",
-        "Den totala produktionen inom det civila samhället uppgick till 332,6 miljarder kronor år 2024 varav betalningar från offentlig sektor utgjorde 43,4 miljarder kronor. Förädlingsvärdet uppgick till 193,6 miljarder kronor vilket resulterade i ett bidrag på 3,4 procent till Sveriges BNP, en ökning med 0,1 procentenheter jämfört med 2023."
+        "2026-11-19",
+        "Värdet av det ideella arbetet i Sverige uppskattas till 200 miljarder kronor för 2024. Det motsvarade 3,1 procent av BNP, vilket var något högre än vad detaljhandeln bidrog med samma år. Den ekonomiska värderingen av det ideella arbetet i Sverige har gjorts i ett samarbete mellan Marie Cederschiöld högskola och Statistikmyndigheten SCB."
       ],
       "links": [
         {
-          "text": "Snabbare tillväxttakt i det civila samhället 2024",
-          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-2024/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/statistiknyhet-2024/"
+          "text": "Svenskarna arbetade ideellt för 200 miljarder kronor 2024",
+          "href": "/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/det-frivilliga-arbetets-ekonomiska-varde-2024/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi/civila-samhallet/pong/statistiknyhet/det-frivilliga-arbetets-ekonomiska-varde-2024/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -363,6 +363,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Det frivilliga arbetets ekonomiska värde i Sverige – I relation till BNP",
+          "href": "/publikation/66575",
+          "url": "https://www.scb.se/publikation/66575"
+        },
+        {
           "text": "Satelliträkenskaper för det civila samhället 2024",
           "href": "/publikation/60049",
           "url": "https://www.scb.se/publikation/60049"
@@ -458,6 +463,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Det frivilliga arbetets ekonomiska värde i Sverige – I relation till BNP",
+          "",
+          "2026-11-19"
         ],
         [
           "Satelliträkenskaper för det civila samhället 2024",

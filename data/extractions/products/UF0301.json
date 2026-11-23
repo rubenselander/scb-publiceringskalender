@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0301",
     "response_url": "https://www.scb.se/UF0301",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/forskning-och-det-digitala-samhallet/forskning-och-utveckling/forskning-och-utveckling-i-sverige/",
-    "fetched_at": "2026-11-16T03:37:14.991832Z",
+    "fetched_at": "2026-11-23T03:33:04.434663Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "3e10562666059113b5b4e775b7f808c27b47c185d1af173278bede75eb076de9",
+    "content_sha256": "89d3ffbb2835eaf6f39aa24908926f7d2161a917d374ed35ce5c3a4ed0468dc4",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0301",
   "summary": "Statistiken belyser ekonomiska och personella satsningar på forskning och utveckling (FoU). Den ger en översiktlig bild av FoU-verksamheten i Sverige, hur den fördelar sig mellan olika sektorer och regionalt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2027-01-28",
-  "next_publication_date": "2027-01-28",
+  "next_publication_text": "Nästa publicering: 2026-11-26",
+  "next_publication_date": "2026-11-26",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2027-01-28",
+        "Nästa publicering: 2026-11-26",
         "Statistiken belyser ekonomiska och personella satsningar på forskning och utveckling (FoU). Den ger en översiktlig bild av FoU-verksamheten i Sverige, hur den fördelar sig mellan olika sektorer och regionalt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2027-01-28",
+          "text": "Nästa publicering: 2026-11-26",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0301&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0301&period=Forward1Year"
         }
@@ -881,15 +881,15 @@
         ],
         [
           "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av utgift. Mnkr. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ],
         [
           "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och finansieringskälla. Mnkr. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ],
         [
           "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och typ av FoU. Mnkr. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ],
         [
           "Företagssektorns utgifter för egen FoU efter näringsgren SNI 2025 och storleksklass. Mnkr. Vartannat år 2025",
@@ -897,7 +897,7 @@
         ],
         [
           "Företagssektorns utgifter för utlagd FoU efter näringsgren SNI 2025 och mottagare. Mnkr. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ],
         [
           "Företagssektorns totala utgifter för egen FoU efter produktgrupp CPA 2.2. Mnkr. Vartannat år 2025",
@@ -905,7 +905,7 @@
         ],
         [
           "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och yrke. Antal personer och antal helårspersoner. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ],
         [
           "Intern FoU-personal i företagssektorn efter kön, näringsgren SNI 2025 och storleksklass. Antal personer och antal helårspersoner. Vartannat år 2025",
@@ -913,7 +913,7 @@
         ],
         [
           "Intern FoU-personal i företagssektorn med forskarexamen efter kön och näringsgren SNI 2025. Antal personer. Vartannat år 2025",
-          "2026-10-29"
+          "2026-11-11"
         ]
       ]
     },

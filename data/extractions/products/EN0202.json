@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0202",
     "response_url": "https://www.scb.se/EN0202",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/energibalanser/arliga-energibalanser/",
-    "fetched_at": "2026-11-16T03:32:48.420404Z",
+    "fetched_at": "2026-11-23T03:29:36.518946Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "b4f002841b9be9459957890aca2d324ed6210e574ec1f16d1949d751bfb993b8",
+    "content_sha256": "0e5030809182bb2851db2481672ef5aa24c6da39f3c8039a99ae6775834dadf6",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0202",
   "summary": "Statistiken visar tillförsel, omvandling och slutlig användning av energi efter energibärare, energiflöden och bransch.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2027-11-17",
+  "next_publication_date": "2027-11-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2027-11-17",
         "Statistiken visar tillförsel, omvandling och slutlig användning av energi efter energibärare, energiflöden och bransch."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2027-11-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0202&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0202&period=Forward1Year"
         }

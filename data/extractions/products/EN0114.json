@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/EN0114",
     "response_url": "https://www.scb.se/EN0114",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/energianvandning-inom-byggsektorn/",
-    "fetched_at": "2026-11-16T03:32:41.893309Z",
+    "fetched_at": "2026-11-23T03:29:31.668743Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "4dd67001d09d41aca86902030888a24e3a86cfce7346d5585af9d716e2bd1a54",
+    "content_sha256": "6809a0ebcdd070912d509353b17a787d74c181b46815c283825b6e4afd06f929",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/en0114",
   "summary": "Energianvändningen i byggsektorn är en intermittent undersökning. Den genomfördes senast 2023 och avsåg 2022 års energianvändning. Tidigare undersökningsår är 2017, 2005 och 1986. De år undersökningen inte genomförs modellskattas resultaten. Statistiken publiceras numera på Energimyndighetens webbplats.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2027-11-17",
+  "next_publication_date": "2027-11-17",
   "responsible_agency": {
     "label": "Energimyndigheten",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2027-11-17",
         "Energianvändningen i byggsektorn är en intermittent undersökning. Den genomfördes senast 2023 och avsåg 2022 års energianvändning. Tidigare undersökningsår är 2017, 2005 och 1986. De år undersökningen inte genomförs modellskattas resultaten. Statistiken publiceras numera på Energimyndighetens webbplats."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2027-11-17",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=EN0114&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=EN0114&period=Forward1Year"
         }
@@ -203,11 +203,17 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2022 (pdf)",
         "2017 (pdf)",
         "2004 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/af244d946c514ecaa9a7e02bd9384453/en0114_kd_2025_lw_261118.pdf",
+          "url": "https://www.scb.se/contentassets/af244d946c514ecaa9a7e02bd9384453/en0114_kd_2025_lw_261118.pdf"
+        },
         {
           "text": "2022 (pdf)",
           "href": "/contentassets/af244d946c514ecaa9a7e02bd9384453/kvalitetsdeklaration-en0114-2022.pdf",
@@ -246,10 +252,16 @@
         }
       ],
       "paragraphs": [
+        "2025 (pdf)",
         "2022 (pdf)",
         "2017 (pdf)"
       ],
       "links": [
+        {
+          "text": "2025 (pdf)",
+          "href": "/contentassets/af244d946c514ecaa9a7e02bd9384453/en0114_staf_2025_sh_261118.pdf",
+          "url": "https://www.scb.se/contentassets/af244d946c514ecaa9a7e02bd9384453/en0114_staf_2025_sh_261118.pdf"
+        },
         {
           "text": "2022 (pdf)",
           "href": "/contentassets/af244d946c514ecaa9a7e02bd9384453/staf-en0114-2022.pdf",

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/OE0106",
     "response_url": "https://www.scb.se/OE0106",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/offentlig-ekonomi/finanser-for-den-kommunala-sektorn/kommunernas-och-regionernas-finansiella-tillgangar-och-skulder/",
-    "fetched_at": "2026-11-16T03:35:30.456812Z",
+    "fetched_at": "2026-11-23T03:31:49.507801Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f0c581953956d74caa5d09f2e5ffb68a87a222b5970d21357138453aadca89c5",
+    "content_sha256": "f5b88918275c841cfc492822be339e21c1c3a80ad6c5f3b1eb9d42e129a554fa",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/oe0106",
   "summary": "Statistiken visar kommunernas och regionernas finansiella tillgångar och låneskulder samt deras förändring över tiden. Statistiken visar också vilka placerings- och låneformer som kommunerna och regionerna har valt.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-18",
-  "next_publication_date": "2026-11-18",
+  "next_publication_text": "Nästa publicering: 2027-03-05",
+  "next_publication_date": "2027-03-05",
   "responsible_agency": null,
   "notices": [],
   "tags": [],
@@ -36,12 +36,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-18",
+        "Nästa publicering: 2027-03-05",
         "Statistiken visar kommunernas och regionernas finansiella tillgångar och låneskulder samt deras förändring över tiden. Statistiken visar också vilka placerings- och låneformer som kommunerna och regionerna har valt."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-18",
+          "text": "Nästa publicering: 2027-03-05",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=OE0106&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=OE0106&period=Forward1Year"
         }
@@ -63,12 +63,12 @@
         }
       ],
       "paragraphs": [
-        "Kommunernas resp. regionernas finansiella tillgångar och skulder efter kontopost. Kvartal 2002K1 - 2026K2",
-        "2026-08-21"
+        "Kommunernas resp. regionernas finansiella tillgångar och skulder efter kontopost. Kvartal 2002K1 - 2026K3",
+        "2026-11-18"
       ],
       "links": [
         {
-          "text": "Kommunernas resp. regionernas finansiella tillgångar och skulder efter kontopost. Kvartal 2002K1 - 2026K2",
+          "text": "Kommunernas resp. regionernas finansiella tillgångar och skulder efter kontopost. Kvartal 2002K1 - 2026K3",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KTS",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/KTS"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/AM0401",
     "response_url": "https://www.scb.se/AM0401",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/",
-    "fetched_at": "2026-11-16T03:32:17.871208Z",
+    "fetched_at": "2026-11-23T03:29:11.776277Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "f7f4a6ff39fca9e389b46804c653943c09726e2764018e36865c523559d2cab9",
+    "content_sha256": "b52cb285e932e5babe07fba4a3f01ae7b6551fd2ca1dcada9e1d17920f4b4cb1",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/am0401",
   "summary": "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-20",
-  "next_publication_date": "2026-11-20",
+  "next_publication_text": "Nästa publicering: 2026-12-15",
+  "next_publication_date": "2026-12-15",
   "responsible_agency": null,
   "notices": [
     "Arbetskraftsundersökningarna, tidigare definitioner",
@@ -39,12 +39,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-20",
+        "Nästa publicering: 2026-12-15",
         "Statistiken beskriver utvecklingen på arbetsmarknaden för Sveriges befolkning i åldern 15–74 år. AKU visar bland annat antal och andel sysselsatta respektive arbetslösa per månad, kvartal och år. Utöver detta redovisas vissa tabeller som även omfattar personer i åldern 75–89 år."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-20",
+          "text": "Nästa publicering: 2026-12-15",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=AM0401&period=Forward1Year"
         }
@@ -119,8 +119,8 @@
       ],
       "paragraphs": [
         "Arbetskraftstalet",
-        "75,2 %",
-        "Referenstid: september 2026"
+        "74,6 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -140,7 +140,7 @@
         }
       ],
       "paragraphs": [
-        "0,4 %-enheter",
+        "-0,3 %-enheter",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -162,8 +162,8 @@
       ],
       "paragraphs": [
         "Arbetslöshet",
-        "8,1 %",
-        "Referenstid: september 2026"
+        "7,7 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -183,7 +183,7 @@
         }
       ],
       "paragraphs": [
-        "-0,2 %-enheter",
+        "-1,2 %-enheter",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -205,8 +205,8 @@
       ],
       "paragraphs": [
         "Sysselsatta av befolkningen",
-        "69,1 %",
-        "Referenstid: september 2026"
+        "68,8 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -226,7 +226,7 @@
         }
       ],
       "paragraphs": [
-        "0,5 %-enheter",
+        "0,6 %-enheter",
         "jämfört med samma period föregående år"
       ],
       "links": [],
@@ -248,8 +248,8 @@
       ],
       "paragraphs": [
         "Arbetskraftstalet (säsongrensat och utjämnat)",
-        "76,2 %",
-        "Referenstid: september 2026"
+        "76,1 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -270,8 +270,8 @@
       ],
       "paragraphs": [
         "Arbetslöshet (säsongrensat och utjämnat)",
-        "8,7 %",
-        "Referenstid: september 2026"
+        "8,6 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -292,8 +292,8 @@
       ],
       "paragraphs": [
         "Sysselsatta av befolkningen (säsongrensat och utjämnat)",
-        "69,6 %",
-        "Referenstid: september 2026"
+        "69,5 %",
+        "Referenstid: oktober 2026"
       ],
       "links": [],
       "table_headers": [],
@@ -313,14 +313,14 @@
         }
       ],
       "paragraphs": [
-        "2026-11-03",
-        "Under tredje kvartalet 2026 ökade antalet sysselsatta personer med 74 000 och uppgick till 5 398 000, icke säsongrensat. Antalet arbetade timmar var i genomsnitt 139,2 miljoner per vecka. Antalet arbetslösa var 479 000, vilket motsvarar ett arbetslöshetstal på 8,1 procent. Säsongrensade och utjämnade data visar på en ökning av både antalet och andelen sysselsatta. Det säsongrensade och utjämnade arbetslöshetstalet uppgick till 8,7 procent."
+        "2026-11-20",
+        "I oktober 2026 var 5 267 000 sysselsatta, icke säsongrensat. Antalet arbetade timmar var i genomsnitt 174,0 miljoner timmar per vecka. De arbetslösa minskade med 69 000 till 440 000 i antal och arbetslöshetstalet var 7,7 procent, en minskning med 1,2 procentenheter. Säsongrensade och utjämnade data visar på en ökning av sysselsättningen och en minskning av arbetslösheten. Arbetslöshetstalet uppgick till 8,6 procent."
       ],
       "links": [
         {
-          "text": "Fortsatt positiv utveckling av sysselsättningen under tredje kvartalet 2026",
-          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-tredje-kvartalet-2026/",
-          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-tredje-kvartalet-2026/"
+          "text": "Positiva tecken på arbetsmarknaden",
+          "href": "/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-oktober-2026/",
+          "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-oktober-2026/"
         },
         {
           "text": "Alla statistiknyheter för denna statistik",
@@ -464,7 +464,7 @@
         [
           "Grundtabeller AKU, 15–74 år, månad",
           "Excel-fil",
-          "2026-10-16"
+          "2026-11-20"
         ],
         [
           "Grundtabeller AKU, 15–74 år, kvartal (a)",
@@ -769,7 +769,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefM"
         },
@@ -794,8 +794,8 @@
           "Datum"
         ],
         [
-          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, typ av data, kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -847,7 +847,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvM"
         },
@@ -862,7 +862,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysIarbFrvAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkM"
         },
@@ -877,7 +877,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07M"
         },
@@ -892,7 +892,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysSNI07Ar"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012M"
         },
@@ -907,7 +907,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselYrke2012Ar"
         },
         {
-          "text": "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelM"
         },
@@ -922,7 +922,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSyssStudHelDelAr"
         },
         {
-          "text": "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTM"
         },
@@ -937,7 +937,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUStudArbSnittTAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUHemAlderM"
         },
@@ -992,8 +992,8 @@
           "Datum"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter i arbete/frånvarande hela veckan, typ av data, kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -1004,8 +1004,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, typ av data, kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -1016,8 +1016,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1028,8 +1028,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Månad 2015M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, yrke SSYK 2012 och kön. Kvartal 2015K1 - 2026K3",
@@ -1040,8 +1040,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta som studerar 15-74 år (AKU) efter hel/deltidsstudier, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1052,8 +1052,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta som studerar 15-74 år (AKU) - genomsnittligt antal arbets-/studietimmar per vecka samt antal sysselsatta efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1064,8 +1064,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Månad 2022M07 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU), i arbete, efter arbete hemifrån i referensveckan, kön och ålder. Kvartal 2022K3 - 2026K3",
@@ -1141,7 +1141,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorM"
         },
@@ -1156,7 +1156,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAnstSektorAr"
         },
         {
-          "text": "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M09",
+          "text": "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgM"
         },
@@ -1171,7 +1171,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFacklOrgAr"
         },
         {
-          "text": "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOvertidM"
         },
@@ -1196,8 +1196,8 @@
           "Datum"
         ],
         [
-          "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Anställda 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor, typ av data, kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -1208,8 +1208,8 @@
           "2026-01-23"
         ],
         [
-          "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Anställda 15-74 år (AKU) efter anställningsform, facklig organisation och kön. Kvartal 2005K1 - 2026K3",
@@ -1220,8 +1220,8 @@
           "2026-01-23"
         ],
         [
-          "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Övertid i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter typ av övertid, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1273,7 +1273,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M09",
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimM"
         },
@@ -1288,7 +1288,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAnkSektTimAr"
         },
         {
-          "text": "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidM"
         },
@@ -1303,7 +1303,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtidAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidM"
         },
@@ -1318,7 +1318,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselOkArbtidAr"
         },
         {
-          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidM"
         },
@@ -1343,8 +1343,8 @@
           "Datum"
         ],
         [
-          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, sektor och kön. Kvartal 2001K1 - 2026K3",
@@ -1355,8 +1355,8 @@
           "2026-01-23"
         ],
         [
-          "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelarbetstid (faktisk) per vecka för sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1367,8 +1367,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1379,8 +1379,8 @@
           "2026-01-23"
         ],
         [
-          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1432,7 +1432,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07M"
         },
@@ -1447,7 +1447,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLAtSNI07Ar"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07M"
         },
@@ -1462,7 +1462,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysOkArbtSNI07Ar"
         },
         {
-          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M09",
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07M",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtSNI07M"
         },
@@ -1487,8 +1487,8 @@
           "Datum"
         ],
         [
-          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Antal arbetstimmar (faktiskt arbetad tid) per vecka för personer 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, näringsgren SNI 2007, typ av data, kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -1499,8 +1499,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter veckoarbetstid (överenskommen), näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K3",
@@ -1511,8 +1511,8 @@
           "2026-01-23"
         ],
         [
-          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelarbetstid (överenskommen) per vecka för sysselsatta 15-74 år (AKU) efter näringsgren SNI2007 och kön. Kvartal 2005K1 - 2026K3",
@@ -1564,7 +1564,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M09",
+          "text": "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNM"
         },
@@ -1579,7 +1579,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvOrsakNAr"
         },
         {
-          "text": "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidM"
         },
@@ -1594,7 +1594,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidAr"
         },
         {
-          "text": "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M09",
+          "text": "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvM"
         },
@@ -1619,8 +1619,8 @@
           "Datum"
         ],
         [
-          "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Frånvarande från arbetet/frånvarotimmar 15-74 år under referensveckan (AKU) efter frånvaroorsak, kön och ålder.  Kvartal 2005K1 - 2026K3",
@@ -1631,8 +1631,8 @@
           "2026-01-23"
         ],
         [
-          "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Frånvarande sysselsatta och anställda 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1643,8 +1643,8 @@
           "2026-01-23"
         ],
         [
-          "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder.  Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Frånvaro i huvudsysslan bland anställda 15-74 år (personer och timmar) under referensveckan (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1696,7 +1696,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTM"
         },
@@ -1711,7 +1711,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTAr"
         },
         {
-          "text": "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudM"
         },
@@ -1726,7 +1726,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblheltidstudAr"
         },
         {
-          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTMvM"
         },
@@ -1751,8 +1751,8 @@
           "Datum"
         ],
         [
-          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1763,8 +1763,8 @@
           "2026-01-23"
         ],
         [
-          "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Arbetslösa samt därav heltidsstuderande 15-74 år (AKU) efter kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -1775,8 +1775,8 @@
           "2026-01-23"
         ],
         [
-          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelvärde för arbetslöshetstidens längd samt antal arbetslösa 15-74 år (AKU) efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1828,7 +1828,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakM"
         },
@@ -1843,7 +1843,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLEjAKOrsakAr"
         },
         {
-          "text": "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUEjiarbkrOnsM"
         },
@@ -1868,8 +1868,8 @@
           "Datum"
         ],
         [
-          "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Personer ej i arbetskraften 15-74 år (AKU) efter orsak, typ av data, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1880,8 +1880,8 @@
           "2026-01-23"
         ],
         [
-          "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Ej i arbetskraften, antal personer 15-74 år (AKU) efter önskemål/möjligheter till förvärvsarbete samt efter kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -1933,7 +1933,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M09",
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudM"
         },
@@ -1958,8 +1958,8 @@
           "Datum"
         ],
         [
-          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M09",
-          "2026-10-16"
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Månad 2001M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter kön och ålder. Kvartal 2001K1 - 2026K3",
@@ -2230,7 +2230,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M09",
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfM"
         },
@@ -2245,7 +2245,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefolkningJmfAr"
         },
         {
-          "text": "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfM"
         },
@@ -2260,7 +2260,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFaktMedArbtJmfAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfM"
         },
@@ -2275,7 +2275,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvJmfAr"
         },
         {
-          "text": "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUSysselgradJmfM"
         },
@@ -2300,8 +2300,8 @@
           "Datum"
         ],
         [
-          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej.  Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K3",
@@ -2312,8 +2312,8 @@
           "2026-01-23"
         ],
         [
-          "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelarbetstid (faktisk) för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K3",
@@ -2324,8 +2324,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter kön, civilstånd och om det finns hemmaboende barn eller ej. Kvartal 2005K1 - 2026K3",
@@ -2336,8 +2336,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsättningsgrad för personer 15-74 år (AKU) med hemmaboende barn efter civilstånd, kön och yngsta barnets ålder. Kvartal 2005K1 - 2026K3",
@@ -2389,7 +2389,7 @@
       "paragraphs": [],
       "links": [
         {
-          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrM"
         },
@@ -2404,7 +2404,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArblosaTInrUtrAr"
         },
         {
-          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLBefInrUtrM"
         },
@@ -2424,7 +2424,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUBefUtbnInrUtrAr"
         },
         {
-          "text": "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrM"
         },
@@ -2439,7 +2439,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUFranvTidInrUtrAr"
         },
         {
-          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfM"
         },
@@ -2454,7 +2454,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUOkMedArbtidJmfAr"
         },
         {
-          "text": "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrM"
         },
@@ -2469,7 +2469,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUArbloTMvInrUtrAr"
         },
         {
-          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrM"
         },
@@ -2484,7 +2484,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUAkrUtbudInrUtrAr"
         },
         {
-          "text": "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmM"
         },
@@ -2499,7 +2499,7 @@
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/NAKUMedelvInrUtrJmAr"
         },
         {
-          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
+          "text": "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
           "href": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrM",
           "url": "https://www.statistikdatabasen.scb.se/goto/sv/ssd/AKURLSysAnkInrUtrM"
         },
@@ -2524,8 +2524,8 @@
           "Datum"
         ],
         [
-          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Arbetslösa 15-74 år (AKU) efter arbetslöshetstidens längd (27+ veckor) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2536,8 +2536,8 @@
           "2026-01-23"
         ],
         [
-          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Befolkningen 15-74 år (AKU) efter arbetskraftstillhörighet, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2552,8 +2552,8 @@
           "2026-04-22"
         ],
         [
-          "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Frånvarande sysselsatta 15-74 år (antal och andel) under referensveckan (hela och del av) i huvudsysslan (AKU) efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2564,8 +2564,8 @@
           "2026-01-23"
         ],
         [
-          "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelarbetstid (överenskommen) per vecka för sysselsatta samt antal sysselsatta 15-74 år (AKU) efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2576,8 +2576,8 @@
           "2026-01-23"
         ],
         [
-          "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Medelvärde för arbetslöshetstidens längd och antal arbetslösa 15-74 år (AKU) samt efter inrikes - /utrikes född, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2588,8 +2588,8 @@
           "2026-01-23"
         ],
         [
-          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Outnyttjat arbetskraftsutbud, antal personer 15-74 år och timmar (AKU) för arbetslösa, undersysselsatta och latent arbetssökande efter inrikes -/utrikes födda, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2600,8 +2600,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder.  Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 ÅR (AKU) efter faktisk medelarbetstid, frånvaro- och övertidstimmar per vecka och andel heltidsarbetande (huvudsysslan) samt efter inrikes -/utrikes född, kön och ålder. Kvartal 2005K1 - 2026K3",
@@ -2612,8 +2612,8 @@
           "2026-01-23"
         ],
         [
-          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M09",
-          "2026-10-16"
+          "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Månad 2005M01 - 2026M10",
+          "2026-11-20"
         ],
         [
           "Sysselsatta 15-74 år (AKU) efter anknytningsgrad till arbetsmarknaden, inrikes/utrikes född, typ av data, kön och ålder. Kvartal 2005K1 - 2026K3",

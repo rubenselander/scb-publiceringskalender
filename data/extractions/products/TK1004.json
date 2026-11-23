@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/TK1004",
     "response_url": "https://www.scb.se/TK1004",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/transporter-och-kommunikationer/vagtrafik/vagtrafikskador/",
-    "fetched_at": "2026-11-16T03:36:39.322735Z",
+    "fetched_at": "2026-11-23T03:32:36.544721Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "ae76833ced8cea85f62886db402aaac5b116baf2248aaa0a9141033d1f76f2b3",
+    "content_sha256": "b2c013d17761a7424d75bdd93242985f8e8cc4ec890eaf8bd63dd65537e2bd96",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/tk1004",
   "summary": "Statistiken beskriver konsekvenserna av vägtrafiken i Sverige i form av polisrapporterade olyckor och personskador, där minst ett fordon i rörelse är inblandat.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: Ingen planerad",
-  "next_publication_date": null,
+  "next_publication_text": "Nästa publicering: 2027-04-27",
+  "next_publication_date": "2027-04-27",
   "responsible_agency": {
     "label": "Trafikanalys",
     "link": {
@@ -43,10 +43,16 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: Ingen planerad",
+        "Nästa publicering: 2027-04-27",
         "Statistiken beskriver konsekvenserna av vägtrafiken i Sverige i form av polisrapporterade olyckor och personskador, där minst ett fordon i rörelse är inblandat."
       ],
-      "links": [],
+      "links": [
+        {
+          "text": "Nästa publicering: 2027-04-27",
+          "href": "/hitta-statistik/publiceringskalendern/?prodKod=TK1004&period=Forward1Year",
+          "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=TK1004&period=Forward1Year"
+        }
+      ],
       "table_headers": [],
       "table_rows": []
     },

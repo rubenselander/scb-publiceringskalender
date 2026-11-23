@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/SF0105",
     "response_url": "https://www.scb.se/SF0105",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/socialforsakring-m-m/stod-till-familjer-och-barn/bostadsbidrag-till-barnfamiljer-m-fl/",
-    "fetched_at": "2026-11-16T03:35:59.666998Z",
+    "fetched_at": "2026-11-23T03:32:11.969212Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "d8392deb17caa9e9b66fb3b0382f937721608c7202180604bc4ab9a9a9f69d22",
+    "content_sha256": "41f2af5258ade170ec79c33580aee4ca32b68f0a58aa9cd6e9318559e1c39df0",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/sf0105",
   "summary": "Statistiken visar antal hushåll med bostadsbidrag och utbetalt belopp (preliminära och avstämda uppgifter), genomsnittliga bostadskostnader, genomsnittsinkomst, m.m. fördelat på bland annat hushållstyp, sökandetyp och län.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-16",
-  "next_publication_date": "2026-11-16",
+  "next_publication_text": "Nästa publicering: 2026-12-14",
+  "next_publication_date": "2026-12-14",
   "responsible_agency": {
     "label": "Försäkringskassan",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-16",
+        "Nästa publicering: 2026-12-14",
         "Statistiken visar antal hushåll med bostadsbidrag och utbetalt belopp (preliminära och avstämda uppgifter), genomsnittliga bostadskostnader, genomsnittsinkomst, m.m. fördelat på bland annat hushållstyp, sökandetyp och län."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-16",
+          "text": "Nästa publicering: 2026-12-14",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=SF0105&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=SF0105&period=Forward1Year"
         }

@@ -4,10 +4,10 @@
     "requested_url": "https://www.scb.se/UF0206",
     "response_url": "https://www.scb.se/UF0206",
     "canonical_url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/hogskolevasende/sokande-och-antagna-till-hogskoleutbildning-pa-grundniva-och-avancerad-niva/",
-    "fetched_at": "2026-11-16T03:37:09.899435Z",
+    "fetched_at": "2026-11-23T03:33:00.546596Z",
     "http_status": 200,
     "content_type": "text/html; charset=utf-8",
-    "content_sha256": "a9c3a97898a6b7d2db2dbb3c37d7468f2f725453ded7145ffbe67d7e93999150",
+    "content_sha256": "69bfe79332515fd209a910a6469100f72eed2cc9b7eb7a9489f18d0a1e20c9e5",
     "request_method": "GET",
     "request_parameters": {},
     "request_json_body": null,
@@ -21,8 +21,8 @@
   "short_address": "https://www.scb.se/uf0206",
   "summary": "Statistiken visar sökande och antagna till högskoleutbildning med fokus på dem som inte tidigare studerat i högskolan, indelade efter kön, ålder, program och universitet/högskola.",
   "official_statistics_marker": "Sveriges officiella statistik",
-  "next_publication_text": "Nästa publicering: 2026-11-17",
-  "next_publication_date": "2026-11-17",
+  "next_publication_text": "Nästa publicering: 2027-10-13",
+  "next_publication_date": "2027-10-13",
   "responsible_agency": {
     "label": "Universitetskanslersämbetet",
     "link": {
@@ -43,12 +43,12 @@
         }
       ],
       "paragraphs": [
-        "Nästa publicering: 2026-11-17",
+        "Nästa publicering: 2027-10-13",
         "Statistiken visar sökande och antagna till högskoleutbildning med fokus på dem som inte tidigare studerat i högskolan, indelade efter kön, ålder, program och universitet/högskola."
       ],
       "links": [
         {
-          "text": "Nästa publicering: 2026-11-17",
+          "text": "Nästa publicering: 2027-10-13",
           "href": "/hitta-statistik/publiceringskalendern/?prodKod=UF0206&period=Forward1Year",
           "url": "https://www.scb.se/hitta-statistik/publiceringskalendern/?prodKod=UF0206&period=Forward1Year"
         }
@@ -162,6 +162,11 @@
       "paragraphs": [],
       "links": [
         {
+          "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2026",
+          "href": "/publikation/60821",
+          "url": "https://www.scb.se/publikation/60821"
+        },
+        {
           "text": "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2025",
           "href": "/publikation/56262",
           "url": "https://www.scb.se/publikation/56262"
@@ -232,6 +237,11 @@
           "Titel",
           "",
           "Datum"
+        ],
+        [
+          "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2026",
+          "",
+          "2026-11-17"
         ],
         [
           "Sökande och antagna till högskoleutbildning på grundnivå och avancerad nivå, höstterminen 2025",
